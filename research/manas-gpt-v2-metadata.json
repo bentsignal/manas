@@ -1,0 +1,100 @@
+{
+  "alternate_locations": {
+    "servers": [
+      {
+        "server": "dn710108.ca.archive.org",
+        "dir": "/0/items/manas-gpt-v2"
+      }
+    ],
+    "workable": [
+      {
+        "server": "dn710108.ca.archive.org",
+        "dir": "/0/items/manas-gpt-v2"
+      }
+    ]
+  },
+  "created": 1789354605,
+  "d1": "ia600402.us.archive.org",
+  "d2": "ia800402.us.archive.org",
+  "dir": "/14/items/manas-gpt-v2",
+  "files": [
+    {
+      "name": "manas-gpt-v2.pt",
+      "source": "original",
+      "mtime": "1717284257",
+      "size": "1487890565",
+      "md5": "ad4f9a70f73d7c1c4201a609e38a7419",
+      "crc32": "83baad1d",
+      "sha1": "a3adf302fd9eccedb514e77faec88b094f7c0394",
+      "format": "Unknown"
+    },
+    {
+      "name": "manas-gpt-v2_archive.torrent",
+      "source": "metadata",
+      "btih": "7a2230a8dd86ac866981b5783bef2bee47899149",
+      "mtime": "1775332672",
+      "size": "30017",
+      "md5": "44e197fad853b98357b705b467c72704",
+      "crc32": "63061343",
+      "sha1": "56ee909c5f7952892eddfae8952cce890bda6c48",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "manas-gpt-v2_files.xml",
+      "source": "original",
+      "format": "Metadata",
+      "md5": "4c98fe1264c2e9d853b35c5b5d4adf2b",
+      "summation": "md5"
+    },
+    {
+      "name": "manas-gpt-v2_meta.sqlite",
+      "source": "original",
+      "mtime": "1717284310",
+      "size": "20480",
+      "md5": "2e7fe0193e67e1af292429662e78cac4",
+      "crc32": "ea2b6152",
+      "sha1": "e401b69930f154fb0216431df358d0841f953959",
+      "format": "Metadata"
+    },
+    {
+      "name": "manas-gpt-v2_meta.xml",
+      "source": "original",
+      "mtime": "1775332662",
+      "size": "884",
+      "md5": "cd6e31bf7ada3b446dcd9fdebf579978",
+      "crc32": "57ee0beb",
+      "sha1": "67530b35d246df347e0c936ce0ea11593377749a",
+      "format": "Metadata"
+    }
+  ],
+  "files_count": 5,
+  "item_last_updated": 1775332672,
+  "item_size": 1487941946,
+  "metadata": {
+    "identifier": "manas-gpt-v2",
+    "mediatype": "data",
+    "collection": "opensource_media",
+    "creator": "Janar Osmonaliev",
+    "date": "2024-06-01",
+    "description": "Custom trained GPT Model on Epic of Manas",
+    "language": "kir",
+    "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+    "subject": [
+      "GPT",
+      "Generative AI"
+    ],
+    "title": "manas-gpt-v2",
+    "uploader": "janar.osmonaliev@gmail.com",
+    "publicdate": "2024-06-01 23:24:42",
+    "addeddate": "2024-06-01 23:24:42",
+    "curation": "[curator]validator@archive.org[/curator][date]20240601232604[/date][comment]checked for malware[/comment]",
+    "filesxml": "Sat Apr 4 19:57:42 UTC 2026"
+  },
+  "server": "ia800402.us.archive.org",
+  "uniq": 585972840,
+  "workable_servers": [
+    "ia800402.us.archive.org",
+    "ia600402.us.archive.org"
+  ]
+}

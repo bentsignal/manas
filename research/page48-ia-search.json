@@ -1,0 +1,85 @@
+[
+  [
+    "title:Манас",
+    {
+      "numFound": 4,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "manas-roman-epopeya-kyrgyz",
+          "title": "Манас — Роман-Эпопея: Манас · Семетей · Сейтек (Кыргызча / Kyrgyz, Illustrated Edition)"
+        },
+        {
+          "identifier": "manas-trilogy-sayakbay-karalaev-ky",
+          "title": "Манас (Трилогиянын толук варианты)"
+        },
+        {
+          "identifier": "aporee_63346_72880",
+          "title": "КТУ Манас, мечеть Джал, Бишкек, Кыргызстан - azan 13:11"
+        },
+        {
+          "identifier": "oyid_eyCYPZNfzw",
+          "title": "Вадим Опенйога. Манас, это Защитная структура разума, нужная людям сейчас V2 20230204"
+        }
+      ]
+    }
+  ],
+  [
+    "title:Manas AND language:kir",
+    {
+      "numFound": 4,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "manas-tirtha-parikrama",
+          "title": "4 Manas Tirtha Parikrama"
+        },
+        {
+          "identifier": "manas-roman-epopeya-kyrgyz-latin",
+          "title": "Manas — Roman-Epopeya: Manas · Semetey · Seytek (Kırgızca Latin Transliterasyon / Kyrgyz in Latin Script, Illustrated)"
+        },
+        {
+          "identifier": "manas-gpt-v2",
+          "title": "manas-gpt-v2"
+        },
+        {
+          "identifier": "manas-semetey-seytek-karalaev-kirgizca-turkce",
+          "title": "Manas Üçlemesi — Bütünleşik Külliyat: Manas · Semetey · Seytek (Sayakbay Karalaev Varyantı, Kırgızca–Türkçe)"
+        }
+      ]
+    }
+  ],
+  [
+    "creator:Каралаев",
+    {
+      "numFound": 0,
+      "start": 0,
+      "docs": []
+    }
+  ],
+  [
+    "creator:Karalaev",
+    {
+      "numFound": 4,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "manas-uclemesi-butunlesik-kulliyat-karalaev",
+          "title": "Manas Üçlemesi — Bütünleşik Külliyat: Manas · Semetey · Seytek (Sayakbay Karalaev Varyantı, Kırgızca-Türkçe)"
+        },
+        {
+          "identifier": "manas-trilogy-sayakbay-karalaev-ky",
+          "title": "Манас (Трилогиянын толук варианты)"
+        },
+        {
+          "identifier": "manas-semetey-seytek-karalaev-kirgizca-turkce",
+          "title": "Manas Üçlemesi — Bütünleşik Külliyat: Manas · Semetey · Seytek (Sayakbay Karalaev Varyantı, Kırgızca–Türkçe)"
+        },
+        {
+          "identifier": "manas-trilogy-bilingual-tr-en-karalaev",
+          "title": "Manas Trilogy — Bilingual Edition: Manas · Semetey · Seytek (Sayakbay Karalaev Variant, Turkish-English / Türkçe-İngilizce)"
+        }
+      ]
+    }
+  ]
+]

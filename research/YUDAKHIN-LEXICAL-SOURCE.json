@@ -1,0 +1,9 @@
+{
+  "purpose": "Primary lexical aid only; not poem source and not prior English translation. Dictionary entries consulted selectively; PDF excluded from Git/public site.",
+  "url": "https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf",
+  "local_path": "sources/raw/yudakhin-2015.pdf",
+  "bytes": 9905105,
+  "sha256": "7a244b474ea8d582f5c3efccff5b74a5887ec38726105bfc03a26e077d095968",
+  "retrieved_at": "2026-09-14",
+  "text_cache": "/tmp/yudakhin-2015.txt"
+}

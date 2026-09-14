@@ -3,7 +3,7 @@ import {useCallback,useEffect,useLayoutEffect,useRef,useState} from 'react';
 import {useVirtualizer} from '@tanstack/react-virtual';
 import {windowFor,chunkFor,parseLine} from '../lib/reader-window.mjs';
 type Line={id:string;ordinal:number;en:string;gapBefore?:string};
-type Manifest={version:string;target:number;released:number;reviewed:number;chunkSize:number;complete:boolean;chapters:{title:string;start:number}[]};
+type Manifest={version:string;target:number;released:number;reviewed:number;chunkSize:number;chunks:string[];complete:boolean;chapters:{title:string;start:number}[]};
 export default function Reader({manifest:m,initialLines}:{manifest:Manifest;initialLines:Line[]}){
  const scroller=useRef<HTMLDivElement>(null);
  const cache=useRef(new Map<number,Line[]>(initialLines.length?[[0,initialLines]]:[]));
@@ -25,7 +25,9 @@ export default function Reader({manifest:m,initialLines}:{manifest:Manifest;init
   let alive=true;
   void Promise.all(needed.map(async c=>{
    if(cache.current.has(c))return;
-   const r=await fetch(`/text/${m.version}/${c}.json`,{signal:controller.signal});
+   const hash=m.chunks[c];
+   if(!/^[a-f0-9]{64}$/.test(hash??''))throw new Error('This section is missing from the text index.');
+   const r=await fetch(`/text/chunks/${hash}.json`,{signal:controller.signal});
    if(!r.ok)throw new Error('This section could not be loaded. Your position has been kept.');
    const rows:Line[]=await r.json();
    const expected=Math.min(m.chunkSize,m.released-c*m.chunkSize);
@@ -37,7 +39,7 @@ export default function Reader({manifest:m,initialLines}:{manifest:Manifest;init
    setError('');setRevision(v=>v+1);
   }).catch(e=>{if(alive&&e.name!=='AbortError')setError(e.message);});
   return()=>{alive=false;controller.abort();};
- },[firstChunk,lastChunk,m.chunkSize,m.released,m.version,retry]);
+ },[firstChunk,lastChunk,m.chunkSize,m.chunks,m.released,m.version,retry]);
  const go=useCallback((index:number)=>{
   if(index<0||index>=m.released)return;
   const win=windowFor(index,m.released);

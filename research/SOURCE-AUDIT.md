@@ -136,3 +136,7 @@ Following the request to publish as translation proceeds, the reader now inserts
 ## Draft checkpoint through PDF page419
 
 19,329 draft English lines /108,398 English words compiled; 19,455 lines /109,125 words saved including460–462. Every source display row through419 accounted for in alignment audit, with two explicit unresolved regions. Root460–462 was directly translated with all126 lines visually compared and aligned. No certified500,553verse source or independent expert review claimed.
+
+## Draft checkpoint through PDF page439
+
+20,289 draft English lines /113,483 English words compiled. All source-display rows through439 accounted for by range audit. Reader now uses immutable content-hash chunks referenced by each release manifest; 75 unchanged chunks reused from the previous compiled checkpoint and only5 new chunks for this extension. Full row-by-row English equality, hashes and two gap markers checked. Synthetic append/correction regression plus all existing tests and typecheck pass.

@@ -1,6 +1,7 @@
 import {readFile,mkdir,writeFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {validateRelease,sourceGapLabel} from '../lib/release.mjs';
+import {encodeTextChunks} from '../lib/text-chunks.mjs';
 const root=new URL('../',import.meta.url);
 const read=async p=>JSON.parse(await readFile(new URL(p,root),'utf8'));
 const target=await read('corpus/target.json');const sources=await read('sources/manifest.json');
@@ -22,11 +23,14 @@ await writeFile(new URL('corpus/progress.json',root),JSON.stringify({
 },null,2)+'\n');
 const gapBefore=new Map(gaps.map(g=>[g.before_id,sourceGapLabel(g)]));
 const renderRows=rows.map(({id,ordinal,en})=>({id,ordinal,en,...(gapBefore.has(id)?{gapBefore:gapBefore.get(id)}:{})}));
-const version=rows.length?createHash('sha256').update('reader-chunks-v2\n'+text+JSON.stringify(gaps)).digest('hex').slice(0,16):'audit-2026-09-14';
-const directory=new URL(`public/text/${version}/`,root);await mkdir(directory,{recursive:true});
+const version=rows.length?createHash('sha256').update('reader-chunks-v3\n'+text+JSON.stringify(gaps)).digest('hex').slice(0,16):'audit-2026-09-14';
+const directory=new URL('public/text/chunks/',root);await mkdir(directory,{recursive:true});
 const chunkSize=256;
-for(let i=0;i<rows.length;i+=chunkSize)await writeFile(new URL(`${i/chunkSize}.json`,directory),JSON.stringify(renderRows.slice(i,i+chunkSize))+'\n');
-const manifest={version,target:target.target_lines,...audit,chunkSize,chapters:target.parts.flatMap(p=>{const r=rows.find(r=>r.part===p.id);return r?[{title:p.title,start:r.ordinal}]:[];})};
+const chunks=encodeTextChunks(renderRows,chunkSize);
+for(const chunk of chunks)await writeFile(new URL(`${chunk.hash}.json`,directory),chunk.text);
+const manifest={version,target:target.target_lines,...audit,chunkSize,chunks:chunks.map(c=>c.hash),chapters:target.parts.flatMap(p=>{const r=rows.find(r=>r.part===p.id);return r?[{title:p.title,start:r.ordinal}]:[];})};
 await writeFile(new URL('public/text/initial.json',root),JSON.stringify(renderRows.slice(0,chunkSize).map(({id,ordinal,en,gapBefore})=>({id,ordinal,en,...(gapBefore?{gapBefore}: {})})))+'\n');
 const destination=new URL('public/text/manifest.json',root);await writeFile(destination,JSON.stringify(manifest,null,2)+'\n');
+await mkdir(new URL('public/text/versions/',root),{recursive:true});
+await writeFile(new URL(`public/text/versions/${version}.json`,root),JSON.stringify(manifest)+'\n');
 console.log(JSON.stringify(audit));

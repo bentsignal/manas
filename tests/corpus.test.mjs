@@ -1,9 +1,19 @@
 import assert from 'node:assert/strict';import test from 'node:test';
+import {encodeTextChunks} from '../lib/text-chunks.mjs';
 import {validateRelease} from '../lib/release.mjs';import {windowFor,parseLine,chunkFor,WINDOW_SIZE} from '../lib/reader-window.mjs';
 const target={target_lines:2,parts:[{id:'manas',reported_lines:1},{id:'continuations',reported_lines:1}],completeness_verified:true,reconciliation_evidence:'research/reconciliation.md'};
 const sources=[{id:'s',sha256:'abc',publication_basis:'Documented permission'}];
 const line=(i,part)=>({ordinal:i,id:`s:${i}`,ky:'Кыргызча',en:'English',status:'reviewed',part,source_id:'s',source:{url:'https://example.org/source.pdf',page:i},transcription_status:'verified',review:{reviewer:'Test fixture',evidence:'fixture',date:'2026-09-14'}});
 const rows=[line(1,'manas'),line(2,'continuations')];
+test('append and correction retain unchanged chunk URLs and readable old chunks',()=>{
+ const fixture=Array.from({length:513},(_,i)=>({id:`fixture:${i}`,ordinal:i+1,en:`Synthetic test row ${i}`}));
+ const before=encodeTextChunks(fixture),after=encodeTextChunks([...fixture,{id:'fixture:513',ordinal:514,en:'New synthetic test row'}]);
+ assert.deepEqual(after.slice(0,2),before.slice(0,2));assert.notEqual(after[2].hash,before[2].hash);
+ assert.equal(JSON.parse(before[2].text).length,1);assert.equal(JSON.parse(after[2].text).length,2);
+ const corrected=encodeTextChunks(fixture.map((r,i)=>i===270?{...r,en:'Corrected synthetic row'}:r));
+ assert.equal(corrected[0].hash,before[0].hash);assert.notEqual(corrected[1].hash,before[1].hash);assert.equal(corrected[2].hash,before[2].hash);
+ assert.deepEqual(before.flatMap(c=>JSON.parse(c.text)),fixture);
+});
 test('completion requires continuations and documentary evidence',()=>{assert.equal(validateRelease(rows,target,sources).complete,true);assert.equal(validateRelease(rows.slice(0,1),target,sources).complete,false);assert.equal(validateRelease(rows,{...target,reconciliation_evidence:null},sources).complete,false);assert.equal(validateRelease(rows.map(r=>({...r,status:'draft'})),target,sources).complete,false);});
 test('reject missing lines, duplicate IDs, untranslated rows, invented reviews and unverified source',()=>{for(const bad of [[{...rows[0],ordinal:2}], [rows[0],{...rows[1],id:rows[0].id}], [{...rows[0],en:''}], [{...rows[0],review:null}], [{...rows[0],transcription_status:'unreviewed'}]])assert.throws(()=>validateRelease(bad,target,sources));assert.throws(()=>validateRelease(rows,target,[{id:'s',sha256:'abc'}]));});
 test('half million lines stay within a bounded physical scroll window',()=>{for(const index of [0,1,2047,2048,84512,400669,500552]){const w=windowFor(index,500553);assert.ok(w.count<=WINDOW_SIZE);assert.ok(index>=w.start&&index<w.start+w.count);assert.ok(w.start+w.count<=500553);}assert.throws(()=>windowFor(500553,500553));});

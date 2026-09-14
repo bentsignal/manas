@@ -2562,5 +2562,35 @@
       ]
     },
     "note": "UNRESOLVED: Капчыгай элек эр болдук. We were a gorge, became эр does not yield a securely interpretable complete contrast; possible эр erosion/ground or corrupt reading requires more evidence."
+  },
+  {
+    "id": "semetey-1-2013:p0087:b003:l001:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0086:b004:l039",
+    "before_id": "semetey-1-2013:p0087:b003:l002",
+    "source_line_ids": [
+      "semetey-1-2013:p0087:b003:l001"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0087-0089.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 87,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0087:b003:l001",
+          "raw": "Óëóêòóãóì ñûíäàáû!",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 143.0997,
+            "xMax": 202.4568,
+            "yMax": 156.2877
+          }
+        }
+      ]
+    },
+    "note": "Unresolved сындабы in Улуктугум сындабы!: prior draft 'Has my dignity been broken?' treated it as broken, but primary Yudakhin сын and 1969 dictionary give сында жок as perfect/beyond criticism, including Улуктугуң сында жок. Printed form lacks жок and is not сынды; the complete rhetorical sense remains uncertain. https://el-sozduk.kg/сын/"
   }
 ]

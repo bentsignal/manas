@@ -12,5 +12,6 @@ const directory=new URL(`public/text/${version}/`,root);await mkdir(directory,{r
 const chunkSize=256;
 for(let i=0;i<rows.length;i+=chunkSize)await writeFile(new URL(`${i/chunkSize}.json`,directory),JSON.stringify(rows.slice(i,i+chunkSize))+'\n');
 const manifest={version,target:target.target_lines,...audit,chunkSize,chapters:target.parts.flatMap(p=>{const r=rows.find(r=>r.part===p.id);return r?[{title:p.title,start:r.ordinal}]:[];})};
+await writeFile(new URL('public/text/initial.json',root),JSON.stringify(rows.slice(0,chunkSize).map(({id,ordinal,en})=>({id,ordinal,en})))+'\n');
 const destination=new URL('public/text/manifest.json',root);await writeFile(destination,JSON.stringify(manifest,null,2)+'\n');
 console.log(JSON.stringify(audit));

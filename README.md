@@ -2,7 +2,7 @@
 
 An unabridged English translation project for the complete recorded Sayakbay Karalaev corpus, targeting the reported 500,553 lines including continuations. **Not a completed translation.**
 
-Read [the source audit](research/SOURCE-AUDIT.md) before translating. Current status: four candidate PDFs acquired, 401,930 unreviewed extracted text lines (not verses), zero certified source verses, zero released translations. No complete English predecessor was found, but priority is not established.
+Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPENING-PILOT.md) before translating. Current status: four candidate PDFs acquired, 401,930 unreviewed extracted text lines (not verses), zero certified archival verse counts, 92 draft English rows released. No complete English predecessor was found, but priority is not established.
 
 ## Workflows
 
@@ -18,7 +18,7 @@ Only the manifest is server-rendered. The continuous reader fetches 256-line chu
 
 Runtime scroll rebasing has unit coverage for index arithmetic but still requires browser verification with a licensed, nonempty corpus. Do not describe it as performance-tested at production scale.
 
-Source PDFs, raw research HTML and extracted text are local-only and excluded from source pushes. Public release data must carry a documented publication basis. Research notes stay in the repository. The page is empty until real translations are ready; there are no padded verses or fabricated demo lines.
+Source PDFs, raw research HTML and extracted text are local-only and excluded from source pushes. Public release data must carry a documented publication basis. Research notes stay in the repository. The page now contains the opening draft; there are no padded verses or fabricated demo lines.
 
 ## Release records
 

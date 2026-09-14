@@ -2,18 +2,18 @@
 import {useCallback,useEffect,useLayoutEffect,useRef,useState} from 'react';
 import {useVirtualizer} from '@tanstack/react-virtual';
 import {windowFor,chunkFor,parseLine} from '../lib/reader-window.mjs';
-type Line={id:string;ordinal:number;ky:string;en:string;status:'draft'|'reviewed';source:{url:string;page:number};note?:string};
+type Line={id:string;ordinal:number;en:string};
 type Manifest={version:string;target:number;released:number;reviewed:number;chunkSize:number;complete:boolean;chapters:{title:string;start:number}[]};
-export default function Reader({manifest:m}:{manifest:Manifest}){
+export default function Reader({manifest:m,initialLines}:{manifest:Manifest;initialLines:Line[]}){
  const scroller=useRef<HTMLDivElement>(null);
- const cache=useRef(new Map<number,Line[]>());
+ const cache=useRef(new Map<number,Line[]>(initialLines.length?[[0,initialLines]]:[]));
  const [revision,setRevision]=useState(0);
  const [start,setStart]=useState(0);
  const [error,setError]=useState('');
  const [retry,setRetry]=useState(0);
  const anchor=useRef<{index:number;intra:number}|null>(null);
  const count=Math.min(2048,Math.max(0,m.released-start));
- const virtual=useVirtualizer({count,getScrollElement:()=>scroller.current,estimateSize:()=>18,overscan:12,getItemKey:useCallback((i:number)=>start+i,[start])});
+ const virtual=useVirtualizer({count,initialRect:{width:512,height:800},getScrollElement:()=>scroller.current,estimateSize:()=>18,overscan:12,getItemKey:useCallback((i:number)=>start+i,[start])});
  const visible=virtual.getVirtualItems();
  const first=visible[0]?.index??0;
  const last=visible[visible.length-1]?.index??0;

@@ -1,15 +1,20 @@
 {
-  "version": "audit-2026-09-14",
+  "version": "b71577c6a56c043f",
   "target": 500553,
-  "released": 0,
+  "released": 92,
   "reviewed": 0,
   "complete": false,
   "perPart": {
-    "manas": 0,
+    "manas": 92,
     "semetey": 0,
     "seytek": 0,
     "continuations": 0
   },
   "chunkSize": 256,
-  "chapters": []
+  "chapters": [
+    {
+      "title": "Manas",
+      "start": 1
+    }
+  ]
 }

@@ -87,4 +87,4 @@ Completion requires source reconciliation, every target line accounted for, all 
 
 ## Current status
 
-Four PDFs acquired; structured extraction complete; 0 certified source verses; 0 published English lines. No paid bulk translation run has started. No expert review or institutional correspondence has occurred. Source completeness and publication basis remain unresolved.
+Four PDFs acquired; structured extraction complete. Opening pilot: 92 draft English rows cover every verse display line on PDF pages 16–17, with one provisional wrapped-line join. Digital-witness transcription visually checked; archival lineation and full-corpus completeness remain unverified. See [opening pilot notes](OPENING-PILOT.md). No paid bulk translation run has started. No expert review or institutional correspondence has occurred. Source completeness remains unresolved. A traditional-folklore publication basis is documented for the opening pilot only; rights in modern editorial material and the full edition remain unverified.

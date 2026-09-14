@@ -1,9 +1,10 @@
 {
-  "status": "applied-before-first-publication",
+  "status": "published-and-verified-version-50",
   "id": "semetey-1-2013:p0754:b003:l027",
   "old": "The wretched bird called the harrier",
   "new": "The wretched bird called the kite",
   "note": "Primary Yudakhin кулаалы denotes forest buzzard/kite; only ак кулаалы specifies a male harrier. Root and worker independently read the full entry. Corrected broad bird designation to kite; no species-level modern identification claimed.",
   "delta_verses": 0,
-  "delta_english_words": 0
+  "delta_english_words": 0,
+  "release": "research/releases/version-0050.json"
 }

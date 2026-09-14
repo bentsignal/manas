@@ -1,9 +1,10 @@
 {
-  "status": "applied-to-canonical-awaiting-next-publication",
+  "status": "published-and-verified-version-50",
   "source_id": "semetey-1-2013:p0691:b003:l019",
   "english": "I learned from those who knew,",
   "delta_verses": 1,
   "delta_english_words": 6,
   "review": "Worker proposed; coordinator independently inspected page691 and read complete primary dictionary entries ула-I4 and уламаI2. Source and owned batch synchronized; one gap removed.",
-  "evidence": "research/691-RESTORATION-PROPOSAL.json"
+  "evidence": "research/691-RESTORATION-PROPOSAL.json",
+  "release": "research/releases/version-0050.json"
 }

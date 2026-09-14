@@ -1,0 +1,42 @@
+{
+  "version": {
+    "id": "appgprj_6aa74f8cddfc819192d7413a61a1672a~appgver_bec03be90c2881918dc6907b19eea763",
+    "project_id": "appgprj_6aa74f8cddfc819192d7413a61a1672a",
+    "version_number": 50,
+    "source": {
+      "commit_sha": "88fce3cd056648c34e39e59af8a65fc335787788"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_000000008fe081f5b3b701b5e691bdb8",
+      "content_hash": "sha256:2aedb7c4803fd9565f241e1a23eb33e7fc9c7a70488ed1a978d0b042df643f04",
+      "size_bytes": 97822720,
+      "file_count": 1381
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6aa8884aa3208191b6fa0b434cfc3e35",
+    "project_id": "appgprj_6aa74f8cddfc819192d7413a61a1672a",
+    "title": "Manas — Every line",
+    "version_id": "appgprj_6aa74f8cddfc819192d7413a61a1672a~appgver_bec03be90c2881918dc6907b19eea763",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://manas-every-line.bentsignal.chatgpt.site",
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6aa74f8cddfc819192d7413a61a1672a",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-09-14T23:50:47.212845+00:00"
+  },
+  "verification": {
+    "manifest": "a09a96dc51f7c68d",
+    "translatedVerses": 134613,
+    "englishWords": 750537,
+    "unresolvedRegions": 549,
+    "lastSourceId": "semetey-1-2013:p0760:b004:l039",
+    "command": "python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site",
+    "exitCode": 0
+  }
+}

@@ -8521,36 +8521,6 @@
     "note": "Көктөн жылдыз козголгун: star-from-sky imperative image has unresolved subject/scope; no guessed celestial oath. Entire verse retained as unresolved source and not counted as English translation."
   },
   {
-    "id": "semetey-1-2013:p0511:b003:l036:unresolved-verse",
-    "kind": "meaning_unresolved",
-    "status": "unresolved",
-    "source_id": "semetey-1-2013",
-    "after_id": "semetey-1-2013:p0511:b003:l035",
-    "before_id": "semetey-1-2013:p0511:b003:l037",
-    "source_line_ids": [
-      "semetey-1-2013:p0511:b003:l036"
-    ],
-    "evidence": "corpus/batches/pages-semetey1-0506-0525.json",
-    "source": {
-      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
-      "page": 511,
-      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-      "segments": [
-        {
-          "id": "semetey-1-2013:p0511:b003:l036",
-          "raw": "Îëóÿòòûí ºç¿ ýëåì, ×óáàê,",
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 640.1397,
-            "xMax": 242.2164,
-            "yMax": 653.3277
-          }
-        }
-      ]
-    },
-    "note": "Олуят name/patronymic versus excellent/holy-person reading unresolved; prior provisional proper-name English withdrawn pending primary evidence. Parent consulted. Entire verse retained as unresolved source and not counted as English translation."
-  },
-  {
     "id": "semetey-1-2013:p0511:b004:l003:unresolved-verse",
     "kind": "meaning_unresolved",
     "status": "unresolved",
@@ -8819,36 +8789,6 @@
       ]
     },
     "note": "Буласын булап оңолуп: lexical plunder valuables possible but possessive/referent/action in infant flight recollection unresolved; no invented seizure or fabric restoration. Entire verse retained as unresolved source and not counted as English translation."
-  },
-  {
-    "id": "semetey-1-2013:p0517:b004:l016:unresolved-verse",
-    "kind": "meaning_unresolved",
-    "status": "unresolved",
-    "source_id": "semetey-1-2013",
-    "after_id": "semetey-1-2013:p0517:b004:l015",
-    "before_id": "semetey-1-2013:p0517:b004:l017",
-    "source_line_ids": [
-      "semetey-1-2013:p0517:b004:l016"
-    ],
-    "evidence": "corpus/batches/pages-semetey1-0506-0525.json",
-    "source": {
-      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
-      "page": 517,
-      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-      "segments": [
-        {
-          "id": "semetey-1-2013:p0517:b004:l016",
-          "raw": "Îëóÿò áåðãåí áàòà äåï,",
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 356.2197,
-            "xMax": 446.1792,
-            "yMax": 369.4077
-          }
-        }
-      ]
-    },
-    "note": "Олуят name/patronymic versus excellent/holy-person reading unresolved; prior provisional proper-name English withdrawn pending primary evidence. Parent consulted. Entire verse retained as unresolved source and not counted as English translation."
   },
   {
     "id": "semetey-1-2013:p0517:b004:l035:unresolved-verse",

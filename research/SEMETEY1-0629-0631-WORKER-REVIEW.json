@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-14",
+  "reviewer": "Codex worker complete_source_resume, distinct from drafting coordinator; same model, not independent specialist",
+  "status": "All four proposals applied by coordinator to owned batch after primary lexical check and pair reread; not yet canonical or live",
+  "individual_images": [
+    "/tmp/manas-root-next-0629.png",
+    "/tmp/manas-root-next-0630.png",
+    "/tmp/manas-root-next-0631.png"
+  ],
+  "all_230_pairs_read": true,
+  "coverage": "225 English verses plus5 held logical verses, four wraps; no omission or grouping fault found",
+  "batch_sha256": "a3affbebe632098a73c715c236d83be635860bd4932565aeb3c66713964d007d",
+  "english_sha256": "c924ff0ba5cb80b529ba24c6f230850e19d4d8eca803bbde46770fd36fae2362",
+  "proposals": [
+    {
+      "id": "semetey-1-2013:p0629:b003:l021",
+      "old": "He died, struck down by a bullet.",
+      "new": "He died, struck down by a shot.",
+      "reason": "ок does not force bullet. Prior verse9 explicitly no gunfire,18–19 boy enters with spear. Generic shot retains death by projectile without assuming firearm."
+    },
+    {
+      "id": "semetey-1-2013:p0629:b004:l001",
+      "old": "From his father, generous Manas,",
+      "new": "From the boy's father, generous Manas,",
+      "reason": "Disambiguates source focal boy Semetey, already stated by coordinator note; avoids English proximity implying Bakai son of Manas."
+    },
+    {
+      "id": "semetey-1-2013:p0630:b003:l006",
+      "old": "With his father, the warrior Manas,",
+      "new": "With the boy's father, warrior Manas,",
+      "reason": "Same focal Semetey referent, no invented genealogy."
+    },
+    {
+      "id": "semetey-1-2013:p0630:b004:l001",
+      "old": null,
+      "new": "Traveling over the summit,",
+      "reason": "Qualified contextual restoration: preceding630:3:36 mountain tops and39 leading wether. Primary Yudakhin PDF126 бастыр6 идти, ехать шагом permits travel, not only pressure. Төбөсүнөн summit above; subject remains Bolokbay. Root to assess before restoration."
+    }
+  ],
+  "remaining_gaps": "6293:34/35 and6294:23,6313:29 remain unresolved; no guessed substitutes proposed.",
+  "final_counts": {
+    "translated_verses": 226,
+    "english_words": 1234,
+    "held_verses": 4
+  },
+  "final_batch_sha256": "9426ac175d70560387a98b9b04d465eb4bd2047892fb574f1de3c66dda317ee8",
+  "final_english_sha256": "b8bcc4d8ae2f7865736e9f491032315ce96c469c2cae2d8aa066830e7c8af18c"
+}

@@ -420,6 +420,7 @@
     "semetey-1-2013:p0511:b003:l033",
     "semetey-1-2013:p0511:b003:l034",
     "semetey-1-2013:p0511:b003:l035",
+    "semetey-1-2013:p0511:b003:l036",
     "semetey-1-2013:p0511:b003:l037",
     "semetey-1-2013:p0511:b003:l038",
     "semetey-1-2013:p0511:b003:l039",
@@ -883,6 +884,7 @@
     "semetey-1-2013:p0517:b004:l013",
     "semetey-1-2013:p0517:b004:l014",
     "semetey-1-2013:p0517:b004:l015",
+    "semetey-1-2013:p0517:b004:l016",
     "semetey-1-2013:p0517:b004:l017",
     "semetey-1-2013:p0517:b004:l018",
     "semetey-1-2013:p0517:b004:l019",
@@ -1902,11 +1904,6 @@
       "reason": "Көктөн жылдыз козголгун: star-from-sky imperative image has unresolved subject/scope; no guessed celestial oath. Entire verse retained as unresolved source and not counted as English translation."
     },
     {
-      "id": "semetey-1-2013:p0511:b003:l036",
-      "kind": "unresolved_source",
-      "reason": "Олуят name/patronymic versus excellent/holy-person reading unresolved; prior provisional proper-name English withdrawn pending primary evidence. Parent consulted. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
       "id": "semetey-1-2013:p0511:b004:l003",
       "kind": "unresolved_source",
       "reason": "Printed күйө could be dialect witness (primary күйө=күбө) or a burning/grieving converb; construction not securely resolved, no unsupported son-in-law substitution. Entire verse retained as unresolved source and not counted as English translation."
@@ -1950,11 +1947,6 @@
       "id": "semetey-1-2013:p0517:b003:l029",
       "kind": "unresolved_source",
       "reason": "Буласын булап оңолуп: lexical plunder valuables possible but possessive/referent/action in infant flight recollection unresolved; no invented seizure or fabric restoration. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0517:b004:l016",
-      "kind": "unresolved_source",
-      "reason": "Олуят name/patronymic versus excellent/holy-person reading unresolved; prior provisional proper-name English withdrawn pending primary evidence. Parent consulted. Entire verse retained as unresolved source and not counted as English translation."
     },
     {
       "id": "semetey-1-2013:p0517:b004:l035",
@@ -2291,40 +2283,6 @@
     },
     {
       "source_ids": [
-        "semetey-1-2013:p0511:b003:l036"
-      ],
-      "raw": [
-        "Îëóÿòòûí ºç¿ ýëåì, ×óáàê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0511:b003:l036",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 511,
-          "block": 3,
-          "line_in_block": 36,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 640.1397,
-            "xMax": 242.2164,
-            "yMax": 653.3277
-          },
-          "raw": "Îëóÿòòûí ºç¿ ýëåì, ×óáàê,",
-          "text": "Олуяттын өзү элем, Чубак,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Олуят name/patronymic versus excellent/holy-person reading unresolved; prior provisional proper-name English withdrawn pending primary evidence. Parent consulted. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0511:b003:l035",
-      "following_source": "semetey-1-2013:p0511:b003:l037",
-      "rendered_page": "tmp/pdfs/semetey1-0506-0525/page-0511.png"
-    },
-    {
-      "source_ids": [
         "semetey-1-2013:p0511:b004:l003"
       ],
       "raw": [
@@ -2631,40 +2589,6 @@
     },
     {
       "source_ids": [
-        "semetey-1-2013:p0517:b004:l016"
-      ],
-      "raw": [
-        "Îëóÿò áåðãåí áàòà äåï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0517:b004:l016",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 517,
-          "block": 4,
-          "line_in_block": 16,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 356.2197,
-            "xMax": 446.1792,
-            "yMax": 369.4077
-          },
-          "raw": "Îëóÿò áåðãåí áàòà äåï,",
-          "text": "Олуят берген бата деп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Олуят name/patronymic versus excellent/holy-person reading unresolved; prior provisional proper-name English withdrawn pending primary evidence. Parent consulted. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0517:b004:l015",
-      "following_source": "semetey-1-2013:p0517:b004:l017",
-      "rendered_page": "tmp/pdfs/semetey1-0506-0525/page-0517.png"
-    },
-    {
-      "source_ids": [
         "semetey-1-2013:p0517:b004:l035"
       ],
       "raw": [
@@ -2895,7 +2819,9 @@
     "semetey-1-2013:p0519:b004:l021": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0520:b003:l020": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0521:b005:l020": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0525:b004:l016": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained."
+    "semetey-1-2013:p0525:b004:l016": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0511:b003:l036": "Primary1960 Semetey glossary PDF373 explicitly Олуят = a person able to foresee events, equivalent to олуя. Root individually inspected glossary373 and source511/517 images and full surrounding context. Common-noun holy sage reading here; source spelling and raw extraction unchanged. Distinct511:3:5 named foster father Oluyat remains unchanged. First-person өзү элем retained; the narrator’s identification with Bakay in the next verse is not rewritten into a new speaker.",
+    "semetey-1-2013:p0517:b004:l016": "Primary1960 Semetey glossary PDF373 explicitly Олуят = a person able to foresee events, equivalent to олуя. Root individually inspected glossary373 and source511/517 images and full surrounding context. Common-noun holy sage reading here; source spelling and raw extraction unchanged. Distinct511:3:5 named foster father Oluyat remains unchanged. Part of reported Taz speech learned in Bukhara, preserving деп and the giving of a blessing; no particular named saint inferred."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -2924,29 +2850,29 @@
       525
     ],
     "evidence": "All 20 individual Poppler images inspected at 1800px in tmp/pdfs/semetey1-0506-0525/page-0506.png through page-0525.png. Complete left column then right; all running titles, folios and five printer signatures classified. Twenty-seven indented wraps reviewed manually, no fixed verse-row assumption. Exact source IDs, PDF SHA, raw strings, bboxes and legacy-font-v1 mapping preserved.",
-    "pair_review": "All 1533 reconstructed source/English positions read from full paired outputs, in two two-page drafts and sixteen one-page drafts. All revised pairs reread with source IDs. Twenty-five wholly unresolved verses excluded from English and retained separately with source evidence."
+    "pair_review": "All 1533 reconstructed source/English positions read from full paired outputs, in two two-page drafts and sixteen one-page drafts. All revised pairs reread with source IDs. Twenty-five wholly unresolved verses excluded from English and retained separately with source evidence. Coordinator restored and reread511:3:36 and517:4:16 from primary glossary373; now23 unresolved verses."
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "Every physical fragment across 506–525 accounted by translated source groups,25 unresolved exclusions,45 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained."
+    "scope": "Every physical fragment across 506–525 accounted by translated source groups,23 unresolved exclusions,45 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained."
   },
   "counts": {
-    "english_verse_rows": 1508,
-    "english_words": 8458,
-    "unresolved_source_rows": 25,
+    "english_verse_rows": 1510,
+    "english_words": 8473,
+    "unresolved_source_rows": 23,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1533,
     "wrapped_verse_groups": 27,
     "nonverse_extraction_records": 45,
     "watermark_records": 20,
-    "translated_source_words": 5095,
+    "translated_source_words": 5103,
     "all_source_verse_words": 5180,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
-    "source_words": 5095,
-    "english_words": 8458,
+    "source_words": 5103,
+    "english_words": 8473,
     "all_source_verse_words": 5180
   }
 }

@@ -6,3 +6,5 @@ Revisit the held source clauses on Semetey2013 PDF511 and517 in their full conte
 
 Lexical-aid URL: https://cdn-1.aki.kg/st_bilimlib/2/e16422eeace9f6cdc0d6f56d7613e629a4c39663.pdf
 Local image inspected: /tmp/semetey1-volta-0222-0241/glossary-373.png
+
+Completed: root individually viewed511/517 images and full surrounding source, restored511:3:36 “I was a holy sage myself, Chubak,” and517:4:16 “Saying a holy sage had given his blessing,”. Both pairs reread; owned/canonical evidence updated and both source-gap records removed. Adds2 verses/15English words. Named foster father511:3:5 unchanged. Awaiting next publication.

@@ -118,6 +118,7 @@
     "semetey-1-2013:p0630:b003:l036",
     "semetey-1-2013:p0630:b003:l037",
     "semetey-1-2013:p0630:b003:l039",
+    "semetey-1-2013:p0630:b004:l001",
     "semetey-1-2013:p0630:b004:l002",
     "semetey-1-2013:p0630:b004:l003",
     "semetey-1-2013:p0630:b004:l004",
@@ -287,11 +288,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0630:b004:l001",
-      "kind": "unresolved_source",
-      "reason": "Төбөсүнөн бастырып: pressure from above apparent, but participant/scope over preceding wether and following death clause unresolved."
-    },
-    {
       "id": "semetey-1-2013:p0631:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -359,7 +355,9 @@
     "semetey-1-2013:p0631:b004:l030": "Self-deprecating curse this wretch in eyelid omen speech, no newly introduced person.",
     "semetey-1-2013:p0631:b004:l035": "May Manas never die retained as lament despite prior death; no resurrection invented.",
     "semetey-1-2013:p0629:b004:l001": "His father refers back to Semetey; source familial perspective retained without claiming Manas fathered Bakay.",
-    "semetey-1-2013:p0630:b003:l006": "His father refers to Semetey, not a claim that Bolokbay is Manas’s biological son."
+    "semetey-1-2013:p0630:b003:l006": "His father refers to Semetey, not a claim that Bolokbay is Manas’s biological son.",
+    "semetey-1-2013:p0629:b003:l021": "Second model review: ок rendered shot without specifying bullet versus arrow; no explicit firearm in the fatal attack clause.",
+    "semetey-1-2013:p0630:b004:l001": "Restored after independent worker and root primary lexical review: Yudakhin бастыр- sense6 walk/ride at a walk, exact кайдан бастырдыңар asks where traveling from. Preceding3:36 mountain-top travel and39 leading a wether support movement over summit; no pressing on the animal inferred. Qualified contextual reading, source unchanged."
   },
   "unresolved_source": [
     {
@@ -457,37 +455,6 @@
     },
     {
       "source_ids": [
-        "semetey-1-2013:p0630:b004:l001"
-      ],
-      "raw": [
-        "Òºáºñ¿íºí áàñòûðûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0630:b004:l001",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 630,
-          "block": 4,
-          "line_in_block": 1,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 143.0997,
-            "xMax": 434.2344,
-            "yMax": 156.2877
-          },
-          "raw": "Òºáºñ¿íºí áàñòûðûï,",
-          "text": "Төбөсүнөн бастырып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Төбөсүнөн бастырып: pressure from above apparent, but participant/scope over preceding wether and following death clause unresolved.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
         "semetey-1-2013:p0631:b003:l029"
       ],
       "raw": [
@@ -527,15 +494,15 @@
       630,
       631
     ],
-    "evidence": "Individually inspected /tmp/manas-root-next-0629.png through0631.png, left column then right; four indented wraps. All 230 reconstructed KY–English pairs read in two blocks; five revised pairs reread. Five unresolved whole verses excluded from translated counts."
+    "evidence": "Individually inspected /tmp/manas-root-next-0629.png through0631.png, left column then right; four indented wraps. All 230 reconstructed KY–English pairs read in two blocks; five revised pairs reread. Second Codex worker independently reviewed all three images and230pairs, prompting three wording refinements and restoration of630:4:1 from primary dictionary; root reread all four revised pairs. Four unresolved whole verses excluded from translated counts."
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 225,
-    "english_words": 1229,
+    "translated_verse_rows": 226,
+    "english_words": 1234,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 230,
-    "unresolved_source_verses": 5,
+    "unresolved_source_verses": 4,
     "wrapped_verse_groups": 4
   }
 }

@@ -1,0 +1,4418 @@
+{
+  "status": "proposed_not_applied",
+  "reviewer": "Codex worker complete_source_resume",
+  "independent_specialist_review": false,
+  "date": "2026-09-14",
+  "primary_glossary": "sources/raw/semetey-1960-glossary-aid.pdf",
+  "primary_glossary_page": 374,
+  "primary_glossary_sha256": "7ac3f8ee9a8e53f7c633ed5865a58f87cf1fc51399ce0a9c3dd9c67d5c66034a",
+  "primary_glossary_url": "https://cdn-1.aki.kg/st_bilimlib/2/e16422eeace9f6cdc0d6f56d7613e629a4c39663.pdf",
+  "primary_image_individually_reviewed": true,
+  "changes": [
+    {
+      "id": "manas-2010:p0034:b002:l016",
+      "source": {
+        "id": "manas-2010:p0034:b002:l016",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 34,
+        "block": 2,
+        "line_in_block": 16,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 281.832,
+          "xMax": 349.5,
+          "yMax": 297.084
+        },
+        "raw": "Ордолуу шайык көк жөкөр",
+        "text": "Ордолуу шайык көк жөкөр",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0034:b002:l010",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 10,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 193.872,
+            "xMax": 307.332,
+            "yMax": 209.124
+          },
+          "raw": "Каяшаяк бергенди",
+          "text": "Каяшаяк бергенди",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l011",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 11,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 208.512,
+            "xMax": 339.984,
+            "yMax": 223.764
+          },
+          "raw": "Кармап алып кул кылды.",
+          "text": "Кармап алып кул кылды.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l012",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 12,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 223.152,
+            "xMax": 325.32,
+            "yMax": 238.404
+          },
+          "raw": "Буланы булап алганы,",
+          "text": "Буланы булап алганы,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l013",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 13,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 237.912,
+            "xMax": 338.6412,
+            "yMax": 253.164
+          },
+          "raw": "Бузукту мыктап салганы,",
+          "text": "Бузукту мыктап салганы,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l014",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 14,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 252.552,
+            "xMax": 341.22,
+            "yMax": 267.804
+          },
+          "raw": "Бу Алты-Шаар, Маргалаң",
+          "text": "Бу Алты-Шаар, Маргалаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l015",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 15,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 267.192,
+            "xMax": 316.92,
+            "yMax": 282.444
+          },
+          "raw": "Аяк жагы Кокон кан,",
+          "text": "Аяк жагы Кокон кан,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l016",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 16,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 281.832,
+            "xMax": 349.5,
+            "yMax": 297.084
+          },
+          "raw": "Ордолуу шайык көк жөкөр",
+          "text": "Ордолуу шайык көк жөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l017",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 17,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 296.472,
+            "xMax": 337.6188,
+            "yMax": 311.724
+          },
+          "raw": "Орчуну Букар, Самаркан",
+          "text": "Орчуну Букар, Самаркан",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l018",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 18,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 311.112,
+            "xMax": 313.68,
+            "yMax": 326.364
+          },
+          "raw": "Саны кетип тарады,",
+          "text": "Саны кетип тарады,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l019",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 19,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 325.752,
+            "xMax": 328.08,
+            "yMax": 341.004
+          },
+          "raw": "Ак үйлүү күттү Алөөкө,",
+          "text": "Ак үйлүү күттү Алөөкө,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l020",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 20,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 340.392,
+            "xMax": 339.9012,
+            "yMax": 355.644
+          },
+          "raw": "Журттун баарын карасаң",
+          "text": "Журттун баарын карасаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l021",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 21,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 355.032,
+            "xMax": 310.584,
+            "yMax": 370.284
+          },
+          "raw": "Дал ошого карады.",
+          "text": "Дал ошого карады.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0034:b002:l022",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 34,
+          "block": 2,
+          "line_in_block": 22,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 369.672,
+            "xMax": 359.64,
+            "yMax": 384.924
+          },
+          "raw": "Бээжинден келип зор болуп,",
+          "text": "Бээжинден келип зор болуп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0033-0035.json",
+      "english_path": "corpus/batches/pages-0033-0035.en.txt",
+      "old": "The sheikhs with royal courts and their retainers,",
+      "en_context": [
+        [
+          "manas-2010:p0034:b002:l010",
+          "Those who offered defiance,"
+        ],
+        [
+          "manas-2010:p0034:b002:l011",
+          "He seized and made slaves."
+        ],
+        [
+          "manas-2010:p0034:b002:l012",
+          "He carried off the spoils,"
+        ],
+        [
+          "manas-2010:p0034:b002:l013",
+          "He wrought great devastation."
+        ],
+        [
+          "manas-2010:p0034:b002:l014",
+          "Alty-Shahar and Margalan,"
+        ],
+        [
+          "manas-2010:p0034:b002:l015",
+          "And farther down, the khan of Kokand,"
+        ],
+        [
+          "manas-2010:p0034:b002:l016",
+          "The sheikhs with royal courts and their retainers,"
+        ],
+        [
+          "manas-2010:p0034:b002:l017",
+          "The heartlands of Bukhara and Samarkand—"
+        ],
+        [
+          "manas-2010:p0034:b002:l018",
+          "Their multitudes scattered away."
+        ],
+        [
+          "manas-2010:p0034:b002:l019",
+          "Alöökö kept hostages;"
+        ],
+        [
+          "manas-2010:p0034:b002:l020",
+          "If you looked at all the people,"
+        ],
+        [
+          "manas-2010:p0034:b002:l021",
+          "Every one was subject to him."
+        ],
+        [
+          "manas-2010:p0034:b002:l022",
+          "Coming from Beijing in might,"
+        ]
+      ],
+      "batch_sha": "a194fcc7620b43dbb950ef03bedacbd772107070c0503dd5b582cf73f7d8de1b",
+      "en_sha": "e8ba28086aac24a7adefd65c0189faa34f6a989f0be20fe03a62fc1bb9f8a1f8",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Kokand is named immediately before the formula; Bukhara and Samarkand immediately after, in a list of conquered communities.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Kokand is named immediately before the formula; Bukhara and Samarkand immediately after, in a list of conquered communities.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0034.png",
+      "image_sha256": "1003acc25c2126605d9e68a18c70293ff02f4470b65cd0f0e72902381364c402",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": -2
+    },
+    {
+      "id": "manas-2010:p0055:b002:l040",
+      "source": {
+        "id": "manas-2010:p0055:b002:l040",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 55,
+        "block": 2,
+        "line_in_block": 40,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 633.312,
+          "xMax": 349.5,
+          "yMax": 648.564
+        },
+        "raw": "Ордолуу шайык көк жөкөр",
+        "text": "Ордолуу шайык көк жөкөр",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0055:b002:l034",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 34,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 545.472,
+            "xMax": 336.3576,
+            "yMax": 560.724
+          },
+          "raw": "Бала каздай каркылдап,",
+          "text": "Бала каздай каркылдап,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l035",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 35,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 560.112,
+            "xMax": 328.56,
+            "yMax": 575.364
+          },
+          "raw": "Ак сакалы жаркылдап,",
+          "text": "Ак сакалы жаркылдап,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l036",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 36,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 574.752,
+            "xMax": 326.028,
+            "yMax": 590.004
+          },
+          "raw": "Абаң Балтай кыргызга",
+          "text": "Абаң Балтай кыргызга",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l037",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 37,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 589.392,
+            "xMax": 335.9748,
+            "yMax": 604.644
+          },
+          "raw": "Акыл айтты жаркылдап:",
+          "text": "Акыл айтты жаркылдап:",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l038",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 38,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 604.032,
+            "xMax": 358.02,
+            "yMax": 619.284
+          },
+          "raw": "«Кырк үйлүү келген күнөкөр",
+          "text": "«Кырк үйлүү келген күнөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l039",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 39,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 618.672,
+            "xMax": 335.5812,
+            "yMax": 633.924
+          },
+          "raw": "Алыста калды бусурман",
+          "text": "Алыста калды бусурман",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l040",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 40,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 633.312,
+            "xMax": 349.5,
+            "yMax": 648.564
+          },
+          "raw": "Ордолуу шайык көк жөкөр",
+          "text": "Ордолуу шайык көк жөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l041",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 41,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 648.072,
+            "xMax": 347.3412,
+            "yMax": 663.324
+          },
+          "raw": "Айдалып келген бусурман",
+          "text": "Айдалып келген бусурман",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l042",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 42,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 662.712,
+            "xMax": 346.8012,
+            "yMax": 677.964
+          },
+          "raw": "Жерибиз Алтай дээр экен,",
+          "text": "Жерибиз Алтай дээр экен,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l043",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 43,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 677.352,
+            "xMax": 336.8376,
+            "yMax": 692.604
+          },
+          "raw": "Алтайда кара калмагың,",
+          "text": "Алтайда кара калмагың,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l044",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 44,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 691.992,
+            "xMax": 321.3852,
+            "yMax": 707.244
+          },
+          "raw": "Эң эле сонун эл экен.",
+          "text": "Эң эле сонун эл экен.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l045",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 45,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 706.632,
+            "xMax": 380.3976,
+            "yMax": 721.884
+          },
+          "raw": "Балдар капанын баарын чачалы,",
+          "text": "Балдар капанын баарын чачалы,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0055:b002:l046",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 55,
+          "block": 2,
+          "line_in_block": 46,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 721.272,
+            "xMax": 365.7612,
+            "yMax": 736.524
+          },
+          "raw": "Кайгырсак кыргыз табылбайт,",
+          "text": "Кайгырсак кыргыз табылбайт,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0048-0055.json",
+      "english_path": "corpus/batches/pages-0048-0055.en.txt",
+      "old": "The sheikhs with their courts and fine boots;",
+      "en_context": [
+        [
+          "manas-2010:p0055:b002:l034",
+          "Calling hoarsely like a young goose,"
+        ],
+        [
+          "manas-2010:p0055:b002:l035",
+          "His white beard gleaming,"
+        ],
+        [
+          "manas-2010:p0055:b002:l036",
+          "Your elder Baltay to the Kyrgyz"
+        ],
+        [
+          "manas-2010:p0055:b002:l037",
+          "Spoke wise counsel with a bright face:"
+        ],
+        [
+          "manas-2010:p0055:b002:l038",
+          "“Forty households come here as culprits,"
+        ],
+        [
+          "manas-2010:p0055:b002:l039",
+          "Far away remain the Muslims,"
+        ],
+        [
+          "manas-2010:p0055:b002:l040",
+          "The sheikhs with their courts and fine boots;"
+        ],
+        [
+          "manas-2010:p0055:b002:l041",
+          "We Muslims driven into exile,"
+        ],
+        [
+          "manas-2010:p0055:b002:l042",
+          "Our land is called Altay."
+        ],
+        [
+          "manas-2010:p0055:b002:l043",
+          "In Altay your Black Kalmyks"
+        ],
+        [
+          "manas-2010:p0055:b002:l044",
+          "Are a very fine people."
+        ],
+        [
+          "manas-2010:p0055:b002:l045",
+          "Lads, let us cast away every sorrow;"
+        ],
+        [
+          "manas-2010:p0055:b002:l046",
+          "Grieving will not find the Kyrgyz for us."
+        ]
+      ],
+      "batch_sha": "fc74417ae58dd11f6c57617f74653092e3959db3e865d1b7b39fdc728b9eb5c9",
+      "en_sha": "76899a6e384565bb794ced964dcbd65643946deb07b0eda3734887e26453124f",
+      "proposed": "The famed sacred capital of sheikhs;",
+      "review_note": "Exiled Muslims contrast their distant homeland with Altai; the city epithet is elliptical here, without separately repeating Kokand. Exact glossary supports city, not footwear.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Exiled Muslims contrast their distant homeland with Altai; the city epithet is elliptical here, without separately repeating Kokand. Exact glossary supports city, not footwear.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0055.png",
+      "image_sha256": "5dc6f256c6de2b29f6654b152724c677f42e59e7353961420a0e0666d96e7bef",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": -2
+    },
+    {
+      "id": "manas-2010:p0104:b002:l026",
+      "source": {
+        "id": "manas-2010:p0104:b002:l026",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 104,
+        "block": 2,
+        "line_in_block": 26,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 428.232,
+          "xMax": 349.5,
+          "yMax": 443.484
+        },
+        "raw": "Ордолуу шайык көк жөкөр",
+        "text": "Ордолуу шайык көк жөкөр",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0104:b002:l020",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 20,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 340.392,
+            "xMax": 332.9052,
+            "yMax": 355.644
+          },
+          "raw": "Алып кетти - деп уктум.",
+          "text": "Алып кетти - деп уктум.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l021",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 21,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 355.032,
+            "xMax": 334.7988,
+            "yMax": 370.284
+          },
+          "raw": "Каканчынын калкы бар,",
+          "text": "Каканчынын калкы бар,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l022",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 22,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 369.672,
+            "xMax": 343.1388,
+            "yMax": 384.924
+          },
+          "raw": "Кайнап жаткан кытайдын",
+          "text": "Кайнап жаткан кытайдын",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l023",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 23,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 384.312,
+            "xMax": 329.2188,
+            "yMax": 399.564
+          },
+          "raw": "Канча түрдүү алпы бар",
+          "text": "Канча түрдүү алпы бар",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l024",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 24,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 398.952,
+            "xMax": 328.668,
+            "yMax": 414.204
+          },
+          "raw": "Каны буйрук кылганда",
+          "text": "Каны буйрук кылганда",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l025",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 25,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 413.592,
+            "xMax": 395.9064,
+            "yMax": 428.844
+          },
+          "raw": "Ушундай зордук кылмай салты бар.",
+          "text": "Ушундай зордук кылмай салты бар.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l026",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 26,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 428.232,
+            "xMax": 349.5,
+            "yMax": 443.484
+          },
+          "raw": "Ордолуу шайык көк жөкөр",
+          "text": "Ордолуу шайык көк жөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l027",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 27,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 442.992,
+            "xMax": 361.9776,
+            "yMax": 458.244
+          },
+          "raw": "Орчун журт Кокон, Маргалаң",
+          "text": "Орчун журт Кокон, Маргалаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l028",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 28,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 457.632,
+            "xMax": 345.7452,
+            "yMax": 472.884
+          },
+          "raw": "Кызык кылды - деп уктум.",
+          "text": "Кызык кылды - деп уктум.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l029",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 29,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 472.272,
+            "xMax": 324.48,
+            "yMax": 487.524
+          },
+          "raw": "Анжыянды жердеген,",
+          "text": "Анжыянды жердеген,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l030",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 30,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 486.912,
+            "xMax": 389.64,
+            "yMax": 502.164
+          },
+          "raw": "Муну эңкейтип душман жеңбеген,",
+          "text": "Муну эңкейтип душман жеңбеген,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l031",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 31,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 501.552,
+            "xMax": 320.52,
+            "yMax": 516.804
+          },
+          "raw": "Анжыянда Айкожом,",
+          "text": "Анжыянда Айкожом,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0104:b002:l032",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 104,
+          "block": 2,
+          "line_in_block": 32,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 516.192,
+            "xMax": 333.12,
+            "yMax": 531.444
+          },
+          "raw": "Айкожо уулу - Билерик,",
+          "text": "Айкожо уулу - Билерик,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0096-0115.json",
+      "english_path": "corpus/batches/pages-0096-0115.en.txt",
+      "old": "The sheikhs with their courts, the mighty retainers,",
+      "en_context": [
+        [
+          "manas-2010:p0104:b002:l020",
+          "Took him away, I heard."
+        ],
+        [
+          "manas-2010:p0104:b002:l021",
+          "There is the kakan's people;"
+        ],
+        [
+          "manas-2010:p0104:b002:l022",
+          "Among the swarming Chinese,"
+        ],
+        [
+          "manas-2010:p0104:b002:l023",
+          "There are giants of many kinds."
+        ],
+        [
+          "manas-2010:p0104:b002:l024",
+          "When their khan commands,"
+        ],
+        [
+          "manas-2010:p0104:b002:l025",
+          "It is their custom to inflict such violence."
+        ],
+        [
+          "manas-2010:p0104:b002:l026",
+          "The sheikhs with their courts, the mighty retainers,"
+        ],
+        [
+          "manas-2010:p0104:b002:l027",
+          "The great peoples of Kokon and Margalang,"
+        ],
+        [
+          "manas-2010:p0104:b002:l028",
+          "They made a spectacle of them, I heard."
+        ],
+        [
+          "manas-2010:p0104:b002:l029",
+          "Dwelling in Anjyiyan,"
+        ],
+        [
+          "manas-2010:p0104:b002:l030",
+          "Whom no enemy had subdued,"
+        ],
+        [
+          "manas-2010:p0104:b002:l031",
+          "Was my Aykhoja in Anjyiyan;"
+        ],
+        [
+          "manas-2010:p0104:b002:l032",
+          "Aykhoja's son was Bilerik."
+        ]
+      ],
+      "batch_sha": "9e979f390e6dc1ef58253012803294ab02fb9057fe8daab0e41a92d2460e7913",
+      "en_sha": "1a885317806a4e702c07ba8c96aee4c870d5ad7f885ebb9fbc1e34f638340c27",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula immediately precedes Kokon/Margalang, followed by reported violence against them; geographic population list.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula immediately precedes Kokon/Margalang, followed by reported violence against them; geographic population list.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0104.png",
+      "image_sha256": "5026a06c8c85479e817c229c817e58e939019b06d2b4e589d8de4de12a3c3891",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": -2
+    },
+    {
+      "id": "manas-2010:p0312:b001:l016",
+      "source": {
+        "id": "manas-2010:p0312:b001:l016",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 312,
+        "block": 1,
+        "line_in_block": 16,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 281.832,
+          "xMax": 352.5,
+          "yMax": 297.084
+        },
+        "raw": "Ордолуу шайык, көк жөкөр",
+        "text": "Ордолуу шайык, көк жөкөр",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0312:b001:l010",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 10,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 193.872,
+            "xMax": 335.6532,
+            "yMax": 209.124
+          },
+          "raw": "Астына барган мендени",
+          "text": "Астына барган мендени",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l011",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 11,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 208.512,
+            "xMax": 344.004,
+            "yMax": 223.764
+          },
+          "raw": "Ырайым кылбай ал чочко",
+          "text": "Ырайым кылбай ал чочко",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l012",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 12,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 223.152,
+            "xMax": 364.32,
+            "yMax": 238.404
+          },
+          "raw": "Кыйласын союп салды - дейт,",
+          "text": "Кыйласын союп салды - дейт,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l013",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 13,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 237.912,
+            "xMax": 337.056,
+            "yMax": 253.164
+          },
+          "raw": "Жетим-жесир, мискинге",
+          "text": "Жетим-жесир, мискинге",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l014",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 14,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 252.552,
+            "xMax": 364.464,
+            "yMax": 267.804
+          },
+          "raw": "Тозокту тоодой кылды - дейт.",
+          "text": "Тозокту тоодой кылды - дейт.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l015",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 15,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 267.192,
+            "xMax": 335.0388,
+            "yMax": 282.444
+          },
+          "raw": "Коломтодон кор чыгып,",
+          "text": "Коломтодон кор чыгып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l016",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 16,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 281.832,
+            "xMax": 352.5,
+            "yMax": 297.084
+          },
+          "raw": "Ордолуу шайык, көк жөкөр",
+          "text": "Ордолуу шайык, көк жөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l017",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 17,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 296.472,
+            "xMax": 334.6188,
+            "yMax": 311.724
+          },
+          "raw": "Орчун Кокон, Маргалаң",
+          "text": "Орчун Кокон, Маргалаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l018",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 18,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 311.112,
+            "xMax": 308.1012,
+            "yMax": 326.364
+          },
+          "raw": "Ошолорду сураган",
+          "text": "Ошолорду сураган",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l019",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 19,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 325.752,
+            "xMax": 336.7212,
+            "yMax": 341.004
+          },
+          "raw": "Алөөкө аттуу зор чыгып,",
+          "text": "Алөөкө аттуу зор чыгып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l020",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 20,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 340.392,
+            "xMax": 334.44,
+            "yMax": 355.644
+          },
+          "raw": "Бул Алөөкө баатырдын,",
+          "text": "Бул Алөөкө баатырдын,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l021",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 21,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 355.032,
+            "xMax": 342.54,
+            "yMax": 370.284
+          },
+          "raw": "Кайраты толук капырдын",
+          "text": "Кайраты толук капырдын",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0312:b001:l022",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 312,
+          "block": 1,
+          "line_in_block": 22,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 369.672,
+            "xMax": 355.9332,
+            "yMax": 384.924
+          },
+          "raw": "Чарпышып чама келе албай",
+          "text": "Чарпышып чама келе албай",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0294-0313.json",
+      "english_path": "corpus/batches/pages-0294-0313.en.txt",
+      "old": "The sheikhs with courts, the staunch retainers,",
+      "en_context": [
+        [
+          "manas-2010:p0312:b001:l010",
+          "The mortals who went before him,"
+        ],
+        [
+          "manas-2010:p0312:b001:l011",
+          "Without mercy, that swine,"
+        ],
+        [
+          "manas-2010:p0312:b001:l012",
+          "He slaughtered many of them, they say."
+        ],
+        [
+          "manas-2010:p0312:b001:l013",
+          "For orphans, widows and the destitute,"
+        ],
+        [
+          "manas-2010:p0312:b001:l014",
+          "He made hell as high as a mountain, they say."
+        ],
+        [
+          "manas-2010:p0312:b001:l015",
+          "A glowing coal sprang from the hearth;"
+        ],
+        [
+          "manas-2010:p0312:b001:l016",
+          "The sheikhs with courts, the staunch retainers,"
+        ],
+        [
+          "manas-2010:p0312:b001:l017",
+          "Mighty Kokand and Margalang,"
+        ],
+        [
+          "manas-2010:p0312:b001:l018",
+          "Ruling over them,"
+        ],
+        [
+          "manas-2010:p0312:b001:l019",
+          "A giant named Alöökö arose."
+        ],
+        [
+          "manas-2010:p0312:b001:l020",
+          "Against this warrior Alöökö,"
+        ],
+        [
+          "manas-2010:p0312:b001:l021",
+          "This unbeliever full of might,"
+        ],
+        [
+          "manas-2010:p0312:b001:l022",
+          "We could not match him in a clash;"
+        ]
+      ],
+      "batch_sha": "1822ea9e32d609af7c8c25a843723060dfcdc3b36a9675fe4fae0b4bb42c672b",
+      "en_sha": "7c415d70306bb84e3e7c084cd55be8d80f8d196cfa8ae749fa378a4083faa938",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula immediately precedes Kokon/Margalang and Alöökö ruling them; city epithet, not individual sheikhs and retainers.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula immediately precedes Kokon/Margalang and Alöökö ruling them; city epithet, not individual sheikhs and retainers.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0312.png",
+      "image_sha256": "821a6628c5955a1526e317da345012bac28a356a3bb4b996f7bc02a0588a1cde",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": -1
+    },
+    {
+      "id": "manas-2010:p0535:b001:l035",
+      "source": {
+        "id": "manas-2010:p0535:b001:l035",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 535,
+        "block": 1,
+        "line_in_block": 35,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 634.872,
+          "xMax": 349.5,
+          "yMax": 650.124
+        },
+        "raw": "Ордолуу шайык көк жөкөр",
+        "text": "Ордолуу шайык көк жөкөр",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0535:b001:l029",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 29,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 533.712,
+            "xMax": 341.8812,
+            "yMax": 548.964
+          },
+          "raw": "Кандыкты сизге беребиз,",
+          "text": "Кандыкты сизге беребиз,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l030",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 30,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 550.632,
+            "xMax": 346.2012,
+            "yMax": 565.884
+          },
+          "raw": "Ордолуу шаар тамымсың,",
+          "text": "Ордолуу шаар тамымсың,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l031",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 31,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 567.432,
+            "xMax": 336.6,
+            "yMax": 582.684
+          },
+          "raw": "Олуя чалыш жанымсың,",
+          "text": "Олуя чалыш жанымсың,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l032",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 32,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 584.352,
+            "xMax": 338.76,
+            "yMax": 599.604
+          },
+          "raw": "Чыгарың эчак билгемин,",
+          "text": "Чыгарың эчак билгемин,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l033",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 33,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 601.152,
+            "xMax": 351.36,
+            "yMax": 616.404
+          },
+          "raw": "Кабылан качан келет - деп,",
+          "text": "Кабылан качан келет - деп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l034",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 34,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 617.952,
+            "xMax": 323.904,
+            "yMax": 633.204
+          },
+          "raw": "Сени күтүп жүргөмүн.",
+          "text": "Сени күтүп жүргөмүн.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l035",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 35,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 634.872,
+            "xMax": 349.5,
+            "yMax": 650.124
+          },
+          "raw": "Ордолуу шайык көк жөкөр",
+          "text": "Ордолуу шайык көк жөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l036",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 36,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 651.672,
+            "xMax": 337.5576,
+            "yMax": 666.924
+          },
+          "raw": "Орчун Кокон, Маргалаң,",
+          "text": "Орчун Кокон, Маргалаң,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l037",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 37,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 668.472,
+            "xMax": 335.88,
+            "yMax": 683.724
+          },
+          "raw": "Аягы кептеш, Самаркан,",
+          "text": "Аягы кептеш, Самаркан,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l038",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 38,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 685.392,
+            "xMax": 357.3,
+            "yMax": 700.644
+          },
+          "raw": "Күн чыгыш жагы Алты-Шаар",
+          "text": "Күн чыгыш жагы Алты-Шаар",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l039",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 39,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 702.192,
+            "xMax": 329.88,
+            "yMax": 717.444
+          },
+          "raw": "Сени күтүп келет - деп,",
+          "text": "Сени күтүп келет - деп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l040",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 40,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 719.112,
+            "xMax": 347.664,
+            "yMax": 734.364
+          },
+          "raw": "Күткөн мынча журтуң бар.",
+          "text": "Күткөн мынча журтуң бар.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0535:b001:l041",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 535,
+          "block": 1,
+          "line_in_block": 41,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 735.912,
+            "xMax": 355.1976,
+            "yMax": 751.164
+          },
+          "raw": "Казына камдап, кол жыйна,",
+          "text": "Казына камдап, кол жыйна,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0526-0545.json",
+      "english_path": "corpus/batches/pages-0526-0545.en.txt",
+      "old": "With courtly silks and blue leather,",
+      "en_context": [
+        [
+          "manas-2010:p0535:b001:l029",
+          "We give the khanship to you."
+        ],
+        [
+          "manas-2010:p0535:b001:l030",
+          "You are my city with its royal court,"
+        ],
+        [
+          "manas-2010:p0535:b001:l031",
+          "You are my saintlike soul."
+        ],
+        [
+          "manas-2010:p0535:b001:l032",
+          "Long ago I knew you would arise."
+        ],
+        [
+          "manas-2010:p0535:b001:l033",
+          "‘When will the leopard come?’ I said,"
+        ],
+        [
+          "manas-2010:p0535:b001:l034",
+          "And waited for you."
+        ],
+        [
+          "manas-2010:p0535:b001:l035",
+          "With courtly silks and blue leather,"
+        ],
+        [
+          "manas-2010:p0535:b001:l036",
+          "Mighty Kokand and Margilan,"
+        ],
+        [
+          "manas-2010:p0535:b001:l037",
+          "At the far end, Keptesh and Samarkand,"
+        ],
+        [
+          "manas-2010:p0535:b001:l038",
+          "Alty-Shaar to the east,"
+        ],
+        [
+          "manas-2010:p0535:b001:l039",
+          "‘He will come,’ they wait for you."
+        ],
+        [
+          "manas-2010:p0535:b001:l040",
+          "So many peoples await you."
+        ],
+        [
+          "manas-2010:p0535:b001:l041",
+          "Prepare a treasury, gather an army;"
+        ]
+      ],
+      "batch_sha": "49bad323041ebb097001dff13dc48bbb10ce5fea4b7ee95f3fb571a6f169f2d2",
+      "en_sha": "b319f67d2887e3a5db7a8b33cb2ac6ff2c878e04464695988a67f1ab1d141442",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula introduces Kokon/Margalang, Samarkand and Alty-Shaar waiting for Manas. No textile description at this position.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula introduces Kokon/Margalang, Samarkand and Alty-Shaar waiting for Manas. No textile description at this position.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0535.png",
+      "image_sha256": "282891f2672a50bbc5198d36a16ead046b2bf69ecf4f8e0c791a899e4b4ca8ab",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": 0
+    },
+    {
+      "id": "manas-2010:p0688:b001:l004",
+      "source": {
+        "id": "manas-2010:p0688:b001:l004",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 688,
+        "block": 1,
+        "line_in_block": 4,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 112.632,
+          "xMax": 355.5612,
+          "yMax": 127.884
+        },
+        "raw": "Ордолуу шайык, көк жөкөр,",
+        "text": "Ордолуу шайык, көк жөкөр,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0687:b002:l001",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 687,
+          "block": 2,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 157.08,
+            "yMin": 690.861,
+            "xMax": 438.123,
+            "yMax": 710.37624
+          },
+          "raw": "Манастын Алөөкөнү жеңип кан көтөрүлгөнү 3",
+          "text": "Манастын Алөөкөнү жеңип кан көтөрүлгөнү 3",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0687:b003:l001",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 687,
+          "block": 3,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 757.07328,
+            "xMax": 215.80536,
+            "yMax": 765.30936
+          },
+          "raw": "3",
+          "text": "3",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0687:b004:l001",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 687,
+          "block": 4,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 218.04084,
+            "yMin": 758.75856,
+            "xMax": 347.344548,
+            "yMax": 771.41772
+          },
+          "raw": "Түп нускада мындай тема жок",
+          "text": "Түп нускада мындай тема жок",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l001",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 62.112,
+            "xMax": 351.5976,
+            "yMax": 77.364
+          },
+          "raw": "Кабылан Манас кан чыгып,",
+          "text": "Кабылан Манас кан чыгып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l002",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 2,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 78.912,
+            "xMax": 324.3588,
+            "yMax": 94.164
+          },
+          "raw": "Каарынан жан чыгып,",
+          "text": "Каарынан жан чыгып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l003",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 3,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 95.712,
+            "xMax": 323.136,
+            "yMax": 110.964
+          },
+          "raw": "Ээлеп турган кезинде",
+          "text": "Ээлеп турган кезинде",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l004",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 4,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 112.632,
+            "xMax": 355.5612,
+            "yMax": 127.884
+          },
+          "raw": "Ордолуу шайык, көк жөкөр,",
+          "text": "Ордолуу шайык, көк жөкөр,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l005",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 5,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 129.432,
+            "xMax": 334.6188,
+            "yMax": 144.684
+          },
+          "raw": "Орчун Кокон, Маргалаң",
+          "text": "Орчун Кокон, Маргалаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l006",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 6,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 146.352,
+            "xMax": 335.64,
+            "yMax": 161.604
+          },
+          "raw": "Ак үйлүү аким эр келип,",
+          "text": "Ак үйлүү аким эр келип,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l007",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 7,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 163.152,
+            "xMax": 316.4508,
+            "yMax": 178.404
+          },
+          "raw": "Азабына жан түтпөй",
+          "text": "Азабына жан түтпөй",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l008",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 8,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 179.952,
+            "xMax": 343.68,
+            "yMax": 195.204
+          },
+          "raw": "Кара жер кошо тербелип,",
+          "text": "Кара жер кошо тербелип,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l009",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 9,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 196.872,
+            "xMax": 326.64,
+            "yMax": 212.124
+          },
+          "raw": "Доошунан жан чыгып,",
+          "text": "Доошунан жан чыгып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0688:b001:l010",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 688,
+          "block": 1,
+          "line_in_block": 10,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 213.672,
+            "xMax": 331.2,
+            "yMax": 228.924
+          },
+          "raw": "Жүрүшүнөн чаң чыгып,",
+          "text": "Жүрүшүнөн чаң чыгып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0678-0697.json",
+      "english_path": "corpus/batches/pages-0678-0697.en.txt",
+      "old": "The courtly sheikh, the staunch retainer,",
+      "en_context": [
+        [
+          "manas-2010:p0687:b001:l034",
+          "They kept swaying about;"
+        ],
+        [
+          "manas-2010:p0687:b001:l035",
+          "Their spirits rose greatly,"
+        ],
+        [
+          "manas-2010:p0687:b001:l036",
+          "They lived in delight."
+        ],
+        [
+          "manas-2010:p0688:b001:l001",
+          "The leopard Manas became khan,"
+        ],
+        [
+          "manas-2010:p0688:b001:l002",
+          "His wrath drove out men's souls."
+        ],
+        [
+          "manas-2010:p0688:b001:l003",
+          "While he held dominion,"
+        ],
+        [
+          "manas-2010:p0688:b001:l004",
+          "The courtly sheikh, the staunch retainer,"
+        ],
+        [
+          "manas-2010:p0688:b001:l005",
+          "From great Kokon and Margalang,"
+        ],
+        [
+          "manas-2010:p0688:b001:l006",
+          "The lord of the white dwelling came:"
+        ],
+        [
+          "manas-2010:p0688:b001:l007",
+          "Souls cannot bear his torment,"
+        ],
+        [
+          "manas-2010:p0688:b001:l008",
+          "The black earth sways along with him,"
+        ],
+        [
+          "manas-2010:p0688:b001:l009",
+          "His voice drives out souls,"
+        ],
+        [
+          "manas-2010:p0688:b001:l010",
+          "His march raises dust,"
+        ]
+      ],
+      "batch_sha": "0062b9486ee3b74dddc3efbd666b61c8fa84883b45e55a35b9cac7c7f09aba9d",
+      "en_sha": "2541bd661be64118bf83b704ed055216a5075a38ad12af7397875fba495528dc",
+      "proposed": "From the famed sacred capital of sheikhs,",
+      "review_note": "Formula precedes Kokon/Margalang as origin of the arriving ruler. From supplies the English preposition already used in the next line.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula precedes Kokon/Margalang as origin of the arriving ruler. From supplies the English preposition already used in the next line.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0688.png",
+      "image_sha256": "8d8d4c88aafedfb46dd89dd612b5cda6b859579f8015065045e8c6da9f4e5acf",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": 1
+    },
+    {
+      "id": "manas-2010:p0692:b001:l009",
+      "source": {
+        "id": "manas-2010:p0692:b001:l009",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 692,
+        "block": 1,
+        "line_in_block": 9,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 196.872,
+          "xMax": 355.5612,
+          "yMax": 212.124
+        },
+        "raw": "Ордолуу шайык, көк жөкөр,",
+        "text": "Ордолуу шайык, көк жөкөр,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0692:b001:l003",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 3,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 95.712,
+            "xMax": 360.2412,
+            "yMax": 110.964
+          },
+          "raw": "Келгенден бээлеп кеп уктум,",
+          "text": "Келгенден бээлеп кеп уктум,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l004",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 4,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 112.632,
+            "xMax": 355.2,
+            "yMax": 127.884
+          },
+          "raw": "Журтун жыйнап, жер ээлеп,",
+          "text": "Журтун жыйнап, жер ээлеп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l005",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 5,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 129.432,
+            "xMax": 332.0988,
+            "yMax": 144.684
+          },
+          "raw": "Канкор Манас кабылан",
+          "text": "Канкор Манас кабылан",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l006",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 6,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 146.352,
+            "xMax": 351.8652,
+            "yMax": 161.604
+          },
+          "raw": "Таласка келди, - деп уктум.",
+          "text": "Таласка келди, - деп уктум.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l007",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 7,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 163.152,
+            "xMax": 322.8,
+            "yMax": 178.404
+          },
+          "raw": "Атышаарың - Алөөкө,",
+          "text": "Атышаарың - Алөөкө,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l008",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 8,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 179.952,
+            "xMax": 338.064,
+            "yMax": 195.204
+          },
+          "raw": "Арбын кыргын салыңыз.",
+          "text": "Арбын кыргын салыңыз.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l009",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 9,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 196.872,
+            "xMax": 355.5612,
+            "yMax": 212.124
+          },
+          "raw": "Ордолуу шайык, көк жөкөр,",
+          "text": "Ордолуу шайык, көк жөкөр,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l010",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 10,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 213.672,
+            "xMax": 340.992,
+            "yMax": 228.924
+          },
+          "raw": "Орчун Кокон, Маргалаң -",
+          "text": "Орчун Кокон, Маргалаң -",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l011",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 11,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 230.592,
+            "xMax": 323.4,
+            "yMax": 245.844
+          },
+          "raw": "Эр экениң чын болсо,",
+          "text": "Эр экениң чын болсо,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l012",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 12,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 247.392,
+            "xMax": 312.9,
+            "yMax": 262.644
+          },
+          "raw": "Алөөкөнүн колунан",
+          "text": "Алөөкөнүн колунан",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l013",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 13,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 264.192,
+            "xMax": 312.024,
+            "yMax": 279.444
+          },
+          "raw": "Ажыратып алыңыз.",
+          "text": "Ажыратып алыңыз.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l014",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 14,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 281.112,
+            "xMax": 323.76,
+            "yMax": 296.364
+          },
+          "raw": "Салышарың - Алөөкө,",
+          "text": "Салышарың - Алөөкө,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0692:b001:l015",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 692,
+          "block": 1,
+          "line_in_block": 15,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 297.912,
+            "xMax": 334.2612,
+            "yMax": 313.164
+          },
+          "raw": "Аз бусурман журтуңдун",
+          "text": "Аз бусурман журтуңдун",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0678-0697.json",
+      "english_path": "corpus/batches/pages-0678-0697.en.txt",
+      "old": "The courtly sheikh, the staunch retainer,",
+      "en_context": [
+        [
+          "manas-2010:p0692:b001:l003",
+          "Since coming, I have heard the news:"
+        ],
+        [
+          "manas-2010:p0692:b001:l004",
+          "Gathering his people and taking land,"
+        ],
+        [
+          "manas-2010:p0692:b001:l005",
+          "The slaughterer Manas, the leopard,"
+        ],
+        [
+          "manas-2010:p0692:b001:l006",
+          "Had come to Talas, I heard."
+        ],
+        [
+          "manas-2010:p0692:b001:l007",
+          "Alöökö is the one you must fight;"
+        ],
+        [
+          "manas-2010:p0692:b001:l008",
+          "Inflict abundant slaughter."
+        ],
+        [
+          "manas-2010:p0692:b001:l009",
+          "The courtly sheikh, the staunch retainer,"
+        ],
+        [
+          "manas-2010:p0692:b001:l010",
+          "Great Kokon and Margalang—"
+        ],
+        [
+          "manas-2010:p0692:b001:l011",
+          "If you are truly a hero,"
+        ],
+        [
+          "manas-2010:p0692:b001:l012",
+          "From Alöökö's hands"
+        ],
+        [
+          "manas-2010:p0692:b001:l013",
+          "Set them free."
+        ],
+        [
+          "manas-2010:p0692:b001:l014",
+          "Alöökö is the one you must battle;"
+        ],
+        [
+          "manas-2010:p0692:b001:l015",
+          "For your small Muslim people"
+        ]
+      ],
+      "batch_sha": "0062b9486ee3b74dddc3efbd666b61c8fa84883b45e55a35b9cac7c7f09aba9d",
+      "en_sha": "2541bd661be64118bf83b704ed055216a5075a38ad12af7397875fba495528dc",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula introduces Kokon/Margalang as places to free from Alöökö; city epithet.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula introduces Kokon/Margalang as places to free from Alöökö; city epithet.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0692.png",
+      "image_sha256": "f7189d6f3a628427114698308ac3db0acff577b2fba23606fc1fa99c92386d6a",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": 0
+    },
+    {
+      "id": "manas-2010:p0905:b001:l037",
+      "source": {
+        "id": "manas-2010:p0905:b001:l037",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 905,
+        "block": 1,
+        "line_in_block": 37,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 668.472,
+          "xMax": 355.5612,
+          "yMax": 683.724
+        },
+        "raw": "Ордолуу шайык, көк жөкөр,",
+        "text": "Ордолуу шайык, көк жөкөр,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0905:b001:l031",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 31,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 567.432,
+            "xMax": 353.0388,
+            "yMax": 582.684
+          },
+          "raw": "Нойгутта ойноп тура албай,",
+          "text": "Нойгутта ойноп тура албай,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l032",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 32,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 584.352,
+            "xMax": 349.5576,
+            "yMax": 599.604
+          },
+          "raw": "Ыкшай курчап курчандым,",
+          "text": "Ыкшай курчап курчандым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l033",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 33,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 601.152,
+            "xMax": 338.3868,
+            "yMax": 616.404
+          },
+          "raw": "Толкуп жаткан Кашкарга",
+          "text": "Толкуп жаткан Кашкарга",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l034",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 34,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 617.952,
+            "xMax": 337.4412,
+            "yMax": 633.204
+          },
+          "raw": "Тогуз сапар кол салдым,",
+          "text": "Тогуз сапар кол салдым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l035",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 35,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 634.872,
+            "xMax": 345.0012,
+            "yMax": 650.124
+          },
+          "raw": "Ооганды бузуп он алдым,",
+          "text": "Ооганды бузуп он алдым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l036",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 36,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 651.672,
+            "xMax": 349.2,
+            "yMax": 666.924
+          },
+          "raw": "Орчун журтка кол салдым,",
+          "text": "Орчун журтка кол салдым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l037",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 37,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 668.472,
+            "xMax": 355.5612,
+            "yMax": 683.724
+          },
+          "raw": "Ордолуу шайык, көк жөкөр,",
+          "text": "Ордолуу шайык, көк жөкөр,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l038",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 38,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 685.392,
+            "xMax": 337.5576,
+            "yMax": 700.644
+          },
+          "raw": "Орчун Кокон, Маргалаң,",
+          "text": "Орчун Кокон, Маргалаң,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l039",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 39,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 702.192,
+            "xMax": 352.2,
+            "yMax": 717.444
+          },
+          "raw": "Самаркан барып үч алдым,",
+          "text": "Самаркан барып үч алдым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l040",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 40,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 719.112,
+            "xMax": 361.2,
+            "yMax": 734.364
+          },
+          "raw": "Жетиктеп белим курчандым,",
+          "text": "Жетиктеп белим курчандым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l041",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 41,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 735.912,
+            "xMax": 355.3212,
+            "yMax": 751.164
+          },
+          "raw": "Жердин жүзүн бир чалдым,",
+          "text": "Жердин жүзүн бир чалдым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0905:b001:l042",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 905,
+          "block": 1,
+          "line_in_block": 42,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 752.712,
+            "xMax": 335.16,
+            "yMax": 767.964
+          },
+          "raw": "Он эки капка чоң Букар,",
+          "text": "Он эки капка чоң Букар,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0906:b001:l001",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 906,
+          "block": 1,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 62.112,
+            "xMax": 351.864,
+            "yMax": 77.364
+          },
+          "raw": "Ошону камап мен бардым.",
+          "text": "Ошону камап мен бардым.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0896-0915.json",
+      "english_path": "corpus/batches/pages-0896-0915.en.txt",
+      "old": "The sheikhs with royal courts, the blue retainers,",
+      "en_context": [
+        [
+          "manas-2010:p0905:b001:l031",
+          "Unable to stay idling among the Noygut,"
+        ],
+        [
+          "manas-2010:p0905:b001:l032",
+          "I tightened my belt about me."
+        ],
+        [
+          "manas-2010:p0905:b001:l033",
+          "Against surging Kashgar"
+        ],
+        [
+          "manas-2010:p0905:b001:l034",
+          "I launched nine attacks."
+        ],
+        [
+          "manas-2010:p0905:b001:l035",
+          "I broke the Afghans and took ten;"
+        ],
+        [
+          "manas-2010:p0905:b001:l036",
+          "I attacked great peoples:"
+        ],
+        [
+          "manas-2010:p0905:b001:l037",
+          "The sheikhs with royal courts, the blue retainers,"
+        ],
+        [
+          "manas-2010:p0905:b001:l038",
+          "Great Kokand and Margalan;"
+        ],
+        [
+          "manas-2010:p0905:b001:l039",
+          "I went to Samarkand and took three."
+        ],
+        [
+          "manas-2010:p0905:b001:l040",
+          "I girded my waist firmly"
+        ],
+        [
+          "manas-2010:p0905:b001:l041",
+          "And scouted the face of the earth."
+        ],
+        [
+          "manas-2010:p0905:b001:l042",
+          "Great Bukhara with its twelve gates—"
+        ],
+        [
+          "manas-2010:p0906:b001:l001",
+          "I went to lay siege to it."
+        ]
+      ],
+      "batch_sha": "918735570145f86226798f10da21ff5493f4c992db0f2601ac3e035190cf52c8",
+      "en_sha": "118298c0ccf8af1fdd201ea21b43be3545071059e74004044c7734116af2388b",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula falls in military itinerary between Afghanistan and Kokon/Margalang/Samarkand; city epithet.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula falls in military itinerary between Afghanistan and Kokon/Margalang/Samarkand; city epithet.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0905.png",
+      "image_sha256": "fcaf8df43a18d31ea0485c6fa902f985fe431b3480ecfe7c06737c537e352eca",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": -2
+    },
+    {
+      "id": "manas-2010:p0986:b001:l009",
+      "source": {
+        "id": "manas-2010:p0986:b001:l009",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 986,
+        "block": 1,
+        "line_in_block": 9,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 196.872,
+          "xMax": 352.5,
+          "yMax": 212.124
+        },
+        "raw": "Ордолуу шайык, көк жөкөр",
+        "text": "Ордолуу шайык, көк жөкөр",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p0986:b001:l003",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 3,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 95.712,
+            "xMax": 331.9188,
+            "yMax": 110.964
+          },
+          "raw": "Баары көрүп жабылып,",
+          "text": "Баары көрүп жабылып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l004",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 4,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 112.632,
+            "xMax": 329.88,
+            "yMax": 127.884
+          },
+          "raw": "Кошоматын кылышып,",
+          "text": "Кошоматын кылышып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l005",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 5,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 129.432,
+            "xMax": 333.42,
+            "yMax": 144.684
+          },
+          "raw": "Жаш төрөлгөн баланын",
+          "text": "Жаш төрөлгөн баланын",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l006",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 6,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 146.352,
+            "xMax": 350.04,
+            "yMax": 161.604
+          },
+          "raw": "Беделин жакшы көрчүдөй,",
+          "text": "Беделин жакшы көрчүдөй,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l007",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 7,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 163.152,
+            "xMax": 319.512,
+            "yMax": 178.404
+          },
+          "raw": "Кошоматын карачы -",
+          "text": "Кошоматын карачы -",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l008",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 8,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 179.952,
+            "xMax": 361.104,
+            "yMax": 195.204
+          },
+          "raw": "Балага энчи бөлүп берчүдөй.",
+          "text": "Балага энчи бөлүп берчүдөй.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l009",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 9,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 196.872,
+            "xMax": 352.5,
+            "yMax": 212.124
+          },
+          "raw": "Ордолуу шайык, көк жөкөр",
+          "text": "Ордолуу шайык, көк жөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l010",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 10,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 213.672,
+            "xMax": 334.2,
+            "yMax": 228.924
+          },
+          "raw": "Кошоматты көп кылган,",
+          "text": "Кошоматты көп кылган,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l011",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 11,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 230.592,
+            "xMax": 337.5576,
+            "yMax": 245.844
+          },
+          "raw": "Орчун Кокон, Маргалаң,",
+          "text": "Орчун Кокон, Маргалаң,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l012",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 12,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 247.392,
+            "xMax": 336.432,
+            "yMax": 262.644
+          },
+          "raw": "Он эки кандын баарысы",
+          "text": "Он эки кандын баарысы",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l013",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 13,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 264.192,
+            "xMax": 318.816,
+            "yMax": 279.444
+          },
+          "raw": "Күбүрөшүп кеңешет:",
+          "text": "Күбүрөшүп кеңешет:",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l014",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 14,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 281.112,
+            "xMax": 318.7092,
+            "yMax": 296.364
+          },
+          "raw": "«Бу баланы тууганда",
+          "text": "«Бу баланы тууганда",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p0986:b001:l015",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 986,
+          "block": 1,
+          "line_in_block": 15,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 297.912,
+            "xMax": 329.16,
+            "yMax": 313.164
+          },
+          "raw": "Орус тоюн жеп кеткен,",
+          "text": "Орус тоюн жеп кеткен,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-0982-1001.json",
+      "english_path": "corpus/batches/pages-0982-1001.en.txt",
+      "old": "Courtly holy elders in costly blue boots,",
+      "en_context": [
+        [
+          "manas-2010:p0986:b001:l003",
+          "Everyone crowded round to see,"
+        ],
+        [
+          "manas-2010:p0986:b001:l004",
+          "Offering their flattery,"
+        ],
+        [
+          "manas-2010:p0986:b001:l005",
+          "As though the newborn child's"
+        ],
+        [
+          "manas-2010:p0986:b001:l006",
+          "Esteem were dear to them."
+        ],
+        [
+          "manas-2010:p0986:b001:l007",
+          "Look at their flattery—"
+        ],
+        [
+          "manas-2010:p0986:b001:l008",
+          "As though they would allot the child an inheritance!"
+        ],
+        [
+          "manas-2010:p0986:b001:l009",
+          "Courtly holy elders in costly blue boots,"
+        ],
+        [
+          "manas-2010:p0986:b001:l010",
+          "Who offered much flattery,"
+        ],
+        [
+          "manas-2010:p0986:b001:l011",
+          "Great Kokand and Margalang—"
+        ],
+        [
+          "manas-2010:p0986:b001:l012",
+          "All the twelve khans"
+        ],
+        [
+          "manas-2010:p0986:b001:l013",
+          "Conferred in murmurs:"
+        ],
+        [
+          "manas-2010:p0986:b001:l014",
+          "“When this child was born,"
+        ],
+        [
+          "manas-2010:p0986:b001:l015",
+          "The Russians ate at his feast and left,"
+        ]
+      ],
+      "batch_sha": "bce7365dff8fafe74f3b4277f29001e2fbb13021ec4aa48458859e66aac7b194",
+      "en_sha": "5df96ea4fa893d048d61205751044dbe08e5c273ed605d4132b03da970975ae1",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula identifies Kokand in the list of twelve khans flattering the newborn; separate following verse intervenes before Kokon/Margalang. Optional adjacent syntactic adjustment recorded below.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula identifies Kokand in the list of twelve khans flattering the newborn; separate following verse intervenes before Kokon/Margalang. Optional adjacent syntactic adjustment recorded below.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-0986.png",
+      "image_sha256": "42a0a1104640b5b7d54249ba37d048dad021017bc4bfcbf96a3dee924ef5a10c",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": -1
+    },
+    {
+      "id": "manas-2010:p1383:b003:l014",
+      "source": {
+        "id": "manas-2010:p1383:b003:l014",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1383,
+        "block": 3,
+        "line_in_block": 14,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 385.272,
+          "xMax": 352.5612,
+          "yMax": 400.524
+        },
+        "raw": "Ордолуу шайык көк жөкөр,",
+        "text": "Ордолуу шайык көк жөкөр,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p1383:b003:l008",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 8,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 284.232,
+            "xMax": 321.2412,
+            "yMax": 299.484
+          },
+          "raw": "Баары турду эсептеп,",
+          "text": "Баары турду эсептеп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l009",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 9,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 301.032,
+            "xMax": 356.76,
+            "yMax": 316.284
+          },
+          "raw": "Кошунум келген жолдошуң,",
+          "text": "Кошунум келген жолдошуң,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l010",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 10,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 317.832,
+            "xMax": 326.0508,
+            "yMax": 333.084
+          },
+          "raw": "Калк атасы кан Кошой",
+          "text": "Калк атасы кан Кошой",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l011",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 11,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 334.752,
+            "xMax": 338.7576,
+            "yMax": 350.004
+          },
+          "raw": "Калк каттаткан ал болуп,",
+          "text": "Калк каттаткан ал болуп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l012",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 12,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 351.552,
+            "xMax": 338.832,
+            "yMax": 366.804
+          },
+          "raw": "Эштектердин Жамгырчы",
+          "text": "Эштектердин Жамгырчы",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l013",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 13,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 368.472,
+            "xMax": 320.5212,
+            "yMax": 383.724
+          },
+          "raw": "Эсептеген бул болуп,",
+          "text": "Эсептеген бул болуп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l014",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 14,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 385.272,
+            "xMax": 352.5612,
+            "yMax": 400.524
+          },
+          "raw": "Ордолуу шайык көк жөкөр,",
+          "text": "Ордолуу шайык көк жөкөр,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l015",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 15,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 402.072,
+            "xMax": 334.6188,
+            "yMax": 417.324
+          },
+          "raw": "Орчун Кокон, Маргалаң",
+          "text": "Орчун Кокон, Маргалаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l016",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 16,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 418.992,
+            "xMax": 332.16,
+            "yMax": 434.244
+          },
+          "raw": "Кыйма чапкан жол эле,",
+          "text": "Кыйма чапкан жол эле,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l017",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 17,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 435.792,
+            "xMax": 306.384,
+            "yMax": 451.044
+          },
+          "raw": "Эки санча кол эле.",
+          "text": "Эки санча кол эле.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l018",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 18,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 452.592,
+            "xMax": 330.12,
+            "yMax": 467.844
+          },
+          "raw": "Эчен мыкты киши жок,",
+          "text": "Эчен мыкты киши жок,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l019",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 19,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 469.512,
+            "xMax": 306.9492,
+            "yMax": 484.764
+          },
+          "raw": "Эл эсебин алганда",
+          "text": "Эл эсебин алганда",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1383:b003:l020",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1383,
+          "block": 3,
+          "line_in_block": 20,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 486.312,
+            "xMax": 336.504,
+            "yMax": 501.564
+          },
+          "raw": "Жарым санча адам жок.",
+          "text": "Жарым санча адам жок.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-1372-1391.json",
+      "english_path": "corpus/batches/pages-1372-1391.en.txt",
+      "old": "The elders' courts, the blue-clad retinues,",
+      "en_context": [
+        [
+          "manas-2010:p1383:b003:l008",
+          "All stood making the count."
+        ],
+        [
+          "manas-2010:p1383:b003:l009",
+          "Your companion who had joined the army,"
+        ],
+        [
+          "manas-2010:p1383:b003:l010",
+          "Khan Koshoy, father of the people,"
+        ],
+        [
+          "manas-2010:p1383:b003:l011",
+          "Was the one who registered the people;"
+        ],
+        [
+          "manas-2010:p1383:b003:l012",
+          "Zhamgyrchy of the Eshteks"
+        ],
+        [
+          "manas-2010:p1383:b003:l013",
+          "Was the one who reckoned them."
+        ],
+        [
+          "manas-2010:p1383:b003:l014",
+          "The elders' courts, the blue-clad retinues,"
+        ],
+        [
+          "manas-2010:p1383:b003:l015",
+          "Great Kokand and Margalan:"
+        ],
+        [
+          "manas-2010:p1383:b003:l016",
+          "Their path had cut straight through,"
+        ],
+        [
+          "manas-2010:p1383:b003:l017",
+          "Their force had been about two san."
+        ],
+        [
+          "manas-2010:p1383:b003:l018",
+          "Many a fine man was missing;"
+        ],
+        [
+          "manas-2010:p1383:b003:l019",
+          "When the people were counted,"
+        ],
+        [
+          "manas-2010:p1383:b003:l020",
+          "Half a san of men was missing."
+        ]
+      ],
+      "batch_sha": "8ce0c4581954d23b14f4534f2d77c97cfb577125e7f14f484660a879aee07340",
+      "en_sha": "3401a07ffd198d08a7ae77045bc1ee1a11db28ae7c6186fed71223aa80c6fd2b",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula introduces Kokon/Margalang contingent in casualty count; collective city/people reference, not blue retinues.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula introduces Kokon/Margalang contingent in casualty count; collective city/people reference, not blue retinues.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-1383.png",
+      "image_sha256": "18ecb92681d1492e459581cb866f00d9b76c07e24f12f28f5e9fb80cfb03c47c",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": 0
+    },
+    {
+      "id": "manas-2010:p1447:b001:l008",
+      "source": {
+        "id": "manas-2010:p1447:b001:l008",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1447,
+        "block": 1,
+        "line_in_block": 8,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 179.952,
+          "xMax": 355.5612,
+          "yMax": 195.204
+        },
+        "raw": "Ордолуу шайык, көк жөкөр,",
+        "text": "Ордолуу шайык, көк жөкөр,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "context": [
+        {
+          "id": "manas-2010:p1447:b001:l002",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 2,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 78.912,
+            "xMax": 323.1588,
+            "yMax": 94.164
+          },
+          "raw": "Айта турган кеби бар,",
+          "text": "Айта турган кеби бар,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l003",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 3,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 95.712,
+            "xMax": 315.6732,
+            "yMax": 110.964
+          },
+          "raw": "Кан Көкөтөй баласы",
+          "text": "Кан Көкөтөй баласы",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l004",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 4,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 112.632,
+            "xMax": 328.224,
+            "yMax": 127.884
+          },
+          "raw": "Эр Бокмурун беги бар.",
+          "text": "Эр Бокмурун беги бар.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l005",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 5,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 129.432,
+            "xMax": 353.1576,
+            "yMax": 144.684
+          },
+          "raw": "Калайык журттун каны бар,",
+          "text": "Калайык журттун каны бар,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l006",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 6,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 146.352,
+            "xMax": 353.172,
+            "yMax": 161.604
+          },
+          "raw": "Ойроттон чыккан эр Шыгай",
+          "text": "Ойроттон чыккан эр Шыгай",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l007",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 7,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 163.152,
+            "xMax": 332.784,
+            "yMax": 178.404
+          },
+          "raw": "Ошол баатыр дагы бар.",
+          "text": "Ошол баатыр дагы бар.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l008",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 8,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 179.952,
+            "xMax": 355.5612,
+            "yMax": 195.204
+          },
+          "raw": "Ордолуу шайык, көк жөкөр,",
+          "text": "Ордолуу шайык, көк жөкөр,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l009",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 9,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 196.872,
+            "xMax": 334.6188,
+            "yMax": 212.124
+          },
+          "raw": "Орчун Кокон, Маргалаң",
+          "text": "Орчун Кокон, Маргалаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l010",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 10,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 213.672,
+            "xMax": 321.144,
+            "yMax": 228.924
+          },
+          "raw": "Атышканы ал келген.",
+          "text": "Атышканы ал келген.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l011",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 11,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 230.592,
+            "xMax": 318.9612,
+            "yMax": 245.844
+          },
+          "raw": "Кокон каны Козубек,",
+          "text": "Кокон каны Козубек,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l012",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 12,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 247.392,
+            "xMax": 335.8788,
+            "yMax": 262.644
+          },
+          "raw": "Маргалаңдын Малабек,",
+          "text": "Маргалаңдын Малабек,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l013",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 13,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 264.192,
+            "xMax": 393.6012,
+            "yMax": 279.444
+          },
+          "raw": "Анжыяндын айры сакал Сынчыбек,",
+          "text": "Анжыяндын айры сакал Сынчыбек,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        },
+        {
+          "id": "manas-2010:p1447:b001:l014",
+          "source_id": "manas-2010",
+          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+          "page": 1447,
+          "block": 1,
+          "line_in_block": 14,
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 281.112,
+            "xMax": 332.784,
+            "yMax": 296.364
+          },
+          "raw": "Ошол баатыр дагы бар.",
+          "text": "Ошол баатыр дагы бар.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "identity"
+        }
+      ],
+      "batch": "corpus/batches/pages-1438-1457.json",
+      "english_path": "corpus/batches/pages-1438-1457.en.txt",
+      "old": "The elders' courts, the blue-clad retinues,",
+      "en_context": [
+        [
+          "manas-2010:p1447:b001:l002",
+          "With words he had to say,"
+        ],
+        [
+          "manas-2010:p1447:b001:l003",
+          "The son of Khan Kökötöy,"
+        ],
+        [
+          "manas-2010:p1447:b001:l004",
+          "Their lord, warrior Bokmurun, was there."
+        ],
+        [
+          "manas-2010:p1447:b001:l005",
+          "There were khans of the common people;"
+        ],
+        [
+          "manas-2010:p1447:b001:l006",
+          "Warrior Shygay from the Oyrat,"
+        ],
+        [
+          "manas-2010:p1447:b001:l007",
+          "That warrior was there as well."
+        ],
+        [
+          "manas-2010:p1447:b001:l008",
+          "The elders' courts, the blue-clad retinues,"
+        ],
+        [
+          "manas-2010:p1447:b001:l009",
+          "Great Kokand and Margalan,"
+        ],
+        [
+          "manas-2010:p1447:b001:l010",
+          "Had come to fight."
+        ],
+        [
+          "manas-2010:p1447:b001:l011",
+          "Kozubek, khan of Kokand,"
+        ],
+        [
+          "manas-2010:p1447:b001:l012",
+          "Malabek of Margalan,"
+        ],
+        [
+          "manas-2010:p1447:b001:l013",
+          "Fork-bearded Synchybek of Andijan,"
+        ],
+        [
+          "manas-2010:p1447:b001:l014",
+          "That warrior was there as well."
+        ]
+      ],
+      "batch_sha": "8ddac2e308ebda0002da8e12bb98978598e57a645308c7deb0b97e18f9109657",
+      "en_sha": "1d3238cb6861d9b1c066c127ed45181e445f5ff3a3ee98c5d8bfabc3f62a8081",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Formula introduces Kokon/Margalang whose khans Kozubek and Malabek are named next; city epithet.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula introduces Kokon/Margalang whose khans Kozubek and Malabek are named next; city epithet.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/manas-2010-1447.png",
+      "image_sha256": "ef1d2b80908f132e49fa1acf5457b0d063f2d3fd550e237851b711738601e327",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": 0
+    },
+    {
+      "id": "semetey-1-2013:p0111:b003:l036",
+      "source": {
+        "id": "semetey-1-2013:p0111:b003:l036",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 111,
+        "block": 3,
+        "line_in_block": 36,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 640.1397,
+          "xMax": 275.1528,
+          "yMax": 653.3277
+        },
+        "raw": "Áó îðäîëóó øàéûê*, Êºê æºêºð*",
+        "text": "Бу ордолуу шайык*, Көк жөкөр*",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "context": [
+        {
+          "id": "semetey-1-2013:p0111:b003:l030",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 30,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 554.9397,
+            "xMax": 278.916,
+            "yMax": 568.1277
+          },
+          "raw": "Îøîë, êàéãûðûï ûéëàï òóðãàíäà",
+          "text": "Ошол, кайгырып ыйлап турганда",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l031",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 31,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 569.0997,
+            "xMax": 269.9004,
+            "yMax": 582.2877
+          },
+          "raw": "«Óøó êóìàðûì æàçàð Òàëàñûì,",
+          "text": "«Ушу кумарым жазар Таласым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l032",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 32,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 583.4997,
+            "xMax": 285.5448,
+            "yMax": 596.6877
+          },
+          "raw": "Êóðäàøûì ãàíà êºêæàë Ìàíàñûì.",
+          "text": "Курдашым гана көкжал Манасым.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l033",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 33,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 597.6597,
+            "xMax": 287.7156,
+            "yMax": 610.8477
+          },
+          "raw": "Áó êºêæàëäûí Êå¢-Êîëäîí àëãàí",
+          "text": "Бу көкжалдын Кең-Колдон алган",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l034",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 34,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 611.8197,
+            "xMax": 134.0748,
+            "yMax": 625.0077
+          },
+          "raw": "êº÷¿ áàð,",
+          "text": "көчү бар,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l035",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 35,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 625.9797,
+            "xMax": 287.7444,
+            "yMax": 639.1677
+          },
+          "raw": "Æå êåç êåëãåí ãàíà æåðäèí º÷¿ áàð.",
+          "text": "Же кез келген гана жердин өчү бар.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l036",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 36,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 640.1397,
+            "xMax": 275.1528,
+            "yMax": 653.3277
+          },
+          "raw": "Áó îðäîëóó øàéûê*, Êºê æºêºð*",
+          "text": "Бу ордолуу шайык*, Көк жөкөр*",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l037",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 37,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 654.2997,
+            "xMax": 227.94,
+            "yMax": 667.4877
+          },
+          "raw": "Îð÷óíó Êîêîí, Ìàðãàëà¢",
+          "text": "Орчуну Кокон, Маргалаң",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l038",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 38,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 668.6997,
+            "xMax": 262.6176,
+            "yMax": 681.8877
+          },
+          "raw": "Áó ê¿í áàñàð æóðòòóí º÷¿ áàð.",
+          "text": "Бу күн басар журттун өчү бар.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b003:l039",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 3,
+          "line_in_block": 39,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 682.8597,
+            "xMax": 216.7344,
+            "yMax": 696.0477
+          },
+          "raw": "Ìåí æåòêè÷å Êàíûêåé",
+          "text": "Мен жеткиче Каныкей",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b004:l001",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 4,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 143.0997,
+            "xMax": 442.9356,
+            "yMax": 156.2877
+          },
+          "raw": "Ê¿ëàçûãûí ÷à÷ïàñûí,",
+          "text": "Күлазыгын чачпасын,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b004:l002",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 4,
+          "line_in_block": 2,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 157.2597,
+            "xMax": 452.8356,
+            "yMax": 170.4477
+          },
+          "raw": "Ê¿é¿òêº òóóãàí ê¿¢ ýëå",
+          "text": "Күйүткө тууган күң эле",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0111:b004:l003",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 111,
+          "block": 4,
+          "line_in_block": 3,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 171.6597,
+            "xMax": 484.1796,
+            "yMax": 184.8477
+          },
+          "raw": "Àðû, ê¿í áàòûø ãàíà êºçäºé",
+          "text": "Ары, күн батыш гана көздөй",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "batch": "corpus/batches/pages-semetey1-0110-0129.json",
+      "english_path": "corpus/batches/pages-semetey1-0110-0129.en.txt",
+      "old": "These sheikhs with courts and costly riding boots,",
+      "en_context": [
+        [
+          "semetey-1-2013:p0111:b003:l029",
+          "As he turned his steed's head,"
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l030",
+          "While he stood weeping in sorrow,"
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l031",
+          "“This Talas that quenches my longing,"
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l032",
+          "My companion, gray-maned Manas."
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l033",
+          "This gray-maned hero took a migration from Keng-Kol,"
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l035",
+          "And every place he encountered has a vengeance to exact."
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l036",
+          "These sheikhs with courts and costly riding boots,"
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l037",
+          "The multitude of Kokand and Marghilan,"
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l038",
+          "These western people have a vengeance to exact."
+        ],
+        [
+          "semetey-1-2013:p0111:b003:l039",
+          "“Before I reach her, may Kanykey"
+        ],
+        [
+          "semetey-1-2013:p0111:b004:l001",
+          "Not scatter her travel provisions."
+        ],
+        [
+          "semetey-1-2013:p0111:b004:l002",
+          "That bondwoman born to sorrow,"
+        ],
+        [
+          "semetey-1-2013:p0111:b004:l003",
+          "May she not flee farther west."
+        ]
+      ],
+      "batch_sha": "be1dd8fcd4761528828e43e96f97e560d2edbac7fcd78a7764155dc3b6a55386",
+      "en_sha": "380e694d4f5cb8dedd66143e691ad9628a0631de7fe985bdbcbbba9c1c6dd35b",
+      "proposed": "This famed sacred capital of sheikhs,",
+      "review_note": "Printed starred formula with initial Бу precedes Kokon/Margalang and western peoples holding grudges; initial demonstrative preserved.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Printed starred formula with initial Бу precedes Kokon/Margalang and western peoples holding grudges; initial demonstrative preserved.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/semetey-1-2013-0111.png",
+      "image_sha256": "a5ee1644045d8dce82ed92507d35353a10bde39e34d1042072a48fe00d9b5004",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": -2
+    },
+    {
+      "id": "semetey-1-2013:p0163:b005:l038",
+      "source": {
+        "id": "semetey-1-2013:p0163:b005:l038",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 163,
+        "block": 5,
+        "line_in_block": 38,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 668.6997,
+          "xMax": 487.4052,
+          "yMax": 681.8877
+        },
+        "raw": "Îðäîëóó – Øàéûê, Êºêæºêºð",
+        "text": "Ордолуу – Шайык, Көкжөкөр",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "context": [
+        {
+          "id": "semetey-1-2013:p0163:b005:l032",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 32,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 583.4997,
+            "xMax": 485.0136,
+            "yMax": 596.6877
+          },
+          "raw": "Óøóíäàé ýëå ýêåí ä¿éíº áîê!",
+          "text": "Ушундай эле экен дүйнө бок!",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b005:l033",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 33,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 597.6597,
+            "xMax": 443.7168,
+            "yMax": 610.8477
+          },
+          "raw": "Àëäà áàøêà ñàëãàíäû,",
+          "text": "Алда башка салганды,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b005:l034",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 34,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 611.8197,
+            "xMax": 438.5484,
+            "yMax": 625.0077
+          },
+          "raw": "Êºòºðáºñêº ÷àðà æîê.",
+          "text": "Көтөрбөскө чара жок.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b005:l035",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 35,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 625.9797,
+            "xMax": 479.1144,
+            "yMax": 639.1677
+          },
+          "raw": "Ñàïàð ãàíà òàðòòû¢ Áóêàðãà",
+          "text": "Сапар гана тарттың Букарга",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b005:l036",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 36,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 640.1397,
+            "xMax": 440.1888,
+            "yMax": 653.3277
+          },
+          "raw": "Î, Êàíûêåé êóëóíóì,",
+          "text": "О, Каныкей кулунум,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b005:l037",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 37,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 654.2997,
+            "xMax": 453.6432,
+            "yMax": 667.4877
+          },
+          "raw": "Æåð áåëãèñèí àéòàéûí.",
+          "text": "Жер белгисин айтайын.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b005:l038",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 38,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 668.6997,
+            "xMax": 487.4052,
+            "yMax": 681.8877
+          },
+          "raw": "Îðäîëóó – Øàéûê, Êºêæºêºð",
+          "text": "Ордолуу – Шайык, Көкжөкөр",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b005:l039",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 5,
+          "line_in_block": 39,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 682.8597,
+            "xMax": 459.6288,
+            "yMax": 696.0477
+          },
+          "raw": "Îð÷óíó Êîêîí, Àíæûÿí.",
+          "text": "Орчуну Кокон, Анжыян.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0163:b006:l001",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 163,
+          "block": 6,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 253.67808,
+            "yMin": 694.3293,
+            "xMax": 346.76112,
+            "yMax": 722.78178
+          },
+          "raw": "v 163 V",
+          "text": "v 163 V",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0164:b001:l001",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 164,
+          "block": 1,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 528.317749,
+            "yMin": 4.529279,
+            "xMax": 579.437749,
+            "yMax": 15.113279
+          },
+          "raw": "www.bizdin.kg",
+          "text": "www.bizdin.kg",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0164:b002:l001",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 164,
+          "block": 2,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 236.88,
+            "yMin": 95.74722,
+            "xMax": 360.61632,
+            "yMax": 141.12162
+          },
+          "raw": "k ñåìåòåé K",
+          "text": "k семетей K",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0164:b003:l001",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 164,
+          "block": 3,
+          "line_in_block": 1,
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 143.0997,
+            "xMax": 207.9228,
+            "yMax": 156.2877
+          },
+          "raw": "Ýë áåëãèñèí àéòàéûí,",
+          "text": "Эл белгисин айтайын,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0164:b003:l002",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 164,
+          "block": 3,
+          "line_in_block": 2,
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 157.2597,
+            "xMax": 210.6048,
+            "yMax": 170.4477
+          },
+          "raw": "Î, Êàíûêåé, êóëóíóì,",
+          "text": "О, Каныкей, кулунум,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "batch": "corpus/batches/pages-semetey1-0156-0175.json",
+      "english_path": "corpus/batches/pages-semetey1-0156-0175.en.txt",
+      "old": "Shaiyk with its court, Kokjokor,",
+      "en_context": [
+        [
+          "semetey-1-2013:p0163:b005:l032",
+          "Such is this dung of a world!"
+        ],
+        [
+          "semetey-1-2013:p0163:b005:l033",
+          "What Allah lays upon our heads,"
+        ],
+        [
+          "semetey-1-2013:p0163:b005:l034",
+          "We have no choice but to bear."
+        ],
+        [
+          "semetey-1-2013:p0163:b005:l035",
+          "You have set out for Bukhara,"
+        ],
+        [
+          "semetey-1-2013:p0163:b005:l036",
+          "Oh, Kanykei, my foal."
+        ],
+        [
+          "semetey-1-2013:p0163:b005:l037",
+          "Let me tell you the landmarks:"
+        ],
+        [
+          "semetey-1-2013:p0163:b005:l038",
+          "Shaiyk with its court, Kokjokor,"
+        ],
+        [
+          "semetey-1-2013:p0163:b005:l039",
+          "And the chief cities, Kokand and Andijan."
+        ],
+        [
+          "semetey-1-2013:p0164:b003:l001",
+          "Let me describe the people,"
+        ],
+        [
+          "semetey-1-2013:p0164:b003:l002",
+          "Oh, Kanykei, my foal."
+        ],
+        [
+          "semetey-1-2013:p0164:b003:l003",
+          "If you travel onward from here,"
+        ],
+        [
+          "semetey-1-2013:p0164:b003:l004",
+          "Covering ground without sparing your horse,"
+        ],
+        [
+          "semetey-1-2013:p0164:b003:l005",
+          "You will come to rolling hills,"
+        ]
+      ],
+      "batch_sha": "6908d46cb72b97d6fbe24cab2baa790e78a60000b2e9857b13911ceecb84c30e",
+      "en_sha": "e88f69a1b17c7de9a47e8a9c3b77ae6aa7fe9ce97077e74a80fdbfceb5c0c5f0",
+      "proposed": "The famed sacred capital of sheikhs,",
+      "review_note": "Printed capitals/dash do not establish two independent place names: formula immediately precedes Kokon/Andijan after introduction to landmarks. Exact glossary supplies Kokand epithet.",
+      "material_note": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Printed capitals/dash do not establish two independent place names: formula immediately precedes Kokon/Andijan after introduction to landmarks. Exact glossary supplies Kokand epithet.",
+      "review_image": "/home/shawn/dev/manas/tmp/kokand-formula-review/semetey-1-2013-0163.png",
+      "image_sha256": "a53c27a4d43fd89cef0fadd2a46f4c6d186e06ffb516a63183f958beffacf29f",
+      "individually_image_reviewed": true,
+      "surrounding_ky_en_reviewed": true,
+      "english_word_delta": 1
+    }
+  ],
+  "verse_delta": 0,
+  "english_word_delta": -10,
+  "optional_adjacent_changes": [
+    {
+      "id": "manas-2010:p0986:b001:l010",
+      "old": "Who offered much flattery,",
+      "proposed": "Offering much flattery,",
+      "reason": "Removes a human-only relative pronoun after corrected city epithet while preserving participial source; subject twelve khans follows.",
+      "english_word_delta": -1
+    }
+  ]
+}

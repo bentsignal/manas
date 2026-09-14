@@ -2144,7 +2144,7 @@
     "semetey-1-2013:p0111:b003:l027": "Упа II is опаа, fidelity; exact Yudakhin упасы жок дүнүйө describes the faithless/transient world.",
     "semetey-1-2013:p0111:b003:l028": "Scatological curse retained.",
     "semetey-1-2013:p0111:b003:l033": "Printed көч, migration, differs from өч, vengeance, in the adjacent verse; both nouns retained without emendation. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0111:b003:l036": "Көк жөкөр = көк жеке, costly male riding boots, per primary Yudakhin жөкөр/жеке II. Not an invented Blue Retainers ethnicity. Court, sheikh and boots remain an elliptical juxtaposition; English and connects them without inventing a separate subject.",
+    "semetey-1-2013:p0111:b003:l036": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Printed starred formula with initial Бу precedes Kokon/Margalang and western peoples holding grudges; initial demonstrative preserved.",
     "semetey-1-2013:p0111:b003:l037": "Орчуну is construed as possessive орчун, multitude, primary Yudakhin орчун. Kokand and Marghilan remain named places; not a fabricated stronghold. Exact inflection remains provisional.",
     "semetey-1-2013:p0111:b004:l001": "Күлазык is dried/prepared travel food; not a named person.",
     "semetey-1-2013:p0111:b004:l006": "Hunter reference follows the separate Six Cities/Kokand verse; no noun displaced to the preceding ID.",
@@ -2502,7 +2502,7 @@
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No MT API or previous published English poem used. Primary Kyrgyz/Russian dictionary entries and original Kyrgyz editorial preface used only for lexical support. Provisional translation and lineation; source witness not reconciled and no independent expert certification.",
   "counts": {
     "english_verse_rows": 1512,
-    "english_words": 8830,
+    "english_words": 8828,
     "unresolved_source_rows": 5,
     "physical_narrative_fragments": 1559,
     "reconstructed_source_verses": 1517,
@@ -2516,7 +2516,7 @@
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
     "source_words": 5364,
-    "english_words": 8830,
+    "english_words": 8828,
     "all_source_verse_words": 5380
   },
   "source_hashes": {

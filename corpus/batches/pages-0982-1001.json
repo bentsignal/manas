@@ -858,7 +858,7 @@
     "manas-2010:p0984:b001:l028": "Өзүм жалгыз interpreted as an only son in the conscription/exemption context, rather than temporarily alone. Repeated984:37/985:1.",
     "manas-2010:p0985:b001:l032": "кырымII finely made/excellent quality, Yudakhin, not Crimean provenance here. https://el-sozduk.kg/кырым/",
     "manas-2010:p0985:b001:l037": "чунак2 affectionate mischievous child, little rascal, Yudakhin; no literal ear defect inferred. https://el-sozduk.kg/чунак/",
-    "manas-2010:p0986:b001:l009": "шайык epic honored holy elder; көк жөкөр → көк жеке costly footwear of rulers. The noun list is syntactically compressed, boots attached to court elders provisionally. https://el-sozduk.kg/шайык/ ; https://el-sozduk.kg/жөкөр/ ; https://el-sozduk.kg/жеке/",
+    "manas-2010:p0986:b001:l009": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula identifies Kokand in the list of twelve khans flattering the newborn; separate following verse intervenes before Kokon/Margalang. Optional adjacent syntactic adjustment recorded below.",
     "manas-2010:p0986:b001:l019": "Kyrym retained as printed apparent place-name in conquest prediction; no fixed identification with modern Crimea. Distinct from workmanship adjective985:32.",
     "manas-2010:p0986:b001:l031": "чырымтал newborn body down, Yudakhin1. https://el-sozduk.kg/чырымтал/",
     "manas-2010:p0986:b001:l039": "Left by the father is anticipatory departure language, not a claim that Manas has already died.",
@@ -923,7 +923,8 @@
     "manas-2010:p1000:b001:l031": "бучмагы provisionally buttress/corner of the mountain, metaphor for strength. Exact headword unconfirmed; raw remains, no proper name invented.",
     "manas-2010:p1000:b001:l036": "кол бошоткон khan clearing/releasing the host read operationally as clearing its way; exact tactical function remains qualified.",
     "manas-2010:p1001:b001:l002": "Printed ыйман is faith but in Aykojo’s role here read as religious guide, probable imam sense/spelling. Not silently amended in source.",
-    "manas-2010:p1001:b001:l037": "канына read as to his khan from missing contingent men/accountability context; blood homonym would require another reading. Qualified, raw preserved."
+    "manas-2010:p1001:b001:l037": "канына read as to his khan from missing contingent men/accountability context; blood homonym would require another reading. Qualified, raw preserved.",
+    "manas-2010:p0986:b001:l010": "Participial Кошоматты көп кылган retained as offering much flattery after the corrected city epithet; twelve khans follow in source. Same individual image/context review as986:1:9."
   },
   "headings": [],
   "prose_passages": [],
@@ -1000,6 +1001,6 @@
   "word_counts": {
     "method": "Python alphabetic words, internal apostrophes/hyphens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*; verse only.",
     "source_words": 2772,
-    "english_words": 4760
+    "english_words": 4758
   }
 }

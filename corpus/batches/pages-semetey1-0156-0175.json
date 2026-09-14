@@ -1737,7 +1737,7 @@
     "semetey-1-2013:p0163:b005:l022": "Кербендей caravan-sized frame metaphor kept despite unusual scale; not silently replaced with imposing.",
     "semetey-1-2013:p0163:b005:l025": "Кербендерди качырып causative driving caravans to flight retained, not commerce.",
     "semetey-1-2013:p0163:b005:l032": "Дүйнө бок strong scatological rejection of deceptive mortal world retained.",
-    "semetey-1-2013:p0163:b005:l038": "Шайык, Көкжөкөр names retained as printed; no modern geolocation asserted.",
+    "semetey-1-2013:p0163:b005:l038": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Printed capitals/dash do not establish two independent place names: formula immediately precedes Kokon/Andijan after introduction to landmarks. Exact glossary supplies Kokand epithet.",
     "semetey-1-2013:p0164:b003:l011": "Аман-Жол proper route name retained, not simply safe road.",
     "semetey-1-2013:p0164:b003:l016": "Ээр белдей saddle-waist silhouette retained.",
     "semetey-1-2013:p0164:b003:l034": "Чайдоо variant of чайдоос, Yudakhin water kettle for tea; source golden kettles and cheap tea contrast retained.",
@@ -2360,7 +2360,7 @@
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
     "english_verse_rows": 1523,
-    "english_words": 8976,
+    "english_words": 8977,
     "unresolved_source_rows": 5,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1528,

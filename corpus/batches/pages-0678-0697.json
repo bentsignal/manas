@@ -999,7 +999,7 @@
     "manas-2010:p0687:b001:l030": "Obtaining wife retained, no marriage ceremony or consent invented.",
     "manas-2010:p0687:b001:l031": "Оромпой one-foot hopping game and ордо knucklebone game both translated; exact rules not supplied.",
     "manas-2010:p0687:b001:l032": "Чатыраш chess, no board arrangement invented.",
-    "manas-2010:p0688:b001:l004": "Шайык sheikh/religious elder; көк жөкөр staunch retainer. Relation between appositions and following visitor remains compressed.",
+    "manas-2010:p0688:b001:l004": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula precedes Kokon/Margalang as origin of the arriving ruler. From supplies the English preposition already used in the next line.",
     "manas-2010:p0688:b001:l006": "Ак үйлүү literal white dwelling provisionally marks authority/wealth here. Dictionaries also define a political hostage; context does not securely indicate visitor’s hostage status. See https://el-sozduk.kg/АК ҮЙЛҮҮ/. Not treated as proper name.",
     "manas-2010:p0688:b001:l007": "Speech onset inferred from request in l014 and Aykozho self-identification p692; source lacks opening quote here.",
     "manas-2010:p0688:b001:l016": "Palm-sized handful preserves smallness metaphor for Muslim population.",
@@ -1037,7 +1037,7 @@
     "manas-2010:p0691:b001:l030": "All slain plus few escaped preserved as adjacent source assertions, not harmonized.",
     "manas-2010:p0692:b001:l001": "Анжыян source place form retained Anzhyian; not spelling correction in Kyrgyz.",
     "manas-2010:p0692:b001:l003": "Бээлеп visibly printed, read contextually since arrival (possible defective бери); revised from unsupported from those who came. Exact temporal expression remains uncertain.",
-    "manas-2010:p0692:b001:l009": "Repeated sheikh/retainer line retained with its uncertain attachment, no missing list invented.",
+    "manas-2010:p0692:b001:l009": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula introduces Kokon/Margalang as places to free from Alöökö; city epithet.",
     "manas-2010:p0692:b001:l017": "Ала чапан striped/mottled robe, color pattern qualified.",
     "manas-2010:p0692:b001:l024": "Six months unwearied riding preserved as horse praise.",
     "manas-2010:p0692:b001:l026": "Küldür and Boz Uul capable lads, names contextual roster p684–685.",
@@ -1166,7 +1166,7 @@
   "publication_basis": "New draft directly from Kyrgyz traditional folklore; no prior English translation input. Editorial heading and footnote retained only in audit. All source verse translated with qualified per-ID uncertainties; no independent Kyrgyz expert review or complete-witness claim.",
   "counts": {
     "english_verse_rows": 834,
-    "english_words": 4428,
+    "english_words": 4429,
     "excluded_heading_rows": 3,
     "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"

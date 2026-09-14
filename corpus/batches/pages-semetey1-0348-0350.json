@@ -165,6 +165,7 @@
     "semetey-1-2013:p0350:b003:l006",
     "semetey-1-2013:p0350:b003:l007",
     "semetey-1-2013:p0350:b003:l008",
+    "semetey-1-2013:p0350:b003:l009",
     "semetey-1-2013:p0350:b003:l010",
     "semetey-1-2013:p0350:b003:l011",
     "semetey-1-2013:p0350:b003:l012",
@@ -299,11 +300,6 @@
       "reason": "Visually confirmed decorative title or folio, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0350:b003:l009",
-      "kind": "unresolved_source",
-      "reason": "Менде карап турбаган: subject/reference and Менде wording in Bakai lament unclear; no guessed I too / who did not look at me substituted."
-    },
-    {
       "id": "semetey-1-2013:p0350:b004:l003",
       "kind": "unresolved_source",
       "reason": "Мунун ити да кою оңбойт: кою relation unresolved; no unsupported sheep or omission of the word."
@@ -346,7 +342,7 @@
     "semetey-1-2013:p0349:b004:l029": "No tongue means unable to speak in surrounding account of wise dog, not literal tongue removal.",
     "semetey-1-2013:p0349:b004:l035": "Six days without food versus sixty days howling; both numbers and repeated Kumaik retained.",
     "semetey-1-2013:p0349:b004:l037": "Place father washed funerary context, not arbitrary bathing scene; no extra ritual instructions.",
-    "semetey-1-2013:p0350:b003:l011": "Bakai named weeping on seeing hound; preceding unclear pronoun verse explicitly held.",
+    "semetey-1-2013:p0350:b003:l011": "Bakai named weeping on seeing hound; preceding менде verse restored from primary noun meaning mortal/person.",
     "semetey-1-2013:p0350:b003:l016": "Six villains source moral epithet, no invented individual names beyond Abyke.",
     "semetey-1-2013:p0350:b003:l021": "Repeated -гандыр inference rendered must have, not eyewitness certainty.",
     "semetey-1-2013:p0350:b003:l027": "Enemies' hostile reported speech about dog and Manas retained as speech.",
@@ -363,7 +359,8 @@
     "semetey-1-2013:p0350:b004:l026": "Жетим кул orphan lad/dependent in affectionate context, not fabricated enslavement event.",
     "semetey-1-2013:p0350:b004:l030": "Brow clearing/anxiety easing repeated wish, not already completed recovery.",
     "semetey-1-2013:p0350:b004:l039": "Кезеңче little mountain pass; departure continues351.",
-    "semetey-1-2013:p0349:b003:l033": "Уручу Кудай урду: past assertion God has struck her, not an imperative wish. Corrected after pair review; speaker accusation retained."
+    "semetey-1-2013:p0349:b003:l033": "Уручу Кудай урду: past assertion God has struck her, not an imperative wish. Corrected after pair review; speaker accusation retained.",
+    "semetey-1-2013:p0350:b003:l009": "Restored after exact primary Yudakhin headword менде = бенде, mortal/person (with Kanchoro example). Менде is a noun here, not first-person locative me. Карап турбаган = did not stand indifferent, also exact Manas mourning formula in жамагат entry. Original gap was uncertainty over pronoun/reference; source text unchanged. Individually inspected page350 and reread restored pair."
   },
   "unresolved_source": [
     {
@@ -461,37 +458,6 @@
     },
     {
       "source_ids": [
-        "semetey-1-2013:p0350:b003:l009"
-      ],
-      "raw": [
-        "Ìåíäå êàðàï òóðáàãàí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0350:b003:l009",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 350,
-          "block": 3,
-          "line_in_block": 9,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 256.8597,
-            "xMax": 212.3256,
-            "yMax": 270.0477
-          },
-          "raw": "Ìåíäå êàðàï òóðáàãàí,",
-          "text": "Менде карап турбаган,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Менде карап турбаган: subject/reference and Менде wording in Bakai lament unclear; no guessed I too / who did not look at me substituted.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
         "semetey-1-2013:p0350:b004:l003"
       ],
       "raw": [
@@ -531,6 +497,6 @@
       349,
       350
     ],
-    "evidence": "Individually inspected /tmp/semetey-root-0348.png through /tmp/semetey-root-0350.png, left column then right; five indented wraps. All 229 reconstructed source verses read against English or held-verse record in consecutive blocks of 115 and 114. Three final revised pairs reread. Five whole unresolved verses excluded from 224 translated draft verses; no independent specialist review."
+    "evidence": "Individually inspected /tmp/semetey-root-0348.png through /tmp/semetey-root-0350.png, left column then right; five indented wraps. All 229 reconstructed source verses read against English or held-verse record in consecutive blocks of 115 and 114. Three final revised pairs reread. Four whole unresolved verses excluded from 225 translated draft verses; no independent specialist review. Restored350:3:9 reread after lexical confirmation."
   }
 }

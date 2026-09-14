@@ -1,6 +1,6 @@
 {
-  "saved_draft_rows": 102252,
-  "released_draft_rows": 101796,
+  "saved_draft_rows": 106854,
+  "released_draft_rows": 106854,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
@@ -191,18 +191,53 @@
     "semetey-1-2013:p0319:b004:l016",
     "semetey-1-2013:p0323:b003:l032",
     "semetey-1-2013:p0326:b003:l038",
+    "semetey-1-2013:p0330:b003:l005",
+    "semetey-1-2013:p0331:b003:l023",
+    "semetey-1-2013:p0332:b003:l014",
+    "semetey-1-2013:p0332:b003:l026",
+    "semetey-1-2013:p0332:b004:l017",
+    "semetey-1-2013:p0334:b003:l009",
+    "semetey-1-2013:p0337:b003:l012",
+    "semetey-1-2013:p0337:b003:l023",
+    "semetey-1-2013:p0337:b003:l030",
+    "semetey-1-2013:p0337:b003:l036",
+    "semetey-1-2013:p0340:b003:l035",
+    "semetey-1-2013:p0340:b004:l029",
+    "semetey-1-2013:p0344:b004:l039",
+    "semetey-1-2013:p0345:b003:l006",
+    "semetey-1-2013:p0345:b003:l019",
+    "semetey-1-2013:p0345:b005:l002",
+    "semetey-1-2013:p0345:b005:l013",
+    "semetey-1-2013:p0347:b005:l026",
     "semetey-1-2013:p0348:b004:l034",
     "semetey-1-2013:p0349:b003:l030",
     "semetey-1-2013:p0349:b004:l026",
-    "semetey-1-2013:p0350:b003:l009",
     "semetey-1-2013:p0350:b004:l003",
-    "semetey-1-2013:p0351:b004:l017"
+    "semetey-1-2013:p0351:b004:l017",
+    "semetey-1-2013:p0358:b003:l017",
+    "semetey-1-2013:p0359:b003:l026",
+    "semetey-1-2013:p0360:b003:l019",
+    "semetey-1-2013:p0360:b003:l023",
+    "semetey-1-2013:p0363:b005:l009",
+    "semetey-1-2013:p0364:b004:l035",
+    "semetey-1-2013:p0367:b003:l033",
+    "semetey-1-2013:p0368:b003:l011",
+    "semetey-1-2013:p0368:b003:l020",
+    "semetey-1-2013:p0369:b003:l018",
+    "semetey-1-2013:p0369:b005:l006",
+    "semetey-1-2013:p0370:b004:l019",
+    "semetey-1-2013:p0382:b003:l009",
+    "semetey-1-2013:p0387:b003:l036",
+    "semetey-1-2013:p0389:b004:l009",
+    "semetey-1-2013:p0392:b003:l037",
+    "semetey-1-2013:p0392:b004:l028",
+    "semetey-1-2013:p0392:b004:l033"
   ],
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 568573,
-  "released_english_words": 565871,
+  "saved_draft_english_words": 595426,
+  "released_english_words": 595426,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
   "saved_page_ranges_by_source": {
@@ -215,11 +250,7 @@
     "semetey-1-2013": [
       [
         24,
-        327
-      ],
-      [
-        348,
-        353
+        393
       ]
     ]
   }

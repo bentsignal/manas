@@ -1010,7 +1010,7 @@
     "manas-2010:p0061:b002:l048": "кекерди visibly present; troubles is a contextual rendering, exact reading unresolved.",
     "manas-2010:p0062:b002:l027": "туркана retained as Turkana; ethnonym or descriptive expression unresolved. No modern ethnic identification asserted.",
     "manas-2010:p0062:b002:l029": "дуңкана interpreted as Dungans; source form retained unchanged.",
-    "manas-2010:p0062:b002:l030": "Бээлесең is uncertain here; tell of them is a contextual interpretation, not a secure lexical reading.",
+    "manas-2010:p0062:b002:l030": "Бээлесең: Yudakhin identifies бээле- with бейле-, pay attention/consider closely (https://el-sozduk.kg/бээ/; https://el-sozduk.kg/бей/). Revised from the unsupported contextual tell of them after re-viewing page 62 and checking the surrounding account of peoples in Beijing. This supplies the implicit object; бейарман remains without regret.",
     "manas-2010:p0062:b002:l033": "Салалык retained as Salalyk; possible relationship to Salar is not silently substituted.",
     "manas-2010:p0062:b002:l047": "кулач rendered fathoms as arm-span units, not certified English imperial fathoms. Ninety thousand preserved exactly.",
     "manas-2010:p0063:b002:l014": "Илийи retained as Iliyi, apparently qualifying/naming a divination book; exact reading and identification unresolved.",
@@ -1254,5 +1254,14 @@
     "https://el-sozduk.kg/кочку/",
     "https://el-sozduk.kg/борой/",
     "https://el-sozduk.kg/саат/"
+  ],
+  "targeted_revisions": [
+    {
+      "source_id": "manas-2010:p0062:b002:l030",
+      "date": "2026-09-14",
+      "verification": "Page 62 image re-viewed, dictionary entries and source–English pair checked.",
+      "old_english": "You may tell of them without regret:",
+      "new_english": "You may consider this without regret:"
+    }
   ]
 }

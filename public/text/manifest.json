@@ -1,17 +1,17 @@
 {
-  "version": "f304669bf5860910",
+  "version": "0c23bb04ab26031a",
   "target": 500553,
-  "released": 63873,
-  "englishWords": 351583,
+  "released": 66644,
+  "englishWords": 366102,
   "reviewed": 0,
   "complete": false,
   "perPart": {
-    "manas": 63873,
+    "manas": 66644,
     "semetey": 0,
     "seytek": 0,
     "continuations": 0
   },
-  "sourceGaps": 46,
+  "sourceGaps": 47,
   "chunkSize": 256,
   "chunks": [
     "2e494bdb494021e3fa672f0c64aaaf5e567aad18dcfe668066abc38bf358291a",
@@ -22,7 +22,7 @@
     "cd14d3b66de272c5bc074ebe34a5e6b973fd70feda16dcbf38c344e1af89139d",
     "180938487defd6ec56221bc463ab19fd9da2ec22e25db0ca6ed08c458a62581d",
     "276e10d63776576ddaf2438dbb439a0a8fe1075fd10f735bbd65390a9f19d5e4",
-    "dded82cc2cd93364fe6a6d3f2b55c305bf6fff94608a9de0376cbb04cd2f6d8e",
+    "adeb7a60a4bd2ce0d770b1cea0d56b99c4dfefe1259d324d661e355dc9db674f",
     "beda7b70a03763f3d8ca0db79e56111de62f255823b094dbe3da88bc53218f15",
     "b93a9b1ef7af64184fae157f382ed0c7612e292f96f2e9da1cbe01a6fe319f50",
     "1defb3a6175139a4015ca518b96de3b33f0b7a23646c2fe7a7b076fa6653ddb3",
@@ -263,7 +263,18 @@
     "bc9525f05d5e83a90c0434b20c5cd5d483b1eedad1a920145bd976566fec8938",
     "e476694da38b98a57978e7b9971f0d84fccbf274c920c807a3199204a69d8ba3",
     "69b95e95d82c3254cd404fd3f067ea4f15c7984d5d4b2e9589899ae3f27f7033",
-    "0f1cf5eaa0e74d8419a0f5821f65c2cd2daf4ce0d0f16601c010b3bd31392468"
+    "d91d5b81c970e4034dcd2f0d82382a19c19ce76c38b497ea1186ae8e259afaee",
+    "2dee0b5747447750816d4f7e1804d4fdf1f4b4a9653406df1673411c4b001998",
+    "4de15bf18c1914bf21134eb398066f617c03afb3f44c50d6bee8703e7da70fff",
+    "253f91acfad34eaece5e22eb96e7dc3882aecc3d6ea703a65ef01bb5a2d4ad03",
+    "2997e69a01c7ef8c0e211ca481cc13fb9a57ff2bceee8713e6523b430f2ac549",
+    "369d08a1f575f55eecb99820d812421d04af78e59554574b1e96832c287cb3c6",
+    "1ba986509e0a9d816054150db67d6beb3289ee7c1a562c8fec681ec1d80c090d",
+    "55c7e4ac7642d3b8072b15dbea06e54b3afb6c6a3e3d589e82b7d2fbd8da39cd",
+    "10fe425f42267ffd4a7b2ac73210d90afd310c9c9831ad8072e7de2741e1a7f5",
+    "85f3b5719fa9a08fd06fadac506e010eaf559d0e2d9aa4eeeb4fa4f97a08c872",
+    "dba3a44fbd0e237d3dcf3306f9133dbad4a85dbddca2b96f0d5411013b10d513",
+    "9d6d9e9f88c13f5df7440b31a8e0f5aac62a786d11485bc6cfe96ead62786d8c"
   ],
   "chapters": [
     {

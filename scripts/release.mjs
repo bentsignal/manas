@@ -8,6 +8,18 @@ const text=await readFile(new URL('corpus/release.jsonl',root),'utf8');
 const rows=text.split('\n').filter(x=>x.trim()).map(x=>JSON.parse(x));
 const gaps=await read('corpus/source-gaps.json');
 const audit=validateRelease(rows,target,sources,gaps);
+await writeFile(new URL('corpus/progress.json',root),JSON.stringify({
+  released_draft_rows:audit.released,
+  released_english_words:audit.englishWords,
+  independently_reviewed:audit.reviewed,
+  last_source_id:rows.at(-1)?.id??null,
+  complete:audit.complete,
+  full_source_reconciled:target.completeness_verified===true&&Boolean(target.reconciliation_evidence),
+  background_translation_job:false,
+  source_gaps:gaps.length,
+  scope:'Compiled release candidate; production deployment must be verified separately.',
+  gap_policy:'Publish readable drafts with explicit source-position marker; marker excluded from translated lines and English words; completeness blocked.'
+},null,2)+'\n');
 const gapBefore=new Map(gaps.map(g=>[g.before_id,sourceGapLabel(g)]));
 const renderRows=rows.map(r=>gapBefore.has(r.id)?{...r,gapBefore:gapBefore.get(r.id)}:r);
 const version=rows.length?createHash('sha256').update(text+JSON.stringify(gaps)).digest('hex').slice(0,16):'audit-2026-09-14';

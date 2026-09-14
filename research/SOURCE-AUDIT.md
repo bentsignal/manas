@@ -116,3 +116,7 @@ Following the request to publish as translation proceeds, the reader now inserts
 ## Draft checkpoint through PDF page 293
 
 13,293 English draft rows / 74,738 English words prepared for publication. Two explicit unresolved regions remain uncounted; the page246 forest metaphor now has qualified English supported by dictionary entries and Karalaev parallels (PAGE246-LEXICAL-CHECK.md). All saved/released display lines through293 are accounted for by translated rows or explicit exclusions. Complete 500,553-verse source acquisition and independent review remain outstanding.
+
+## Draft checkpoint through PDF page313
+
+14,253 draft lines /80,102 English words in the compiled release candidate; 14,397 draft lines /80,913 English words saved including354–356. Source-order audit passes; two unresolved regions remain uncounted. Root directly translated354–356 with visual PDF and dictionary checks. Compiler now regenerates corpus/progress.json to prevent stale line/word totals; deployed status requires separate HTTP verification.

@@ -10,7 +10,7 @@ Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPE
 - `npm run audit:sources`: use Poppler to preserve PDF pages, blocks, bounding boxes and original characters in local JSONL. The legacy font mapping is provisional; output order is not certified verse order.
 - `python3 scripts/audit-drafts.py`: account for every display line in saved page batches, check overlap consistency, and report unresolved source fragments. This does not certify archival completeness.
 - `python3 scripts/check-alignment.py`: reject unmarked source gaps, duplicated/reordered display lines and undocumented source-text changes in the released prefix.
-- `npm run release:compile`: validate `corpus/release.jsonl`, then emit immutable 256-line chunks plus a small manifest. Empty releases render an empty poem column.
+- `npm run release:compile`: validate the JSONL shards indexed by `corpus/release/index.json`, then emit immutable 256-line chunks plus a small manifest. Empty releases render an empty poem column.
 - `npm test`: check release safeguards and bounded scroll-window traversal through all 500,553 positions using clearly synthetic test fixtures.
 - `npm run dev` / `npm run build`: run/build the React reader.
 - `python3 scripts/verify-live.py`: fetch the live manifest and all content-addressed chunks, verify them against the local compiled release, and report live draft lines and English words. Run after deployment succeeds.
@@ -26,6 +26,8 @@ Source PDFs, raw research HTML and extracted text are local-only and excluded fr
 Every progress update pairs draft verse-line counts with English word counts and distinguishes saved drafts, compiled releases, and verified live content. Count alphabetic words with internal apostrophes/hyphens; exclude notes, headings, Kyrgyz text, and unresolved markers. An unidentified transliteration is not a completed English verse.
 
 ## Release records
+
+The canonical JSONL records are stored in content-hashed shards of at most 1,000 rows, indexed by an atomic checkpoint with per-shard and total checksums. The append utility maintains this store; use `scripts/release_store.py` to read or update it.
 
 Each JSONL record requires `ordinal`, permanent source `id`, `part`, `source_id`, `ky`, `en`, `transcription_status: "verified"`, `status: "draft" | "reviewed"`, and `source: {url, page}`. Reviewed records also require `review: {reviewer, evidence, date}`. The referenced source in `sources/manifest.json` must include its SHA-256 and `publication_basis`.
 

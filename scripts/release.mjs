@@ -1,11 +1,12 @@
 import {readFile,mkdir,writeFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {validateRelease,sourceGapLabel} from '../lib/release.mjs';
+import {readReleaseText} from '../lib/release-store.mjs';
 import {encodeTextChunks} from '../lib/text-chunks.mjs';
 const root=new URL('../',import.meta.url);
 const read=async p=>JSON.parse(await readFile(new URL(p,root),'utf8'));
 const target=await read('corpus/target.json');const sources=await read('sources/manifest.json');
-const text=await readFile(new URL('corpus/release.jsonl',root),'utf8');
+const text=await readReleaseText(root);
 const rows=text.split('\n').filter(x=>x.trim()).map(x=>JSON.parse(x));
 const gaps=await read('corpus/source-gaps.json');
 const audit=validateRelease(rows,target,sources,gaps);

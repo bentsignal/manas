@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Check the released prefix against source display lines, not the reported corpus total."""
+from release_store import read_release
 import json
 from collections import defaultdict
 from pathlib import Path
 
 root = Path(__file__).resolve().parent.parent
-rows = [json.loads(l) for l in (root/'corpus/release.jsonl').read_text().splitlines() if l.strip()]
+rows = [json.loads(l) for l in read_release(root).splitlines() if l.strip()]
 gap_path = root/'corpus/source-gaps.json'
 gaps = json.loads(gap_path.read_text()) if gap_path.exists() else []
 gap_ids = {}

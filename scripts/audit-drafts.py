@@ -4,6 +4,7 @@
 This audits local batch coverage, not original archival completeness or translation quality.
 Overlapping prefix descriptors must have identical English for shared source IDs.
 """
+from release_store import read_release
 import argparse
 import json
 import re
@@ -47,7 +48,7 @@ for path in sorted((root/'corpus/batches').glob('pages-*.json')):
 print(json.dumps({'scope':'Saved page batches only; opening pilot is separate. Display rows are not certified archival verses.','batches':reports,'unique_translated_display_rows':len(translations),'full_source_reconciled':False},indent=2))
 
 if args.write_progress:
-    release = [json.loads(line) for line in (root/'corpus/release.jsonl').read_text().splitlines()]
+    release = [json.loads(line) for line in read_release(root).splitlines()]
     opening = [r for r in release if not set(r.get('source_line_ids',[r['id']])).intersection(translations)]
     covered_pages.update(r['source']['page'] for r in opening)
     ranges = []

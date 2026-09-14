@@ -2,14 +2,14 @@
 """Append a manually translated, visually checked page batch without renumbering prior work."""
 import argparse, json
 from pathlib import Path
+from release_store import read_release, write_release
 
 parser = argparse.ArgumentParser()
 parser.add_argument('batch', type=Path, help='JSON batch descriptor with explicit checked source IDs')
 args = parser.parse_args()
 root = Path(__file__).resolve().parent.parent
 batch = json.loads(args.batch.read_text())
-release = root / 'corpus/release.jsonl'
-existing = [json.loads(line) for line in release.read_text().splitlines() if line.strip()]
+existing = [json.loads(line) for line in read_release(root).splitlines() if line.strip()]
 assert existing[-1]['id'] == batch['after_id'], 'Batch does not follow the current checkpoint'
 assert batch['transcription_check']['method'] == 'visual-pdf-comparison'
 assert batch['transcription_check']['checked_by'] and batch['transcription_check']['date']
@@ -39,7 +39,5 @@ for sid, en in zip(batch['source_ids'], english):
     if sid in notes: record['note'] = notes[sid]
     new.append(record)
 # Write atomically; interrupted imports cannot leave a half-written release.
-temporary = release.with_suffix('.jsonl.tmp')
-temporary.write_text(''.join(json.dumps(r, ensure_ascii=False)+'\n' for r in existing+new))
-temporary.replace(release)
+write_release(root, ''.join(json.dumps(r, ensure_ascii=False)+'\n' for r in existing+new))
 print(json.dumps(dict(appended=len(new),total=len(existing)+len(new),last_id=new[-1]['id'])))

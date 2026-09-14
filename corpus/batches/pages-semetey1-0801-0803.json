@@ -1,0 +1,521 @@
+{
+  "part": "semetey",
+  "status": "draft",
+  "extraction": "sources/extracted/semetey-1-2013.lines.jsonl",
+  "source_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+  "after_id": "semetey-1-2013:p0800:b004:l039",
+  "english": "corpus/batches/pages-semetey1-0801-0803.en.txt",
+  "source_ids": [
+    "semetey-1-2013:p0801:b003:l001",
+    "semetey-1-2013:p0801:b003:l002",
+    "semetey-1-2013:p0801:b003:l003",
+    "semetey-1-2013:p0801:b003:l004",
+    "semetey-1-2013:p0801:b003:l005",
+    "semetey-1-2013:p0801:b003:l006",
+    "semetey-1-2013:p0801:b003:l007",
+    "semetey-1-2013:p0801:b003:l008",
+    "semetey-1-2013:p0801:b003:l009",
+    "semetey-1-2013:p0801:b003:l010",
+    "semetey-1-2013:p0801:b003:l011",
+    "semetey-1-2013:p0801:b003:l012",
+    "semetey-1-2013:p0801:b003:l013",
+    "semetey-1-2013:p0801:b003:l014",
+    "semetey-1-2013:p0801:b003:l015",
+    "semetey-1-2013:p0801:b003:l016",
+    "semetey-1-2013:p0801:b003:l017",
+    "semetey-1-2013:p0801:b003:l018",
+    "semetey-1-2013:p0801:b003:l019",
+    "semetey-1-2013:p0801:b003:l020",
+    "semetey-1-2013:p0801:b003:l021",
+    "semetey-1-2013:p0801:b003:l022",
+    "semetey-1-2013:p0801:b003:l023",
+    "semetey-1-2013:p0801:b003:l024",
+    "semetey-1-2013:p0801:b003:l025",
+    "semetey-1-2013:p0801:b003:l026",
+    "semetey-1-2013:p0801:b003:l027",
+    "semetey-1-2013:p0801:b003:l028",
+    "semetey-1-2013:p0801:b003:l029",
+    "semetey-1-2013:p0801:b003:l030",
+    "semetey-1-2013:p0801:b003:l032",
+    "semetey-1-2013:p0801:b003:l034",
+    "semetey-1-2013:p0801:b003:l035",
+    "semetey-1-2013:p0801:b003:l036",
+    "semetey-1-2013:p0801:b003:l037",
+    "semetey-1-2013:p0801:b003:l038",
+    "semetey-1-2013:p0801:b003:l039",
+    "semetey-1-2013:p0801:b005:l001",
+    "semetey-1-2013:p0801:b005:l002",
+    "semetey-1-2013:p0801:b005:l003",
+    "semetey-1-2013:p0801:b005:l004",
+    "semetey-1-2013:p0801:b005:l005",
+    "semetey-1-2013:p0801:b005:l006",
+    "semetey-1-2013:p0801:b005:l007",
+    "semetey-1-2013:p0801:b005:l008",
+    "semetey-1-2013:p0801:b005:l009",
+    "semetey-1-2013:p0801:b005:l010",
+    "semetey-1-2013:p0801:b005:l011",
+    "semetey-1-2013:p0801:b005:l012",
+    "semetey-1-2013:p0801:b005:l013",
+    "semetey-1-2013:p0801:b005:l014",
+    "semetey-1-2013:p0801:b005:l015",
+    "semetey-1-2013:p0801:b005:l016",
+    "semetey-1-2013:p0801:b005:l017",
+    "semetey-1-2013:p0801:b005:l018",
+    "semetey-1-2013:p0801:b005:l019",
+    "semetey-1-2013:p0801:b005:l020",
+    "semetey-1-2013:p0801:b005:l021",
+    "semetey-1-2013:p0801:b005:l022",
+    "semetey-1-2013:p0801:b005:l023",
+    "semetey-1-2013:p0801:b005:l024",
+    "semetey-1-2013:p0801:b005:l025",
+    "semetey-1-2013:p0801:b005:l026",
+    "semetey-1-2013:p0801:b005:l027",
+    "semetey-1-2013:p0801:b005:l028",
+    "semetey-1-2013:p0801:b005:l029",
+    "semetey-1-2013:p0801:b005:l030",
+    "semetey-1-2013:p0801:b005:l031",
+    "semetey-1-2013:p0801:b005:l032",
+    "semetey-1-2013:p0801:b005:l033",
+    "semetey-1-2013:p0801:b005:l034",
+    "semetey-1-2013:p0801:b005:l035",
+    "semetey-1-2013:p0801:b005:l036",
+    "semetey-1-2013:p0801:b005:l038",
+    "semetey-1-2013:p0801:b005:l039",
+    "semetey-1-2013:p0802:b003:l001",
+    "semetey-1-2013:p0802:b003:l002",
+    "semetey-1-2013:p0802:b003:l003",
+    "semetey-1-2013:p0802:b003:l004",
+    "semetey-1-2013:p0802:b003:l005",
+    "semetey-1-2013:p0802:b003:l006",
+    "semetey-1-2013:p0802:b003:l007",
+    "semetey-1-2013:p0802:b003:l008",
+    "semetey-1-2013:p0802:b003:l009",
+    "semetey-1-2013:p0802:b003:l010",
+    "semetey-1-2013:p0802:b003:l011",
+    "semetey-1-2013:p0802:b003:l012",
+    "semetey-1-2013:p0802:b003:l013",
+    "semetey-1-2013:p0802:b003:l014",
+    "semetey-1-2013:p0802:b003:l015",
+    "semetey-1-2013:p0802:b003:l016",
+    "semetey-1-2013:p0802:b003:l017",
+    "semetey-1-2013:p0802:b003:l018",
+    "semetey-1-2013:p0802:b003:l019",
+    "semetey-1-2013:p0802:b003:l020",
+    "semetey-1-2013:p0802:b003:l021",
+    "semetey-1-2013:p0802:b003:l022",
+    "semetey-1-2013:p0802:b003:l023",
+    "semetey-1-2013:p0802:b003:l024",
+    "semetey-1-2013:p0802:b003:l025",
+    "semetey-1-2013:p0802:b003:l026",
+    "semetey-1-2013:p0802:b003:l027",
+    "semetey-1-2013:p0802:b003:l028",
+    "semetey-1-2013:p0802:b003:l029",
+    "semetey-1-2013:p0802:b003:l030",
+    "semetey-1-2013:p0802:b003:l031",
+    "semetey-1-2013:p0802:b003:l032",
+    "semetey-1-2013:p0802:b003:l033",
+    "semetey-1-2013:p0802:b003:l034",
+    "semetey-1-2013:p0802:b003:l035",
+    "semetey-1-2013:p0802:b003:l036",
+    "semetey-1-2013:p0802:b003:l037",
+    "semetey-1-2013:p0802:b003:l038",
+    "semetey-1-2013:p0802:b003:l039",
+    "semetey-1-2013:p0802:b004:l001",
+    "semetey-1-2013:p0802:b004:l002",
+    "semetey-1-2013:p0802:b004:l003",
+    "semetey-1-2013:p0802:b004:l004",
+    "semetey-1-2013:p0802:b004:l005",
+    "semetey-1-2013:p0802:b004:l006",
+    "semetey-1-2013:p0802:b004:l007",
+    "semetey-1-2013:p0802:b004:l008",
+    "semetey-1-2013:p0802:b004:l009",
+    "semetey-1-2013:p0802:b004:l010",
+    "semetey-1-2013:p0802:b004:l011",
+    "semetey-1-2013:p0802:b004:l012",
+    "semetey-1-2013:p0802:b004:l013",
+    "semetey-1-2013:p0802:b004:l014",
+    "semetey-1-2013:p0802:b004:l015",
+    "semetey-1-2013:p0802:b004:l016",
+    "semetey-1-2013:p0802:b004:l017",
+    "semetey-1-2013:p0802:b004:l018",
+    "semetey-1-2013:p0802:b004:l019",
+    "semetey-1-2013:p0802:b004:l020",
+    "semetey-1-2013:p0802:b004:l021",
+    "semetey-1-2013:p0802:b004:l022",
+    "semetey-1-2013:p0802:b004:l023",
+    "semetey-1-2013:p0802:b004:l024",
+    "semetey-1-2013:p0802:b004:l025",
+    "semetey-1-2013:p0802:b004:l026",
+    "semetey-1-2013:p0802:b004:l027",
+    "semetey-1-2013:p0802:b004:l028",
+    "semetey-1-2013:p0802:b004:l029",
+    "semetey-1-2013:p0802:b004:l030",
+    "semetey-1-2013:p0802:b004:l031",
+    "semetey-1-2013:p0802:b004:l032",
+    "semetey-1-2013:p0802:b004:l033",
+    "semetey-1-2013:p0802:b004:l034",
+    "semetey-1-2013:p0802:b004:l035",
+    "semetey-1-2013:p0802:b004:l036",
+    "semetey-1-2013:p0802:b004:l037",
+    "semetey-1-2013:p0802:b004:l038",
+    "semetey-1-2013:p0802:b004:l039",
+    "semetey-1-2013:p0803:b003:l001",
+    "semetey-1-2013:p0803:b003:l002",
+    "semetey-1-2013:p0803:b003:l003",
+    "semetey-1-2013:p0803:b003:l004",
+    "semetey-1-2013:p0803:b003:l005",
+    "semetey-1-2013:p0803:b003:l006",
+    "semetey-1-2013:p0803:b003:l007",
+    "semetey-1-2013:p0803:b003:l008",
+    "semetey-1-2013:p0803:b003:l009",
+    "semetey-1-2013:p0803:b003:l010",
+    "semetey-1-2013:p0803:b003:l011",
+    "semetey-1-2013:p0803:b003:l012",
+    "semetey-1-2013:p0803:b003:l013",
+    "semetey-1-2013:p0803:b003:l014",
+    "semetey-1-2013:p0803:b003:l015",
+    "semetey-1-2013:p0803:b003:l016",
+    "semetey-1-2013:p0803:b003:l017",
+    "semetey-1-2013:p0803:b003:l018",
+    "semetey-1-2013:p0803:b003:l019",
+    "semetey-1-2013:p0803:b003:l020",
+    "semetey-1-2013:p0803:b003:l021",
+    "semetey-1-2013:p0803:b003:l022",
+    "semetey-1-2013:p0803:b003:l023",
+    "semetey-1-2013:p0803:b003:l024",
+    "semetey-1-2013:p0803:b003:l025",
+    "semetey-1-2013:p0803:b003:l026",
+    "semetey-1-2013:p0803:b003:l027",
+    "semetey-1-2013:p0803:b003:l028",
+    "semetey-1-2013:p0803:b003:l029",
+    "semetey-1-2013:p0803:b003:l030",
+    "semetey-1-2013:p0803:b003:l031",
+    "semetey-1-2013:p0803:b003:l032",
+    "semetey-1-2013:p0803:b003:l033",
+    "semetey-1-2013:p0803:b003:l034",
+    "semetey-1-2013:p0803:b003:l035",
+    "semetey-1-2013:p0803:b003:l036",
+    "semetey-1-2013:p0803:b003:l037",
+    "semetey-1-2013:p0803:b003:l038",
+    "semetey-1-2013:p0803:b003:l039",
+    "semetey-1-2013:p0803:b005:l001",
+    "semetey-1-2013:p0803:b005:l002",
+    "semetey-1-2013:p0803:b005:l003",
+    "semetey-1-2013:p0803:b005:l004",
+    "semetey-1-2013:p0803:b005:l005",
+    "semetey-1-2013:p0803:b005:l006",
+    "semetey-1-2013:p0803:b005:l007",
+    "semetey-1-2013:p0803:b005:l008",
+    "semetey-1-2013:p0803:b005:l009",
+    "semetey-1-2013:p0803:b005:l010",
+    "semetey-1-2013:p0803:b005:l011",
+    "semetey-1-2013:p0803:b005:l012",
+    "semetey-1-2013:p0803:b005:l013",
+    "semetey-1-2013:p0803:b005:l014",
+    "semetey-1-2013:p0803:b005:l015",
+    "semetey-1-2013:p0803:b005:l016",
+    "semetey-1-2013:p0803:b005:l017",
+    "semetey-1-2013:p0803:b005:l018",
+    "semetey-1-2013:p0803:b005:l019",
+    "semetey-1-2013:p0803:b005:l020",
+    "semetey-1-2013:p0803:b005:l021",
+    "semetey-1-2013:p0803:b005:l022",
+    "semetey-1-2013:p0803:b005:l023",
+    "semetey-1-2013:p0803:b005:l024",
+    "semetey-1-2013:p0803:b005:l025",
+    "semetey-1-2013:p0803:b005:l026",
+    "semetey-1-2013:p0803:b005:l027",
+    "semetey-1-2013:p0803:b005:l029",
+    "semetey-1-2013:p0803:b005:l030",
+    "semetey-1-2013:p0803:b005:l032",
+    "semetey-1-2013:p0803:b005:l033",
+    "semetey-1-2013:p0803:b005:l034",
+    "semetey-1-2013:p0803:b005:l035",
+    "semetey-1-2013:p0803:b005:l036",
+    "semetey-1-2013:p0803:b005:l037",
+    "semetey-1-2013:p0803:b005:l038"
+  ],
+  "source_groups": {
+    "semetey-1-2013:p0801:b005:l036": [
+      "semetey-1-2013:p0801:b005:l036",
+      "semetey-1-2013:p0801:b005:l037"
+    ]
+  },
+  "excluded_source_ids": [
+    {
+      "id": "semetey-1-2013:p0801:b002:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0801:b004:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0801:b006:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0801:b003:l031",
+      "kind": "unresolved_source",
+      "reason": "Бута бою дырылдап: бута can denote an arrow-shot distance, but exact construction describing hound motion not secured. Whole verse held."
+    },
+    {
+      "id": "semetey-1-2013:p0801:b003:l033",
+      "kind": "unresolved_source",
+      "reason": "Өзөнгө чыккан талмызым: valley growth image clear, exact талмыз plant designation not secured. Whole verse held."
+    },
+    {
+      "id": "semetey-1-2013:p0802:b002:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0802:b005:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0803:b002:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0803:b004:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0803:b006:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0803:b005:l028",
+      "kind": "unresolved_source",
+      "reason": "Мүчөсүнө кактырып: ritual touching/striking bodily members, referent and exact action not secured; no invented blood application. Whole verse held."
+    },
+    {
+      "id": "semetey-1-2013:p0803:b005:l031",
+      "kind": "unresolved_source",
+      "reason": "Ырас кылып жырымдап: жырымда head fastening girth straps does not securely resolve this ritual construction. Whole verse held."
+    },
+    {
+      "id": "semetey-1-2013:p0803:b005:l039",
+      "kind": "unresolved_source",
+      "reason": "Атакесин жаратып: жарат can mean create/approve; relation with next-page алгандыгын not secured. Whole verse held, not silently taking after father."
+    }
+  ],
+  "notes": {
+    "semetey-1-2013:p0801:b003:l001": "Yudakhin арына- = арна-, dedicate; not арын- (tire/grieve). The prior page ends with an object bound up, entrusted, and prayer; dedicating it to Semetey follows that context. Exact printed арынап retained.",
+    "semetey-1-2013:p0801:b003:l003": "Source баладан is ablative with коркуп, afraid of the boy. Revised initial fear-for paraphrase to preserve direction; no invented explanation for fear.",
+    "semetey-1-2013:p0801:b003:l005": "Болжол estimate/measure with жок before telescope rendered unmeasured range, contextual optical scope; no numerical range invented.",
+    "semetey-1-2013:p0801:b003:l022": "Казыналык refers to upkeep at treasury expense, not a treasure-house breed of dog.",
+    "semetey-1-2013:p0801:b003:l034": "Өлгөндө көргөн is hard-won child/death's-door lament formula; not a claim the child was literally born after his mother's death.",
+    "semetey-1-2013:p0801:b003:l035": "Аманат is something left in trust; draft deliberately leaves recipient unstated. Next verse says the son brings the hound to the speaker.",
+    "semetey-1-2013:p0801:b003:l038": "Көңүл бөлүн- literally heart/attention divided; broad emotional stirring in reunion context, no diagnosis or invented exclusive emotion. Repetition retained.",
+    "semetey-1-2013:p0801:b005:l003": "Bolpoң primary plump, endearing healthy fullness. Hawk, goshawk and falcon are maternal bird epithets for the returning son; repeated images retained rather than treated as new literal birds.",
+    "semetey-1-2013:p0801:b005:l009": "Сүйүнчү good tidings convention, often asks reward for news; here mother's joyful call, no payment invented.",
+    "semetey-1-2013:p0801:b005:l012": "Караан primary support/protection as well as visible form; maternal support epithet here, unlike following page's seeing a figure.",
+    "semetey-1-2013:p0801:b005:l027": "Primary Yudakhin казгалдак is a kind of wild duck; no unsupported species-level identification.",
+    "semetey-1-2013:p0801:b005:l031": "Primary Yudakhin кулаалы is forest buzzard/kite, while ак кулаалы specifically male harrier. Broad kite chosen; no vulture or modern species claim.",
+    "semetey-1-2013:p0801:b005:l033": "Both mothers means Kanykei and Chiyirdi; maternal grandmother is called mother by the source, retained without genealogical correction.",
+    "semetey-1-2013:p0802:b003:l001": "Аманат trust/inheritance left by Manas; no claim Manas directly entrusted objects to the infant added.",
+    "semetey-1-2013:p0802:b003:l010": "Дардай- primary immense/imposing physical presence; grandly refers to bearing and stature, no invented moral approval.",
+    "semetey-1-2013:p0802:b003:l013": "Башынан бери көрүнүп rendered coming fully into view; exact scope of башынан is less certain (from his head/from the outset). No invented body detail.",
+    "semetey-1-2013:p0802:b003:l016": "Каймана primary secretly/hidden, here protective leopard presence; extraordinary guardian animal retained as narrated, not rationalized.",
+    "semetey-1-2013:p0802:b003:l021": "Maternal self-offering formula retained, not an assertion they actually died or performed human sacrifice.",
+    "semetey-1-2013:p0802:b004:l001": "Зоңкулда primary howl/wail, exact зоңкулдап ыйла-; dog crying like a human retained.",
+    "semetey-1-2013:p0802:b004:l018": "Source shifts from your mother to my mother, retained; no silent pronoun harmonization.",
+    "semetey-1-2013:p0802:b004:l030": "Primary жошулуш- has exact affectionate reciprocal example with stars in sky; here source says rain, retained rain comparison and caressed one another. Not silently changed to stars or generic streaming tears.",
+    "semetey-1-2013:p0802:b004:l036": "Белеӊдинин-Белинен provisional toponym Pass of Belendi; no modern geolocation claimed.",
+    "semetey-1-2013:p0803:b003:l012": "Амалым is means/resource/hope; mother's fear of losing all hope with the puppy rendered contextually, not magical spell.",
+    "semetey-1-2013:p0803:b003:l028": "Leopard epithet in recalled threat refers contextually to Manas, kept as source epithet rather than expanding the name.",
+    "semetey-1-2013:p0803:b003:l036": "Birch and willow weeping are explicit epic personification, retained.",
+    "semetey-1-2013:p0803:b005:l008": "Primary Yudakhin ай туяк under туяк: a horse designated for sacrifice; exact ай туякка чал- sacrifice. With six mares already specified, rendered slaughtered in sacrifice, no invented crescent-shaped procedure.",
+    "semetey-1-2013:p0803:b005:l009": "Primary Баабедин 1 Bahauddin patron of Bukhara, 2 sacrifice on deliverance; pledging an offering preserves both context and invoked name, no specific prayer invented.",
+    "semetey-1-2013:p0803:b005:l014": "Maternal/paternal morning-star epithet and source genitive reconstructed across following who-knows-worth line; no astronomical claim.",
+    "semetey-1-2013:p0803:b005:l021": "Назыр attested variant of назир, votive sacrifice/offering; not personal name or administrative vizier.",
+    "semetey-1-2013:p0803:b005:l026": "Causative slaughter has khoja and mullah as directed participants and bulls as objects; original ordering of all named participants and nine bulls preserved.",
+    "semetey-1-2013:p0803:b005:l035": "Source shifts from God's creation and servant to Manas's son in two parallel rhetorical questions; each verse's content retained in order."
+  },
+  "unresolved_source": [
+    {
+      "source_ids": [
+        "semetey-1-2013:p0801:b003:l031"
+      ],
+      "raw": [
+        "Áóòà áîþ äûðûëäàï,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0801:b003:l031",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 801,
+          "block": 3,
+          "line_in_block": 31,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 569.0997,
+            "xMax": 201.636,
+            "yMax": 582.2877
+          },
+          "raw": "Áóòà áîþ äûðûëäàï,",
+          "text": "Бута бою дырылдап,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Бута бою дырылдап: бута can denote an arrow-shot distance, but exact construction describing hound motion not secured. Whole verse held.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0801:b003:l033"
+      ],
+      "raw": [
+        "ªçºíãº ÷ûêêàí òàëìûçûì,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0801:b003:l033",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 801,
+          "block": 3,
+          "line_in_block": 33,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 597.6597,
+            "xMax": 238.632,
+            "yMax": 610.8477
+          },
+          "raw": "ªçºíãº ÷ûêêàí òàëìûçûì,",
+          "text": "Өзөнгө чыккан талмызым,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Өзөнгө чыккан талмызым: valley growth image clear, exact талмыз plant designation not secured. Whole verse held.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0803:b005:l028"
+      ],
+      "raw": [
+        "Ì¿÷ºñ¿íº êàêòûðûï,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0803:b005:l028",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 803,
+          "block": 5,
+          "line_in_block": 28,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 526.6197,
+            "xMax": 437.0472,
+            "yMax": 539.8077
+          },
+          "raw": "Ì¿÷ºñ¿íº êàêòûðûï,",
+          "text": "Мүчөсүнө кактырып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Мүчөсүнө кактырып: ritual touching/striking bodily members, referent and exact action not secured; no invented blood application. Whole verse held.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0803:b005:l031"
+      ],
+      "raw": [
+        "Ûðàñ êûëûï æûðûìäàï,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0803:b005:l031",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 803,
+          "block": 5,
+          "line_in_block": 31,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 569.0997,
+            "xMax": 461.0676,
+            "yMax": 582.2877
+          },
+          "raw": "Ûðàñ êûëûï æûðûìäàï,",
+          "text": "Ырас кылып жырымдап,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Ырас кылып жырымдап: жырымда head fastening girth straps does not securely resolve this ritual construction. Whole verse held.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0803:b005:l039"
+      ],
+      "raw": [
+        "Àòàêåñèí æàðàòûï,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0803:b005:l039",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 803,
+          "block": 5,
+          "line_in_block": 39,
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 682.8597,
+            "xMax": 428.244,
+            "yMax": 696.0477
+          },
+          "raw": "Àòàêåñèí æàðàòûï,",
+          "text": "Атакесин жаратып,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Атакесин жаратып: жарат can mean create/approve; relation with next-page алгандыгын not secured. Whole verse held, not silently taking after father.",
+      "status": "unresolved-source-not-English-translation"
+    }
+  ],
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex coordinator; no independent specialist review",
+    "date": "2026-09-14",
+    "pdf_pages": [
+      801,
+      802,
+      803
+    ],
+    "evidence": "Individually inspected all three Poppler images /tmp/manas-root801-0801.png through0803.png, left column then right; one indented wrap8015:36+37. Primary lexical checks and exact extraction used for direct draft. All233 reconstructed Kyrgyz/English positions read in two blocks117and116, including five whole unresolved verses. Three final wording refinements reread against exact source. Five held verses excluded from English count; no independent specialist review."
+  },
+  "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
+  "counts": {
+    "translated_verse_rows": 228,
+    "english_words": 1195,
+    "physical_narrative_fragments": 234,
+    "reconstructed_source_verses": 233,
+    "unresolved_source_verses": 5,
+    "wrapped_verse_groups": 1
+  }
+}

@@ -8,17 +8,17 @@ Read [the source audit](research/SOURCE-AUDIT.md) before translating. Current st
 
 - `python3 scripts/acquire.py`: obtain candidate editions via current publisher links and record SHA-256 provenance.
 - `npm run audit:sources`: use Poppler to preserve PDF pages, blocks, bounding boxes and original characters in local JSONL. The legacy font mapping is provisional; output order is not certified verse order.
-- `npm run release:compile`: validate `corpus/release.jsonl`, then emit immutable 256-line chunks plus a small manifest. Empty releases are allowed and clearly displayed as preparation.
+- `npm run release:compile`: validate `corpus/release.jsonl`, then emit immutable 256-line chunks plus a small manifest. Empty releases render an empty poem column.
 - `npm test`: check release safeguards and bounded scroll-window traversal through all 500,553 positions using clearly synthetic test fixtures.
 - `npm run dev` / `npm run build`: run/build the React reader.
 
 ## Reader architecture
 
-Only the manifest is server-rendered. The continuous reader fetches 256-line chunks on demand, retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits at half a million bilingual, wrapping verses. Direct line links, jump-to-line, local saved position, text size and appearance controls are implemented. `/read` offers a nonvirtual 100-line paged mode for assistive technology and normal within-page browser search. Whole-corpus full-text search is not yet implemented.
+Only the manifest is server-rendered. The continuous reader fetches 256-line chunks on demand, retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits. The page contains only English verses in a narrow, centered Times New Roman column. Direct line links and automatic local position restoration remain available without visible controls. `/read` aliases the same reader.
 
 Runtime scroll rebasing has unit coverage for index arithmetic but still requires browser verification with a licensed, nonempty corpus. Do not describe it as performance-tested at production scale.
 
-Source PDFs, raw research HTML and extracted text are local-only and excluded from source pushes. Public release data must carry a documented publication basis. The site contains research notes and an honest empty state until real translations are ready; there are no padded verses or fabricated demo lines.
+Source PDFs, raw research HTML and extracted text are local-only and excluded from source pushes. Public release data must carry a documented publication basis. Research notes stay in the repository. The page is empty until real translations are ready; there are no padded verses or fabricated demo lines.
 
 ## Release records
 

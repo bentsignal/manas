@@ -128,3 +128,7 @@ Following the request to publish as translation proceeds, the reader now inserts
 ## Draft checkpoint through PDF page356
 
 16,313 English draft lines /91,619 English words prepared for publication. Source-order audit passes with24 explicit nonverse exclusions and two uncounted unresolved regions. Reader chunks now contain only exact English, IDs, ordinals and gap markers; full Kyrgyz/provenance/notes remain in corpus/release.jsonl. Every compiled English row compared exactly with the source release file.
+
+## Draft checkpoint through PDF page376
+
+17,270 draft lines /96,885 English words compiled; 17,414 draft lines /97,715 English words saved including397–399. Root397–399 has all144 verse rows visually compared and source/English aligned; twelve-guides interpretive reading at399:l020 explicitly noted. Pages377–396 remain assigned, so397–399 is not yet appended. All full-source limitations remain.

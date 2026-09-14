@@ -1,10 +1,12 @@
 {
-  "released_draft_rows": 1531,
+  "released_draft_rows": 10132,
   "independently_reviewed": 0,
-  "last_source_id": "manas-2010:p0047:b002:l048",
-  "next_source_id": "manas-2010:p0048:b002:l001",
+  "last_source_id": "manas-2010:p0227:b001:l048",
+  "next_source_id": "manas-2010:p0228:b001:l001",
   "complete": false,
   "full_source_reconciled": false,
   "background_translation_job": false,
-  "publication_hold": "Damaged source region p0048:l002\u2013004 unresolved; later drafts retained separately."
+  "source_gaps": 2,
+  "gap_policy": "Publish readable drafts with explicit source-position marker; marker excluded from translated lines and English words; completeness blocked.",
+  "released_english_words": 56721
 }

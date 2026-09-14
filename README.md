@@ -2,21 +2,21 @@
 
 An unabridged English translation project for the complete recorded Sayakbay Karalaev corpus, targeting the reported 500,553 lines including continuations. **Not a completed translation.**
 
-Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPENING-PILOT.md) before translating. Current status: four candidate PDFs acquired, 401,930 unreviewed extracted text lines (not verses), zero certified archival verse counts, 1,531 draft English rows released. An existing Turkish–English Karalaev trilogy project has now been identified; its coverage and counts do not establish a complete 500,553-line translation. Priority remains unestablished.
+Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPENING-PILOT.md) before translating. Current status: four candidate PDFs acquired, 401,930 unreviewed extracted text lines (not verses), zero certified archival verse counts, 10,132 draft English rows prepared for release (56,721 English words). An existing Turkish–English Karalaev trilogy project has now been identified; its coverage and counts do not establish a complete 500,553-line translation. Priority remains unestablished.
 
 ## Workflows
 
 - `python3 scripts/acquire.py`: obtain candidate editions via current publisher links and record SHA-256 provenance.
 - `npm run audit:sources`: use Poppler to preserve PDF pages, blocks, bounding boxes and original characters in local JSONL. The legacy font mapping is provisional; output order is not certified verse order.
 - `python3 scripts/audit-drafts.py`: account for every display line in saved page batches, check overlap consistency, and report unresolved source fragments. This does not certify archival completeness.
-- `python3 scripts/check-alignment.py`: reject unexplained source gaps, duplicated/reordered display lines and undocumented source-text changes in the released prefix.
+- `python3 scripts/check-alignment.py`: reject unmarked source gaps, duplicated/reordered display lines and undocumented source-text changes in the released prefix.
 - `npm run release:compile`: validate `corpus/release.jsonl`, then emit immutable 256-line chunks plus a small manifest. Empty releases render an empty poem column.
 - `npm test`: check release safeguards and bounded scroll-window traversal through all 500,553 positions using clearly synthetic test fixtures.
 - `npm run dev` / `npm run build`: run/build the React reader.
 
 ## Reader architecture
 
-The opening 256 lines and manifest are server-rendered. The continuous reader fetches 256-line chunks on demand, retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits. The page contains only English verses in a narrow, centered Times New Roman column. Direct line links and automatic local position restoration remain available without visible controls. `/read` aliases the same reader.
+The opening 256 lines and manifest are server-rendered. The continuous reader fetches 256-line chunks on demand, retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits. The page contains English verses in a narrow, centered Times New Roman column, with a plain editorial marker at any unresolved source gap. Markers are not counted as translated verses or words. Direct line links and automatic local position restoration remain available without visible controls. `/read` aliases the same reader.
 
 Runtime scroll rebasing has unit coverage for index arithmetic but still requires browser verification with a licensed, nonempty corpus. Do not describe it as performance-tested at production scale.
 

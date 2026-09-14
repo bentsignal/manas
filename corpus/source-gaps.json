@@ -1,0 +1,84 @@
+[
+  {
+    "id": "manas-2010:p0048:damaged-region",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0048:b002:l001",
+    "before_id": "manas-2010:p0048:b002:l005",
+    "source_line_ids": [
+      "manas-2010:p0048:b002:l002",
+      "manas-2010:p0048:b002:l003",
+      "manas-2010:p0048:b002:l004"
+    ],
+    "evidence": "research/TEXTUAL-CORRECTIONS.md; research/PAGE48-WITNESS-SEARCH.md; research/PAGE48-PDF-STREAM.md",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 48,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0048:b002:l002",
+          "raw": "Т/*",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 76.752,
+            "xMax": 229.056,
+            "yMax": 92.004
+          }
+        },
+        {
+          "id": "manas-2010:p0048:b002:l003",
+          "raw": "о",
+          "bbox": {
+            "xMin": 247.8,
+            "yMin": 76.752,
+            "xMax": 254.124,
+            "yMax": 92.004
+          }
+        },
+        {
+          "id": "manas-2010:p0048:b002:l004",
+          "raw": "и",
+          "bbox": {
+            "xMin": 283.2,
+            "yMin": 76.752,
+            "xMax": 289.692,
+            "yMax": 92.004
+          }
+        }
+      ]
+    },
+    "note": "Three extraction fragments share one baseline. Original wording and number of lost verses unknown. Editorial marker is not a translation and has no verse ordinal.",
+    "kind": "damaged"
+  },
+  {
+    "id": "manas-2010:p0183:unresolved-utterance",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0182:b002:l048",
+    "before_id": "manas-2010:p0183:b002:l002",
+    "source_line_ids": [
+      "manas-2010:p0183:b002:l001"
+    ],
+    "evidence": "corpus/batches/pages-0165-0184.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 183,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0183:b002:l001",
+          "raw": "«Үттүгүңө шоодай», - деп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 62.112,
+            "xMax": 345.0,
+            "yMax": 77.364
+          }
+        }
+      ]
+    },
+    "note": "Legible entire utterance remains uninterpreted; transliteration preserved privately in batch descriptor, not counted as English translation."
+  }
+]

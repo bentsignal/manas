@@ -1,15 +1,17 @@
 {
-  "version": "b5242471406d207b",
+  "version": "8624ea0d6ab0cf11",
   "target": 500553,
-  "released": 1531,
+  "released": 10132,
+  "englishWords": 56721,
   "reviewed": 0,
   "complete": false,
   "perPart": {
-    "manas": 1531,
+    "manas": 10132,
     "semetey": 0,
     "seytek": 0,
     "continuations": 0
   },
+  "sourceGaps": 2,
   "chunkSize": 256,
   "chapters": [
     {

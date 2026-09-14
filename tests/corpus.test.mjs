@@ -9,3 +9,11 @@ test('reject missing lines, duplicate IDs, untranslated rows, invented reviews a
 test('half million lines stay within a bounded physical scroll window',()=>{for(const index of [0,1,2047,2048,84512,400669,500552]){const w=windowFor(index,500553);assert.ok(w.count<=WINDOW_SIZE);assert.ok(index>=w.start&&index<w.start+w.count);assert.ok(w.start+w.count<=500553);}assert.throws(()=>windowFor(500553,500553));});
 test('rebasing across the entire corpus neither skips nor repeats a logical ordinal',()=>{let w=windowFor(0,500553);for(let i=0;i<500553;i++){if(i>=w.start+1536&&w.start+w.count<500553)w=windowFor(i,500553);assert.ok(i>=w.start&&i<w.start+w.count);}for(let i=500552;i>=0;i--){if(i-w.start<256&&w.start>0)w=windowFor(i,500553);assert.ok(i>=w.start&&i<w.start+w.count);}});
 test('line links and chunk boundaries',()=>{assert.equal(parseLine('#line-500553',500553),500552);assert.equal(parseLine('#line-0',500553),null);assert.equal(parseLine('#line-500554',500553),null);assert.equal(chunkFor(255),0);assert.equal(chunkFor(256),1);assert.equal(parseLine('#line-1',0),null);});
+test('a visible source gap is not a translated verse and prevents completion',()=>{
+ const gap={id:'gap',status:'unresolved',source_id:'s',after_id:'s:1',before_id:'s:2',source_line_ids:['s:lost'],evidence:'source comparison',source:{sha256:'abc',segments:[{id:'s:lost',raw:'damaged'}]}};
+ const audit=validateRelease(rows,target,sources,[gap]);
+ assert.equal(audit.released,2);assert.equal(audit.reviewed,2);assert.equal(audit.sourceGaps,1);assert.equal(audit.complete,false);
+ assert.throws(()=>validateRelease(rows,target,sources,[{...gap,before_id:'absent'}]));
+ assert.throws(()=>validateRelease(rows,target,sources,[{...gap,evidence:''}]));
+ assert.throws(()=>validateRelease(rows,target,sources,[{...gap,source_line_ids:['s:1'],source:{sha256:'abc',segments:[{id:'s:1',raw:'damaged'}]}}]));
+});

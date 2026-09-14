@@ -1,37 +1,37 @@
 {
-  "saved_draft_rows": 10421,
-  "released_draft_rows": 1531,
+  "saved_draft_rows": 13293,
+  "released_draft_rows": 10132,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
       16,
-      227
-    ],
-    [
-      248,
-      253
+      293
     ]
   ],
   "active_translation_page_ranges": [
     [
-      228,
-      247
+      294,
+      313
     ],
     [
-      254,
-      273
+      314,
+      333
     ],
     [
-      274,
-      293
+      334,
+      353
     ]
   ],
   "unresolved_source_regions": [
     "manas-2010:p0048:b002:l002",
     "manas-2010:p0048:b002:l003",
-    "manas-2010:p0048:b002:l004"
+    "manas-2010:p0048:b002:l004",
+    "manas-2010:p0183:b002:l001"
   ],
   "full_source_reconciled": false,
   "complete": false,
-  "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job."
+  "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
+  "saved_draft_english_words": 74738,
+  "released_english_words": 56721,
+  "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded."
 }

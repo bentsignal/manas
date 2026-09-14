@@ -108,3 +108,7 @@ A newly located encyclopedia entry for Kenen cites manuscript inventory 960, pag
 ## Draft checkpoint: 10,421 rows
 
 Saved page ranges16–227 and248–253; activeworkerassignments228–247,254–273,274–293. All saved batch display lines accounted for by scripts/audit-drafts.py; headings separately preserved and the three damagedpage48fragments explicitly unresolved. Releasedprefix remains1,531rows through47. No certifiedversecount or independentreview claimed. See corpus/draft-progress.json for generated counts.
+
+## Publishing drafts past explicit source gaps
+
+Following the request to publish as translation proceeds, the reader now inserts plain editorial markers at source gaps, stored separately in corpus/source-gaps.json. Markers carry no translated-line ordinal and do not contribute English-word totals. The damaged page48region and uninterpreted whole utterance183:l001 prevent completeness certification. The latter was removed from English counts: transliteration is not translation. Current releasecandidate10,132draftrows /56,721Englishwords through227. No omitted gaps are permitted by the rangeaudit; no expert-review claim.

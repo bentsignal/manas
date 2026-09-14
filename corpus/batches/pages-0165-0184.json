@@ -855,7 +855,6 @@
     "manas-2010:p0182:b002:l046",
     "manas-2010:p0182:b002:l047",
     "manas-2010:p0182:b002:l048",
-    "manas-2010:p0183:b002:l001",
     "manas-2010:p0183:b002:l002",
     "manas-2010:p0183:b002:l003",
     "manas-2010:p0183:b002:l004",
@@ -1044,7 +1043,7 @@
     "manas-2010:p0181:b002:l007": "Forty foot-lengths retained without modern unit conversion; source does not explicitly establish diameter versus circumference, so across removed.",
     "manas-2010:p0181:b002:l014": "казы horse-rib fat/meat retained; snow simile not explained away.",
     "manas-2010:p0181:b002:l016": "chatyrash retained as a board-game name. Yudakhin calls it chess; 2015 dictionary describes a draughts-like game of fourteen white/fourteen black pieces. No modern rules imposed. https://el-sozduk.kg/ЧАТЫРА/",
-    "manas-2010:p0181:b002:l021": "Кызыр transliterated Kyzyr (variant of Kydyr/Khizr); blessing idiom retained. Same p183:l008.",
+    "manas-2010:p0181:b002:l021": "Кызыр standardized as Khizir (variant transliterations Kyzyr/Kydyr/Khizr); blessing idiom retained. Same p183:l008.",
     "manas-2010:p0181:b002:l028": "Ок өтпөс literally shot-impervious; armor supplied from wearing in context, no real ballistic claim.",
     "manas-2010:p0181:b002:l032": "No shot to exchange preserves paradox in the restless invulnerable hero formula; not a logistical ammunition shortage asserted.",
     "manas-2010:p0181:b002:l034": "Зың-зың onomatopoeia retained zing-zing; humming is provisional action.",
@@ -1055,7 +1054,6 @@
     "manas-2010:p0182:b002:l014": "кадамак is an ordo phase/shot near the circle line, confirmed by Yudakhin and explanatory dictionaries with this passage. https://el-sozduk.kg/кадамак/",
     "manas-2010:p0182:b002:l016": "тоорумак is an ordo shot; dictionary cites the next line entering the circle. https://el-sozduk.kg/ТООРУ/",
     "manas-2010:p0182:b002:l041": "Two nar camels retained despite singular red nar at l044. No harmonization.",
-    "manas-2010:p0183:b002:l001": "Entire phrase Үттүгүңө шоодай is legible but meaning unresolved, apparently a hostile exclamation. Transliterated, not silently omitted or supplied an invented curse. шоодай dictionary alone does not resolve phrase. https://el-sozduk.kg/шоодай/",
     "manas-2010:p0183:b002:l009": "Drawing the line retained literally, possibly game/battle metaphor; not an invented challenge speech.",
     "manas-2010:p0183:b002:l016": "ок shot may be arrows or bullets in this mixed bow/gun martial diction; generic shot retained.",
     "manas-2010:p0183:b002:l026": "Youngest of six lions retained as epic formula without identifying the six or rewriting genealogical chronology.",
@@ -1090,6 +1088,11 @@
       "id": "manas-2010:p0179:b003:l002",
       "kind": "heading",
       "reason": "Bold centered chapter heading, visually checked; translated separately in headings, not verse."
+    },
+    {
+      "id": "manas-2010:p0183:b002:l001",
+      "kind": "unresolved_source",
+      "reason": "Whole utterance is legible but not interpreted. Transliteration is not an English translation."
     }
   ],
   "headings": [
@@ -1265,5 +1268,16 @@
       "reason": "Repeated www.bizdin.kg publisher header; excluded by repository extraction convention."
     }
   ],
-  "translation_provenance": "Draft translated directly from Kyrgyz extraction and page images; no acquired prior English translation used as input. Dictionary checks support selected lexemes only; no independent specialist review."
+  "translation_provenance": "Draft translated directly from Kyrgyz extraction and page images; no acquired prior English translation used as input. Dictionary checks support selected lexemes only; no independent specialist review.",
+  "unresolved_passages": [
+    {
+      "source_line_ids": [
+        "manas-2010:p0183:b002:l001"
+      ],
+      "raw": "«Үттүгүңө шоодай», - деп,",
+      "transliteration_only": "“Üttügüngö shoodai!” he cried,",
+      "note": "Entire phrase Үттүгүңө шоодай is legible but meaning unresolved, apparently a hostile exclamation. Transliterated, not silently omitted or supplied an invented curse. шоодай dictionary alone does not resolve phrase. https://el-sozduk.kg/шоодай/",
+      "status": "unresolved"
+    }
+  ]
 }

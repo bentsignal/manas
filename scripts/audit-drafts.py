@@ -6,6 +6,7 @@ Overlapping prefix descriptors must have identical English for shared source IDs
 """
 import argparse
 import json
+import re
 from pathlib import Path
 
 parser = argparse.ArgumentParser()
@@ -55,5 +56,6 @@ if args.write_progress:
         else: ranges.append([page,page])
     path = root/'corpus/draft-progress.json'
     progress = json.loads(path.read_text()) if path.exists() else {}
-    progress.update(saved_draft_rows=len(translations)+len(opening), released_draft_rows=len(release), saved_page_ranges=ranges, unresolved_source_regions=sorted(unresolved), full_source_reconciled=False, complete=False)
+    words = lambda text: len(re.findall(r"[^\W\d_]+(?:[’'-][^\W\d_]+)*",text))
+    progress.update(saved_draft_rows=len(translations)+len(opening), saved_draft_english_words=sum(words(en) for en in translations.values())+sum(words(r['en']) for r in opening), released_draft_rows=len(release), released_english_words=sum(words(r['en']) for r in release), word_count_method='Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.', saved_page_ranges=ranges, unresolved_source_regions=sorted(unresolved), full_source_reconciled=False, complete=False)
     path.write_text(json.dumps(progress,indent=2)+'\n')

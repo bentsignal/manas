@@ -2,7 +2,7 @@
 import {useCallback,useEffect,useLayoutEffect,useRef,useState} from 'react';
 import {useVirtualizer} from '@tanstack/react-virtual';
 import {windowFor,chunkFor,parseLine} from '../lib/reader-window.mjs';
-type Line={id:string;ordinal:number;en:string};
+type Line={id:string;ordinal:number;en:string;gapBefore?:string};
 type Manifest={version:string;target:number;released:number;reviewed:number;chunkSize:number;complete:boolean;chapters:{title:string;start:number}[]};
 export default function Reader({manifest:m,initialLines}:{manifest:Manifest;initialLines:Line[]}){
  const scroller=useRef<HTMLDivElement>(null);
@@ -75,7 +75,7 @@ export default function Reader({manifest:m,initialLines}:{manifest:Manifest;init
   {m.released>0&&<div className="scroll-reader" ref={scroller} onScroll={scroll} tabIndex={0} aria-label="Poem">
    <div className="poem" style={{height:virtual.getTotalSize(),position:'relative'}}>{visible.map(item=>{
     const line=row(start+item.index);
-    return <div key={item.key} ref={virtual.measureElement} data-index={item.index} id={`line-${start+item.index+1}`} className="verse" aria-busy={!line} style={{position:'absolute',top:0,left:0,width:'100%',transform:`translateY(${item.start}px)`}}>{line?.en}</div>;
+    return <div key={item.key} ref={virtual.measureElement} data-index={item.index} id={`line-${start+item.index+1}`} className="verse" aria-busy={!line} style={{position:'absolute',top:0,left:0,width:'100%',transform:`translateY(${item.start}px)`}}>{line?.gapBefore&&<div>{line.gapBefore}</div>}{line?.en}</div>;
    })}</div>
   </div>}
  </main>;

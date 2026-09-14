@@ -1,0 +1,93 @@
+{
+  "scope": "Context-sensitive working glossary from direct translation and cited dictionaries. Not expert review; never apply as blind substitutions.",
+  "entries": [
+    {
+      "ky": "карыпчы",
+      "en": "arm guard",
+      "context": "Armor on outer arm; not a weapon or official.",
+      "sources": [
+        "https://el-sozduk.kg/КАРЫПЧЫ/"
+      ]
+    },
+    {
+      "ky": "калдай",
+      "en": "governor",
+      "context": "Historical administrative rank among Xinjiang Kalmyks/Mongols. Context may instead use Kalday as a name/title; do not replace names automatically.",
+      "sources": [
+        "https://el-sozduk.kg/калдай/"
+      ]
+    },
+    {
+      "ky": "жаңжуң",
+      "en": "governor-general",
+      "context": "Rank. Preserve proper character names Ay Jangjung and Kün Jangjung.",
+      "sources": [
+        "https://el-sozduk.kg/жаң/"
+      ]
+    },
+    {
+      "ky": "тейтей",
+      "en": "noblewoman",
+      "context": "High-status woman, sometimes with mocking bound-foot associations; not a military rank.",
+      "sources": [
+        "https://new.bizdin.kg/media/books/Словарь_эпоса_Манас.pdf"
+      ]
+    },
+    {
+      "ky": "билериктүү",
+      "en": "with dark rings on the legs",
+      "context": "Horse coat markings in horse context; bracelet-bearing in human context.",
+      "sources": [
+        "https://el-sozduk.kg/билерик/"
+      ]
+    },
+    {
+      "ky": "кулача",
+      "en": "dun-colored",
+      "context": "Horse color, same as кула; do not conflate with armspan кулач.",
+      "sources": [
+        "https://el-sozduk.kg/кулач/"
+      ]
+    },
+    {
+      "ky": "чөйчөк семиз",
+      "en": "so fat the rump is hollowed",
+      "context": "Horse body condition; чөйчөк ал- describes groove between fat sides of rump.",
+      "sources": [
+        "https://tamgasoft.kg/dict/index.php?lfrom=kg&word=чөйчөк"
+      ]
+    },
+    {
+      "ky": "кутпа жак",
+      "en": "north",
+      "context": "Directional formula; not qibla or sermon in this context.",
+      "sources": [
+        "https://el-sozduk.kg/КУТПА/"
+      ]
+    },
+    {
+      "ky": "топурак учуп, тоз күйүп",
+      "en": "earth flew, dust blazed",
+      "context": "Exact Karalaev Semetey formula cited in 2015 explanatory dictionary under dust/dispersal. Manas356 has visible тос; retain raw and note interpretive reading.",
+      "sources": [
+        "https://el-sozduk.kg/тоз/"
+      ]
+    },
+    {
+      "ky": "керешке",
+      "en": "shelter",
+      "context": "Whole headword; do not split as кереш plus dative. Forest/shelter metaphor in246, with боз nuance provisional.",
+      "sources": [
+        "https://el-sozduk.kg/керешке/"
+      ]
+    },
+    {
+      "ky": "чер",
+      "en": "dense woodland; thicket",
+      "context": "In forest metaphor; other senses need context.",
+      "sources": [
+        "https://el-sozduk.kg/чер/"
+      ]
+    }
+  ]
+}

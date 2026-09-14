@@ -1702,36 +1702,6 @@
     "note": "Printed бий өңгө not resolved. Temple wound clear but weapon/modifier uncertain; no invented bullet or silent emendation."
   },
   {
-    "id": "manas-2010:p1732:b001:l002:unresolved-verse",
-    "kind": "meaning_unresolved",
-    "status": "unresolved",
-    "source_id": "manas-2010",
-    "after_id": "manas-2010:p1732:b001:l001",
-    "before_id": "manas-2010:p1732:b001:l003",
-    "source_line_ids": [
-      "manas-2010:p1732:b001:l002"
-    ],
-    "evidence": "corpus/batches/pages-1722-1741.json",
-    "source": {
-      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
-      "page": 1732,
-      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "segments": [
-        {
-          "id": "manas-2010:p1732:b001:l002",
-          "raw": "Келеңкир чачпак, кең соору",
-          "bbox": {
-            "xMin": 212.52,
-            "yMin": 78.912,
-            "xMax": 355.5936,
-            "yMax": 94.164
-          }
-        }
-      ]
-    },
-    "note": "Келеңкир modifies hair ornament but was not securely verified. Чачпак and broad hips are clear; no guessed dangling modifier counted as a whole translated verse."
-  },
-  {
     "id": "manas-2010:p1736:b001:l007:unresolved-verse",
     "kind": "meaning_unresolved",
     "status": "unresolved",

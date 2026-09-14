@@ -426,6 +426,7 @@
     "manas-2010:p1731:b001:l041",
     "manas-2010:p1731:b001:l042",
     "manas-2010:p1732:b001:l001",
+    "manas-2010:p1732:b001:l002",
     "manas-2010:p1732:b001:l003",
     "manas-2010:p1732:b001:l004",
     "manas-2010:p1732:b001:l005",
@@ -1014,16 +1015,12 @@
     "manas-2010:p1741:b001:l034": "12learned religious men followed by coercive herding bound37 retained; not normalized to voluntary blessings.",
     "manas-2010:p1741:b001:l037": "Кембайлап tightly bound/girded construed coercively with driving religious men; exact binding method unspecified.",
     "manas-2010:p1741:b001:l039": "Corrected spacious to royal: primary Yudakhin explicitly башаалуу = бадышалуу having a ruler, https://tamgasoft.kg/dict/index.php?alf1=б&alf2=ба&cur_page=39&dic_id=2&page=list_words. PDF1741 re-inspected; төр honored upper place, here Beijing ruler’s seat. No room dimensions inferred.",
-    "manas-2010:p1741:b001:l042": "The Kongurbay clause continues1742:1raiding his horses; no extra verb on this page-ending row."
+    "manas-2010:p1741:b001:l042": "The Kongurbay clause continues1742:1raiding his horses; no extra verb on this page-ending row.",
+    "manas-2010:p1732:b001:l002": "Restored after reinspection of PDF1732:2. Printed Келеңкир чачпак, кең соору retained verbatim in source. Primary Yudakhin келеңкер denotes ornamental threads/charms woven into braids; келин entry quotes the near-exact formula келеңкер чачпак, кең соору келини сонун кыргыздын. Thus ornamented braids and broad hips is secure; spelling variant not silently changed. Sources: https://el-sozduk.kg/келин/ ; https://tamgasoft.kg/dict/index.php?alf1=к&alf2=ке&cur_page=12&dic_id=2&page=list_words ."
   },
   "headings": [],
   "prose_passages": [],
   "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1732:b001:l002",
-      "kind": "unresolved_source",
-      "reason": "Келеңкир modifies hair ornament but was not securely verified. Чачпак and broad hips are clear; no guessed dangling modifier counted as a whole translated verse."
-    },
     {
       "id": "manas-2010:p1736:b001:l007",
       "kind": "unresolved_source",
@@ -1046,29 +1043,6 @@
     }
   ],
   "unresolved_source": [
-    {
-      "id": "manas-2010:p1732:b001:l002",
-      "source_id": "manas-2010",
-      "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "page": 1732,
-      "block": 1,
-      "line_in_block": 2,
-      "bbox": {
-        "xMin": 212.52,
-        "yMin": 78.912,
-        "xMax": 355.5936,
-        "yMax": 94.164
-      },
-      "raw": "Келеңкир чачпак, кең соору",
-      "text": "Келеңкир чачпак, кең соору",
-      "classification": "unreviewed",
-      "transcription_status": "unreviewed",
-      "normalization": "identity",
-      "reason": "Келеңкир modifies hair ornament but was not securely verified. Чачпак and broad hips are clear; no guessed dangling modifier counted as a whole translated verse.",
-      "preceding_source": "manas-2010:p1732:b001:l001",
-      "following_source": "manas-2010:p1732:b001:l003",
-      "rendered_page": "tmp/pdfs/pages-1722-1741/page-1732.png"
-    },
     {
       "id": "manas-2010:p1736:b001:l007",
       "source_id": "manas-2010",
@@ -1195,9 +1169,9 @@
     "method": "same-agent source/English row comparison",
     "checked_by": "Codex worker translate_36_55_resume",
     "date": "2026-09-14",
-    "rows": 835,
+    "rows": 836,
     "status": "draft; no independent specialist review",
-    "details": "All840source/English pairs read in consecutive336/336/168sections; truncated middle reread1730:35–1732:42 separately, then final corrections checked by exactID. Direct Kyrgyz translation, no MT/prior published English input. Five wholly unresolved verses excluded and preserved separately. Every repetition, standalone interjection, count discrepancy, mourning curse, bodily image and coercive action retained. Source SHA/raw/bbox accessible through exact IDs; no independent specialist review. Post-freeze correction1741:39 spacious→royal verified against primary Yudakhin and PDF;1722:37 cross-reference corrected to1723:5–8."
+    "details": "All840source/English pairs read in consecutive336/336/168sections; truncated middle reread1730:35–1732:42 separately, then final corrections checked by exactID. Direct Kyrgyz translation, no MT/prior published English input. Four wholly unresolved verses excluded and preserved separately. Every repetition, standalone interjection, count discrepancy, mourning curse, bodily image and coercive action retained. Source SHA/raw/bbox accessible through exact IDs; no independent specialist review. Post-freeze correction1741:39 spacious→royal verified against primary Yudakhin and PDF;1722:37 cross-reference corrected to1723:5–8. Restored1732:2 after primary lexical verification, PDF reinspection and adjacent source/English comparison."
   },
   "coverage": {
     "pdf_pages": [
@@ -1222,19 +1196,19 @@
       1740,
       1741
     ],
-    "translated_display_rows": 835,
+    "translated_display_rows": 836,
     "editorial_heading_rows": 0,
     "prose_rows": 0,
     "unresolved_extraction_rows": 0,
-    "unresolved_semantic_rows": 5,
-    "entirely_untranslated_or_transliterated_rows": 5,
+    "unresolved_semantic_rows": 4,
+    "entirely_untranslated_or_transliterated_rows": 4,
     "website_watermark_rows": 0,
     "independently_reviewed_rows": 0
   },
   "word_counts": {
     "method": "Python alphabetic words, internal apostrophes/hyphens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*; translated verse only, notes and editorial text excluded.",
-    "source_words": 2977,
-    "english_words": 4936,
+    "source_words": 2981,
+    "english_words": 4942,
     "all_source_verse_words": 2998
   }
 }

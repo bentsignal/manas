@@ -1,6 +1,6 @@
 {
-  "saved_draft_rows": 78615,
-  "released_draft_rows": 78615,
+  "saved_draft_rows": 78848,
+  "released_draft_rows": 78616,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
@@ -81,7 +81,6 @@
     "manas-2010:p1715:b001:l033",
     "manas-2010:p1719:b001:l004",
     "manas-2010:p1719:b001:l037",
-    "manas-2010:p1732:b001:l002",
     "manas-2010:p1736:b001:l007",
     "manas-2010:p1737:b001:l020",
     "manas-2010:p1739:b001:l014",
@@ -104,8 +103,8 @@
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 432130,
-  "released_english_words": 432130,
+  "saved_draft_english_words": 433534,
+  "released_english_words": 432136,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
   "saved_page_ranges_by_source": {
@@ -113,6 +112,12 @@
       [
         16,
         1832
+      ]
+    ],
+    "semetey-1-2013": [
+      [
+        84,
+        86
       ]
     ]
   }

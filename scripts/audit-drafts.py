@@ -24,6 +24,7 @@ for path in sorted((root/'corpus/batches').glob('pages-*.json')):
         sources[extraction] = [json.loads(s) for s in (root/extraction).read_text().splitlines()]
     english = (root/b['english']).read_text().splitlines()
     ids = b['source_ids']
+    assert set(b.get('notes',{})).issubset(ids), f'{path.name}: note references an untranslated ID'
     assert len(english) == len(ids) and all(s.strip() for s in english), f'{path.name}: empty or misaligned English'
     assert len(ids) == len(set(ids)), f'{path.name}: duplicated IDs'
     pages = b['transcription_check']['pdf_pages']

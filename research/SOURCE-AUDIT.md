@@ -104,3 +104,7 @@ A newly located encyclopedia entry for Kenen cites manuscript inventory 960, pag
 ## Current draft inventory and priority lead
 
 5,218 draft rows saved: sourcepages16–118 and159–164; workers assigned119–158. Of these,1,531 remain live through47. All are unreviewed AI drafts; lineation provisional. Saved-page coverage and published-prefix audits pass. An actual existing Turkish–English Karalaev project has been identified on Internet Archive; source worker inspected an English PDF and found derivative source files, a page48 ellipsis, and count conflicts. No first-complete-translation claim is justified. See SOURCE-PRIORITY-UPDATE.md for inspected files, exact hashes and the limits of the recorded publication date.
+
+## Draft checkpoint: 10,421 rows
+
+Saved page ranges16–227 and248–253; activeworkerassignments228–247,254–273,274–293. All saved batch display lines accounted for by scripts/audit-drafts.py; headings separately preserved and the three damagedpage48fragments explicitly unresolved. Releasedprefix remains1,531rows through47. No certifiedversecount or independentreview claimed. See corpus/draft-progress.json for generated counts.

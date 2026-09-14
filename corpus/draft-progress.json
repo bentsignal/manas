@@ -1,6 +1,6 @@
 {
-  "saved_draft_rows": 107081,
-  "released_draft_rows": 106854,
+  "saved_draft_rows": 108838,
+  "released_draft_rows": 108838,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
@@ -232,16 +232,28 @@
     "semetey-1-2013:p0392:b003:l037",
     "semetey-1-2013:p0392:b004:l028",
     "semetey-1-2013:p0392:b004:l033",
+    "semetey-1-2013:p0395:b005:l005",
+    "semetey-1-2013:p0396:b003:l001",
+    "semetey-1-2013:p0397:b003:l013",
+    "semetey-1-2013:p0397:b004:l016",
+    "semetey-1-2013:p0402:b003:l003",
+    "semetey-1-2013:p0408:b004:l020",
+    "semetey-1-2013:p0412:b003:l034",
+    "semetey-1-2013:p0412:b004:l021",
+    "semetey-1-2013:p0413:b003:l027",
     "semetey-1-2013:p0414:b003:l038",
     "semetey-1-2013:p0414:b003:l039",
     "semetey-1-2013:p0415:b003:l027",
-    "semetey-1-2013:p0416:b004:l034"
+    "semetey-1-2013:p0416:b004:l034",
+    "semetey-1-2013:p0418:b004:l017",
+    "semetey-1-2013:p0419:b003:l003",
+    "semetey-1-2013:p0419:b003:l025"
   ],
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 596705,
-  "released_english_words": 595426,
+  "saved_draft_english_words": 606622,
+  "released_english_words": 606622,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
   "saved_page_ranges_by_source": {
@@ -254,11 +266,7 @@
     "semetey-1-2013": [
       [
         24,
-        393
-      ],
-      [
-        414,
-        416
+        419
       ]
     ]
   }

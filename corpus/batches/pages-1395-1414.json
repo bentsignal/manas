@@ -383,6 +383,7 @@
     "manas-2010:p1403:b001:l040",
     "manas-2010:p1403:b001:l041",
     "manas-2010:p1403:b001:l042",
+    "manas-2010:p1404:b001:l001",
     "manas-2010:p1404:b001:l002",
     "manas-2010:p1404:b001:l003",
     "manas-2010:p1404:b001:l004",
@@ -919,16 +920,12 @@
     "manas-2010:p1413:b001:l029": "укурук кайрар champion able to resist/protect against an enemy, exact Yudakhin https://el-sozduk.kg/укурук/. English resistance gloss replaces literal catching-pole misreading.",
     "manas-2010:p1413:b001:l039": "чыңоолуу forged/hardened, https://el-sozduk.kg/чыңоо/. Red iron image retained, no modern metallurgical specification.",
     "manas-2010:p1414:b001:l003": "Tears across ten fields retains exact number/image, not reduced to many tears.",
-    "manas-2010:p1414:b001:l030": "Six years before recorded prophecy and six-month rule1414:29/37 retained, alongside earlier forty-year prophecy1408:5. No chronological reconciliation."
+    "manas-2010:p1414:b001:l030": "Six years before recorded prophecy and six-month rule1414:29/37 retained, alongside earlier forty-year prophecy1408:5. No chronological reconciliation.",
+    "manas-2010:p1404:b001:l001": "Former gap resolved provisionally after new lexical evidence and re-viewing PDF1404. Printed Алмамбет жандын бардеги retained, including Almambet, not silently changed to Аманат. Yudakhin баргек sense2 is cherished support/delight and gives exact gun formula аманат жандын баргеги; https://tamgasoft.kg/dict/index.php?word=баргек and https://el-sozduk.kg/баргек/. Akmataliev craft dictionary on same pages quotes бардек in the analogous маңдайда бардек тынарым phrase, supporting the printed д variant. Translation takes the compressed Almambet/soul relation possessively: the gun delights Almambet’s soul. Preceding1403:40–42 and following1404:2 identify Akkelte; relationship remains a qualified reading, not a new source emendation. No independent specialist review."
   },
   "headings": [],
   "prose_passages": [],
   "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1404:b001:l001",
-      "kind": "unresolved_source",
-      "reason": "Printed Алмамбет жандын бардеги. readable but бардеги lacks verified meaning in gun formula.1692:22 repeats Аманат жандын бардеги., confirming form but not resolving semantics. No silent substitution of Алмамбет→Аманат or бардеги→бергени."
-    },
     {
       "id": "manas-2010:p1410:b001:l005",
       "kind": "unresolved_source",
@@ -936,63 +933,6 @@
     }
   ],
   "unresolved_source": [
-    {
-      "id": "manas-2010:p1404:b001:l001",
-      "raw": "Алмамбет жандын бардеги.",
-      "text": "Алмамбет жандын бардеги.",
-      "pdf_page": 1404,
-      "bbox": {
-        "xMin": 212.52,
-        "yMin": 62.112,
-        "xMax": 356.4252,
-        "yMax": 77.364
-      },
-      "rendered_page": "/home/shawn/dev/manas/tmp/pdfs/pages-1395-1414/page-1404.png",
-      "reason": "Printed Алмамбет жандын бардеги. readable but бардеги lacks verified meaning in gun formula.1692:22 repeats Аманат жандын бардеги., confirming form but not resolving semantics. No silent substitution of Алмамбет→Аманат or бардеги→бергени.",
-      "literal_gloss": "Almambet / soul / bardegi (UNACCEPTED partial transliteration).",
-      "references": [
-        "https://el-sozduk.kg/бардек/",
-        "sources/extracted/manas-2010.lines.jsonl:1692:b001:l022"
-      ],
-      "preceding_source": {
-        "id": "manas-2010:p1403:b001:l042",
-        "source_id": "manas-2010",
-        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-        "page": 1403,
-        "block": 1,
-        "line_in_block": 42,
-        "bbox": {
-          "xMin": 212.52,
-          "yMin": 752.712,
-          "xMax": 346.308,
-          "yMax": 767.964
-        },
-        "raw": "Айкашкан жоого салганда",
-        "text": "Айкашкан жоого салганда",
-        "classification": "unreviewed",
-        "transcription_status": "unreviewed",
-        "normalization": "identity"
-      },
-      "following_source": {
-        "id": "manas-2010:p1404:b001:l002",
-        "source_id": "manas-2010",
-        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-        "page": 1404,
-        "block": 1,
-        "line_in_block": 2,
-        "bbox": {
-          "xMin": 212.52,
-          "yMin": 78.912,
-          "xMax": 325.056,
-          "yMax": 94.164
-        },
-        "raw": "Жакшы буюм Аккелте",
-        "text": "Жакшы буюм Аккелте",
-        "classification": "unreviewed",
-        "transcription_status": "unreviewed",
-        "normalization": "identity"
-      }
-    },
     {
       "id": "manas-2010:p1410:b001:l005",
       "raw": "Чынчуу кандуу улугу",
@@ -1077,15 +1017,15 @@
       1413,
       1414
     ],
-    "scope": "All20PDFpages individually viewed at1400px and compared with extraction.42provisional verse display rows per page, all block1. No headings or prose. Parenthesized1409:29 narrator verse retained. Raw unchanged. Two readable but semantically unresolved verse rows preserved separately. Images tmp/pdfs/pages-1395-1414/page-NNNN.png."
+    "scope": "All20PDFpages individually viewed at1400px and compared with extraction.42provisional verse display rows per page, all block1. No headings or prose. Parenthesized1409:29 narrator verse retained. Raw unchanged. One readable but semantically unresolved verse row preserved separately. PDF1404 re-viewed after recovery; its first line provisionally restored with independently attested lexical formula. Images tmp/pdfs/pages-1395-1414/page-NNNN.png."
   },
   "alignment_check": {
     "method": "same-agent source/English row comparison",
     "checked_by": "Codex worker translate_36_55",
     "date": "2026-09-14",
-    "rows": 838,
+    "rows": 839,
     "status": "draft; no independent specialist review",
-    "details": "All840source/draft pairs read in five consecutive168-row sections. Twelve final lexical/idiom corrections rechecked.838English rows retained; two unresolved phrases excluded from English count and preserved separately. Direct Kyrgyz draft, no prior English translation used as input. Repetitions, numerical discrepancies, forced tribute, violence and narrative inconsistencies retained with material uncertainty notes."
+    "details": "All840source/draft pairs read in five consecutive168-row sections. Twelve final lexical/idiom corrections rechecked.838English rows retained; two unresolved phrases excluded from English count and preserved separately. Direct Kyrgyz draft, no prior English translation used as input. Repetitions, numerical discrepancies, forced tribute, violence and narrative inconsistencies retained with material uncertainty notes. After recovery,1404:1 re-read with preceding/following source and primary Yudakhin gun formula, restored as a qualified direct translation; now839translated rows and one semantic gap."
   },
   "coverage": {
     "pdf_pages": [
@@ -1110,19 +1050,19 @@
       1413,
       1414
     ],
-    "translated_display_rows": 838,
+    "translated_display_rows": 839,
     "editorial_heading_rows": 0,
     "prose_rows": 0,
     "unresolved_extraction_rows": 0,
-    "unresolved_semantic_rows": 2,
-    "entirely_untranslated_or_transliterated_rows": 2,
+    "unresolved_semantic_rows": 1,
+    "entirely_untranslated_or_transliterated_rows": 1,
     "website_watermark_rows": 0,
     "independently_reviewed_rows": 0
   },
   "word_counts": {
     "method": "Python alphabetic words, internal apostrophes/hyphens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*; translated verse only, unresolved/notes excluded.",
-    "source_words": 2715,
-    "english_words": 4441,
+    "source_words": 2718,
+    "english_words": 4446,
     "all_source_verse_words": 2721
   }
 }

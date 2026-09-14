@@ -1,7 +1,7 @@
 {
   "format": "manas-release-shards-v1",
-  "rows": 70123,
-  "sha256": "0da9cfb5940d59f637e79f3a8a6e8149472296d9c3532e8eed9185c687d2df9e",
+  "rows": 72889,
+  "sha256": "02201fb3b5cc9558a4ccd3ab22bcf2847971955e45c9ff0630d005fd6572645c",
   "chunks": [
     {
       "file": "9cc08538c662f72f1e152c4f2f4beed09f444e19e2be0571781d6f98a11aed3b.jsonl",
@@ -244,48 +244,56 @@
       "rows": 1000
     },
     {
-      "file": "bc5f850491a6eb2f1baaad58b42c784930890920f0083072873b3c9afbf36a34.jsonl",
+      "file": "ea374ea16912d88a133f1e5d29729f5b84b6a86fc00fa9f3fd8c3e7aeb79cdf7.jsonl",
       "rows": 1000
     },
     {
-      "file": "124f2d3e03f884f3b5a85258d548fe90d8e2cb9626f9620a530080d1360bdc67.jsonl",
+      "file": "afadb315ccefbd178631b41dbe454830450f4761664661777973502be75114d4.jsonl",
       "rows": 1000
     },
     {
-      "file": "d030ed3abb84e87be3f6462901587aca67513e3b95fd6721fdaee151c176e4bd.jsonl",
+      "file": "badfe43a9bea571ff47e7abb81b9bc2b3a961d67b2a9ac90e6efadf3d7e554f6.jsonl",
       "rows": 1000
     },
     {
-      "file": "23fe8acf5d8fff648bc439aa942f4e814896393a6a01a280a479f320d8c30797.jsonl",
+      "file": "863a9d5bf43d7270570a6520c6fedc2433882785f952fe9f859c196af7efb3de.jsonl",
       "rows": 1000
     },
     {
-      "file": "90c92df0ca412145438af80c7b3ac3dce85554cfe3acd281ae6d4912877e9b7d.jsonl",
+      "file": "d40d9ce3adf482a64e053003f2ee57bced901e0ddf534bdcaaa94ba5f2e213d2.jsonl",
       "rows": 1000
     },
     {
-      "file": "4e98c24d4f7728dfcceff4af8a3a7e18b00be4600d85845fec608b41f66978e0.jsonl",
+      "file": "b75f82e6b20d8bc6b613184eff9fa06d7f48f5f2332d167b75a42ede963f24cf.jsonl",
       "rows": 1000
     },
     {
-      "file": "5ff18a310be686589726cf3503bcb103db261575378479043981bd7fbd3c58ee.jsonl",
+      "file": "9627dc476e716b6afc2d6c772dcc25349a0bfb51bc424c26d2b5e091266e8bf0.jsonl",
       "rows": 1000
     },
     {
-      "file": "d8b13c101aeb3c4152b4870917776e4c959e011ddb6e0e43d730904bca4e05ef.jsonl",
+      "file": "65f52883c3e680d9985f9a1be0b044907778d71a89eba82cc0fef5e20e1563ab.jsonl",
       "rows": 1000
     },
     {
-      "file": "f192f1703ff04befe7d1a09a0f213e0c17235d39074f1e091d521d899e60bb16.jsonl",
+      "file": "938dad7169d00acbfd8e5323f0a30c5fcf59f5140d7d98f79c3f8be98e731124.jsonl",
       "rows": 1000
     },
     {
-      "file": "2ba305af739219063e2bca834198f6348355a8430a8b22c70205e0ef4013d242.jsonl",
+      "file": "c03a8d7b7f33d17d59884440c7925c547877d7b8adc149aaa58c3b8d07b76341.jsonl",
       "rows": 1000
     },
     {
-      "file": "56c7ac23ded181f2d34e46b73d32cb50ca68f91667c0ac0f2f571dcd102e4f9a.jsonl",
-      "rows": 123
+      "file": "2af4174aa91e357b99b695f30356acd51dd73f65ed68c29684ebea8a55d7aacf.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "459ca5610793d9c99ed97bcbaf6d6fbbfa73db69a35a7fa7b29d39053c828936.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "2c7d63606948519e32166d5e01f62bf09d66bbd2bcf182a1af3819938cdd7b68.jsonl",
+      "rows": 889
     }
   ]
 }

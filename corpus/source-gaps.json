@@ -1132,36 +1132,6 @@
     "note": "Шагымды is visibly printed, but no defensible primary Kyrgyz noun sense is established here. Surrounding ramparts and throne suggest a city/domain offer; dictionary шак branch/hope does not justify it. Whole verse retained raw and transliterated outside English count, with no silent шаарымды emendation."
   },
   {
-    "id": "manas-2010:p1404:b001:l001:unresolved-verse",
-    "kind": "meaning_unresolved",
-    "status": "unresolved",
-    "source_id": "manas-2010",
-    "after_id": "manas-2010:p1403:b001:l042",
-    "before_id": "manas-2010:p1404:b001:l002",
-    "source_line_ids": [
-      "manas-2010:p1404:b001:l001"
-    ],
-    "evidence": "corpus/batches/pages-1395-1414.json",
-    "source": {
-      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
-      "page": 1404,
-      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "segments": [
-        {
-          "id": "manas-2010:p1404:b001:l001",
-          "raw": "Алмамбет жандын бардеги.",
-          "bbox": {
-            "xMin": 212.52,
-            "yMin": 62.112,
-            "xMax": 356.4252,
-            "yMax": 77.364
-          }
-        }
-      ]
-    },
-    "note": "Printed Алмамбет жандын бардеги. readable but бардеги lacks verified meaning in gun formula.1692:22 repeats Аманат жандын бардеги., confirming form but not resolving semantics. No silent substitution of Алмамбет→Аманат or бардеги→бергени."
-  },
-  {
     "id": "manas-2010:p1410:b001:l005:unresolved-verse",
     "kind": "meaning_unresolved",
     "status": "unresolved",
@@ -1460,5 +1430,215 @@
       ]
     },
     "note": "Уй күрөң тартып remains uninterpreted as a full phrase. Yudakhin күрөң brown and уй cattle do not establish the idiom in wounded-hero context. Same-edition1116:42 also excluded; no speculative gait or color change counted. https://el-sozduk.kg/күрөң/. All source words visibly present; no missing-print claim."
+  },
+  {
+    "id": "manas-2010:p1638:b001:l022:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1638:b001:l021",
+    "before_id": "manas-2010:p1638:b001:l023",
+    "source_line_ids": [
+      "manas-2010:p1638:b001:l022"
+    ],
+    "evidence": "corpus/batches/pages-1630-1649.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1638,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1638:b001:l022",
+          "raw": "Алим-салим окуусун",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 415.872,
+            "xMax": 317.7,
+            "yMax": 431.124
+          }
+        }
+      ]
+    },
+    "note": "Printed Алим-салим окуусун occurs in the dragon-school account. Окуусун means its teaching/study, but алим-салим has no defensibly established contextual sense. The distinct dictionary form алым-салым can mean taxes or in turns; neither establishes this printed phrase. Whole verse preserved separately, not guessed or counted as English."
+  },
+  {
+    "id": "manas-2010:p1652:b001:l003:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1652:b001:l002",
+    "before_id": "manas-2010:p1652:b001:l004",
+    "source_line_ids": [
+      "manas-2010:p1652:b001:l003"
+    ],
+    "evidence": "corpus/batches/pages-1650-1652.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1652,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1652:b001:l003",
+          "raw": "Жобо жоого атычу",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 95.712,
+            "xMax": 307.5948,
+            "yMax": 110.964
+          }
+        }
+      ]
+    },
+    "note": "Printed Жобо жоого атычу has clear shooting-at-enemy remainder but Жобо unverified in this syntax. Yudakhin жобо plan/project or verb grieve/evade https://el-sozduk.kg/zhobo-7/ does not resolve modifier/clause; related384:32 sorrow does not establish this form. Same-witness online repetition not independent repair. No silent Жобо→жоо or guessed distress-shooting gloss."
+  },
+  {
+    "id": "manas-2010:p1661:b001:l005:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1661:b001:l004",
+    "before_id": "manas-2010:p1661:b001:l006",
+    "source_line_ids": [
+      "manas-2010:p1661:b001:l005"
+    ],
+    "evidence": "corpus/batches/pages-1656-1675.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1661,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1661:b001:l005",
+          "raw": "Меке дылда кылымды",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 129.432,
+            "xMax": 329.472,
+            "yMax": 144.684
+          }
+        }
+      ]
+    },
+    "note": "Меке is recognizable, but дылда кылымды is not securely interpreted in the raiding sequence. Earlier similar дылда gap1329:31 remains unresolved. No invented place-name Dyl da or guessed gold-world paraphrase counted as translation."
+  },
+  {
+    "id": "manas-2010:p1661:b001:l017:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1661:b001:l016",
+    "before_id": "manas-2010:p1661:b001:l018",
+    "source_line_ids": [
+      "manas-2010:p1661:b001:l017"
+    ],
+    "evidence": "corpus/batches/pages-1656-1675.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1661,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1661:b001:l017",
+          "raw": "Коолошүп кетем дечү элең,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 331.632,
+            "xMax": 353.88,
+            "yMax": 346.884
+          }
+        }
+      ]
+    },
+    "note": "Printed Коолошүп/visual Коолошуп follows named sword and precedes жөөлөшүп. Main verb has not been securely verified; not silently emended to куулошуп, quarrel, wield, or pursue."
+  },
+  {
+    "id": "manas-2010:p1664:b001:l039:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1664:b001:l038",
+    "before_id": "manas-2010:p1664:b001:l040",
+    "source_line_ids": [
+      "manas-2010:p1664:b001:l039"
+    ],
+    "evidence": "corpus/batches/pages-1656-1675.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1664,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1664:b001:l039",
+          "raw": "Мөндүрдөй каны бөгүлдү,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 702.192,
+            "xMax": 347.9988,
+            "yMax": 717.444
+          }
+        }
+      ]
+    },
+    "note": "Printed Мөндүрдөй каны бөгүлдү has recognizable blood/hail but бөгүлдү conflicts with the expected pouring idiom. Next41 has төгүлдү. No independent witness confirms emending this verse’s бөгүлдү to төгүлдү; entire verse excluded until resolved."
+  },
+  {
+    "id": "manas-2010:p1666:b001:l034:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1666:b001:l033",
+    "before_id": "manas-2010:p1666:b001:l035",
+    "source_line_ids": [
+      "manas-2010:p1666:b001:l034"
+    ],
+    "evidence": "corpus/batches/pages-1656-1675.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1666,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1666:b001:l034",
+          "raw": "Ошондо бийөнгө тийип белине,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 617.952,
+            "xMax": 376.32,
+            "yMax": 633.204
+          }
+        }
+      ]
+    },
+    "note": "Бийөнгө is not securely identified. Occurrences with strikes to the head elsewhere rule out confidently reading it as intestine/gut, but do not establish a particular projectile. Recovered draft gut removed; no generic bullet guess counted."
+  },
+  {
+    "id": "manas-2010:p1683:b001:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1683:b001:l030",
+    "before_id": "manas-2010:p1683:b001:l032",
+    "source_line_ids": [
+      "manas-2010:p1683:b001:l031"
+    ],
+    "evidence": "corpus/batches/pages-1676-1695.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1683,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1683:b001:l031",
+          "raw": "Кыймалуу жактан чалдырып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 567.432,
+            "xMax": 362.0376,
+            "yMax": 582.684
+          }
+        }
+      ]
+    },
+    "note": "Кыймалуу жактан чалдырып is visibly present but the complete ornate-chest/formula meaning remains unresolved. Parallel1303:26 and1418:8 also unresolved. Deadly side would be conjecture without lexical support; omit the entire verse from translated counts, retain raw evidence and gap. No missing-print claim."
   }
 ]

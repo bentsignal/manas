@@ -1,5 +1,5 @@
 {
-  "status": "applied-to-owned-and-canonical-not-yet-live",
+  "status": "published-and-verified-version-48",
   "checked_by": "Codex translate_36_55_resume, same-agent review; no independent specialist verification",
   "date": "2026-09-14",
   "scope": "All 69 supplied candidates, including one false-positive; every one of the 56 distinct page images individually inspected with surrounding Kyrgyz context. No frozen/canonical/Git edits.",
@@ -2855,5 +2855,6 @@
       ]
     }
   ],
-  "root_review": "Read all 69 source/old/new proposals and contextual rationales; retained 15 contextual readings and one false positive. Preserved earlier structural and uncertainty notes."
+  "root_review": "Read all 69 source/old/new proposals and contextual rationales; retained 15 contextual readings and one false positive. Preserved earlier structural and uncertainty notes.",
+  "release_record": "research/releases/version-0048.json"
 }

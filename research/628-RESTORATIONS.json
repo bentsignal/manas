@@ -1,5 +1,5 @@
 {
-  "status": "applied-to-owned-and-canonical-not-yet-live",
+  "status": "published-and-verified-version-48",
   "source_id": "semetey-1-2013:p0628:b003:l036",
   "source_group": [
     "semetey-1-2013:p0628:b003:l036",
@@ -18,5 +18,6 @@
     "primary": "Yudakhin эки: эки болбойсуң или дүйнөдө эки болбойсуң не видать тебе добра; ты плохо кончишь; эгерде эки болбой кал! чтоб тебе никогда не видать добра! Exact generosity parallel көп дүйнөмдү аясам, эгерде эки боломбу?",
     "context": "Conditional62825 if I hurt your feelings, self-curse26. Independent full primary entry read; no literal descendants interpretation."
   },
-  "root_review": "Individually inspected628 image and full surrounding context, read both exact dictionary entries; retained literal implement proverb and idiomatic prosperity curse."
+  "root_review": "Individually inspected628 image and full surrounding context, read both exact dictionary entries; retained literal implement proverb and idiomatic prosperity curse.",
+  "release_record": "research/releases/version-0048.json"
 }

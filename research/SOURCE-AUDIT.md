@@ -94,3 +94,9 @@ Four PDFs acquired; structured extraction complete. Opening pilot: 92 draft Engl
 380 English draft rows now cover PDF pages 16–23. Pages 18–23 were visually compared with the digital witness. Their 288 display lines are preserved in order, with difficult readings flagged in record notes. All remain unreviewed drafts. Traditional-verse publication basis is extended to these checked pages; modern editorial material remains excluded.
 
 A newly located encyclopedia entry for Kenen cites manuscript inventory 960, page 145, for his birth narrative and inventory 960 more generally for subsequent events: https://tamgasoft.kg/dict/index.php?lang=en&lfrom=kg&word=%D0%BA%D0%B5%D0%BD%D0%B5%D0%BD . This is a concrete archive lead, not an acquired continuation. No exact old-inventory-960 match occurs in our existing 88-record catalogue inventory.
+
+956 draft rows now cover pages 16–35. Full source-display-line alignment passes for this prefix. Later batches are being translated in parallel; a probable corrupted verse on page48 is explicitly unresolved and blocks publication past that point until recovered. Source follow-up: [FULL-SOURCE-FOLLOWUP.md](FULL-SOURCE-FOLLOWUP.md).
+
+## Checkpoint: PDF page 47
+
+1,531 draft rows now released, representing 1,532 source display lines and one explicitly excluded running heading. Workers finished drafts through page75 (2,865 total draft verse rows including unpublished work). Publication stops before the damaged source region on page48. No full-source reconciliation or specialist review claimed. Page16 line11 now uses the documented пирге emendation in TEXTUAL-CORRECTIONS.md while preserving base raw text.

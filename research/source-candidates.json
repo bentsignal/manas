@@ -1,0 +1,57 @@
+[
+  {
+    "path": "sources/raw/manas-iksu-candidate.pdf",
+    "url": "https://api.libraryiksu.kg/elibrary/books/Karalaev_Manas1454.pdf",
+    "type": "duplicate_full_pdf",
+    "bytes": 16242844,
+    "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+    "retrieved_at": "2026-09-14T02:33:51.815925+00:00",
+    "notes": "Identical SHA-256 to manas-2010; adds no coverage",
+    "adds_verified_corpus_lines": 0,
+    "publication_basis": "not_assessed"
+  },
+  {
+    "path": "sources/raw/oshsu-seytek-2018-holdings.pdf",
+    "url": "https://base.oshsu.kg/resurs/document/PDF-20190719123821-kitep_osu.pdf",
+    "type": "bibliographic_holdings",
+    "bytes": 747265,
+    "sha256": "3aa1e010ac2b9e0af44652ef64b977252d738f49e7befcf76d02ef288621b683",
+    "retrieved_at": "2026-09-14T02:33:51.817631+00:00",
+    "notes": "29-page holdings list, not epic verse",
+    "adds_verified_corpus_lines": 0,
+    "publication_basis": "not_assessed"
+  },
+  {
+    "path": "sources/raw/manuscript-103-sample.pdf",
+    "url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-103-Manas-Chon-kazat-ulandysy-Siakbai-Karalaev.pdf",
+    "type": "manuscript_sample",
+    "bytes": 4464840,
+    "sha256": "721a6bcc8917a83b0ccc3039351190ca89918b60c2dd29864665a4401fbfdc11",
+    "retrieved_at": "2026-09-14T02:33:51.821382+00:00",
+    "notes": "5-page sample of current103/old924; catalogue describes100pages/2300lines",
+    "adds_verified_corpus_lines": 0,
+    "publication_basis": "not_assessed"
+  },
+  {
+    "path": "sources/raw/manas-first-volume-bizdin.pdf",
+    "url": "https://new.bizdin.kg/kniga/epos-manas-pervyy-tom/",
+    "type": "comparison_witness",
+    "bytes": 3268380,
+    "sha256": "c34030215a8fd8957636b592d8aa26ee31b05c3ee0939fd483e9b1b35c35927c",
+    "retrieved_at": "2026-09-14T02:39:12.798976+00:00",
+    "notes": "439-page reflowed Karalaev first volume; preface dated1982; editionyear notyetverified; visuallysupports openingпирге",
+    "adds_verified_corpus_lines": 0,
+    "publication_basis": "not_assessed"
+  },
+  {
+    "path": "sources/raw/manas-aki-candidate.pdf",
+    "url": "https://cdn-1.aki.kg/st_bilimlib/8/6ba4d8da68bdb70850cc2e35ec861c0213e5b51f.pdf",
+    "type": "comparison_witness",
+    "bytes": 34770598,
+    "sha256": "68bc80c49971f65cf755f6ef4d49e22396d9ca913b53b1f18aace29563f74178",
+    "retrieved_at": "2026-09-14T02:39:12.828150+00:00",
+    "notes": "Actually Karalaev Seytek scan, title1991/bibliographic1990; notManas; extractedtextempty; no addedcoveragecertified",
+    "adds_verified_corpus_lines": 0,
+    "publication_basis": "not_assessed"
+  }
+]

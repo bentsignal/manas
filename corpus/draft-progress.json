@@ -1,5 +1,5 @@
 {
-  "saved_draft_rows": 102020,
+  "saved_draft_rows": 102252,
   "released_draft_rows": 101796,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
@@ -195,12 +195,13 @@
     "semetey-1-2013:p0349:b003:l030",
     "semetey-1-2013:p0349:b004:l026",
     "semetey-1-2013:p0350:b003:l009",
-    "semetey-1-2013:p0350:b004:l003"
+    "semetey-1-2013:p0350:b004:l003",
+    "semetey-1-2013:p0351:b004:l017"
   ],
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 567209,
+  "saved_draft_english_words": 568573,
   "released_english_words": 565871,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
@@ -218,7 +219,7 @@
       ],
       [
         348,
-        350
+        353
       ]
     ]
   }

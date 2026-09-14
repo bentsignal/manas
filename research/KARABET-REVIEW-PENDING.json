@@ -1,0 +1,420 @@
+{
+  "status": "contextual review assigned; no replacements applied",
+  "primary": "Yudakhin2015 бет: кара бет has disgraced/shamed, unhappy widow/bereaved fiancee, and shameless/dishonest senses; contextual overlap must be preserved, no blanket replacement.",
+  "candidates": [
+    {
+      "id": "manas-2010:p0871:b001:l034",
+      "ky": "Карабеттин өзүндө",
+      "en": "That shameless one herself,",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p0885:b001:l010",
+      "ky": "Кара бет талпак соо кылбайт.",
+      "en": "That shameless piece of trash will not spare me.",
+      "note": "Карабет shameless, талпак insulting trash, per Yudakhin талпак; not a racial description or literal skin in this taunt."
+    },
+    {
+      "id": "manas-2010:p0956:b001:l025",
+      "ky": "Кара беттин таалайга,",
+      "en": "For this shameless one's fortune,",
+      "note": "Кара бет shameless is Kanykey’s self-deprecating epithet, not complexion or racial designation."
+    },
+    {
+      "id": "manas-2010:p0958:b001:l010",
+      "ky": "Мен кара бет Каныкей",
+      "en": "I, shameless Kanykey,",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p1271:b001:l009",
+      "ky": "Чубакка Эзкара беттеп кирген соң,",
+      "en": "When Ezkara came confronting Chubak,",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p1751:b001:l006",
+      "ky": "Карабеттин амалынын кетишин.)",
+      "en": "The black-faced woman’s means were gone.)",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p1751:b001:l025",
+      "ky": "Кара беттин таалайынын кемдиги.",
+      "en": "Such was the black-faced woman’s lack of fortune.",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p1751:b001:l028",
+      "ky": "Карабеттин күн көрөрү тайкы эле.",
+      "en": "A meager life awaits this black-faced woman.",
+      "note": "Тайкы scant/limited livelihood, not a confidently predicted number of remaining days."
+    },
+    {
+      "id": "manas-2010:p1752:b001:l008",
+      "ky": "Карабеттин корголой турган жерин айт!",
+      "en": "Tell this black-faced woman where she may shelter!",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p1761:b001:l002",
+      "ky": "Кара беттин амалынын кеткенин.",
+      "en": "This black-faced woman has no recourse.",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p1761:b001:l005",
+      "ky": "Кара беттин ырысынын тайкысы.",
+      "en": "This black-faced woman's fortune will be scant.",
+      "note": null
+    },
+    {
+      "id": "manas-2010:p1785:b001:l021",
+      "ky": "Кара бет энесинин кылганын",
+      "en": "What his disgraced mother did,",
+      "note": "кара бет disgraced mother self-deprecation retained, not skin complexion."
+    },
+    {
+      "id": "semetey-1-2013:p0025:b005:l015",
+      "ky": "Кыз экенде карабет,",
+      "en": "As a girl, the shameless creature",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0025:b005:l018",
+      "ky": "Бороз* болуп кара бет,",
+      "en": "The shameless creature burned with lust",
+      "note": "бороз III sexually excited/lustful, not agricultural furrow: Yudakhin plus2015 exact Semetey quotation https://el-sozduk.kg/бороз/. This is Zhakyp's accusation, not factual narrator endorsement."
+    },
+    {
+      "id": "semetey-1-2013:p0026:b003:l006",
+      "ky": "Карабетке баралык.",
+      "en": "And go to that shameless woman.”",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0028:b003:l035",
+      "ky": "Мен карабет шордуунун",
+      "en": "From my head, this wretched, disgraced woman's,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0028:b004:l008",
+      "ky": "Кара беттин көрөрү",
+      "en": "What this disgraced woman had to face",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0030:b003:l018",
+      "ky": "Карабет долуң жеди,– деп,–",
+      "en": "Your shameless shrew has devoured us,” they said.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0041:b005:l003",
+      "ky": "Мени карабет долу дегиздиң,",
+      "en": "You made her call me a shameless shrew.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0046:b003:l028",
+      "ky": "Качып кетчү кара бет,",
+      "en": "Black-faced woman who means to flee,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0047:b004:l019",
+      "ky": "Кара бет гана кордук көрбөй кал.",
+      "en": "Let me, black-faced one, be spared disgrace.”",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0047:b004:l021",
+      "ky": "Кара бет Каныкей кордук көргөн жер.",
+      "en": "The place where black-faced Kanykey suffered abuse.",
+      "note": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained."
+    },
+    {
+      "id": "semetey-1-2013:p0048:b003:l038",
+      "ky": "Айласы кетсе, кара бет",
+      "en": "“When the black-faced woman has no recourse,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0052:b003:l008",
+      "ky": "Карабеттин башына.",
+      "en": "This disgraced woman?",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0056:b004:l018",
+      "ky": "Мен кара бет бейбактын",
+      "en": "For me, this disgraced, unhappy woman,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0058:b004:l027",
+      "ky": "Казы жебес кара бет",
+      "en": "The disgraced woman who would not eat rich horse-belly meat",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0066:b003:l027",
+      "ky": "Мурда жалккан кара бет",
+      "en": "The shamefaced woman who had tired before",
+      "note": "Printed мурда жалккан кара бет, provisionally the shamefaced woman previously exhausted; жалккан reading/attachment uncertain."
+    },
+    {
+      "id": "semetey-1-2013:p0074:b003:l008",
+      "ky": "Мен карабет шордуунун",
+      "en": "For me, a shamefaced wretch,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0086:b004:l026",
+      "ky": "Карабет элди көрө элек,",
+      "en": "Disgraced, I have not yet faced the people,",
+      "note": "Карабет disgraced self-description, not black skin; elliptical first-person subject supplied from speaker."
+    },
+    {
+      "id": "semetey-1-2013:p0139:b005:l015",
+      "ky": "Карабет карап тургансып,",
+      "en": "As though the disgraced woman were watching,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0152:b003:l020",
+      "ky": "«О, карабет Каныкей,",
+      "en": "“Oh, shameless Kanykei!",
+      "note": "Speaker switches to quoted Manas condemnation of Kanykei until27 narrator names blood-drinking leopard; source abuse retained."
+    },
+    {
+      "id": "semetey-1-2013:p0152:b004:l020",
+      "ky": "Мен карабет Каныкей",
+      "en": "I, shameless Kanykei,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0161:b003:l013",
+      "ky": "Мен карабет бейтаалай",
+      "en": "I, the disgraced, unlucky one,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0169:b003:l032",
+      "ky": "Кара бет долу мына» – деп,–",
+      "en": "Here is that shameless, fierce woman!’ they will say.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0173:b003:l003",
+      "ky": "Карабет Каныкейдин аты бар.",
+      "en": "There is the name of shameless Kanykei.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0173:b003:l007",
+      "ky": "Кара бет сейилдикке минүчү",
+      "en": "Where this shameless woman sat on her outings,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0174:b004:l004",
+      "ky": "Ошондо, карабетке келген жер.",
+      "en": "This was where they came to me, the shameless one.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0191:b003:l036",
+      "ky": "Кара бет качып барып жан бакты,",
+      "en": "She fled in shame and sustained her life.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0222:b003:l004",
+      "ky": "Бул өңдөнгөн карабет,",
+      "en": "This shameless one of such a kind,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0222:b003:l018",
+      "ky": "Бу карабет бул үчүн",
+      "en": "For this shameless woman's sake,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0245:b004:l008",
+      "ky": "Кара беттин аты»,– деп,",
+      "en": "The shameless one's horse!' they may say.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0277:b003:l038",
+      "ky": "Мен эжекең кара бет",
+      "en": "I, your disgraced elder sister,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0284:b003:l019",
+      "ky": "Эжекең мен карабет шордуунун",
+      "en": "For me, your disgraced, unfortunate sister,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0300:b003:l021",
+      "ky": "Эжекең мен карабет бейбакка,",
+      "en": "To your sister, this disgraced, hapless woman,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0316:b004:l038",
+      "ky": "Карабет саа эне деп.",
+      "en": "That disgraced woman is your mother.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0323:b003:l021",
+      "ky": "Энекең карабеттин этинде",
+      "en": "Upon your disgraced mother's flesh",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0335:b004:l003",
+      "ky": "Энекең, мен карабет бейбактын",
+      "en": "I, your disgraced, hapless mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0345:b003:l034",
+      "ky": "Эсил энең, карабет келген жер ошол,",
+      "en": "That is where your dear, disgraced mother came;",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0345:b005:l019",
+      "ky": "Энекең мен карабет куу шумпай,",
+      "en": "I, your disgraced, wretched, deceitful mother,",
+      "note": "Mother calls herself disgraced/deceitful wretch in lament; do not cleanse source self-reproach."
+    },
+    {
+      "id": "semetey-1-2013:p0345:b005:l023",
+      "ky": "Энекең мен кара бет бейтаалай,",
+      "en": "I, your disgraced, ill-fated mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0346:b003:l025",
+      "ky": "Энекең мен карабет бейтаалай,",
+      "en": "I, your disgraced, ill-fated mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0348:b003:l005",
+      "ky": "Мен энекең кара бет",
+      "en": "I, your shamefaced mother,",
+      "note": "Kanykei shamefaced self-description preserved as speech, not narrator endorsement."
+    },
+    {
+      "id": "semetey-1-2013:p0349:b003:l016",
+      "ky": "Энекең, мен кара бет бейтаалай.",
+      "en": "I, your shamefaced, luckless mother—",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0351:b004:l004",
+      "ky": "Энекең карабетке ала кел.",
+      "en": "Bring him to your shamefaced mother.",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0353:b005:l008",
+      "ky": "Энекең мен кара бет бейбактын",
+      "en": "I, your shamefaced, wretched mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0375:b003:l004",
+      "ky": "Мен энекең карабет",
+      "en": "When I, your disgraced mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0377:b003:l031",
+      "ky": "Азапты мен карабет көргөндө,",
+      "en": "When I, disgraced, suffered torment,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0382:b004:l004",
+      "ky": "Энекең, мен карабет, бейбактын",
+      "en": "I, your disgraced, unhappy mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0389:b004:l023",
+      "ky": "Мен энекең карабет",
+      "en": "I, your disgraced mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0398:b003:l001",
+      "ky": "Энекең мен карабет бейбакка",
+      "en": "To me, your disgraced, wretched mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0423:b003:l032",
+      "ky": "Энекең карабет Каныкейдин жөө жомок,",
+      "en": "And your mother, disgraced Kanykey's tale—",
+      "note": "Indented l033 жөө жомок joins l032 as one printed verse; raw clauses retained. Kanykey's self-referential third-person disgraced epithet not omitted. Indented continuation inspected in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained."
+    },
+    {
+      "id": "semetey-1-2013:p0433:b005:l011",
+      "ky": "Энекең, мен карабет бейтаалай,",
+      "en": "I, your unfortunate, disgraced mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0448:b003:l005",
+      "ky": "Карабет энекеңдин ак сарай,",
+      "en": "To your disgraced mother's white palace,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0451:b003:l035",
+      "ky": "Карабет энең долунун",
+      "en": "Your disgraced, shrewish mother's",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0451:b003:l039",
+      "ky": "Карабет энең долунун",
+      "en": "Your disgraced, shrewish mother's",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0451:b005:l035",
+      "ky": "«Карабет башын алам» – деп,",
+      "en": "“I will cut off the disgraced one's head!”",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0457:b005:l009",
+      "ky": "Энекең, мен карабет бейтаалай",
+      "en": "I, your disgraced, ill-fated mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0467:b003:l037",
+      "ky": "Энекең мен карабет бейтаалай,",
+      "en": "I, your disgraced, unfortunate mother,",
+      "note": null
+    },
+    {
+      "id": "semetey-1-2013:p0510:b003:l014",
+      "ky": "Энекең карабет Каныкейди жактырып,",
+      "en": "Looked kindly on your shameless mother Kanykey.",
+      "note": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained."
+    }
+  ]
+}

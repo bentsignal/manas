@@ -1,5 +1,5 @@
 {
-  "status": "applied_to_owned_and_canonical_not_yet_live",
+  "status": "published_in_site_version_46",
   "reviewer": "Codex worker complete_source_resume",
   "independent_specialist_review": false,
   "date": "2026-09-14",
@@ -4419,5 +4419,6 @@
     }
   ],
   "applied_optional_adjacent_changes": true,
-  "total_applied_english_word_delta": -11
+  "total_applied_english_word_delta": -11,
+  "published_version": 46
 }

@@ -924,7 +924,7 @@
     "manas-2010:p0449:b003:l015": "Эшен is a religious/spiritual master, not a military rank or merely personal piety.",
     "manas-2010:p0450:b001:l006": "Ордолугу is rendered as possessing a princely court. The praise may also evoke leadership and ordered household; no palace location is added.",
     "manas-2010:p0450:b001:l022": "Калыйпа is rendered as caliph; in this Sufi/religious setting it may mean a deputy or spiritual authority. No historical caliph or date is identified. Entering his presence is a contextual reading of кирип.",
-    "manas-2010:p0450:b001:l024": "The number twelve and giving a hand/allegiance are retained; the identities of the twelve and the institutional ceremony are not supplied.",
+    "manas-2010:p0450:b001:l024": "Corrected after individual source PDF image/context review: primary Yudakhin кол entry quotes exact он эки бирге кол берген as being a follower of twelve ishans/spiritual guides. Religious кол бер- expresses subject becoming disciple, not twelve others offering their hands. Guide identities unspecified. Primary dictionary https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf cached sources/raw/yudakhin-2015.pdf.",
     "manas-2010:p0450:b001:l026": "Зайыппуруш is an exceptional renown/heroic fame epithet, not a personal name or mechanical literal compound. See shared lexical finding and https://el-sozduk.kg/зайыппуруш/.",
     "manas-2010:p0450:b001:l036": "Билгенге is visibly printed, literally to the knowing one. Bilerik is named two lines above and may be intended, but the draft does not silently replace this defective reading with his name.",
     "manas-2010:p0450:b001:l038": "Карадөң is Karadöng; Жарманас is Jar Manas, distinct from Jakyp’s son Manas. The source’s mistaken identification in the following lines is preserved.",
@@ -1054,7 +1054,7 @@
   "publication_basis": "New draft translation directly from Kyrgyz traditional folklore. No prior English translation used. Modern editorial headings are retained for audit only; no independent Kyrgyz specialist review or complete-witness claim.",
   "counts": {
     "english_verse_rows": 838,
-    "english_words": 4567,
+    "english_words": 4575,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*",
     "excluded_heading_rows": 4
   }

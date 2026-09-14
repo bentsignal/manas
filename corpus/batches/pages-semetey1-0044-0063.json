@@ -2279,7 +2279,7 @@
     "semetey-1-2013:p0049:b005:l012": "Repeated wind images are kept literally; no source word replaced to smooth the lament.",
     "semetey-1-2013:p0049:b005:l014": "Жетик denotes an excellent/accomplished person, not жетим orphan. https://el-sozduk.kg/жетик/.",
     "semetey-1-2013:p0049:b005:l022": "The dress and neck image is retained; no unverified ritual explanation added.",
-    "semetey-1-2013:p0049:b005:l029": "The age twelve in the hand-pledging formula is retained; no harmonization with later fourteen-year marriage account.",
+    "semetey-1-2013:p0049:b005:l029": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged.",
     "semetey-1-2013:p0049:b005:l036": "Алаткүн is read as the imperative take, not a new proper name.",
     "semetey-1-2013:p0049:b005:l038": "The PDF prints буудай, wheat, though p49b5:32 and p45b4:8 have the expected horse term буудан in a parallel. English preserves wheat and the odd juxtaposition, with no silent emendation. Тобурчак is a great fine steed.",
     "semetey-1-2013:p0050:b003:l021": "Printed Келеңкер соору, кең чачпак places ornaments before hips, then broad hair pendants. This unusual noun order is retained. 'At their hips' supplies an English relation between juxtaposed nouns; no swap to the common келеңкер чачпак, кең соору formula. Yudakhin келеңкер ornaments/charms in braids, https://el-sozduk.kg/келин/.",
@@ -2308,7 +2308,7 @@
     "semetey-1-2013:p0053:b003:l034": "Repeated cave image retained independently.",
     "semetey-1-2013:p0053:b003:l037": "Repeated cave image retained independently.",
     "semetey-1-2013:p0053:b004:l008": "Six tail feathers and forty flight feathers are the printed counts; not six separate tails.",
-    "semetey-1-2013:p0053:b004:l018": "Age twelve in the marital formula retained; not reconciled with fourteen on p63.",
+    "semetey-1-2013:p0053:b004:l018": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged.",
     "semetey-1-2013:p0053:b004:l032": "Тулпар is the winged/exceptional steed epithet, not a new proper name.",
     "semetey-1-2013:p0053:b004:l033": "The source says the names chime/rhyme; the English transliterations need not make an invented rhyme.",
     "semetey-1-2013:p0054:b003:l001": "The divinely dug pit is a figurative source image, not an added event.",
@@ -2432,7 +2432,8 @@
     "semetey-1-2013:p0056:b004:l026": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0057:b003:l025": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0059:b005:l033": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0060:b004:l021": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained."
+    "semetey-1-2013:p0060:b004:l021": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0059:b005:l037": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -2470,7 +2471,7 @@
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No MT API or previous published English poem used. Primary Kyrgyz/Russian dictionary entries and original Kyrgyz editorial preface used only for lexical support. Provisional translation and lineation; source witness not reconciled and no independent expert certification.",
   "counts": {
     "english_verse_rows": 1513,
-    "english_words": 9279,
+    "english_words": 9269,
     "unresolved_source_rows": 8,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1521,
@@ -2484,7 +2485,7 @@
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
     "source_words": 5333,
-    "english_words": 9279,
+    "english_words": 9269,
     "all_source_verse_words": 5360
   },
   "source_hashes": {

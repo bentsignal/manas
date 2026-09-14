@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-14",
+  "scope": "13 identified mistranslations of pir+dative plus hand-pledge formula, not all occurrences of hand or together",
+  "primary_url": "https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf",
+  "primary_local": "sources/raw/yudakhin-2015.pdf",
+  "primary_headword": "кол; exact он эки бирге кол берген = follower of twelve ishans",
+  "method": "Each affected PDF image and local source/English context personally inspected by assigned model worker; exact primary lexical entry read. Original source text/IDs/counts unchanged; no independent specialist review.",
+  "verse_delta": 0,
+  "english_word_delta": -6,
+  "corrections": [
+    {
+      "id": "manas-2010:p0257:b001:l018",
+      "ky": "Он эки бирге кол берип,",
+      "old": "Twelve together pledged him their hands.",
+      "new": "Having become a disciple of twelve spiritual guides,",
+      "evidence": "corpus/batches/pages-0254-0273.json",
+      "note": "Corrected after individual source PDF image/context review: primary Yudakhin кол entry quotes exact он эки бирге кол берген as being a follower of twelve ishans/spiritual guides. Religious кол бер- expresses subject becoming disciple, not twelve others offering their hands. Guide identities unspecified. Primary dictionary https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf cached sources/raw/yudakhin-2015.pdf."
+    },
+    {
+      "id": "manas-2010:p0262:b001:l027",
+      "ky": "Он эки бирге кол берген,",
+      "old": "To whom the Twelve together gave their hands,",
+      "new": "A follower of twelve spiritual guides,",
+      "evidence": "corpus/batches/pages-0254-0273.json",
+      "note": "Corrected after individual source PDF image/context review: primary Yudakhin кол entry quotes exact он эки бирге кол берген as being a follower of twelve ishans/spiritual guides. Religious кол бер- expresses subject becoming disciple, not twelve others offering their hands. Guide identities unspecified. Primary dictionary https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf cached sources/raw/yudakhin-2015.pdf."
+    },
+    {
+      "id": "manas-2010:p0266:b001:l024",
+      "ky": "Он эки бирге кол берип,",
+      "old": "The Twelve together gave their hands,",
+      "new": "He became a disciple of twelve spiritual guides,",
+      "evidence": "corpus/batches/pages-0254-0273.json",
+      "note": "Corrected after individual source PDF image/context review: primary Yudakhin кол entry quotes exact он эки бирге кол берген as being a follower of twelve ishans/spiritual guides. Religious кол бер- expresses subject becoming disciple, not twelve others offering their hands. Guide identities unspecified. Primary dictionary https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf cached sources/raw/yudakhin-2015.pdf."
+    },
+    {
+      "id": "manas-2010:p0450:b001:l024",
+      "ky": "Он эки бирге кол берип,",
+      "old": "Giving allegiance together with twelve,",
+      "new": "Having become a disciple of twelve spiritual guides,",
+      "evidence": "corpus/batches/pages-0440-0459.json",
+      "note": "Corrected after individual source PDF image/context review: primary Yudakhin кол entry quotes exact он эки бирге кол берген as being a follower of twelve ishans/spiritual guides. Religious кол бер- expresses subject becoming disciple, not twelve others offering their hands. Guide identities unspecified. Primary dictionary https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf cached sources/raw/yudakhin-2015.pdf."
+    },
+    {
+      "id": "manas-2010:p0682:b001:l028",
+      "ky": "Он эки бирге кол берген",
+      "old": "Twelve who together gave their hands,",
+      "new": "Pledged to twelve spiritual guides,",
+      "evidence": "corpus/batches/pages-0678-0697.json",
+      "note": "Correction after individual PDF-image/context review on2026-09-14. Primary Yudakhin кол exact он эки бирге кол берген means follower of twelve ishans/spiritual masters; бирге is pir+dative, not together. Same construction with seven at753 retained source numeral. English corrects direction of allegiance; no source edit. Reviewed /tmp/manas-pir-review682.png."
+    },
+    {
+      "id": "manas-2010:p0753:b001:l037",
+      "ky": "Жети бирге кол берген.",
+      "old": "Seven together gave their hands.",
+      "new": "Had pledged himself to seven spiritual guides.",
+      "evidence": "corpus/batches/pages-0747-0766.json",
+      "note": "Correction after individual PDF-image/context review on2026-09-14. Primary Yudakhin кол exact он эки бирге кол берген means follower of twelve ishans/spiritual masters; бирге is pir+dative, not together. Same construction with seven at753 retained source numeral. English corrects direction of allegiance; no source edit. Reviewed /tmp/manas-pir-review753.png."
+    },
+    {
+      "id": "manas-2010:p0851:b001:l035",
+      "ky": "Он эки бирге кол берип,",
+      "old": "Joining hands with all twelve,",
+      "new": "Pledging himself to twelve spiritual guides,",
+      "evidence": "corpus/batches/pages-0850-0852.json",
+      "note": "Correction after individual PDF-image/context review on2026-09-14. Primary Yudakhin кол exact он эки бирге кол берген means follower of twelve ishans/spiritual masters; бирге is pir+dative, not together. Same construction with seven at753 retained source numeral. English corrects direction of allegiance; no source edit. Reviewed /tmp/manas-pir-review851.png."
+    },
+    {
+      "id": "manas-2010:p0882:b001:l018",
+      "ky": "Он эки бирге кол берген",
+      "old": "To whom twelve together had given their hands—",
+      "new": "Who had pledged himself to twelve spiritual guides—",
+      "evidence": "corpus/batches/pages-0876-0895.json",
+      "note": "Correction after individual PDF-image/context review on2026-09-14. Primary Yudakhin кол exact он эки бирге кол берген means follower of twelve ishans/spiritual masters; бирге is pir+dative, not together. Same construction with seven at753 retained source numeral. English corrects direction of allegiance; no source edit. Reviewed /tmp/manas-pir-review882.png."
+    },
+    {
+      "id": "semetey-1-2013:p0049:b005:l029",
+      "ky": "Он эки бирге кол берген",
+      "old": "The one who clasped hands with me at twelve,",
+      "new": "Who followed twelve spiritual masters,",
+      "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+      "note": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged."
+    },
+    {
+      "id": "semetey-1-2013:p0053:b004:l018",
+      "ky": "Он эки бирге кол берген,",
+      "old": "You who joined hands with me at twelve,",
+      "new": "Who followed twelve spiritual masters,",
+      "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+      "note": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged."
+    },
+    {
+      "id": "semetey-1-2013:p0059:b005:l037",
+      "ky": "Он эки бирге кол берген",
+      "old": "You who joined hands with me at twelve,",
+      "new": "Who followed twelve spiritual masters,",
+      "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+      "note": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged."
+    },
+    {
+      "id": "semetey-1-2013:p0338:b003:l030",
+      "ky": "Он эки бирге кол берген",
+      "old": "With whom twelve had joined forces,",
+      "new": "Who followed twelve spiritual masters,",
+      "evidence": "corpus/batches/pages-semetey1-0328-0347.json",
+      "note": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged."
+    },
+    {
+      "id": "semetey-1-2013:p0406:b003:l033",
+      "ky": "Жети бирге кол берген",
+      "old": "With seven spirits lending him their hands,",
+      "new": "Pledged to seven spiritual masters,",
+      "evidence": "corpus/batches/pages-semetey1-0394-0413.json",
+      "note": "Primary Yudakhin кол entry explicitly glosses он эки бирге кол берген as following twelve ishans (spiritual masters). Here the same construction has seven: бирге is pir plus dative and Manas pledges allegiance to seven spiritual masters, not seven spirits physically helping him. Exact primary entry personally read; initial help-giving interpretation corrected before publication."
+    }
+  ]
+}

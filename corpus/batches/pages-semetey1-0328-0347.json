@@ -2786,7 +2786,7 @@
     "semetey-1-2013:p0338:b003:l017": "Repeated бөлө-бөлө with chewing/grinding teeth rendered repeated grinding; precise separative nuance uncertain, no added object.",
     "semetey-1-2013:p0338:b003:l020": "Impossible appeal to deceased father not to die preserved, not rewritten as conditional past.",
     "semetey-1-2013:p0338:b003:l025": "Source character links Muslim identity to return to people; no endorsement or factual religious rule.",
-    "semetey-1-2013:p0338:b003:l030": "Printed twelve without identifying noun; leave twelve joined forces, not invent twelve khans or saints.",
+    "semetey-1-2013:p0338:b003:l030": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged.",
     "semetey-1-2013:p0338:b003:l033": "Self-directed curse not to become a man retained, no invented destiny prediction.",
     "semetey-1-2013:p0338:b003:l034": "бел байла rely/gird oneself and бел strength/back wordplay; strength relied upon, not unnamed mountain pass.",
     "semetey-1-2013:p0338:b003:l035": "Primary Yudakhin мурапы inheritance/support, preceding father and following Kyrgyz people; not irrigation official мурап.",
@@ -3018,7 +3018,7 @@
   },
   "counts": {
     "english_verse_rows": 1523,
-    "english_words": 8883,
+    "english_words": 8882,
     "unresolved_source_rows": 18,
     "physical_narrative_fragments": 1559,
     "reconstructed_source_verses": 1541,
@@ -3032,7 +3032,7 @@
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
     "source_words": 5145,
-    "english_words": 8883,
+    "english_words": 8882,
     "all_source_verse_words": 5211
   }
 }

@@ -926,7 +926,7 @@
     "manas-2010:p0682:b001:l017": "Champions hearing news and being brought to Talas spans l017–019; grammatical subject of bringing is contextual.",
     "manas-2010:p0682:b001:l022": "Чалып swept down provisionally in subjugation context; could carry scouting/striking nuance.",
     "manas-2010:p0682:b001:l023": "Kydyr blessing and receiving many retained without specifying who all are.",
-    "manas-2010:p0682:b001:l028": "Twelve together giving hands is printed without noun or age marker. No twelve-year age or twelve named spirits supplied.",
+    "manas-2010:p0682:b001:l028": "Correction after individual PDF-image/context review on2026-09-14. Primary Yudakhin кол exact он эки бирге кол берген means follower of twelve ishans/spiritual masters; бирге is pir+dative, not together. Same construction with seven at753 retained source numeral. English corrects direction of allegiance; no source edit. Reviewed /tmp/manas-pir-review682.png.",
     "manas-2010:p0682:b001:l032": "Ой lowlands selected in movement/settlement context; thought is lexical alternative.",
     "manas-2010:p0682:b001:l035": "Kumys by day, girls by night retained directly; no sexual acts supplied.",
     "manas-2010:p0682:b001:l037": "Шай identified with patron saint Шай ата in local p1843:l040. Revised generic sacred power to Saint Shay; identity with other saints not asserted.",
@@ -1166,7 +1166,7 @@
   "publication_basis": "New draft directly from Kyrgyz traditional folklore; no prior English translation input. Editorial heading and footnote retained only in audit. All source verse translated with qualified per-ID uncertainties; no independent Kyrgyz expert review or complete-witness claim.",
   "counts": {
     "english_verse_rows": 834,
-    "english_words": 4429,
+    "english_words": 4428,
     "excluded_heading_rows": 3,
     "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"

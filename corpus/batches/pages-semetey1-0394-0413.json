@@ -1730,7 +1730,7 @@
     "semetey-1-2013:p0406:b003:l009": "Primary Yudakhin күрмөк: barnyard millet, a weed growing in rice fields; not rice itself.",
     "semetey-1-2013:p0406:b003:l020": "Primary Yudakhin күпсөр: leather powder flask.",
     "semetey-1-2013:p0406:b003:l026": "Ойгут treated as the people/group toward whom Saikal flees, preserving the source ethnonym.",
-    "semetey-1-2013:p0406:b003:l033": "Жети бирге кол берген: seven supernatural helpers lend their hands; the identities are not supplied in this verse.",
+    "semetey-1-2013:p0406:b003:l033": "Primary Yudakhin кол entry explicitly glosses он эки бирге кол берген as following twelve ishans (spiritual masters). Here the same construction has seven: бирге is pir plus dative and Manas pledges allegiance to seven spiritual masters, not seven spirits physically helping him. Exact primary entry personally read; initial help-giving interpretation corrected before publication.",
     "semetey-1-2013:p0406:b003:l039": "Он эки кылым rendered twelve peoples, with молдолоп understood as calling their clerics in the forced-marriage context; not twelve centuries of elapsed time.",
     "semetey-1-2013:p0406:b004:l022": "ике marriage rite corresponds to нике, as in preceding pages; initial н absent in printed source.",
     "semetey-1-2013:p0406:b004:l025": "күл=гүл (flower), with golden floral decoration on суп fine white cloth; not golden ashes.",
@@ -2377,7 +2377,7 @@
       413
     ],
     "evidence": "Individually inspected all 20 Poppler page images /tmp/semetey1-volta-0394-0413/page-0394.png through page-0413.png, scale1600. Read every left column then every right column. Classified all running titles, folios and printer signatures. Every indented wrap reconstructed as its own grouped verse. Exact raw PDF glyphs, bboxes, source IDs and legacy-font-v1 normalization preserved through source_evidence builder. No fixed row assumption. Primary Kyrgyz/Russian Yudakhin dictionary and Kyrgyz editorial glossaries used as lexical aids only. Individually inspected Semetey1960 glossary373 in this batch for naydar; retained lexical support from previously inspected Manas2010 glossary1842 and Semetey1960 glossary374. Primary Yudakhin entries personally read in the locally cached PDF text, with exact online Yudakhin quotation under тер for hanging barley feedbag; primary Kyrgyz ethnographic horse-husbandry research supports the extra-tooth terminology.",
-    "pair_review": "All 1537 reconstructed Kyrgyz-English pairs read in order in ten consecutive blocks (nine blocks of160 and final97). All38 revised pairs then reread against exact Kyrgyz. 9 whole unresolved verses remain separately excluded from English with complete fragments and reasons. Every repetition retained. Kanykei narrates Kyrgylchal’s slander, Chubak’s departure and letter, her estrangement and rescue of Manas, Manas’s battles with Saikal, his dietary training and forced-marriage demand, Saikal’s otherworldly marriage and Taibuurul gift, Temirkan’s sons-in-law and Aktulpar, and Almambet’s birth, conversion, travels and prophetic dreams. Religious practices, source numbers, violent literary action, source name variants, first/third-person shifts and mourning rhetoric preserved; no historical or specialist certification claimed."
+    "pair_review": "All 1537 reconstructed Kyrgyz-English pairs read in order in ten consecutive blocks (nine blocks of160 and final97). All39 revised pairs then reread against exact Kyrgyz. 9 whole unresolved verses remain separately excluded from English with complete fragments and reasons. Every repetition retained. Kanykei narrates Kyrgylchal’s slander, Chubak’s departure and letter, her estrangement and rescue of Manas, Manas’s battles with Saikal, his dietary training and forced-marriage demand, Saikal’s otherworldly marriage and Taibuurul gift, Temirkan’s sons-in-law and Aktulpar, and Almambet’s birth, conversion, travels and prophetic dreams. Religious practices, source numbers, violent literary action, source name variants, first/third-person shifts and mourning rhetoric preserved; no historical or specialist certification claimed."
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
@@ -2386,7 +2386,7 @@
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
     "english_verse_rows": 1528,
-    "english_words": 8610,
+    "english_words": 8608,
     "unresolved_source_rows": 9,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1537,

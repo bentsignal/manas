@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-14",
+  "primary_sources": [
+    "https://nbisu.moy.su/_ld/10/1088_Tumenbaeva_J.A..pdf",
+    "https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf"
+  ],
+  "method": "All affected page images and local pairs reviewed by assigned direct-model translators. Exact Tumenbaeva quoted stanza and Yudakhin ташI5/таза3 consulted. Rank interpretation of каны favored in parallel;246 surrounding battle allows blood reading but rank is better supported. No independent specialist review.",
+  "verse_delta": 0,
+  "english_word_delta": 2,
+  "corrections": [
+    {
+      "id": "semetey-1-2013:p0418:b004:l016",
+      "old": "The king of Lungtung mingled among them;",
+      "new": "Their governor khan mingled among them;",
+      "evidence": "corpus/batches/pages-semetey1-0417-0419.json",
+      "note": "Primary Tumenbaeva PDF4 explicitly identifies луңтуң as Chinese local headman/district or military governor and quotes this exact beaded-plume/coral stanza (Semetey I78). Rendered governor khan, not invented place Lungtung. Genitive/title construction awkward in source; rank kept general. https://nbisu.moy.su/_ld/10/1088_Tumenbaeva_J.A..pdf"
+    },
+    {
+      "id": "semetey-1-2013:p0418:b004:l023",
+      "old": "Of the Chinese adorned with stones,",
+      "new": "Of the Chinese officials with hat buttons,",
+      "evidence": "corpus/batches/pages-semetey1-0417-0419.json",
+      "note": "Primary Yudakhin exact таза3 = best, quoting таш сайынган калмактын тазасын сойгон жери бар; ташI5 and таш сайынган explicitly refer to officials whose hats have a ball/button indicating rank. Not ethnic purity or unspecified gem adornment. Image418 already individually inspected; revised source/English pairs reread."
+    },
+    {
+      "id": "semetey-1-2013:p0418:b004:l024",
+      "old": "The purest showed apart.",
+      "new": "The best stood apart.",
+      "evidence": "corpus/batches/pages-semetey1-0417-0419.json",
+      "note": "Primary Yudakhin exact таза3 = best, quoting таш сайынган калмактын тазасын сойгон жери бар; ташI5 and таш сайынган explicitly refer to officials whose hats have a ball/button indicating rank. Not ethnic purity or unspecified gem adornment. Image418 already individually inspected; revised source/English pairs reread."
+    },
+    {
+      "id": "semetey-1-2013:p0246:b004:l008",
+      "old": "Mingled with the village headman's blood—",
+      "new": "With the lungtung khan among them,",
+      "evidence": "corpus/batches/pages-semetey1-0242-0261.json",
+      "note": "Corrected after individual PDF246 image/context reread: луӊтуӊ Chinese official rank; каны read as khan in enumeration, not headman blood. Primary Tumenbaeva, Chinese Words in Manas, PDF4 quotes exact Шуру отогот маржан таш / Луңтуңдун каны аралаш paired with Калдайдын каны аралаш and explains governor/headman rank: https://nbisu.moy.su/_ld/10/1088_Tumenbaeva_J.A..pdf . Slaughter context remains in adjacent verses; no named official invented."
+    },
+    {
+      "id": "semetey-1-2013:p0293:b004:l016",
+      "old": "The Chinese adorned with precious stones,",
+      "new": "The Chinese officials with hat buttons,",
+      "evidence": "corpus/batches/pages-semetey1-0288-0307.json",
+      "note": "Primary Yudakhin таш I sense 5 and the quoted таш сайынган Kalmyk-chief formula under таза establish rank-marking buttons/balls on Chinese officials’ hats; not generic precious-stone ornament. Read with adjacent best-of-them verse after individual PDF293 review. Raw unchanged."
+    },
+    {
+      "id": "semetey-1-2013:p0293:b004:l017",
+      "old": "He paid no heed to his finery.",
+      "new": "He paid no heed to the best of them.",
+      "evidence": "corpus/batches/pages-semetey1-0288-0307.json",
+      "note": "Personally re-inspected PDF293 and adjacent verses. Primary Yudakhin таза sense 3 лучший quotes таш сайынган калмактын тазасын сойгон жери бар, glossing the best Kalmyk chiefs; hence best of them, not finery. Raw unchanged."
+    },
+    {
+      "id": "semetey-1-2013:p0293:b004:l019",
+      "old": "Mixed with the lungtung's blood—",
+      "new": "The lungtung khan among them—",
+      "evidence": "corpus/batches/pages-semetey1-0288-0307.json",
+      "note": "Personally re-inspected PDF293 and full adjacent source passage. Tumenbaeva, «Манас» эпосунда кытай сөздөрүнүн колдонулушу, https://nbisu.moy.su/_ld/10/1088_Tumenbaeva_J.A..pdf PDF4 lines145–151, gives lungtung as Chinese headman/governor and quotes this exact beaded-adornment stanza with parallel Калдайдын каны аралаш. Read каны as khan, among the assembled chiefs, rather than blood mixed with ornaments. Title retained; precise institutional equivalence uncertain. This contextual interpretation corrects the prior blood reading; raw source unchanged."
+    }
+  ]
+}

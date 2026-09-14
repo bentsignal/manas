@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-14",
+  "primary": "Yudakhin чокI2 exact чок белбоо",
+  "primary_url": "https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf",
+  "verse_delta": 0,
+  "english_word_delta": 0,
+  "corrections": [
+    {
+      "id": "semetey-1-2013:p0436:b003:l032",
+      "old": "With golden forelock and fiery belt—",
+      "new": "With golden forelock and tasselled sash—",
+      "evidence": "corpus/batches/pages-semetey1-0420-0439.json",
+      "note": "Primary Yudakhin чок I2 exact чок белбоо = tasselled sash, with quoted алтын айдар чок белбоо. Corrected fire/ember homonym misreading. Golden forelock and tasselled sash remain separate ornaments."
+    },
+    {
+      "id": "semetey-1-2013:p0438:b004:l012",
+      "old": "With golden forelock and fiery belt,",
+      "new": "With golden forelock and tasselled sash,",
+      "evidence": "corpus/batches/pages-semetey1-0420-0439.json",
+      "note": "Primary Yudakhin чок I2 exact чок белбоо = tasselled sash, with quoted алтын айдар чок белбоо. Corrected fire/ember homonym misreading. Golden forelock and tasselled sash remain separate ornaments."
+    },
+    {
+      "id": "manas-2010:p0970:b001:l032",
+      "old": "Golden-crested, with a fiery sash,",
+      "new": "Golden-crested, with a tasselled sash,",
+      "evidence": "corpus/batches/pages-0959-0978.json",
+      "note": "Corrected after individual PDF reinspection and primary Yudakhin чок I2: exact чок белбоо means tasselled sash/belt (quotes алтын айдар чок белбоо), not fiery. Existing golden forelock/crest wording preserved."
+    },
+    {
+      "id": "manas-2010:p0974:b001:l022",
+      "old": "Golden-crested, with a fiery sash,",
+      "new": "Golden-crested, with a tasselled sash,",
+      "evidence": "corpus/batches/pages-0959-0978.json",
+      "note": "Corrected after individual PDF reinspection and primary Yudakhin чок I2: exact чок белбоо means tasselled sash/belt (quotes алтын айдар чок белбоо), not fiery. Existing golden forelock/crest wording preserved."
+    },
+    {
+      "id": "manas-2010:p1172:b001:l036",
+      "old": "With golden forelock and fiery belt,",
+      "new": "With golden forelock and tasselled belt,",
+      "evidence": "corpus/batches/pages-1171-1173.json",
+      "note": "Corrected after individual PDF reinspection and primary Yudakhin чок I2: exact чок белбоо means tasselled sash/belt (quotes алтын айдар чок белбоо), not fiery. Existing golden forelock/crest wording preserved."
+    },
+    {
+      "id": "manas-2010:p1431:b001:l018",
+      "old": "With golden forelock and fiery sash,",
+      "new": "With golden forelock and tasselled sash,",
+      "evidence": "corpus/batches/pages-1415-1434.json",
+      "note": "Individually re-inspected original PDF image and read primary Yudakhin чок I sense2: чок белбоо is a sash with tassels, traditionally worn by Kyrgyz nobility; exact алтын айдар, чок белбоо quotation. Corrected fiery to tasselled, preserving source and other wording."
+    },
+    {
+      "id": "manas-2010:p1435:b001:l031",
+      "old": "With golden forelock and fiery belt,",
+      "new": "With golden forelock and tasselled belt,",
+      "evidence": "corpus/batches/pages-1435-1437.json",
+      "note": "Individually re-inspected original PDF image and read primary Yudakhin чок I sense2: чок белбоо is a sash with tassels, traditionally worn by Kyrgyz nobility; exact алтын айдар, чок белбоо quotation. Corrected fiery to tasselled, preserving source and other wording."
+    },
+    {
+      "id": "manas-2010:p1498:b001:l009",
+      "old": "Golden forelock and fiery sash,",
+      "new": "Golden forelock and tasselled sash,",
+      "evidence": "corpus/batches/pages-1481-1500.json",
+      "note": "Individually re-inspected original PDF image and read primary Yudakhin чок I sense2: чок белбоо is a sash with tassels, traditionally worn by Kyrgyz nobility; exact алтын айдар, чок белбоо quotation. Corrected fiery to tasselled, preserving source and other wording."
+    }
+  ]
+}

@@ -1575,8 +1575,8 @@
     "semetey-1-2013:p0293:b003:l031": "муштап strikes genericblows in mounted/spearcontext, not insist punchingbarefists.",
     "semetey-1-2013:p0293:b004:l007": "байтал бээ youngmare given literal source pairing, notclaim singlefoalbiography.",
     "semetey-1-2013:p0293:b004:l008": "дулдул Duldulsuperlativemythichorse comparison, not renaming Akkula.",
-    "semetey-1-2013:p0293:b004:l017": "тазасына dressed/adorned finery provisional against stonejewels16; not ethnicpurityassertion.",
-    "semetey-1-2013:p0293:b004:l019": "луңтуң Chinese headman primary glossary/Yudakhin; bloodmixedornaments source retain, exact officeholderreferent contextual.",
+    "semetey-1-2013:p0293:b004:l017": "Personally re-inspected PDF293 and adjacent verses. Primary Yudakhin таза sense 3 лучший quotes таш сайынган калмактын тазасын сойгон жери бар, glossing the best Kalmyk chiefs; hence best of them, not finery. Raw unchanged.",
+    "semetey-1-2013:p0293:b004:l019": "Personally re-inspected PDF293 and full adjacent source passage. Tumenbaeva, «Манас» эпосунда кытай сөздөрүнүн колдонулушу, https://nbisu.moy.su/_ld/10/1088_Tumenbaeva_J.A..pdf PDF4 lines145–151, gives lungtung as Chinese headman/governor and quotes this exact beaded-adornment stanza with parallel Калдайдын каны аралаш. Read каны as khan, among the assembled chiefs, rather than blood mixed with ornaments. Title retained; precise institutional equivalence uncertain. This contextual interpretation corrects the prior blood reading; raw source unchanged.",
     "semetey-1-2013:p0293:b004:l031": "Kalmak saddlepommel pairedwith heart aim in quotedstroke formula; literal no fabricated strikegeometry.",
     "semetey-1-2013:p0293:b004:l034": "Not sitting to urinate original religiousdistinction/taunt; no medical inference.",
     "semetey-1-2013:p0293:b004:l035": "Sleevenottouchingground parallelpride/religiousgesture unspecified; literal retained.",
@@ -1681,7 +1681,8 @@
     "semetey-1-2013:p0307:b005:l007": "Бил elephant; swordlike trunk rather than literal bird beak in elephant description.",
     "semetey-1-2013:p0307:b005:l018": "Relative clause before fanged creatures retained within adjacent pair order; no omitted human-eating image.",
     "semetey-1-2013:p0307:b005:l022": "Single-eyed forest person anticipates Sary Taz but Temir does not explicitly name him here; English retains unnamed he.",
-    "semetey-1-2013:p0307:b005:l038": "Overreaching-response proverb hat/head and water/poison retained literally; no added violent detail."
+    "semetey-1-2013:p0307:b005:l038": "Overreaching-response proverb hat/head and water/poison retained literally; no added violent detail.",
+    "semetey-1-2013:p0293:b004:l016": "Primary Yudakhin таш I sense 5 and the quoted таш сайынган Kalmyk-chief formula under таза establish rank-marking buttons/balls on Chinese officials’ hats; not generic precious-stone ornament. Read with adjacent best-of-them verse after individual PDF293 review. Raw unchanged."
   },
   "excluded_source_ids": [
     {
@@ -2063,7 +2064,7 @@
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
     "english_verse_rows": 1472,
-    "english_words": 8754,
+    "english_words": 8756,
     "unresolved_source_rows": 3,
     "physical_narrative_fragments": 1481,
     "reconstructed_source_verses": 1475,

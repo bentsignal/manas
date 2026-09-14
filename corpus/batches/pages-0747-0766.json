@@ -932,7 +932,7 @@
     "manas-2010:p0753:b001:l019": "Кожой visibly printed, contextually Koshoi as next line. English standardized with explicit note, raw unaltered.",
     "manas-2010:p0753:b001:l031": "Даңгыл broad open road as heroic metaphor retained; could mean outstanding/experienced.",
     "manas-2010:p0753:b001:l032": "Тынар support/hope, Yudakhin https://el-sozduk.kg/тынар/; revised refuge to support.",
-    "manas-2010:p0753:b001:l037": "Seven together gave hands printed without age noun; no seven-year age or named patrons supplied.",
+    "manas-2010:p0753:b001:l037": "Correction after individual PDF-image/context review on2026-09-14. Primary Yudakhin кол exact он эки бирге кол берген means follower of twelve ishans/spiritual masters; бирге is pir+dative, not together. Same construction with seven at753 retained source numeral. English corrects direction of allegiance; no source edit. Reviewed /tmp/manas-pir-review753.png.",
     "manas-2010:p0753:b001:l039": "Zheti-Özön place-name retained, no modern border identification.",
     "manas-2010:p0754:b001:l013": "Stallion then gelding sequence literal; no husbandry chronology supplied.",
     "manas-2010:p0754:b001:l014": "Кара байыр sturdy/native horse and казанат noble warhorse; breed specificity unverified.",
@@ -1093,7 +1093,7 @@
   "publication_basis": "New English draft translated directly from Kyrgyz traditional folklore; no prior English translation input. Modern heading and footnote retained in audit only. Qualified material uncertainties documented per ID; no independent expert review or complete-witness claim.",
   "counts": {
     "english_verse_rows": 836,
-    "english_words": 4650,
+    "english_words": 4656,
     "excluded_heading_rows": 3,
     "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"

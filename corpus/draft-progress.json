@@ -1,22 +1,22 @@
 {
-  "saved_draft_rows": 5218,
+  "saved_draft_rows": 6322,
   "released_draft_rows": 1531,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
       16,
-      118
+      138
     ],
     [
       159,
       164
+    ],
+    [
+      205,
+      207
     ]
   ],
   "active_translation_page_ranges": [
-    [
-      119,
-      138
-    ],
     [
       139,
       158
@@ -24,6 +24,10 @@
     [
       165,
       184
+    ],
+    [
+      185,
+      204
     ]
   ],
   "unresolved_source_regions": [

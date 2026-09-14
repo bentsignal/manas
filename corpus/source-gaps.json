@@ -440,5 +440,65 @@
       ]
     },
     "note": "Whole line unresolved. Алтымыш sixty and чал elder are clear, but айман has no defensible contextual construction here. Yudakhin horse adjective voracious/enduring does not establish the phrase. Excluded from English count; exact raw and transliteration recorded separately."
+  },
+  {
+    "id": "manas-2010:p1035:b001:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1035:b001:l011",
+    "before_id": "manas-2010:p1035:b001:l013",
+    "source_line_ids": [
+      "manas-2010:p1035:b001:l012"
+    ],
+    "evidence": "corpus/batches/pages-1022-1041.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1035,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1035:b001:l012",
+          "raw": "Алаке, карыдайда кармашкан,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 247.392,
+            "xMax": 369.2388,
+            "yMax": 262.644
+          }
+        }
+      ]
+    },
+    "note": "Image legible; карыдайда not resolved by edition glossary or primary dictionary search. Indexed Kyrgyz parallel PDF direct URL returned404. Entire row excluded from English and word totals; no invented place-name or hardship reading."
+  },
+  {
+    "id": "manas-2010:p1047:b001:l032:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1047:b001:l031",
+    "before_id": "manas-2010:p1047:b001:l033",
+    "source_line_ids": [
+      "manas-2010:p1047:b001:l032"
+    ],
+    "evidence": "corpus/batches/pages-1045-1047.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1047,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1047:b001:l032",
+          "raw": "«Аргымак жалдуу тайкышым,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 584.352,
+            "xMax": 365.04,
+            "yMax": 599.604
+          }
+        }
+      ]
+    },
+    "note": "Printed тайкышым not established by primary dictionary lookup; neighboring тайкы senses do not securely identify this vocative. Whole verse withheld, no invented epithet."
   }
 ]

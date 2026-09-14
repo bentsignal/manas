@@ -1,0 +1,81 @@
+{
+  "date": "2026-09-14",
+  "scope": "Nine explicit beaver mistranslations of animal/fur кундуз; zero verse and English-word-count delta. Other senses and homonymous place-name untouched.",
+  "source": "https://el-sozduk.kg/кундуз/",
+  "changes": {
+    "manas-2010:p0021:b002:l015": {
+      "old": "Six thousand silver ingots, a thousand beaver pelts—",
+      "new": "Six thousand silver ingots, a thousand otter pelts—",
+      "note": "Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p0310:b001:l023": {
+      "old": "Sixty jamby ingots, a thousand beaver pelts,",
+      "new": "Sixty jamby ingots, a thousand otter pelts,",
+      "note": "Jamby ingots and otter pelts retained, no monetary conversion. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p0688:b001:l037": {
+      "old": "Six thousand silver ingots, a thousand beaver pelts,",
+      "new": "Six thousand silver ingots, a thousand otter pelts,",
+      "note": "Six thousand ingots and one thousand otter pelts every month preserved. Жамбы silver ingot; no currency conversion. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p0751:b001:l025": {
+      "old": "Six thousand silver ingots, a thousand beaver pelts,",
+      "new": "Six thousand silver ingots, a thousand otter pelts,",
+      "note": "Six thousand silver ingots and thousand otter pelts retained; no monetary conversion. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p0947:b001:l028": {
+      "old": "Six thousand silver ingots, a thousand beaver pelts,",
+      "new": "Six thousand silver ingots, a thousand otter pelts,",
+      "note": "Жамбы silver ingots; кундуз otter fur pelts in tribute list. Six thousand and one thousand monthly retained without modern value conversion. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p1046:b001:l020": {
+      "old": "They have taken fine furs and beaver,",
+      "new": "They have taken fine furs and otter,",
+      "note": "жанат qualified as fine fur, precise zoological source not securely identified; otter кундуз retained. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p1423:b001:l028": {
+      "old": "My precious fur and beaver at my collar,",
+      "new": "My precious fur and otter at my collar,",
+      "note": "Жанат precious yellow-brown fur-bearing animal/fur,2015 dictionary https://el-sozduk.kg/жанат/. Generic precious fur retained alongside otter; no unsupported exact species substituted. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p1687:b001:l042": {
+      "old": "Six thousand silver ingots, a thousand beaver pelts,",
+      "new": "Six thousand silver ingots, a thousand otter pelts,",
+      "note": "Six thousand ingots/thousand otter pelts tribute, continued1688:1–3; no currency conversion. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    },
+    "manas-2010:p1794:b001:l002": {
+      "old": "Six thousand ingots and a thousand beaver pelts—",
+      "new": "Six thousand ingots and a thousand otter pelts—",
+      "note": "Printed мнң minimally read миң thousand; image confirms defective letter. Жамбы metal ingots, кундуз otter pelts in tribute context. No unsupported metal weight or currency conversion. Lexical correction2026-09-14: кундуз animal/fur means otter, primary Yudakhin https://el-sozduk.kg/кундуз/51–54 including exact collar-endearment formula;1969/2015 aquatic carnivorous mammal supports. Earlier beaver reading corrected; raw/SHA/bbox unchanged."
+    }
+  },
+  "batch_owners": {
+    "manas-2010:p0021:b002:l015": [
+      "corpus/batches/pages-0021-0023.json"
+    ],
+    "manas-2010:p0310:b001:l023": [
+      "corpus/batches/pages-0294-0313.json"
+    ],
+    "manas-2010:p0688:b001:l037": [
+      "corpus/batches/pages-0678-0697.json"
+    ],
+    "manas-2010:p0751:b001:l025": [
+      "corpus/batches/pages-0747-0766.json"
+    ],
+    "manas-2010:p0947:b001:l028": [
+      "corpus/batches/pages-0939-0958.json"
+    ],
+    "manas-2010:p1046:b001:l020": [
+      "corpus/batches/pages-1045-1047.json"
+    ],
+    "manas-2010:p1423:b001:l028": [
+      "corpus/batches/pages-1415-1434.json"
+    ],
+    "manas-2010:p1687:b001:l042": [
+      "corpus/batches/pages-1676-1695.json"
+    ],
+    "manas-2010:p1794:b001:l002": [
+      "corpus/batches/pages-1791-1810.json"
+    ]
+  }
+}

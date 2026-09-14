@@ -1,19 +1,15 @@
 {
-  "saved_draft_rows": 47085,
-  "released_draft_rows": 45743,
+  "saved_draft_rows": 49721,
+  "released_draft_rows": 48381,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
       16,
-      1047
-    ],
-    [
-      1068,
-      1087
-    ],
-    [
-      1108,
       1110
+    ],
+    [
+      1131,
+      1150
     ],
     [
       1171,
@@ -21,25 +17,25 @@
     ],
     [
       1237,
-      1239
+      1242
     ]
   ],
   "active_translation_page_ranges": [
     [
-      1048,
-      1067
+      1111,
+      1130
     ],
     [
-      1088,
-      1107
+      1151,
+      1170
     ],
     [
-      1131,
-      1150
+      1197,
+      1216
     ],
     [
-      1237,
-      1239
+      1303,
+      1305
     ]
   ],
   "unresolved_source_regions": [
@@ -61,13 +57,19 @@
     "manas-2010:p1018:b001:l021",
     "manas-2010:p1035:b001:l012",
     "manas-2010:p1047:b001:l032",
+    "manas-2010:p1055:b001:l018",
+    "manas-2010:p1067:b001:l040",
     "manas-2010:p1084:b001:l011",
-    "manas-2010:p1084:b001:l014"
+    "manas-2010:p1084:b001:l014",
+    "manas-2010:p1137:b001:l037",
+    "manas-2010:p1144:b001:l035",
+    "manas-2010:p1146:b001:l031",
+    "manas-2010:p1241:b001:l022"
   ],
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 261646,
-  "released_english_words": 254219,
+  "saved_draft_english_words": 276297,
+  "released_english_words": 268919,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded."
 }

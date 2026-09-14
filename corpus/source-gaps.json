@@ -500,5 +500,125 @@
       ]
     },
     "note": "Printed тайкышым not established by primary dictionary lookup; neighboring тайкы senses do not securely identify this vocative. Whole verse withheld, no invented epithet."
+  },
+  {
+    "id": "manas-2010:p1055:b001:l018:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1055:b001:l017",
+    "before_id": "manas-2010:p1055:b001:l019",
+    "source_line_ids": [
+      "manas-2010:p1055:b001:l018"
+    ],
+    "evidence": "corpus/batches/pages-1048-1067.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1055,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1055:b001:l018",
+          "raw": "Ичигинин саары - деп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 348.432,
+            "xMax": 327.0,
+            "yMax": 363.684
+          }
+        }
+      ]
+    },
+    "note": "Readable words but unresolved phrase Ичигинин саары in mocking list. Yudakhin саар dawn/early morning gives no coherent fur-coat reading; no verified correction or idiom. Excluded from English count, not discarded as non-verse."
+  },
+  {
+    "id": "manas-2010:p1067:b001:l040:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1067:b001:l039",
+    "before_id": "manas-2010:p1067:b001:l041",
+    "source_line_ids": [
+      "manas-2010:p1067:b001:l040"
+    ],
+    "evidence": "corpus/batches/pages-1048-1067.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1067,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1067:b001:l040",
+          "raw": "Алтын менен баралап,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 719.112,
+            "xMax": 328.4388,
+            "yMax": 734.364
+          }
+        }
+      ]
+    },
+    "note": "Readable Алтын менен баралап, but verb sense unresolved in gold/clothing context. Yudakhin барала- break into pieces does not support confident adorn/pay meaning. No invented emendation; excluded from English count, retained as unresolved verse."
+  },
+  {
+    "id": "manas-2010:p1084:b001:l011:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1084:b001:l010",
+    "before_id": "manas-2010:p1084:b001:l012",
+    "source_line_ids": [
+      "manas-2010:p1084:b001:l011"
+    ],
+    "evidence": "corpus/batches/pages-1068-1087.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1084,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1084:b001:l011",
+          "raw": "Эмгегим эмес, өзүңө",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 230.592,
+            "xMax": 318.768,
+            "yMax": 245.844
+          }
+        }
+      ]
+    },
+    "note": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately."
+  },
+  {
+    "id": "manas-2010:p1084:b001:l014:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1084:b001:l013",
+    "before_id": "manas-2010:p1084:b001:l015",
+    "source_line_ids": [
+      "manas-2010:p1084:b001:l014"
+    ],
+    "evidence": "corpus/batches/pages-1068-1087.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1084,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1084:b001:l014",
+          "raw": "Эмгегим эмес, Алмамбет,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 281.112,
+            "xMax": 344.0412,
+            "yMax": 296.364
+          }
+        }
+      ]
+    },
+    "note": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately."
   }
 ]

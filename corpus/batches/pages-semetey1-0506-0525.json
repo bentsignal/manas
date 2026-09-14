@@ -735,6 +735,7 @@
     "semetey-1-2013:p0515:b005:l018",
     "semetey-1-2013:p0515:b005:l019",
     "semetey-1-2013:p0515:b005:l020",
+    "semetey-1-2013:p0515:b005:l021",
     "semetey-1-2013:p0515:b005:l022",
     "semetey-1-2013:p0515:b005:l023",
     "semetey-1-2013:p0515:b005:l024",
@@ -1939,11 +1940,6 @@
       "reason": "Printed Бүгүн алар күнүм бар, алар taking versus likely өлөр dying has unresolved object/reading; no silent correction. Entire verse retained as unresolved source and not counted as English translation."
     },
     {
-      "id": "semetey-1-2013:p0515:b005:l021",
-      "kind": "unresolved_source",
-      "reason": "Бири тирүү Таласым exact invocation unresolved; no guessed living patron or numeral correction. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
       "id": "semetey-1-2013:p0517:b003:l029",
       "kind": "unresolved_source",
       "reason": "Буласын булап оңолуп: lexical plunder valuables possible but possessive/referent/action in infant flight recollection unresolved; no invented seizure or fabric restoration. Entire verse retained as unresolved source and not counted as English translation."
@@ -2521,40 +2517,6 @@
     },
     {
       "source_ids": [
-        "semetey-1-2013:p0515:b005:l021"
-      ],
-      "raw": [
-        "Áèðè òèð¿¿ Òàëàñûì,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0515:b005:l021",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 515,
-          "block": 5,
-          "line_in_block": 21,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 427.2597,
-            "xMax": 438.4104,
-            "yMax": 440.4477
-          },
-          "raw": "Áèðè òèð¿¿ Òàëàñûì,",
-          "text": "Бири тирүү Таласым,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Бири тирүү Таласым exact invocation unresolved; no guessed living patron or numeral correction. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0515:b005:l020",
-      "following_source": "semetey-1-2013:p0515:b005:l022",
-      "rendered_page": "tmp/pdfs/semetey1-0506-0525/page-0515.png"
-    },
-    {
-      "source_ids": [
         "semetey-1-2013:p0517:b003:l029"
       ],
       "raw": [
@@ -2821,7 +2783,8 @@
     "semetey-1-2013:p0521:b005:l020": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0525:b004:l016": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0511:b003:l036": "Primary1960 Semetey glossary PDF373 explicitly Олуят = a person able to foresee events, equivalent to олуя. Root individually inspected glossary373 and source511/517 images and full surrounding context. Common-noun holy sage reading here; source spelling and raw extraction unchanged. Distinct511:3:5 named foster father Oluyat remains unchanged. First-person өзү элем retained; the narrator’s identification with Bakay in the next verse is not rewritten into a new speaker.",
-    "semetey-1-2013:p0517:b004:l016": "Primary1960 Semetey glossary PDF373 explicitly Олуят = a person able to foresee events, equivalent to олуя. Root individually inspected glossary373 and source511/517 images and full surrounding context. Common-noun holy sage reading here; source spelling and raw extraction unchanged. Distinct511:3:5 named foster father Oluyat remains unchanged. Part of reported Taz speech learned in Bukhara, preserving деп and the giving of a blessing; no particular named saint inferred."
+    "semetey-1-2013:p0517:b004:l016": "Primary1960 Semetey glossary PDF373 explicitly Олуят = a person able to foresee events, equivalent to олуя. Root individually inspected glossary373 and source511/517 images and full surrounding context. Common-noun holy sage reading here; source spelling and raw extraction unchanged. Distinct511:3:5 named foster father Oluyat remains unchanged. Part of reported Taz speech learned in Bukhara, preserving деп and the giving of a blessing; no particular named saint inferred.",
+    "semetey-1-2013:p0515:b005:l021": "Primary Yudakhin бир II = пир, spiritual patron; exact пир entry пири тирүү жер is blessed land, literally land whose patron lives. Root individually viewed515 image and all surrounding invocation context, reread dictionary and same-source535/612 parallels with worker. Original initial б retained as the attested variant, no Kyrgyz emendation. My Talas and its living patron preserved, no named protector invented."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -2850,29 +2813,29 @@
       525
     ],
     "evidence": "All 20 individual Poppler images inspected at 1800px in tmp/pdfs/semetey1-0506-0525/page-0506.png through page-0525.png. Complete left column then right; all running titles, folios and five printer signatures classified. Twenty-seven indented wraps reviewed manually, no fixed verse-row assumption. Exact source IDs, PDF SHA, raw strings, bboxes and legacy-font-v1 mapping preserved.",
-    "pair_review": "All 1533 reconstructed source/English positions read from full paired outputs, in two two-page drafts and sixteen one-page drafts. All revised pairs reread with source IDs. Twenty-five wholly unresolved verses excluded from English and retained separately with source evidence. Coordinator restored and reread511:3:36 and517:4:16 from primary glossary373; now23 unresolved verses."
+    "pair_review": "All 1533 reconstructed source/English positions read from full paired outputs, in two two-page drafts and sixteen one-page drafts. All revised pairs reread with source IDs. Twenty-five wholly unresolved verses excluded from English and retained separately with source evidence. Coordinator restored and reread511:3:36 and517:4:16 from primary glossary373; now23 unresolved verses. Coordinator restored and reread515:5:21 from primary бирII/pir land formula; now22 unresolved verses."
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "Every physical fragment across 506–525 accounted by translated source groups,23 unresolved exclusions,45 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained."
+    "scope": "Every physical fragment across 506–525 accounted by translated source groups,22 unresolved exclusions,45 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained."
   },
   "counts": {
-    "english_verse_rows": 1510,
-    "english_words": 8473,
-    "unresolved_source_rows": 23,
+    "english_verse_rows": 1511,
+    "english_words": 8478,
+    "unresolved_source_rows": 22,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1533,
     "wrapped_verse_groups": 27,
     "nonverse_extraction_records": 45,
     "watermark_records": 20,
-    "translated_source_words": 5103,
+    "translated_source_words": 5106,
     "all_source_verse_words": 5180,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
-    "source_words": 5103,
-    "english_words": 8473,
+    "source_words": 5106,
+    "english_words": 8478,
     "all_source_verse_words": 5180
   }
 }

@@ -1,0 +1,267 @@
+{
+  "source": "sources/raw/manas-aki-candidate.pdf",
+  "source_sha256": "68bc80c49971f65cf755f6ef4d49e22396d9ca913b53b1f18aace29563f74178",
+  "engine": "Tesseract 5.5.2 kir psm3; 2200px continuation pages / 2000px preface",
+  "continuation_pdf_pages": [
+    315,
+    348
+  ],
+  "continuation_printed_pages": [
+    314,
+    347
+  ],
+  "files": [
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-315.txt",
+      "sha256": "3affed6f461d0f46604ffbc1fd193d3916758f7e52d8682293065648389b7741",
+      "nonempty_ocr_lines": 72,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-316.txt",
+      "sha256": "cbf3396ebd9d043ec82b57f7a6ac12667943cf03c1de9c2536758cfc3c90a775",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-317.txt",
+      "sha256": "69c734fd9e265da6804313ccf06ee8d5a47e5d25daf34f334e8083a42b0d797e",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-318.txt",
+      "sha256": "00c4079053e383dd7acf36cb7972872f37d9ebd207514b2c23ad79b254737b68",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-319.txt",
+      "sha256": "6f2a7905a96baccaac99b6f402ec15844f5dd22c8f3ae781e956c0dbf547adcc",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-320.txt",
+      "sha256": "25cf401a79b8f88c46278eeeea0521395ad0cfcdf0c1fc0db8f5ac99a1aa9b37",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-321.txt",
+      "sha256": "1eccc5f1e9eba46bedacca61520c859701a8e62ce5949cfc0834fc40da763968",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-322.txt",
+      "sha256": "a0f28846dfea6686f034c3915573a3d2e2382fc82addf6a9db25611cc451a15f",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-323.txt",
+      "sha256": "c9a7b143c8c7b8b9432f0bd4babdaf76c3526a015c2ea4c6d82e13d503e8cf10",
+      "nonempty_ocr_lines": 100,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-324.txt",
+      "sha256": "5105fa6e5f5975e4316b944607aecd3403bea91b714e8c3486d4e844d0a6e0dc",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-325.txt",
+      "sha256": "e835ecff3b3945ae393938801af625f863e8a5f8768019d87f6b6f7b6f5ff03e",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-326.txt",
+      "sha256": "905cdecced3d9e45ab7256733228053149497a8020b22748b605a94b44f962f1",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-327.txt",
+      "sha256": "d275b347cea644ccdb31f1966220309dde69fa310615f4ebe1bf1420cf12cfd1",
+      "nonempty_ocr_lines": 98,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-328.txt",
+      "sha256": "61988b1e5ada2dc262386b8971f3132c34acda648a03a1ef2422fb9edb2e29e4",
+      "nonempty_ocr_lines": 2,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-329.txt",
+      "sha256": "15e3cab728d2410c32dd82c5bce5832adb6c0a78ad5c5d0ff8325ba635d4e02c",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-330.txt",
+      "sha256": "7fc2f1f9a9e1802572e83ad56989383d5e7784d109c7b585b4e3234d3b6f8486",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-331.txt",
+      "sha256": "5c635b3f68ec7e53a496456da1c73b1f7f9753a066839bf4297a0fdf0b464551",
+      "nonempty_ocr_lines": 98,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-332.txt",
+      "sha256": "f9378e989a497437dafdef1fcbbfc0ec0de0f00c7ba1ddbe42f9f3a7282b37e8",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-333.txt",
+      "sha256": "c7d7a0bcf9cc6eed25656d9774afec3279e6be94c7c09bd1464217612fcacb39",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-334.txt",
+      "sha256": "c76ee1754ef6ad47b53790e8e6e3529004ac18622baff67f45a21a6a75b79ecf",
+      "nonempty_ocr_lines": 97,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-335.txt",
+      "sha256": "aa53d5cad51b2b34d3bb7aa3d357f752ec56cfc5000d9683a126e9c680cd450d",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-336.txt",
+      "sha256": "8ba6292d2dc28046db8296420580519d3bc473f36810af48307b5f62849c2824",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-337.txt",
+      "sha256": "6ac1a87f0d94bc66264356ad72f65a4be340f07453d5ae5e279da98203ac8ef9",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-338.txt",
+      "sha256": "ed9c20e478158329fd4d391f30c6fdd3454ba1c31655865dfb8bc323e56c6030",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-339.txt",
+      "sha256": "f2f23350be2ad04ad15df99695933ca3c42d1a31a7868e106fb9f030511e45b0",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-340.txt",
+      "sha256": "254e1cfc7d58db6052c281c54c0a44b5f976f18a81c44329ef23a985fb1efc13",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-341.txt",
+      "sha256": "5b36eae076c59dd9adbee2b54280e407d5671eda390ae5fcbf14ccaa6129acd7",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-342.txt",
+      "sha256": "cf46ccb8ff0a0394d5ea955c4a110f0fb2ce58cc35c099b15b9bcc30aead8034",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-343.txt",
+      "sha256": "3b0db0a072290b01c29beaf8b4ed0fc0451edf429d994c3477189c0c050eb46e",
+      "nonempty_ocr_lines": 98,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-344.txt",
+      "sha256": "8f04eb01e46a7b6f08c9a14f0c227ae209f0444df8b42da325242fc4c1bce814",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-345.txt",
+      "sha256": "6c8f4b4db5d58328ad2a62ea07496c5d6cecc837dab4e1620399c4640e95e41f",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-346.txt",
+      "sha256": "9a9475bc89227f272950f1962378243a96e71a2c405f96406ef6c5866fec85af",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-347.txt",
+      "sha256": "330130eb3925951f403497cfc67940adcc1f1a5776638349e740820080e1012c",
+      "nonempty_ocr_lines": 99,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/page-348.txt",
+      "sha256": "7f79e02c3ad6e4d3f64502303a17858f5a2cd1cd1a5de541a7f2c08d2d2a4b52",
+      "nonempty_ocr_lines": 53,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-006.txt",
+      "sha256": "1d821e8e01a13205b250f447d9444388525ad87f9b3fbcd548321eed5f6e3e0c",
+      "nonempty_ocr_lines": 43,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-007.txt",
+      "sha256": "ed17b1e4df3f57230eb4d3a8a65a8f4a8a0dcfc36a13de2da31fca6ec02f85ca",
+      "nonempty_ocr_lines": 60,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-008.txt",
+      "sha256": "afd732b4242abf7a5e8086ad732dc95095b2e3868cac1d3a6a984515294d5980",
+      "nonempty_ocr_lines": 59,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-009.txt",
+      "sha256": "a88d6f0f6b95086484ea052e801c809f09e8ba8c13af60dafc04e80fb2b9b695",
+      "nonempty_ocr_lines": 59,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-010.txt",
+      "sha256": "9af6507327d41d6a31720b064b83d3222cd9a5422b401c49c7c1739ad37de3d1",
+      "nonempty_ocr_lines": 58,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-011.txt",
+      "sha256": "5cbc10f3359e934fb073e9755912edc1c60f08a7d2083909537be03548fe6775",
+      "nonempty_ocr_lines": 60,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-012.txt",
+      "sha256": "f3439031632e7e16cecfabaf8432ad765c051f5342a0916ca37eede8458343bf",
+      "nonempty_ocr_lines": 60,
+      "status": "unreviewed_ocr_not_certified_verse"
+    },
+    {
+      "path": "sources/extracted/seytek-1991-continuation/seytek-scan-preface-013.txt",
+      "sha256": "8ca10ee1ce88279da58a57eab22c4b9985d1c0912ae80f9400e649c52de15cc4",
+      "nonempty_ocr_lines": 36,
+      "status": "unreviewed_ocr_not_certified_verse"
+    }
+  ]
+}

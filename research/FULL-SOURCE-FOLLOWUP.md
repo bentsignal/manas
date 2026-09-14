@@ -1,3 +1,5 @@
+> Follow-up: the subsequently inspected 1990/1991 Seytek scan adds 34 continuation pages, but explicitly abridges its source. See [CONTINUATIONS-CHECK.md](CONTINUATIONS-CHECK.md) for exact boundaries, hashes and conflicting inventory references. Earlier absence findings below describe the initial four PDFs.
+
 # Full-source follow-up
 
 Checked 14 September 2026 UTC. This is a bounded follow-up to SOURCE-AUDIT.md, not a certification of the complete corpus. No correspondence was sent.
@@ -52,6 +54,8 @@ Route: [official Academy Institute page](https://kruia.gov.kg/content_list/show/
 > Dear Manuscript Fund and Manas Studies colleagues,
 >
 > We are preparing a source-traceable English translation of Sayakbay Karalaev's recorded Manas corpus. Could you identify the current shelfmark corresponding to old inventory 960 (A. Zhainakova's Kenen entry cites page 145), and provide a catalogue description and information on obtaining complete scans of its Kenen, Alymsaryk and Kulansaryk material?
+>
+> The manuscript bibliography in Manas Encyclopedia volume 2 (PDF 653, printed 429) lists old inventory 960 as Seytek part 7, pages 1683–2022; it then lists 961–964 and continuation items 965–966. How does this relate to the Kenen entry’s inventory 960/page 145? Please supply current shelfmarks and descriptions for 960–966 and identify the unabridged continuation manuscripts. The Adabiyat 1990/1991 Seytek edition prints Kenen on pages 314–347, but its preface explicitly acknowledges cuts and its ending includes a prose synopsis. Where can the omitted verse be obtained?
 >
 > We also need the inventory-to-edition crosswalk for the reported 500,553 verses, including old Semetey inventories 925–953. Published sources give conflicting component counts: 84,513 / 316,157 / 84,697 / 15,186 versus 84,830 / 397,775 / 17,948. Which count reflects the archival corpus, and does it include alternative recordings or copies?
 >

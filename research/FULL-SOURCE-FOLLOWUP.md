@@ -64,3 +64,7 @@ Route: [official Academy Institute page](https://kruia.gov.kg/content_list/show/
 > Thank you.
 
 No new material should enter the released source corpus until its narrator, notebook/edition boundaries, overlap, lineation and publication basis are documented.
+
+## Additional public academic-volume lead, 14 September 2026
+
+The indexed Bizdin link `https://new.bizdin.kg/media/books/Manas-kyrgyz-elinin-baatyrdyk-eposu-I-kitep-1995.pdf` reports a 16,188,019-byte PDF to the web fetcher, which declined it as too large. Direct public retrieval returned HTTP404; the corresponding known public object-storage path returned403. No file was acquired, no access restriction was bypassed, and this adds no verified source coverage. The title/narrator and contents still need visual verification before treating it as the missing academic witness. A fresh primary bibliographic lead, [Russian Turkology 2021 nos.3–4](https://iling-ran.ru/library/rt/rt_2021_3-4.pdf), indexes Karalaev's academic volumes separately from Orozbakov's; the two must not be conflated.

@@ -13,6 +13,7 @@ Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPE
 - `npm run release:compile`: validate `corpus/release.jsonl`, then emit immutable 256-line chunks plus a small manifest. Empty releases render an empty poem column.
 - `npm test`: check release safeguards and bounded scroll-window traversal through all 500,553 positions using clearly synthetic test fixtures.
 - `npm run dev` / `npm run build`: run/build the React reader.
+- `python3 scripts/verify-live.py`: fetch the live manifest and all content-addressed chunks, verify them against the local compiled release, and report live draft lines and English words. Run after deployment succeeds.
 
 ## Reader architecture
 
@@ -20,7 +21,9 @@ The opening 256 lines and manifest are server-rendered. The continuous reader fe
 
 Runtime scroll rebasing has unit coverage for index arithmetic but still requires browser verification with a licensed, nonempty corpus. Do not describe it as performance-tested at production scale.
 
-Source PDFs, raw research HTML and extracted text are local-only and excluded from source pushes. Public release data must carry a documented publication basis. Research notes stay in the repository. The page now contains the opening draft; there are no padded verses or fabricated demo lines.
+Source PDFs, raw research HTML and extracted text are local-only and excluded from source pushes. Public release data must carry a documented publication basis. Research notes stay in the repository. The page contains the released draft verses; there are no padded verses or fabricated demo lines.
+
+Every progress update pairs draft verse-line counts with English word counts and distinguishes saved drafts, compiled releases, and verified live content. Count alphabetic words with internal apostrophes/hyphens; exclude notes, headings, Kyrgyz text, and unresolved markers. An unidentified transliteration is not a completed English verse.
 
 ## Release records
 

@@ -124,3 +124,7 @@ Following the request to publish as translation proceeds, the reader now inserts
 ## Draft checkpoint through PDF page333
 
 15,213 English draft lines /85,495 English words prepared for publication; 15,357 lines /86,306 words saved including354–356. Dictionary-backed corrections at123:l038 and243:l006 remove mistaken Almighty readings of бардыгер; details in TEXTUAL-CORRECTIONS.md. Alignment audit accounts for every source display row through333, with two explicit unresolved regions still uncounted.
+
+## Draft checkpoint through PDF page356
+
+16,313 English draft lines /91,619 English words prepared for publication. Source-order audit passes with24 explicit nonverse exclusions and two uncounted unresolved regions. Reader chunks now contain only exact English, IDs, ordinals and gap markers; full Kyrgyz/provenance/notes remain in corpus/release.jsonl. Every compiled English row compared exactly with the source release file.

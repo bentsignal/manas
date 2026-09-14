@@ -16,7 +16,7 @@ Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPE
 
 ## Reader architecture
 
-The opening 256 lines and manifest are server-rendered. The continuous reader fetches 256-line chunks on demand, retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits. The page contains English verses in a narrow, centered Times New Roman column, with a plain editorial marker at any unresolved source gap. Markers are not counted as translated verses or words. Direct line links and automatic local position restoration remain available without visible controls. `/read` aliases the same reader.
+The opening 256 lines and manifest are server-rendered. The continuous reader fetches 256-line chunks containing English, IDs, ordinals and gap markers on demand, retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits. The page contains English verses in a narrow, centered Times New Roman column, with a plain editorial marker at any unresolved source gap. Markers are not counted as translated verses or words. Direct line links and automatic local position restoration remain available without visible controls. `/read` aliases the same reader.
 
 Runtime scroll rebasing has unit coverage for index arithmetic but still requires browser verification with a licensed, nonempty corpus. Do not describe it as performance-tested at production scale.
 

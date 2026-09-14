@@ -21,8 +21,8 @@ await writeFile(new URL('corpus/progress.json',root),JSON.stringify({
   gap_policy:'Publish readable drafts with explicit source-position marker; marker excluded from translated lines and English words; completeness blocked.'
 },null,2)+'\n');
 const gapBefore=new Map(gaps.map(g=>[g.before_id,sourceGapLabel(g)]));
-const renderRows=rows.map(r=>gapBefore.has(r.id)?{...r,gapBefore:gapBefore.get(r.id)}:r);
-const version=rows.length?createHash('sha256').update(text+JSON.stringify(gaps)).digest('hex').slice(0,16):'audit-2026-09-14';
+const renderRows=rows.map(({id,ordinal,en})=>({id,ordinal,en,...(gapBefore.has(id)?{gapBefore:gapBefore.get(id)}:{})}));
+const version=rows.length?createHash('sha256').update('reader-chunks-v2\n'+text+JSON.stringify(gaps)).digest('hex').slice(0,16):'audit-2026-09-14';
 const directory=new URL(`public/text/${version}/`,root);await mkdir(directory,{recursive:true});
 const chunkSize=256;
 for(let i=0;i<rows.length;i+=chunkSize)await writeFile(new URL(`${i/chunkSize}.json`,directory),JSON.stringify(renderRows.slice(i,i+chunkSize))+'\n');

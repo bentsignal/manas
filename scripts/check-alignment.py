@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Check the released prefix against source display lines, not the reported corpus total."""
 from release_store import read_release
+from source_evidence import verify_source_evidence
 import json
 from collections import defaultdict
 from pathlib import Path
@@ -30,12 +31,15 @@ for row in rows:
     ids = row.get('source_line_ids', [row['id']])
     assert not set(ids).intersection(gap_ids), 'Gap fragment counted as translated'
     assert [s['id'] for s in row['source']['segments']] == ids, 'Segment/ID mismatch'
-    assert ' '.join(s['raw'] for s in row['source']['segments']) == row['ky'], 'Undocumented source alteration'
     by_source[row['source_id']].extend(ids)
 covered = omitted = damaged = 0
 for source_id, published in by_source.items():
     assert len(set(published)) == len(published), 'Source display line repeated'
     raw = [json.loads(l) for l in (root/f'sources/extracted/{source_id}.lines.jsonl').open()]
+    extracted = {r['id']:r for r in raw}
+    for row in rows:
+        if row['source_id'] == source_id:
+            verify_source_evidence(row, extracted)
     index = {r['id']:i for i,r in enumerate(raw)}
     region = raw[index[published[0]]:index[published[-1]]+1]
     expected = []

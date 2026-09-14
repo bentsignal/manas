@@ -23,6 +23,10 @@ test('a visible source gap is not a translated verse and prevents completion',()
  const gap={id:'gap',status:'unresolved',source_id:'s',after_id:'s:1',before_id:'s:2',source_line_ids:['s:lost'],evidence:'source comparison',source:{sha256:'abc',segments:[{id:'s:lost',raw:'damaged'}]}};
  const audit=validateRelease(rows,target,sources,[gap]);
  assert.equal(audit.released,2);assert.equal(audit.reviewed,2);assert.equal(audit.sourceGaps,1);assert.equal(audit.complete,false);
+ const second={...gap,id:'gap2',source_line_ids:['s:lost2'],source:{sha256:'abc',segments:[{id:'s:lost2',raw:'also damaged'}]}};
+ assert.throws(()=>validateRelease(rows,target,sources,[gap,second]),/share one source gap region/);
+ const merged={...gap,source_line_ids:['s:lost','s:lost2'],source:{sha256:'abc',segments:[...gap.source.segments,...second.source.segments]}};
+ assert.equal(validateRelease(rows,target,sources,[merged]).sourceGaps,1);
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,before_id:'absent'}]));
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,evidence:''}]));
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,source_line_ids:['s:1'],source:{sha256:'abc',segments:[{id:'s:1',raw:'damaged'}]}}]));

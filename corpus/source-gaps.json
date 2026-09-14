@@ -1859,7 +1859,8 @@
     "after_id": "manas-2010:p1749:b001:l004",
     "before_id": "manas-2010:p1749:b001:l007",
     "source_line_ids": [
-      "manas-2010:p1749:b001:l005"
+      "manas-2010:p1749:b001:l005",
+      "manas-2010:p1749:b001:l006"
     ],
     "evidence": "corpus/batches/pages-1742-1761.json",
     "source": {
@@ -1876,27 +1877,7 @@
             "xMax": 336.48,
             "yMax": 144.684
           }
-        }
-      ]
-    },
-    "note": "Printed Ташка салса тарткызым. Stone-striking context legible but тарткызым is not securely established as the expected negative indomitable formula. Dictionary тарткыз is causative pull and differs from negative тарткыс. No silent replacement of final з by с or invented action. Whole verse excluded pending philological resolution."
-  },
-  {
-    "id": "manas-2010:p1749:b001:l006:unresolved-verse",
-    "kind": "meaning_unresolved",
-    "status": "unresolved",
-    "source_id": "manas-2010",
-    "after_id": "manas-2010:p1749:b001:l004",
-    "before_id": "manas-2010:p1749:b001:l007",
-    "source_line_ids": [
-      "manas-2010:p1749:b001:l006"
-    ],
-    "evidence": "corpus/batches/pages-1742-1761.json",
-    "source": {
-      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
-      "page": 1749,
-      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "segments": [
+        },
         {
           "id": "manas-2010:p1749:b001:l006",
           "raw": "Алакем жолдон кайра кайткызым.",
@@ -1909,7 +1890,7 @@
         }
       ]
     },
-    "note": "Printed Алакем жолдон кайра кайткызым. Alma and returning from road are legible but кайткызым cannot securely be construed here; expected negative кайткыс is only conjecture, paired with similarly difficult тарткызым5. Whole verse excluded rather than printing an unsupported never-turn-back assertion."
+    "note": "Printed Ташка салса тарткызым. Stone-striking context legible but тарткызым is not securely established as the expected negative indomitable formula. Dictionary тарткыз is causative pull and differs from negative тарткыс. No silent replacement of final з by с or invented action. Whole verse excluded pending philological resolution. | Adjacent unresolved verse: Printed Алакем жолдон кайра кайткызым. Alma and returning from road are legible but кайткызым cannot securely be construed here; expected negative кайткыс is only conjecture, paired with similarly difficult тарткызым5. Whole verse excluded rather than printing an unsupported never-turn-back assertion."
   },
   {
     "id": "manas-2010:p1764:b001:l012:unresolved-verse",
@@ -2159,7 +2140,8 @@
     "after_id": "manas-2010:p1810:b001:l021",
     "before_id": "manas-2010:p1810:b001:l024",
     "source_line_ids": [
-      "manas-2010:p1810:b001:l022"
+      "manas-2010:p1810:b001:l022",
+      "manas-2010:p1810:b001:l023"
     ],
     "evidence": "corpus/batches/pages-1791-1810.json",
     "source": {
@@ -2176,27 +2158,7 @@
             "xMax": 336.7188,
             "yMax": 431.124
           }
-        }
-      ]
-    },
-    "note": "Болоттун учу бактырган names steel point but бактырган is not securely lodged/embedded. Initial lodged rendering withdrawn rather than silently changing бактырган to баттырган. Whole verse withheld."
-  },
-  {
-    "id": "manas-2010:p1810:b001:l023:unresolved-verse",
-    "kind": "meaning_unresolved",
-    "status": "unresolved",
-    "source_id": "manas-2010",
-    "after_id": "manas-2010:p1810:b001:l021",
-    "before_id": "manas-2010:p1810:b001:l024",
-    "source_line_ids": [
-      "manas-2010:p1810:b001:l023"
-    ],
-    "evidence": "corpus/batches/pages-1791-1810.json",
-    "source": {
-      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
-      "page": 1810,
-      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "segments": [
+        },
         {
           "id": "manas-2010:p1810:b001:l023",
           "raw": "Коркок болуп көп ойноп,",
@@ -2209,6 +2171,66 @@
         }
       ]
     },
-    "note": "Коркок болуп көп ойноп literally coward/becoming and much playing is unverified in internal wound progression. No guessed infection, fragment movement or anatomical explanation counted."
+    "note": "Болоттун учу бактырган names steel point but бактырган is not securely lodged/embedded. Initial lodged rendering withdrawn rather than silently changing бактырган to баттырган. Whole verse withheld. | Adjacent unresolved verse: Коркок болуп көп ойноп literally coward/becoming and much playing is unverified in internal wound progression. No guessed infection, fragment movement or anatomical explanation counted."
+  },
+  {
+    "id": "manas-2010:p1813:b001:l029:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1813:b001:l028",
+    "before_id": "manas-2010:p1813:b001:l030",
+    "source_line_ids": [
+      "manas-2010:p1813:b001:l029"
+    ],
+    "evidence": "corpus/batches/pages-1811-1832.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1813,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1813:b001:l029",
+          "raw": "Сан кыйылган жок эле,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 533.712,
+            "xMax": 330.36,
+            "yMax": 548.964
+          }
+        }
+      ]
+    },
+    "note": "Printed Сан кыйылган жок эле. Number/multitude/thigh and cutting/being overcome senses do not establish the complete clause in Manas’s recollection of governing peoples. Negative is legible but no secure subject/object relation. Whole verse preserved separately, not filled with an invented boast or casualty statistic."
+  },
+  {
+    "id": "manas-2010:p1829:b001:l026:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1829:b001:l025",
+    "before_id": "manas-2010:p1829:b001:l027",
+    "source_line_ids": [
+      "manas-2010:p1829:b001:l026"
+    ],
+    "evidence": "corpus/batches/pages-1811-1832.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1829,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1829:b001:l026",
+          "raw": "Баатыр ай, жеке олуя курчанып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 483.192,
+            "xMax": 377.1588,
+            "yMax": 498.444
+          }
+        }
+      ]
+    },
+    "note": "Printed Баатыр ай, жеке олуя курчанып. Warrior/girding and жеке leather battle belt or alone are legible; олуя saint/seer does not securely establish attachment or a named belt. No silent replacement by a conventional belt formula or invented sacred object. Entire verse excluded pending resolution."
   }
 ]

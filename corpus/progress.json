@@ -1,12 +1,12 @@
 {
-  "released_draft_rows": 25797,
-  "released_english_words": 143883,
+  "released_draft_rows": 28563,
+  "released_english_words": 159851,
   "independently_reviewed": 0,
-  "last_source_id": "manas-2010:p0571:b001:l042",
+  "last_source_id": "manas-2010:p0637:b001:l042",
   "complete": false,
   "full_source_reconciled": false,
   "background_translation_job": false,
-  "source_gaps": 4,
+  "source_gaps": 5,
   "scope": "Compiled release candidate; production deployment must be verified separately.",
   "gap_policy": "Publish readable drafts with explicit source-position marker; marker excluded from translated lines and English words; completeness blocked."
 }

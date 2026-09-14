@@ -140,5 +140,35 @@
       ]
     },
     "note": "Тоорактуу жоргодо is legible but semantically unresolved. Dictionary meanings black poplar and pacing horse do not establish a coherent reading. No invented place name or silent emendation."
+  },
+  {
+    "id": "manas-2010:p0635:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0635:b001:l001",
+    "before_id": "manas-2010:p0635:b001:l003",
+    "source_line_ids": [
+      "manas-2010:p0635:b001:l002"
+    ],
+    "evidence": "corpus/batches/pages-0635-0637.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 635,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0635:b001:l002",
+          "raw": "Түбү кылым кырымы,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 78.912,
+            "xMax": 323.88,
+            "yMax": 94.164
+          }
+        }
+      ]
+    },
+    "note": "Same line is reproduced in comparative study https://arch.kyrlibnet.kg/uploads/TALGUAITALIEVA2013.pdf PDF124, but not explained. Кырым can be a place or distant reaches; the weapon formula is not established. Do not silently claim Crimean manufacture or replace кылым with кытай from another narrator."
   }
 ]

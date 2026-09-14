@@ -380,5 +380,65 @@
       ]
     },
     "note": "Unresolved full display line Дардештиги бар экен. Image confirms reading; дардеш lexical root not established by local glossary or primary dictionary searches. Surrounding accusation of disobedience does not justify inventing stubbornness. Exact raw and transliteration preserved separately; not counted as translated English."
+  },
+  {
+    "id": "manas-2010:p0973:b001:l009:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0973:b001:l008",
+    "before_id": "manas-2010:p0973:b001:l010",
+    "source_line_ids": [
+      "manas-2010:p0973:b001:l009"
+    ],
+    "evidence": "corpus/batches/pages-0959-0978.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 973,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0973:b001:l009",
+          "raw": "Көк күлдүркөн тон менен",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 196.872,
+            "xMax": 343.14,
+            "yMax": 212.124
+          }
+        }
+      ]
+    },
+    "note": "Image legible. Edition glossary and primary-dictionary searches did not establish күлдүркөн; leather would be an unsupported guess. Entire verse excluded from translated line and word totals."
+  },
+  {
+    "id": "manas-2010:p1018:b001:l021:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1018:b001:l020",
+    "before_id": "manas-2010:p1018:b001:l022",
+    "source_line_ids": [
+      "manas-2010:p1018:b001:l021"
+    ],
+    "evidence": "corpus/batches/pages-1002-1021.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1018,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1018:b001:l021",
+          "raw": "Алтымыш айман чал экен,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 398.952,
+            "xMax": 347.5188,
+            "yMax": 414.204
+          }
+        }
+      ]
+    },
+    "note": "Whole line unresolved. Алтымыш sixty and чал elder are clear, but айман has no defensible contextual construction here. Yudakhin horse adjective voracious/enduring does not establish the phrase. Excluded from English count; exact raw and transliteration recorded separately."
   }
 ]

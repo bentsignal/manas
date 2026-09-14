@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "manas-2010",
+    "pages": 1846,
+    "extracted_text_lines": 79974,
+    "verified_verse_lines": 0,
+    "extraction_sha256": "e91ae20e775df108be0b572427aee4d4ee90f1bfd2ec41b41a172ee165a452b2"
+  },
+  {
+    "source_id": "semetey-1-2013",
+    "pages": 1432,
+    "extracted_text_lines": 114247,
+    "verified_verse_lines": 0,
+    "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
+  },
+  {
+    "source_id": "semetey-2-2013",
+    "pages": 1424,
+    "extracted_text_lines": 114555,
+    "verified_verse_lines": 0,
+    "extraction_sha256": "159a1b4c53ef82a3e6e163d40a1a8d294e299103417529bd5e1667b82f468c53"
+  },
+  {
+    "source_id": "seytek-2012",
+    "pages": 1172,
+    "extracted_text_lines": 93154,
+    "verified_verse_lines": 0,
+    "extraction_sha256": "ca8cfffb2f646fe231e5047ead97003082eeef355a02ea72f9dbd9060e06cf37"
+  }
+]

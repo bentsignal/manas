@@ -1,0 +1,16 @@
+import {readFile,mkdir,writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import {validateRelease} from '../lib/release.mjs';
+const root=new URL('../',import.meta.url);
+const read=async p=>JSON.parse(await readFile(new URL(p,root),'utf8'));
+const target=await read('corpus/target.json');const sources=await read('sources/manifest.json');
+const text=await readFile(new URL('corpus/release.jsonl',root),'utf8');
+const rows=text.split('\n').filter(x=>x.trim()).map(x=>JSON.parse(x));
+const audit=validateRelease(rows,target,sources);
+const version=rows.length?createHash('sha256').update(text).digest('hex').slice(0,16):'audit-2026-09-14';
+const directory=new URL(`public/text/${version}/`,root);await mkdir(directory,{recursive:true});
+const chunkSize=256;
+for(let i=0;i<rows.length;i+=chunkSize)await writeFile(new URL(`${i/chunkSize}.json`,directory),JSON.stringify(rows.slice(i,i+chunkSize))+'\n');
+const manifest={version,target:target.target_lines,...audit,chunkSize,chapters:target.parts.flatMap(p=>{const r=rows.find(r=>r.part===p.id);return r?[{title:p.title,start:r.ordinal}]:[];})};
+const destination=new URL('public/text/manifest.json',root);await writeFile(destination,JSON.stringify(manifest,null,2)+'\n');
+console.log(JSON.stringify(audit));

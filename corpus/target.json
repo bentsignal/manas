@@ -1,0 +1,14 @@
+{
+  "narrator": "Sayakbay Karalaev",
+  "target_lines": 500553,
+  "count_status": "reported_not_reconciled",
+  "source_url": "https://new.bizdin.kg/media/books/manas-ensclpd.pdf",
+  "parts": [
+    {"id":"manas","title":"Manas","reported_lines":84513},
+    {"id":"semetey","title":"Semetey","reported_lines":316157},
+    {"id":"seytek","title":"Seytek","reported_lines":84697},
+    {"id":"continuations","title":"Kenen · Alymsaryk · Kulansaryk","reported_lines":15186}
+  ],
+  "completeness_verified": false,
+  "reconciliation_evidence": null
+}

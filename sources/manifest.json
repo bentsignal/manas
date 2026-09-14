@@ -1,0 +1,46 @@
+[
+  {
+    "id": "manas-2010",
+    "catalogue_url": "https://new.bizdin.kg/kniga/epos-manas-sayakbay-karalaev-polnyy-variant",
+    "download_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+    "path": "sources/raw/manas-2010.pdf",
+    "bytes": 16242844,
+    "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+    "retrieved_at": "2026-09-14T01:25:13.699554+00:00",
+    "completeness": "unverified",
+    "rights": "unverified"
+  },
+  {
+    "id": "semetey-1-2013",
+    "catalogue_url": "https://new.bizdin.kg/kniga/semetey-baatyrdyk-epos-1-kitep-sayakbay-karalaevdin-varianty-boyuncha",
+    "download_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+    "path": "sources/raw/semetey-1-2013.pdf",
+    "bytes": 10256314,
+    "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+    "retrieved_at": "2026-09-14T01:25:12.795679+00:00",
+    "completeness": "unverified",
+    "rights": "unverified"
+  },
+  {
+    "id": "semetey-2-2013",
+    "catalogue_url": "https://new.bizdin.kg/kniga/semetey-baatyrdyk-epos-2-kitep-sayakbay-karalaevdin-varianty-boyuncha",
+    "download_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Semetei-Baatyrdyk-epos-2-kitep-Saiakbai-Karalaevdin-varianty-boiuncha.pdf",
+    "path": "sources/raw/semetey-2-2013.pdf",
+    "bytes": 9863722,
+    "sha256": "5b24259c7100ab7766a7f6d65fea43ab5bd484603bc6914ff87eb29314e7f290",
+    "retrieved_at": "2026-09-14T01:25:12.871454+00:00",
+    "completeness": "unverified",
+    "rights": "unverified"
+  },
+  {
+    "id": "seytek-2012",
+    "catalogue_url": "https://new.bizdin.kg/kniga/seytek-baatyrdyk-epos-sayakbay-karalaevdin-varianty-boyuncha",
+    "download_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+    "path": "sources/raw/seytek-2012.pdf",
+    "bytes": 13202676,
+    "sha256": "786eb36c1863f3e6c5330bb98d5d1656ab2e566bc53e16128a4f982928ebee2f",
+    "retrieved_at": "2026-09-14T01:25:12.974587+00:00",
+    "completeness": "unverified",
+    "rights": "unverified"
+  }
+]

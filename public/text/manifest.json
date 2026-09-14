@@ -1,0 +1,15 @@
+{
+  "version": "audit-2026-09-14",
+  "target": 500553,
+  "released": 0,
+  "reviewed": 0,
+  "complete": false,
+  "perPart": {
+    "manas": 0,
+    "semetey": 0,
+    "seytek": 0,
+    "continuations": 0
+  },
+  "chunkSize": 256,
+  "chapters": []
+}

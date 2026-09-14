@@ -1213,6 +1213,7 @@
     "semetey-1-2013:p0125:b004:l035",
     "semetey-1-2013:p0125:b004:l036",
     "semetey-1-2013:p0125:b004:l037",
+    "semetey-1-2013:p0125:b004:l038",
     "semetey-1-2013:p0125:b004:l039",
     "semetey-1-2013:p0126:b003:l001",
     "semetey-1-2013:p0126:b003:l002",
@@ -1935,11 +1936,6 @@
       "reason": "Аша болчу жер экен: the tree-refuge context is clear but аша is not securely resolved. The eating verb does not establish a noun food, and аса staff would be an unverified spelling substitution. Whole verse unresolved."
     },
     {
-      "id": "semetey-1-2013:p0125:b004:l038",
-      "kind": "unresolved_source",
-      "reason": "Баашалуу кыргыз калаа жок: Kyrgyz city and absence are clear, but баашалуу remains unverified. No invented blessed/royal adjective; whole verse unresolved."
-    },
-    {
       "id": "semetey-1-2013:p0129:b003:l019",
       "kind": "unresolved_source",
       "reason": "Кылаңгыр көзү алактап: darting eyes are clear, but кылаңгыр as an eye epithet is unresolved. Primary кылаңгыр skim-milk/pale-blue sense and distinct кылагар wandering gaze do not justify silent substitution. Whole verse unresolved."
@@ -2081,40 +2077,6 @@
       "preceding_source": "semetey-1-2013:p0123:b005:l016",
       "following_source": "semetey-1-2013:p0123:b005:l018",
       "rendered_page": "tmp/pdfs/semetey1-0110-0129/page-0123.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0125:b004:l038"
-      ],
-      "raw": [
-        "Áààøàëóó êûðãûç êàëàà æîê!"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0125:b004:l038",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 125,
-          "block": 4,
-          "line_in_block": 38,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 668.6997,
-            "xMax": 485.8008,
-            "yMax": 681.8877
-          },
-          "raw": "Áààøàëóó êûðãûç êàëàà æîê!",
-          "text": "Баашалуу кыргыз калаа жок!",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Баашалуу кыргыз калаа жок: Kyrgyz city and absence are clear, but баашалуу remains unverified. No invented blessed/royal adjective; whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0125:b004:l037",
-      "following_source": "semetey-1-2013:p0125:b004:l039",
-      "rendered_page": "tmp/pdfs/semetey1-0110-0129/page-0125.png"
     },
     {
       "source_ids": [
@@ -2501,7 +2463,8 @@
     "semetey-1-2013:p0127:b003:l016": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0128:b004:l038": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0129:b003:l036": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0129:b005:l023": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained."
+    "semetey-1-2013:p0129:b005:l023": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0125:b004:l038": "Restored after renewed PDF125 visual check and primary Yudakhin башаа=бадыша, exact ургаачынын башаасы queen of women; adjacent башаалуу=бадышалуу royal/with a sovereign. Printed баашалуу interpreted as metathesized vowel-length position of башаалуу, explicitly a lexical inference; raw text unchanged. Thus royal Kyrgyz city, not invented blessed. Primary cached edition sources/raw/yudakhin-2015.pdf SHA7a244b474ea8d582f5c3efccff5b74a5887ec38726105bfc03a26e077d095968, research/YUDAKHIN-LEXICAL-SOURCE.json. No independent specialist certification."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -2530,7 +2493,7 @@
       129
     ],
     "evidence": "All20 individual Poppler images inspected at1800px: tmp/pdfs/semetey1-0110-0129/page-0110.png through page-0129.png. Read complete left column then right; every header, folio and printer signature classified.42 indented wraps reviewed manually; no fixed verse-row assumption. Exact PDF SHA, source IDs, raw strings, bboxes and legacy-font-v1 mapping preserved via physical source IDs.",
-    "pair_review": "All1517 reconstructed source/English positions read in ten paired review blocks of149,154,153,149,150,152,152,154,151,153. Revised pairs reread with exact source IDs. Six wholly unresolved verses excluded from English and retained separately with source evidence."
+    "pair_review": "All1517 reconstructed source/English positions read in ten paired review blocks of149,154,153,149,150,152,152,154,151,153. Revised pairs reread with exact source IDs. Five wholly unresolved verses excluded from English and retained separately with source evidence. Restored125:4:38 after primary башаалуу entry verification; source/English pair reread."
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
@@ -2538,22 +2501,22 @@
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No MT API or previous published English poem used. Primary Kyrgyz/Russian dictionary entries and original Kyrgyz editorial preface used only for lexical support. Provisional translation and lineation; source witness not reconciled and no independent expert certification.",
   "counts": {
-    "english_verse_rows": 1511,
-    "english_words": 8824,
-    "unresolved_source_rows": 6,
+    "english_verse_rows": 1512,
+    "english_words": 8830,
+    "unresolved_source_rows": 5,
     "physical_narrative_fragments": 1559,
     "reconstructed_source_verses": 1517,
     "wrapped_verse_groups": 42,
     "nonverse_extraction_records": 45,
     "watermark_records": 20,
-    "translated_source_words": 5360,
+    "translated_source_words": 5364,
     "all_source_verse_words": 5380,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
-    "source_words": 5360,
-    "english_words": 8824,
+    "source_words": 5364,
+    "english_words": 8830,
     "all_source_verse_words": 5380
   },
   "source_hashes": {

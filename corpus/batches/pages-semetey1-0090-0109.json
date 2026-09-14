@@ -1264,6 +1264,7 @@
     "semetey-1-2013:p0106:b004:l005",
     "semetey-1-2013:p0106:b004:l006",
     "semetey-1-2013:p0106:b004:l007",
+    "semetey-1-2013:p0106:b004:l008",
     "semetey-1-2013:p0106:b004:l009",
     "semetey-1-2013:p0106:b004:l010",
     "semetey-1-2013:p0106:b004:l011",
@@ -1802,6 +1803,7 @@
     "semetey-1-2013:p0106:b003:l021": "багалак knucklebone game stakes of otter pelt, same theft/gambling scene as34; not shin leggings.",
     "semetey-1-2013:p0106:b003:l023": "Parenthetical two lines are narrative verse, counted and translated separately.",
     "semetey-1-2013:p0106:b003:l030": "Direct threat begins in source without opening quote; English marks Bakai speech based first-person intention, not actual completed mutilation/cannibalism.",
+    "semetey-1-2013:p0106:b004:l008": "Printed баашалуу read as metathesized башаалуу: exact primary Yudakhin башаалуу = бадышалуу, defined having/being governed by a sovereign; adjacent башаа = бадыша quotes ургаачынын башаасы. Cached sources/raw/yudakhin-2015.pdf, provenance research/YUDAKHIN-LEXICAL-SOURCE.json. Later191:3:6 royal Bukhara and its khan reinforce sense. Raw spelling retained; no invented king name.",
     "semetey-1-2013:p0106:b004:l032": "телик small falcon trained as huntingbird, exactprimaryYudakhin/2015 https://el-sozduk.kg/телик/ parallel disparate people gathered; not television colloquialism.",
     "semetey-1-2013:p0106:b004:l037": "Return to former slave condition as former dependents disperse, speaker projection not narrator declaration of current legal status.",
     "semetey-1-2013:p0107:b003:l018": "кары elder in address to old Bakai and voluntary offer of himself, Baimyrza personal comparison retained without invented genealogy; not an arm detached here.",
@@ -2012,11 +2014,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0106:b004:l008",
-      "kind": "unresolved_source",
-      "reason": "баашалуу in калаа appeal not securely resolved. Parallel royal-city contexts support but do not establish proposed ruler-bearing sense; whole verse withheld pending primary lexical evidence."
-    },
-    {
       "id": "semetey-1-2013:p0106:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -2154,47 +2151,19 @@
           }
         ]
       }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0106:b004:l008"
-      ],
-      "raw": "«Áààøàëóó êàëàà æåð ìûíà,",
-      "ky": "«Баашалуу калаа жер мына,",
-      "status": "unresolved",
-      "note": "баашалуу in калаа appeal not securely resolved. Parallel royal-city contexts support but do not establish proposed ruler-bearing sense; whole verse withheld pending primary lexical evidence.",
-      "after_source_id": "semetey-1-2013:p0106:b004:l007",
-      "before_source_id": "semetey-1-2013:p0106:b004:l009",
-      "source": {
-        "page": 106,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0106:b004:l008",
-            "raw": "«Áààøàëóó êàëàà æåð ìûíà,",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 242.4597,
-              "xMax": 476.112,
-              "yMax": 255.6477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
     }
   ],
   "counts": {
-    "translated_verse_rows": 1518,
-    "english_words": 8572,
-    "translated_source_fragments": 1556,
+    "translated_verse_rows": 1519,
+    "english_words": 8579,
+    "translated_source_fragments": 1557,
     "physical_narrative_fragments": 1558,
     "reconstructed_source_verses": 1520,
     "wrapped_verse_groups": 38,
-    "unresolved_source_rows": 2,
+    "unresolved_source_rows": 1,
     "nonverse_extraction_records": 45,
     "watermark_records": 20,
-    "source_words": 5211,
+    "source_words": 5215,
     "all_source_verse_words": 5219,
     "per_page": [
       {
@@ -2295,9 +2264,9 @@
       },
       {
         "page": 106,
-        "verse_rows": 76,
-        "english_words": 436,
-        "source_fragments": 77
+        "verse_rows": 77,
+        "english_words": 443,
+        "source_fragments": 78
       },
       {
         "page": 107,

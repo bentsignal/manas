@@ -1,0 +1,585 @@
+{
+  "part": "semetey",
+  "status": "draft",
+  "extraction": "sources/extracted/semetey-1-2013.lines.jsonl",
+  "source_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+  "after_id": "semetey-1-2013:p0757:b004:l039",
+  "english": "corpus/batches/pages-semetey1-0758-0760.en.txt",
+  "source_ids": [
+    "semetey-1-2013:p0758:b003:l001",
+    "semetey-1-2013:p0758:b003:l002",
+    "semetey-1-2013:p0758:b003:l003",
+    "semetey-1-2013:p0758:b003:l004",
+    "semetey-1-2013:p0758:b003:l005",
+    "semetey-1-2013:p0758:b003:l006",
+    "semetey-1-2013:p0758:b003:l007",
+    "semetey-1-2013:p0758:b003:l008",
+    "semetey-1-2013:p0758:b003:l009",
+    "semetey-1-2013:p0758:b003:l010",
+    "semetey-1-2013:p0758:b003:l011",
+    "semetey-1-2013:p0758:b003:l012",
+    "semetey-1-2013:p0758:b003:l013",
+    "semetey-1-2013:p0758:b003:l014",
+    "semetey-1-2013:p0758:b003:l015",
+    "semetey-1-2013:p0758:b003:l016",
+    "semetey-1-2013:p0758:b003:l017",
+    "semetey-1-2013:p0758:b003:l018",
+    "semetey-1-2013:p0758:b003:l019",
+    "semetey-1-2013:p0758:b003:l021",
+    "semetey-1-2013:p0758:b003:l022",
+    "semetey-1-2013:p0758:b003:l023",
+    "semetey-1-2013:p0758:b003:l024",
+    "semetey-1-2013:p0758:b003:l025",
+    "semetey-1-2013:p0758:b003:l026",
+    "semetey-1-2013:p0758:b003:l027",
+    "semetey-1-2013:p0758:b003:l028",
+    "semetey-1-2013:p0758:b003:l029",
+    "semetey-1-2013:p0758:b003:l030",
+    "semetey-1-2013:p0758:b003:l031",
+    "semetey-1-2013:p0758:b003:l032",
+    "semetey-1-2013:p0758:b003:l033",
+    "semetey-1-2013:p0758:b003:l034",
+    "semetey-1-2013:p0758:b003:l035",
+    "semetey-1-2013:p0758:b003:l036",
+    "semetey-1-2013:p0758:b003:l037",
+    "semetey-1-2013:p0758:b003:l038",
+    "semetey-1-2013:p0758:b003:l039",
+    "semetey-1-2013:p0758:b004:l001",
+    "semetey-1-2013:p0758:b004:l002",
+    "semetey-1-2013:p0758:b004:l003",
+    "semetey-1-2013:p0758:b004:l004",
+    "semetey-1-2013:p0758:b004:l005",
+    "semetey-1-2013:p0758:b004:l006",
+    "semetey-1-2013:p0758:b004:l007",
+    "semetey-1-2013:p0758:b004:l008",
+    "semetey-1-2013:p0758:b004:l009",
+    "semetey-1-2013:p0758:b004:l010",
+    "semetey-1-2013:p0758:b004:l011",
+    "semetey-1-2013:p0758:b004:l012",
+    "semetey-1-2013:p0758:b004:l013",
+    "semetey-1-2013:p0758:b004:l014",
+    "semetey-1-2013:p0758:b004:l015",
+    "semetey-1-2013:p0758:b004:l016",
+    "semetey-1-2013:p0758:b004:l017",
+    "semetey-1-2013:p0758:b004:l018",
+    "semetey-1-2013:p0758:b004:l019",
+    "semetey-1-2013:p0758:b004:l020",
+    "semetey-1-2013:p0758:b004:l021",
+    "semetey-1-2013:p0758:b004:l022",
+    "semetey-1-2013:p0758:b004:l023",
+    "semetey-1-2013:p0758:b004:l024",
+    "semetey-1-2013:p0758:b004:l025",
+    "semetey-1-2013:p0758:b004:l026",
+    "semetey-1-2013:p0758:b004:l027",
+    "semetey-1-2013:p0758:b004:l028",
+    "semetey-1-2013:p0758:b004:l029",
+    "semetey-1-2013:p0758:b004:l030",
+    "semetey-1-2013:p0758:b004:l031",
+    "semetey-1-2013:p0758:b004:l032",
+    "semetey-1-2013:p0758:b004:l033",
+    "semetey-1-2013:p0758:b004:l034",
+    "semetey-1-2013:p0758:b004:l035",
+    "semetey-1-2013:p0758:b004:l036",
+    "semetey-1-2013:p0758:b004:l037",
+    "semetey-1-2013:p0758:b004:l038",
+    "semetey-1-2013:p0758:b004:l039",
+    "semetey-1-2013:p0759:b003:l001",
+    "semetey-1-2013:p0759:b003:l004",
+    "semetey-1-2013:p0759:b003:l005",
+    "semetey-1-2013:p0759:b003:l006",
+    "semetey-1-2013:p0759:b003:l007",
+    "semetey-1-2013:p0759:b003:l008",
+    "semetey-1-2013:p0759:b003:l009",
+    "semetey-1-2013:p0759:b003:l010",
+    "semetey-1-2013:p0759:b003:l011",
+    "semetey-1-2013:p0759:b003:l012",
+    "semetey-1-2013:p0759:b003:l013",
+    "semetey-1-2013:p0759:b003:l014",
+    "semetey-1-2013:p0759:b003:l015",
+    "semetey-1-2013:p0759:b003:l016",
+    "semetey-1-2013:p0759:b003:l017",
+    "semetey-1-2013:p0759:b003:l018",
+    "semetey-1-2013:p0759:b003:l019",
+    "semetey-1-2013:p0759:b003:l020",
+    "semetey-1-2013:p0759:b003:l021",
+    "semetey-1-2013:p0759:b003:l023",
+    "semetey-1-2013:p0759:b003:l024",
+    "semetey-1-2013:p0759:b003:l025",
+    "semetey-1-2013:p0759:b003:l026",
+    "semetey-1-2013:p0759:b003:l027",
+    "semetey-1-2013:p0759:b003:l028",
+    "semetey-1-2013:p0759:b003:l029",
+    "semetey-1-2013:p0759:b003:l030",
+    "semetey-1-2013:p0759:b003:l031",
+    "semetey-1-2013:p0759:b003:l032",
+    "semetey-1-2013:p0759:b003:l034",
+    "semetey-1-2013:p0759:b003:l035",
+    "semetey-1-2013:p0759:b003:l036",
+    "semetey-1-2013:p0759:b003:l037",
+    "semetey-1-2013:p0759:b003:l038",
+    "semetey-1-2013:p0759:b003:l039",
+    "semetey-1-2013:p0759:b004:l001",
+    "semetey-1-2013:p0759:b004:l002",
+    "semetey-1-2013:p0759:b004:l003",
+    "semetey-1-2013:p0759:b004:l004",
+    "semetey-1-2013:p0759:b004:l005",
+    "semetey-1-2013:p0759:b004:l006",
+    "semetey-1-2013:p0759:b004:l007",
+    "semetey-1-2013:p0759:b004:l008",
+    "semetey-1-2013:p0759:b004:l009",
+    "semetey-1-2013:p0759:b004:l010",
+    "semetey-1-2013:p0759:b004:l011",
+    "semetey-1-2013:p0759:b004:l012",
+    "semetey-1-2013:p0759:b004:l013",
+    "semetey-1-2013:p0759:b004:l014",
+    "semetey-1-2013:p0759:b004:l015",
+    "semetey-1-2013:p0759:b004:l016",
+    "semetey-1-2013:p0759:b004:l017",
+    "semetey-1-2013:p0759:b004:l018",
+    "semetey-1-2013:p0759:b004:l019",
+    "semetey-1-2013:p0759:b004:l020",
+    "semetey-1-2013:p0759:b004:l021",
+    "semetey-1-2013:p0759:b004:l022",
+    "semetey-1-2013:p0759:b004:l023",
+    "semetey-1-2013:p0759:b004:l024",
+    "semetey-1-2013:p0759:b004:l025",
+    "semetey-1-2013:p0759:b004:l026",
+    "semetey-1-2013:p0759:b004:l027",
+    "semetey-1-2013:p0759:b004:l028",
+    "semetey-1-2013:p0759:b004:l029",
+    "semetey-1-2013:p0759:b004:l030",
+    "semetey-1-2013:p0759:b004:l031",
+    "semetey-1-2013:p0759:b004:l032",
+    "semetey-1-2013:p0759:b004:l033",
+    "semetey-1-2013:p0759:b004:l034",
+    "semetey-1-2013:p0759:b004:l035",
+    "semetey-1-2013:p0759:b004:l036",
+    "semetey-1-2013:p0759:b004:l037",
+    "semetey-1-2013:p0759:b004:l038",
+    "semetey-1-2013:p0759:b004:l039",
+    "semetey-1-2013:p0760:b003:l001",
+    "semetey-1-2013:p0760:b003:l002",
+    "semetey-1-2013:p0760:b003:l003",
+    "semetey-1-2013:p0760:b003:l004",
+    "semetey-1-2013:p0760:b003:l005",
+    "semetey-1-2013:p0760:b003:l006",
+    "semetey-1-2013:p0760:b003:l007",
+    "semetey-1-2013:p0760:b003:l008",
+    "semetey-1-2013:p0760:b003:l009",
+    "semetey-1-2013:p0760:b003:l010",
+    "semetey-1-2013:p0760:b003:l011",
+    "semetey-1-2013:p0760:b003:l012",
+    "semetey-1-2013:p0760:b003:l013",
+    "semetey-1-2013:p0760:b003:l014",
+    "semetey-1-2013:p0760:b003:l015",
+    "semetey-1-2013:p0760:b003:l016",
+    "semetey-1-2013:p0760:b003:l017",
+    "semetey-1-2013:p0760:b003:l018",
+    "semetey-1-2013:p0760:b003:l019",
+    "semetey-1-2013:p0760:b003:l021",
+    "semetey-1-2013:p0760:b003:l022",
+    "semetey-1-2013:p0760:b003:l023",
+    "semetey-1-2013:p0760:b003:l024",
+    "semetey-1-2013:p0760:b003:l025",
+    "semetey-1-2013:p0760:b003:l026",
+    "semetey-1-2013:p0760:b003:l027",
+    "semetey-1-2013:p0760:b003:l028",
+    "semetey-1-2013:p0760:b003:l029",
+    "semetey-1-2013:p0760:b003:l030",
+    "semetey-1-2013:p0760:b003:l031",
+    "semetey-1-2013:p0760:b003:l032",
+    "semetey-1-2013:p0760:b003:l033",
+    "semetey-1-2013:p0760:b003:l034",
+    "semetey-1-2013:p0760:b003:l035",
+    "semetey-1-2013:p0760:b003:l036",
+    "semetey-1-2013:p0760:b003:l037",
+    "semetey-1-2013:p0760:b003:l038",
+    "semetey-1-2013:p0760:b003:l039",
+    "semetey-1-2013:p0760:b004:l001",
+    "semetey-1-2013:p0760:b004:l002",
+    "semetey-1-2013:p0760:b004:l003",
+    "semetey-1-2013:p0760:b004:l004",
+    "semetey-1-2013:p0760:b004:l005",
+    "semetey-1-2013:p0760:b004:l007",
+    "semetey-1-2013:p0760:b004:l008",
+    "semetey-1-2013:p0760:b004:l009",
+    "semetey-1-2013:p0760:b004:l010",
+    "semetey-1-2013:p0760:b004:l011",
+    "semetey-1-2013:p0760:b004:l012",
+    "semetey-1-2013:p0760:b004:l013",
+    "semetey-1-2013:p0760:b004:l014",
+    "semetey-1-2013:p0760:b004:l015",
+    "semetey-1-2013:p0760:b004:l016",
+    "semetey-1-2013:p0760:b004:l017",
+    "semetey-1-2013:p0760:b004:l018",
+    "semetey-1-2013:p0760:b004:l019",
+    "semetey-1-2013:p0760:b004:l020",
+    "semetey-1-2013:p0760:b004:l021",
+    "semetey-1-2013:p0760:b004:l022",
+    "semetey-1-2013:p0760:b004:l023",
+    "semetey-1-2013:p0760:b004:l024",
+    "semetey-1-2013:p0760:b004:l025",
+    "semetey-1-2013:p0760:b004:l026",
+    "semetey-1-2013:p0760:b004:l027",
+    "semetey-1-2013:p0760:b004:l029",
+    "semetey-1-2013:p0760:b004:l030",
+    "semetey-1-2013:p0760:b004:l031",
+    "semetey-1-2013:p0760:b004:l032",
+    "semetey-1-2013:p0760:b004:l033",
+    "semetey-1-2013:p0760:b004:l034",
+    "semetey-1-2013:p0760:b004:l035",
+    "semetey-1-2013:p0760:b004:l036",
+    "semetey-1-2013:p0760:b004:l037",
+    "semetey-1-2013:p0760:b004:l038",
+    "semetey-1-2013:p0760:b004:l039"
+  ],
+  "source_groups": {
+    "semetey-1-2013:p0760:b003:l019": [
+      "semetey-1-2013:p0760:b003:l019",
+      "semetey-1-2013:p0760:b003:l020"
+    ]
+  },
+  "notes": {
+    "semetey-1-2013:p0758:b003:l002": "Powerlessness belongs people hatingKobosh, notKobosh; case accКөбөштү supports nextverbжектеп.",
+    "semetey-1-2013:p0758:b003:l009": "Coordinator read primaryкун ан horse inthirdyear; preserves age without confused secondyear/yearling.",
+    "semetey-1-2013:p0758:b003:l012": "кайранdear retained ironic narrator formula despiteKobosh cruelty.",
+    "semetey-1-2013:p0758:b003:l015": "касап I butcher primary read; causative сойдурду andкасапты construed compelled butcher, bareэчки goatobject. Differentкасапwrath sense notassumed.",
+    "semetey-1-2013:p0758:b003:l032": "Yudakhin exact он эки бирге кол берген = follower of12ishans/spiritualguides, pious. No supernatural12protectors.",
+    "semetey-1-2013:p0758:b004:l005": "Source explicitly addressesAbyke despite preceding angeratKobosh; no nameharmonization.",
+    "semetey-1-2013:p0758:b004:l008": "Primaryчөлтүшүр- devastate/wreakhavoc; contextplunderingdividedwealth. No drawinglots.",
+    "semetey-1-2013:p0758:b004:l017": "карыпpoor/destitute applied towealth scattered, provisionally renderedruined; not unsupportedspend verb.",
+    "semetey-1-2013:p0758:b004:l019": "Sourceboar insult retained, no animalnarrativeinvented.",
+    "semetey-1-2013:p0758:b004:l026": "Source callsChyiyrdy mother, retained although genealogygrandmother.",
+    "semetey-1-2013:p0758:b004:l030": "каракүң slavery/lowstatuscontext; not racialskinclaim.",
+    "semetey-1-2013:p0758:b004:l038": "Sarcastic reproach retained.",
+    "semetey-1-2013:p0759:b003:l018": "Source child/age phrase restored to its own verse.",
+    "semetey-1-2013:p0759:b003:l019": "Source someone inflicts suffering and reportedthought in own verse.",
+    "semetey-1-2013:p0759:b003:l021": "Personally readYudakhinаяк exactритual кыркыпбердимчыбыгын/итаягынкечирип/кылычтынмизинаттатып; twigcuttingadoption/oath ritual, notcircumcision. PossessivefirstpersonEnglish speakerSemetey.",
+    "semetey-1-2013:p0759:b003:l023": "Primaryаякexact ritual step over dogbowl.",
+    "semetey-1-2013:p0759:b003:l024": "Primaryаякexact ritual step across swordedge.",
+    "semetey-1-2013:p0759:b004:l004": "календерwanderingdervish; glossaryasteriskretainedinrawomittedEN.",
+    "semetey-1-2013:p0759:b004:l014": "Personally readYudakhinасый countedadultyears startingfifthyear. Sixtiethadultyear not sixtyyearsbirthage. MasculineEnglish refershorseTaitoru notKanykei.",
+    "semetey-1-2013:p0759:b004:l021": "No halfcoinofgoods retained; refusalprizemoney repeatednextline.",
+    "semetey-1-2013:p0759:b004:l029": "Blackmareswhiteblaze, notraceepithet.",
+    "semetey-1-2013:p0760:b003:l003": "багалек trouserlegs, not restricted hems.",
+    "semetey-1-2013:p0760:b003:l015": "Sourcearmpulledoutanddeathnextlinesexplicit; violentoutcome preserved.",
+    "semetey-1-2013:p0760:b003:l019": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
+    "semetey-1-2013:p0760:b003:l032": "YudakhinкирIIexactкөңүлдүнкири sorrow/grievance supports troublingword.",
+    "semetey-1-2013:p0760:b003:l034": "YudakhinкыйырI3own/nativepeople; firstpersonmy retainedinsidequotedreportedaccount.",
+    "semetey-1-2013:p0760:b004:l004": "SameprimaryкирII sorrow/grievance, notliteralfilth.",
+    "semetey-1-2013:p0760:b004:l012": "Kumaiykhoundpropername; name retained followingdogdescription.",
+    "semetey-1-2013:p0760:b004:l019": "Primary Yudakhin кулаалы forestbuzzard/kite; source кулалы singlea variant retainedraw, notvulture. Narrative foster-hatching myth retained.",
+    "semetey-1-2013:p0760:b004:l020": "Source God subject/fatherrecipient kept in own line; nextsuppliesbrought.",
+    "semetey-1-2013:p0760:b004:l021": "Source encounter/favoredmeeting causative construed divinebringing; repeatedfathername retained.",
+    "semetey-1-2013:p0760:b004:l022": "Personally readYudakhinтээк4 exactfalconquotation ironclaws coppermetalplatejoiningjesses; notbeakorunidentifiedrod.",
+    "semetey-1-2013:p0760:b004:l026": "Personally reinspectedSemetey1960gloss372: Көк шал бут identifieshuntingbirdprowesswithтемгил-темгилlegmarkings,specificallyAkshumkar. Supports speckledlegs; generalYudakhinbootmeaningnotapplied.",
+    "semetey-1-2013:p0760:b004:l029": "Source negativesшукшурбас kept despitefalconpraise; no silentpositiveemendation.",
+    "semetey-1-2013:p0760:b004:l031": "Sameexplicitnegativekept, possible elliptical boast not expanded."
+  },
+  "excluded_source_ids": [
+    {
+      "id": "semetey-1-2013:p0758:b002:l001",
+      "kind": "heading",
+      "reason": "Decorative running title, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0758:b005:l001",
+      "kind": "heading",
+      "reason": "Decorative printed page folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0759:b002:l001",
+      "kind": "heading",
+      "reason": "Decorative running title, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0759:b005:l001",
+      "kind": "heading",
+      "reason": "Decorative printed page folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0760:b002:l001",
+      "kind": "heading",
+      "reason": "Decorative running title, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0760:b005:l001",
+      "kind": "heading",
+      "reason": "Decorative printed page folio, not a narrative verse."
+    },
+    {
+      "id": "semetey-1-2013:p0758:b003:l020",
+      "kind": "unresolved_source",
+      "reason": "көлпөйүп exact lexical reading not found. Related pompous/stately verbs insufficient for asserting in pomp. Wholeverse held."
+    },
+    {
+      "id": "semetey-1-2013:p0759:b003:l002",
+      "kind": "unresolved_source",
+      "reason": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs."
+    },
+    {
+      "id": "semetey-1-2013:p0759:b003:l003",
+      "kind": "unresolved_source",
+      "reason": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs."
+    },
+    {
+      "id": "semetey-1-2013:p0759:b003:l022",
+      "kind": "unresolved_source",
+      "reason": "Кыркып берген ырымын literalcutritual differsprimaryаякquote кылып бердимырымын; no silentemendation. Wholeheld."
+    },
+    {
+      "id": "semetey-1-2013:p0759:b003:l033",
+      "kind": "unresolved_source",
+      "reason": "Тегеренип биздин ал syntactic/lexicalsequenceunclear; wholeheld."
+    },
+    {
+      "id": "semetey-1-2013:p0760:b004:l006",
+      "kind": "unresolved_source",
+      "reason": "Атайы келдим буудан деп noblehorse referent andquotationpurposeunclear; wholeheld."
+    },
+    {
+      "id": "semetey-1-2013:p0760:b004:l028",
+      "kind": "unresolved_source",
+      "reason": "Көнөктөй жемден артпаган feedingamount/exceeded/leftover scopeunclear; no inventedneverfull. Wholeheld."
+    }
+  ],
+  "unresolved_source": [
+    {
+      "source_ids": [
+        "semetey-1-2013:p0758:b003:l020"
+      ],
+      "raw": [
+        "Êºëïºé¿ï Êºáºø æàòêàíäà,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0758:b003:l020",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 758,
+          "block": 3,
+          "line_in_block": 20,
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 412.8597,
+            "xMax": 240.654,
+            "yMax": 426.0477
+          },
+          "raw": "Êºëïºé¿ï Êºáºø æàòêàíäà,",
+          "text": "Көлпөйүп Көбөш жатканда,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "көлпөйүп exact lexical reading not found. Related pompous/stately verbs insufficient for asserting in pomp. Wholeverse held.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0759:b003:l002",
+        "semetey-1-2013:p0759:b003:l003"
+      ],
+      "raw": [
+        "Ýíåìäèí êóíäàêòàãû áàëàñûí",
+        "áºëº ÷ààïñû¢."
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0759:b003:l002",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 759,
+          "block": 3,
+          "line_in_block": 2,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 157.2597,
+            "xMax": 257.2224,
+            "yMax": 170.4477
+          },
+          "raw": "Ýíåìäèí êóíäàêòàãû áàëàñûí",
+          "text": "Энемдин кундактагы баласын",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p0759:b003:l003",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 759,
+          "block": 3,
+          "line_in_block": 3,
+          "bbox": {
+            "xMin": 204.48,
+            "yMin": 171.6597,
+            "xMax": 287.6652,
+            "yMax": 184.8477
+          },
+          "raw": "áºëº ÷ààïñû¢.",
+          "text": "бөлө чаапсың.",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0759:b003:l022"
+      ],
+      "raw": [
+        "Êûðêûï áåðãåí ûðûìûí,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0759:b003:l022",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 759,
+          "block": 3,
+          "line_in_block": 22,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 441.4197,
+            "xMax": 233.2944,
+            "yMax": 454.6077
+          },
+          "raw": "Êûðêûï áåðãåí ûðûìûí,",
+          "text": "Кыркып берген ырымын,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Кыркып берген ырымын literalcutritual differsprimaryаякquote кылып бердимырымын; no silentemendation. Wholeheld.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0759:b003:l033"
+      ],
+      "raw": [
+        "Òåãåðåíèï áèçäèí àë"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0759:b003:l033",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 759,
+          "block": 3,
+          "line_in_block": 33,
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 597.6597,
+            "xMax": 203.8776,
+            "yMax": 610.8477
+          },
+          "raw": "Òåãåðåíèï áèçäèí àë",
+          "text": "Тегеренип биздин ал",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Тегеренип биздин ал syntactic/lexicalsequenceunclear; wholeheld.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0760:b004:l006"
+      ],
+      "raw": [
+        "Àòàéû êåëäèì áóóäàí äåï,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0760:b004:l006",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 760,
+          "block": 4,
+          "line_in_block": 6,
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 214.1397,
+            "xMax": 467.34,
+            "yMax": 227.3277
+          },
+          "raw": "Àòàéû êåëäèì áóóäàí äåï,",
+          "text": "Атайы келдим буудан деп,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Атайы келдим буудан деп noblehorse referent andquotationpurposeunclear; wholeheld.",
+      "status": "unresolved-source-not-English-translation"
+    },
+    {
+      "source_ids": [
+        "semetey-1-2013:p0760:b004:l028"
+      ],
+      "raw": [
+        "Êºíºêòºé æåìäåí àðòïàãàí,"
+      ],
+      "source_segments": [
+        {
+          "id": "semetey-1-2013:p0760:b004:l028",
+          "source_id": "semetey-1-2013",
+          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+          "page": 760,
+          "block": 4,
+          "line_in_block": 28,
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 526.6197,
+            "xMax": 473.244,
+            "yMax": 539.8077
+          },
+          "raw": "Êºíºêòºé æåìäåí àðòïàãàí,",
+          "text": "Көнөктөй жемден артпаган,",
+          "classification": "unreviewed",
+          "transcription_status": "unreviewed",
+          "normalization": "legacy-font-v1"
+        }
+      ],
+      "reason": "Көнөктөй жемден артпаган feedingamount/exceeded/leftover scopeunclear; no inventedneverfull. Wholeheld.",
+      "status": "unresolved-source-not-English-translation"
+    }
+  ],
+  "headings": [],
+  "prose_passages": [],
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex coordinator direct translator and Codex translation-worker reviewer; no independent specialist review",
+    "date": "2026-09-14",
+    "pdf_pages": [
+      758,
+      759,
+      760
+    ],
+    "evidence": "Coordinator directly drafted all3 pages from Kyrgyz. Worker independently inspected each original page image /tmp/manas-root758-0758.png, -0759.png, -0760.png and read all232 reconstructed source-English pairs in2blocks of116. Both indented wraps confirmed; exact raw fragments and bboxes retained. Twelve revised/held pairs separately reread after primary lexical checks. Primary Yudakhin Kyrgyz-Russian dictionary and Semetey1960 Kyrgyz glossary372 used as lexical aids only. No external English poem translation used.",
+    "pair_review": "All232 pairs individually read; final 226 English verses and 6 whole holds. Preserve Semetey reproach, adoption rites, race/wrestling recollection, identity revelation and demand for inherited hound/falcon. Explicit violence, source kinship inconsistencies, oath images and negated falcon phrases retained; unresolved swaddled-child construction held rather than invent separation or fatal splitting."
+  },
+  "alignment_check": {
+    "method": "same-agent-source-English-comparison",
+    "scope": "All source-English pairs and all revised pairs individually read. Final 226 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF758–760 except3 watermarks."
+  },
+  "publication_basis": "Coordinator direct model Kyrgyz-to-English translation, reviewed and revised by translation worker against original Kyrgyz and every page image. No MT API or external English poem translation used. Kyrgyz/Russian lexical aids only; provisional translation and lineation, no expert certification.",
+  "boundary_note": "After included757:4:39; first758:3:1 completes Argyn tribute sentence. Last760:4:39 included. Next761 separately assigned.",
+  "counts": {
+    "english_verse_rows": 226,
+    "english_words": 1265,
+    "unresolved_source_rows": 6,
+    "physical_narrative_fragments": 234,
+    "reconstructed_source_verses": 232,
+    "wrapped_verse_groups": 1,
+    "nonverse_extraction_records": 6,
+    "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
+  }
+}

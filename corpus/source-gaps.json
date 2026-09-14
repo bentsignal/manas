@@ -16596,5 +16596,196 @@
       ]
     },
     "note": "санчы primary huntingassistant possible but Samarkand politicalparallel may title; markedsourceasterisk, wholeheld pendingappropriategloss."
+  },
+  {
+    "id": "semetey-1-2013:p0758:b003:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0758:b003:l019",
+    "before_id": "semetey-1-2013:p0758:b003:l021",
+    "source_line_ids": [
+      "semetey-1-2013:p0758:b003:l020"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0758-0760.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 758,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0758:b003:l020",
+          "raw": "Êºëïºé¿ï Êºáºø æàòêàíäà,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 412.8597,
+            "xMax": 240.654,
+            "yMax": 426.0477
+          }
+        }
+      ]
+    },
+    "note": "көлпөйүп exact lexical reading not found. Related pompous/stately verbs insufficient for asserting in pomp. Wholeverse held."
+  },
+  {
+    "id": "semetey-1-2013:p0759:b003:l002:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0759:b003:l001",
+    "before_id": "semetey-1-2013:p0759:b003:l004",
+    "source_line_ids": [
+      "semetey-1-2013:p0759:b003:l002",
+      "semetey-1-2013:p0759:b003:l003"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0758-0760.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 759,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0759:b003:l002",
+          "raw": "Ýíåìäèí êóíäàêòàãû áàëàñûí",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 157.2597,
+            "xMax": 257.2224,
+            "yMax": 170.4477
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0759:b003:l003",
+          "raw": "áºëº ÷ààïñû¢.",
+          "bbox": {
+            "xMin": 204.48,
+            "yMin": 171.6597,
+            "xMax": 287.6652,
+            "yMax": 184.8477
+          }
+        }
+      ]
+    },
+    "note": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs."
+  },
+  {
+    "id": "semetey-1-2013:p0759:b003:l022:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0759:b003:l021",
+    "before_id": "semetey-1-2013:p0759:b003:l023",
+    "source_line_ids": [
+      "semetey-1-2013:p0759:b003:l022"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0758-0760.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 759,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0759:b003:l022",
+          "raw": "Êûðêûï áåðãåí ûðûìûí,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 441.4197,
+            "xMax": 233.2944,
+            "yMax": 454.6077
+          }
+        }
+      ]
+    },
+    "note": "Кыркып берген ырымын literalcutritual differsprimaryаякquote кылып бердимырымын; no silentemendation. Wholeheld."
+  },
+  {
+    "id": "semetey-1-2013:p0759:b003:l033:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0759:b003:l032",
+    "before_id": "semetey-1-2013:p0759:b003:l034",
+    "source_line_ids": [
+      "semetey-1-2013:p0759:b003:l033"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0758-0760.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 759,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0759:b003:l033",
+          "raw": "Òåãåðåíèï áèçäèí àë",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 597.6597,
+            "xMax": 203.8776,
+            "yMax": 610.8477
+          }
+        }
+      ]
+    },
+    "note": "Тегеренип биздин ал syntactic/lexicalsequenceunclear; wholeheld."
+  },
+  {
+    "id": "semetey-1-2013:p0760:b004:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0760:b004:l005",
+    "before_id": "semetey-1-2013:p0760:b004:l007",
+    "source_line_ids": [
+      "semetey-1-2013:p0760:b004:l006"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0758-0760.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 760,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0760:b004:l006",
+          "raw": "Àòàéû êåëäèì áóóäàí äåï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 214.1397,
+            "xMax": 467.34,
+            "yMax": 227.3277
+          }
+        }
+      ]
+    },
+    "note": "Атайы келдим буудан деп noblehorse referent andquotationpurposeunclear; wholeheld."
+  },
+  {
+    "id": "semetey-1-2013:p0760:b004:l028:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0760:b004:l027",
+    "before_id": "semetey-1-2013:p0760:b004:l029",
+    "source_line_ids": [
+      "semetey-1-2013:p0760:b004:l028"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0758-0760.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 760,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0760:b004:l028",
+          "raw": "Êºíºêòºé æåìäåí àðòïàãàí,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 526.6197,
+            "xMax": 473.244,
+            "yMax": 539.8077
+          }
+        }
+      ]
+    },
+    "note": "Көнөктөй жемден артпаган feedingamount/exceeded/leftover scopeunclear; no inventedneverfull. Wholeheld."
   }
 ]

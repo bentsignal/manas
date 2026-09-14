@@ -2963,5 +2963,166 @@
       ]
     },
     "note": "Караңгы жайдак көчү бар: precise dark/bareback caravan or figurative threat sense and attachment to Umotoy unclear. Whole verse withheld instead of invented destitution, illiteracy or armed reprisal."
+  },
+  {
+    "id": "semetey-1-2013:p0156:b004:l028:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0156:b004:l027",
+    "before_id": "semetey-1-2013:p0156:b004:l029",
+    "source_line_ids": [
+      "semetey-1-2013:p0156:b004:l028"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0156-0175.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 156,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0156:b004:l028",
+          "raw": "Áóóëóìó¢ áóëàï î¢îëîò,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 526.6197,
+            "xMax": 450.0204,
+            "yMax": 539.8077
+          }
+        }
+      ]
+    },
+    "note": "Whole verse provisionally unresolved: Буулумуң булап оңолот. Буулум expensive cloth/clothing Yudakhin https://el-sozduk.kg/буулум/; була may spread/bloom or plunder https://el-sozduk.kg/була/. Exact fabric/fortune/child referent and verb connection not yet resolved; no fabricated full-English verse."
+  },
+  {
+    "id": "semetey-1-2013:p0159:b003:l010:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0159:b003:l009",
+    "before_id": "semetey-1-2013:p0159:b003:l011",
+    "source_line_ids": [
+      "semetey-1-2013:p0159:b003:l010"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0156-0175.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 159,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0159:b003:l010",
+          "raw": "Êûëû÷òûí êûëäóó ìûêòóóñó –",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 271.0197,
+            "xMax": 267.5604,
+            "yMax": 284.2077
+          }
+        }
+      ]
+    },
+    "note": "Whole verse unresolved: Кылычтын кылдуу мыктуусу. Кылдуу dictionary hairy/stringed does not resolve specific sword-quality term; no unsupported hair-fine edge/pattern speculation inserted. Raw text preserved for later specialist reading."
+  },
+  {
+    "id": "semetey-1-2013:p0160:b004:l009:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0160:b004:l008",
+    "before_id": "semetey-1-2013:p0160:b004:l011",
+    "source_line_ids": [
+      "semetey-1-2013:p0160:b004:l009",
+      "semetey-1-2013:p0160:b004:l010"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0156-0175.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 160,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0160:b004:l009",
+          "raw": "Êåñåê èòòåð Òàëàñòàí áóçäó",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 256.8597,
+            "xMax": 472.488,
+            "yMax": 270.0477
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0160:b004:l010",
+          "raw": "ñàðòûìäû,",
+          "bbox": {
+            "xMin": 452.16,
+            "yMin": 271.0197,
+            "xMax": 516.084,
+            "yMax": 284.2077
+          }
+        }
+      ]
+    },
+    "note": "Whole wrapped verse unresolved: Кесек иттер Таластан бузду сартымды. Сартымды possessive Sart/other lexical possibility unresolved; do not silently emend to салтымды custom or шартымды circumstances. Both exact source fragments retained."
+  },
+  {
+    "id": "semetey-1-2013:p0164:b003:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0164:b003:l035",
+    "before_id": "semetey-1-2013:p0164:b003:l037",
+    "source_line_ids": [
+      "semetey-1-2013:p0164:b003:l036"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0156-0175.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 164,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0164:b003:l036",
+          "raw": "Êûéðàòûï áóçãàí êº÷¿ áàð,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 640.1397,
+            "xMax": 240.6864,
+            "yMax": 653.3277
+          }
+        }
+      ]
+    },
+    "note": "Whole verse excluded pending reading of Кыйратып бузган көчү бар. Literal wrecking/destroying plus migration/caravan does not establish who ruined whose movement; no speculative political conquest substituted."
+  },
+  {
+    "id": "semetey-1-2013:p0175:b004:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0175:b004:l035",
+    "before_id": "semetey-1-2013:p0175:b004:l037",
+    "source_line_ids": [
+      "semetey-1-2013:p0175:b004:l036"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0156-0175.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 175,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0175:b004:l036",
+          "raw": "Óáàãåð òºðºì, êîëäî!» – äåï,–",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 640.1397,
+            "xMax": 484.9932,
+            "yMax": 653.3277
+          }
+        }
+      ]
+    },
+    "note": "Whole verse withheld: Убагер honorific before төрөм unresolved in primary lexical aids. Do not silently omit adjective or invent great/merciful/divine. Other parts mean my lord, support me but not counted as complete English verse."
   }
 ]

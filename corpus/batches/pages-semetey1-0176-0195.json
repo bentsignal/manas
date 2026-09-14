@@ -1723,7 +1723,8 @@
     "semetey-1-2013:p0194:b004:l038": "көзүн тазалоо eliminate/kill idiom in threat following seize all; not literal eye-cleaning medical scene.",
     "semetey-1-2013:p0195:b003:l017": "Ten companions and their blessing printed, not harmonized to four caliphs or seven saints from earlier descriptions.",
     "semetey-1-2013:p0195:b005:l008": "зарып=сарып exact Yudakhin headword; spend/expend in wealth and opening-treasury context, no raw spelling change.",
-    "semetey-1-2013:p0195:b005:l023": "Distinguishes Manas memorial feast for those who know his fame from sons celebration for unknowing/feeble-minded people; no silent removal of double purpose."
+    "semetey-1-2013:p0195:b005:l023": "Distinguishes Manas memorial feast for those who know his fame from sons celebration for unknowing/feeble-minded people; no silent removal of double purpose.",
+    "semetey-1-2013:p0191:b003:l036": "Narrator explicitly repeats Manas's death and Kanykey's mourning before and after this account of flight and survival in Bukhara; bereaved fits direct context. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
   },
   "excluded_source_ids": [
     {
@@ -2372,7 +2373,7 @@
   ],
   "counts": {
     "translated_verse_rows": 1535,
-    "english_words": 8694,
+    "english_words": 8693,
     "translated_source_fragments": 1548,
     "physical_narrative_fragments": 1559,
     "reconstructed_source_verses": 1545,
@@ -2477,7 +2478,7 @@
       {
         "page": 191,
         "verse_rows": 78,
-        "english_words": 454,
+        "english_words": 453,
         "source_fragments": 78
       },
       {

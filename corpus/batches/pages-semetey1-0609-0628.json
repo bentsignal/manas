@@ -1478,12 +1478,14 @@
     "semetey-1-2013:p0628:b003:l022",
     "semetey-1-2013:p0628:b003:l023",
     "semetey-1-2013:p0628:b003:l025",
+    "semetey-1-2013:p0628:b003:l026",
     "semetey-1-2013:p0628:b003:l027",
     "semetey-1-2013:p0628:b003:l029",
     "semetey-1-2013:p0628:b003:l030",
     "semetey-1-2013:p0628:b003:l032",
     "semetey-1-2013:p0628:b003:l033",
     "semetey-1-2013:p0628:b003:l034",
+    "semetey-1-2013:p0628:b003:l036",
     "semetey-1-2013:p0628:b003:l038",
     "semetey-1-2013:p0628:b003:l039",
     "semetey-1-2013:p0628:b004:l001",
@@ -1577,6 +1579,10 @@
     "semetey-1-2013:p0628:b004:l013": [
       "semetey-1-2013:p0628:b004:l013",
       "semetey-1-2013:p0628:b004:l014"
+    ],
+    "semetey-1-2013:p0628:b003:l036": [
+      "semetey-1-2013:p0628:b003:l036",
+      "semetey-1-2013:p0628:b003:l037"
     ]
   },
   "notes": {
@@ -1714,7 +1720,9 @@
     "semetey-1-2013:p0628:b004:l013": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0628:b004:l023": "Andijan conventional name matches source Анжыян, no distinct second destination.",
     "semetey-1-2013:p0628:b004:l036": "Zhanaaly and Khan Karach naming kept provisional as written; exact identity/title relationship not expanded. Rivalry continues on629.",
-    "semetey-1-2013:p0628:b004:l039": "Graphic reciprocal warfare retained; continues next page, no invented ending."
+    "semetey-1-2013:p0628:b004:l039": "Graphic reciprocal warfare retained; continues next page, no invented ending.",
+    "semetey-1-2013:p0628:b003:l026": "Yudakhin эки: эки болбойсуң или дүйнөдө эки болбойсуң не видать тебе добра; ты плохо кончишь; эгерде эки болбой кал! чтоб тебе никогда не видать добра! Exact generosity parallel көп дүйнөмдү аясам, эгерде эки боломбу? Conditional62825 if I hurt your feelings, self-curse26. Independent full primary entry read; no literal descendants interpretation. Root separately read the full628 page image, all left-column context, and exact primary dictionary entries; no source emendation. Draft interpretation, no specialist review.",
+    "semetey-1-2013:p0628:b003:l036": "Primary Yudakhin өгөө I подпилок, напильник; өгөөгө бергис бүлөө бар, өкөөгө бергис бирөө бар: whetstone not exchanged for file, one not exchanged for two. Source628 previous grouped34–35 leave two/take one directly parallels this; same pair repeats current66123–24. Deliberate proverbial precious-object offer strongest; keep literal implements, not family polysemy. Full628image personally inspected in frozen batch; full661image individually inspected this batch. Root separately read the full628 page image, all left-column context, and exact primary dictionary entries; no source emendation. Draft interpretation, no specialist review."
   },
   "excluded_source_ids": [
     {
@@ -2076,21 +2084,6 @@
       "id": "semetey-1-2013:p0628:b003:l024",
       "kind": "unresolved_source",
       "reason": "Whole verse held: Баатырым, дик бусурман болбоюн. Muslim oath clear but дик exact reading unresolved; no silent дин substitution."
-    },
-    {
-      "id": "semetey-1-2013:p0628:b003:l026",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Мен эгерде эки болбоюн! Oath syntax clear but become two semantic implication not securely resolved; no invented death/descent curse."
-    },
-    {
-      "id": "semetey-1-2013:p0628:b003:l036",
-      "kind": "unresolved_source",
-      "reason": "Whole grouped verse held: Манас кан, өгөөмдү таштап, бүлөөмдү ал. өгөө file and бүлөө sharpening stone/family polysemy does not secure this oath; no silent family substitution."
-    },
-    {
-      "id": "semetey-1-2013:p0628:b003:l037",
-      "kind": "unresolved_source",
-      "reason": "Whole grouped verse held: Манас кан, өгөөмдү таштап, бүлөөмдү ал. өгөө file and бүлөө sharpening stone/family polysemy does not secure this oath; no silent family substitution."
     }
   ],
   "unresolved_source": [
@@ -2899,89 +2892,6 @@
       ],
       "reason": "Whole verse held: Баатырым, дик бусурман болбоюн. Muslim oath clear but дик exact reading unresolved; no silent дин substitution.",
       "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0628:b003:l026"
-      ],
-      "raw": [
-        "Ìåí ýãåðäå ýêè áîëáîþí!"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0628:b003:l026",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 628,
-          "block": 3,
-          "line_in_block": 26,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 498.2997,
-            "xMax": 224.268,
-            "yMax": 511.4877
-          },
-          "raw": "Ìåí ýãåðäå ýêè áîëáîþí!",
-          "text": "Мен эгерде эки болбоюн!",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Мен эгерде эки болбоюн! Oath syntax clear but become two semantic implication not securely resolved; no invented death/descent curse.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0628:b003:l036",
-        "semetey-1-2013:p0628:b003:l037"
-      ],
-      "raw": [
-        "Ìàíàñ êàí, ºãººìä¿ òàøòàï,",
-        "á¿ëººìä¿ àë,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0628:b003:l036",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 628,
-          "block": 3,
-          "line_in_block": 36,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 640.1397,
-            "xMax": 244.5036,
-            "yMax": 653.3277
-          },
-          "raw": "Ìàíàñ êàí, ºãººìä¿ òàøòàï,",
-          "text": "Манас кан, өгөөмдү таштап,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        },
-        {
-          "id": "semetey-1-2013:p0628:b003:l037",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 628,
-          "block": 3,
-          "line_in_block": 37,
-          "bbox": {
-            "xMin": 209.76,
-            "yMin": 654.2997,
-            "xMax": 284.964,
-            "yMax": 667.4877
-          },
-          "raw": "á¿ëººìä¿ àë,",
-          "text": "бүлөөмдү ал,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole grouped verse held: Манас кан, өгөөмдү таштап, бүлөөмдү ал. өгөө file and бүлөө sharpening stone/family polysemy does not secure this oath; no silent family substitution.",
-      "status": "unresolved-source-not-English-translation"
     }
   ],
   "headings": [],
@@ -3013,20 +2923,20 @@
       628
     ],
     "evidence": "Individually inspected all 20 Poppler page images /tmp/semetey1-volta-0609-0628/page-0609.png through page-0628.png, scale1600. Read left column then right column. All running titles, folios and printer signatures classified; all indented continuations grouped, preserving exact raw glyphs, IDs and bboxes. No fixed row assumption. Primary Kyrgyz/Russian Yudakhin dictionary and Kyrgyz editorial glossaries used only as lexical aids. No previous English poem translation used.",
-    "pair_review": "All 1546 reconstructed Kyrgyz-English pairs read in source order: eight blocks of160 and final266. All eight revised/restored pairs subsequently reread against exact Kyrgyz. 28 whole unresolved verses excluded from English with complete source fragments and precise reasons. Every repetition retained. Narrative covers Manas cave tomb, mourning, identification of afterlife companions, campaign retrospection, Saikal duel and otherworld marriage, Koenaaly farewell and Kokboru journey. Miraculous claims, violent acts, hostile epithets, numbers and source inconsistencies preserved as narration; no expert certification."
+    "pair_review": "All 1546 reconstructed Kyrgyz-English pairs read in source order: eight blocks of160 and final266. All eight revised/restored pairs subsequently reread against exact Kyrgyz. 28 whole unresolved verses excluded from English with complete source fragments and precise reasons. Every repetition retained. Narrative covers Manas cave tomb, mourning, identification of afterlife companions, campaign retrospection, Saikal duel and otherworld marriage, Koenaaly farewell and Kokboru journey. Miraculous claims, violent acts, hostile epithets, numbers and source inconsistencies preserved as narration; no expert certification. Root subsequently restored and reread628:3:26 and grouped36–37 from exact primary idiom/proverb;26 whole verses remain unresolved."
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1518 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF609–628 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1520 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF609–628 except20 watermarks."
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1518,
-    "english_words": 8345,
-    "unresolved_source_rows": 28,
+    "english_verse_rows": 1520,
+    "english_words": 8358,
+    "unresolved_source_rows": 26,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1546,
-    "wrapped_verse_groups": 13,
+    "wrapped_verse_groups": 14,
     "nonverse_extraction_records": 46,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   }

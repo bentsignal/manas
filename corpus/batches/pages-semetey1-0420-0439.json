@@ -2883,7 +2883,7 @@
     "semetey-1-2013:p0433:b005:l035": "Forty guards and all forty unhorsed retained explicitly; no inaccurate shortcut many.",
     "semetey-1-2013:p0433:b005:l038": "Керик rhinoceros established primary; keep fanciful mount, not horse.",
     "semetey-1-2013:p0434:b003:l004": "Broad-belt edge and lungs mark intended strike location; retained separately without invented exact organ injury.",
-    "semetey-1-2013:p0434:b003:l012": "Printed муштап fist-striking retained although following spear breaks; no silent verb replacement to smooth apparent contradiction.",
+    "semetey-1-2013:p0434:b003:l012": "Primary Yudakhin мушта- explicitly includes striking with a weapon, including a spear or knife, as well as fist-striking. In this spear duel, rendered a reaching strike without adding a fist; printed Kyrgyz unchanged. Cached primary sources/raw/yudakhin-2015.pdf, lexical provenance research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0434:b003:l017": "Атым катын woman by name, not horse became woman.",
     "semetey-1-2013:p0434:b003:l022": "Steel tread belongs stirrup, not soles of horse.",
     "semetey-1-2013:p0434:b003:l025": "Alternating consciousness repeated separate verses retained.",
@@ -3040,7 +3040,7 @@
   },
   "counts": {
     "english_verse_rows": 1531,
-    "english_words": 8471,
+    "english_words": 8469,
     "unresolved_source_rows": 18,
     "physical_narrative_fragments": 1561,
     "reconstructed_source_verses": 1549,
@@ -3054,7 +3054,7 @@
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
     "source_words": 5078,
-    "english_words": 8471,
+    "english_words": 8469,
     "all_source_verse_words": 5137
   }
 }

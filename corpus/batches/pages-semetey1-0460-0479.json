@@ -935,6 +935,7 @@
     "semetey-1-2013:p0472:b003:l002",
     "semetey-1-2013:p0472:b003:l003",
     "semetey-1-2013:p0472:b003:l004",
+    "semetey-1-2013:p0472:b003:l005",
     "semetey-1-2013:p0472:b003:l006",
     "semetey-1-2013:p0472:b003:l007",
     "semetey-1-2013:p0472:b003:l008",
@@ -1749,6 +1750,7 @@
     "semetey-1-2013:p0471:b004:l028": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
     "semetey-1-2013:p0471:b004:l030": "Seven days, then nine in32, and later forty-one/sixty retained as narrated; not chronology harmonization.",
     "semetey-1-2013:p0471:b004:l037": "калайман disorder/disaster; she avoids further catastrophe while refusing abandonment. Slightly qualified negative wording retained.",
+    "semetey-1-2013:p0472:b003:l005": "Whole verse restored after personally re-inspecting PDF472 image and reading exact primary Yudakhin амыз = намыс, амызым кантип берейин (how could I surrender my honor), амыз үчүн эл үчүн. Амызымдан is honor+my+ablative, not an emendation; тырыштым struggled/strove. Kanykei refuses to abandon Manas to decapitation and thus struggles for her honor. Original source unchanged.",
     "semetey-1-2013:p0472:b003:l017": "Kaiypchy retained as the source mountain attribution; no external geographical identification.",
     "semetey-1-2013:p0472:b003:l019": "Primary Yudakhin борчук rocky pinnacle/projection, not horse Akborchuk here.",
     "semetey-1-2013:p0472:b003:l020": "өлгөндө difficulty to death’s threshold, not nursing a corpse.",
@@ -2091,11 +2093,6 @@
       "reason": "Whole verse unresolved: Кара кылчу огой жок. No one to rely on likely frame; огой lacks secure lexical/ethnonym identification; not silently corrected to Nogoi or translated as kin."
     },
     {
-      "id": "semetey-1-2013:p0472:b003:l005",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Амызымдан тырыштым; struggled/strained clear, амызымдан not securely interpreted or emended to намысымдан."
-    },
-    {
       "id": "semetey-1-2013:p0472:b003:l023",
       "kind": "unresolved_source",
       "reason": "Whole verse unresolved: Калдай башым туу кылып. Making head/self a banner clear, калдай not securely interpreted in first-person Kanykei clause. Prior governor simile withdrawn rather than asserting ungrounded office analogy."
@@ -2239,37 +2236,6 @@
         }
       ],
       "reason": "Whole verse unresolved: Кара кылчу огой жок. No one to rely on likely frame; огой lacks secure lexical/ethnonym identification; not silently corrected to Nogoi or translated as kin.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0472:b003:l005"
-      ],
-      "raw": [
-        "Àìûçûìäàí òûðûøòûì."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0472:b003:l005",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 472,
-          "block": 3,
-          "line_in_block": 5,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 199.9797,
-            "xMax": 224.3052,
-            "yMax": 213.1677
-          },
-          "raw": "Àìûçûìäàí òûðûøòûì.",
-          "text": "Амызымдан тырыштым.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Амызымдан тырыштым; struggled/strained clear, амызымдан not securely interpreted or emended to намысымдан.",
       "status": "unresolved-source-not-English-translation"
     },
     {
@@ -2426,17 +2392,17 @@
       479
     ],
     "evidence": "Individually inspected all20 Poppler page images /tmp/semetey1-volta-0460-0479/page-0460.png through page-0479.png, scale1600. Read every left column then every right column. Classified all running titles, folios and printer signatures. Every indented continuation reconstructed as its own grouped verse. Exact raw PDF glyphs, bboxes, source IDs and legacy-font-v1 normalization preserved through source_evidence builder. No fixed row assumption. Primary Kyrgyz/Russian Yudakhin dictionary and Kyrgyz editorial glossaries used as lexical aids only. Individually reinspected Semetey1960 glossary374/375 this batch; prior glossary1842 supports mighty-conqueror epithet. Primary Kyrgyz encyclopedia209–210 exact Baran enemy ethnonym and primary Kyrgyz Manas2010 parallels for milek and Korogoch read. No previous English poem translation used.",
-    "pair_review": "All 1548 reconstructed Kyrgyz-English pairs read in order in ten consecutive blocks (nine blocks of160 and final108). All66 subsequent revised pairs reread against exact Kyrgyz, plus one final wording correction reread. Earlier lexical/alignment revisions included in full review. 9 whole unresolved verses remain separately excluded from English with complete fragments and reasons. Every repetition retained. Kanykei narrates the poisoning of Manas, his missing companions, Akayar rescuing him, her own battle and wounds, the medicine and long nursing, her responsibility for deaths, Kozkaman looting Talas, and Kyrgylchal finding Akayar then rebuking the companions at play. Source numbers, chronology tensions, violence, religious statements, epic medicine claims, source name variants and speaker shifts preserved without specialist certification."
+    "pair_review": "All 1548 reconstructed Kyrgyz-English pairs read in order in ten consecutive blocks (nine blocks of160 and final108). All66 subsequent revised pairs reread against exact Kyrgyz, plus one final wording correction and one subsequently restored verse reread. Earlier lexical/alignment revisions included in full review. 8 whole unresolved verses remain separately excluded from English with complete fragments and reasons. Every repetition retained. Kanykei narrates the poisoning of Manas, his missing companions, Akayar rescuing him, her own battle and wounds, the medicine and long nursing, her responsibility for deaths, Kozkaman looting Talas, and Kyrgylchal finding Akayar then rebuking the companions at play. Source numbers, chronology tensions, violence, religious statements, epic medicine claims, source name variants and speaker shifts preserved without specialist certification."
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1539 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF460–479 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1540 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF460–479 except20 watermarks."
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1539,
-    "english_words": 8582,
-    "unresolved_source_rows": 9,
+    "english_verse_rows": 1540,
+    "english_words": 8587,
+    "unresolved_source_rows": 8,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1548,
     "wrapped_verse_groups": 12,

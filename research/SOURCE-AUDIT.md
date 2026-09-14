@@ -132,3 +132,7 @@ Following the request to publish as translation proceeds, the reader now inserts
 ## Draft checkpoint through PDF page376
 
 17,270 draft lines /96,885 English words compiled; 17,414 draft lines /97,715 English words saved including397–399. Root397–399 has all144 verse rows visually compared and source/English aligned; twelve-guides interpretive reading at399:l020 explicitly noted. Pages377–396 remain assigned, so397–399 is not yet appended. All full-source limitations remain.
+
+## Draft checkpoint through PDF page419
+
+19,329 draft English lines /108,398 English words compiled; 19,455 lines /109,125 words saved including460–462. Every source display row through419 accounted for in alignment audit, with two explicit unresolved regions. Root460–462 was directly translated with all126 lines visually compared and aligned. No certified500,553verse source or independent expert review claimed.

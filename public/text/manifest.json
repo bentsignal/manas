@@ -1,12 +1,12 @@
 {
-  "version": "1b0c5a63aad0d6fb",
+  "version": "266851ec6d74d6a5",
   "target": 500553,
-  "released": 17270,
-  "englishWords": 96885,
+  "released": 19329,
+  "englishWords": 108398,
   "reviewed": 0,
   "complete": false,
   "perPart": {
-    "manas": 17270,
+    "manas": 19329,
     "semetey": 0,
     "seytek": 0,
     "continuations": 0

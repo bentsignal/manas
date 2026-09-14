@@ -41,3 +41,9 @@ Speak.tatar section 02 repeats the same complete line and the next three lines. 
 ## Other acquisition from this search
 
 `https://cdn-1.aki.kg/st_bilimlib/8/6ba4d8da68bdb70850cc2e35ec861c0213e5b51f.pdf` was downloaded under `sources/raw/manas-aki-candidate.pdf` (34,770,598 bytes; SHA-256 `68bc80c49971f65cf755f6ef4d49e22396d9ca913b53b1f18aace29563f74178`). Despite the initial search context, visual inspection identifies **Seytek, Karalaev's variant**, not Manas. Title page says Frunze, Adabiyat, 1991; bibliographic page says 1990, 352 printed pages, ISBN 5-660-00194-7. Local text extraction is empty; it is an image scan requiring OCR/transcription. No completeness or additional verse coverage is inferred. Metadata for both acquired files was appended only to `research/source-candidates.json`.
+
+## Page243:l006 English correction
+
+Changed “All the strength of the Almighty” to “All the strength he had”. Yudakhin бардигер/бардыгер means all available and cites this exact strength-gathering formula: https://el-sozduk.kg/БАРД/. Kyrgyz witness and ID unchanged.
+
+The same formula correction applies at123:l038: “When the Almighty exerted His power,” becomes “When they used all their strength,”. The 2015 dictionary quotes this exact two-line passage about children being seized.

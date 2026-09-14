@@ -120,3 +120,7 @@ Following the request to publish as translation proceeds, the reader now inserts
 ## Draft checkpoint through PDF page313
 
 14,253 draft lines /80,102 English words in the compiled release candidate; 14,397 draft lines /80,913 English words saved including354–356. Source-order audit passes; two unresolved regions remain uncounted. Root directly translated354–356 with visual PDF and dictionary checks. Compiler now regenerates corpus/progress.json to prevent stale line/word totals; deployed status requires separate HTTP verification.
+
+## Draft checkpoint through PDF page333
+
+15,213 English draft lines /85,495 English words prepared for publication; 15,357 lines /86,306 words saved including354–356. Dictionary-backed corrections at123:l038 and243:l006 remove mistaken Almighty readings of бардыгер; details in TEXTUAL-CORRECTIONS.md. Alignment audit accounts for every source display row through333, with two explicit unresolved regions still uncounted.

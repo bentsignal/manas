@@ -1,7 +1,7 @@
 {
   "format": "manas-release-shards-v1",
-  "rows": 48381,
-  "sha256": "9a28a25d6ec9302d8495d67fea865f857e603e0cf82e186065eabf51fa62bc6e",
+  "rows": 55586,
+  "sha256": "647b5860db47ab4a1d795ea5161f9ec545401e86dd36ff47cd2b9f62c04d522a",
   "chunks": [
     {
       "file": "9cc08538c662f72f1e152c4f2f4beed09f444e19e2be0571781d6f98a11aed3b.jsonl",
@@ -48,7 +48,7 @@
       "rows": 1000
     },
     {
-      "file": "1cd9c851a9d318c85fded3bc0fdf8a6cef3cea6ff222053c30d44c8f724dca16.jsonl",
+      "file": "2a88f38bb43a197d2b854b1b77c55e8813d40d703e02da677dff5d4c66c1a9be.jsonl",
       "rows": 1000
     },
     {
@@ -76,7 +76,7 @@
       "rows": 1000
     },
     {
-      "file": "a7e4f6ef949159f72fb1b5e0944b6cd8d443128f012c8ff477ee82b0cdce614c.jsonl",
+      "file": "f702fc8082968a88667f4630a17308d175073ffc23553067dbe92ec7ac2c6625.jsonl",
       "rows": 1000
     },
     {
@@ -196,8 +196,36 @@
       "rows": 1000
     },
     {
-      "file": "b9b950934e8329ca7989bd9e43241d837ee703c1bcdff5080c5940d2cec74ef6.jsonl",
-      "rows": 381
+      "file": "111d0ecd367e76ed848020430a5d35abb93d4a4f6ee124239c148d2dc5821df0.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "606f5d30ceeede266932ad542b10632b1e159c309dd707a42f7d68c5cb262672.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "94f8be2ac7be0c96e3d1ac9eb3cfc97fe7dc1607b7563b5787b15686b16e718d.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "4c2d1105f834b81a71102288bbba47e6c0898ada1999ab8d2274a5179ef48c0f.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "19155d0ad2cdbc89ad5ef220e8826118499aa190679df749e373dacb13502c68.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "07a87bfc22fd73a6ee6fc1b1a8dad7efcaec1e5d51174fc17ed8ac643f726c73.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "e7c7db9fc289c4ad1046a7a81d5ae3b605817e10810599e5d7514e91f690ddd3.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "9439cd06cb54682c1ab05c034b04694b380c7760135f8f2f47a1b9411cd1ba0f.jsonl",
+      "rows": 586
     }
   ]
 }

@@ -620,5 +620,335 @@
       ]
     },
     "note": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately."
+  },
+  {
+    "id": "manas-2010:p1116:b001:l042:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1116:b001:l041",
+    "before_id": "manas-2010:p1117:b001:l001",
+    "source_line_ids": [
+      "manas-2010:p1116:b001:l042"
+    ],
+    "evidence": "corpus/batches/pages-1111-1130.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1116,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1116:b001:l042",
+          "raw": "Уй күрөң тартып жөнөлүп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 752.712,
+            "xMax": 347.28,
+            "yMax": 767.964
+          }
+        }
+      ]
+    },
+    "note": "Уй күрөң тартып phrase unresolved: dictionary күрөң brown and уй cattle do not establish this horse-motion/color formula. Literal ox-brown draft not accepted as full translation; no speculative gait or color change inserted."
+  },
+  {
+    "id": "manas-2010:p1137:b001:l037:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1137:b001:l036",
+    "before_id": "manas-2010:p1137:b001:l038",
+    "source_line_ids": [
+      "manas-2010:p1137:b001:l037"
+    ],
+    "evidence": "corpus/batches/pages-1131-1150.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1137,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1137:b001:l037",
+          "raw": "Аркардын эти өктөдөн.",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 668.472,
+            "xMax": 331.464,
+            "yMax": 683.724
+          }
+        }
+      ]
+    },
+    "note": "Whole line unresolved: өктөдөн is not verified as a place, slope, or an intelligible construction here. Yudakhin өктө denotes frustrated desire or regret; its relation to the wild sheep's meat in this formula remains unclear. No guessed landscape, invented proper name, or silent correction counted as English."
+  },
+  {
+    "id": "manas-2010:p1144:b001:l035:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1144:b001:l034",
+    "before_id": "manas-2010:p1144:b001:l036",
+    "source_line_ids": [
+      "manas-2010:p1144:b001:l035"
+    ],
+    "evidence": "corpus/batches/pages-1131-1150.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1144,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1144:b001:l035",
+          "raw": "Жантак менен сыр жыгач,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 634.872,
+            "xMax": 345.48,
+            "yMax": 650.124
+          }
+        }
+      ]
+    },
+    "note": "Whole line unresolved: жантак is camelthorn, but сыр жыгач has no verified botanical or contextual reading here. Dictionary сыр can mean paint/polish, which does not establish the camel's browse. Neither generic brushwood nor a correction to сары жыгач is silently supplied."
+  },
+  {
+    "id": "manas-2010:p1146:b001:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1146:b001:l030",
+    "before_id": "manas-2010:p1146:b001:l032",
+    "source_line_ids": [
+      "manas-2010:p1146:b001:l031"
+    ],
+    "evidence": "corpus/batches/pages-1131-1150.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1146,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1146:b001:l031",
+          "raw": "Ичкенин боюн төтөлөп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 567.432,
+            "xMax": 333.36,
+            "yMax": 582.684
+          }
+        }
+      ]
+    },
+    "note": "Whole line unresolved: printed Ичкенин боюн төтөлөп does not yield a defensible complete reading in the returning horse scene. A riverbank is suggested by the setting but no river named Ichken is verified; no invented proper name or silent substitution for Ичкенин counted as English."
+  },
+  {
+    "id": "manas-2010:p1151:b001:l001:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1150:b001:l042",
+    "before_id": "manas-2010:p1151:b001:l002",
+    "source_line_ids": [
+      "manas-2010:p1151:b001:l001"
+    ],
+    "evidence": "corpus/batches/pages-1151-1170.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1151,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1151:b001:l001",
+          "raw": "Кулактары мистеген,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 62.112,
+            "xMax": 319.2,
+            "yMax": 77.364
+          }
+        }
+      ]
+    },
+    "note": "Visible мистеген has no established verb reading in the checked edition glossary, primary dictionaries, or same-witness searches. Мисте pistachio / мистедей slender does not establish this form. Entire verse excluded from translated line and word totals. Raw preserved; no invented ear shape."
+  },
+  {
+    "id": "manas-2010:p1182:b001:l030:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1182:b001:l029",
+    "before_id": "manas-2010:p1182:b001:l031",
+    "source_line_ids": [
+      "manas-2010:p1182:b001:l030"
+    ],
+    "evidence": "corpus/batches/pages-1177-1196.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1182,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1182:b001:l030",
+          "raw": "Алты айчылык берерге",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 550.632,
+            "xMax": 330.336,
+            "yMax": 565.884
+          }
+        }
+      ]
+    },
+    "note": "Readable Алты айчылык берерге has unresolved syntax/meaning: six months of travel/extent plus to give does not establish a coherent relation to the executioner Chinese on the following line. No speculative береки/берки correction. Entire verse preserved separately; literal gloss is not accepted as English translation."
+  },
+  {
+    "id": "manas-2010:p1200:b001:l035:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1200:b001:l034",
+    "before_id": "manas-2010:p1200:b001:l036",
+    "source_line_ids": [
+      "manas-2010:p1200:b001:l035"
+    ],
+    "evidence": "corpus/batches/pages-1197-1216.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1200,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1200:b001:l035",
+          "raw": "Темир залдуу көпүрө",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 634.872,
+            "xMax": 321.2892,
+            "yMax": 650.124
+          }
+        }
+      ]
+    },
+    "note": "Whole line unresolved: темир is iron and көпүрө bridge, but залдуу has no verified construction sense here. Primary зал entries give hall or rock salt, which do not establish iron-framed, iron-cabled, or iron-rafted. Those interpretations would require unsupported emendation or omission; raw and transliteration preserved, not counted as English."
+  },
+  {
+    "id": "manas-2010:p1241:b001:l022:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1241:b001:l021",
+    "before_id": "manas-2010:p1241:b001:l023",
+    "source_line_ids": [
+      "manas-2010:p1241:b001:l022"
+    ],
+    "evidence": "corpus/batches/pages-1240-1242.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1241,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1241:b001:l022",
+          "raw": "«Кемпиринин чети, - деп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 415.872,
+            "xMax": 343.56,
+            "yMax": 431.124
+          }
+        }
+      ]
+    },
+    "note": "Printed Кемпиринин чети legible, but old woman’s edge and samovar burner senses (Yudakhin https://el-sozduk.kg/кемпир/) do not establish combat body/armor target. No verified kemer belt emendation or anatomy invented. Whole verse withheld from English, exact raw preserved."
+  },
+  {
+    "id": "manas-2010:p1253:b001:l004:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1253:b001:l003",
+    "before_id": "manas-2010:p1253:b001:l005",
+    "source_line_ids": [
+      "manas-2010:p1253:b001:l004"
+    ],
+    "evidence": "corpus/batches/pages-1243-1262.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1253,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1253:b001:l004",
+          "raw": "Алгазардай Коңурбай",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 112.632,
+            "xMax": 324.2508,
+            "yMax": 127.884
+          }
+        }
+      ]
+    },
+    "note": "Алгазардай comparison unresolved: Algazar/Algazar-like lacks verified dictionary sense or character identification; no proper-name status assumed merely from initial capitalization. Partial transliteration is not accepted English translation."
+  },
+  {
+    "id": "manas-2010:p1255:b001:l033:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1255:b001:l032",
+    "before_id": "manas-2010:p1255:b001:l034",
+    "source_line_ids": [
+      "manas-2010:p1255:b001:l033"
+    ],
+    "evidence": "corpus/batches/pages-1243-1262.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1255,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1255:b001:l033",
+          "raw": "Кыймалуу жагдан чалдырып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 601.152,
+            "xMax": 362.64,
+            "yMax": 616.404
+          }
+        }
+      ]
+    },
+    "note": "кыймалуу жагдан ornamented iron-covered chest is established, but чалдырып and its relation to feared live capture/gift are unresolved. No supported coffin, chest-making or transportation interpretation; entire readable verse preserved separately."
+  },
+  {
+    "id": "manas-2010:p1272:b001:l034:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1272:b001:l033",
+    "before_id": "manas-2010:p1272:b001:l035",
+    "source_line_ids": [
+      "manas-2010:p1272:b001:l034"
+    ],
+    "evidence": "corpus/batches/pages-1263-1282.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1272,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1272:b001:l034",
+          "raw": "Бөйкү деген төлгөсүн",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 617.952,
+            "xMax": 321.78,
+            "yMax": 633.204
+          }
+        }
+      ]
+    },
+    "note": "Бөйкү in the named divination expression remains unverified: төлгө is divination, but neither a primary lexical sense nor secure named-object identification for бөйкү was established. Whole verse preserved outside English count; no invented oracle method."
   }
 ]

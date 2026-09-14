@@ -1,41 +1,33 @@
 {
-  "saved_draft_rows": 49721,
-  "released_draft_rows": 48381,
+  "saved_draft_rows": 55837,
+  "released_draft_rows": 55586,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
       16,
-      1110
+      1282
     ],
     [
-      1131,
-      1150
-    ],
-    [
-      1171,
-      1176
-    ],
-    [
-      1237,
-      1242
+      1303,
+      1308
     ]
   ],
   "active_translation_page_ranges": [
     [
-      1111,
-      1130
+      1283,
+      1302
     ],
     [
-      1151,
-      1170
+      1309,
+      1328
     ],
     [
-      1197,
-      1216
+      1329,
+      1348
     ],
     [
-      1303,
-      1305
+      1369,
+      1371
     ]
   ],
   "unresolved_source_regions": [
@@ -61,15 +53,23 @@
     "manas-2010:p1067:b001:l040",
     "manas-2010:p1084:b001:l011",
     "manas-2010:p1084:b001:l014",
+    "manas-2010:p1116:b001:l042",
     "manas-2010:p1137:b001:l037",
     "manas-2010:p1144:b001:l035",
     "manas-2010:p1146:b001:l031",
-    "manas-2010:p1241:b001:l022"
+    "manas-2010:p1151:b001:l001",
+    "manas-2010:p1182:b001:l030",
+    "manas-2010:p1200:b001:l035",
+    "manas-2010:p1241:b001:l022",
+    "manas-2010:p1253:b001:l004",
+    "manas-2010:p1255:b001:l033",
+    "manas-2010:p1272:b001:l034",
+    "manas-2010:p1303:b001:l026"
   ],
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 276297,
-  "released_english_words": 268919,
+  "saved_draft_english_words": 309069,
+  "released_english_words": 307699,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded."
 }

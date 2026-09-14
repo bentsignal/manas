@@ -113,6 +113,48 @@
         "https://el-sozduk.kg/таш/",
         "https://el-sozduk.kg/ТАЗ/"
       ]
+    },
+    {
+      "ky": "зайыппуруш",
+      "en": "Illustrious Champion",
+      "context": "Honorific for an outstanding victorious hero. Working English title retained consistently; not a spouse or ordinary person.",
+      "sources": [
+        "sources/extracted/manas-2010.lines.jsonl:1842:b001:l016–019"
+      ]
+    },
+    {
+      "ky": "келеме шарып кармоо",
+      "en": "swear upon the holy Quran",
+      "context": "Exact epic oath formula, often paired with chewing white wheat flour; do not reduce to generic profession of faith.",
+      "sources": [
+        "https://el-sozduk.kg/келеме/"
+      ]
+    },
+    {
+      "ky": "мураапы",
+      "en": "mainstay; support; heir",
+      "context": "Load-bearing camel context uses support, edition glossary1841:l011; not the irrigator homonym мурап.",
+      "sources": [
+        "sources/extracted/manas-2010.lines.jsonl:1841:b001:l011",
+        "https://el-sozduk.kg/МУРАП/"
+      ]
+    },
+    {
+      "ky": "аса байла-",
+      "en": "tie a horse with its head drawn high",
+      "context": "Horse-resting formula; not noun аса religious staff.",
+      "sources": [
+        "https://el-sozduk.kg/ас/"
+      ]
+    },
+    {
+      "ky": "кезек кул; кезек ит",
+      "en": "wretched slave; worthless dog",
+      "context": "кезек II/III=кесек II, abusive epithets in1043–1044. Not queue, turn, or proper name.",
+      "sources": [
+        "https://el-sozduk.kg/кезек/",
+        "https://el-sozduk.kg/кесек/"
+      ]
     }
   ]
 }

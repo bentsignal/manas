@@ -2202,5 +2202,365 @@
       ]
     },
     "note": "Printed Баатыр ай, жеке олуя курчанып. Warrior/girding and жеке leather battle belt or alone are legible; олуя saint/seer does not securely establish attachment or a named belt. No silent replacement by a conventional belt formula or invented sacred object. Entire verse excluded pending resolution."
+  },
+  {
+    "id": "semetey-1-2013:p0030:b003:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0030:b003:l030",
+    "before_id": "semetey-1-2013:p0030:b003:l032",
+    "source_line_ids": [
+      "semetey-1-2013:p0030:b003:l031"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0024-0043.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 30,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0030:b003:l031",
+          "raw": "Ýïàëàì áûøûê êåáè áàð,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 569.0997,
+            "xMax": 225.8952,
+            "yMax": 582.2877
+          }
+        }
+      ]
+    },
+    "note": "Printed Эпалам бышык кеби бар: firm words/agreement clear, but Эпалам and full phrase unresolved. No substitute adjective or unsupported name; pending lexical check."
+  },
+  {
+    "id": "semetey-1-2013:p0033:b003:l019:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0033:b003:l018",
+    "before_id": "semetey-1-2013:p0033:b003:l020",
+    "source_line_ids": [
+      "semetey-1-2013:p0033:b003:l019"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0024-0043.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 33,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0033:b003:l019",
+          "raw": "Êûéëàäàí êûðêû ñûíà ýëåê,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 398.6997,
+            "xMax": 253.3428,
+            "yMax": 411.8877
+          }
+        }
+      ]
+    },
+    "note": "Printed Кыйладан кыркы сына элек: whole clause unresolved; neighboring forty-day mourning context does not license inventing a replacement."
+  },
+  {
+    "id": "semetey-1-2013:p0041:b003:l034:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0041:b003:l033",
+    "before_id": "semetey-1-2013:p0041:b003:l035",
+    "source_line_ids": [
+      "semetey-1-2013:p0041:b003:l034"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0024-0043.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 41,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0041:b003:l034",
+          "raw": "Àðãûíû¢ òèéèï áîé êûëûï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 611.8197,
+            "xMax": 251.1684,
+            "yMax": 625.0077
+          }
+        }
+      ]
+    },
+    "note": "Printed Аргының тийип бой кылып: following insult/humiliation clear but full clause and Аргының unresolved; not silently changed to ар-намыс or Argyn ethnicity."
+  },
+  {
+    "id": "semetey-1-2013:p0045:b003:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0045:b003:l005",
+    "before_id": "semetey-1-2013:p0045:b003:l007",
+    "source_line_ids": [
+      "semetey-1-2013:p0045:b003:l006"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 45,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0045:b003:l006",
+          "raw": "Òóìàðäàí ÷ûêêàí îê áîëäó,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 214.1397,
+            "xMax": 244.5264,
+            "yMax": 227.3277
+          }
+        }
+      ]
+    },
+    "note": "Тумардан чыккан ок болду: тумар normally amulet, but the relation to the projectile and the subsequent lung penetration is not securely resolved. No invented weapon or magic event, and no silent тумар/туман substitution. Whole verse unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0061:b003:l039:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0061:b003:l038",
+    "before_id": "semetey-1-2013:p0061:b004:l001",
+    "source_line_ids": [
+      "semetey-1-2013:p0061:b003:l039"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 61,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0061:b003:l039",
+          "raw": "Ñºëºêºò¿ ñºã¿ë¿ï,",
+          "bbox": {
+            "xMin": 80.64,
+            "yMin": 682.8597,
+            "xMax": 188.622,
+            "yMax": 696.0477
+          }
+        }
+      ]
+    },
+    "note": "Сөлөкөтү сөгүлүп: frame/shape is clear but сөгүлүп in this physical portrait has no secure complete interpretation. Looming would supply an unsupported verb sense; unraveling would be an unsupported literal physical event. Whole verse unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0061:b004:l022:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0061:b004:l021",
+    "before_id": "semetey-1-2013:p0061:b004:l023",
+    "source_line_ids": [
+      "semetey-1-2013:p0061:b004:l022"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 61,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0061:b004:l022",
+          "raw": "Øàòûðìàí îþí äà¢ ñàëûï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 441.4197,
+            "xMax": 471.5628,
+            "yMax": 454.6077
+          }
+        }
+      ]
+    },
+    "note": "Шатырман оюн даң салып: games and loud celebration are clear, but шатырман is unverified. Related шатыра-шатман joyous/noisy expressions do not securely establish this form or rule out a game term. Whole verse unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0062:b003:l039:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0062:b003:l038",
+    "before_id": "semetey-1-2013:p0062:b004:l001",
+    "source_line_ids": [
+      "semetey-1-2013:p0062:b003:l039"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 62,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0062:b003:l039",
+          "raw": "Òåìèð ÷åêò¿¿ êàïûðäûí,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 682.8597,
+            "xMax": 228.0864,
+            "yMax": 696.0477
+          }
+        }
+      ]
+    },
+    "note": "Темир чектүү капырдын: темир чектүү is an unverified epithet. Iron and unbeliever are recognizable, but no confident iron-fenced/iron-limited/other reading. Whole verse unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0062:b004:l002:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0062:b004:l001",
+    "before_id": "semetey-1-2013:p0062:b004:l003",
+    "source_line_ids": [
+      "semetey-1-2013:p0062:b004:l002"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 62,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0062:b004:l002",
+          "raw": "Òåðñåëäåé êåïòè áèëáåãåí,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 157.2597,
+            "xMax": 467.3016,
+            "yMax": 170.4477
+          }
+        }
+      ]
+    },
+    "note": "Терселдей кепти билбеген: терселдей is not securely interpreted. No conjectural Christian/heretic or contrary-speech substitution. Whole verse unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0063:b003:l005:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0063:b003:l004",
+    "before_id": "semetey-1-2013:p0063:b003:l006",
+    "source_line_ids": [
+      "semetey-1-2013:p0063:b003:l005"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 63,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0063:b003:l005",
+          "raw": "Áàéãàìáàð ñóëòàí äàí óðäó äà",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 199.9797,
+            "xMax": 257.2944,
+            "yMax": 213.1677
+          }
+        }
+      ]
+    },
+    "note": "Байгамбар султан дан урду да: Prophet and sovereign and struck are clear, but separately printed дан is not securely explained as a word, displaced suffix or typo. It is not silently discarded to count the verse as fully translated."
+  },
+  {
+    "id": "semetey-1-2013:p0063:b004:l011:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0063:b004:l009",
+    "before_id": "semetey-1-2013:p0063:b004:l012",
+    "source_line_ids": [
+      "semetey-1-2013:p0063:b004:l011"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 63,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0063:b004:l011",
+          "raw": "Êàëäûðêàí êàðà êºéíºã¿",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 285.1797,
+            "xMax": 458.9076,
+            "yMax": 298.3677
+          }
+        }
+      ]
+    },
+    "note": "Калдыркан кара көйнөгү: калдыркан has primary senses large butterfly, sheet metal, and greave, but its exact relation to this black dress remains unresolved. No invented butterfly pattern or metal fabric. Whole verse unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0063:b004:l024:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0063:b004:l023",
+    "before_id": "semetey-1-2013:p0063:b004:l025",
+    "source_line_ids": [
+      "semetey-1-2013:p0063:b004:l024"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0044-0063.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 63,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0063:b004:l024",
+          "raw": "Êûíûíàí êûéðàï æûãûëûï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 469.7397,
+            "xMax": 485.772,
+            "yMax": 482.9277
+          }
+        }
+      ]
+    },
+    "note": "Кынынан кыйрап жыгылып: falling/collapsing is clear but кынынан is not securely interpreted in this passage. No unverified sheath/body/flank replacement. Whole verse unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0068:b004:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0068:b004:l024",
+    "before_id": "semetey-1-2013:p0068:b004:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0068:b004:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0064-0083.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 68,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0068:b004:l025",
+          "raw": "Ýíåêå, êàï÷ûãàé ýëåê ýð áîëäóê,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 483.8997,
+            "xMax": 504.7968,
+            "yMax": 497.0877
+          }
+        }
+      ]
+    },
+    "note": "UNRESOLVED: Капчыгай элек эр болдук. We were a gorge, became эр does not yield a securely interpretable complete contrast; possible эр erosion/ground or corrupt reading requires more evidence."
   }
 ]

@@ -29,7 +29,17 @@
     "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "retrieved_at": "2026-09-14T01:25:12.795679+00:00",
     "completeness": "unverified",
-    "rights": "unverified"
+    "rights": "traditional-verse pilot basis documented; modern edition rights unverified",
+    "publication_basis": {
+      "type": "traditional_folklore",
+      "scope": "Underlying traditional epic verse on visually checked PDF pages 24–86. Excludes modern introductions, annotations, layout and images. Not a clearance of the entire modern edition.",
+      "rationale": "Manas is traditional oral folklore; Article 8 excludes works of folk creativity from copyright. Application to this underlying verse is an editorial assessment, not a legal opinion or permission from the publisher.",
+      "evidence": [
+        "https://www.wipo.int/wipolex/en/legislation/details/22616",
+        "https://zakon.kg/law/zakon-kr-ob-avtorskom-prave-i-smezhnyh-pravah/"
+      ],
+      "assessed_at": "2026-09-14"
+    }
   },
   {
     "id": "semetey-2-2013",

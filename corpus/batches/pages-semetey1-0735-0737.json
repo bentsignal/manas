@@ -303,7 +303,7 @@
     "semetey-1-2013:p0735:b003:l018": "Primary жеңкетай/жеңкетайлык = bridegroom's gifts to bride's elder female relatives who assist the wedding; rendered the gift and recipients, not a generic dowry or bride-price.",
     "semetey-1-2013:p0735:b003:l021": "Primary мерсент/мерсет = парзант, child. Same noun on25/26and4:22. Childlessness belongs to Manas's earlier plea, before Semetey's conception through blessing.",
     "semetey-1-2013:p0735:b003:l023": "Туяк literally hoof, conventional descendant/heir; repeated heir/child parallel retained on23–26.",
-    "semetey-1-2013:p0735:b003:l027": "Primary Yudakhin кандагай = trousers of mountain-goat hide, epic heroic garment. Used that attested material rather than unverified elk or buckskin identification; source has lexical footnote star, excluded as apparatus.",
+    "semetey-1-2013:p0735:b003:l027": "Primary sources differ on material: Yudakhin кандагай specifies mountain-goat hide; same-epic1960Semeteyglossary371 specifies багыш (elk/moose) hide and special heroic trousers/armor. Root individually inspected glossary371 and read both definitions. Kept secure shared hide-trouser sense without imposing either animal. This is a qualification, not source emendation; footnote star excluded as apparatus.",
     "semetey-1-2013:p0735:b003:l034": "Conceived through a blessing is the narrator's miraculous account; not converted into a biological claim or omitted.",
     "semetey-1-2013:p0735:b003:l037": "Primary каран I = караан; караан sense3 support/protection, exact сизди караан кылып келдим seeking your protection. Restored initially held verse as Bakai looking to Semetey for support in Manas's place.",
     "semetey-1-2013:p0735:b004:l003": "Russian and Chinese feast guests retain the source's ethnonyms; no modern political implication added.",
@@ -417,12 +417,12 @@
       736,
       737
     ],
-    "evidence": "Individually inspected all three Poppler images /tmp/manas-root735-0735.png through0737.png, left column then right; two indented wraps. Primary lexical checks and exact extraction used for direct draft. All233 reconstructed Kyrgyz/English positions read in two blocks117and116, including two whole unresolved verses. Subsequent two wording refinements reread against exact source. Two held verses excluded from English count; no independent specialist review."
+    "evidence": "Individually inspected all three Poppler images /tmp/manas-root735-0735.png through0737.png, left column then right; two indented wraps. Primary lexical checks and exact extraction used for direct draft. All233 reconstructed Kyrgyz/English positions read in two blocks117and116, including two whole unresolved verses. Subsequent two wording refinements reread against exact source. Two held verses excluded from English count; no independent specialist review. Final735:3:27 revised to hide trousers after conflicting primary animal-material definitions; pair reread."
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
     "translated_verse_rows": 231,
-    "english_words": 1382,
+    "english_words": 1380,
     "physical_narrative_fragments": 235,
     "reconstructed_source_verses": 233,
     "unresolved_source_verses": 2,

@@ -1,0 +1,208 @@
+{
+  "status": "proposed-only-no-frozen-or-canonical-edit",
+  "id": "semetey-1-2013:p0691:b003:l019",
+  "ky": "Уламадан уладым,",
+  "current": "unresolved_source",
+  "proposed_en": "I learned from those who knew,",
+  "proposed_note": "Primary Yudakhin ула- I4 means receive/learn from someone and transmit, with exact улуулардан уладым, уламадан сурадым; улама I2 means an informed, experienced person. In this inquiry about Almambet, followed by paying gold and asking knowledgeable people, the reading is learning from informants. No proper name or theologian title is imposed. Whole source verse previously held; now proposed for restoration after current release verification.",
+  "primary_path": "sources/raw/yudakhin-2015.pdf",
+  "primary_sha256": "7a244b474ea8d582f5c3efccff5b74a5887ec38726105bfc03a26e077d095968",
+  "primary_url": "https://kotormo.kg/sites/default/files/2025-02/sozduk_yudahin.pdf",
+  "primary_entries": [
+    "ула- I4",
+    "улама I2"
+  ],
+  "page_image": "tmp/pdfs/semetey1-0675-0694/page-0691.png",
+  "review": "Image personally inspected; entire691source/draft pair set reviewed; primary heads fully read in normalized cached extraction. Same-agent contextual proposal, parent review pending.",
+  "context": [
+    {
+      "id": "semetey-1-2013:p0691:b003:l014",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 14,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 327.6597,
+        "xMax": 218.8704,
+        "yMax": 340.8477
+      },
+      "raw": "Àëìàìáåò àòòóó áàëàíû",
+      "text": "Алмамбет аттуу баланы",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    },
+    {
+      "id": "semetey-1-2013:p0691:b003:l015",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 15,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 342.0597,
+        "xMax": 222.0432,
+        "yMax": 355.2477
+      },
+      "raw": "ª¢¿ìäº áèð êºðñºì äåï,",
+      "text": "Өңүмдө бир көрсөм деп,",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    },
+    {
+      "id": "semetey-1-2013:p0691:b003:l016",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 16,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 356.2197,
+        "xMax": 225.6828,
+        "yMax": 369.4077
+      },
+      "raw": "Àíäàí êèéèí ºëñºì äåï,",
+      "text": "Андан кийин өлсөм деп,",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    },
+    {
+      "id": "semetey-1-2013:p0691:b003:l017",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 17,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 370.3797,
+        "xMax": 228.6168,
+        "yMax": 383.5677
+      },
+      "raw": "Òèëåê êûëûï æ¿ðãºì¿í.",
+      "text": "Тилек кылып жүргөмүн.",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    },
+    {
+      "id": "semetey-1-2013:p0691:b003:l018",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 18,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 384.5397,
+        "xMax": 239.9148,
+        "yMax": 397.7277
+      },
+      "raw": "Àëìàìáåò òèëåï æ¿ðãºíäº,",
+      "text": "Алмамбет тилеп жүргөндө,",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    },
+    {
+      "id": "semetey-1-2013:p0691:b003:l019",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 19,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 398.6997,
+        "xMax": 188.772,
+        "yMax": 411.8877
+      },
+      "raw": "Óëàìàäàí óëàäûì,",
+      "text": "Уламадан уладым,",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    },
+    {
+      "id": "semetey-1-2013:p0691:b003:l020",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 20,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 412.8597,
+        "xMax": 226.482,
+        "yMax": 426.0477
+      },
+      "raw": "Áóòòàï àëòûí çåð áåðèï,",
+      "text": "Буттап алтын зер берип,",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    },
+    {
+      "id": "semetey-1-2013:p0691:b003:l021",
+      "source_id": "semetey-1-2013",
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "page": 691,
+      "block": 3,
+      "line_in_block": 21,
+      "bbox": {
+        "xMin": 79.44,
+        "yMin": 427.2597,
+        "xMax": 220.5156,
+        "yMax": 440.4477
+      },
+      "raw": "Áèëãè÷òåðäåí ñóðàäûì.",
+      "text": "Билгичтерден сурадым.",
+      "classification": "unreviewed",
+      "transcription_status": "unreviewed",
+      "normalization": "legacy-font-v1"
+    }
+  ],
+  "source_evidence": {
+    "source_ids": [
+      "semetey-1-2013:p0691:b003:l019"
+    ],
+    "raw": [
+      "Óëàìàäàí óëàäûì,"
+    ],
+    "source_segments": [
+      {
+        "id": "semetey-1-2013:p0691:b003:l019",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 691,
+        "block": 3,
+        "line_in_block": 19,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 398.6997,
+          "xMax": 188.772,
+          "yMax": 411.8877
+        },
+        "raw": "Óëàìàäàí óëàäûì,",
+        "text": "Уламадан уладым,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      }
+    ],
+    "reason": "Улама may concern a scholar, tradition, or name; the linked verb construction is unresolved. Entire verse retained as unresolved source and not counted as English translation.",
+    "status": "unresolved-source-not-English-translation",
+    "preceding_source": "semetey-1-2013:p0691:b003:l018",
+    "following_source": "semetey-1-2013:p0691:b003:l020",
+    "rendered_page": "tmp/pdfs/semetey1-0675-0694/page-0691.png"
+  },
+  "base_json_sha256": "55a06eba3a1031aae65f4ed04a90eadf8da6e6373e86fa0de54d6855ed228a9f",
+  "delta_english_verses": 1,
+  "delta_english_words": 6
+}

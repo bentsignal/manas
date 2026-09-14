@@ -1,6 +1,6 @@
 {
-  "saved_draft_rows": 90601,
-  "released_draft_rows": 90141,
+  "saved_draft_rows": 92371,
+  "released_draft_rows": 91678,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
@@ -112,13 +112,11 @@
     "semetey-1-2013:p0063:b004:l024",
     "semetey-1-2013:p0068:b004:l025",
     "semetey-1-2013:p0087:b003:l001",
-    "semetey-1-2013:p0106:b004:l008",
     "semetey-1-2013:p0107:b005:l016",
     "semetey-1-2013:p0112:b004:l039",
     "semetey-1-2013:p0113:b003:l036",
     "semetey-1-2013:p0113:b005:l018",
     "semetey-1-2013:p0123:b005:l017",
-    "semetey-1-2013:p0125:b004:l038",
     "semetey-1-2013:p0129:b003:l019",
     "semetey-1-2013:p0139:b003:l012",
     "semetey-1-2013:p0151:b003:l014",
@@ -131,6 +129,17 @@
     "semetey-1-2013:p0160:b004:l010",
     "semetey-1-2013:p0164:b003:l036",
     "semetey-1-2013:p0175:b004:l036",
+    "semetey-1-2013:p0178:b004:l022",
+    "semetey-1-2013:p0180:b004:l013",
+    "semetey-1-2013:p0180:b004:l029",
+    "semetey-1-2013:p0183:b004:l027",
+    "semetey-1-2013:p0183:b004:l028",
+    "semetey-1-2013:p0183:b004:l029",
+    "semetey-1-2013:p0184:b003:l035",
+    "semetey-1-2013:p0187:b003:l025",
+    "semetey-1-2013:p0189:b004:l025",
+    "semetey-1-2013:p0190:b004:l028",
+    "semetey-1-2013:p0193:b003:l014",
     "semetey-1-2013:p0216:b003:l028",
     "semetey-1-2013:p0217:b003:l010",
     "semetey-1-2013:p0217:b003:l029",
@@ -139,8 +148,8 @@
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 502753,
-  "released_english_words": 500042,
+  "saved_draft_english_words": 512820,
+  "released_english_words": 508749,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
   "saved_page_ranges_by_source": {
@@ -153,11 +162,15 @@
     "semetey-1-2013": [
       [
         24,
-        175
+        195
       ],
       [
         216,
         221
+      ],
+      [
+        282,
+        284
       ]
     ]
   }

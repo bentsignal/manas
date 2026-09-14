@@ -3064,5 +3064,297 @@
       ]
     },
     "note": "Whole verse withheld: Убагер honorific before төрөм unresolved in primary lexical aids. Do not silently omit adjective or invent great/merciful/divine. Other parts mean my lord, support me but not counted as complete English verse."
+  },
+  {
+    "id": "semetey-1-2013:p0178:b004:l022:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0178:b004:l021",
+    "before_id": "semetey-1-2013:p0178:b004:l023",
+    "source_line_ids": [
+      "semetey-1-2013:p0178:b004:l022"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 178,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0178:b004:l022",
+          "raw": "×û¢ûðîîí* óêòàï æàòûøûï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 441.4197,
+            "xMax": 483.6744,
+            "yMax": 454.6077
+          }
+        }
+      ]
+    },
+    "note": "чыңыроон is primary Yudakhin signal instrument, but adjectival/adverbial sleep sense not established. Snoring like trumpet plausible but unsupported; whole verse retained as unresolved rather than generic sleeping filler."
+  },
+  {
+    "id": "semetey-1-2013:p0180:b004:l013:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0180:b004:l012",
+    "before_id": "semetey-1-2013:p0180:b004:l014",
+    "source_line_ids": [
+      "semetey-1-2013:p0180:b004:l013"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 180,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0180:b004:l013",
+          "raw": "Êå÷ýý, êàëäàéëóó êàðà ìóç êåçäå,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 313.4997,
+            "xMax": 508.4364,
+            "yMax": 326.6877
+          }
+        }
+      ]
+    },
+    "note": "калдайлуу кара муз кезде temporal phrase unresolved; literal governors/black ice words do not establish a coherent historical or figurative sense. Whole verse withheld."
+  },
+  {
+    "id": "semetey-1-2013:p0180:b004:l029:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0180:b004:l028",
+    "before_id": "semetey-1-2013:p0180:b004:l030",
+    "source_line_ids": [
+      "semetey-1-2013:p0180:b004:l029"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 180,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0180:b004:l029",
+          "raw": "Ñàëûìûíà ñàë÷ó ýëå,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 540.7797,
+            "xMax": 434.2176,
+            "yMax": 553.9677
+          }
+        }
+      ]
+    },
+    "note": "Салымына салчу эле role/action of thirty married women and thirty girls unclear. Dictionary салым contribution/levy or alternating turn does not establish specific entertainment task; whole verse withheld rather than guessed."
+  },
+  {
+    "id": "semetey-1-2013:p0183:b004:l027:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0183:b004:l026",
+    "before_id": "semetey-1-2013:p0183:b004:l030",
+    "source_line_ids": [
+      "semetey-1-2013:p0183:b004:l027",
+      "semetey-1-2013:p0183:b004:l028",
+      "semetey-1-2013:p0183:b004:l029"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 183,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0183:b004:l027",
+          "raw": "Àëòû àðàì áàðêûìäû áèëáåé",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 512.4597,
+            "xMax": 483.57,
+            "yMax": 525.6477
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0183:b004:l028",
+          "raw": "êèéèí÷å.",
+          "bbox": {
+            "xMin": 463.92,
+            "yMin": 526.6197,
+            "xMax": 518.7264,
+            "yMax": 539.8077
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0183:b004:l029",
+          "raw": "Òåë êóëóíóì æåï êàëäû,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 540.7797,
+            "xMax": 460.2432,
+            "yMax": 553.9677
+          }
+        }
+      ]
+    },
+    "note": "Final кийинче uncertain in value comparison. Likely relation to кийим clothing or кийин later, but no supported full interpretation; grouped whole verse withheld with both raw fragments. Тел кулунум жеп калды: fostered foal/child and eating verb clear individually, but agency and intended figurative sense unresolved. No literal death/cannibalism or guessed childhood epithet supplied."
+  },
+  {
+    "id": "semetey-1-2013:p0184:b003:l035:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0184:b003:l034",
+    "before_id": "semetey-1-2013:p0184:b003:l036",
+    "source_line_ids": [
+      "semetey-1-2013:p0184:b003:l035"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 184,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0184:b003:l035",
+          "raw": "Áåðåêè æûëìà áàñêàí Áóêàðäû",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 625.9797,
+            "xMax": 264.0072,
+            "yMax": 639.1677
+          }
+        }
+      ]
+    },
+    "note": "жылма баскан modifying Bukhara unresolved: smooth/cunning dictionary senses do not establish curse or topographical phrase. Whole verse withheld rather than invented city attribute."
+  },
+  {
+    "id": "semetey-1-2013:p0189:b004:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0189:b004:l024",
+    "before_id": "semetey-1-2013:p0189:b004:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0189:b004:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 189,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0189:b004:l025",
+          "raw": "Àðäûêòóó êèð÷èë áàëà ýëå,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 483.8997,
+            "xMax": 474.402,
+            "yMax": 497.0877
+          }
+        }
+      ]
+    },
+    "note": "кирчил primary dictionary only easily soiled/marred, which does not establish the intended epithet beside honorable child. Whole verse retained unresolved rather than unsupported mature/pure reading."
+  },
+  {
+    "id": "semetey-1-2013:p0190:b004:l028:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0190:b004:l027",
+    "before_id": "semetey-1-2013:p0190:b004:l029",
+    "source_line_ids": [
+      "semetey-1-2013:p0190:b004:l028"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 190,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0190:b004:l028",
+          "raw": "×àï÷àêòàí ºò¿ï æàòàëáàé,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 526.6197,
+            "xMax": 464.826,
+            "yMax": 539.8077
+          }
+        }
+      ]
+    },
+    "note": "чапчак is primary wooden tub/barrel; өтүп жаталбай unable to pass and lie down does not establish complete sense here. Whole verse withheld rather than invented shelter."
+  },
+  {
+    "id": "semetey-1-2013:p0193:b003:l014:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0193:b003:l013",
+    "before_id": "semetey-1-2013:p0193:b003:l015",
+    "source_line_ids": [
+      "semetey-1-2013:p0193:b003:l014"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 193,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0193:b003:l014",
+          "raw": "Êàïêàéäàãû êýý¢äè.",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 327.6597,
+            "xMax": 201.5784,
+            "yMax": 340.8477
+          }
+        }
+      ]
+    },
+    "note": "кээңди in Капкайдагы кээңди unresolved. Yudakhin кээI harm and кээр abusive speech/frenzy offer possibilities but do not establish printed phrase; whole verse withheld."
+  },
+  {
+    "id": "semetey-1-2013:p0187:b003:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0187:b003:l024",
+    "before_id": "semetey-1-2013:p0187:b003:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0187:b003:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0176-0195.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 187,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0187:b003:l025",
+          "raw": "Òå¢çààäàíûí çàéûáû",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 483.8997,
+            "xMax": 206.0928,
+            "yMax": 497.0877
+          }
+        }
+      ]
+    },
+    "note": "Теңзааданын epithet/title not securely identified in primary dictionary; nobleman conjecture withheld, whole verse retained unresolved."
   }
 ]

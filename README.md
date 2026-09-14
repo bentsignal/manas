@@ -2,7 +2,7 @@
 
 An unabridged English translation project for the complete recorded Sayakbay Karalaev corpus, targeting the reported 500,553 lines including continuations. **Not a completed translation.**
 
-Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPENING-PILOT.md) before translating. Current status: four candidate PDFs acquired, 401,930 unreviewed extracted text lines (not verses), zero certified archival verse counts, 10,132 draft English rows prepared for release (56,721 English words). An existing Turkish–English Karalaev trilogy project has now been identified; its coverage and counts do not establish a complete 500,553-line translation. Priority remains unestablished.
+Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPENING-PILOT.md) before translating. Current status: four candidate PDFs acquired, 401,930 unreviewed extracted text lines (not verses), zero certified archival verse counts, 13,293 draft English rows prepared for release (74,738 English words). An existing Turkish–English Karalaev trilogy project has now been identified; its coverage and counts do not establish a complete 500,553-line translation. Priority remains unestablished.
 
 ## Workflows
 

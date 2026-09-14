@@ -112,3 +112,7 @@ Saved page ranges16–227 and248–253; activeworkerassignments228–247,254–2
 ## Publishing drafts past explicit source gaps
 
 Following the request to publish as translation proceeds, the reader now inserts plain editorial markers at source gaps, stored separately in corpus/source-gaps.json. Markers carry no translated-line ordinal and do not contribute English-word totals. The damaged page48region and uninterpreted whole utterance183:l001 prevent completeness certification. The latter was removed from English counts: transliteration is not translation. Current releasecandidate10,132draftrows /56,721Englishwords through227. No omitted gaps are permitted by the rangeaudit; no expert-review claim.
+
+## Draft checkpoint through PDF page 293
+
+13,293 English draft rows / 74,738 English words prepared for publication. Two explicit unresolved regions remain uncounted; the page246 forest metaphor now has qualified English supported by dictionary entries and Karalaev parallels (PAGE246-LEXICAL-CHECK.md). All saved/released display lines through293 are accounted for by translated rows or explicit exclusions. Complete 500,553-verse source acquisition and independent review remain outstanding.

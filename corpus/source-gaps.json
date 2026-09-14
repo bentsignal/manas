@@ -169,6 +169,36 @@
         }
       ]
     },
-    "note": "Same line is reproduced in comparative study https://arch.kyrlibnet.kg/uploads/TALGUAITALIEVA2013.pdf PDF124, but not explained. Кырым can be a place or distant reaches; the weapon formula is not established. Do not silently claim Crimean manufacture or replace кылым with кытай from another narrator."
+    "note": "Yudakhin кырым II establishes excellent workmanship in gun descriptions: https://el-sozduk.kg/кырым/ (direct HTTP retrieved after web tool failed). Its parallel reads түбү Кытай кырымы, but this PDF visibly has кылым. The remaining phrase is unresolved; no silent Кытай substitution or invented Crimean origin. Comparative study https://arch.kyrlibnet.kg/uploads/TALGUAITALIEVA2013.pdf PDF124 repeats our wording without explaining it."
+  },
+  {
+    "id": "manas-2010:p0664:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0664:b001:l032",
+    "before_id": "manas-2010:p0664:b001:l034",
+    "source_line_ids": [
+      "manas-2010:p0664:b001:l033"
+    ],
+    "evidence": "corpus/batches/pages-0658-0677.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 664,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0664:b001:l033",
+          "raw": "Акыйнек менен курдаткан,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 601.152,
+            "xMax": 350.7612,
+            "yMax": 616.404
+          }
+        }
+      ]
+    },
+    "note": "Verse source remains unresolved: Акыйнек means a taunting-song genre in consulted dictionaries, incompatible with secure identification of this wrapping/binding material. No defensible full English rendering; exact source and partial gloss retained in unresolved_passages, excluded from English counts."
   }
 ]

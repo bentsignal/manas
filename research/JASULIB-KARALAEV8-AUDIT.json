@@ -1,0 +1,110 @@
+{
+  "audit_date": "2026-09-14",
+  "candidate_url": "https://jasulib.org.kg/wp-content/uploads/2022/07/8.-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF-%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9-%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2.pdf",
+  "candidate_path": "/tmp/manas-jasulib-karalaev-8-candidate.pdf",
+  "bytes": 3268380,
+  "sha256": "c34030215a8fd8957636b592d8aa26ee31b05c3ee0939fd483e9b1b35c35927c",
+  "pdf_pages": 439,
+  "byte_identical_existing_source": "sources/raw/manas-first-volume-bizdin.pdf",
+  "new_raw_copy": false,
+  "identity": {
+    "cover": "МАНАС 1-том",
+    "metadata_title": "Манас эпосу 1-том.",
+    "metadata_author": "Саякбай Каралаев",
+    "preface_author": "С. МУСАЕВ",
+    "preface_date_verbatim": "5/V 1982.",
+    "preface_signature_pdf_page": 22,
+    "print_publication_year": null,
+    "print_publication_year_status": "Not securely established; preface date and PDF creation date are not publication dates.",
+    "pdf_creator": "Acrobat PDFMaker 11 для Word",
+    "pdf_creation_local_pdfinfo": "2015-11-04 01:10:34 EST",
+    "pdf_modification_local_pdfinfo": "2016-09-30 00:06:31 EDT",
+    "format": "Reflowed digital text with bizdin.kg watermark, not printed-page facsimile"
+  },
+  "coverage": {
+    "cover_pdf_pages": [
+      1
+    ],
+    "preface_pdf_pages": [
+      2,
+      22
+    ],
+    "narrative_pdf_pages": [
+      22,
+      434
+    ],
+    "glossary_pdf_pages": [
+      434,
+      439
+    ],
+    "full_500553_established": false,
+    "verified_verse_count": null,
+    "scope": "First Manas book; preface says beginning to before Great Campaign. This is not all trilogy books.",
+    "explicit_abridgment_pdf_page": 21,
+    "abridgment_summary": "Preface admits omitted verbatim repetitions and ideologically unsuitable material; possible prose summaries in later volumes.",
+    "final_narrative_line": "Жатпай кетти койнуна.",
+    "final_glossary_entry": "Эриш бузуу"
+  },
+  "individually_viewed_candidate_pages": [
+    1,
+    2,
+    3,
+    21,
+    22,
+    434,
+    439
+  ],
+  "individually_viewed_base_pages": [
+    16,
+    48
+  ],
+  "opening_comparison": {
+    "candidate_pdf_page": 22,
+    "base_pdf_page": 16,
+    "candidate_formula": "Оң эки пирге* кол берип,",
+    "base_formula": "Он эки бирге кол берип,",
+    "status": "Previously documented comparison, not new independent corroboration. Specific pir reading supports spiritual guides; candidate has own Оң typo.",
+    "other_differences": [
+      "Candidate omits the early second verse that base prints as үбүнөн Кыдыр даарыган,",
+      "Candidate Ногой vs base Огой; candidate Сомпуктун vs base Сомдуктун."
+    ],
+    "independence": "Different reflowed textual form from base 2010; underlying print/manuscript independence not established. Byte-identical to existing comparison witness."
+  },
+  "damaged_p48": {
+    "base_ids": [
+      "manas-2010:p0048:b002:l002",
+      "manas-2010:p0048:b002:l003",
+      "manas-2010:p0048:b002:l004"
+    ],
+    "preceding": "Каяшаяк бергенди",
+    "fragments": [
+      "Т/*",
+      "о",
+      "и"
+    ],
+    "following": "Кайра тартып тим койбой,",
+    "exact_counterpart_found": false,
+    "searches": {
+      "Кайра тартып тим койбой": [],
+      "Кайра тартып": [
+        54,
+        194,
+        216,
+        280,
+        284,
+        407
+      ],
+      "Шибе": [
+        214
+      ],
+      "Доңго": [],
+      "Донго": []
+    },
+    "decision": "Retain unresolved source region; absence in shorter candidate cannot establish missing wording or justify deletion."
+  },
+  "new_restoration_proposals": [],
+  "prior_report": "research/TEXTUAL-CORRECTIONS.md",
+  "canonical_edits": false,
+  "translated_line_delta": 0,
+  "translated_word_delta": 0
+}

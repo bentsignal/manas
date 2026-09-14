@@ -230,6 +230,7 @@
     "manas-2010:p1661:b001:l014",
     "manas-2010:p1661:b001:l015",
     "manas-2010:p1661:b001:l016",
+    "manas-2010:p1661:b001:l017",
     "manas-2010:p1661:b001:l018",
     "manas-2010:p1661:b001:l019",
     "manas-2010:p1661:b001:l020",
@@ -977,7 +978,8 @@
     "manas-2010:p1675:b001:l037": "Seven thousand smashed down retained as the explicit number.",
     "manas-2010:p1664:b001:l016": "Ылама/Чоң Ылама is Lama/Great Lama, the Kalmyk religious designation; source glossary1844:2 explains Ылама as chief teacher. Preserved title rather than unverified personal name Ylama.",
     "manas-2010:p1664:b001:l027": "Ылама/Чоң Ылама is Lama/Great Lama, the Kalmyk religious designation; source glossary1844:2 explains Ылама as chief teacher. Preserved title rather than unverified personal name Ylama.",
-    "manas-2010:p1664:b001:l038": "Ылама/Чоң Ылама is Lama/Great Lama, the Kalmyk religious designation; source glossary1844:2 explains Ылама as chief teacher. Preserved title rather than unverified personal name Ylama."
+    "manas-2010:p1664:b001:l038": "Ылама/Чоң Ылама is Lama/Great Lama, the Kalmyk religious designation; source glossary1844:2 explains Ылама as chief teacher. Preserved title rather than unverified personal name Ylama.",
+    "manas-2010:p1661:b001:l017": "Restored after primary verification: raw Коолошүп, PDF Коолошуп interpreted көөлөшүп, battle with weapons. Yudakhin көөлөш-II https://el-sozduk.kg/көө/ lines1060–1063 gives exact red spear/sharp steel fighting boast and жөөлөш parallel. Same edition1741:21–26 has black-steel Zulpuqor/көөлөшөрмүн/world/жөөлөш;1808:3–7 independently repeats spear/Zulpuqor/көөлөш/world/жөөлөш. All relevant page images inspected. Here16 names black-steel Zulpuqor and18–19 world/жөөлөш; these convergent primary parallels justify defective vowel reading, not mere contextual guessing. Кетем go/begin auxiliary and second-person дечү элең retained. Raw/SHA/bbox unchanged."
   },
   "headings": [],
   "prose_passages": [],
@@ -986,11 +988,6 @@
       "id": "manas-2010:p1661:b001:l005",
       "kind": "unresolved_source",
       "reason": "Меке is recognizable, but дылда кылымды is not securely interpreted in the raiding sequence. Earlier similar дылда gap1329:31 remains unresolved. No invented place-name Dyl da or guessed gold-world paraphrase counted as translation."
-    },
-    {
-      "id": "manas-2010:p1661:b001:l017",
-      "kind": "unresolved_source",
-      "reason": "Printed Коолошүп/visual Коолошуп follows named sword and precedes жөөлөшүп. Main verb has not been securely verified; not silently emended to куулошуп, quarrel, wield, or pursue."
     },
     {
       "id": "manas-2010:p1664:b001:l039",
@@ -1025,29 +1022,6 @@
       "reason": "Меке is recognizable, but дылда кылымды is not securely interpreted in the raiding sequence. Earlier similar дылда gap1329:31 remains unresolved. No invented place-name Dyl da or guessed gold-world paraphrase counted as translation.",
       "preceding_source": "manas-2010:p1661:b001:l004",
       "following_source": "manas-2010:p1661:b001:l006",
-      "rendered_page": "tmp/pdfs/pages-1656-1675/page-1661.png"
-    },
-    {
-      "id": "manas-2010:p1661:b001:l017",
-      "source_id": "manas-2010",
-      "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "page": 1661,
-      "block": 1,
-      "line_in_block": 17,
-      "bbox": {
-        "xMin": 212.52,
-        "yMin": 331.632,
-        "xMax": 353.88,
-        "yMax": 346.884
-      },
-      "raw": "Коолошүп кетем дечү элең,",
-      "text": "Коолошүп кетем дечү элең,",
-      "classification": "unreviewed",
-      "transcription_status": "unreviewed",
-      "normalization": "identity",
-      "reason": "Printed Коолошүп/visual Коолошуп follows named sword and precedes жөөлөшүп. Main verb has not been securely verified; not silently emended to куулошуп, quarrel, wield, or pursue.",
-      "preceding_source": "manas-2010:p1661:b001:l016",
-      "following_source": "manas-2010:p1661:b001:l018",
       "rendered_page": "tmp/pdfs/pages-1656-1675/page-1661.png"
     },
     {
@@ -1130,9 +1104,9 @@
     "method": "same-agent source/English row comparison",
     "checked_by": "Codex worker translate_36_55_resume",
     "date": "2026-09-14",
-    "rows": 836,
+    "rows": 837,
     "status": "draft; no independent specialist review",
-    "details": "All840 recovered source/draft pairs read in five168-row sections, then four unresolved verses removed from translation. Corrected named medicines/swords, title Lama, causatives, singular daughter, thus, and lost recourse. Repetitions, number discrepancies, actor shifts, harsh curses and coercive threats retained. No MT or prior published English translation input. Source raw/SHA/bbox available through exact IDs; unresolved source preserved separately."
+    "details": "All840 recovered source/draft pairs read in five168-row sections, then four unresolved verses removed from translation. Corrected named medicines/swords, title Lama, causatives, singular daughter, thus, and lost recourse. Repetitions, number discrepancies, actor shifts, harsh curses and coercive threats retained. No MT or prior published English translation input. Source raw/SHA/bbox available through exact IDs; unresolved source preserved separately. Post-freeze1661:17 restored by primary Yudakhin and exact same-edition1741/1808 parallels; three wholly untranslated verses remain. Source and neighboring English pairs rechecked."
   },
   "coverage": {
     "pdf_pages": [
@@ -1157,19 +1131,19 @@
       1674,
       1675
     ],
-    "translated_display_rows": 836,
+    "translated_display_rows": 837,
     "editorial_heading_rows": 0,
     "prose_rows": 0,
     "unresolved_extraction_rows": 0,
-    "unresolved_semantic_rows": 4,
-    "entirely_untranslated_or_transliterated_rows": 4,
+    "unresolved_semantic_rows": 3,
+    "entirely_untranslated_or_transliterated_rows": 3,
     "website_watermark_rows": 0,
     "independently_reviewed_rows": 0
   },
   "word_counts": {
     "method": "Python alphabetic words, internal apostrophes/hyphens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*; translated verse only, notes and editorial text excluded.",
-    "source_words": 2799,
-    "english_words": 4571,
+    "source_words": 2803,
+    "english_words": 4581,
     "all_source_verse_words": 2813
   }
 }

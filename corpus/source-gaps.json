@@ -1522,36 +1522,6 @@
     "note": "Меке is recognizable, but дылда кылымды is not securely interpreted in the raiding sequence. Earlier similar дылда gap1329:31 remains unresolved. No invented place-name Dyl da or guessed gold-world paraphrase counted as translation."
   },
   {
-    "id": "manas-2010:p1661:b001:l017:unresolved-verse",
-    "kind": "meaning_unresolved",
-    "status": "unresolved",
-    "source_id": "manas-2010",
-    "after_id": "manas-2010:p1661:b001:l016",
-    "before_id": "manas-2010:p1661:b001:l018",
-    "source_line_ids": [
-      "manas-2010:p1661:b001:l017"
-    ],
-    "evidence": "corpus/batches/pages-1656-1675.json",
-    "source": {
-      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
-      "page": 1661,
-      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "segments": [
-        {
-          "id": "manas-2010:p1661:b001:l017",
-          "raw": "Коолошүп кетем дечү элең,",
-          "bbox": {
-            "xMin": 212.52,
-            "yMin": 331.632,
-            "xMax": 353.88,
-            "yMax": 346.884
-          }
-        }
-      ]
-    },
-    "note": "Printed Коолошүп/visual Коолошуп follows named sword and precedes жөөлөшүп. Main verb has not been securely verified; not silently emended to куулошуп, quarrel, wield, or pursue."
-  },
-  {
     "id": "manas-2010:p1664:b001:l039:unresolved-verse",
     "kind": "meaning_unresolved",
     "status": "unresolved",
@@ -1640,5 +1610,605 @@
       ]
     },
     "note": "Кыймалуу жактан чалдырып is visibly present but the complete ornate-chest/formula meaning remains unresolved. Parallel1303:26 and1418:8 also unresolved. Deadly side would be conjecture without lexical support; omit the entire verse from translated counts, retain raw evidence and gap. No missing-print claim."
+  },
+  {
+    "id": "manas-2010:p1715:b001:l033:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1715:b001:l032",
+    "before_id": "manas-2010:p1715:b001:l034",
+    "source_line_ids": [
+      "manas-2010:p1715:b001:l033"
+    ],
+    "evidence": "corpus/batches/pages-1696-1715.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1715,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1715:b001:l033",
+          "raw": "Баатыр кыйык суу жактан чалдырган,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 601.152,
+            "xMax": 404.0388,
+            "yMax": 616.404
+          }
+        }
+      ]
+    },
+    "note": "Printed Баатыр кыйык суу жактан чалдырган: river-side and causing an action are partly legible, but the compound кыйык суу and intended чалдырган construction are not defensibly established. Yudakhin кыйык gives oblique cut/target thread/stubbornness (https://el-sozduk.kg/кыйык/), none establishes this complete clause. No invented river name, tactical maneuver, or word substitution. Entire verse preserved separately and excluded from English."
+  },
+  {
+    "id": "manas-2010:p1719:b001:l004:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1719:b001:l003",
+    "before_id": "manas-2010:p1719:b001:l005",
+    "source_line_ids": [
+      "manas-2010:p1719:b001:l004"
+    ],
+    "evidence": "corpus/batches/pages-1719-1721.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1719,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1719:b001:l004",
+          "raw": "«Бадышалуу калап жер мына,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 112.632,
+            "xMax": 366.4776,
+            "yMax": 127.884
+          }
+        }
+      ]
+    },
+    "note": "калап unverified in this syntax. Altai name-component gloss cruel/merciless in Manas encyclopedia does not securely establish this Kyrgyz clause. King/land part clear; no whole-verse guess."
+  },
+  {
+    "id": "manas-2010:p1719:b001:l037:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1719:b001:l036",
+    "before_id": "manas-2010:p1719:b001:l038",
+    "source_line_ids": [
+      "manas-2010:p1719:b001:l037"
+    ],
+    "evidence": "corpus/batches/pages-1719-1721.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1719,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1719:b001:l037",
+          "raw": "Баатыр бий өңгө тийген чекеге,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 668.472,
+            "xMax": 373.5612,
+            "yMax": 683.724
+          }
+        }
+      ]
+    },
+    "note": "Printed бий өңгө not resolved. Temple wound clear but weapon/modifier uncertain; no invented bullet or silent emendation."
+  },
+  {
+    "id": "manas-2010:p1732:b001:l002:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1732:b001:l001",
+    "before_id": "manas-2010:p1732:b001:l003",
+    "source_line_ids": [
+      "manas-2010:p1732:b001:l002"
+    ],
+    "evidence": "corpus/batches/pages-1722-1741.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1732,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1732:b001:l002",
+          "raw": "Келеңкир чачпак, кең соору",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 78.912,
+            "xMax": 355.5936,
+            "yMax": 94.164
+          }
+        }
+      ]
+    },
+    "note": "Келеңкир modifies hair ornament but was not securely verified. Чачпак and broad hips are clear; no guessed dangling modifier counted as a whole translated verse."
+  },
+  {
+    "id": "manas-2010:p1736:b001:l007:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1736:b001:l006",
+    "before_id": "manas-2010:p1736:b001:l008",
+    "source_line_ids": [
+      "manas-2010:p1736:b001:l007"
+    ],
+    "evidence": "corpus/batches/pages-1722-1741.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1736,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1736:b001:l007",
+          "raw": "Манас кан алтайкан салды керекке,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 163.152,
+            "xMax": 396.3576,
+            "yMax": 178.404
+          }
+        }
+      ]
+    },
+    "note": "Алтайкан is unverified in Манас кан алтайкан салды керекке. Need/action words and Manas are recognizable, but no proper-name, Altai-khan invocation, crying or weapon term can be securely selected. Whole verse excluded."
+  },
+  {
+    "id": "manas-2010:p1737:b001:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1737:b001:l019",
+    "before_id": "manas-2010:p1737:b001:l021",
+    "source_line_ids": [
+      "manas-2010:p1737:b001:l020"
+    ],
+    "evidence": "corpus/batches/pages-1722-1741.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1737,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1737:b001:l020",
+          "raw": "Арслан-шер жардыгында өлбөдүм, аяш,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 382.152,
+            "xMax": 419.5212,
+            "yMax": 397.404
+          }
+        }
+      ]
+    },
+    "note": "Арслан-шер жардыгында is ambiguous: under lion-hero decree/command versus a defective formula. A Bekt enov parallel reads Ач арстан, Аалышшер / Жардыгында but does not securely explain this edition’s referent. No silent substitution of барагында/бардыгында or invented command counted."
+  },
+  {
+    "id": "manas-2010:p1739:b001:l014:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1739:b001:l013",
+    "before_id": "manas-2010:p1739:b001:l015",
+    "source_line_ids": [
+      "manas-2010:p1739:b001:l014"
+    ],
+    "evidence": "corpus/batches/pages-1722-1741.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1739,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1739:b001:l014",
+          "raw": "Баатыр ай, кыймалуу жагын көрдүңбү?",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 281.112,
+            "xMax": 413.316,
+            "yMax": 296.364
+          }
+        }
+      ]
+    },
+    "note": "Кыймалуу жагын unverified in this question. Similar earlier кыймалуу жагдан/жактан formula gaps do not establish whether carved chest, flank, or another expression is meant. Whole verse excluded rather than guessing ornate surface."
+  },
+  {
+    "id": "manas-2010:p1739:b001:l018:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1739:b001:l017",
+    "before_id": "manas-2010:p1739:b001:l019",
+    "source_line_ids": [
+      "manas-2010:p1739:b001:l018"
+    ],
+    "evidence": "corpus/batches/pages-1722-1741.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1739,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1739:b001:l018",
+          "raw": "Кыймалуу жактан чалдырып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 348.432,
+            "xMax": 362.0376,
+            "yMax": 363.684
+          }
+        }
+      ]
+    },
+    "note": "Кыймалуу жактан repeats unresolved earlier formula; clear struck/lost causative does not establish unknown source phrase. Whole verse excluded; not padded with generic ambush."
+  },
+  {
+    "id": "manas-2010:p1749:b001:l005:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1749:b001:l004",
+    "before_id": "manas-2010:p1749:b001:l007",
+    "source_line_ids": [
+      "manas-2010:p1749:b001:l005"
+    ],
+    "evidence": "corpus/batches/pages-1742-1761.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1749,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1749:b001:l005",
+          "raw": "Ташка салса тарткызым,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 129.432,
+            "xMax": 336.48,
+            "yMax": 144.684
+          }
+        }
+      ]
+    },
+    "note": "Printed Ташка салса тарткызым. Stone-striking context legible but тарткызым is not securely established as the expected negative indomitable formula. Dictionary тарткыз is causative pull and differs from negative тарткыс. No silent replacement of final з by с or invented action. Whole verse excluded pending philological resolution."
+  },
+  {
+    "id": "manas-2010:p1749:b001:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1749:b001:l004",
+    "before_id": "manas-2010:p1749:b001:l007",
+    "source_line_ids": [
+      "manas-2010:p1749:b001:l006"
+    ],
+    "evidence": "corpus/batches/pages-1742-1761.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1749,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1749:b001:l006",
+          "raw": "Алакем жолдон кайра кайткызым.",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 146.352,
+            "xMax": 389.4252,
+            "yMax": 161.604
+          }
+        }
+      ]
+    },
+    "note": "Printed Алакем жолдон кайра кайткызым. Alma and returning from road are legible but кайткызым cannot securely be construed here; expected negative кайткыс is only conjecture, paired with similarly difficult тарткызым5. Whole verse excluded rather than printing an unsupported never-turn-back assertion."
+  },
+  {
+    "id": "manas-2010:p1764:b001:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1764:b001:l011",
+    "before_id": "manas-2010:p1764:b001:l013",
+    "source_line_ids": [
+      "manas-2010:p1764:b001:l012"
+    ],
+    "evidence": "corpus/batches/pages-1762-1781.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1764,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1764:b001:l012",
+          "raw": "Ээси боо сүйүнгөн,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 247.392,
+            "xMax": 309.0,
+            "yMax": 262.644
+          }
+        }
+      ]
+    },
+    "note": "Ээси боо сүйүнгөн visibly reads as printed; owner/rejoiced are clear but боо and whole phrase unresolved. No silent replacement with бой or invented owner-strap meaning. Partial known words not counted as full translation."
+  },
+  {
+    "id": "manas-2010:p1768:b001:l017:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1768:b001:l016",
+    "before_id": "manas-2010:p1768:b001:l018",
+    "source_line_ids": [
+      "manas-2010:p1768:b001:l017"
+    ],
+    "evidence": "corpus/batches/pages-1762-1781.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1768,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1768:b001:l017",
+          "raw": "Кылангар көзү кылайып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 331.632,
+            "xMax": 338.4012,
+            "yMax": 346.884
+          }
+        }
+      ]
+    },
+    "note": "Кылангар көзү кылайып: eyes and dimly appearing are partial known content, but кылангар eye epithet is unverified. Dictionary/search yielded no positive identification; no guessed color/blindness diagnosis. Entire verse excluded pending review."
+  },
+  {
+    "id": "manas-2010:p1775:b001:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1775:b001:l019",
+    "before_id": "manas-2010:p1775:b001:l021",
+    "source_line_ids": [
+      "manas-2010:p1775:b001:l020"
+    ],
+    "evidence": "corpus/batches/pages-1762-1781.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1775,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1775:b001:l020",
+          "raw": "Атасы тоонун туу чунак,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 382.152,
+            "xMax": 333.8412,
+            "yMax": 397.404
+          }
+        }
+      ]
+    },
+    "note": "Атасы тоонун туу чунак: father/mountain clear, чунак short-eared/mischievous/wretched and туу multiple senses do not establish the sire epithet. No invented wolf/mountain-goat parentage or unverified personal name. Entire verse excluded pending specialist reading. https://el-sozduk.kg/чунак/."
+  },
+  {
+    "id": "manas-2010:p1783:b001:l040:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1783:b001:l039",
+    "before_id": "manas-2010:p1783:b001:l041",
+    "source_line_ids": [
+      "manas-2010:p1783:b001:l040"
+    ],
+    "evidence": "corpus/batches/pages-1782-1784.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1783,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1783:b001:l040",
+          "raw": "Күл майдамды чалдырып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 719.112,
+            "xMax": 347.4012,
+            "yMax": 734.364
+          }
+        }
+      ]
+    },
+    "note": "Күл майдамды unverified: possible place-name following Andijan/Namangan/Kokand, or clay/ash material phrase preceding күлбото. майдам variant майдан elsewhere does not establish this referent. Do not invent Gulmaidan locality or pulverized-ash process. Printed image appears Кул майдамды; raw retained."
+  },
+  {
+    "id": "manas-2010:p1792:b001:l016:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1792:b001:l015",
+    "before_id": "manas-2010:p1792:b001:l017",
+    "source_line_ids": [
+      "manas-2010:p1792:b001:l016"
+    ],
+    "evidence": "corpus/batches/pages-1791-1810.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1792,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1792:b001:l016",
+          "raw": "Отунсунуп калыптыр,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 314.712,
+            "xMax": 321.96,
+            "yMax": 329.964
+          }
+        }
+      ]
+    },
+    "note": "Отунсунуп in preceding fire metaphor is not securely identified. Could be defective fire-boasting formula, but no primary lexical attestation establishes the inflection or firewood/fire distinction. Entire verse withheld."
+  },
+  {
+    "id": "manas-2010:p1797:b001:l009:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1797:b001:l008",
+    "before_id": "manas-2010:p1797:b001:l010",
+    "source_line_ids": [
+      "manas-2010:p1797:b001:l009"
+    ],
+    "evidence": "corpus/batches/pages-1791-1810.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1797,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1797:b001:l009",
+          "raw": "Баса түшүп сөгүлүп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 196.872,
+            "xMax": 313.2,
+            "yMax": 212.124
+          }
+        }
+      ]
+    },
+    "note": "Баса түшүп clear pressing down, but сөгүлүп has splitting/unseaming senses, not securely the leaning-forward posture initially guessed. Whole verse withheld pending source/formula resolution."
+  },
+  {
+    "id": "manas-2010:p1798:b001:l009:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1798:b001:l008",
+    "before_id": "manas-2010:p1798:b001:l010",
+    "source_line_ids": [
+      "manas-2010:p1798:b001:l009"
+    ],
+    "evidence": "corpus/batches/pages-1791-1810.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1798,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1798:b001:l009",
+          "raw": "Мен өзүм казышып өлөм» - дегени.",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 196.872,
+            "xMax": 396.504,
+            "yMax": 212.124
+          }
+        }
+      ]
+    },
+    "note": "Казышып in birth-omen interpretation is not securely battle/contending: primary Yudakhin казыш- is digging together https://el-sozduk.kg/каз/ lines3510–3516. No silent substitution of кажышып/кагышып or guessed battle verb."
+  },
+  {
+    "id": "manas-2010:p1805:b001:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1805:b001:l011",
+    "before_id": "manas-2010:p1805:b001:l013",
+    "source_line_ids": [
+      "manas-2010:p1805:b001:l012"
+    ],
+    "evidence": "corpus/batches/pages-1791-1810.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1805,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1805:b001:l012",
+          "raw": "Кыяматтык боз эле.",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 247.392,
+            "xMax": 313.224,
+            "yMax": 262.644
+          }
+        }
+      ]
+    },
+    "note": "Кыяматтык боз describes Saykal, but боз gray/pale or youth senses do not securely establish this afterlife relation. Possible defective дос would fit context but is not supported enough to emend; entire verse withheld."
+  },
+  {
+    "id": "manas-2010:p1810:b001:l022:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1810:b001:l021",
+    "before_id": "manas-2010:p1810:b001:l024",
+    "source_line_ids": [
+      "manas-2010:p1810:b001:l022"
+    ],
+    "evidence": "corpus/batches/pages-1791-1810.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1810,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1810:b001:l022",
+          "raw": "Болоттун учу бактырган,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 415.872,
+            "xMax": 336.7188,
+            "yMax": 431.124
+          }
+        }
+      ]
+    },
+    "note": "Болоттун учу бактырган names steel point but бактырган is not securely lodged/embedded. Initial lodged rendering withdrawn rather than silently changing бактырган to баттырган. Whole verse withheld."
+  },
+  {
+    "id": "manas-2010:p1810:b001:l023:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1810:b001:l021",
+    "before_id": "manas-2010:p1810:b001:l024",
+    "source_line_ids": [
+      "manas-2010:p1810:b001:l023"
+    ],
+    "evidence": "corpus/batches/pages-1791-1810.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1810,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1810:b001:l023",
+          "raw": "Коркок болуп көп ойноп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 432.672,
+            "xMax": 340.68,
+            "yMax": 447.924
+          }
+        }
+      ]
+    },
+    "note": "Коркок болуп көп ойноп literally coward/becoming and much playing is unverified in internal wound progression. No guessed infection, fragment movement or anatomical explanation counted."
   }
 ]

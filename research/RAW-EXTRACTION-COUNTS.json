@@ -1,0 +1,33 @@
+{
+  "scope": "Raw digital extraction only, including apparatus and watermarks. Tokens are whitespace-separated items, not certified original words. Not proof of completeness.",
+  "sources": [
+    {
+      "source": "manas-2010",
+      "raw_display_lines": 79974,
+      "whitespace_separated_tokens": 267952,
+      "certified_verse_count": null
+    },
+    {
+      "source": "semetey-1-2013",
+      "raw_display_lines": 114247,
+      "whitespace_separated_tokens": 376842,
+      "certified_verse_count": null
+    },
+    {
+      "source": "semetey-2-2013",
+      "raw_display_lines": 114555,
+      "whitespace_separated_tokens": 370170,
+      "certified_verse_count": null
+    },
+    {
+      "source": "seytek-2012",
+      "raw_display_lines": 93154,
+      "whitespace_separated_tokens": 305103,
+      "certified_verse_count": null
+    }
+  ],
+  "total_raw_display_lines": 401930,
+  "total_whitespace_separated_tokens": 1320067,
+  "target_reported_verse_lines": 500553,
+  "full_source_reconciled": false
+}

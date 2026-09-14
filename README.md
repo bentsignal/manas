@@ -8,6 +8,7 @@ Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPE
 
 - `python3 scripts/acquire.py`: obtain candidate editions via current publisher links and record SHA-256 provenance.
 - `npm run audit:sources`: use Poppler to preserve PDF pages, blocks, bounding boxes and original characters in local JSONL. The legacy font mapping is provisional; output order is not certified verse order.
+- `python3 scripts/audit-drafts.py`: account for every display line in saved page batches, check overlap consistency, and report unresolved source fragments. This does not certify archival completeness.
 - `python3 scripts/check-alignment.py`: reject unexplained source gaps, duplicated/reordered display lines and undocumented source-text changes in the released prefix.
 - `npm run release:compile`: validate `corpus/release.jsonl`, then emit immutable 256-line chunks plus a small manifest. Empty releases render an empty poem column.
 - `npm test`: check release safeguards and bounded scroll-window traversal through all 500,553 positions using clearly synthetic test fixtures.

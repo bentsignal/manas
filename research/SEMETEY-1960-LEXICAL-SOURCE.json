@@ -1,0 +1,21 @@
+{
+  "url": "https://cdn-1.aki.kg/st_bilimlib/2/e16422eeace9f6cdc0d6f56d7613e629a4c39663.pdf",
+  "path": "sources/raw/semetey-1960-glossary-aid.pdf",
+  "sha256": "7ac3f8ee9a8e53f7c633ed5865a58f87cf1fc51399ce0a9c3dd9c67d5c66034a",
+  "bytes": 34145655,
+  "pdf_pages": 376,
+  "role": "Kyrgyz primary glossary lexical aid; not substitute source witness, not English translation input, not full500553-line source",
+  "retrieved_at": "2026-09-14T18:18:38.414407+00:00",
+  "root_inspected_glossary_pages": [
+    374
+  ],
+  "worker_inspected_glossary_pages": [
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375
+  ]
+}

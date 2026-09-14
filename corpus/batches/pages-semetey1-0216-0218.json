@@ -108,6 +108,7 @@
     "semetey-1-2013:p0217:b003:l026",
     "semetey-1-2013:p0217:b003:l027",
     "semetey-1-2013:p0217:b003:l028",
+    "semetey-1-2013:p0217:b003:l029",
     "semetey-1-2013:p0217:b003:l030",
     "semetey-1-2013:p0217:b003:l031",
     "semetey-1-2013:p0217:b003:l032",
@@ -279,11 +280,6 @@
       "reason": "Тайкуш in Аргымакка жал тайкуш repeats unresolved216:3:28; full referent and sense not established. Whole verse withheld."
     },
     {
-      "id": "semetey-1-2013:p0217:b003:l029",
-      "kind": "unresolved_source",
-      "reason": "Упарак* кылба сөзүмдү: precise упарак sense unresolved. Primary local Yudakhin lacks word; parallel 1960 text repeats without resolving here. No automatic substitution обурак dignity or убара trouble."
-    },
-    {
       "id": "semetey-1-2013:p0218:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printer signature28–1018, not narrative verse."
@@ -351,7 +347,8 @@
     "semetey-1-2013:p0218:b004:l027": "No twig left on earth literal threat/hyperbole retained across separate verses; who would suffer not added. Specialist review needed for discourse relation.",
     "semetey-1-2013:p0218:b004:l030": "Budur/budurmak rough terrain descriptive, compared adyr/adyrmak hilly terrain33–34; capitalization retained as sentence case not proof of named passes.",
     "semetey-1-2013:p0218:b004:l038": "Keng-Kepe named ridge, no unsupported location coordinates. Sentence continues219.",
-    "semetey-1-2013:p0217:b003:l001": "Reporting formula деп restored as she said during pair review, followed by reopened direct speech. Day/night parallel216 retained."
+    "semetey-1-2013:p0217:b003:l001": "Reporting formula деп restored as she said during pair review, followed by reopened direct speech. Day/night parallel216 retained.",
+    "semetey-1-2013:p0217:b003:l029": "RESTORED after root individually inspected primary Kyrgyz1960 glossaryPDF374, sources/raw/semetey-1960-glossary-aid.pdf SHA7ac3f8ee9a8e53f7c633ed5865a58f87cf1fc51399ce0a9c3dd9c67d5c66034a URLhttps://cdn-1.aki.kg/st_bilimlib/2/e16422eeace9f6cdc0d6f56d7613e629a4c39663.pdf: exact Упарак кылба сөзүмдү gloss жокко чыгарба, калп деп санаба. Direct English Do not dismiss my words as false; no mere phonetic replacement. Original2013source wording unchanged; source/English pair reread."
   },
   "unresolved_source": [
     {
@@ -415,37 +412,6 @@
       ],
       "reason": "Тайкуш in Аргымакка жал тайкуш repeats unresolved216:3:28; full referent and sense not established. Whole verse withheld.",
       "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0217:b003:l029"
-      ],
-      "raw": [
-        "Óïàðàê* êûëáà ñºç¿ìä¿,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0217:b003:l029",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 217,
-          "block": 3,
-          "line_in_block": 29,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 540.7797,
-            "xMax": 224.094,
-            "yMax": 553.9677
-          },
-          "raw": "Óïàðàê* êûëáà ñºç¿ìä¿,",
-          "text": "Упарак* кылба сөзүмдү,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Упарак* кылба сөзүмдү: precise упарак sense unresolved. Primary local Yudakhin lacks word; parallel 1960 text repeats without resolving here. No automatic substitution обурак dignity or убара trouble.",
-      "status": "unresolved-source-not-English-translation"
     }
   ],
   "transcription_check": {
@@ -457,6 +423,6 @@
       217,
       218
     ],
-    "evidence": "Individually inspected /tmp/semetey-root-0216.png through0218.png, left column then right; one indented wrap grouped. All233 reconstructed source/English positions read in two blocks117+116. Reporting formula217:3:1 restored during pair review and reread. Three whole unresolved verses excluded, all physical source evidence retained."
+    "evidence": "Individually inspected /tmp/semetey-root-0216.png through0218.png, left column then right; one indented wrap grouped. All233 reconstructed source/English positions read in two blocks117+116. Reporting formula217:3:1 restored during pair review and reread. Two whole unresolved verses excluded, all physical source evidence retained. Later217:3:29 restored from directly inspected primary glossary374; source/English pair reread. Two remaining whole gaps are216:3:28 and217:3:10 тайкуш."
   }
 }

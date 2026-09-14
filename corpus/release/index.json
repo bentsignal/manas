@@ -1,7 +1,7 @@
 {
   "format": "manas-release-shards-v1",
-  "rows": 34809,
-  "sha256": "88ef25f00a410b3c51ec5f888b66a510ed43db0e47edb220d533d083f1b33ed6",
+  "rows": 39375,
+  "sha256": "170d2c907f8c44dfe2d73f2610ec750c59acb1069adec243b79718b1b8f42474",
   "chunks": [
     {
       "file": "9cc08538c662f72f1e152c4f2f4beed09f444e19e2be0571781d6f98a11aed3b.jsonl",
@@ -140,8 +140,28 @@
       "rows": 1000
     },
     {
-      "file": "1256151654fae5f5c85b7e0fe23a94e077fae266b604b21a20b5731b8fc12fd8.jsonl",
-      "rows": 809
+      "file": "9a3a05786f7b0509d0ea00048fa4a750ed6e76388c2ecf03de0352433fc23141.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "8b36cee9f5cf0ddbef2678858d903ec8d3010fb00f9332171e9ff2e00714e361.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "3f181d551b73df3bf0833aceecdeff752a990d698a1071a534b2f6809fc1a05a.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "b7ca3408c870a35d211b8dca6153c3940bf43926cf25e64ef46c4d2407f64072.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "598bc4b5043c8059dcb8854a078016be5624e4211299803dff48736a62ab926d.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "91bd34c9806a1950ecf1b3ce9faf6497c04848c9576e19e917d50ff2b249f56f.jsonl",
+      "rows": 375
     }
   ]
 }

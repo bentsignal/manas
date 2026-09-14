@@ -230,5 +230,155 @@
       ]
     },
     "note": "Printed кет кудай remains uninterpreted in marriage context; parallel822:l036 does not resolve it. Whole verse preserved separately, excluded from English counts."
+  },
+  {
+    "id": "manas-2010:p0822:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0822:b001:l035",
+    "before_id": "manas-2010:p0822:b001:l037",
+    "source_line_ids": [
+      "manas-2010:p0822:b001:l036"
+    ],
+    "evidence": "corpus/batches/pages-0807-0826.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 822,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0822:b001:l036",
+          "raw": "Кайыр ике кет кудай,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 651.672,
+            "xMax": 320.88,
+            "yMax": 666.924
+          }
+        }
+      ]
+    },
+    "note": "Кайыр ике кет кудай remains uninterpreted; similar768:l019 also unresolved."
+  },
+  {
+    "id": "manas-2010:p0826:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0826:b001:l021",
+    "before_id": "manas-2010:p0826:b001:l023",
+    "source_line_ids": [
+      "manas-2010:p0826:b001:l022"
+    ],
+    "evidence": "corpus/batches/pages-0807-0826.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 826,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0826:b001:l022",
+          "raw": "Жалгыз аяк жалтак чеп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 415.872,
+            "xMax": 333.4776,
+            "yMax": 431.124
+          }
+        }
+      ]
+    },
+    "note": "Жалгыз аяк жалтак чеп remains uninterpreted; proposed narrow path/grass requires unverified textual changes."
+  },
+  {
+    "id": "manas-2010:p0828:b001:l016:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0828:b001:l015",
+    "before_id": "manas-2010:p0828:b001:l017",
+    "source_line_ids": [
+      "manas-2010:p0828:b001:l016"
+    ],
+    "evidence": "corpus/batches/pages-0827-0846.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 828,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0828:b001:l016",
+          "raw": "«Кыйырыңды!» - деп, бул чочко,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 314.712,
+            "xMax": 380.2788,
+            "yMax": 329.964
+          }
+        }
+      ]
+    },
+    "note": "Кыйырыңды is a visible quoted exclamation; dictionary frontier/relative senses do not establish the omitted curse. Full row withheld."
+  },
+  {
+    "id": "manas-2010:p0833:b001:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0833:b001:l035",
+    "before_id": "manas-2010:p0833:b001:l037",
+    "source_line_ids": [
+      "manas-2010:p0833:b001:l036"
+    ],
+    "evidence": "corpus/batches/pages-0827-0846.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 833,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0833:b001:l036",
+          "raw": "Айзага камбыл түрсаяк,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 651.672,
+            "xMax": 333.4776,
+            "yMax": 666.924
+          }
+        }
+      ]
+    },
+    "note": "Substantive horse epithet түрсаяк not reliably identified in consulted primary dictionaries; tireless would be an unsupported guess. Full row withheld."
+  },
+  {
+    "id": "manas-2010:p0893:b001:l042:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0893:b001:l041",
+    "before_id": "manas-2010:p0894:b001:l001",
+    "source_line_ids": [
+      "manas-2010:p0893:b001:l042"
+    ],
+    "evidence": "corpus/batches/pages-0876-0895.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 893,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0893:b001:l042",
+          "raw": "Дардештиги бар экен.",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 752.712,
+            "xMax": 325.704,
+            "yMax": 767.964
+          }
+        }
+      ]
+    },
+    "note": "Unresolved full display line Дардештиги бар экен. Image confirms reading; дардеш lexical root not established by local glossary or primary dictionary searches. Surrounding accusation of disobedience does not justify inventing stubbornness. Exact raw and transliteration preserved separately; not counted as translated English."
   }
 ]

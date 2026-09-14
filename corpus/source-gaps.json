@@ -1190,5 +1190,215 @@
       ]
     },
     "note": "Чынчуу unverified as rank, name or defective word; exact phrase occurs once in witness, dictionary checks negative. No proper-name status assumed from line-initial capitalization, no opaque rank transliteration accepted."
+  },
+  {
+    "id": "manas-2010:p1418:b001:l008:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1418:b001:l007",
+    "before_id": "manas-2010:p1418:b001:l009",
+    "source_line_ids": [
+      "manas-2010:p1418:b001:l008"
+    ],
+    "evidence": "corpus/batches/pages-1415-1434.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1418,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1418:b001:l008",
+          "raw": "Кыймалуу жактан чалдырат,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 179.952,
+            "xMax": 358.1976,
+            "yMax": 195.204
+          }
+        }
+      ]
+    },
+    "note": "Unresolved full clause: кыймалуу жактан and causative чалдырат cannot securely be construed. Ornamented chest жактан/жагдан parallel1303 does not establish this predicate."
+  },
+  {
+    "id": "manas-2010:p1421:b001:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1421:b001:l030",
+    "before_id": "manas-2010:p1421:b001:l032",
+    "source_line_ids": [
+      "manas-2010:p1421:b001:l031"
+    ],
+    "evidence": "corpus/batches/pages-1415-1434.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1421,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1421:b001:l031",
+          "raw": "Оң оюлуп жыйылып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 567.432,
+            "xMax": 319.56,
+            "yMax": 582.684
+          }
+        }
+      ]
+    },
+    "note": "Unresolved оң оюлуп construction before gathered together; no corroborated emendation or coherent whole-clause reading."
+  },
+  {
+    "id": "manas-2010:p1428:b001:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1428:b001:l011",
+    "before_id": "manas-2010:p1428:b001:l013",
+    "source_line_ids": [
+      "manas-2010:p1428:b001:l012"
+    ],
+    "evidence": "corpus/batches/pages-1415-1434.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1428,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1428:b001:l012",
+          "raw": "Төө чүкөдө салганда,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 247.392,
+            "xMax": 320.88,
+            "yMax": 262.644
+          }
+        }
+      ]
+    },
+    "note": "Unresolved setting/object of battle clause: literally camel knucklebone locative, but no attested place or contest interpretation established. Derivative Kyrgyz web witness repeats spelling, not an independent repair."
+  },
+  {
+    "id": "manas-2010:p1429:b001:l028:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1429:b001:l027",
+    "before_id": "manas-2010:p1429:b001:l029",
+    "source_line_ids": [
+      "manas-2010:p1429:b001:l028"
+    ],
+    "evidence": "corpus/batches/pages-1415-1434.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1429,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1429:b001:l028",
+          "raw": "Чындык кандын журту таш",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 516.912,
+            "xMax": 350.1492,
+            "yMax": 532.164
+          }
+        }
+      ]
+    },
+    "note": "Unresolved Чындык кандын журту таш object-clause before attaching to forelock. No established gemstone meaning for журту; no invented stone name or silent emendation."
+  },
+  {
+    "id": "manas-2010:p1446:b001:l008:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1446:b001:l007",
+    "before_id": "manas-2010:p1446:b001:l009",
+    "source_line_ids": [
+      "manas-2010:p1446:b001:l008"
+    ],
+    "evidence": "corpus/batches/pages-1438-1457.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1446,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1446:b001:l008",
+          "raw": "Алтын айдар кең бурчту",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 179.952,
+            "xMax": 335.7948,
+            "yMax": 195.204
+          }
+        }
+      ]
+    },
+    "note": "Алтын айдар кең бурчту is visibly printed. Golden forelock and broad corners are recognizable words, but their referent and the construction leading into Kökchö’s confinement are not defensibly resolved. No established proper-name or city reading found. Whole verse retained raw/transliterated outside English translation count; no padded English or silent emendation."
+  },
+  {
+    "id": "manas-2010:p1466:b001:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1466:b001:l035",
+    "before_id": "manas-2010:p1466:b001:l037",
+    "source_line_ids": [
+      "manas-2010:p1466:b001:l036"
+    ],
+    "evidence": "corpus/batches/pages-1461-1480.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1466,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1466:b001:l036",
+          "raw": "Канча боор, чап олоң",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 651.672,
+            "xMax": 322.1388,
+            "yMax": 666.924
+          }
+        }
+      ]
+    },
+    "note": "Канча боор not verified as a harness term. боор dictionary gives liver/belly/slope but not initial draft straps. чап олоң belly-girth clear. Whole line withheld pending lexical/source reconciliation."
+  },
+  {
+    "id": "manas-2010:p1472:b001:l024:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1472:b001:l023",
+    "before_id": "manas-2010:p1472:b001:l025",
+    "source_line_ids": [
+      "manas-2010:p1472:b001:l024"
+    ],
+    "evidence": "corpus/batches/pages-1461-1480.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1472,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1472:b001:l024",
+          "raw": "Кыймалуу жактан чалдырган,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 449.472,
+            "xMax": 364.0776,
+            "yMax": 464.724
+          }
+        }
+      ]
+    },
+    "note": "Printed жактан side in a formula resembling кыймалуу жагдан ornamented iron-covered chest1255:33/1303:26. Causative чалдырган and whole phrase unresolved. Cannot silently change source or invent coffin for living wounded Manas."
   }
 ]

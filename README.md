@@ -36,3 +36,8 @@ The `complete` flag additionally requires exact per-part coverage, every line re
 ## Remaining work
 
 Reconcile original notebook inventory and edition counts; locate full continuations; establish publication basis; verify transcription and column order; conduct pilot translation with a qualified reviewer; measure cost; run resumable bulk translation and review; populate and verify the reader; publish the complete edition only when all checks pass. See the audit for concrete library leads and unresolved count conflicts.
+
+## Progress backups
+
+Public GitHub mirror: https://github.com/bentsignal/manas (`github` remote, `main` branch).
+The release coordinator commits completed translation batches and coverage metadata frequently and pushes `main` to GitHub after each checkpoint, in addition to pushing each published version to the Sites source repository. Workers save only their assigned files; the coordinator handles shared Git commits and publication. Unfinished source research and original PDFs remain local under the existing ignore rules. Do not push backup branches or use `--all`/`--mirror`; those can include superseded large release snapshots.

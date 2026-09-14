@@ -1,17 +1,17 @@
 {
-  "version": "715916c48e3feb35",
+  "version": "f304669bf5860910",
   "target": 500553,
-  "released": 61108,
-  "englishWords": 336866,
+  "released": 63873,
+  "englishWords": 351583,
   "reviewed": 0,
   "complete": false,
   "perPart": {
-    "manas": 61108,
+    "manas": 63873,
     "semetey": 0,
     "seytek": 0,
     "continuations": 0
   },
-  "sourceGaps": 39,
+  "sourceGaps": 46,
   "chunkSize": 256,
   "chunks": [
     "2e494bdb494021e3fa672f0c64aaaf5e567aad18dcfe668066abc38bf358291a",
@@ -252,7 +252,18 @@
     "bf0eed16894aa83fe65ad2deb08b94232f638f8612ec885ffdfe79b527375f7d",
     "302947f84f2c8f0fc1ad67e9f92097cb06f5d5500e56d082293b5d9d6d42d506",
     "cdbd60ad6e59c83b58e01c149da8252ed67e0692e58c46682eed9fff589e16bf",
-    "fc80f36a5a2bdaf4e3419ddc4140f0481be07837dbe784695ffcc73a6d65b924"
+    "5fa740c3a1181973ef59b74c210995c1d4d957ba5c57d1b5a01ab47fe4b733bf",
+    "968ce1e70084841e0ebbe2280d40bd5ec3c370b39f8688f00a281ff8ee9b6605",
+    "af3ccb4f8fe53a9bc5334caad355dfbeadaf468e16c348add42131c765a0fffc",
+    "ae8d9aac0d18c887515e2b0e18cb0b2a3605c34799678ea0e204b9e027800605",
+    "615a98c9e403704eef5cd6d7dd5640a1a74a334664ddf0d545a8fcd67b53ea21",
+    "cb5008845713fb956fc89cdbe8ff5dc59fb004f2738e6c7e48f78275ec9bbe04",
+    "273a45aa82331908045d2407e630801c7e6bfe6353ae86eac269dab0b970091b",
+    "ac660bb4b9171914556d168f63f59852b1e355962da8930ea45bd6f1dab4641e",
+    "bc9525f05d5e83a90c0434b20c5cd5d483b1eedad1a920145bd976566fec8938",
+    "e476694da38b98a57978e7b9971f0d84fccbf274c920c807a3199204a69d8ba3",
+    "69b95e95d82c3254cd404fd3f067ea4f15c7984d5d4b2e9589899ae3f27f7033",
+    "0f1cf5eaa0e74d8419a0f5821f65c2cd2daf4ce0d0f16601c010b3bd31392468"
   ],
   "chapters": [
     {

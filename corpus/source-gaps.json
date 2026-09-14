@@ -200,5 +200,35 @@
       ]
     },
     "note": "Verse source remains unresolved: Акыйнек means a taunting-song genre in consulted dictionaries, incompatible with secure identification of this wrapping/binding material. No defensible full English rendering; exact source and partial gloss retained in unresolved_passages, excluded from English counts."
+  },
+  {
+    "id": "manas-2010:p0768:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p0768:b001:l018",
+    "before_id": "manas-2010:p0768:b001:l020",
+    "source_line_ids": [
+      "manas-2010:p0768:b001:l019"
+    ],
+    "evidence": "corpus/batches/pages-0767-0786.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 768,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p0768:b001:l019",
+          "raw": "Чын дүйнөлүк кет кудай",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 365.352,
+            "xMax": 336.2532,
+            "yMax": 380.604
+          }
+        }
+      ]
+    },
+    "note": "Printed кет кудай remains uninterpreted in marriage context; parallel822:l036 does not resolve it. Whole verse preserved separately, excluded from English counts."
   }
 ]

@@ -13,9 +13,19 @@
       "before": null,
       "after": "My Talas, whose protector lives,",
       "note": "Restored held verse from primary бирII=пир and exact пири тирүү жер land formula after individual source515 image and contextual review; sourceunchanged. Adds1verse/5English words; not yet live."
+    },
+    {
+      "id": "semetey-1-2013:p0356:b003:l015",
+      "before": "Your wolf-maned father, the ocean,",
+      "after": "Your oceanlike, wolf-maned father's",
+      "note": "Root and second Codex worker independently viewed356 image and surrounding source. Explicit genitive көкжалдын in15 makes16 possessed patron: primary Yudakhin бир II = пир. Following leopard19 and short-tailed lion22 support animal protector. Distinct from uninflected535 formula; original initial б and all source evidence retained. Ocean metaphor retained, not a numbered living lion among people."
+    },
+    {
+      "id": "semetey-1-2013:p0356:b003:l016",
+      "before": "Was a living lion among them.",
+      "after": "Patron was a living lion.",
+      "note": "Root and second Codex worker independently viewed356 image and surrounding source. Explicit genitive көкжалдын in15 makes16 possessed patron: primary Yudakhin бир II = пир. Following leopard19 and short-tailed lion22 support animal protector. Distinct from uninflected535 formula; original initial б and all source evidence retained. Ocean metaphor retained, not a numbered living lion among people."
     }
   ],
-  "pending": [
-    "semetey-1-2013:p0356:b003:l016"
-  ]
+  "pending": []
 }

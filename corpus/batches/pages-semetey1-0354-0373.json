@@ -1750,7 +1750,9 @@
     "semetey-1-2013:p0373:b003:l035": "Source explicitly дүйнө бок, world as shit; preserve coarse register rather than sanitize.",
     "semetey-1-2013:p0373:b004:l013": "Image бирге in twelve-guide formula read as пирге variant; primary пир spiritual guide. Documented, not silent English borrowing.",
     "semetey-1-2013:p0373:b004:l020": "Отузунда leaves possessor implicit; render at thirty without assigning age to Manas or Bakai beyond source.",
-    "semetey-1-2013:p0373:b004:l037": "Planting an orchard and building a house are explicit cultivation metaphors for Bakai’s upbringing/support of Manas, not separate construction projects."
+    "semetey-1-2013:p0373:b004:l037": "Planting an orchard and building a house are explicit cultivation metaphors for Bakai’s upbringing/support of Manas, not separate construction projects.",
+    "semetey-1-2013:p0356:b003:l015": "Root and second Codex worker independently viewed356 image and surrounding source. Explicit genitive көкжалдын in15 makes16 possessed patron: primary Yudakhin бир II = пир. Following leopard19 and short-tailed lion22 support animal protector. Distinct from uninflected535 formula; original initial б and all source evidence retained. Ocean metaphor retained, not a numbered living lion among people.",
+    "semetey-1-2013:p0356:b003:l016": "Root and second Codex worker independently viewed356 image and surrounding source. Explicit genitive көкжалдын in15 makes16 possessed patron: primary Yudakhin бир II = пир. Following leopard19 and short-tailed lion22 support animal protector. Distinct from uninflected535 formula; original initial б and all source evidence retained. Ocean metaphor retained, not a numbered living lion among people."
   },
   "excluded_source_ids": [
     {
@@ -2451,7 +2453,7 @@
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
     "english_verse_rows": 1529,
-    "english_words": 8872,
+    "english_words": 8870,
     "unresolved_source_rows": 12,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1541,

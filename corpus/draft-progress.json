@@ -1,0 +1,31 @@
+{
+  "saved_draft_rows": 5218,
+  "released_draft_rows": 1531,
+  "independently_reviewed_rows": 0,
+  "saved_page_ranges": [
+    [
+      16,
+      118
+    ],
+    [
+      159,
+      164
+    ]
+  ],
+  "active_translation_page_ranges": [
+    [
+      119,
+      138
+    ],
+    [
+      139,
+      158
+    ]
+  ],
+  "unresolved_source_regions": [
+    "manas-2010:p0048:b002:l002\u2013l004"
+  ],
+  "full_source_reconciled": false,
+  "complete": false,
+  "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job."
+}

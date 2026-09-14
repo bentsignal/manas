@@ -100,3 +100,7 @@ A newly located encyclopedia entry for Kenen cites manuscript inventory 960, pag
 ## Checkpoint: PDF page 47
 
 1,531 draft rows now released, representing 1,532 source display lines and one explicitly excluded running heading. Workers finished drafts through page75 (2,865 total draft verse rows including unpublished work). Publication stops before the damaged source region on page48. No full-source reconciliation or specialist review claimed. Page16 line11 now uses the documented пирге emendation in TEXTUAL-CORRECTIONS.md while preserving base raw text.
+
+## Current draft inventory and priority lead
+
+5,218 draft rows saved: sourcepages16–118 and159–164; workers assigned119–158. Of these,1,531 remain live through47. All are unreviewed AI drafts; lineation provisional. Saved-page coverage and published-prefix audits pass. An actual existing Turkish–English Karalaev project has been identified on Internet Archive; source worker inspected an English PDF and found derivative source files, a page48 ellipsis, and count conflicts. No first-complete-translation claim is justified. Detailed source-priority report is in preparation.

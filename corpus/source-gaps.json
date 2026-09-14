@@ -950,5 +950,155 @@
       ]
     },
     "note": "Бөйкү in the named divination expression remains unverified: төлгө is divination, but neither a primary lexical sense nor secure named-object identification for бөйкү was established. Whole verse preserved outside English count; no invented oracle method."
+  },
+  {
+    "id": "manas-2010:p1303:b001:l026:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1303:b001:l025",
+    "before_id": "manas-2010:p1303:b001:l027",
+    "source_line_ids": [
+      "manas-2010:p1303:b001:l026"
+    ],
+    "evidence": "corpus/batches/pages-1303-1305.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1303,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1303:b001:l026",
+          "raw": "«Кыймалуу жагдан чалдырып,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 483.192,
+            "xMax": 368.88,
+            "yMax": 498.444
+          }
+        }
+      ]
+    },
+    "note": "Кыймалуу жагдан ornamented iron-covered chest is secure (edition1837:26/Yudakhin https://el-sozduk.kg/кыйма/), but чалдырып and role of chest in this casualty lament are not. Same wording1255:33 confirms text without resolving syntax. No invented coffin or trap translation. Whole verse withheld."
+  },
+  {
+    "id": "manas-2010:p1310:b001:l002:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1310:b001:l001",
+    "before_id": "manas-2010:p1310:b001:l003",
+    "source_line_ids": [
+      "manas-2010:p1310:b001:l002"
+    ],
+    "evidence": "corpus/batches/pages-1309-1328.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1310,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1310:b001:l002",
+          "raw": "Ок жайылып кетпеске",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 78.912,
+            "xMax": 325.416,
+            "yMax": 94.164
+          }
+        }
+      ]
+    },
+    "note": "Printed Ок жайылып кетпеске is readable but meaning in horse-cover/halter context remains unresolved. ок bullet/arrow and жайылып spreading give no verified coherent reading; possible от grazing emendation unproved, not imposed."
+  },
+  {
+    "id": "manas-2010:p1316:b001:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1316:b001:l024",
+    "before_id": "manas-2010:p1316:b001:l026",
+    "source_line_ids": [
+      "manas-2010:p1316:b001:l025"
+    ],
+    "evidence": "corpus/batches/pages-1309-1328.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1316,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1316:b001:l025",
+          "raw": "Айдап келдик кургуштап,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 466.392,
+            "xMax": 341.76,
+            "yMax": 481.644
+          }
+        }
+      ]
+    },
+    "note": "кургуштап lacks verified lexical meaning after dictionary and source-glossary checks. Driving them here is clear, but browbeating/threatening would be unverified context-only substitution. Entire verse preserved separately."
+  },
+  {
+    "id": "manas-2010:p1323:b001:l028:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1323:b001:l027",
+    "before_id": "manas-2010:p1323:b001:l029",
+    "source_line_ids": [
+      "manas-2010:p1323:b001:l028"
+    ],
+    "evidence": "corpus/batches/pages-1309-1328.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1323,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1323:b001:l028",
+          "raw": "Чобуркайлар чокусун!",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 516.912,
+            "xMax": 325.9932,
+            "yMax": 532.164
+          }
+        }
+      ]
+    },
+    "note": "Чобуркайлар unverified noun in pecking curse; чобур means ordinary horse/nag but does not establish this form as a bird species. No invented species or opaque non-name transliteration accepted."
+  },
+  {
+    "id": "manas-2010:p1329:b001:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1329:b001:l030",
+    "before_id": "manas-2010:p1329:b001:l032",
+    "source_line_ids": [
+      "manas-2010:p1329:b001:l031"
+    ],
+    "evidence": "corpus/batches/pages-1329-1348.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1329,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1329:b001:l031",
+          "raw": "Төмөнкү Меке дылдадан.",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 567.432,
+            "xMax": 344.7828,
+            "yMax": 582.684
+          }
+        }
+      ]
+    },
+    "note": "Меке is Mecca and Төмөнкү below/lower, but дылда has no established primary Kyrgyz meaning or secure place-name identification here. Exact parallels1661:l005 and1820:l018 do not resolve it. Whole verse preserved raw/transliteration outside English count, no guessed gilded-city or Medina emendation."
   }
 ]

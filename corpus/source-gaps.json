@@ -1430,5 +1430,35 @@
       ]
     },
     "note": "Printed Ордун салын is not confidently resolved in escape/positioning context. A separately published Kyrgyz quotation in Ubukeev has Ордун салып, but this only supports a variant ending, not whole-phrase meaning. Do not silently normalize or invent a maneuver."
+  },
+  {
+    "id": "manas-2010:p1627:b001:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "manas-2010",
+    "after_id": "manas-2010:p1627:b001:l024",
+    "before_id": "manas-2010:p1627:b001:l026",
+    "source_line_ids": [
+      "manas-2010:p1627:b001:l025"
+    ],
+    "evidence": "corpus/batches/pages-1610-1629.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Manas-eposu-2010-S-Karalaev.pdf",
+      "page": 1627,
+      "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "segments": [
+        {
+          "id": "manas-2010:p1627:b001:l025",
+          "raw": "Уй күрөң тартып жөлөнүп,",
+          "bbox": {
+            "xMin": 212.52,
+            "yMin": 466.392,
+            "xMax": 347.28,
+            "yMax": 481.644
+          }
+        }
+      ]
+    },
+    "note": "Уй күрөң тартып remains uninterpreted as a full phrase. Yudakhin күрөң brown and уй cattle do not establish the idiom in wounded-hero context. Same-edition1116:42 also excluded; no speculative gait or color change counted. https://el-sozduk.kg/күрөң/. All source words visibly present; no missing-print claim."
   }
 ]

@@ -41,6 +41,7 @@
     "manas-2010:p1719:b001:l035",
     "manas-2010:p1719:b001:l036",
     "manas-2010:p1719:b001:l038",
+    "manas-2010:p1719:b001:l039",
     "manas-2010:p1719:b001:l040",
     "manas-2010:p1719:b001:l041",
     "manas-2010:p1719:b001:l042",
@@ -64,6 +65,7 @@
     "manas-2010:p1720:b001:l018",
     "manas-2010:p1720:b001:l019",
     "manas-2010:p1720:b001:l020",
+    "manas-2010:p1720:b001:l021",
     "manas-2010:p1720:b001:l022",
     "manas-2010:p1720:b001:l023",
     "manas-2010:p1720:b001:l024",
@@ -153,7 +155,9 @@
     "manas-2010:p1721:b001:l027": "Quran recitation with loud lament, not ritual instruction added.",
     "manas-2010:p1721:b001:l031": "Character grief wish to die if body not found; literary speech.",
     "manas-2010:p1721:b001:l039": "Printed Казап wrath, not emended казат campaign.",
-    "manas-2010:p1721:b001:l042": "Speech continues beyond batch, no closing quote invented."
+    "manas-2010:p1721:b001:l042": "Speech continues beyond batch, no closing quote invented.",
+    "manas-2010:p1719:b001:l039": "Resolved after primary Yudakhin check: күл I = гүл1 (flower), https://el-sozduk.kg/кү/9185–9189;1969alsoКҮЛIII=гүл9235. Thus raw күл is attested variant, no silent к→г emend required. Image glyph appears кул but original extraction күл plus parallel flower/youth/death context and third recurrence1831:12 support reading. күбүлгөн fallen/shed petals imagery retained; same-agent revised pair reread.",
+    "manas-2010:p1720:b001:l021": "Resolved after primary Yudakhin check: күл I = гүл1 (flower), https://el-sozduk.kg/кү/9185–9189;1969alsoКҮЛIII=гүл9235. Thus raw күл is attested variant, no silent к→г emend required. Image glyph appears кул but original extraction күл plus parallel flower/youth/death context and third recurrence1831:12 support reading. күбүлгөн fallen/shed petals imagery retained; same-agent revised pair reread."
   },
   "status": "draft",
   "headings": [],
@@ -168,16 +172,6 @@
       "id": "manas-2010:p1719:b001:l037",
       "kind": "unresolved_source",
       "reason": "Printed бий өңгө not resolved. Temple wound clear but weapon/modifier uncertain; no invented bullet or silent emendation."
-    },
-    {
-      "id": "manas-2010:p1719:b001:l039",
-      "kind": "unresolved_source",
-      "reason": "Raw күл күнүндө күбүлгөн; image appears кул күнүндө күбүлгөн. Flower/youth formula гүл күнүндө tempting from next verse but not independently established; do not silently emend. Repeated1720:21 same uncertainty."
-    },
-    {
-      "id": "manas-2010:p1720:b001:l021",
-      "kind": "unresolved_source",
-      "reason": "Raw Күл күнүндө күбүлгөн; image appears Кул күнүндө күбүлгөн. Flower/youth conjecture not established; see1719:39. Exact repetition accounted separately."
     }
   ],
   "unresolved_passages": [],
@@ -190,15 +184,15 @@
       1720,
       1721
     ],
-    "scope": "All three PDF images individually inspected;122 included verses and four unresolved verses accounted. No independent expert review."
+    "scope": "All three PDF images individually inspected;124 included verses and two unresolved verses accounted. No independent expert review."
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All126 raw verses and corresponding draft or unresolved decision read; revised1719:15–16 and1720:6–7 reread. Predecessor1718 and continuation1722 read. Same-agent check."
+    "scope": "All126 raw verses and corresponding draft or unresolved decision read; revised1719:15–16 and1720:6–7 reread. Predecessor1718 and continuation1722 read. Same-agent check. Subsequently1719:39 and1720:21 resolved with primary күлI=flower entry; both new source/English pairs reread."
   },
   "counts": {
-    "english_verse_rows": 122,
-    "english_words": 729
+    "english_verse_rows": 124,
+    "english_words": 744
   },
   "translation_provenance": "Direct Kyrgyz-to-English by Codex root from original extraction, PDF images, edition glossary and cited primary dictionaries. No prior English translation input.",
   "unresolved_source": [
@@ -319,124 +313,6 @@
         "normalization": "identity"
       },
       "rendered_page": "/tmp/manas-root-1719.png"
-    },
-    {
-      "id": "manas-2010:p1719:b001:l039",
-      "source_id": "manas-2010",
-      "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "page": 1719,
-      "block": 1,
-      "line_in_block": 39,
-      "bbox": {
-        "xMin": 212.52,
-        "yMin": 702.192,
-        "xMax": 374.04,
-        "yMax": 717.444
-      },
-      "raw": "Ошондо, күл күнүндө күбүлгөн,",
-      "text": "Ошондо, күл күнүндө күбүлгөн,",
-      "classification": "unreviewed",
-      "transcription_status": "unreviewed",
-      "normalization": "identity",
-      "reason": "Raw күл күнүндө күбүлгөн; image appears кул күнүндө күбүлгөн. Flower/youth formula гүл күнүндө tempting from next verse but not independently established; do not silently emend. Repeated1720:21 same uncertainty.",
-      "preceding_source": {
-        "id": "manas-2010:p1719:b001:l038",
-        "source_id": "manas-2010",
-        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-        "page": 1719,
-        "block": 1,
-        "line_in_block": 38,
-        "bbox": {
-          "xMin": 212.52,
-          "yMin": 685.392,
-          "xMax": 381.024,
-          "yMax": 700.644
-        },
-        "raw": "Баатыр бурулбай кеткен Мекеге.",
-        "text": "Баатыр бурулбай кеткен Мекеге.",
-        "classification": "unreviewed",
-        "transcription_status": "unreviewed",
-        "normalization": "identity"
-      },
-      "following_source": {
-        "id": "manas-2010:p1719:b001:l040",
-        "source_id": "manas-2010",
-        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-        "page": 1719,
-        "block": 1,
-        "line_in_block": 40,
-        "bbox": {
-          "xMin": 212.52,
-          "yMin": 719.112,
-          "xMax": 393.3108,
-          "yMax": 734.364
-        },
-        "raw": "Баатыр ай, жаш кезинде жайраган!",
-        "text": "Баатыр ай, жаш кезинде жайраган!",
-        "classification": "unreviewed",
-        "transcription_status": "unreviewed",
-        "normalization": "identity"
-      },
-      "rendered_page": "/tmp/manas-root-1719.png"
-    },
-    {
-      "id": "manas-2010:p1720:b001:l021",
-      "source_id": "manas-2010",
-      "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-      "page": 1720,
-      "block": 1,
-      "line_in_block": 21,
-      "bbox": {
-        "xMin": 212.52,
-        "yMin": 398.952,
-        "xMax": 326.8788,
-        "yMax": 414.204
-      },
-      "raw": "Күл күнүндө күбүлгөн,",
-      "text": "Күл күнүндө күбүлгөн,",
-      "classification": "unreviewed",
-      "transcription_status": "unreviewed",
-      "normalization": "identity",
-      "reason": "Raw Күл күнүндө күбүлгөн; image appears Кул күнүндө күбүлгөн. Flower/youth conjecture not established; see1719:39. Exact repetition accounted separately.",
-      "preceding_source": {
-        "id": "manas-2010:p1720:b001:l020",
-        "source_id": "manas-2010",
-        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-        "page": 1720,
-        "block": 1,
-        "line_in_block": 20,
-        "bbox": {
-          "xMin": 212.52,
-          "yMin": 382.152,
-          "xMax": 324.3,
-          "yMax": 397.404
-        },
-        "raw": "Асыл Сыргак кабылан",
-        "text": "Асыл Сыргак кабылан",
-        "classification": "unreviewed",
-        "transcription_status": "unreviewed",
-        "normalization": "identity"
-      },
-      "following_source": {
-        "id": "manas-2010:p1720:b001:l022",
-        "source_id": "manas-2010",
-        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-        "page": 1720,
-        "block": 1,
-        "line_in_block": 22,
-        "bbox": {
-          "xMin": 212.52,
-          "yMin": 415.872,
-          "xMax": 331.5588,
-          "yMax": 431.124
-        },
-        "raw": "Ак куранын жазданган,",
-        "text": "Ак куранын жазданган,",
-        "classification": "unreviewed",
-        "transcription_status": "unreviewed",
-        "normalization": "identity"
-      },
-      "rendered_page": "/tmp/manas-root-1720.png"
     }
   ]
 }

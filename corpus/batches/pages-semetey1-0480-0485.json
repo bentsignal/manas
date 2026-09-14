@@ -308,6 +308,7 @@
     "semetey-1-2013:p0483:b005:l037",
     "semetey-1-2013:p0483:b005:l038",
     "semetey-1-2013:p0483:b005:l039",
+    "semetey-1-2013:p0484:b003:l001",
     "semetey-1-2013:p0484:b003:l002",
     "semetey-1-2013:p0484:b003:l003",
     "semetey-1-2013:p0484:b003:l004",
@@ -515,7 +516,8 @@
     "semetey-1-2013:p0485:b004:l024": "бадирек primary Yudakhin scoundrel, refusal to comply preserved.",
     "semetey-1-2013:p0485:b004:l035": "ойнуңду ал take your game literal rebuke retained without silently оюң mind emendation.",
     "semetey-1-2013:p0485:b004:l036": "Take your mother insult literal retained, no polite euphemism or invented action.",
-    "semetey-1-2013:p0485:b003:l035": "Question God has struck Buruts retained despite threatening pursuers context, not rewritten as Kalmyks."
+    "semetey-1-2013:p0485:b003:l035": "Question God has struck Buruts retained despite threatening pursuers context, not rewritten as Kalmyks.",
+    "semetey-1-2013:p0484:b003:l001": "Restored after root and worker reviewed printed PDF484 and the preceding Akkelte gun description. Primary Yudakhin болжош I means distinguishing sign/mark (sources/raw/yudakhin-2015.pdf, printed156); Үнү бийик describes its loud voice/report, болжошу its mark. The nominal construction is rendered as a distinguishing feature; no aiming property or use as a military signal added. Printed Kyrgyz unchanged; provisional interpretation, not specialist certification."
   },
   "excluded_source_ids": [
     {
@@ -587,11 +589,6 @@
       "id": "semetey-1-2013:p0484:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0484:b003:l001",
-      "kind": "unresolved_source",
-      "reason": "Үнү бийик болжошу exact болжошу construction unclear weapon praise; whole verse held rather than invented targeting property."
     },
     {
       "id": "semetey-1-2013:p0484:b005:l001",
@@ -747,34 +744,6 @@
     },
     {
       "source_line_ids": [
-        "semetey-1-2013:p0484:b003:l001"
-      ],
-      "raw": "¯í¿ áèéèê áîëæîøó,",
-      "ky": "Үнү бийик болжошу,",
-      "status": "unresolved",
-      "note": "Үнү бийик болжошу exact болжошу construction unclear weapon praise; whole verse held rather than invented targeting property.",
-      "after_source_id": "semetey-1-2013:p0483:b005:l039",
-      "before_source_id": "semetey-1-2013:p0484:b003:l002",
-      "source": {
-        "page": 484,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0484:b003:l001",
-            "raw": "¯í¿ áèéèê áîëæîøó,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 143.0997,
-              "xMax": 201.93,
-              "yMax": 156.2877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
         "semetey-1-2013:p0485:b003:l001"
       ],
       "raw": "Êûòàéäûí ÷ûãààí àéûíäàé",
@@ -859,17 +828,17 @@
     }
   ],
   "counts": {
-    "translated_verse_rows": 454,
-    "english_words": 2459,
-    "translated_source_fragments": 461,
+    "translated_verse_rows": 455,
+    "english_words": 2465,
+    "translated_source_fragments": 462,
     "physical_narrative_fragments": 468,
     "reconstructed_source_verses": 461,
     "wrapped_verse_groups": 7,
-    "unresolved_source_rows": 7,
-    "unresolved_source_verses": 7,
+    "unresolved_source_rows": 6,
+    "unresolved_source_verses": 6,
     "nonverse_extraction_records": 14,
     "watermark_records": 6,
-    "source_words": 1496,
+    "source_words": 1499,
     "all_source_verse_words": 1520,
     "per_page": [
       {
@@ -898,9 +867,9 @@
       },
       {
         "page": 484,
-        "verse_rows": 77,
-        "english_words": 389,
-        "source_fragments": 77
+        "verse_rows": 78,
+        "english_words": 395,
+        "source_fragments": 78
       },
       {
         "page": 485,

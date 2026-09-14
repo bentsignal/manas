@@ -1,0 +1,16 @@
+{
+  "version_number": 44,
+  "site_version_id": "appgprj_6aa74f8cddfc819192d7413a61a1672a~appgver_48015a5bce8881918697909d74a32c1c",
+  "source_commit": "f55260d8b55fd313ad9c3bd5b25520b57ffec149",
+  "deployment_id": "appgdep_6aa85f64340c8191bfa1b5af27cbcdb1",
+  "url": "https://manas-every-line.bentsignal.chatgpt.site",
+  "verified_on": "2026-09-14",
+  "verification": "scripts/verify-live.py exited 0 after fetching and validating the live manifest and every content chunk",
+  "manifest_version": "04634018ef103a33",
+  "draft_verses": 115397,
+  "english_words": 642702,
+  "unresolved_regions": 272,
+  "last_source_id": "semetey-1-2013:p0505:b005:l039",
+  "full_source_reconciled": false,
+  "independently_specialist_reviewed_verses": 0
+}

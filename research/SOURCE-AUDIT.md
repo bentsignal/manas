@@ -88,3 +88,9 @@ Completion requires source reconciliation, every target line accounted for, all 
 ## Current status
 
 Four PDFs acquired; structured extraction complete. Opening pilot: 92 draft English rows cover every verse display line on PDF pages 16–17, with one provisional wrapped-line join. Digital-witness transcription visually checked; archival lineation and full-corpus completeness remain unverified. See [opening pilot notes](OPENING-PILOT.md). No paid bulk translation run has started. No expert review or institutional correspondence has occurred. Source completeness remains unresolved. A traditional-folklore publication basis is documented for the opening pilot only; rights in modern editorial material and the full edition remain unverified.
+
+## Continuing draft — 14 September 2026
+
+380 English draft rows now cover PDF pages 16–23. Pages 18–23 were visually compared with the digital witness. Their 288 display lines are preserved in order, with difficult readings flagged in record notes. All remain unreviewed drafts. Traditional-verse publication basis is extended to these checked pages; modern editorial material remains excluded.
+
+A newly located encyclopedia entry for Kenen cites manuscript inventory 960, page 145, for his birth narrative and inventory 960 more generally for subsequent events: https://tamgasoft.kg/dict/index.php?lang=en&lfrom=kg&word=%D0%BA%D0%B5%D0%BD%D0%B5%D0%BD . This is a concrete archive lead, not an acquired continuation. No exact old-inventory-960 match occurs in our existing 88-record catalogue inventory.

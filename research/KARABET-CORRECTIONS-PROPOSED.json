@@ -1,0 +1,2858 @@
+{
+  "status": "read-only-proposal-not-applied",
+  "checked_by": "Codex translate_36_55_resume, same-agent review; no independent specialist verification",
+  "date": "2026-09-14",
+  "scope": "All 69 supplied candidates, including one false-positive; every one of the 56 distinct page images individually inspected with surrounding Kyrgyz context. No frozen/canonical/Git edits.",
+  "primary_interpretation": "Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+  "source_hashes": {
+    "manas-2010": {
+      "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+      "extraction_sha256": "e91ae20e775df108be0b572427aee4d4ee90f1bfd2ec41b41a172ee165a452b2"
+    },
+    "semetey-1-2013": {
+      "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
+    }
+  },
+  "counts": {
+    "candidates": 69,
+    "distinct_pages_inspected": 56,
+    "proposed_verse_changes": 53,
+    "retained_contextual_readings": 15,
+    "false_positives": 1,
+    "verse_count_delta": 0,
+    "english_word_delta": -1,
+    "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
+  },
+  "items": [
+    {
+      "id": "manas-2010:p0871:b001:l034",
+      "ky": "Карабеттин өзүндө",
+      "old_english": "That shameless one herself,",
+      "proposed_english": "That unfortunate one herself,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Narrator describes Kanykey preparing to fight Chubak and calls her ill-fated twice nearby; no moral accusation. Pre-marriage episode, so do not specifically call her bereaved.",
+      "proposed_note": "Narrator describes Kanykey preparing to fight Chubak and calls her ill-fated twice nearby; no moral accusation. Pre-marriage episode, so do not specifically call her bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p0871:b001:l034",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 871,
+        "block": 1,
+        "line_in_block": 34,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 617.952,
+          "xMax": 310.2492,
+          "yMax": 633.204
+        },
+        "raw": "Карабеттин өзүндө",
+        "text": "Карабеттин өзүндө",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/pages-0856-0875/page-0871.png",
+      "page_image_sha256": "c4ce7288bfad9daea51f9fadcd7bd8dffeb494908f82c26887d9c3ee4f292eb5",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-0856-0875.json",
+          "descriptor_sha256": "0def1ed7394f5527da34e60dcad7b678cd0ec19e7531e5fd8c7951d675bd3125",
+          "english": "corpus/batches/pages-0856-0875.en.txt",
+          "english_sha256": "590a4d0060b2430a9edb967776540d93d674854ba5e9d7d087cd71944ccb134f",
+          "old_english_current": "That shameless one herself,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p0885:b001:l010",
+      "ky": "Кара бет талпак соо кылбайт.",
+      "old_english": "That shameless piece of trash will not spare me.",
+      "proposed_english": "That shameless piece of trash will not spare me.",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: hostile Chubak interior speech pairs the epithet with талпак and канчык and plans revenge. Explicit insult, not sympathetic widow narration.",
+      "proposed_note": "Retain shameless: hostile Chubak interior speech pairs the epithet with талпак and канчык and plans revenge. Explicit insult, not sympathetic widow narration. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p0885:b001:l010",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 885,
+        "block": 1,
+        "line_in_block": 10,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 213.672,
+          "xMax": 362.5416,
+          "yMax": 228.924
+        },
+        "raw": "Кара бет талпак соо кылбайт.",
+        "text": "Кара бет талпак соо кылбайт.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/pages-0876-0895/page-0885.png",
+      "page_image_sha256": "99f5e9cc06e85c81863729d4961e79358a7016e8cc9bbb94113af9c3ccaee895",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-0876-0895.json",
+          "descriptor_sha256": "e72c0e92f09fc3fcc7072962be1008c027347485959c76d9a57d059b7063d281",
+          "english": "corpus/batches/pages-0876-0895.en.txt",
+          "english_sha256": "7f32e3c1b2b9873d3feb8c61e874e94d835236467297b5b02a5d79b27583641a",
+          "old_english_current": "That shameless piece of trash will not spare me.",
+          "old_note_current": "Карабет shameless, талпак insulting trash, per Yudakhin талпак; not a racial description or literal skin in this taunt."
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p0956:b001:l025",
+      "ky": "Кара беттин таалайга,",
+      "old_english": "For this shameless one's fortune,",
+      "proposed_english": "For this unfortunate one's fortune,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey's self-deprecating speech about her hoped-for husband Manas, with sympathetic narrator calling her poor and wise; no sexual/moral allegation. Before marriage, not widowhood.",
+      "proposed_note": "Kanykey's self-deprecating speech about her hoped-for husband Manas, with sympathetic narrator calling her poor and wise; no sexual/moral allegation. Before marriage, not widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p0956:b001:l025",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 956,
+        "block": 1,
+        "line_in_block": 25,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 466.392,
+          "xMax": 324.3588,
+          "yMax": 481.644
+        },
+        "raw": "Кара беттин таалайга,",
+        "text": "Кара беттин таалайга,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/pages-0939-0958/page-0956.png",
+      "page_image_sha256": "a768e02fe9b7e8f36d7a0653e08e6cf75dcb04d6480f2f83c128118711c4ada9",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-0939-0958.json",
+          "descriptor_sha256": "9018f884f29113e62899be6530563836ed4333a97a741e79e4e733539bc9de09",
+          "english": "corpus/batches/pages-0939-0958.en.txt",
+          "english_sha256": "c18ca5c86d9be1e3c351658965071f3b5231e90bb1fba16271d0c75d6a974815",
+          "old_english_current": "For this shameless one's fortune,",
+          "old_note_current": "Кара бет shameless is Kanykey’s self-deprecating epithet, not complexion or racial designation."
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p0958:b001:l010",
+      "ky": "Мен кара бет Каныкей",
+      "old_english": "I, shameless Kanykey,",
+      "proposed_english": "I, unfortunate Kanykey,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Continuation of self-deprecating bridal speech acknowledging Manas's greatness; narrator calls her an inexperienced child. No charge of shameless misconduct; bereaved would be anachronistic.",
+      "proposed_note": "Continuation of self-deprecating bridal speech acknowledging Manas's greatness; narrator calls her an inexperienced child. No charge of shameless misconduct; bereaved would be anachronistic. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p0958:b001:l010",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 958,
+        "block": 1,
+        "line_in_block": 10,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 213.672,
+          "xMax": 328.452,
+          "yMax": 228.924
+        },
+        "raw": "Мен кара бет Каныкей",
+        "text": "Мен кара бет Каныкей",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/pages-0939-0958/page-0958.png",
+      "page_image_sha256": "0643b2a441d0156bddccdb02873d4b0e9dd5c081bac8c6c30a1c24a002ebb7f1",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-0939-0958.json",
+          "descriptor_sha256": "9018f884f29113e62899be6530563836ed4333a97a741e79e4e733539bc9de09",
+          "english": "corpus/batches/pages-0939-0958.en.txt",
+          "english_sha256": "c18ca5c86d9be1e3c351658965071f3b5231e90bb1fba16271d0c75d6a974815",
+          "old_english_current": "I, shameless Kanykey,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1271:b001:l009",
+      "ky": "Чубакка Эзкара беттеп кирген соң,",
+      "old_english": "When Ezkara came confronting Chubak,",
+      "proposed_english": "When Ezkara came confronting Chubak,",
+      "action": "false-positive-no-change",
+      "english_word_delta": 0,
+      "context_reason": "False-positive match: personal name Эзкара followed by беттеп, not карабет epithet. Image confirms unchanged reading.",
+      "proposed_note": "False-positive match: personal name Эзкара followed by беттеп, not карабет epithet. Image confirms unchanged reading.",
+      "source_record": {
+        "id": "manas-2010:p1271:b001:l009",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1271,
+        "block": 1,
+        "line_in_block": 9,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 196.872,
+          "xMax": 389.5224,
+          "yMax": 212.124
+        },
+        "raw": "Чубакка Эзкара беттеп кирген соң,",
+        "text": "Чубакка Эзкара беттеп кирген соң,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/pages-1263-1282/page-1271.png",
+      "page_image_sha256": "5202bc84fb9c14a9b1873c0ecc975914fab2185ef8ae4974a511d2b05ab325d2",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1263-1282.json",
+          "descriptor_sha256": "967b9d04f19738fe6825c50bf98409ce8228445760102edd5c3ba0274f993361",
+          "english": "corpus/batches/pages-1263-1282.en.txt",
+          "english_sha256": "da3058c182345bf5571b31f5e8f29d7712537c1d230cdc16d1ef74ff0300e485",
+          "old_english_current": "When Ezkara came confronting Chubak,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1751:b001:l006",
+      "ky": "Карабеттин амалынын кетишин.)",
+      "old_english": "The black-faced woman’s means were gone.)",
+      "proposed_english": "The unfortunate woman’s means were gone.)",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Parenthetical narrator lament followed by Kanykey contemplating Manas's approaching death and her helplessness. Literal black-faced loses the idiom; unfortunate preserves self-abasing lament without claiming present widowhood.",
+      "proposed_note": "Parenthetical narrator lament followed by Kanykey contemplating Manas's approaching death and her helplessness. Literal black-faced loses the idiom; unfortunate preserves self-abasing lament without claiming present widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p1751:b001:l006",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1751,
+        "block": 1,
+        "line_in_block": 6,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 146.352,
+          "xMax": 382.3572,
+          "yMax": 161.604
+        },
+        "raw": "Карабеттин амалынын кетишин.)",
+        "text": "Карабеттин амалынын кетишин.)",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/karabet-review/manas-2010-1751.png",
+      "page_image_sha256": "9447b0302cb3c75f50c33dd4d09a71cb1ee6df8e739206fee1745e5790d33ff9",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1742-1761.json",
+          "descriptor_sha256": "4c619345cc3885922846d96010c3a1037d80e02a6fd1e3ee0655531a5e33f1a0",
+          "english": "corpus/batches/pages-1742-1761.en.txt",
+          "english_sha256": "da7af810e9ba2b30aaf53ffcf4b6ed7b071356bf461f9f6047c1a910bb4b9772",
+          "old_english_current": "The black-faced woman’s means were gone.)",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1751:b001:l025",
+      "ky": "Кара беттин таалайынын кемдиги.",
+      "old_english": "Such was the black-faced woman’s lack of fortune.",
+      "proposed_english": "Such was the unfortunate woman’s lack of fortune.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey laments her scant fortune beside wounded Manas, recalling intimacy and anticipating his death. Sympathetic self-deprecation, not complexion or hostile moral insult.",
+      "proposed_note": "Kanykey laments her scant fortune beside wounded Manas, recalling intimacy and anticipating his death. Sympathetic self-deprecation, not complexion or hostile moral insult. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p1751:b001:l025",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1751,
+        "block": 1,
+        "line_in_block": 25,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 466.392,
+          "xMax": 389.424,
+          "yMax": 481.644
+        },
+        "raw": "Кара беттин таалайынын кемдиги.",
+        "text": "Кара беттин таалайынын кемдиги.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/karabet-review/manas-2010-1751.png",
+      "page_image_sha256": "9447b0302cb3c75f50c33dd4d09a71cb1ee6df8e739206fee1745e5790d33ff9",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1742-1761.json",
+          "descriptor_sha256": "4c619345cc3885922846d96010c3a1037d80e02a6fd1e3ee0655531a5e33f1a0",
+          "english": "corpus/batches/pages-1742-1761.en.txt",
+          "english_sha256": "da7af810e9ba2b30aaf53ffcf4b6ed7b071356bf461f9f6047c1a910bb4b9772",
+          "old_english_current": "Such was the black-faced woman’s lack of fortune.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1751:b001:l028",
+      "ky": "Карабеттин күн көрөрү тайкы эле.",
+      "old_english": "A meager life awaits this black-faced woman.",
+      "proposed_english": "A meager life awaits this unfortunate woman.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Explicit conditional 'if my king closes his eyes' and future hardship. Replace literal complexion with unfortunate; do not newly claim she is already bereaved.",
+      "proposed_note": "Explicit conditional 'if my king closes his eyes' and future hardship. Replace literal complexion with unfortunate; do not newly claim she is already bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p1751:b001:l028",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1751,
+        "block": 1,
+        "line_in_block": 28,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 516.912,
+          "xMax": 386.784,
+          "yMax": 532.164
+        },
+        "raw": "Карабеттин күн көрөрү тайкы эле.",
+        "text": "Карабеттин күн көрөрү тайкы эле.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/karabet-review/manas-2010-1751.png",
+      "page_image_sha256": "9447b0302cb3c75f50c33dd4d09a71cb1ee6df8e739206fee1745e5790d33ff9",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1742-1761.json",
+          "descriptor_sha256": "4c619345cc3885922846d96010c3a1037d80e02a6fd1e3ee0655531a5e33f1a0",
+          "english": "corpus/batches/pages-1742-1761.en.txt",
+          "english_sha256": "da7af810e9ba2b30aaf53ffcf4b6ed7b071356bf461f9f6047c1a910bb4b9772",
+          "old_english_current": "A meager life awaits this black-faced woman.",
+          "old_note_current": "Тайкы scant/limited livelihood, not a confidently predicted number of remaining days."
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1752:b001:l008",
+      "ky": "Карабеттин корголой турган жерин айт!",
+      "old_english": "Tell this black-faced woman where she may shelter!",
+      "proposed_english": "Tell this unfortunate woman where she may shelter!",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey asks the dying Manas for his testament and refuge, with explicit prospective widowhood just before it. Not literal complexion.",
+      "proposed_note": "Kanykey asks the dying Manas for his testament and refuge, with explicit prospective widowhood just before it. Not literal complexion. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p1752:b001:l008",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1752,
+        "block": 1,
+        "line_in_block": 8,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 179.952,
+          "xMax": 416.9496,
+          "yMax": 195.204
+        },
+        "raw": "Карабеттин корголой турган жерин айт!",
+        "text": "Карабеттин корголой турган жерин айт!",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/karabet-review/manas-2010-1752.png",
+      "page_image_sha256": "d69103370e0a8d0f051557d09dcc41a1742fa0e1b86e43da15cc70d979599e6c",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1742-1761.json",
+          "descriptor_sha256": "4c619345cc3885922846d96010c3a1037d80e02a6fd1e3ee0655531a5e33f1a0",
+          "english": "corpus/batches/pages-1742-1761.en.txt",
+          "english_sha256": "da7af810e9ba2b30aaf53ffcf4b6ed7b071356bf461f9f6047c1a910bb4b9772",
+          "old_english_current": "Tell this black-faced woman where she may shelter!",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1761:b001:l002",
+      "ky": "Кара беттин амалынын кеткенин.",
+      "old_english": "This black-faced woman has no recourse.",
+      "proposed_english": "This unfortunate woman has no recourse.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey's ongoing deathbed lament about her impending helpless widowhood. Idiomatic misfortune, not a description of skin.",
+      "proposed_note": "Kanykey's ongoing deathbed lament about her impending helpless widowhood. Idiomatic misfortune, not a description of skin. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p1761:b001:l002",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1761,
+        "block": 1,
+        "line_in_block": 2,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 78.912,
+          "xMax": 384.0252,
+          "yMax": 94.164
+        },
+        "raw": "Кара беттин амалынын кеткенин.",
+        "text": "Кара беттин амалынын кеткенин.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/karabet-review/manas-2010-1761.png",
+      "page_image_sha256": "ab7f08c20fc033844c31db9e49bec2d73d04db31ce677df19d58c6df1c10ff82",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1742-1761.json",
+          "descriptor_sha256": "4c619345cc3885922846d96010c3a1037d80e02a6fd1e3ee0655531a5e33f1a0",
+          "english": "corpus/batches/pages-1742-1761.en.txt",
+          "english_sha256": "da7af810e9ba2b30aaf53ffcf4b6ed7b071356bf461f9f6047c1a910bb4b9772",
+          "old_english_current": "This black-faced woman has no recourse.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1761:b001:l005",
+      "ky": "Кара беттин ырысынын тайкысы.",
+      "old_english": "This black-faced woman's fortune will be scant.",
+      "proposed_english": "This unfortunate woman's fortune will be scant.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Prospective bereavement and loss of means beside the dying Manas. Unfortunate retains lament without changing the existing tense or interpreting black complexion.",
+      "proposed_note": "Prospective bereavement and loss of means beside the dying Manas. Unfortunate retains lament without changing the existing tense or interpreting black complexion. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p1761:b001:l005",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1761,
+        "block": 1,
+        "line_in_block": 5,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 129.432,
+          "xMax": 382.3452,
+          "yMax": 144.684
+        },
+        "raw": "Кара беттин ырысынын тайкысы.",
+        "text": "Кара беттин ырысынын тайкысы.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/karabet-review/manas-2010-1761.png",
+      "page_image_sha256": "ab7f08c20fc033844c31db9e49bec2d73d04db31ce677df19d58c6df1c10ff82",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1742-1761.json",
+          "descriptor_sha256": "4c619345cc3885922846d96010c3a1037d80e02a6fd1e3ee0655531a5e33f1a0",
+          "english": "corpus/batches/pages-1742-1761.en.txt",
+          "english_sha256": "da7af810e9ba2b30aaf53ffcf4b6ed7b071356bf461f9f6047c1a910bb4b9772",
+          "old_english_current": "This black-faced woman's fortune will be scant.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "manas-2010:p1785:b001:l021",
+      "ky": "Кара бет энесинин кылганын",
+      "old_english": "What his disgraced mother did,",
+      "proposed_english": "What his bereaved mother did,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey, now widowed, speaks of constructing Manas's memorial and hopes Semetey will recognize her deeds. Primary bereaved/unfortunate widow sense fits; note retains overlapping self-abasing shame association.",
+      "proposed_note": "Kanykey, now widowed, speaks of constructing Manas's memorial and hopes Semetey will recognize her deeds. Primary bereaved/unfortunate widow sense fits; note retains overlapping self-abasing shame association. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "manas-2010:p1785:b001:l021",
+        "source_id": "manas-2010",
+        "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
+        "page": 1785,
+        "block": 1,
+        "line_in_block": 21,
+        "bbox": {
+          "xMin": 212.52,
+          "yMin": 398.952,
+          "xMax": 361.0212,
+          "yMax": 414.204
+        },
+        "raw": "Кара бет энесинин кылганын",
+        "text": "Кара бет энесинин кылганын",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "identity"
+      },
+      "page_image": "tmp/pdfs/karabet-review/manas-2010-1785.png",
+      "page_image_sha256": "f0f835fd7bd01e1c4bbdb5ebba6e355efa5148d5ec4261abb2122dfc1b217f9b",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-1785-1787.json",
+          "descriptor_sha256": "6037c155d6adbf138942932787d2d79ff4b1367e7c615a3c81ab5de36de188fc",
+          "english": "corpus/batches/pages-1785-1787.en.txt",
+          "english_sha256": "7449ff797fff53d1eb45125719f0637b7374c722fd655a511fbad26b480144bf",
+          "old_english_current": "What his disgraced mother did,",
+          "old_note_current": "кара бет disgraced mother self-deprecation retained, not skin complexion."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0025:b005:l015",
+      "ky": "Кыз экенде карабет,",
+      "old_english": "As a girl, the shameless creature",
+      "proposed_english": "As a girl, the shameless creature",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: Zhakyp's explicitly hostile drunken accusation, asserting social disorder since girlhood; narrator labels his intent wicked.",
+      "proposed_note": "Retain shameless: Zhakyp's explicitly hostile drunken accusation, asserting social disorder since girlhood; narrator labels his intent wicked. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0025:b005:l015",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 25,
+        "block": 5,
+        "line_in_block": 15,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 342.0597,
+          "xMax": 432.5448,
+          "yMax": 355.2477
+        },
+        "raw": "Êûç ýêåíäå êàðàáåò,",
+        "text": "Кыз экенде карабет,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-opening/page-0025.png",
+      "page_image_sha256": "29cacaca27c8cb622f52422f2df50dfbca97dd3985f7ebe0c2c1b93cfd33d55e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0024-0043.json",
+          "descriptor_sha256": "c9d6a9024e7bf01565a30dd7382f536ac43b704a4ca51865475b25f3e9663889",
+          "english": "corpus/batches/pages-semetey1-0024-0043.en.txt",
+          "english_sha256": "8d10a239bacbd29af4f9a6d2652aaffbad877c4008ab3ac0bfc5b28205e5f417",
+          "old_english_current": "As a girl, the shameless creature",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0025:b005:l018",
+      "ky": "Бороз* болуп кара бет,",
+      "old_english": "The shameless creature burned with lust",
+      "proposed_english": "The shameless creature burned with lust",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: Zhakyp accuses the widow of lust and rebellion. Direct hostile charge, not narrator endorsement or neutral bereavement.",
+      "proposed_note": "Retain shameless: Zhakyp accuses the widow of lust and rebellion. Direct hostile charge, not narrator endorsement or neutral bereavement. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0025:b005:l018",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 25,
+        "block": 5,
+        "line_in_block": 18,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 384.5397,
+          "xMax": 444.5664,
+          "yMax": 397.7277
+        },
+        "raw": "Áîðîç* áîëóï êàðà áåò,",
+        "text": "Бороз* болуп кара бет,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-opening/page-0025.png",
+      "page_image_sha256": "29cacaca27c8cb622f52422f2df50dfbca97dd3985f7ebe0c2c1b93cfd33d55e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0024-0043.json",
+          "descriptor_sha256": "c9d6a9024e7bf01565a30dd7382f536ac43b704a4ca51865475b25f3e9663889",
+          "english": "corpus/batches/pages-semetey1-0024-0043.en.txt",
+          "english_sha256": "8d10a239bacbd29af4f9a6d2652aaffbad877c4008ab3ac0bfc5b28205e5f417",
+          "old_english_current": "The shameless creature burned with lust",
+          "old_note_current": "бороз III sexually excited/lustful, not agricultural furrow: Yudakhin plus2015 exact Semetey quotation https://el-sozduk.kg/бороз/. This is Zhakyp's accusation, not factual narrator endorsement."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0026:b003:l006",
+      "ky": "Карабетке баралык.",
+      "old_english": "And go to that shameless woman.”",
+      "proposed_english": "And go to that shameless woman.”",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Continued hostile proposal to drag and kill Kanykey if she refuses levirate marriage; shameless is an insult and remains.",
+      "proposed_note": "Continued hostile proposal to drag and kill Kanykey if she refuses levirate marriage; shameless is an insult and remains. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0026:b003:l006",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 26,
+        "block": 3,
+        "line_in_block": 6,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 214.1397,
+          "xMax": 193.7328,
+          "yMax": 227.3277
+        },
+        "raw": "Êàðàáåòêå áàðàëûê.",
+        "text": "Карабетке баралык.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-opening/page-0026.png",
+      "page_image_sha256": "5f689e0af248b12fa2d057cdc9387d92845f94f90d93f58330eece089c81110b",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0024-0043.json",
+          "descriptor_sha256": "c9d6a9024e7bf01565a30dd7382f536ac43b704a4ca51865475b25f3e9663889",
+          "english": "corpus/batches/pages-semetey1-0024-0043.en.txt",
+          "english_sha256": "8d10a239bacbd29af4f9a6d2652aaffbad877c4008ab3ac0bfc5b28205e5f417",
+          "old_english_current": "And go to that shameless woman.”",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0028:b003:l035",
+      "ky": "Мен карабет шордуунун",
+      "old_english": "From my head, this wretched, disgraced woman's,",
+      "proposed_english": "From my head, this wretched, bereaved woman's,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey explicitly says forty days have not passed since Manas died and his memorial feast has not yet been held; self-lament bereavement, with self-abasing shade acknowledged.",
+      "proposed_note": "Kanykey explicitly says forty days have not passed since Manas died and his memorial feast has not yet been held; self-lament bereavement, with self-abasing shade acknowledged. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0028:b003:l035",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 28,
+        "block": 3,
+        "line_in_block": 35,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 625.9797,
+          "xMax": 219.8256,
+          "yMax": 639.1677
+        },
+        "raw": "Ìåí êàðàáåò øîðäóóíóí",
+        "text": "Мен карабет шордуунун",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-opening/page-0028.png",
+      "page_image_sha256": "218f4bc7cf7471403d1af1dfe70f92e0db06f7696033737b904fb43a56ea5485",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0024-0043.json",
+          "descriptor_sha256": "c9d6a9024e7bf01565a30dd7382f536ac43b704a4ca51865475b25f3e9663889",
+          "english": "corpus/batches/pages-semetey1-0024-0043.en.txt",
+          "english_sha256": "8d10a239bacbd29af4f9a6d2652aaffbad877c4008ab3ac0bfc5b28205e5f417",
+          "old_english_current": "From my head, this wretched, disgraced woman's,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0028:b004:l008",
+      "ky": "Кара беттин көрөрү",
+      "old_english": "What this disgraced woman had to face",
+      "proposed_english": "What this bereaved woman had to face",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Continuation of the widowed Kanykey mourning Manas and predicting hostility from his relatives; not narrator accusation of misconduct.",
+      "proposed_note": "Continuation of the widowed Kanykey mourning Manas and predicting hostility from his relatives; not narrator accusation of misconduct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0028:b004:l008",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 28,
+        "block": 4,
+        "line_in_block": 8,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 242.4597,
+          "xMax": 422.838,
+          "yMax": 255.6477
+        },
+        "raw": "Êàðà áåòòèí êºðºð¿",
+        "text": "Кара беттин көрөрү",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-opening/page-0028.png",
+      "page_image_sha256": "218f4bc7cf7471403d1af1dfe70f92e0db06f7696033737b904fb43a56ea5485",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0024-0043.json",
+          "descriptor_sha256": "c9d6a9024e7bf01565a30dd7382f536ac43b704a4ca51865475b25f3e9663889",
+          "english": "corpus/batches/pages-semetey1-0024-0043.en.txt",
+          "english_sha256": "8d10a239bacbd29af4f9a6d2652aaffbad877c4008ab3ac0bfc5b28205e5f417",
+          "old_english_current": "What this disgraced woman had to face",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0030:b003:l018",
+      "ky": "Карабет долуң жеди,– деп,–",
+      "old_english": "Your shameless shrew has devoured us,” they said.",
+      "proposed_english": "Your shameless shrew has devoured us,” they said.",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: wounded Kyrgy lchal and Tazbaymat accuse Kanykey of attacking them and stirring disorder; hostile quoted speech.",
+      "proposed_note": "Retain shameless: wounded Kyrgy lchal and Tazbaymat accuse Kanykey of attacking them and stirring disorder; hostile quoted speech. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0030:b003:l018",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 30,
+        "block": 3,
+        "line_in_block": 18,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 384.5397,
+          "xMax": 244.5168,
+          "yMax": 397.7277
+        },
+        "raw": "Êàðàáåò äîëó¢ æåäè,– äåï,–",
+        "text": "Карабет долуң жеди,– деп,–",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-opening/page-0030.png",
+      "page_image_sha256": "e2d53c668c5dc1f407f4efe8d36a23a71f1ae33b3f92e4c04bd0c2277a0fa0dd",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0024-0043.json",
+          "descriptor_sha256": "c9d6a9024e7bf01565a30dd7382f536ac43b704a4ca51865475b25f3e9663889",
+          "english": "corpus/batches/pages-semetey1-0024-0043.en.txt",
+          "english_sha256": "8d10a239bacbd29af4f9a6d2652aaffbad877c4008ab3ac0bfc5b28205e5f417",
+          "old_english_current": "Your shameless shrew has devoured us,” they said.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0041:b005:l003",
+      "ky": "Мени карабет долу дегиздиң,",
+      "old_english": "You made her call me a shameless shrew.",
+      "proposed_english": "You made her call me a shameless shrew.",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: Kanykey reports the insulting words Kara-kun has made her endure; this is a quoted insult within lament, not neutral self-description.",
+      "proposed_note": "Retain shameless: Kanykey reports the insulting words Kara-kun has made her endure; this is a quoted insult within lament, not neutral self-description. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0041:b005:l003",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 41,
+        "block": 5,
+        "line_in_block": 3,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 171.6597,
+          "xMax": 485.0316,
+          "yMax": 184.8477
+        },
+        "raw": "Ìåíè êàðàáåò äîëó äåãèçäè¢,",
+        "text": "Мени карабет долу дегиздиң,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-opening/page-0041.png",
+      "page_image_sha256": "bad06ea6c1806f3565f47139588113f7d2693e1796ad7cbd7f4ab64403798544",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0024-0043.json",
+          "descriptor_sha256": "c9d6a9024e7bf01565a30dd7382f536ac43b704a4ca51865475b25f3e9663889",
+          "english": "corpus/batches/pages-semetey1-0024-0043.en.txt",
+          "english_sha256": "8d10a239bacbd29af4f9a6d2652aaffbad877c4008ab3ac0bfc5b28205e5f417",
+          "old_english_current": "You made her call me a shameless shrew.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0046:b003:l028",
+      "ky": "Качып кетчү кара бет,",
+      "old_english": "Black-faced woman who means to flee,",
+      "proposed_english": "Shameless woman who means to flee,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Köbösh directly insults Kanykey, pairing the epithet with bitch and demanding remarriage while assaulting her. Replace literal black-faced with hostile shameless, not bereaved.",
+      "proposed_note": "Köbösh directly insults Kanykey, pairing the epithet with bitch and demanding remarriage while assaulting her. Replace literal black-faced with hostile shameless, not bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0046:b003:l028",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 46,
+        "block": 3,
+        "line_in_block": 28,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 526.6197,
+          "xMax": 210.7716,
+          "yMax": 539.8077
+        },
+        "raw": "Êà÷ûï êåò÷¿ êàðà áåò,",
+        "text": "Качып кетчү кара бет,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0044-0063/page-0046.png",
+      "page_image_sha256": "3ba171107a1f422b0c7c8422ad82510862ad4fb09dd9fb6fc62b78be8bd64896",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0044-0063.json",
+          "descriptor_sha256": "e93e99ef1c0d059b070f142829e36d9fa754181edb8b04c609afc6713ce0b55e",
+          "english": "corpus/batches/pages-semetey1-0044-0063.en.txt",
+          "english_sha256": "e2b0f678f2fea7a77f2e7590fd37104b7ec341e41b88e8f04791a1a4df89b15f",
+          "old_english_current": "Black-faced woman who means to flee,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0047:b004:l019",
+      "ky": "Кара бет гана кордук көрбөй кал.",
+      "old_english": "Let me, black-faced one, be spared disgrace.”",
+      "proposed_english": "Let me, bereaved one, be spared disgrace.”",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey laments her dead husband and assault, wishing she had died with him. Bereaved is the idiomatic widow sense; disgrace remains explicit in кордук.",
+      "proposed_note": "Kanykey laments her dead husband and assault, wishing she had died with him. Bereaved is the idiomatic widow sense; disgrace remains explicit in кордук. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0047:b004:l019",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 47,
+        "block": 4,
+        "line_in_block": 19,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 398.6997,
+          "xMax": 509.8176,
+          "yMax": 411.8877
+        },
+        "raw": "Êàðà áåò ãàíà êîðäóê êºðáºé êàë.",
+        "text": "Кара бет гана кордук көрбөй кал.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0044-0063/page-0047.png",
+      "page_image_sha256": "22d84a8e9513f6707ae0dd6395de02ba5f94195948f6f34b9f38afeed5730df1",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0044-0063.json",
+          "descriptor_sha256": "e93e99ef1c0d059b070f142829e36d9fa754181edb8b04c609afc6713ce0b55e",
+          "english": "corpus/batches/pages-semetey1-0044-0063.en.txt",
+          "english_sha256": "e2b0f678f2fea7a77f2e7590fd37104b7ec341e41b88e8f04791a1a4df89b15f",
+          "old_english_current": "Let me, black-faced one, be spared disgrace.”",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0047:b004:l021",
+      "ky": "Кара бет Каныкей кордук көргөн жер.",
+      "old_english": "The place where black-faced Kanykey suffered abuse.",
+      "proposed_english": "The place where bereaved Kanykey suffered abuse.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Sympathetic narrator immediately names the place of Manas's death and describes violence against his widow; no complexion description.",
+      "proposed_note": "Sympathetic narrator immediately names the place of Manas's death and describes violence against his widow; no complexion description. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0047:b004:l021",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 47,
+        "block": 4,
+        "line_in_block": 21,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 427.2597,
+          "xMax": 464.1288,
+          "yMax": 440.4477
+        },
+        "raw": "Êàðà áåò Êàíûêåé êîðäóê",
+        "text": "Кара бет Каныкей кордук",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0044-0063/page-0047.png",
+      "page_image_sha256": "22d84a8e9513f6707ae0dd6395de02ba5f94195948f6f34b9f38afeed5730df1",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0044-0063.json",
+          "descriptor_sha256": "e93e99ef1c0d059b070f142829e36d9fa754181edb8b04c609afc6713ce0b55e",
+          "english": "corpus/batches/pages-semetey1-0044-0063.en.txt",
+          "english_sha256": "e2b0f678f2fea7a77f2e7590fd37104b7ec341e41b88e8f04791a1a4df89b15f",
+          "old_english_current": "The place where black-faced Kanykey suffered abuse.",
+          "old_note_current": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0048:b003:l038",
+      "ky": "Айласы кетсе, кара бет",
+      "old_english": "“When the black-faced woman has no recourse,",
+      "proposed_english": "“When the shameless woman has no recourse,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey rehearses the six attackers' calculation that helplessness will force her to marry one of them; hostile quoted framing, not sympathetic narrator label.",
+      "proposed_note": "Kanykey rehearses the six attackers' calculation that helplessness will force her to marry one of them; hostile quoted framing, not sympathetic narrator label. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0048:b003:l038",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 48,
+        "block": 3,
+        "line_in_block": 38,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 668.6997,
+          "xMax": 215.8056,
+          "yMax": 681.8877
+        },
+        "raw": "Àéëàñû êåòñå, êàðà áåò",
+        "text": "Айласы кетсе, кара бет",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0044-0063/page-0048.png",
+      "page_image_sha256": "b1488aafccbb498512104ca12fd456f967c937b7d2d333a21ef0a6049d92b231",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0044-0063.json",
+          "descriptor_sha256": "e93e99ef1c0d059b070f142829e36d9fa754181edb8b04c609afc6713ce0b55e",
+          "english": "corpus/batches/pages-semetey1-0044-0063.en.txt",
+          "english_sha256": "e2b0f678f2fea7a77f2e7590fd37104b7ec341e41b88e8f04791a1a4df89b15f",
+          "old_english_current": "“When the black-faced woman has no recourse,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0052:b003:l008",
+      "ky": "Карабеттин башына.",
+      "old_english": "This disgraced woman?",
+      "proposed_english": "This bereaved woman?",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey addresses absent defenders, mourns Manas and flees to Bukhara; self-lament about widowhood rather than moral wrongdoing.",
+      "proposed_note": "Kanykey addresses absent defenders, mourns Manas and flees to Bukhara; self-lament about widowhood rather than moral wrongdoing. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0052:b003:l008",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 52,
+        "block": 3,
+        "line_in_block": 8,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 242.4597,
+          "xMax": 198.072,
+          "yMax": 255.6477
+        },
+        "raw": "Êàðàáåòòèí áàøûíà.",
+        "text": "Карабеттин башына.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0044-0063/page-0052.png",
+      "page_image_sha256": "3613bdaebefdb0c00e0a998967c72b4b224d37af2b49adcd572c89fd30734594",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0044-0063.json",
+          "descriptor_sha256": "e93e99ef1c0d059b070f142829e36d9fa754181edb8b04c609afc6713ce0b55e",
+          "english": "corpus/batches/pages-semetey1-0044-0063.en.txt",
+          "english_sha256": "e2b0f678f2fea7a77f2e7590fd37104b7ec341e41b88e8f04791a1a4df89b15f",
+          "old_english_current": "This disgraced woman?",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0056:b004:l018",
+      "ky": "Мен кара бет бейбактын",
+      "old_english": "For me, this disgraced, unhappy woman,",
+      "proposed_english": "For me, this bereaved, unhappy woman,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Widow fearing her infant will starve during flight; narrator is explicitly sympathetic and describes lack of milk, refuge and food.",
+      "proposed_note": "Widow fearing her infant will starve during flight; narrator is explicitly sympathetic and describes lack of milk, refuge and food. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0056:b004:l018",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 56,
+        "block": 4,
+        "line_in_block": 18,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 384.5397,
+          "xMax": 452.136,
+          "yMax": 397.7277
+        },
+        "raw": "Ìåí êàðà áåò áåéáàêòûí",
+        "text": "Мен кара бет бейбактын",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0044-0063/page-0056.png",
+      "page_image_sha256": "a4e725d753dd58546c41a6d488aabf1591a20a2727dd64b48ab947f13d9f7734",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0044-0063.json",
+          "descriptor_sha256": "e93e99ef1c0d059b070f142829e36d9fa754181edb8b04c609afc6713ce0b55e",
+          "english": "corpus/batches/pages-semetey1-0044-0063.en.txt",
+          "english_sha256": "e2b0f678f2fea7a77f2e7590fd37104b7ec341e41b88e8f04791a1a4df89b15f",
+          "old_english_current": "For me, this disgraced, unhappy woman,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0058:b004:l027",
+      "ky": "Казы жебес кара бет",
+      "old_english": "The disgraced woman who would not eat rich horse-belly meat",
+      "proposed_english": "The bereaved woman who would not eat rich horse-belly meat",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Sympathetic narrator contrasts Kanykey's former refined food with present starvation while seeking food for her orphan; bereavement is causal context.",
+      "proposed_note": "Sympathetic narrator contrasts Kanykey's former refined food with present starvation while seeking food for her orphan; bereavement is causal context. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0058:b004:l027",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 58,
+        "block": 4,
+        "line_in_block": 27,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 512.4597,
+          "xMax": 430.398,
+          "yMax": 525.6477
+        },
+        "raw": "Êàçû æåáåñ êàðà áåò",
+        "text": "Казы жебес кара бет",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0044-0063/page-0058.png",
+      "page_image_sha256": "e0552a80914bf65e8650e8179a1e2893382414933c0d59dcbb27858572df8bdd",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0044-0063.json",
+          "descriptor_sha256": "e93e99ef1c0d059b070f142829e36d9fa754181edb8b04c609afc6713ce0b55e",
+          "english": "corpus/batches/pages-semetey1-0044-0063.en.txt",
+          "english_sha256": "e2b0f678f2fea7a77f2e7590fd37104b7ec341e41b88e8f04791a1a4df89b15f",
+          "old_english_current": "The disgraced woman who would not eat rich horse-belly meat",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0066:b003:l027",
+      "ky": "Мурда жалккан кара бет",
+      "old_english": "The shamefaced woman who had tired before",
+      "proposed_english": "The bereaved woman who had tired before",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Narrator follows exhausted Kanykey resting, praying and rejoining her orphan and mother-in-law after Manas's death. Only epithet changes; existing uncertainty in мурда жалккан remains untouched.",
+      "proposed_note": "Narrator follows exhausted Kanykey resting, praying and rejoining her orphan and mother-in-law after Manas's death. Only epithet changes; existing uncertainty in мурда жалккан remains untouched. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0066:b003:l027",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 66,
+        "block": 3,
+        "line_in_block": 27,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 512.4597,
+          "xMax": 223.5012,
+          "yMax": 525.6477
+        },
+        "raw": "Ìóðäà æàëêêàí êàðà áåò",
+        "text": "Мурда жалккан кара бет",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0066.png",
+      "page_image_sha256": "74a71ceab6d9fc775c39445483a7debbd160934dd780d3abbc73eae9e4ba35ce",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0064-0083.json",
+          "descriptor_sha256": "6943323334bd8fd89acd8f416b31ae22adef73d11369849988ba4618d3144d01",
+          "english": "corpus/batches/pages-semetey1-0064-0083.en.txt",
+          "english_sha256": "068860562d1f226cc1e34e04849978c5a20daa774549ba6cd838d648bcab90f8",
+          "old_english_current": "The shamefaced woman who had tired before",
+          "old_note_current": "Printed мурда жалккан кара бет, provisionally the shamefaced woman previously exhausted; жалккан reading/attachment uncertain."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0074:b003:l008",
+      "ky": "Мен карабет шордуунун",
+      "old_english": "For me, a shamefaced wretch,",
+      "proposed_english": "For me, a bereaved wretch,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey laments her orphan's seven days without food and offers to die sacrificially; self-abasing widow lament, not shamefaced misconduct.",
+      "proposed_note": "Kanykey laments her orphan's seven days without food and offers to die sacrificially; self-abasing widow lament, not shamefaced misconduct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0074:b003:l008",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 74,
+        "block": 3,
+        "line_in_block": 8,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 242.4597,
+          "xMax": 219.8256,
+          "yMax": 255.6477
+        },
+        "raw": "Ìåí êàðàáåò øîðäóóíóí",
+        "text": "Мен карабет шордуунун",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0074.png",
+      "page_image_sha256": "cf4db54d0096438808415380cc5ed2788b9bd46b3f1c40d15d75d844a68423ad",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0064-0083.json",
+          "descriptor_sha256": "6943323334bd8fd89acd8f416b31ae22adef73d11369849988ba4618d3144d01",
+          "english": "corpus/batches/pages-semetey1-0064-0083.en.txt",
+          "english_sha256": "068860562d1f226cc1e34e04849978c5a20daa774549ba6cd838d648bcab90f8",
+          "old_english_current": "For me, a shamefaced wretch,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0086:b004:l026",
+      "ky": "Карабет элди көрө элек,",
+      "old_english": "Disgraced, I have not yet faced the people,",
+      "proposed_english": "Disgraced, I have not yet faced the people,",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain disgraced: exact primary public-gaze formula элди көрө албадым кара бет болдум overlaps widowhood and self-abasing shame. Here Kanykey describes torn face, uncombed hair, unfinished mourning and inability to face Bakay; bereaved alone would weaken that explicit shame layer.",
+      "proposed_note": "Retain disgraced: exact primary public-gaze formula элди көрө албадым кара бет болдум overlaps widowhood and self-abasing shame. Here Kanykey describes torn face, uncombed hair, unfinished mourning and inability to face Bakay; bereaved alone would weaken that explicit shame layer. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0086:b004:l026",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 86,
+        "block": 4,
+        "line_in_block": 26,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 498.2997,
+          "xMax": 450.6528,
+          "yMax": 511.4877
+        },
+        "raw": "Êàðàáåò ýëäè êºðº ýëåê,",
+        "text": "Карабет элди көрө элек,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0086.png",
+      "page_image_sha256": "1ce30b83e8cb535a199a1141176f920fdbcd1617c2590749d34ae41aa9bd848c",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0084-0086.json",
+          "descriptor_sha256": "8f98d523acfeb4df73cffa37199c78686e7c17ddf0c5025fd5189ef29e376cb6",
+          "english": "corpus/batches/pages-semetey1-0084-0086.en.txt",
+          "english_sha256": "19214f419249226348ed7f4582f9229623a53bb5bc37ab20bb1341db12d9274a",
+          "old_english_current": "Disgraced, I have not yet faced the people,",
+          "old_note_current": "Карабет disgraced self-description, not black skin; elliptical first-person subject supplied from speaker."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0139:b005:l015",
+      "ky": "Карабет карап тургансып,",
+      "old_english": "As though the disgraced woman were watching,",
+      "proposed_english": "As though the bereaved woman were watching,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Narrator describes Bakay calling toward the cave where Kanykey had sheltered. He fears the widow and orphan were killed, then praises her character, courage and holiness; not a hostile moral epithet.",
+      "proposed_note": "Narrator describes Bakay calling toward the cave where Kanykey had sheltered. He fears the widow and orphan were killed, then praises her character, courage and holiness; not a hostile moral epithet. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0139:b005:l015",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 139,
+        "block": 5,
+        "line_in_block": 15,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 342.0597,
+          "xMax": 465.5916,
+          "yMax": 355.2477
+        },
+        "raw": "Êàðàáåò êàðàï òóðãàíñûï,",
+        "text": "Карабет карап тургансып,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0139.png",
+      "page_image_sha256": "aa9bdb7450821528b14e8d6059e34b432bdfcafefbb237a3ee12554016607210",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0130-0149.json",
+          "descriptor_sha256": "be8c2b8b8f10324279216d36006b320a658cde9f7bd3f870f61cc551a46fd8aa",
+          "english": "corpus/batches/pages-semetey1-0130-0149.en.txt",
+          "english_sha256": "a02119914bac604b4fd3b23010c2b41b50800a6ab7ba267f4b1d8624468a8408",
+          "old_english_current": "As though the disgraced woman were watching,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0152:b003:l020",
+      "ky": "«О, карабет Каныкей,",
+      "old_english": "“Oh, shameless Kanykei!",
+      "proposed_english": "“Oh, shameless Kanykei!",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: Kanykey quotes Manas angrily reproaching her after failure to obtain Aktulpar, followed by his neglecting her as a wife. Reproach context, not neutral widow label.",
+      "proposed_note": "Retain shameless: Kanykey quotes Manas angrily reproaching her after failure to obtain Aktulpar, followed by his neglecting her as a wife. Reproach context, not neutral widow label. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0152:b003:l020",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 152,
+        "block": 3,
+        "line_in_block": 20,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 412.8597,
+          "xMax": 207.0264,
+          "yMax": 426.0477
+        },
+        "raw": "«Î, êàðàáåò Êàíûêåé,",
+        "text": "«О, карабет Каныкей,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0152.png",
+      "page_image_sha256": "62f851a03a011a361c4249766cf75479bdf6cee4863db6aca8d80626dacdecb1",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0150-0152.json",
+          "descriptor_sha256": "b7e04d08b7ad0579994a5a8d6407a725119c83321e6a3951e489d876eeada310",
+          "english": "corpus/batches/pages-semetey1-0150-0152.en.txt",
+          "english_sha256": "5524828ea8af291598a16323c0b114a259266947835aab294a59efa81b0d9a7e",
+          "old_english_current": "“Oh, shameless Kanykei!",
+          "old_note_current": "Speaker switches to quoted Manas condemnation of Kanykei until27 narrator names blood-drinking leopard; source abuse retained."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0152:b004:l020",
+      "ky": "Мен карабет Каныкей",
+      "old_english": "I, shameless Kanykei,",
+      "proposed_english": "I, unfortunate Kanykei,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Self-deprecating recollection of leaving her father in tears after the Aktulpar dispute, while Manas was still alive. Unfortunate avoids both moral shamelessness and anachronistic widowhood.",
+      "proposed_note": "Self-deprecating recollection of leaving her father in tears after the Aktulpar dispute, while Manas was still alive. Unfortunate avoids both moral shamelessness and anachronistic widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0152:b004:l020",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 152,
+        "block": 4,
+        "line_in_block": 20,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 412.8597,
+          "xMax": 438.6888,
+          "yMax": 426.0477
+        },
+        "raw": "Ìåí êàðàáåò Êàíûêåé",
+        "text": "Мен карабет Каныкей",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0152.png",
+      "page_image_sha256": "62f851a03a011a361c4249766cf75479bdf6cee4863db6aca8d80626dacdecb1",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0150-0152.json",
+          "descriptor_sha256": "b7e04d08b7ad0579994a5a8d6407a725119c83321e6a3951e489d876eeada310",
+          "english": "corpus/batches/pages-semetey1-0150-0152.en.txt",
+          "english_sha256": "5524828ea8af291598a16323c0b114a259266947835aab294a59efa81b0d9a7e",
+          "old_english_current": "I, shameless Kanykei,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0161:b003:l013",
+      "ky": "Мен карабет бейтаалай",
+      "old_english": "I, the disgraced, unlucky one,",
+      "proposed_english": "I, the bereaved, unlucky one,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Explicit prolonged lament over Manas's death, fleeing with the orphan at thirty-two, with narrator repeatedly naming her widow and mourner. Self-abasing shade retained in note.",
+      "proposed_note": "Explicit prolonged lament over Manas's death, fleeing with the orphan at thirty-two, with narrator repeatedly naming her widow and mourner. Self-abasing shade retained in note. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0161:b003:l013",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 161,
+        "block": 3,
+        "line_in_block": 13,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 313.4997,
+          "xMax": 215.2584,
+          "yMax": 326.6877
+        },
+        "raw": "Ìåí êàðàáåò áåéòààëàé",
+        "text": "Мен карабет бейтаалай",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0161.png",
+      "page_image_sha256": "ddd167a29027f0e1292d6e749ca62261656551832a7a7f012ddd44534131fc41",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0156-0175.json",
+          "descriptor_sha256": "0f243a435ba52e0d2392f413bf52a70936eb13f1458b710d9baaa26a66b90444",
+          "english": "corpus/batches/pages-semetey1-0156-0175.en.txt",
+          "english_sha256": "db7a8c635857d316e3131a304112bdc63a42d6536cf79cc0ad3381a7c81c9054",
+          "old_english_current": "I, the disgraced, unlucky one,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0169:b003:l032",
+      "ky": "Кара бет долу мына» – деп,–",
+      "old_english": "Here is that shameless, fierce woman!’ they will say.",
+      "proposed_english": "Here is that shameless, fierce woman!’ they will say.",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: Kanykey imagines hostile captors calling her a woman who disrupted the people, then sacrificing her and enslaving her son. This is explicitly feared hostile speech.",
+      "proposed_note": "Retain shameless: Kanykey imagines hostile captors calling her a woman who disrupted the people, then sacrificing her and enslaving her son. This is explicitly feared hostile speech. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0169:b003:l032",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 169,
+        "block": 3,
+        "line_in_block": 32,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 583.4997,
+          "xMax": 252.03,
+          "yMax": 596.6877
+        },
+        "raw": "Êàðà áåò äîëó ìûíà» – äåï,–",
+        "text": "Кара бет долу мына» – деп,–",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0169.png",
+      "page_image_sha256": "0fdd3593ac08986b8e4fe171c7caee1a059ee5ac7821f76189b3a120dbe88911",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0156-0175.json",
+          "descriptor_sha256": "0f243a435ba52e0d2392f413bf52a70936eb13f1458b710d9baaa26a66b90444",
+          "english": "corpus/batches/pages-semetey1-0156-0175.en.txt",
+          "english_sha256": "db7a8c635857d316e3131a304112bdc63a42d6536cf79cc0ad3381a7c81c9054",
+          "old_english_current": "Here is that shameless, fierce woman!’ they will say.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0173:b003:l003",
+      "ky": "Карабет Каныкейдин аты бар.",
+      "old_english": "There is the name of shameless Kanykei.",
+      "proposed_english": "There is the name of unfortunate Kanykei.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Present widowed speaker recalls her name carved on trees during girlhood. Unfortunate preserves current self-deprecation without labeling her former girlhood morally shameless or already bereaved.",
+      "proposed_note": "Present widowed speaker recalls her name carved on trees during girlhood. Unfortunate preserves current self-deprecation without labeling her former girlhood morally shameless or already bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0173:b003:l003",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 173,
+        "block": 3,
+        "line_in_block": 3,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 171.6597,
+          "xMax": 258.7344,
+          "yMax": 184.8477
+        },
+        "raw": "Êàðàáåò Êàíûêåéäèí àòû áàð.",
+        "text": "Карабет Каныкейдин аты бар.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0173.png",
+      "page_image_sha256": "18adabd41e89849120dfcdb77418e42c62ec9d3fd80abdd176231359ecd42115",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0156-0175.json",
+          "descriptor_sha256": "0f243a435ba52e0d2392f413bf52a70936eb13f1458b710d9baaa26a66b90444",
+          "english": "corpus/batches/pages-semetey1-0156-0175.en.txt",
+          "english_sha256": "db7a8c635857d316e3131a304112bdc63a42d6536cf79cc0ad3381a7c81c9054",
+          "old_english_current": "There is the name of shameless Kanykei.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0173:b003:l007",
+      "ky": "Кара бет сейилдикке минүчү",
+      "old_english": "Where this shameless woman sat on her outings,",
+      "proposed_english": "Where this unfortunate woman sat on her outings,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recalls childhood outings and golden throne before marriage. Unfortunate is retrospective self-deprecation; bereaved would misleadingly date widowhood to those outings.",
+      "proposed_note": "Kanykey recalls childhood outings and golden throne before marriage. Unfortunate is retrospective self-deprecation; bereaved would misleadingly date widowhood to those outings. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0173:b003:l007",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 173,
+        "block": 3,
+        "line_in_block": 7,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 228.2997,
+          "xMax": 251.3196,
+          "yMax": 241.4877
+        },
+        "raw": "Êàðà áåò ñåéèëäèêêå ìèí¿÷¿",
+        "text": "Кара бет сейилдикке минүчү",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0173.png",
+      "page_image_sha256": "18adabd41e89849120dfcdb77418e42c62ec9d3fd80abdd176231359ecd42115",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0156-0175.json",
+          "descriptor_sha256": "0f243a435ba52e0d2392f413bf52a70936eb13f1458b710d9baaa26a66b90444",
+          "english": "corpus/batches/pages-semetey1-0156-0175.en.txt",
+          "english_sha256": "db7a8c635857d316e3131a304112bdc63a42d6536cf79cc0ad3381a7c81c9054",
+          "old_english_current": "Where this shameless woman sat on her outings,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0174:b004:l004",
+      "ky": "Ошондо, карабетке келген жер.",
+      "old_english": "This was where they came to me, the shameless one.",
+      "proposed_english": "This was where they came to me, the unfortunate one.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recalls her wedding guests, prizes and festivities, contrasting them with present loss. Retrospective self-deprecation, not a moral accusation or widowhood at the wedding.",
+      "proposed_note": "Kanykey recalls her wedding guests, prizes and festivities, contrasting them with present loss. Retrospective self-deprecation, not a moral accusation or widowhood at the wedding. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0174:b004:l004",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 174,
+        "block": 4,
+        "line_in_block": 4,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 185.8197,
+          "xMax": 495.702,
+          "yMax": 199.0077
+        },
+        "raw": "Îøîíäî, êàðàáåòêå êåëãåí æåð.",
+        "text": "Ошондо, карабетке келген жер.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0174.png",
+      "page_image_sha256": "0e0542d40f70467893b8c368b7e221bd1e8ac1726e5f0be4173c3905cac5959f",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0156-0175.json",
+          "descriptor_sha256": "0f243a435ba52e0d2392f413bf52a70936eb13f1458b710d9baaa26a66b90444",
+          "english": "corpus/batches/pages-semetey1-0156-0175.en.txt",
+          "english_sha256": "db7a8c635857d316e3131a304112bdc63a42d6536cf79cc0ad3381a7c81c9054",
+          "old_english_current": "This was where they came to me, the shameless one.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0191:b003:l036",
+      "ky": "Кара бет качып барып жан бакты,",
+      "old_english": "She fled in shame and sustained her life.",
+      "proposed_english": "Bereaved, she fled and sustained her life.",
+      "action": "replace-epithet",
+      "english_word_delta": -1,
+      "context_reason": "Narrator explicitly repeats Manas's death and Kanykey's mourning before and after this account of flight and survival in Bukhara; bereaved fits direct context.",
+      "proposed_note": "Narrator explicitly repeats Manas's death and Kanykey's mourning before and after this account of flight and survival in Bukhara; bereaved fits direct context. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0191:b003:l036",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 191,
+        "block": 3,
+        "line_in_block": 36,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 640.1397,
+          "xMax": 284.796,
+          "yMax": 653.3277
+        },
+        "raw": "Êàðà áåò êà÷ûï áàðûï æàí áàêòû,",
+        "text": "Кара бет качып барып жан бакты,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0176-0195/page-0191.png",
+      "page_image_sha256": "5c905f69bfceb694d90b8b9aeea968fd5a16b40365bae8af04b19f315bfd620a",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0176-0195.json",
+          "descriptor_sha256": "54affabf9b3d93de541c5487f00b5b133fbc1afa1b6341612501c5378849b432",
+          "english": "corpus/batches/pages-semetey1-0176-0195.en.txt",
+          "english_sha256": "f9dfcd6cb9a90740a1af11ab656c91621d81aa78f462fe356e6c17fab4ec3374",
+          "old_english_current": "She fled in shame and sustained her life.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0222:b003:l004",
+      "ky": "Бул өңдөнгөн карабет,",
+      "old_english": "This shameless one of such a kind,",
+      "proposed_english": "This shameless one of such a kind,",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: Ysmayyl attacks Kanykey for allegedly dishonouring Manas, calls her a bitch and threatens to drag and kill her. Direct hostile speech.",
+      "proposed_note": "Retain shameless: Ysmayyl attacks Kanykey for allegedly dishonouring Manas, calls her a bitch and threatens to drag and kill her. Direct hostile speech. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0222:b003:l004",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 222,
+        "block": 3,
+        "line_in_block": 4,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 185.8197,
+          "xMax": 209.3424,
+          "yMax": 199.0077
+        },
+        "raw": "Áóë º¢äºíãºí êàðàáåò,",
+        "text": "Бул өңдөнгөн карабет,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0222.png",
+      "page_image_sha256": "728d013f75b8db6aa86f078fca9b906e09a336970038e06f5841863805602787",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0222-0241.json",
+          "descriptor_sha256": "6524357ae5199ab0b34028d555648f69612dbce2762917885d0218e318c32c06",
+          "english": "corpus/batches/pages-semetey1-0222-0241.en.txt",
+          "english_sha256": "6584c0d1dc58132365c08c77032405d06d4be72c83b18cd52a75f15d63715ade",
+          "old_english_current": "This shameless one of such a kind,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0222:b003:l018",
+      "ky": "Бу карабет бул үчүн",
+      "old_english": "For this shameless woman's sake,",
+      "proposed_english": "For this shameless woman's sake,",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: same hostile Ysmayyl accusation, paired with public ridicule and violent threats. No sympathetic narrator substitution.",
+      "proposed_note": "Retain shameless: same hostile Ysmayyl accusation, paired with public ridicule and violent threats. No sympathetic narrator substitution. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0222:b003:l018",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 222,
+        "block": 3,
+        "line_in_block": 18,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 384.5397,
+          "xMax": 196.53,
+          "yMax": 397.7277
+        },
+        "raw": "Áó êàðàáåò áóë ¿÷¿í",
+        "text": "Бу карабет бул үчүн",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0222.png",
+      "page_image_sha256": "728d013f75b8db6aa86f078fca9b906e09a336970038e06f5841863805602787",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0222-0241.json",
+          "descriptor_sha256": "6524357ae5199ab0b34028d555648f69612dbce2762917885d0218e318c32c06",
+          "english": "corpus/batches/pages-semetey1-0222-0241.en.txt",
+          "english_sha256": "6584c0d1dc58132365c08c77032405d06d4be72c83b18cd52a75f15d63715ade",
+          "old_english_current": "For this shameless woman's sake,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0245:b004:l008",
+      "ky": "Кара беттин аты»,– деп,",
+      "old_english": "The shameless one's horse!' they may say.",
+      "proposed_english": "The shameless one's horse!' they may say.",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain shameless: Kanykey fears spectators will insult her as a woman who disrupted the people and mock her horse; explicit anticipated public ridicule, not narrator's widow description.",
+      "proposed_note": "Retain shameless: Kanykey fears spectators will insult her as a woman who disrupted the people and mock her horse; explicit anticipated public ridicule, not narrator's widow description. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0245:b004:l008",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 245,
+        "block": 4,
+        "line_in_block": 8,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 242.4597,
+          "xMax": 455.6928,
+          "yMax": 255.6477
+        },
+        "raw": "Êàðà áåòòèí àòû»,– äåï,",
+        "text": "Кара беттин аты»,– деп,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0242-0261/page-0245.png",
+      "page_image_sha256": "05a0040c1f887e3d584f191167fb8a9d7bd367efa2bddec1a1afb6891fcbdeee",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0242-0261.json",
+          "descriptor_sha256": "038b7bfc8aaf2134ad670405d2d2c914ece3e031cfa77fa11b6e85e7e47006c9",
+          "english": "corpus/batches/pages-semetey1-0242-0261.en.txt",
+          "english_sha256": "05653420b6b2e16ccaaa29cf2d5a5199e19c2302321fcf70c40512f9669cc0af",
+          "old_english_current": "The shameless one's horse!' they may say.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0277:b003:l038",
+      "ky": "Мен эжекең кара бет",
+      "old_english": "I, your disgraced elder sister,",
+      "proposed_english": "I, your bereaved elder sister,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey explicitly recounts losing Manas at thirty-two, flight and injuries, while still addressing Semetey as younger brother. Widow self-lament, not accusation.",
+      "proposed_note": "Kanykey explicitly recounts losing Manas at thirty-two, flight and injuries, while still addressing Semetey as younger brother. Widow self-lament, not accusation. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0277:b003:l038",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 277,
+        "block": 3,
+        "line_in_block": 38,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 668.6997,
+          "xMax": 205.272,
+          "yMax": 681.8877
+        },
+        "raw": "Ìåí ýæåêå¢ êàðà áåò",
+        "text": "Мен эжекең кара бет",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0262-0281/page-0277.png",
+      "page_image_sha256": "6de93f48c605f0bd8400781ba74592a5a8e31c869b0ec1da3dcbb8791003eda3",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0262-0281.json",
+          "descriptor_sha256": "5bd7c8fc3e31f47fe75bc369b8f4f9788dde057024dbf61652ffd6f10f024a46",
+          "english": "corpus/batches/pages-semetey1-0262-0281.en.txt",
+          "english_sha256": "7e120cca6f0079a3394d3fdeb8325c6c8cae1fac89a29a54a15a6f1883e44848",
+          "old_english_current": "I, your disgraced elder sister,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0284:b003:l019",
+      "ky": "Эжекең мен карабет шордуунун",
+      "old_english": "For me, your disgraced, unfortunate sister,",
+      "proposed_english": "For me, your bereaved, unfortunate sister,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey identifies Chyyyrdy as her only support after loss, with no kin or people remaining to sustain her. Bereaved widow context; preserve self-abasing shade in note.",
+      "proposed_note": "Kanykey identifies Chyyyrdy as her only support after loss, with no kin or people remaining to sustain her. Bereaved widow context; preserve self-abasing shade in note. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0284:b003:l019",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 284,
+        "block": 3,
+        "line_in_block": 19,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 398.6997,
+          "xMax": 266.4768,
+          "yMax": 411.8877
+        },
+        "raw": "Ýæåêå¢ ìåí êàðàáåò øîðäóóíóí",
+        "text": "Эжекең мен карабет шордуунун",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0284.png",
+      "page_image_sha256": "00d02be385edee92d7886a03c957c19cb4389a0d5c98f555d320fbeb1b1d2359",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0282-0284.json",
+          "descriptor_sha256": "279f897534096cea51025b484ee2c4904574a2e69f1d22788cbd248d60fa2297",
+          "english": "corpus/batches/pages-semetey1-0282-0284.en.txt",
+          "english_sha256": "971538838f88d3b73722ad6d6786a828e615d1e3fabfedfde4b9d8121eaf384a",
+          "old_english_current": "For me, your disgraced, unfortunate sister,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0300:b003:l021",
+      "ky": "Эжекең мен карабет бейбакка,",
+      "old_english": "To your sister, this disgraced, hapless woman,",
+      "proposed_english": "To your sister, this bereaved, hapless woman,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey continues her instructions to Semetey while retaining the elder-sister disguise. Reference is to the bereaved and dispossessed speaker, not a claim of moral dishonesty.",
+      "proposed_note": "Kanykey continues her instructions to Semetey while retaining the elder-sister disguise. Reference is to the bereaved and dispossessed speaker, not a claim of moral dishonesty. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0300:b003:l021",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 300,
+        "block": 3,
+        "line_in_block": 21,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 427.2597,
+          "xMax": 258.108,
+          "yMax": 440.4477
+        },
+        "raw": "Ýæåêå¢ ìåí êàðàáåò áåéáàêêà,",
+        "text": "Эжекең мен карабет бейбакка,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0300.png",
+      "page_image_sha256": "3e9babc4b12cf994aa7a4730f332a19bfee9234db732e9c5671edde9f8552170",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0288-0307.json",
+          "descriptor_sha256": "8beff964e426594b90d0bbbd2bfe479d58e4c31a3a03203c5bfaf49fa0df97c8",
+          "english": "corpus/batches/pages-semetey1-0288-0307.en.txt",
+          "english_sha256": "7f4606ba66a6f23c9d6e43d47799104ae9baa2e191acf7c84d4896e1340d813c",
+          "old_english_current": "To your sister, this disgraced, hapless woman,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0316:b004:l038",
+      "ky": "Карабет саа эне деп.",
+      "old_english": "That disgraced woman is your mother.",
+      "proposed_english": "That bereaved woman is your mother.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Sary Taz identifies Kanykey and explains her flight after Manas died and his relatives attacked her. The surrounding rebuke is aimed at Semetey; the mother's epithet marks bereavement and plight.",
+      "proposed_note": "Sary Taz identifies Kanykey and explains her flight after Manas died and his relatives attacked her. The surrounding rebuke is aimed at Semetey; the mother's epithet marks bereavement and plight. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0316:b004:l038",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 316,
+        "block": 4,
+        "line_in_block": 38,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 668.6997,
+          "xMax": 428.772,
+          "yMax": 681.8877
+        },
+        "raw": "Êàðàáåò ñàà ýíå äåï.",
+        "text": "Карабет саа эне деп.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0308-0327/page-0316.png",
+      "page_image_sha256": "9d991245e4d28e52c0b81497540846e41dc0fdd561a37da56b4470a092c6b6e9",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0308-0327.json",
+          "descriptor_sha256": "43aab838787d0be5023075ec2f9c25943d053ccf2a52c1b7825322721e5cf26d",
+          "english": "corpus/batches/pages-semetey1-0308-0327.en.txt",
+          "english_sha256": "f03ebdffcc6c0c384408a842ca39d92a7bc8d62a1f2001bd7be1a7481195eaf7",
+          "old_english_current": "That disgraced woman is your mother.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0323:b003:l021",
+      "ky": "Энекең карабеттин этинде",
+      "old_english": "Upon your disgraced mother's flesh",
+      "proposed_english": "Upon your bereaved mother's flesh",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Sary Taz describes whip marks and the assault that drove Kanykey away after Manas died. His accusation targets abusive relatives and the ignorant son, not the mother's morals.",
+      "proposed_note": "Sary Taz describes whip marks and the assault that drove Kanykey away after Manas died. His accusation targets abusive relatives and the ignorant son, not the mother's morals. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0323:b003:l021",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 323,
+        "block": 3,
+        "line_in_block": 21,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 427.2597,
+          "xMax": 235.284,
+          "yMax": 440.4477
+        },
+        "raw": "Ýíåêå¢ êàðàáåòòèí ýòèíäå",
+        "text": "Энекең карабеттин этинде",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0308-0327/page-0323.png",
+      "page_image_sha256": "0b587d7f76c6d42495c6e1ce58e9e87abb0a76e5f112a1f13a32b770101e7739",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0308-0327.json",
+          "descriptor_sha256": "43aab838787d0be5023075ec2f9c25943d053ccf2a52c1b7825322721e5cf26d",
+          "english": "corpus/batches/pages-semetey1-0308-0327.en.txt",
+          "english_sha256": "f03ebdffcc6c0c384408a842ca39d92a7bc8d62a1f2001bd7be1a7481195eaf7",
+          "old_english_current": "Upon your disgraced mother's flesh",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0335:b004:l003",
+      "ky": "Энекең, мен карабет бейбактын",
+      "old_english": "I, your disgraced, hapless mother,",
+      "proposed_english": "I, your bereaved, hapless mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey explicitly reveals motherhood and recounts breast wounds and winter flight after Manas's death; she explicitly names widowhood later in the same column.",
+      "proposed_note": "Kanykey explicitly reveals motherhood and recounts breast wounds and winter flight after Manas's death; she explicitly names widowhood later in the same column. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0335:b004:l003",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 335,
+        "block": 4,
+        "line_in_block": 3,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 171.6597,
+          "xMax": 498.534,
+          "yMax": 184.8477
+        },
+        "raw": "Ýíåêå¢, ìåí êàðàáåò áåéáàêòûí",
+        "text": "Энекең, мен карабет бейбактын",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0328-0347/page-0335.png",
+      "page_image_sha256": "c8f70226d77f9c705a42ab9331287e71431d752dd655914bd9b8ba602b58d28e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0328-0347.json",
+          "descriptor_sha256": "f9c28f16d52c2943a5c031a12869c1e3c4fdfa41597cb9cef85111053fd3be9e",
+          "english": "corpus/batches/pages-semetey1-0328-0347.en.txt",
+          "english_sha256": "ef1ef365b9fafc839894e488a345b04ddda6be1c8288b332d45f689f53ed6bb2",
+          "old_english_current": "I, your disgraced, hapless mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0345:b003:l034",
+      "ky": "Эсил энең, карабет келген жер ошол,",
+      "old_english": "That is where your dear, disgraced mother came;",
+      "proposed_english": "That is where your dear, bereaved mother came;",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey points out the route of her escape carrying the orphan after Manas died. Self-lament without moral accusation.",
+      "proposed_note": "Kanykey points out the route of her escape carrying the orphan after Manas died. Self-lament without moral accusation. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0345:b003:l034",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 345,
+        "block": 3,
+        "line_in_block": 34,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 611.8197,
+          "xMax": 287.6688,
+          "yMax": 625.0077
+        },
+        "raw": "Ýñèë ýíå¢, êàðàáåò êåëãåí æåð îøîë,",
+        "text": "Эсил энең, карабет келген жер ошол,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0328-0347/page-0345.png",
+      "page_image_sha256": "b11a1e7932f2cf6cf45553c968ec3bb33029095f90259719f0e8afe109f4a487",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0328-0347.json",
+          "descriptor_sha256": "f9c28f16d52c2943a5c031a12869c1e3c4fdfa41597cb9cef85111053fd3be9e",
+          "english": "corpus/batches/pages-semetey1-0328-0347.en.txt",
+          "english_sha256": "ef1ef365b9fafc839894e488a345b04ddda6be1c8288b332d45f689f53ed6bb2",
+          "old_english_current": "That is where your dear, disgraced mother came;",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0345:b005:l019",
+      "ky": "Энекең мен карабет куу шумпай,",
+      "old_english": "I, your disgraced, wretched, deceitful mother,",
+      "proposed_english": "I, your bereaved, wretched, deceitful mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recounts the exhausting winter river crossing during flight. Change only карабет; retain the separate printed куу шумпай self-denigration and its existing rendering, without broadening scope.",
+      "proposed_note": "Kanykey recounts the exhausting winter river crossing during flight. Change only карабет; retain the separate printed куу шумпай self-denigration and its existing rendering, without broadening scope. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0345:b005:l019",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 345,
+        "block": 5,
+        "line_in_block": 19,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 398.6997,
+          "xMax": 508.242,
+          "yMax": 411.8877
+        },
+        "raw": "Ýíåêå¢ ìåí êàðàáåò êóó øóìïàé,",
+        "text": "Энекең мен карабет куу шумпай,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0328-0347/page-0345.png",
+      "page_image_sha256": "b11a1e7932f2cf6cf45553c968ec3bb33029095f90259719f0e8afe109f4a487",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0328-0347.json",
+          "descriptor_sha256": "f9c28f16d52c2943a5c031a12869c1e3c4fdfa41597cb9cef85111053fd3be9e",
+          "english": "corpus/batches/pages-semetey1-0328-0347.en.txt",
+          "english_sha256": "ef1ef365b9fafc839894e488a345b04ddda6be1c8288b332d45f689f53ed6bb2",
+          "old_english_current": "I, your disgraced, wretched, deceitful mother,",
+          "old_note_current": "Mother calls herself disgraced/deceitful wretch in lament; do not cleanse source self-reproach."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0345:b005:l023",
+      "ky": "Энекең мен кара бет бейтаалай,",
+      "old_english": "I, your disgraced, ill-fated mother,",
+      "proposed_english": "I, your bereaved, ill-fated mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Same explicit winter flight from Talas carrying child and elder after Manas's death. Primary widow sense fits.",
+      "proposed_note": "Same explicit winter flight from Talas carrying child and elder after Manas's death. Primary widow sense fits. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0345:b005:l023",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 345,
+        "block": 5,
+        "line_in_block": 23,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 455.5797,
+          "xMax": 498.558,
+          "yMax": 468.7677
+        },
+        "raw": "Ýíåêå¢ ìåí êàðà áåò áåéòààëàé,",
+        "text": "Энекең мен кара бет бейтаалай,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0328-0347/page-0345.png",
+      "page_image_sha256": "b11a1e7932f2cf6cf45553c968ec3bb33029095f90259719f0e8afe109f4a487",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0328-0347.json",
+          "descriptor_sha256": "f9c28f16d52c2943a5c031a12869c1e3c4fdfa41597cb9cef85111053fd3be9e",
+          "english": "corpus/batches/pages-semetey1-0328-0347.en.txt",
+          "english_sha256": "ef1ef365b9fafc839894e488a345b04ddda6be1c8288b332d45f689f53ed6bb2",
+          "old_english_current": "I, your disgraced, ill-fated mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0346:b003:l025",
+      "ky": "Энекең мен карабет бейтаалай,",
+      "old_english": "I, your disgraced, ill-fated mother,",
+      "proposed_english": "I, your bereaved, ill-fated mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey identifies Jorgo Pass as where she crossed lamenting; neighbouring column explicitly says widow mother and describes the six relatives stealing her possessions.",
+      "proposed_note": "Kanykey identifies Jorgo Pass as where she crossed lamenting; neighbouring column explicitly says widow mother and describes the six relatives stealing her possessions. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0346:b003:l025",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 346,
+        "block": 3,
+        "line_in_block": 25,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 483.8997,
+          "xMax": 260.3856,
+          "yMax": 497.0877
+        },
+        "raw": "Ýíåêå¢ ìåí êàðàáåò áåéòààëàé,",
+        "text": "Энекең мен карабет бейтаалай,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0328-0347/page-0346.png",
+      "page_image_sha256": "6be911ebb3188f969e11c231a7661b83ef898534ef25cd6b8ac67e628d703d65",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0328-0347.json",
+          "descriptor_sha256": "f9c28f16d52c2943a5c031a12869c1e3c4fdfa41597cb9cef85111053fd3be9e",
+          "english": "corpus/batches/pages-semetey1-0328-0347.en.txt",
+          "english_sha256": "ef1ef365b9fafc839894e488a345b04ddda6be1c8288b332d45f689f53ed6bb2",
+          "old_english_current": "I, your disgraced, ill-fated mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0348:b003:l005",
+      "ky": "Мен энекең кара бет",
+      "old_english": "I, your shamefaced mother,",
+      "proposed_english": "I, your unfortunate mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recalls being fourteen and receiving the puppy Kumayyk from Manas. Retrospective self-deprecation; avoid implying she was already widowed in that childhood scene.",
+      "proposed_note": "Kanykey recalls being fourteen and receiving the puppy Kumayyk from Manas. Retrospective self-deprecation; avoid implying she was already widowed in that childhood scene. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0348:b003:l005",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 348,
+        "block": 3,
+        "line_in_block": 5,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 199.9797,
+          "xMax": 199.5696,
+          "yMax": 213.1677
+        },
+        "raw": "Ìåí ýíåêå¢ êàðà áåò",
+        "text": "Мен энекең кара бет",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0348.png",
+      "page_image_sha256": "cdf329c13bfc63dc58c4d08fc25050b24cf56e905c63892e09c19404f1d2842e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0348-0350.json",
+          "descriptor_sha256": "fb005e4adbd519239cc27b88e085c3b99bdbc48f08afc393f7d11c91dcd670a5",
+          "english": "corpus/batches/pages-semetey1-0348-0350.en.txt",
+          "english_sha256": "b0348ec3bc1d50939171ead6b305460e70653701b6f5c2af7d141ed6b8fcfed7",
+          "old_english_current": "I, your shamefaced mother,",
+          "old_note_current": "Kanykei shamefaced self-description preserved as speech, not narrator endorsement."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0349:b003:l016",
+      "ky": "Энекең, мен кара бет бейтаалай.",
+      "old_english": "I, your shamefaced, luckless mother—",
+      "proposed_english": "I, your unfortunate, luckless mother—",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recounts protecting the puppy Kumayyk and being struck by the living Manas. Self-abasing misfortune in past marriage, not widowhood at that time.",
+      "proposed_note": "Kanykey recounts protecting the puppy Kumayyk and being struck by the living Manas. Self-abasing misfortune in past marriage, not widowhood at that time. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0349:b003:l016",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 349,
+        "block": 3,
+        "line_in_block": 16,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 356.2197,
+          "xMax": 272.0496,
+          "yMax": 369.4077
+        },
+        "raw": "Ýíåêå¢, ìåí êàðà áåò áåéòààëàé.",
+        "text": "Энекең, мен кара бет бейтаалай.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0349.png",
+      "page_image_sha256": "32120a18d56d5eed16b64bb510f4a257b52ba89140b67773cd63ab2d5821cbc5",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0348-0350.json",
+          "descriptor_sha256": "fb005e4adbd519239cc27b88e085c3b99bdbc48f08afc393f7d11c91dcd670a5",
+          "english": "corpus/batches/pages-semetey1-0348-0350.en.txt",
+          "english_sha256": "b0348ec3bc1d50939171ead6b305460e70653701b6f5c2af7d141ed6b8fcfed7",
+          "old_english_current": "I, your shamefaced, luckless mother—",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0351:b004:l004",
+      "ky": "Энекең карабетке ала кел.",
+      "old_english": "Bring him to your shamefaced mother.",
+      "proposed_english": "Bring him to your bereaved mother.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Present instruction to bring Manas's surviving dog Kumayyk, repeatedly described as his bequest, to Kanykey. No accusation of misconduct.",
+      "proposed_note": "Present instruction to bring Manas's surviving dog Kumayyk, repeatedly described as his bequest, to Kanykey. No accusation of misconduct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0351:b004:l004",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 351,
+        "block": 4,
+        "line_in_block": 4,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 185.8197,
+          "xMax": 467.1072,
+          "yMax": 199.0077
+        },
+        "raw": "Ýíåêå¢ êàðàáåòêå àëà êåë.",
+        "text": "Энекең карабетке ала кел.",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0351.png",
+      "page_image_sha256": "bf35e439ce63f9cc278c91fd93069de25248e9e5e5a1f50cee19b7936e3adc1b",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0351-0353.json",
+          "descriptor_sha256": "ccb4113a4b7c17c2bc9d93f490d6593e20b89d1eeb6c9ecace4b14951a6a3bbf",
+          "english": "corpus/batches/pages-semetey1-0351-0353.en.txt",
+          "english_sha256": "938c5f7c2795a3a437fcde78e0a49220c73281d33832b17be49431c493ffdb89",
+          "old_english_current": "Bring him to your shamefaced mother.",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0353:b005:l008",
+      "ky": "Энекең мен кара бет бейбактын",
+      "old_english": "I, your shamefaced, wretched mother,",
+      "proposed_english": "I, your unfortunate, wretched mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recalls the many guards she had while Manas was alive, contrasting them with destruction after his death. Use unfortunate for retrospective self-deprecation rather than implying past widowhood.",
+      "proposed_note": "Kanykey recalls the many guards she had while Manas was alive, contrasting them with destruction after his death. Use unfortunate for retrospective self-deprecation rather than implying past widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0353:b005:l008",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 353,
+        "block": 5,
+        "line_in_block": 8,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 242.4597,
+          "xMax": 498.5112,
+          "yMax": 255.6477
+        },
+        "raw": "Ýíåêå¢ ìåí êàðà áåò áåéáàêòûí",
+        "text": "Энекең мен кара бет бейбактын",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0353.png",
+      "page_image_sha256": "73d2a04919a7afef3c80cbb44b94f169a4381ecdda3cb9a90c26f55caa7fe917",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0351-0353.json",
+          "descriptor_sha256": "ccb4113a4b7c17c2bc9d93f490d6593e20b89d1eeb6c9ecace4b14951a6a3bbf",
+          "english": "corpus/batches/pages-semetey1-0351-0353.en.txt",
+          "english_sha256": "938c5f7c2795a3a437fcde78e0a49220c73281d33832b17be49431c493ffdb89",
+          "old_english_current": "I, your shamefaced, wretched mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0375:b003:l004",
+      "ky": "Мен энекең карабет",
+      "old_english": "When I, your disgraced mother,",
+      "proposed_english": "When I, your bereaved mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Explicit recollection of flight on foot after Manas's death; Bakay addresses her as mourning Kanykey and helps her reach Bukhara.",
+      "proposed_note": "Explicit recollection of flight on foot after Manas's death; Bakay addresses her as mourning Kanykey and helps her reach Bukhara. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0375:b003:l004",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 375,
+        "block": 3,
+        "line_in_block": 4,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 185.8197,
+          "xMax": 197.928,
+          "yMax": 199.0077
+        },
+        "raw": "Ìåí ýíåêå¢ êàðàáåò",
+        "text": "Мен энекең карабет",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0374-0393/page-0375.png",
+      "page_image_sha256": "66fbb8f5910f1b016506399273e6566575ed4aea4120674f613c32c601f39a5d",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0374-0393.json",
+          "descriptor_sha256": "c83624030d8ccec1337bad9507204ceed17fe655477cb72a4b2e47817e4f4bb0",
+          "english": "corpus/batches/pages-semetey1-0374-0393.en.txt",
+          "english_sha256": "7ccd403d80dfcbd6b2b290480b5fb6addd8cdd9415c40ab2c3e40828ad509476",
+          "old_english_current": "When I, your disgraced mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0377:b003:l031",
+      "ky": "Азапты мен карабет көргөндө,",
+      "old_english": "When I, disgraced, suffered torment,",
+      "proposed_english": "When I, bereaved, suffered torment,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "The immediately preceding verse says the father died; two verses later she explicitly calls herself widow. Primary widow sense is direct.",
+      "proposed_note": "The immediately preceding verse says the father died; two verses later she explicitly calls herself widow. Primary widow sense is direct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0377:b003:l031",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 377,
+        "block": 3,
+        "line_in_block": 31,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 569.0997,
+          "xMax": 261.0252,
+          "yMax": 582.2877
+        },
+        "raw": "Àçàïòû ìåí êàðàáåò êºðãºíäº,",
+        "text": "Азапты мен карабет көргөндө,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0374-0393/page-0377.png",
+      "page_image_sha256": "a7e87d35e6d3d53bea47ea9c01a6cce12f688e0558172ee8625d6cead5571254",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0374-0393.json",
+          "descriptor_sha256": "c83624030d8ccec1337bad9507204ceed17fe655477cb72a4b2e47817e4f4bb0",
+          "english": "corpus/batches/pages-semetey1-0374-0393.en.txt",
+          "english_sha256": "7ccd403d80dfcbd6b2b290480b5fb6addd8cdd9415c40ab2c3e40828ad509476",
+          "old_english_current": "When I, disgraced, suffered torment,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0382:b004:l004",
+      "ky": "Энекең, мен карабет, бейбактын",
+      "old_english": "I, your disgraced, unhappy mother,",
+      "proposed_english": "I, your bereaved, unhappy mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Present speaker Kanykey gives Semetey uncertain reports about Chubak and his surviving family. Self-deprecation by Manas's widow, not a moral allegation.",
+      "proposed_note": "Present speaker Kanykey gives Semetey uncertain reports about Chubak and his surviving family. Self-deprecation by Manas's widow, not a moral allegation. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0382:b004:l004",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 382,
+        "block": 4,
+        "line_in_block": 4,
+        "bbox": {
+          "xMin": 307.44,
+          "yMin": 185.8197,
+          "xMax": 500.1744,
+          "yMax": 199.0077
+        },
+        "raw": "Ýíåêå¢, ìåí êàðàáåò, áåéáàêòûí",
+        "text": "Энекең, мен карабет, бейбактын",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0374-0393/page-0382.png",
+      "page_image_sha256": "4941982cc7f68901c22085093c0309ecda5dd13d9782f0c1054eacfa928243f8",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0374-0393.json",
+          "descriptor_sha256": "c83624030d8ccec1337bad9507204ceed17fe655477cb72a4b2e47817e4f4bb0",
+          "english": "corpus/batches/pages-semetey1-0374-0393.en.txt",
+          "english_sha256": "7ccd403d80dfcbd6b2b290480b5fb6addd8cdd9415c40ab2c3e40828ad509476",
+          "old_english_current": "I, your disgraced, unhappy mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0389:b004:l023",
+      "ky": "Мен энекең карабет",
+      "old_english": "I, your disgraced mother,",
+      "proposed_english": "I, your unfortunate mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recalls procuring material and making armour during Manas's lifetime and rule; unfortunate avoids anachronistic bereavement in the narrated action.",
+      "proposed_note": "Kanykey recalls procuring material and making armour during Manas's lifetime and rule; unfortunate avoids anachronistic bereavement in the narrated action. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0389:b004:l023",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 389,
+        "block": 4,
+        "line_in_block": 23,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 455.5797,
+          "xMax": 428.808,
+          "yMax": 468.7677
+        },
+        "raw": "Ìåí ýíåêå¢ êàðàáåò",
+        "text": "Мен энекең карабет",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0374-0393/page-0389.png",
+      "page_image_sha256": "0cdd2192c508ec14d71a6e465733e9b4b4ed544c1e9ef766ce311439134109f9",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0374-0393.json",
+          "descriptor_sha256": "c83624030d8ccec1337bad9507204ceed17fe655477cb72a4b2e47817e4f4bb0",
+          "english": "corpus/batches/pages-semetey1-0374-0393.en.txt",
+          "english_sha256": "7ccd403d80dfcbd6b2b290480b5fb6addd8cdd9415c40ab2c3e40828ad509476",
+          "old_english_current": "I, your disgraced mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0398:b003:l001",
+      "ky": "Энекең мен карабет бейбакка",
+      "old_english": "To me, your disgraced, wretched mother,",
+      "proposed_english": "To me, your unfortunate, wretched mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Recollection of Kumayyk returning, her search for Manas and restoring him to life after apparent death. Unfortunate, not irreversible bereavement; separate later accusation by Kyrgylchal remains intact.",
+      "proposed_note": "Recollection of Kumayyk returning, her search for Manas and restoring him to life after apparent death. Unfortunate, not irreversible bereavement; separate later accusation by Kyrgylchal remains intact. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0398:b003:l001",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 398,
+        "block": 3,
+        "line_in_block": 1,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 143.0997,
+          "xMax": 250.464,
+          "yMax": 156.2877
+        },
+        "raw": "Ýíåêå¢ ìåí êàðàáåò áåéáàêêà",
+        "text": "Энекең мен карабет бейбакка",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0398.png",
+      "page_image_sha256": "aabe0d3597710b90f6627f9b6d3993a6b210b0fe316b57a87c3323abeb0be4e4",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0394-0413.json",
+          "descriptor_sha256": "7d964526ef163a182e6cdef884f38d5d6e9757c190afabffdd9d8c0f53d9075f",
+          "english": "corpus/batches/pages-semetey1-0394-0413.en.txt",
+          "english_sha256": "296ddc7714aec36b19a83903d8d5149173bf47e407fd7c83cb39823252164f6d",
+          "old_english_current": "To me, your disgraced, wretched mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0423:b003:l032",
+      "ky": "Энекең карабет Каныкейдин жөө жомок,",
+      "old_english": "And your mother, disgraced Kanykey's tale—",
+      "proposed_english": "And your mother, unfortunate Kanykey's tale—",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey turns to recounting her six-month neglect by the living Manas and subsequent siege. Retrospective self-deprecation, not widowhood in that scene or narrator charge of shamelessness.",
+      "proposed_note": "Kanykey turns to recounting her six-month neglect by the living Manas and subsequent siege. Retrospective self-deprecation, not widowhood in that scene or narrator charge of shamelessness. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0423:b003:l032",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 423,
+        "block": 3,
+        "line_in_block": 32,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 583.4997,
+          "xMax": 249.5256,
+          "yMax": 596.6877
+        },
+        "raw": "Ýíåêå¢ êàðàáåò Êàíûêåéäèí",
+        "text": "Энекең карабет Каныкейдин",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0420-0439/page-0423.png",
+      "page_image_sha256": "7afee861c1b4b83c84b66d0babe6dbac8f035cde2e2c07f2cb5cdb5263e99cc8",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0420-0439.json",
+          "descriptor_sha256": "3b2a3ca4e8c2249f1d5f8c65cadbe9f530d2cc4e1ec3539ac091a47ff3ed592f",
+          "english": "corpus/batches/pages-semetey1-0420-0439.en.txt",
+          "english_sha256": "680e5a4751434ffed6e7903f228a43a18d2edaa87d005b21bc9dbd92487d8fb9",
+          "old_english_current": "And your mother, disgraced Kanykey's tale—",
+          "old_note_current": "Indented l033 жөө жомок joins l032 as one printed verse; raw clauses retained. Kanykey's self-referential third-person disgraced epithet not omitted. Indented continuation inspected in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained."
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0433:b005:l011",
+      "ky": "Энекең, мен карабет бейтаалай,",
+      "old_english": "I, your unfortunate, disgraced mother,",
+      "proposed_english": "I, your unfortunate, ill-fated mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey sees living Manas surrounded in battle, weeps and rides to aid him. Render self-deprecating карабет as unfortunate and nearby бейтаалай as ill-fated; no hostile charge or widowhood yet.",
+      "proposed_note": "Kanykey sees living Manas surrounded in battle, weeps and rides to aid him. Render self-deprecating карабет as unfortunate and nearby бейтаалай as ill-fated; no hostile charge or widowhood yet. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0433:b005:l011",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 433,
+        "block": 5,
+        "line_in_block": 11,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 285.1797,
+          "xMax": 498.5496,
+          "yMax": 298.3677
+        },
+        "raw": "Ýíåêå¢, ìåí êàðàáåò áåéòààëàé,",
+        "text": "Энекең, мен карабет бейтаалай,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0420-0439/page-0433.png",
+      "page_image_sha256": "630fa0867770e4c62c7cbfcccf804c5c7003edfd6c9cca80e048a43031177d97",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0420-0439.json",
+          "descriptor_sha256": "3b2a3ca4e8c2249f1d5f8c65cadbe9f530d2cc4e1ec3539ac091a47ff3ed592f",
+          "english": "corpus/batches/pages-semetey1-0420-0439.en.txt",
+          "english_sha256": "680e5a4751434ffed6e7903f228a43a18d2edaa87d005b21bc9dbd92487d8fb9",
+          "old_english_current": "I, your unfortunate, disgraced mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0448:b003:l005",
+      "ky": "Карабет энекеңдин ак сарай,",
+      "old_english": "To your disgraced mother's white palace,",
+      "proposed_english": "To your unfortunate mother's white palace,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recounts receiving the conspirators' letter during Manas's lifetime. The later grief concerns recognizing danger; no moral charge against her.",
+      "proposed_note": "Kanykey recounts receiving the conspirators' letter during Manas's lifetime. The later grief concerns recognizing danger; no moral charge against her. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0448:b003:l005",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 448,
+        "block": 3,
+        "line_in_block": 5,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 199.9797,
+          "xMax": 248.37,
+          "yMax": 213.1677
+        },
+        "raw": "Êàðàáåò ýíåêå¢äèí àê ñàðàé,",
+        "text": "Карабет энекеңдин ак сарай,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0440-0459/page-0448.png",
+      "page_image_sha256": "44362b6897ae7960464471a696c3660b8ba7578d518f991219e3fd79881f2ea6",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0440-0459.json",
+          "descriptor_sha256": "1522c8d4d0c0066f9b7c3699ef5e52e3ff5a6044ccfae28ab70c0cb62f27b12b",
+          "english": "corpus/batches/pages-semetey1-0440-0459.en.txt",
+          "english_sha256": "b4312fb480e469d1539f93727c4bccd23a5ea042e1b8fd12757f4e17510fa447",
+          "old_english_current": "To your disgraced mother's white palace,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0451:b003:l035",
+      "ky": "Карабет энең долунун",
+      "old_english": "Your disgraced, shrewish mother's",
+      "proposed_english": "Your disgraced, shrewish mother's",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain disgraced: explicit recollection of public flogging by the living Manas before Bakay, Koshoi and the companions. Public humiliation and marital reproach directly support the disgrace layer; bereaved would be false for this episode.",
+      "proposed_note": "Retain disgraced: explicit recollection of public flogging by the living Manas before Bakay, Koshoi and the companions. Public humiliation and marital reproach directly support the disgrace layer; bereaved would be false for this episode. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0451:b003:l035",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 451,
+        "block": 3,
+        "line_in_block": 35,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 625.9797,
+          "xMax": 209.1948,
+          "yMax": 639.1677
+        },
+        "raw": "Êàðàáåò ýíå¢ äîëóíóí",
+        "text": "Карабет энең долунун",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0440-0459/page-0451.png",
+      "page_image_sha256": "304e47a712d85bf6d4257d678eaa3105740a8c436d825e939206083bd3c68a5e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0440-0459.json",
+          "descriptor_sha256": "1522c8d4d0c0066f9b7c3699ef5e52e3ff5a6044ccfae28ab70c0cb62f27b12b",
+          "english": "corpus/batches/pages-semetey1-0440-0459.en.txt",
+          "english_sha256": "b4312fb480e469d1539f93727c4bccd23a5ea042e1b8fd12757f4e17510fa447",
+          "old_english_current": "Your disgraced, shrewish mother's",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0451:b003:l039",
+      "ky": "Карабет энең долунун",
+      "old_english": "Your disgraced, shrewish mother's",
+      "proposed_english": "Your disgraced, shrewish mother's",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain disgraced: repeated description during the same public flogging, torn clothing and bleeding. Context supports actual humiliation, not merely widow lament.",
+      "proposed_note": "Retain disgraced: repeated description during the same public flogging, torn clothing and bleeding. Context supports actual humiliation, not merely widow lament. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0451:b003:l039",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 451,
+        "block": 3,
+        "line_in_block": 39,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 682.8597,
+          "xMax": 209.1948,
+          "yMax": 696.0477
+        },
+        "raw": "Êàðàáåò ýíå¢ äîëóíóí",
+        "text": "Карабет энең долунун",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0440-0459/page-0451.png",
+      "page_image_sha256": "304e47a712d85bf6d4257d678eaa3105740a8c436d825e939206083bd3c68a5e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0440-0459.json",
+          "descriptor_sha256": "1522c8d4d0c0066f9b7c3699ef5e52e3ff5a6044ccfae28ab70c0cb62f27b12b",
+          "english": "corpus/batches/pages-semetey1-0440-0459.en.txt",
+          "english_sha256": "b4312fb480e469d1539f93727c4bccd23a5ea042e1b8fd12757f4e17510fa447",
+          "old_english_current": "Your disgraced, shrewish mother's",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0451:b005:l035",
+      "ky": "«Карабет башын алам» – деп,",
+      "old_english": "“I will cut off the disgraced one's head!”",
+      "proposed_english": "“I will cut off the disgraced one's head!”",
+      "action": "retain-contextual-reading",
+      "english_word_delta": 0,
+      "context_reason": "Retain disgraced in the quoted threat by Manas to behead her; hostile reproach and public punishment context. No neutral bereaved substitution.",
+      "proposed_note": "Retain disgraced in the quoted threat by Manas to behead her; hostile reproach and public punishment context. No neutral bereaved substitution. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0451:b005:l035",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 451,
+        "block": 5,
+        "line_in_block": 35,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 625.9797,
+          "xMax": 486.516,
+          "yMax": 639.1677
+        },
+        "raw": "«Êàðàáåò áàøûí àëàì» – äåï,",
+        "text": "«Карабет башын алам» – деп,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0440-0459/page-0451.png",
+      "page_image_sha256": "304e47a712d85bf6d4257d678eaa3105740a8c436d825e939206083bd3c68a5e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0440-0459.json",
+          "descriptor_sha256": "1522c8d4d0c0066f9b7c3699ef5e52e3ff5a6044ccfae28ab70c0cb62f27b12b",
+          "english": "corpus/batches/pages-semetey1-0440-0459.en.txt",
+          "english_sha256": "b4312fb480e469d1539f93727c4bccd23a5ea042e1b8fd12757f4e17510fa447",
+          "old_english_current": "“I will cut off the disgraced one's head!”",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0457:b005:l009",
+      "ky": "Энекең, мен карабет бейтаалай",
+      "old_english": "I, your disgraced, ill-fated mother,",
+      "proposed_english": "I, your unfortunate, ill-fated mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recalls making armour while the living Manas and his companions attend a feast and fall into deception. Self-deprecating retrospective voice, not bereavement at that time.",
+      "proposed_note": "Kanykey recalls making armour while the living Manas and his companions attend a feast and fall into deception. Self-deprecating retrospective voice, not bereavement at that time. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0457:b005:l009",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 457,
+        "block": 5,
+        "line_in_block": 9,
+        "bbox": {
+          "xMin": 310.32,
+          "yMin": 256.8597,
+          "xMax": 494.0556,
+          "yMax": 270.0477
+        },
+        "raw": "Ýíåêå¢, ìåí êàðàáåò áåéòààëàé",
+        "text": "Энекең, мен карабет бейтаалай",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0440-0459/page-0457.png",
+      "page_image_sha256": "7e538a0b451f7c8ee7a2618e272f8a3e79c928f5e6ee7e68f53a927048926059",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0440-0459.json",
+          "descriptor_sha256": "1522c8d4d0c0066f9b7c3699ef5e52e3ff5a6044ccfae28ab70c0cb62f27b12b",
+          "english": "corpus/batches/pages-semetey1-0440-0459.en.txt",
+          "english_sha256": "b4312fb480e469d1539f93727c4bccd23a5ea042e1b8fd12757f4e17510fa447",
+          "old_english_current": "I, your disgraced, ill-fated mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0467:b003:l037",
+      "ky": "Энекең мен карабет бейтаалай,",
+      "old_english": "I, your disgraced, unfortunate mother,",
+      "proposed_english": "I, your bereaved, unfortunate mother,",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Present widowed storyteller explicitly says she has told the tale and asks Semetey to listen before recounting past rescues. Bereaved applies to the present speaker, not the living Manas in the embedded narrative.",
+      "proposed_note": "Present widowed storyteller explicitly says she has told the tale and asks Semetey to listen before recounting past rescues. Bereaved applies to the present speaker, not the living Manas in the embedded narrative. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0467:b003:l037",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 467,
+        "block": 3,
+        "line_in_block": 37,
+        "bbox": {
+          "xMin": 79.44,
+          "yMin": 654.2997,
+          "xMax": 263.2656,
+          "yMax": 667.4877
+        },
+        "raw": "Ýíåêå¢ ìåí êàðàáåò áåéòààëàé,",
+        "text": "Энекең мен карабет бейтаалай,",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/karabet-review/semetey-1-2013-0467.png",
+      "page_image_sha256": "3460d9bbc60761ac41ebe5a257b4f7b880338453eee01dbf49fd1bf769c7fa0e",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0460-0479.json",
+          "descriptor_sha256": "1123b35f504d689c1c59059d745619fd67340fd64199c15d2d1828806e573640",
+          "english": "corpus/batches/pages-semetey1-0460-0479.en.txt",
+          "english_sha256": "8117b62751eb86e6af87940e9cb7ffc2038d8f50b8cde8f3c373f05839a24465",
+          "old_english_current": "I, your disgraced, unfortunate mother,",
+          "old_note_current": null
+        }
+      ]
+    },
+    {
+      "id": "semetey-1-2013:p0510:b003:l014",
+      "ky": "Энекең карабет Каныкейди жактырып,",
+      "old_english": "Looked kindly on your shameless mother Kanykey.",
+      "proposed_english": "Looked kindly on your unfortunate mother Kanykey.",
+      "action": "replace-epithet",
+      "english_word_delta": 0,
+      "context_reason": "Kanykey recalls the pre-marriage encounter with Chubak and Bakay's favorable view of her. Self-deprecating retrospective epithet, not moral shamelessness or pre-marriage widowhood.",
+      "proposed_note": "Kanykey recalls the pre-marriage encounter with Chubak and Bakay's favorable view of her. Self-deprecating retrospective epithet, not moral shamelessness or pre-marriage widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+      "source_record": {
+        "id": "semetey-1-2013:p0510:b003:l014",
+        "source_id": "semetey-1-2013",
+        "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+        "page": 510,
+        "block": 3,
+        "line_in_block": 14,
+        "bbox": {
+          "xMin": 76.56,
+          "yMin": 327.6597,
+          "xMax": 239.3148,
+          "yMax": 340.8477
+        },
+        "raw": "Ýíåêå¢ êàðàáåò Êàíûêåéäè",
+        "text": "Энекең карабет Каныкейди",
+        "classification": "unreviewed",
+        "transcription_status": "unreviewed",
+        "normalization": "legacy-font-v1"
+      },
+      "page_image": "tmp/pdfs/semetey1-0506-0525/page-0510.png",
+      "page_image_sha256": "4dc7e8c4682715447c56a9a4268ad8a86525c2dcc661de9fd6f37b56c321323b",
+      "frozen_locations": [
+        {
+          "descriptor": "corpus/batches/pages-semetey1-0506-0525.json",
+          "descriptor_sha256": "e9c6c8499c39a857d1b7fd99ced0d8f11248e315b269b3033275a3b2a2d87c09",
+          "english": "corpus/batches/pages-semetey1-0506-0525.en.txt",
+          "english_sha256": "503bdc3913c0bea5e9cbc03309aa690da3f5adc00a7333040458e48c81e20494",
+          "old_english_current": "Looked kindly on your shameless mother Kanykey.",
+          "old_note_current": "Indented continuation inspected individually in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained."
+        }
+      ]
+    }
+  ]
+}

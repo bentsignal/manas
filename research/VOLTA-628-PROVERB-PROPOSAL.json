@@ -1,0 +1,21 @@
+{
+  "status": "proposed-not-applied",
+  "source_id": "semetey-1-2013:p0628:b003:l036",
+  "source_group": [
+    "semetey-1-2013:p0628:b003:l036",
+    "semetey-1-2013:p0628:b003:l037"
+  ],
+  "ky": "Манас кан, өгөөмдү таштап, бүлөөмдү ал,",
+  "proposed_en": "Khan Manas, leave my file and take my whetstone,",
+  "evidence": "Primary Yudakhin өгөө I подпилок, напильник; өгөөгө бергис бүлөө бар, өкөөгө бергис бирөө бар: whetstone not exchanged for file, one not exchanged for two. Source628 previous grouped34–35 leave two/take one directly parallels this; same pair repeats current66123–24. Deliberate proverbial precious-object offer strongest; keep literal implements, not family polysemy. Full628image personally inspected in frozen batch; full661image individually inspected this batch.",
+  "primary_file": "sources/raw/yudakhin-2015.pdf",
+  "primary_provenance": "research/YUDAKHIN-LEXICAL-SOURCE.json",
+  "changes_frozen_files": false,
+  "additional_proposal": {
+    "source_id": "semetey-1-2013:p0628:b003:l026",
+    "ky": "Мен эгерде эки болбоюн!",
+    "en": "May I never prosper!",
+    "primary": "Yudakhin эки: эки болбойсуң или дүйнөдө эки болбойсуң не видать тебе добра; ты плохо кончишь; эгерде эки болбой кал! чтоб тебе никогда не видать добра! Exact generosity parallel көп дүйнөмдү аясам, эгерде эки боломбу?",
+    "context": "Conditional62825 if I hurt your feelings, self-curse26. Independent full primary entry read; no literal descendants interpretation."
+  }
+}

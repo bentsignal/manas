@@ -8,6 +8,8 @@ No published English translation of the entire 500,553-line Sayakbay Karalaev co
 
 Do not advertise this as the first complete English translation until the claim has been checked with specialists and publication is actually complete.
 
+The public manuscript catalog's verified old-to-current shelfmark crosswalk, sample URLs, and full-scan access limitation are recorded in [MANUSCRIPT-ACCESS.md](MANUSCRIPT-ACCESS.md).
+
 ## Exact target
 
 ### Reconciliation status (checked 15 September 2026)

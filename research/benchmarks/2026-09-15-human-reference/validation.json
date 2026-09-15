@@ -1,0 +1,194 @@
+[
+  {
+    "candidate": "P1A",
+    "source_lines": 20,
+    "translated_lines": 20,
+    "english_words": 109,
+    "null_lines": [],
+    "output_sha256": "e12026df04e14b8d403a608d9217865124944fa2b26fa47e2fb20b3768623dd0"
+  },
+  {
+    "candidate": "P1B",
+    "source_lines": 20,
+    "translated_lines": 20,
+    "english_words": 118,
+    "null_lines": [],
+    "output_sha256": "de4c704642a030689d626a1b21ef504ae7b3f69c6db84f9e0eaff1408b57f12f"
+  },
+  {
+    "candidate": "P1C",
+    "source_lines": 20,
+    "translated_lines": 20,
+    "english_words": 112,
+    "null_lines": [],
+    "output_sha256": "68f1b6a6709f7c0fbd401f280473af5a19948dd4b5c4c0f5c621ed4ba3c36f1b"
+  },
+  {
+    "candidate": "P1D",
+    "source_lines": 20,
+    "translated_lines": 20,
+    "english_words": 108,
+    "null_lines": [],
+    "output_sha256": "ce1f30499942561d02fb0bfd6366d19ecb4594fbc8e8a3c0f515f3dabb5bc8b8"
+  },
+  {
+    "candidate": "P1E",
+    "source_lines": 20,
+    "translated_lines": 20,
+    "english_words": 108,
+    "null_lines": [],
+    "output_sha256": "4176774b286e4d7af35410200465fe05fcefa3f2bd2c3dfbfb4b16289d224bf3"
+  },
+  {
+    "candidate": "P1F",
+    "source_lines": 20,
+    "translated_lines": 20,
+    "english_words": 108,
+    "null_lines": [],
+    "output_sha256": "cd8d235debe27267f5adea2d98c32199e80577f57dd0ee96f092a32dd3239ffb"
+  },
+  {
+    "candidate": "P2A",
+    "source_lines": 18,
+    "translated_lines": 18,
+    "english_words": 108,
+    "null_lines": [],
+    "output_sha256": "441c1f010322637f3a5bed7b766dfb4fd9cf56dfb9dbb95860ab3b7e1b897dca"
+  },
+  {
+    "candidate": "P2B",
+    "source_lines": 18,
+    "translated_lines": 18,
+    "english_words": 111,
+    "null_lines": [],
+    "output_sha256": "757eb2977c75ed3aea8178bc5adc6f16f723c73acfa64fad9c74609dd6a8fa78"
+  },
+  {
+    "candidate": "P2C",
+    "source_lines": 18,
+    "translated_lines": 18,
+    "english_words": 106,
+    "null_lines": [],
+    "output_sha256": "03d3908f37612e4c30f55f7c708bd60c9c8240899dbbd1288968d2711a66b869"
+  },
+  {
+    "candidate": "P2D",
+    "source_lines": 18,
+    "translated_lines": 18,
+    "english_words": 108,
+    "null_lines": [],
+    "output_sha256": "6d60e73e345a17284d3d70eb611b4b6825e6a82276082c5c75ff5169da83f190"
+  },
+  {
+    "candidate": "P2E",
+    "source_lines": 18,
+    "translated_lines": 18,
+    "english_words": 109,
+    "null_lines": [],
+    "output_sha256": "7213f4e6b42588dae15bffe7ab2d173434b2136f42cbbb97c79983089a0ea55b"
+  },
+  {
+    "candidate": "P2F",
+    "source_lines": 18,
+    "translated_lines": 18,
+    "english_words": 100,
+    "null_lines": [],
+    "output_sha256": "34c6985a3c03060fabbe2b6a8cda802788d6390f1cec2201637b7f7cff17abd9"
+  },
+  {
+    "candidate": "P3A",
+    "source_lines": 27,
+    "translated_lines": 27,
+    "english_words": 183,
+    "null_lines": [],
+    "output_sha256": "54e085a0c54be6d9a991dc1521ddd633491e60270ce6654187c117ef011fcf45"
+  },
+  {
+    "candidate": "P3B",
+    "source_lines": 27,
+    "translated_lines": 27,
+    "english_words": 190,
+    "null_lines": [],
+    "output_sha256": "e68fc8dfe6e49df0244c4ccf1c546158fea63f89134e607e466be5f379016ff2"
+  },
+  {
+    "candidate": "P3C",
+    "source_lines": 27,
+    "translated_lines": 27,
+    "english_words": 166,
+    "null_lines": [],
+    "output_sha256": "14190fd0f4e4e3b4216d5c3efd68186d11e87fa45ef53dbe703f80cb32d3cd7e"
+  },
+  {
+    "candidate": "P3D",
+    "source_lines": 27,
+    "translated_lines": 27,
+    "english_words": 197,
+    "null_lines": [],
+    "output_sha256": "4d174c545e0ab0f6240cdf6baa6fa0cbb06f4e97026bb2bc48e396aa808313e2"
+  },
+  {
+    "candidate": "P3E",
+    "source_lines": 27,
+    "translated_lines": 27,
+    "english_words": 191,
+    "null_lines": [],
+    "output_sha256": "8cd09cae1f42704bb1e73262711c8f005eb430011bda86a63a7da481d8a45455"
+  },
+  {
+    "candidate": "P3F",
+    "source_lines": 27,
+    "translated_lines": 27,
+    "english_words": 175,
+    "null_lines": [],
+    "output_sha256": "5d65b73cedb1b1635fb4aee7ba1d435382db4f902b9a3fab406a2790de6273d3"
+  },
+  {
+    "candidate": "P4A",
+    "source_lines": 21,
+    "translated_lines": 21,
+    "english_words": 103,
+    "null_lines": [],
+    "output_sha256": "5de5ce9891ca2e73037a966761bc63e0b14583b654aa32bbc7290758da814bb3"
+  },
+  {
+    "candidate": "P4B",
+    "source_lines": 21,
+    "translated_lines": 21,
+    "english_words": 116,
+    "null_lines": [],
+    "output_sha256": "a091aaf8c25124274bf075ee8a886111a0075a8dd67e8c6cf6c6d6b4fc46730d"
+  },
+  {
+    "candidate": "P4C",
+    "source_lines": 21,
+    "translated_lines": 21,
+    "english_words": 99,
+    "null_lines": [],
+    "output_sha256": "a13493bf907de5a56a0f7288c2c5427cf0db68ada8ac470b5319733ef930b377"
+  },
+  {
+    "candidate": "P4D",
+    "source_lines": 21,
+    "translated_lines": 21,
+    "english_words": 115,
+    "null_lines": [],
+    "output_sha256": "218df3b41b9aebb7d5a702a8b2f2e38b6d36a8c15465b86145dbf3dd0e541733"
+  },
+  {
+    "candidate": "P4E",
+    "source_lines": 21,
+    "translated_lines": 21,
+    "english_words": 106,
+    "null_lines": [],
+    "output_sha256": "241bfd69c2019f1a800ab6c4aa7dad8a3cf3d45f34caff35d663152f60e3ce37"
+  },
+  {
+    "candidate": "P4F",
+    "source_lines": 21,
+    "translated_lines": 21,
+    "english_words": 117,
+    "null_lines": [],
+    "output_sha256": "130fc217e6953251757243a97ef163241d18f2f494d6880b1d1ce779fc704c2d"
+  }
+]

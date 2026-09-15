@@ -219,6 +219,7 @@
     "semetey-1-2013:p0915:b005:l030",
     "semetey-1-2013:p0915:b005:l031",
     "semetey-1-2013:p0915:b005:l032",
+    "semetey-1-2013:p0915:b005:l033",
     "semetey-1-2013:p0915:b005:l034",
     "semetey-1-2013:p0915:b005:l035",
     "semetey-1-2013:p0915:b005:l036",
@@ -312,11 +313,6 @@
       "id": "semetey-1-2013:p0915:b005:l028",
       "kind": "unresolved_source",
       "reason": "Алаңды ала качтымбы: taking away question clear, exact алаңды object unresolved; no invented woman or horse."
-    },
-    {
-      "id": "semetey-1-2013:p0915:b005:l033",
-      "kind": "unresolved_source",
-      "reason": "Энемди тартсам болбодуң: mother and refusal clear, тарт- offering versus resembling unresolved. No unsupported offering of mother."
     }
   ],
   "notes": {
@@ -361,7 +357,8 @@
     "semetey-1-2013:p0915:b005:l029": "Ар strength/vigor in exhausting context; alternative honor resonance not silently used to invent a specific insult.",
     "semetey-1-2013:p0915:b005:l034": "Primary эстен- = эсте-II yawn, exact open-mouth example. Odd quoted yawn before slaughter retained; not silently emended to thinking or resting.",
     "semetey-1-2013:p0915:b005:l036": "Жаш tears in weeping context; life/age resonance possible, no inferred death asserted.",
-    "semetey-1-2013:p0915:b005:l039": "Final verse explicitly offers head and reports refusal; preserved as included boundary to916."
+    "semetey-1-2013:p0915:b005:l039": "Final verse explicitly offers head and reports refusal; preserved as included boundary to916.",
+    "semetey-1-2013:p0915:b005:l033": "Coordinator independently viewed PDF882 and883 images and exact extraction after worker flagged parallel.882:4:26–27 explicitly offers mother Kanykei for marriage to one of six elder kinsmen;883:3:24–26 repeats head/mother offering refusal. Thus915 is offering mother, not resembling her. Restored direct draft; no modern endorsement or specialist review."
   },
   "unresolved_source": [
     {
@@ -549,37 +546,6 @@
       ],
       "reason": "Алаңды ала качтымбы: taking away question clear, exact алаңды object unresolved; no invented woman or horse.",
       "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0915:b005:l033"
-      ],
-      "raw": [
-        "Ýíåìäè òàðòñàì áîëáîäó¢,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0915:b005:l033",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 915,
-          "block": 5,
-          "line_in_block": 33,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 597.6597,
-            "xMax": 464.1696,
-            "yMax": 610.8477
-          },
-          "raw": "Ýíåìäè òàðòñàì áîëáîäó¢,",
-          "text": "Энемди тартсам болбодуң,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Энемди тартсам болбодуң: mother and refusal clear, тарт- offering versus resembling unresolved. No unsupported offering of mother.",
-      "status": "unresolved-source-not-English-translation"
     }
   ],
   "transcription_check": {
@@ -591,15 +557,15 @@
       914,
       915
     ],
-    "evidence": "Individually inspected all three Poppler images /tmp/manas-root913-0913.png through0915.png, left column then right; no wrapped verses. Primary lexical checks and exact extraction used for direct draft. All226 reconstructed Kyrgyz/English positions read in two blocks113and113, including whole unresolved verses. Final lexical and syntactic refinements reread against exact source. Seven held verses excluded from English count; no independent specialist review."
+    "evidence": "Individually inspected all three Poppler images /tmp/manas-root913-0913.png through0915.png, left column then right; no wrapped verses. Primary lexical checks and exact extraction used for direct draft. All226 reconstructed Kyrgyz/English positions read in two blocks113and113, including whole unresolved verses. Final lexical and syntactic refinements reread against exact source. Seven held verses excluded from English count; no independent specialist review. Later independent visual comparison with882/883 restored915:5:33 offering mother, source/English reread. Six unresolved verses remain."
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 219,
-    "english_words": 1210,
+    "translated_verse_rows": 220,
+    "english_words": 1218,
     "physical_narrative_fragments": 226,
     "reconstructed_source_verses": 226,
-    "unresolved_source_verses": 7,
+    "unresolved_source_verses": 6,
     "wrapped_verse_groups": 0
   }
 }

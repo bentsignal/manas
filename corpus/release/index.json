@@ -1,7 +1,7 @@
 {
   "format": "manas-release-shards-v1",
-  "rows": 319254,
-  "sha256": "76b5825ce57fb7cc14f2deafb2ae36095fec87cde17a41e5bf15323353afafb2",
+  "rows": 336037,
+  "sha256": "ffb1498820b726e00463c61b113e8aedd51d83141bc8294614039d1cf6372b3e",
   "chunks": [
     {
       "file": "8a40285986e0c5d5dcbc669fac65f86484e8d1144bd03575204a0202efa2a539.jsonl",
@@ -1280,8 +1280,76 @@
       "rows": 1000
     },
     {
-      "file": "eabf8620fbd897aa9a7e68ba36710d654d6b5faceb362d4f08afda7ff24f699e.jsonl",
-      "rows": 254
+      "file": "85363053062853107f195b52e7703a1dfc19f96bee54f5afc80f8d140eb958f8.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "5090502f125abcaedcb2172d8d1549d1b2233174a806e245c073b79ec09d44b1.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "1de2f5f1d9aedc38bbe745cb7c954617753c35235f0904d2bad04d3678a0c381.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "7249a6acdfc521570331da1907f501a2e138052af1247fed12115184c18e4361.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "7a08d384af7afb25877056e0acd06d8889ff3be50c277be65ab0186b3a0f1a23.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "1f002ecda6afcd9161869701d6645a0c1074e699408a5f7094fe295550a4dc12.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "7a3e32cae463ffa4f7d115e6407b7a0aa76edd9a752df6fdb0300d54fd03e099.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "fab53fb575e0e066237ceaadaa32b9bb290e0f400c3fb9587e7c936236091eb9.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "beb839f7ee29d4ccb45d874cd5b8b8f937ed50fee4635e755eb0247ebca4f0c9.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "f346f3f1016f522c92bca904908ceb4f52a04738b3b8c458c5f683295a935599.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "f1b1d8354364a78d0ca2311acdbad1b68361997c3f210de4bb76af43033fdbc5.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "bc24ab3d932c514752e15bd62919e209a248f246651c48132fd90f2716a8fd04.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "0e4652d884f1fca8181390e3130cc1f597e8b17d126be95183280580f206b600.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "48c7952b20704b31da8574176c70d11471a453dd45c73ebde14676be5288e7cb.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "e30cb6357858672ddc5c2f20f3820029ece029926822096761cfa68726a4fdad.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "6442f098b8a978a9ee83c2dadc009eafa253b2f060a26bc6e788e09c5b4a7be5.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "bf6559a14221adf93e9f6967c0822b2e42a45bde433febf653c0692b36f9644e.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "0a3fd679a7e4a26706f3dfd8b598f1460c951f0f4d32b67b67b1decbe6221ae6.jsonl",
+      "rows": 37
     }
   ]
 }

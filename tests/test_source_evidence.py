@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from source_evidence import verify_source_evidence
+from source_evidence import verify_source_evidence, verify_gap_segment
 
 
 class SourceEvidenceTests(unittest.TestCase):
@@ -55,6 +55,18 @@ class SourceEvidenceTests(unittest.TestCase):
             extracted[row['id']][field] = value
             with self.assertRaises(AssertionError):
                 verify_source_evidence(row, extracted)
+
+    def test_withheld_provenance_uses_digest_without_republishing_text(self):
+        from hashlib import sha256
+        original = dict(id='fixture', raw='Neutral synthetic fixture', bbox={'xMin':1}, pdf_sha256='pdf')
+        gap = dict(kind='content_withheld', status='withheld', source={'sha256':'pdf'})
+        segment = dict(id='fixture', bbox=original['bbox'], raw_sha256=sha256(original['raw'].encode()).hexdigest())
+        verify_gap_segment(gap, segment, original)
+        for change in [dict(raw_sha256='wrong'), dict(raw='Neutral synthetic fixture'), dict(bbox={'xMin':2}), dict(id='other')]:
+            with self.assertRaises(AssertionError):
+                verify_gap_segment(gap, {**segment, **change}, original)
+        with self.assertRaises(AssertionError):
+            verify_gap_segment({**gap, 'status':'unresolved'}, segment, original)
 
 
 if __name__ == '__main__':

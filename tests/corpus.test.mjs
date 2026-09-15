@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';import test from 'node:test';
 import {encodeTextChunks} from '../lib/text-chunks.mjs';
-import {validateRelease} from '../lib/release.mjs';import {windowFor,parseLine,chunkFor,WINDOW_SIZE} from '../lib/reader-window.mjs';
+import {validateRelease,sourceGapLabel} from '../lib/release.mjs';import {windowFor,parseLine,chunkFor,WINDOW_SIZE} from '../lib/reader-window.mjs';
 const target={target_lines:2,parts:[{id:'manas',reported_lines:1},{id:'continuations',reported_lines:1}],completeness_verified:true,reconciliation_evidence:'research/reconciliation.md'};
 const sources=[{id:'s',sha256:'abc',publication_basis:'Documented permission'}];
 const line=(i,part)=>({ordinal:i,id:`s:${i}`,ky:'Кыргызча',en:'English',status:'reviewed',part,source_id:'s',source:{url:'https://example.org/source.pdf',page:i},transcription_status:'verified',review:{reviewer:'Test fixture',evidence:'fixture',date:'2026-09-14'}});
@@ -30,4 +30,12 @@ test('a visible source gap is not a translated verse and prevents completion',()
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,before_id:'absent'}]));
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,evidence:''}]));
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,source_line_ids:['s:1'],source:{sha256:'abc',segments:[{id:'s:1',raw:'damaged'}]}}]));
+});
+
+test('withheld content has a distinct marker and never increases translated counts',()=>{
+ const gap={id:'withheld',kind:'content_withheld',status:'withheld',source_id:'s',after_id:'s:1',before_id:'s:2',source_line_ids:['s:withheld'],evidence:'source review',source:{sha256:'abc',segments:[{id:'s:withheld',raw_sha256:'fixture-digest'}]}};
+ const result=validateRelease(rows,target,sources,[gap]);
+ assert.equal(result.released,2);assert.equal(result.englishWords,2);assert.equal(result.complete,false);
+ assert.match(sourceGapLabel(gap),/Passage withheld/);assert.doesNotMatch(sourceGapLabel(gap),/unresolved|pending/);
+ assert.throws(()=>validateRelease(rows,target,sources,[{...gap,status:'unresolved'}]));
 });

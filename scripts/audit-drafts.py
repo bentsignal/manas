@@ -22,6 +22,7 @@ translation_evidence = {}
 reports = []
 covered_pages = {}
 unresolved = set()
+withheld = set()
 for path in sorted((root/'corpus/batches').glob('pages-*.json')):
     b = json.loads(path.read_text())
     extraction = b['extraction']
@@ -42,9 +43,10 @@ for path in sorted((root/'corpus/batches').glob('pages-*.json')):
     exclusions = b.get('excluded_source_ids', [])
     excluded = {x['id']: x for x in exclusions}
     unresolved.update(x['id'] for x in exclusions if x.get('kind') == 'unresolved_source')
+    withheld.update(x['id'] for x in exclusions if x.get('kind') == 'content_withheld')
     assert len(excluded) == len(exclusions), f'{path.name}: duplicate exclusions'
     for item in exclusions:
-        assert item.get('kind') in ['heading','prose','unresolved_source'] and item.get('reason'), f'{path.name}: unjustified exclusion'
+        assert item.get('kind') in ['heading','prose','unresolved_source','content_withheld'] and item.get('reason'), f'{path.name}: unjustified exclusion'
     assert set(excluded).issubset({r['id'] for r in region}), f'{path.name}: exclusion outside selected pages'
     expected = [r['id'] for r in region if r['id'] not in excluded]
     assert expected == contributing_ids, f'{path.name}: source gap or reordered lines'
@@ -59,7 +61,7 @@ for path in sorted((root/'corpus/batches').glob('pages-*.json')):
             fragment_owners[fragment] = sid
         assert sid not in translations or translations[sid] == en, f'{path.name}: conflicting duplicate {sid}'
         translations[sid] = en
-    reports.append({'batch':path.name,'verse_display_rows':len(ids),'translated_source_fragments':len(contributing_ids),'excluded_nonverse_rows':sum(x['kind']!='unresolved_source' for x in exclusions),'unresolved_source_fragments':sum(x['kind']=='unresolved_source' for x in exclusions)})
+    reports.append({'batch':path.name,'verse_display_rows':len(ids),'translated_source_fragments':len(contributing_ids),'excluded_nonverse_rows':sum(x['kind'] in ['heading','prose'] for x in exclusions),'withheld_source_fragments':sum(x['kind']=='content_withheld' for x in exclusions),'unresolved_source_fragments':sum(x['kind']=='unresolved_source' for x in exclusions)})
 print(json.dumps({'scope':'Saved page batches only; opening pilot is separate. Display rows are not certified archival verses.','batches':reports,'unique_translated_display_rows':len(translations),'unique_translated_source_fragments':len(fragment_owners),'full_source_reconciled':False},indent=2))
 
 if args.write_progress:
@@ -77,5 +79,5 @@ if args.write_progress:
     path = root/'corpus/draft-progress.json'
     progress = json.loads(path.read_text()) if path.exists() else {}
     words = lambda text: len(re.findall(r"[^\W\d_]+(?:[’'-][^\W\d_]+)*",text))
-    progress.update(saved_draft_rows=len(translations)+len(opening), saved_draft_english_words=sum(words(en) for en in translations.values())+sum(words(r['en']) for r in opening), released_draft_rows=len(release), released_english_words=sum(words(r['en']) for r in release), word_count_method='Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.', saved_page_ranges=ranges_by_source.get('manas-2010',[]), saved_page_ranges_scope='Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.', saved_page_ranges_by_source=ranges_by_source, unresolved_source_regions=sorted(unresolved), full_source_reconciled=False, complete=False)
+    progress.update(saved_draft_rows=len(translations)+len(opening), saved_draft_english_words=sum(words(en) for en in translations.values())+sum(words(r['en']) for r in opening), released_draft_rows=len(release), released_english_words=sum(words(r['en']) for r in release), word_count_method='Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.', saved_page_ranges=ranges_by_source.get('manas-2010',[]), saved_page_ranges_scope='Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.', saved_page_ranges_by_source=ranges_by_source, unresolved_source_regions=sorted(unresolved), withheld_source_fragments=sorted(withheld), full_source_reconciled=False, complete=False)
     path.write_text(json.dumps(progress,indent=2)+'\n')

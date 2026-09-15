@@ -80,3 +80,16 @@ def verify_source_evidence(row, extracted):
         assert original['text'] == text, 'Extraction normalization mismatch'
         readable.append(text)
     assert join_readable(readable, joiners) == row['ky'], 'Undocumented source alteration'
+
+
+def verify_gap_segment(gap, segment, original):
+    """Check withheld references by digest without copying the withheld wording."""
+    from hashlib import sha256
+    assert segment['id'] == original['id'], 'Gap ID mismatch'
+    assert segment['bbox'] == original['bbox'] and gap['source']['sha256'] == original['pdf_sha256'], 'Gap provenance mismatch'
+    if gap.get('kind') == 'content_withheld':
+        assert gap['status'] == 'withheld', 'Invalid withheld status'
+        assert 'raw' not in segment, 'Withheld wording must not be copied'
+        assert segment.get('raw_sha256') == sha256(original['raw'].encode('utf-8')).hexdigest(), 'Withheld source digest mismatch'
+    else:
+        assert gap['status'] == 'unresolved' and segment['raw'] == original['raw'], 'Gap provenance mismatch'

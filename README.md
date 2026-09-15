@@ -2,7 +2,7 @@
 
 An unabridged English translation project for the complete recorded Sayakbay Karalaev corpus, targeting the reported 500,553 lines including continuations. **Not a completed translation.**
 
-Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPENING-PILOT.md) before translating. Current status: four candidate PDFs acquired, 401,930 unreviewed extracted text lines (not verses), zero certified archival verse counts, current draft line and English-word totals recorded in [draft progress](corpus/draft-progress.json). An existing Turkish–English Karalaev trilogy project has now been identified; its coverage and counts do not establish a complete 500,553-line translation. Priority remains unestablished.
+Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPENING-PILOT.md) before translating. Current status: five candidate PDFs acquired, 405,122 extracted digital positions (not certified verses), and zero certified archival verse counts. The compiled and [live draft](https://manas-every-line.bentsignal.chatgpt.site) contains 387,458 translated rows and 2,023,023 English words; exact details are recorded in [draft progress](corpus/draft-progress.json). An existing Turkish–English Karalaev trilogy project has now been identified; its coverage and counts do not establish a complete 500,553-line translation. Priority remains unestablished.
 
 ## Workflows
 
@@ -17,7 +17,7 @@ Read [the source audit](research/SOURCE-AUDIT.md) and [pilot notes](research/OPE
 
 ## Reader architecture
 
-The opening 256 lines and manifest are server-rendered. The continuous reader fetches 256-line chunks containing English, IDs, ordinals and gap markers on demand. Chunk filenames are content hashes, so later releases reuse unchanged chunks; old chunks remain available for readers already mid-poem. It retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits. The page contains English verses in a narrow, centered Times New Roman column, with a plain editorial marker at any unresolved source gap. Markers are not counted as translated verses or words. Direct line links and automatic local position restoration remain available without visible controls. `/read` aliases the same reader.
+The opening 256 lines and manifest are server-rendered. The continuous reader fetches 256-line chunks containing English, IDs, ordinals and gap markers on demand. Chunk filenames are content hashes, so later releases reuse unchanged chunks while generated assets not referenced by the current manifest are pruned. It retains at most 12 chunks, and mounts only visible lines plus overscan. A moving 2,048-line virtual window avoids browser maximum scroll-height limits. The page contains English verses in a narrow, centered Times New Roman column, with a plain editorial marker at any unresolved source gap. Markers are not counted as translated verses or words. Direct line links and automatic local position restoration remain available without visible controls. `/read` aliases the same reader.
 
 Runtime scroll rebasing has unit coverage for index arithmetic but still requires browser verification with a licensed, nonempty corpus. Do not describe it as performance-tested at production scale.
 

@@ -1,0 +1,233 @@
+{
+  "part": "semetey",
+  "volume": 2,
+  "status": "draft",
+  "extraction": "sources/extracted/semetey-2-2013.lines.jsonl",
+  "source_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Semetei-Baatyrdyk-epos-2-kitep-Saiakbai-Karalaevdin-varianty-boiuncha.pdf",
+  "after_id": "semetey-2-2013:p1418:b004:l035",
+  "english": "corpus/batches/pages-semetey2-1419.en.txt",
+  "source_ids": [],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "semetey-2-2013:p1419:b001:l001",
+      "kind": "heading",
+      "reason": "Website watermark, running title, folio, or terminal-matter heading; not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b002:l001",
+      "kind": "heading",
+      "reason": "Website watermark, running title, folio, or terminal-matter heading; not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b003:l001",
+      "kind": "heading",
+      "reason": "Website watermark, running title, folio, or terminal-matter heading; not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b003:l002",
+      "kind": "heading",
+      "reason": "Website watermark, running title, folio, or terminal-matter heading; not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l001",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l002",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l003",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l004",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l005",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l006",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l007",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l008",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l009",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l010",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l011",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l012",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l013",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l014",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l015",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l016",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l017",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l018",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l019",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l020",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l021",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l022",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l023",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l024",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l025",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l026",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l027",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l028",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l029",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l030",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l031",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l032",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l033",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l034",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l035",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b004:l036",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b005:l001",
+      "kind": "prose",
+      "reason": "Glossary or contents prose, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1419:b006:l001",
+      "kind": "heading",
+      "reason": "Website watermark, running title, folio, or terminal-matter heading; not narrative verse."
+    }
+  ],
+  "notes": {},
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "pdf_pages": [
+      1419
+    ],
+    "details": "Rendered and visually checked terminal Semetey volume 2 PDF page 1419. It contains no narrative verse; all 42 extracted terminal-matter positions are explicitly excluded. Terminal glossary/contents matter is fully accounted for as non-narrative prose and headings."
+  }
+}

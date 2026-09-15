@@ -1,0 +1,14 @@
+{
+  "status": "canonical-restored-not-yet-published",
+  "source_id": "semetey-1-2013:p0825:b003:l039",
+  "kyrgyz": "Чынарга аса байлатып,",
+  "english": "Had him tethered to a plane tree with his head drawn up,",
+  "note": "Primary Yudakhin ас- IV explicitly defines аса байла- as tethering a horse with its head drawn up during cooling/rest. Coordinator individually re-viewed PDF825 and read exact preceding Buurul/unsaddling/hobbling context, then exact primary entry before restoring. No invented suspension or staff. Direct draft, no independent specialist review.",
+  "verse_delta": 1,
+  "english_word_delta": 12,
+  "primary": "sources/raw/yudakhin-2015.pdf",
+  "primary_sha256": "7a244b474ea8d582f5c3efccff5b74a5887ec38726105bfc03a26e077d095968",
+  "primary_entry": "ас- IV; аса байла-",
+  "image_review": "/tmp/manas-root824-0825.png",
+  "date": "2026-09-14"
+}

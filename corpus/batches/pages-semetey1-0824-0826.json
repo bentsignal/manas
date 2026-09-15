@@ -121,6 +121,7 @@
     "semetey-1-2013:p0825:b003:l036",
     "semetey-1-2013:p0825:b003:l037",
     "semetey-1-2013:p0825:b003:l038",
+    "semetey-1-2013:p0825:b003:l039",
     "semetey-1-2013:p0825:b005:l001",
     "semetey-1-2013:p0825:b005:l002",
     "semetey-1-2013:p0825:b005:l003",
@@ -272,11 +273,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0825:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Чынарга аса байлатып: tying to plane tree clear, exact аса modifier and suspended/tethered action unresolved; not guessed. Whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0826:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -318,7 +314,8 @@
     "semetey-1-2013:p0826:b003:l036": "Source explicitly жуманын Кадыр түнү; Night of Power rendered with Friday possessive retained. Primary кадыр I also quotes жуманын кадыр түнүндө; no calendar date or modern theological reconciliation added.",
     "semetey-1-2013:p0826:b004:l018": "Knife purchased for sixty sheep and forty yearling colts as this source states; dictionary example's sixty camels not substituted.",
     "semetey-1-2013:p0826:b004:l022": "Primary кый I exact кый сүбө = false/lower ribs; сүбөө same head. Specific historical narrative action retained, not invented anatomical emendation. Mother interrupts before injury; source is recalled narrative.",
-    "semetey-1-2013:p0826:b004:l031": "Primary туйгунI1 white goshawk; тунжур female goshawk, ranked below tuygun in falconry. Bird proverb distinguishes departed father and remaining son; literal hen epithet retained despite human boy's sex."
+    "semetey-1-2013:p0826:b004:l031": "Primary туйгунI1 white goshawk; тунжур female goshawk, ranked below tuygun in falconry. Bird proverb distinguishes departed father and remaining son; literal hen epithet retained despite human boy's sex.",
+    "semetey-1-2013:p0825:b003:l039": "Primary Yudakhin ас- IV explicitly defines аса байла- as tethering a horse with its head drawn up during cooling/rest. Coordinator individually re-viewed PDF825 and read exact preceding Buurul/unsaddling/hobbling context, then exact primary entry before restoring. No invented suspension or staff. Direct draft, no independent specialist review."
   },
   "unresolved_source": [
     {
@@ -351,37 +348,6 @@
       ],
       "reason": "Керилтип чачым өргөнүм: stretching/braiding my hair clear, exact relation to addressed child or childbirth not secured. Whole verse held.",
       "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0825:b003:l039"
-      ],
-      "raw": [
-        "×ûíàðãà àñà áàéëàòûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0825:b003:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 825,
-          "block": 3,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 682.8597,
-            "xMax": 218.0304,
-            "yMax": 696.0477
-          },
-          "raw": "×ûíàðãà àñà áàéëàòûï,",
-          "text": "Чынарга аса байлатып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Чынарга аса байлатып: tying to plane tree clear, exact аса modifier and suspended/tethered action unresolved; not guessed. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
     }
   ],
   "transcription_check": {
@@ -393,15 +359,15 @@
       825,
       826
     ],
-    "evidence": "Individually inspected all three Poppler images /tmp/manas-root824-0824.png through0826.png, left column then right; no wrapped verses. Primary lexical checks and exact extraction used for direct draft. All234 reconstructed Kyrgyz/English positions read in two blocks117and117, including whole unresolved verses. Three final wording refinements reread against exact source, including one primary-glossary restoration. Two held verses excluded from English count; no independent specialist review."
+    "evidence": "Individually inspected all three Poppler images /tmp/manas-root824-0824.png through0826.png, left column then right; no wrapped verses. Primary lexical checks and exact extraction used for direct draft. All234 reconstructed Kyrgyz/English positions read in two blocks117and117, including whole unresolved verses. Three final wording refinements reread against exact source, including one primary-glossary restoration. Two held verses excluded from English count; no independent specialist review. Later primary restoration825:3:39 independently re-viewed and source/English reread; only one held verse remains."
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 232,
-    "english_words": 1334,
+    "translated_verse_rows": 233,
+    "english_words": 1346,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 234,
-    "unresolved_source_verses": 2,
+    "unresolved_source_verses": 1,
     "wrapped_verse_groups": 0
   }
 }

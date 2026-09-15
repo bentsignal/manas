@@ -121,5 +121,6 @@
       1267
     ],
     "details": "Rendered Semetey volume 1 PDF page 1267 at 90 DPI and visually checked it against extracted coordinates and block structure. All 78 narrative positions are present in printed reading order, with 4 nonverse positions explicitly excluded. No independent manuscript collation."
-  }
+  },
+  "alignment_check": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","rows":78,"status":"draft; no independent specialist review","details":"Compared all 78 positions directly with their Kyrgyz rows. Corrected six semantic and neighboring-row errors in the spear and Akolpok descriptions; all positions remain one-to-one."}
 }

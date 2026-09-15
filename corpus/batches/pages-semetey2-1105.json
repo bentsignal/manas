@@ -1,0 +1,43 @@
+{
+  "part": "semetey",
+  "volume": 2,
+  "status": "draft",
+  "extraction": "sources/extracted/semetey-2-2013.lines.jsonl",
+  "source_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Semetei-Baatyrdyk-epos-2-kitep-Saiakbai-Karalaevdin-varianty-boiuncha.pdf",
+  "after_id": "semetey-2-2013:p1104:b004:l039",
+  "english": "corpus/batches/pages-semetey2-1105.en.txt",
+  "source_ids": [],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "semetey-2-2013:p1105:b001:l001",
+      "kind": "heading",
+      "reason": "Website watermark, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1105:b002:l001",
+      "kind": "heading",
+      "reason": "Decorative running title, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1105:b003:l001",
+      "kind": "heading",
+      "reason": "Printed footnote or cross-reference marker, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p1105:b004:l001",
+      "kind": "heading",
+      "reason": "Decorative folio, not narrative verse."
+    }
+  ],
+  "notes": {},
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "pdf_pages": [
+      1105
+    ],
+    "details": "Rendered Semetey volume 2 PDF page 1105 at 1200-pixel scale and visually confirmed that it is an illustration page containing no narrative verse; all extracted positions are nonverse furniture or a printed cross-reference."
+  }
+}

@@ -1,7 +1,7 @@
 {
   "format": "manas-release-shards-v1",
-  "rows": 263216,
-  "sha256": "739870c7c13a096660901056b9cf9fb30f376108b5d3ec252f603a60d7f24c97",
+  "rows": 277955,
+  "sha256": "a21d33dfbd196df9910901978ab0175894ad5719993a8d0b215de6ae87e89ba0",
   "chunks": [
     {
       "file": "8a40285986e0c5d5dcbc669fac65f86484e8d1144bd03575204a0202efa2a539.jsonl",
@@ -1056,8 +1056,64 @@
       "rows": 1000
     },
     {
-      "file": "ba8a7cadeb1d1e9d7bda2233b086e2b9c9e60067dc90def8074159c38c1739fa.jsonl",
-      "rows": 216
+      "file": "d05c32e74e0fbe96e8485b7ce3106adda9da3bb75b8659285cdc725ea7165251.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "6a46ab4c12299fe9959514a5c308c88e7d6cbbccef73b744c840582594f7aa89.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "45c5296c68c3fe8d0e01a526af503bad23f834f0bd1de3437583a952c1ef4bf9.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "0c7a1a3afc8864bac5309909103a4137da479b08f50c7c4c960ceafab5cb5a9a.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "458f549fc5824550eb903fda4e5e20aaaf250f8ff005005af460da10930196bf.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "3484f8ba0c609e04c70a77081b8ba1965f633babf84a758355f6ea0ef0ebde41.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "5f367d4ba733ca981471cfdb65be2ae90ac0d7d765f7a9f0ce6d18b62597ef70.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "05ee763cbcc4b992befaa3b989306964b68d881e99682c56cf10e7ad174d0038.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "1a61c8ba6762ff5412761f946e45e8b77edb69e6b0bf261abffc4eb35a7ec6b5.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "1b4f728efadbcee1e818cbd93c081bbf53cd3e4758e195321622515d48b64ee1.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "4363c9d32837d214faba8db3d2e43d9821f4b89befb972291658f9efe2c4a3e5.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "e3c0cc4455e057abdd23ef7fbf281ea9355bf5106a8ce3688794c159df967994.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "b88ee83ee899e161179021920a3457ddde6a765b721bca4e3c466efeec09f265.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "f46c8f3e13d71898a6ea1f1cf55c9d3c5fb169ade48fbfe3f05561f49eeec1b7.jsonl",
+      "rows": 1000
+    },
+    {
+      "file": "037d4b64a39e01996926d5a9d2795bd019242b7967a6eea65e176944e04ea839.jsonl",
+      "rows": 955
     }
   ]
 }

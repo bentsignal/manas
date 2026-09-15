@@ -28433,5 +28433,108 @@
       ]
     },
     "note": "Жыл* ооздуктан баланы: exact жыл footnoted modifier and bridle-child construction unresolved; 1960 glossary page371 did not resolve it."
+  },
+  {
+    "id": "semetey-1-2013:p1012:b004:l026-l032:content-withheld",
+    "kind": "content_withheld",
+    "status": "withheld",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p1012:b004:l025",
+    "before_id": "semetey-1-2013:p1012:b004:l033",
+    "source_line_ids": [
+      "semetey-1-2013:p1012:b004:l026",
+      "semetey-1-2013:p1012:b004:l027",
+      "semetey-1-2013:p1012:b004:l028",
+      "semetey-1-2013:p1012:b004:l029",
+      "semetey-1-2013:p1012:b004:l030",
+      "semetey-1-2013:p1012:b004:l031",
+      "semetey-1-2013:p1012:b004:l032"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-1012.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 1012,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p1012:b004:l026",
+          "raw_sha256": "347a08eae5b6234f922d8ea4621c6b55557e47eb6b274ac5a33f2a510136d1cb",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 498.2997,
+            "xMax": 450.672,
+            "yMax": 511.4877
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1012:b004:l027",
+          "raw_sha256": "ec92eab9ff0e7d6be088d94ac18c37909eac79a2cdac707f765df03486e5b35c",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 512.4597,
+            "xMax": 431.3472,
+            "yMax": 525.6477
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1012:b004:l028",
+          "raw_sha256": "00712262751b483721b7098dc7f0d25c5c3ad81a3d8eb4c4a61936272ff0aeb6",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 526.6197,
+            "xMax": 416.1648,
+            "yMax": 539.8077
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1012:b004:l029",
+          "raw_sha256": "571d87ce19a69ca7c13ad9e3e8f675a333d073747993f1eed6b92608a136e334",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 540.7797,
+            "xMax": 461.9868,
+            "yMax": 553.9677
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1012:b004:l030",
+          "raw_sha256": "71df04ecb3fbd03df5aba218b4c9462b6d8ee8fa06006b8c35feef37e641d69c",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 554.9397,
+            "xMax": 466.6536,
+            "yMax": 568.1277
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1012:b004:l031",
+          "raw_sha256": "2a1f72bbdedf7c72fd7ee387b8f184c549e8b0d323ac7665b361b9550cc2b25a",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 569.0997,
+            "xMax": 442.6296,
+            "yMax": 582.2877
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1012:b004:l032",
+          "raw_sha256": "6a5f861d63ea612a2e1e097c713269c230de2d85a3b9ed37a80f9e8f069d1dbc",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 583.4997,
+            "xMax": 465.42,
+            "yMax": 596.6877
+          },
+          "normalization": "legacy-font-v1"
+        }
+      ]
+    },
+    "note": "Seven consecutive source positions are preserved by ID, page, PDF digest, bounding box, normalization method, and raw-text digest. English is withheld because the passage sexualizes a character explicitly identified in the surrounding source as a child; these positions receive no translation credit."
   }
 ]

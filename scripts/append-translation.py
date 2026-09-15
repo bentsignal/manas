@@ -20,11 +20,13 @@ for batch_path in args.batch:
     groups, joiners = descriptor_groups(batch)
     contributing_ids = [sid for group in groups.values() for sid in group]
     requested = set(contributing_ids)
-    source = {}
+    extracted = {}
     for line in (root / batch['extraction']).open():
         row = json.loads(line)
         if row['id'] in requested:
-            source[row['id']] = row
+            assert row['id'] not in extracted, f'{batch_path}: repeated extracted source fragment'
+            extracted[row['id']] = row
+    source = {sid: extracted[sid] for sid in contributing_ids if sid in extracted}
     assert list(source) == contributing_ids, f'{batch_path}: missing or reordered source fragments'
     english = (root / batch['english']).read_text().splitlines()
     assert len(english) == len(batch['source_ids']), f'{batch_path}: translation/source count mismatch'

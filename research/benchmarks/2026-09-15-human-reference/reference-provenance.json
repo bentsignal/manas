@@ -1,0 +1,22 @@
+{
+  "translator": "Elmira Köçümkulkızı",
+  "reviewer": "Daniel Waugh (line-by-line English review described by translator)",
+  "human_edition": "1995 Karalaev academic edition",
+  "test_edition": "2010 Karalaev",
+  "edition_identity_verified": false,
+  "original_images_reviewed": [
+    17,
+    87,
+    129,
+    130,
+    150
+  ],
+  "reference_files": {
+    "sec1.html": "ce0ee685ab88b4a3e8c9ebb76ffd5c60e425fe25ef3f04d70eed5106d00b1972",
+    "sec4.html": "c14fcec5de32fa9097015f9fd9b64b85de1416140dde08b3461a3b9c77aa220a",
+    "intro-http.html": "602ef8b3401bb2b496d2ba34286d8da4d7b695881f572a992d3bb3d9fe7dc439",
+    "sec2.html": "aa2ff9f5e2ace01cfbd95e00e16e578a37a94e9d61f8d7d458b52a3ee357aa42",
+    "sec3.html": "c768bbbf42dea4c3d79c88290802d2e7bf4c02306db917848382e7364566c27c"
+  },
+  "protocol_sha256": "7cc2919bfe2bcfcd1073e80b80c6865d915b983be56523117f2a368b03cc2402"
+}

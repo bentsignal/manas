@@ -1,0 +1,324 @@
+[
+  {
+    "passage": 1,
+    "source_ids": [
+      "manas-2010:p0017:b002:l017",
+      "manas-2010:p0017:b002:l018",
+      "manas-2010:p0017:b002:l019",
+      "manas-2010:p0017:b002:l020",
+      "manas-2010:p0017:b002:l021",
+      "manas-2010:p0017:b002:l022",
+      "manas-2010:p0017:b002:l023",
+      "manas-2010:p0017:b002:l024",
+      "manas-2010:p0017:b002:l025",
+      "manas-2010:p0017:b002:l026",
+      "manas-2010:p0017:b002:l027",
+      "manas-2010:p0017:b002:l028",
+      "manas-2010:p0017:b002:l029",
+      "manas-2010:p0017:b002:l030",
+      "manas-2010:p0017:b002:l031",
+      "manas-2010:p0017:b002:l032",
+      "manas-2010:p0017:b002:l033",
+      "manas-2010:p0017:b002:l034",
+      "manas-2010:p0017:b002:l035",
+      "manas-2010:p0017:b002:l036"
+    ],
+    "source_lines": 20,
+    "source_words": 58,
+    "sha256": "ad89f1d660e06d1b3f48b909e58fed4c0435eae3a186d55bba7b66685b142158",
+    "human_reference": "http://www.silkroadfoundation.org/folklore/manas/manassec1.html",
+    "units": [
+      {
+        "id": "P1U1",
+        "meaning": "Argyn and Kyrgyz camp together beside a river"
+      },
+      {
+        "id": "P1U2",
+        "meaning": "Karakhan has died"
+      },
+      {
+        "id": "P1U3",
+        "meaning": "His death resembles a fire going out"
+      },
+      {
+        "id": "P1U4",
+        "meaning": "People lack anyone or strength to oppose the enemy"
+      },
+      {
+        "id": "P1U5",
+        "meaning": "Molto Khan belongs to the Kitay"
+      },
+      {
+        "id": "P1U6",
+        "meaning": "Molto begins devastation"
+      },
+      {
+        "id": "P1U7",
+        "meaning": "He kills those who resist"
+      },
+      {
+        "id": "P1U8",
+        "meaning": "He demands excessive tribute"
+      },
+      {
+        "id": "P1U9",
+        "meaning": "Those who answer back are bloodied"
+      },
+      {
+        "id": "P1U10",
+        "meaning": "He spares nobody"
+      },
+      {
+        "id": "P1U11",
+        "meaning": "Argyn and Kyrgyz blood flows like water"
+      },
+      {
+        "id": "P1U12",
+        "meaning": "The people mourn remembering Karakhan"
+      }
+    ]
+  },
+  {
+    "passage": 2,
+    "source_ids": [
+      "manas-2010:p0087:b002:l027",
+      "manas-2010:p0087:b002:l028",
+      "manas-2010:p0087:b002:l029",
+      "manas-2010:p0087:b002:l030",
+      "manas-2010:p0087:b002:l031",
+      "manas-2010:p0087:b002:l032",
+      "manas-2010:p0087:b002:l033",
+      "manas-2010:p0087:b002:l034",
+      "manas-2010:p0087:b002:l035",
+      "manas-2010:p0087:b002:l036",
+      "manas-2010:p0087:b002:l037",
+      "manas-2010:p0087:b002:l038",
+      "manas-2010:p0087:b002:l039",
+      "manas-2010:p0087:b002:l040",
+      "manas-2010:p0087:b002:l041",
+      "manas-2010:p0087:b002:l042",
+      "manas-2010:p0087:b002:l043",
+      "manas-2010:p0087:b002:l044"
+    ],
+    "source_lines": 18,
+    "source_words": 63,
+    "sha256": "a14932a90fd358acfa58bb9fddb1c759be11dcd53cf0b73daeee85f59873a5c1",
+    "human_reference": "http://www.silkroadfoundation.org/folklore/manas/manassec2.html",
+    "units": [
+      {
+        "id": "P2U1",
+        "meaning": "Akbalta gives his blessing"
+      },
+      {
+        "id": "P2U2",
+        "meaning": "The Kyrgyz are distressed in Altay"
+      },
+      {
+        "id": "P2U3",
+        "meaning": "Days and nights pass"
+      },
+      {
+        "id": "P2U4",
+        "meaning": "Summer has passed and it is mid-autumn"
+      },
+      {
+        "id": "P2U5",
+        "meaning": "Livestock are fat"
+      },
+      {
+        "id": "P2U6",
+        "meaning": "Three months elapse"
+      },
+      {
+        "id": "P2U7",
+        "meaning": "Chiyyrdy is Jakyp’s senior wife"
+      },
+      {
+        "id": "P2U8",
+        "meaning": "She becomes pregnant with food cravings"
+      },
+      {
+        "id": "P2U9",
+        "meaning": "Eighty mares are slaughtered"
+      },
+      {
+        "id": "P2U10",
+        "meaning": "The meat does not satisfy her and cravings persist"
+      },
+      {
+        "id": "P2U11",
+        "meaning": "Jakyp slaughters a set of nine animals headed by a camel"
+      },
+      {
+        "id": "P2U12",
+        "meaning": "The slaughtered meat is set before her"
+      }
+    ]
+  },
+  {
+    "passage": 3,
+    "source_ids": [
+      "manas-2010:p0129:b002:l030",
+      "manas-2010:p0129:b002:l031",
+      "manas-2010:p0129:b002:l032",
+      "manas-2010:p0129:b002:l033",
+      "manas-2010:p0129:b002:l034",
+      "manas-2010:p0129:b002:l035",
+      "manas-2010:p0129:b002:l036",
+      "manas-2010:p0129:b002:l037",
+      "manas-2010:p0129:b002:l038",
+      "manas-2010:p0129:b002:l039",
+      "manas-2010:p0129:b002:l040",
+      "manas-2010:p0129:b002:l041",
+      "manas-2010:p0129:b002:l042",
+      "manas-2010:p0129:b002:l043",
+      "manas-2010:p0129:b002:l044",
+      "manas-2010:p0129:b002:l045",
+      "manas-2010:p0129:b002:l046",
+      "manas-2010:p0129:b002:l047",
+      "manas-2010:p0129:b002:l048",
+      "manas-2010:p0130:b002:l001",
+      "manas-2010:p0130:b002:l002",
+      "manas-2010:p0130:b002:l003",
+      "manas-2010:p0130:b002:l004",
+      "manas-2010:p0130:b002:l005",
+      "manas-2010:p0130:b002:l006",
+      "manas-2010:p0130:b002:l007",
+      "manas-2010:p0130:b002:l008"
+    ],
+    "source_lines": 27,
+    "source_words": 104,
+    "sha256": "d5137bf19786da5810588ee8155b115a47edf24fe6da06aad4792b19f1d0a86d",
+    "human_reference": "http://www.silkroadfoundation.org/folklore/manas/manassec3.html",
+    "units": [
+      {
+        "id": "P3U1",
+        "meaning": "Jakyp turns his thoughts elsewhere and gives Big Fool to Oshpur"
+      },
+      {
+        "id": "P3U2",
+        "meaning": "Chiyyrdy cries and pleads with Oshpur"
+      },
+      {
+        "id": "P3U3",
+        "meaning": "She puts a belt around her neck"
+      },
+      {
+        "id": "P3U4",
+        "meaning": "She calls Oshpur a giant in the valley"
+      },
+      {
+        "id": "P3U5",
+        "meaning": "He tends Jakyp’s abundant sheep/livestock"
+      },
+      {
+        "id": "P3U6",
+        "meaning": "The parents have wealth but formerly no child"
+      },
+      {
+        "id": "P3U7",
+        "meaning": "The child came late with great difficulty and cannot be restrained"
+      },
+      {
+        "id": "P3U8",
+        "meaning": "Silk clothing is provided/requested for the boy"
+      },
+      {
+        "id": "P3U9",
+        "meaning": "Toruchaar is the horse he should ride"
+      },
+      {
+        "id": "P3U10",
+        "meaning": "A Kalmyk stone is to be attached to the boy’s headgear"
+      },
+      {
+        "id": "P3U11",
+        "meaning": "She entrusts him for another four years"
+      },
+      {
+        "id": "P3U12",
+        "meaning": "Oshpur takes him toward the sheep while Jakyp stays; the boy is not yet known as Manas"
+      }
+    ]
+  },
+  {
+    "passage": 4,
+    "source_ids": [
+      "manas-2010:p0150:b002:l002",
+      "manas-2010:p0150:b002:l003",
+      "manas-2010:p0150:b002:l004",
+      "manas-2010:p0150:b002:l005",
+      "manas-2010:p0150:b002:l006",
+      "manas-2010:p0150:b002:l007",
+      "manas-2010:p0150:b002:l008",
+      "manas-2010:p0150:b002:l009",
+      "manas-2010:p0150:b002:l010",
+      "manas-2010:p0150:b002:l011",
+      "manas-2010:p0150:b002:l012",
+      "manas-2010:p0150:b002:l013",
+      "manas-2010:p0150:b002:l014",
+      "manas-2010:p0150:b002:l015",
+      "manas-2010:p0150:b002:l016",
+      "manas-2010:p0150:b002:l017",
+      "manas-2010:p0150:b002:l018",
+      "manas-2010:p0150:b002:l019",
+      "manas-2010:p0150:b002:l020",
+      "manas-2010:p0150:b002:l021",
+      "manas-2010:p0150:b002:l022"
+    ],
+    "source_lines": 21,
+    "source_words": 61,
+    "sha256": "b9f4203e1b8b8f996ff6d6e3bd8dc138c5a19867e00600545affd0ee181d5222",
+    "human_reference": "http://www.silkroadfoundation.org/folklore/manas/manassec4.html",
+    "units": [
+      {
+        "id": "P4U1",
+        "meaning": "Kochku approaches with his warriors"
+      },
+      {
+        "id": "P4U2",
+        "meaning": "He rides a chestnut horse"
+      },
+      {
+        "id": "P4U3",
+        "meaning": "He sets out angry"
+      },
+      {
+        "id": "P4U4",
+        "meaning": "He has orders/a letter from Esenkhan"
+      },
+      {
+        "id": "P4U5",
+        "meaning": "He takes able guards and skilled spearmen"
+      },
+      {
+        "id": "P4U6",
+        "meaning": "His force numbers approximately seven hundred"
+      },
+      {
+        "id": "P4U7",
+        "meaning": "Coats of mail and mail shirts are worn"
+      },
+      {
+        "id": "P4U8",
+        "meaning": "The troops stir up airborne dust"
+      },
+      {
+        "id": "P4U9",
+        "meaning": "They carry bows and arrows"
+      },
+      {
+        "id": "P4U10",
+        "meaning": "They confront Jakyp with demands/trouble"
+      },
+      {
+        "id": "P4U11",
+        "meaning": "Kochku’s roar can shatter stone"
+      },
+      {
+        "id": "P4U12",
+        "meaning": "His threatening approach and cries can split a head"
+      }
+    ]
+  }
+]

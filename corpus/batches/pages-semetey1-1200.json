@@ -116,5 +116,6 @@
       1200
     ],
     "details": "Rendered the correct Semetey PDF page at 1400 pixels and visually checked left-column-then-right-column order; all 77 narrative positions are included exactly once and 3 nonverse positions are explicitly excluded."
-  }
+  },
+  "alignment_check": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","rows":77,"status":"draft; no independent specialist review","details":"Audited all 77 source-English positions; no semantic or neighboring-row correction was required and all rows remain one-to-one."}
 }

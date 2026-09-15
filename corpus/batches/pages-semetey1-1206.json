@@ -113,5 +113,6 @@
       1206
     ],
     "details": "Rendered Semetey volume 1 PDF page 1206 at 95 DPI and visually checked it against extracted coordinates and block structure. All 76 narrative positions are present in printed reading order, with 3 nonverse positions explicitly excluded. No independent manuscript collation."
-  }
+  },
+  "alignment_check": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","rows":76,"status":"draft; no independent specialist review","details":"Audited all 76 source-English positions; no semantic or neighboring-row correction was required and all rows remain one-to-one."}
 }

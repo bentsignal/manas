@@ -38,5 +38,6 @@
       1201
     ],
     "details": "Rendered the correct Semetey PDF page at 1400 pixels and visually confirmed a full-page illustration with zero narrative positions; all four extracted nonverse positions are explicitly excluded. The page is a full-page illustration with no narrative verse. The only extracted body line is a printer signature; the untextual illustration itself has no source-line ID."
-  }
+  },
+  "alignment_check": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","rows":0,"status":"draft; no independent specialist review","details":"No narrative source rows are assigned and the English file is empty; no source-English alignment was required."}
 }

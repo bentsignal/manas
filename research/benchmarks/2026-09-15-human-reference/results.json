@@ -1,0 +1,201 @@
+{
+  "judge_sha256": {
+    "judge-1.json": "85860c6358e0ac7c71e44e5657347054a5b8d73ccc0caafc2ca7f9153cac6a0c",
+    "judge-2.json": "b9de34d57f3e37f14e466fd5461e3464ad2e92ca0532b386530a7ae57f6d3619"
+  },
+  "source_lines_per_configuration": 86,
+  "source_words_per_configuration": 286,
+  "translation_runs": 24,
+  "rows": [
+    {
+      "configuration": "astra-low",
+      "judge_totals": [
+        96,
+        95
+      ],
+      "mean_points": 95.5,
+      "maximum": 96,
+      "passage_means": [
+        24,
+        24,
+        24,
+        23.5
+      ],
+      "translated_lines": 86,
+      "english_words": 517
+    },
+    {
+      "configuration": "astra-medium",
+      "judge_totals": [
+        95,
+        94
+      ],
+      "mean_points": 94.5,
+      "maximum": 96,
+      "passage_means": [
+        24,
+        23,
+        24,
+        23.5
+      ],
+      "translated_lines": 86,
+      "english_words": 507
+    },
+    {
+      "configuration": "sol-low",
+      "judge_totals": [
+        94,
+        93
+      ],
+      "mean_points": 93.5,
+      "maximum": 96,
+      "passage_means": [
+        24,
+        22,
+        24,
+        23.5
+      ],
+      "translated_lines": 86,
+      "english_words": 534
+    },
+    {
+      "configuration": "sol-medium",
+      "judge_totals": [
+        94,
+        92
+      ],
+      "mean_points": 93,
+      "maximum": 96,
+      "passage_means": [
+        24,
+        22.5,
+        24,
+        22.5
+      ],
+      "translated_lines": 86,
+      "english_words": 507
+    },
+    {
+      "configuration": "terra-high",
+      "judge_totals": [
+        85,
+        85
+      ],
+      "mean_points": 85,
+      "maximum": 96,
+      "passage_means": [
+        19.5,
+        22,
+        23,
+        20.5
+      ],
+      "translated_lines": 86,
+      "english_words": 489
+    },
+    {
+      "configuration": "terra-medium",
+      "judge_totals": [
+        86,
+        84
+      ],
+      "mean_points": 85,
+      "maximum": 96,
+      "passage_means": [
+        22,
+        21,
+        21.5,
+        20.5
+      ],
+      "translated_lines": 86,
+      "english_words": 509
+    }
+  ],
+  "disagreement_count": 9,
+  "judged_cells": 288,
+  "disagreements": [
+    {
+      "candidate": "P1E",
+      "configuration": "terra-high",
+      "unit": 4,
+      "scores": [
+        0,
+        1
+      ]
+    },
+    {
+      "candidate": "P2F",
+      "configuration": "sol-medium",
+      "unit": 5,
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "candidate": "P3F",
+      "configuration": "terra-medium",
+      "unit": 10,
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "candidate": "P4A",
+      "configuration": "astra-low",
+      "unit": 7,
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "candidate": "P4B",
+      "configuration": "sol-medium",
+      "unit": 7,
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "candidate": "P4C",
+      "configuration": "astra-medium",
+      "unit": 7,
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "candidate": "P4D",
+      "configuration": "terra-medium",
+      "unit": 7,
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "candidate": "P4E",
+      "configuration": "terra-high",
+      "unit": 7,
+      "scores": [
+        2,
+        1
+      ]
+    },
+    {
+      "candidate": "P4F",
+      "configuration": "sol-low",
+      "unit": 7,
+      "scores": [
+        2,
+        1
+      ]
+    }
+  ],
+  "actual_token_usage": null,
+  "actual_cost": null,
+  "latency_measured": false
+}

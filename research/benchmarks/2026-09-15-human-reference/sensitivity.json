@@ -1,0 +1,64 @@
+{
+  "post_hoc": true,
+  "reason": "Remove senior-wife lexical specificity and disputed first armor garment; retain original preregistered scores unchanged.",
+  "excluded_units": [
+    "P2U7",
+    "P4U7"
+  ],
+  "rows": [
+    {
+      "configuration": "astra-low",
+      "judge_totals": [
+        92,
+        92
+      ],
+      "mean_points": 92,
+      "maximum": 92
+    },
+    {
+      "configuration": "astra-medium",
+      "judge_totals": [
+        92,
+        92
+      ],
+      "mean_points": 92,
+      "maximum": 92
+    },
+    {
+      "configuration": "sol-low",
+      "judge_totals": [
+        91,
+        91
+      ],
+      "mean_points": 91,
+      "maximum": 92
+    },
+    {
+      "configuration": "sol-medium",
+      "judge_totals": [
+        91,
+        90
+      ],
+      "mean_points": 90.5,
+      "maximum": 92
+    },
+    {
+      "configuration": "terra-high",
+      "judge_totals": [
+        81,
+        82
+      ],
+      "mean_points": 81.5,
+      "maximum": 92
+    },
+    {
+      "configuration": "terra-medium",
+      "judge_totals": [
+        83,
+        82
+      ],
+      "mean_points": 82.5,
+      "maximum": 92
+    }
+  ]
+}

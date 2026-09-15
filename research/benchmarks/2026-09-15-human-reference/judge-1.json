@@ -1,0 +1,664 @@
+{
+  "assessments": [
+    {
+      "candidate": "P1A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P1B",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 16 changes renewed resolve or gathered strength into fury."
+      ]
+    },
+    {
+      "candidate": "P1C",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P1D",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 16 changes renewed resolve or gathered strength into fury."
+      ]
+    },
+    {
+      "candidate": "P1E",
+      "scores": [
+        2,
+        2,
+        2,
+        0,
+        2,
+        2,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P1U4",
+          "candidate_lines": [
+            5,
+            6,
+            7
+          ],
+          "reason": "The untranslated opposition terms do not convey inability to resist, and lack of strength becomes absence of people."
+        },
+        {
+          "unit": "P1U7",
+          "candidate_lines": [
+            10,
+            11
+          ],
+          "reason": "Slaughter is conveyed, but the untranslated term leaves the victims unidentified as resisters."
+        },
+        {
+          "unit": "P1U8",
+          "candidate_lines": [
+            12
+          ],
+          "reason": "A claim about extraordinary might replaces the demand for excessive tribute."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P1F",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P1U8",
+          "candidate_lines": [
+            12
+          ],
+          "reason": "An assessment of personal strength replaces the demand for excessive tribute."
+        }
+      ],
+      "additional_concerns": [
+        "Line 7 describes the multitude as gone rather than exhausted or powerless, although preceding lines preserve the resistance unit."
+      ]
+    },
+    {
+      "candidate": "P2A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2B",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U5",
+          "candidate_lines": [
+            6
+          ],
+          "reason": "Seasonal plenty is conveyed without the specific condition of fat livestock."
+        },
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Her marriage to Jakyp is clear, but old age does not convey senior-wife status."
+        },
+        {
+          "unit": "P2U8",
+          "candidate_lines": [
+            10
+          ],
+          "reason": "Cravings are conveyed without pregnancy."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2C",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Matron and wife identify a married woman but do not preserve her senior-wife status."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2D",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U5",
+          "candidate_lines": [
+            6
+          ],
+          "reason": "Seasonal abundance is conveyed without the specific condition of fat livestock."
+        },
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Matron and wife do not specify her senior-wife status."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2E",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U5",
+          "candidate_lines": [
+            6
+          ],
+          "reason": "Seasonal plenty is conveyed without the specific condition of fat livestock."
+        },
+        {
+          "unit": "P2U8",
+          "candidate_lines": [
+            10
+          ],
+          "reason": "A strange craving is conveyed without pregnancy."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2F",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Matron and wife do not specify her senior-wife status."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P3A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 22 gives literal silk ashes rather than an intelligible garment description; the silk-clothing unit is nevertheless preserved by line 13. The source expression may reflect idiom or edition variation."
+      ]
+    },
+    {
+      "candidate": "P3B",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 22 gives literal silk ashes rather than an intelligible garment description; the silk-clothing unit is nevertheless preserved by line 13. The source expression may reflect idiom or edition variation."
+      ]
+    },
+    {
+      "candidate": "P3C",
+      "scores": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P3U3",
+          "candidate_lines": [
+            5
+          ],
+          "reason": "The neck gesture is retained, but a cord replaces the belt."
+        }
+      ],
+      "additional_concerns": [
+        "Line 22 gives literal silk ashes rather than an intelligible garment description; the silk-clothing unit is nevertheless preserved by line 13. The source expression may reflect idiom or edition variation."
+      ]
+    },
+    {
+      "candidate": "P3D",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 22 gives literal silk ashes rather than an intelligible garment description; the silk-clothing unit is nevertheless preserved by line 13. The source expression may reflect idiom or edition variation."
+      ]
+    },
+    {
+      "candidate": "P3E",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P3F",
+      "scores": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "deductions": [
+        {
+          "unit": "P3U3",
+          "candidate_lines": [
+            5
+          ],
+          "reason": "The neck gesture is retained, but a rope replaces the belt."
+        },
+        {
+          "unit": "P3U12",
+          "candidate_lines": [
+            19,
+            20,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "reason": "The departure and Jakyp remaining are preserved, but the final statement about not yet bearing the name becomes a claim that the boy had not mounted a horse."
+        }
+      ],
+      "additional_concerns": [
+        "Line 22 introduces a Torqo possessor and ash-gray garment that are unsupported by the shared garment meaning; the unusual source expression remains uncertain."
+      ]
+    },
+    {
+      "candidate": "P4A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P4B",
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U2",
+          "candidate_lines": [
+            3
+          ],
+          "reason": "The mount is preserved but red bay is a different coat color from chestnut."
+        }
+      ],
+      "additional_concerns": [
+        "Line 2 introduces groups of forty, unsupported by the shared passage and apparently a misreading of an expressive form."
+      ]
+    },
+    {
+      "candidate": "P4C",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P4D",
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        0,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U2",
+          "candidate_lines": [
+            3
+          ],
+          "reason": "The mounted arrival is preserved but a singular chestnut mount becomes plural red-dun horses."
+        },
+        {
+          "unit": "P4U10",
+          "candidate_lines": [
+            17,
+            18
+          ],
+          "reason": "Arrival of news replaces the direct imposition of demands or trouble on Jakyp."
+        }
+      ],
+      "additional_concerns": [
+        "Line 2 introduces groups of forty, unsupported by the shared passage and apparently a misreading of an expressive form."
+      ]
+    },
+    {
+      "candidate": "P4E",
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        0,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U2",
+          "candidate_lines": [
+            3
+          ],
+          "reason": "The mounted arrival is preserved but a singular chestnut mount becomes plural red-bay horses."
+        },
+        {
+          "unit": "P4U10",
+          "candidate_lines": [
+            17,
+            18
+          ],
+          "reason": "Receipt of a report replaces the direct imposition of demands or trouble on Jakyp."
+        }
+      ],
+      "additional_concerns": [
+        "Line 2 introduces groups of forty, unsupported by the shared passage and apparently a misreading of an expressive form."
+      ]
+    },
+    {
+      "candidate": "P4F",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    }
+  ],
+  "limitations": [
+    "AI assessment using the attributed local human anchor, not an independent human evaluation. No model identity information was consulted.",
+    "The Kyrgyz and English editions differ. Passage 2 geography, passage 3 tense or imperative differences, and passage 4 weapon modifiers were excluded as instructed.",
+    "Passage 3 references to the crown or top of the head were accepted for the stone unit because they directly preserve the supplied Kyrgyz location; specifying a hat is not required against this edition.",
+    "Transliterated personal names were accepted without requiring literal English nicknames. Late-life parenthood was accepted for the difficult-arrival component because the human anchor supports that reading.",
+    "Passage 4 mail armor alongside a short or outer coat was accepted for the armor unit: the supplied Kyrgyz supports the ordinary-coat reading and singular possessives. The human anchor has two mail garments on the troops, but those differences were treated as possible edition or lexical ambiguity rather than forcing a deduction.",
+    "All 24 candidates contain the expected numbered source-line count, with no null English entries; this structural completeness does not establish semantic completeness."
+  ]
+}

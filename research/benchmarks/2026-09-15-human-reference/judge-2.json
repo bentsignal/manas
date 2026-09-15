@@ -1,0 +1,730 @@
+{
+  "assessments": [
+    {
+      "candidate": "P1A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P1B",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 16 substitutes fury for gathering strength or becoming emboldened; the emotional motive is more specific than the source supports."
+      ]
+    },
+    {
+      "candidate": "P1C",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P1D",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 16 substitutes fury for gathering strength or becoming emboldened; the emotional motive is more specific than the source supports."
+      ]
+    },
+    {
+      "candidate": "P1E",
+      "scores": [
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P1U4",
+          "candidate_lines": [
+            5,
+            6,
+            7
+          ],
+          "reason": "The lack of people is conveyed, but the untranslated opposition terms leave the inability to resist unexplained; lack of strength becomes absence of people."
+        },
+        {
+          "unit": "P1U7",
+          "candidate_lines": [
+            10,
+            11
+          ],
+          "reason": "Slaughter is clear, but the untranslated term does not identify its victims as those resisting."
+        },
+        {
+          "unit": "P1U8",
+          "candidate_lines": [
+            12
+          ],
+          "reason": "Excessive tribute is replaced by a display of extraordinary power."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P1F",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P1U8",
+          "candidate_lines": [
+            12
+          ],
+          "reason": "The demand for excessive tribute is replaced by an assessment of his own strength."
+        }
+      ],
+      "additional_concerns": [
+        "Line 7 says none of the multitude remained, changing loss of strength into apparent disappearance or death; lines 5–6 nevertheless preserve the primary resistance unit."
+      ]
+    },
+    {
+      "candidate": "P2A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2B",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U5",
+          "candidate_lines": [
+            6
+          ],
+          "reason": "General plenty omits the specific fat condition of the livestock."
+        },
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Her identity as Jakyp’s wife is clear, but old woman does not preserve senior-wife status."
+        },
+        {
+          "unit": "P2U8",
+          "candidate_lines": [
+            10
+          ],
+          "reason": "Cravings are stated, but pregnancy is omitted."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2C",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Matron preserves an older married woman but does not specify her status as senior wife."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2D",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U5",
+          "candidate_lines": [
+            6
+          ],
+          "reason": "Seasonal abundance weakens the specific claim that the livestock are fat."
+        },
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Matron does not establish senior-wife status, though marriage to Jakyp is preserved."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2E",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U5",
+          "candidate_lines": [
+            6
+          ],
+          "reason": "Plenty does not identify the livestock as fat."
+        },
+        {
+          "unit": "P2U8",
+          "candidate_lines": [
+            10
+          ],
+          "reason": "The craving is preserved, but pregnancy is absent."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P2F",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P2U5",
+          "candidate_lines": [
+            6
+          ],
+          "reason": "Fattened abundance gestures toward the meaning but leaves the fat livestock unidentified."
+        },
+        {
+          "unit": "P2U7",
+          "candidate_lines": [
+            8,
+            9
+          ],
+          "reason": "Matron and wife preserve marriage and maturity without senior-wife rank."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P3A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 22 describes dressing the boy in ashes of silk. This obscures the actual silk garment, although line 13 preserves the clothing unit; the source expression is ambiguous."
+      ]
+    },
+    {
+      "candidate": "P3B",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 22 describes dressing the boy in ashes of silk. This obscures the actual silk garment, although line 13 preserves the clothing unit; the source expression is ambiguous."
+      ]
+    },
+    {
+      "candidate": "P3C",
+      "scores": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P3U3",
+          "candidate_lines": [
+            5
+          ],
+          "reason": "A cord around her neck preserves the gesture and location, but replaces the belt with a different object."
+        }
+      ],
+      "additional_concerns": [
+        "Line 22 uses silk’s ashes as clothing; this obscures the garment, though line 13 preserves the primary silk-clothing unit. The underlying source expression is uncertain."
+      ]
+    },
+    {
+      "candidate": "P3D",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": [
+        "Line 22 describes dressing the boy in ashes of silk. This obscures the actual silk garment, although line 13 preserves the clothing unit; the source expression is ambiguous."
+      ]
+    },
+    {
+      "candidate": "P3E",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P3F",
+      "scores": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "deductions": [
+        {
+          "unit": "P3U3",
+          "candidate_lines": [
+            5
+          ],
+          "reason": "A rope replaces her belt, retaining the neck gesture but losing the specific object."
+        },
+        {
+          "unit": "P3U10",
+          "candidate_lines": [
+            16
+          ],
+          "reason": "A Kalmyk stone is placed on his head, but the requested fastening is weakened to simple placement."
+        },
+        {
+          "unit": "P3U12",
+          "candidate_lines": [
+            19,
+            20,
+            23,
+            24,
+            25,
+            26,
+            27
+          ],
+          "reason": "Departure toward the sheep and Jakyp staying behind are preserved, but the final naming statement becomes a claim that the boy had not ridden, contradicting the nearby mounting scene."
+        }
+      ],
+      "additional_concerns": [
+        "Line 22 invents a named possessor Torqo and an ash-gray garment in place of the difficult silk expression."
+      ]
+    },
+    {
+      "candidate": "P4A",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U7",
+          "candidate_lines": [
+            11,
+            12
+          ],
+          "reason": "Mail armor is retained, but the other garment becomes an ordinary coat rather than preserving both mail garments in the compound unit."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P4B",
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U2",
+          "candidate_lines": [
+            3
+          ],
+          "reason": "A red bay is still a reddish horse but does not preserve the specified chestnut coat color."
+        },
+        {
+          "unit": "P4U7",
+          "candidate_lines": [
+            11,
+            12
+          ],
+          "reason": "Mail armor is retained, but the other garment becomes an ordinary coat rather than preserving both mail garments in the compound unit."
+        }
+      ],
+      "additional_concerns": [
+        "Line 2 introduces grouping the champions by forties, unsupported by the aligned meaning and apparently a mistaken reading of the expressive source word."
+      ]
+    },
+    {
+      "candidate": "P4C",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U7",
+          "candidate_lines": [
+            11,
+            12
+          ],
+          "reason": "Mail armor is retained, but the other garment becomes an ordinary coat rather than preserving both mail garments in the compound unit."
+        }
+      ],
+      "additional_concerns": []
+    },
+    {
+      "candidate": "P4D",
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        0,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U2",
+          "candidate_lines": [
+            3
+          ],
+          "reason": "Red-dun horses change both the chestnut color and the individual mount into plural mounts."
+        },
+        {
+          "unit": "P4U7",
+          "candidate_lines": [
+            11,
+            12
+          ],
+          "reason": "Mail armor is retained, but the other garment becomes an ordinary coat rather than preserving both mail garments in the compound unit."
+        },
+        {
+          "unit": "P4U10",
+          "candidate_lines": [
+            17,
+            18
+          ],
+          "reason": "The confrontation and trouble imposed on Jakyp become news merely reaching his ears."
+        }
+      ],
+      "additional_concerns": [
+        "Line 2 adds organization in groups of forty without support in the aligned meaning."
+      ]
+    },
+    {
+      "candidate": "P4E",
+      "scores": [
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        0,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U2",
+          "candidate_lines": [
+            3
+          ],
+          "reason": "Red-bay horses replace the individual chestnut mount, weakening color and rider specificity."
+        },
+        {
+          "unit": "P4U7",
+          "candidate_lines": [
+            11,
+            12
+          ],
+          "reason": "Mail armor is retained, but the other garment becomes an ordinary coat rather than preserving both mail garments in the compound unit."
+        },
+        {
+          "unit": "P4U10",
+          "candidate_lines": [
+            17,
+            18
+          ],
+          "reason": "A report reaching Jakyp replaces the force confronting him with trouble or demands."
+        }
+      ],
+      "additional_concerns": [
+        "Line 2 introduces groups of forty, unsupported by the aligned meaning.",
+        "The name Kökchü changes the consonants of Kochku rather than simply varying the usual transliteration, although the narrative referent remains identifiable."
+      ]
+    },
+    {
+      "candidate": "P4F",
+      "scores": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "deductions": [
+        {
+          "unit": "P4U7",
+          "candidate_lines": [
+            11,
+            12
+          ],
+          "reason": "Mail armor is retained, but the other garment becomes an ordinary coat rather than preserving both mail garments in the compound unit."
+        }
+      ],
+      "additional_concerns": []
+    }
+  ],
+  "limitations": [
+    "Blinded AI assessment of four manually aligned passage parallels, not an independent human evaluation; editions differ and the human reference is not infallible.",
+    "Applied the protocol exclusions for typography, passage 2 geography, passage 3 tense and passage 4 weapon modifiers. Proper-name transliterations were accepted where the referent remained clear.",
+    "In passage 3, attaching the stone to the crown of the head was accepted as a source-literal alternative to attachment to headgear. The source does not explicitly name a hat, so this difference was not forced into an error.",
+    "Passage 3 descriptions of obtaining the child in extreme old age were accepted as conveying the late, difficult arrival; these were evaluated with the adjacent inability to restrain him.",
+    "The obscure silk expression in passage 3 line 22 may involve edition or idiomatic ambiguity. Literal ashes readings are noted separately; silk-clothing unit scores use the clear neighboring clothing instruction.",
+    "Passage 4 armor is a compound unit: candidates explicitly retain mail but render the other garment as ordinary clothing, receiving partial credit. The exact first garment and singular versus collective description remain uncertain."
+  ]
+}

@@ -1,0 +1,1093 @@
+{
+  "grading": "Coordinator qualitative source-based grading with anonymized candidates; no independent specialist. Score precision is arithmetic, not statistical certainty. Semantic52verses, uncertainty2difficultverses plus material notes, structure54records.",
+  "scores": [
+    {
+      "candidate": "A",
+      "semantic_points": 71.79,
+      "semantic_raw": 140,
+      "semantic_max": 156,
+      "uncertainty_points": 5,
+      "uncertainty_reason": "Specific uncertainty on paired caps, but marten incorrectly sable; no caution on strutting conjecture20 or color45. Several useful lexical notes elsewhere.",
+      "structure_points": 10,
+      "total": 86.79,
+      "line_scores": [
+        {
+          "line": 1,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 2,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 3,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 4,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 5,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 6,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 7,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 8,
+          "score": 2,
+          "reason": "Movement toward lowlands becomes static spreading, but qualified."
+        },
+        {
+          "line": 9,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 10,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 11,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 13,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 14,
+          "score": 0,
+          "reason": "Mourning substituted for joining together in celebration."
+        },
+        {
+          "line": 15,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 16,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 17,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 18,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 19,
+          "score": 2,
+          "reason": "Tree image is qualified, but identification of the people as tree is added."
+        },
+        {
+          "line": 21,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 22,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 23,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 24,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 25,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 26,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 27,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 28,
+          "score": 2,
+          "reason": "Slender retained, but crescent imagery unnecessarily added to lexical slender-waist idiom."
+        },
+        {
+          "line": 29,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 30,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 31,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 32,
+          "score": 2,
+          "reason": "Comparative preserved; grain class unresolved and rendered literally."
+        },
+        {
+          "line": 33,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 34,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 35,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 36,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 37,
+          "score": 2,
+          "reason": "Wandering added to growing up as orphan."
+        },
+        {
+          "line": 38,
+          "score": 2,
+          "reason": "People/community becomes homeland."
+        },
+        {
+          "line": 39,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 40,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 41,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 42,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 43,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 44,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 45,
+          "score": 0,
+          "reason": "Fearless human epithet becomes literal dark-blue color."
+        },
+        {
+          "line": 46,
+          "score": 2,
+          "reason": "Thoroughbred introduces unsupported breed purity."
+        },
+        {
+          "line": 47,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 48,
+          "score": 2,
+          "reason": "Matching strength becomes strength to face opponent; uncertainty acknowledged."
+        },
+        {
+          "line": 49,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 50,
+          "score": 1,
+          "reason": "Karabair horse designation becomes black-bay color."
+        },
+        {
+          "line": 51,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 52,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 53,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 54,
+          "score": 3,
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "candidate": "B",
+      "semantic_points": 72.82,
+      "semantic_raw": 142,
+      "semantic_max": 156,
+      "uncertainty_points": 6,
+      "uncertainty_reason": "Paired caps uncertainty acknowledged but marten incorrectly sable. No caution on strutting20; notes qualify several other compressed readings.",
+      "structure_points": 10,
+      "total": 88.82,
+      "line_scores": [
+        {
+          "line": 1,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 2,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 3,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 4,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 5,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 6,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 7,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 8,
+          "score": 2,
+          "reason": "Movement toward lowlands becomes spreading in valley, qualified."
+        },
+        {
+          "line": 9,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 10,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 11,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 13,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 14,
+          "score": 0,
+          "reason": "Laments substituted for joining together in celebration."
+        },
+        {
+          "line": 15,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 16,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 17,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 18,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 19,
+          "score": 2,
+          "reason": "Good-fortune reading qualified; planted garden meaning incompletely represented."
+        },
+        {
+          "line": 21,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 22,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 23,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 24,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 25,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 26,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 27,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 28,
+          "score": 1,
+          "reason": "Crescent waist misses lexical slender-waist meaning."
+        },
+        {
+          "line": 29,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 30,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 31,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 32,
+          "score": 2,
+          "reason": "Comparison preserved, grain class not identified."
+        },
+        {
+          "line": 33,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 34,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 35,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 36,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 37,
+          "score": 2,
+          "reason": "Wandering added to growing up as orphan."
+        },
+        {
+          "line": 38,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 39,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 40,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 41,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 42,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 43,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 44,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 45,
+          "score": 0,
+          "reason": "Fearless human epithet becomes blue-black color."
+        },
+        {
+          "line": 46,
+          "score": 2,
+          "reason": "Thoroughbred introduces unsupported breed purity."
+        },
+        {
+          "line": 47,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 48,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 49,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 50,
+          "score": 2,
+          "reason": "Retains bayir uncertainty but splits horse designation into black plus bayir."
+        },
+        {
+          "line": 51,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 52,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 53,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 54,
+          "score": 3,
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "candidate": "C",
+      "semantic_points": 59.49,
+      "semantic_raw": 116,
+      "semantic_max": 156,
+      "uncertainty_points": 2,
+      "uncertainty_reason": "No caution on matching-caps12 or flourishing20; sparse notes coexist with numerous confident lexical errors.",
+      "structure_points": 10,
+      "total": 71.49,
+      "line_scores": [
+        {
+          "line": 1,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 2,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 3,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 4,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 5,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 6,
+          "score": 2,
+          "reason": "Speed correctly conveyed, but astonishment shifted toward reciter."
+        },
+        {
+          "line": 7,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 8,
+          "score": 0,
+          "reason": "Camp geography becomes deep thought."
+        },
+        {
+          "line": 9,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 10,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 11,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 13,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 14,
+          "score": 0,
+          "reason": "Joining in celebration becomes lamenting."
+        },
+        {
+          "line": 15,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 16,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 17,
+          "score": 0,
+          "reason": "Otter becomes sable."
+        },
+        {
+          "line": 18,
+          "score": 2,
+          "reason": "Taking off added to slit/open pelts."
+        },
+        {
+          "line": 19,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 21,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 22,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 23,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 24,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 25,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 26,
+          "score": 1,
+          "reason": "Braid pendants become headgear/headdress."
+        },
+        {
+          "line": 27,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 28,
+          "score": 1,
+          "reason": "Slender-waist idiom becomes moonlike waist."
+        },
+        {
+          "line": 29,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 30,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 31,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 32,
+          "score": 0,
+          "reason": "Comparative more rice than grain becomes rice from grain."
+        },
+        {
+          "line": 33,
+          "score": 0,
+          "reason": "Comparative more silver than tin becomes silver from tin."
+        },
+        {
+          "line": 34,
+          "score": 1,
+          "reason": "Gray hares become white hares."
+        },
+        {
+          "line": 35,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 36,
+          "score": 0,
+          "reason": "Sable becomes ermine."
+        },
+        {
+          "line": 37,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 38,
+          "score": 1,
+          "reason": "Literal head-joining obscures reunion with people."
+        },
+        {
+          "line": 39,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 40,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 41,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 42,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 43,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 44,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 45,
+          "score": 0,
+          "reason": "Fearless epithet becomes dark-blue color."
+        },
+        {
+          "line": 46,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 47,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 48,
+          "score": 1,
+          "reason": "Chynkojo name altered by retaining part of derivational suffix; comparison partially preserved."
+        },
+        {
+          "line": 49,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 50,
+          "score": 1,
+          "reason": "Karabair horse designation becomes black-bay color."
+        },
+        {
+          "line": 51,
+          "score": 1,
+          "reason": "Copper forelegs become bronze arms."
+        },
+        {
+          "line": 52,
+          "score": 0,
+          "reason": "Place name becomes willow-rich adjective; even botanical tamarisk reading would not be willow."
+        },
+        {
+          "line": 53,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 54,
+          "score": 3,
+          "reason": ""
+        }
+      ]
+    },
+    {
+      "candidate": "D",
+      "semantic_points": 74.36,
+      "semantic_raw": 145,
+      "semantic_max": 156,
+      "uncertainty_points": 8,
+      "uncertainty_reason": "Marten and paired-wear uncertainty handled;20 explicitly qualified; useful alternate readings elsewhere. Still confidently wrong on otter and misguided literal moon-waist interpretation.",
+      "structure_points": 10,
+      "total": 92.36,
+      "line_scores": [
+        {
+          "line": 1,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 2,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 3,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 4,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 5,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 6,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 7,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 8,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 9,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 10,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 11,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 13,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 14,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 15,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 16,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 17,
+          "score": 0,
+          "reason": "Otter becomes beaver."
+        },
+        {
+          "line": 18,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 19,
+          "score": 2,
+          "reason": "Good-fortune reading qualified, garden reading relegated to note."
+        },
+        {
+          "line": 21,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 22,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 23,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 24,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 25,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 26,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 27,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 28,
+          "score": 1,
+          "reason": "Slender-waist idiom becomes moonlike waist, described as literal source image."
+        },
+        {
+          "line": 29,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 30,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 31,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 32,
+          "score": 2,
+          "reason": "Comparison preserved, crop category unresolved."
+        },
+        {
+          "line": 33,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 34,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 35,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 36,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 37,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 38,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 39,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 40,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 41,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 42,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 43,
+          "score": 2,
+          "reason": "One black lynx-fur cap becomes two clothing items; alternative correct reading appears in note."
+        },
+        {
+          "line": 44,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 45,
+          "score": 0,
+          "reason": "Fearless human epithet becomes dark-blue color; figurative possibility noted but not resolved."
+        },
+        {
+          "line": 46,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 47,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 48,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 49,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 50,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 51,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 52,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 53,
+          "score": 3,
+          "reason": ""
+        },
+        {
+          "line": 54,
+          "score": 3,
+          "reason": ""
+        }
+      ]
+    }
+  ]
+}

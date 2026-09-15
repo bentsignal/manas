@@ -1,0 +1,72 @@
+{
+  "runs": [
+    {
+      "model_setting": "astra-medium",
+      "anonymous_candidate": "D",
+      "score_out_of_100": 92.36,
+      "semantic_points_out_of_80": 74.36,
+      "uncertainty_points_out_of_10": 8,
+      "structure_points_out_of_10": 10,
+      "scored_verses_with_zero_semantic_points": 2,
+      "returned_verse_records": 54,
+      "abstained_verses": 0,
+      "english_words": 311,
+      "note_words": 177,
+      "runtime_tokens": null,
+      "elapsed_seconds": null
+    },
+    {
+      "model_setting": "sol-low",
+      "anonymous_candidate": "B",
+      "score_out_of_100": 88.82,
+      "semantic_points_out_of_80": 72.82,
+      "uncertainty_points_out_of_10": 6,
+      "structure_points_out_of_10": 10,
+      "scored_verses_with_zero_semantic_points": 2,
+      "returned_verse_records": 54,
+      "abstained_verses": 0,
+      "english_words": 306,
+      "note_words": 180,
+      "runtime_tokens": null,
+      "elapsed_seconds": null
+    },
+    {
+      "model_setting": "sol-medium",
+      "anonymous_candidate": "A",
+      "score_out_of_100": 86.79,
+      "semantic_points_out_of_80": 71.79,
+      "uncertainty_points_out_of_10": 5,
+      "structure_points_out_of_10": 10,
+      "scored_verses_with_zero_semantic_points": 2,
+      "returned_verse_records": 54,
+      "abstained_verses": 0,
+      "english_words": 313,
+      "note_words": 146,
+      "runtime_tokens": null,
+      "elapsed_seconds": null
+    },
+    {
+      "model_setting": "terra-medium",
+      "anonymous_candidate": "C",
+      "score_out_of_100": 71.49,
+      "semantic_points_out_of_80": 59.49,
+      "uncertainty_points_out_of_10": 2,
+      "structure_points_out_of_10": 10,
+      "scored_verses_with_zero_semantic_points": 8,
+      "returned_verse_records": 54,
+      "abstained_verses": 0,
+      "english_words": 322,
+      "note_words": 36,
+      "runtime_tokens": null,
+      "elapsed_seconds": null
+    }
+  ],
+  "limitations": [
+    "One 54-verse diagnostic sample, one run per configuration; no random sample, repetitions, or significance testing.",
+    "Coordinator graded anonymous outputs before revealing random identity key; prior project source experience informed primary-backed rubric. No independent Kyrgyz specialist.",
+    "No dictionary or prior English supplied to contestants. Production uses primary lexical aids, so this test does not measure aided workflow performance.",
+    "Scores are weighted editorial ratings, not calibrated accuracy percentages.",
+    "Subagent tool accepted exact requested model/reasoning settings; resolved backend parameters and billable token usage were not exposed. Elapsed time was not instrumented; no comparative efficiency claim.",
+    "Outputs are benchmark artifacts only; none have replaced or been appended to the live poem."
+  ]
+}

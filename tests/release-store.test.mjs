@@ -5,7 +5,7 @@ import {tmpdir} from 'node:os';
 import {join} from 'node:path';
 import {pathToFileURL,fileURLToPath} from 'node:url';
 import {execFileSync} from 'node:child_process';
-import {readReleaseText} from '../lib/release-store.mjs';
+import {readReleaseRows,readReleaseText} from '../lib/release-store.mjs';
 const scripts=fileURLToPath(new URL('../scripts/',import.meta.url));
 test('Python shard writes and JavaScript reads preserve Unicode, order, and checkpoint integrity',async()=>{
   const directory=await mkdtemp(join(tmpdir(),'manas-release-store-'));
@@ -20,6 +20,7 @@ test('Python shard writes and JavaScript reads preserve Unicode, order, and chec
     const index=JSON.parse(await readFile(new URL('corpus/release/index.json',root),'utf8'));
     assert.equal(index.chunks[0].file,before.chunks[0].file);
     assert.equal(await readReleaseText(root),text);
+    assert.deepEqual((await readReleaseRows(root)).rows,text.trim().split('\n').map(JSON.parse));
     assert.equal(run('print(read_release(root),end="")'),text);
     // An interrupted write before the index switch keeps the prior checkpoint readable.
     run(`from unittest.mock import patch\nwith patch.object(Path,'write_bytes',side_effect=OSError('interrupted')):\n try:\n  write_release(root,'{"ordinal":1,"en":"different"}\\n',chunk_size=2)\n except OSError:\n  pass\nassert read_release(root)==${JSON.stringify(text)}`);

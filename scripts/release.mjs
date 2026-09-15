@@ -1,13 +1,12 @@
 import {readFile,mkdir,writeFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {validateRelease,sourceGapLabel} from '../lib/release.mjs';
-import {readReleaseText} from '../lib/release-store.mjs';
+import {readReleaseRows} from '../lib/release-store.mjs';
 import {encodeTextChunks} from '../lib/text-chunks.mjs';
 const root=new URL('../',import.meta.url);
 const read=async p=>JSON.parse(await readFile(new URL(p,root),'utf8'));
 const target=await read('corpus/target.json');const sources=await read('sources/manifest.json');
-const text=await readReleaseText(root);
-const rows=text.split('\n').filter(x=>x.trim()).map(x=>JSON.parse(x));
+const {rows,sha256:releaseSha}=await readReleaseRows(root);
 const gaps=await read('corpus/source-gaps.json');
 const audit=validateRelease(rows,target,sources,gaps);
 await writeFile(new URL('corpus/progress.json',root),JSON.stringify({
@@ -24,7 +23,7 @@ await writeFile(new URL('corpus/progress.json',root),JSON.stringify({
 },null,2)+'\n');
 const gapBefore=new Map(gaps.map(g=>[g.before_id,sourceGapLabel(g)]));
 const renderRows=rows.map(({id,ordinal,en})=>({id,ordinal,en,...(gapBefore.has(id)?{gapBefore:gapBefore.get(id)}:{})}));
-const version=rows.length?createHash('sha256').update('reader-chunks-v3\n'+text+JSON.stringify(gaps)).digest('hex').slice(0,16):'audit-2026-09-14';
+const version=rows.length?createHash('sha256').update('reader-chunks-v4\n'+releaseSha+JSON.stringify(gaps)).digest('hex').slice(0,16):'audit-2026-09-14';
 const directory=new URL('public/text/chunks/',root);await mkdir(directory,{recursive:true});
 const chunkSize=256;
 const chunks=encodeTextChunks(renderRows,chunkSize);

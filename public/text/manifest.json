@@ -1,13 +1,13 @@
 {
-  "version": "dec465a4822c5894",
+  "version": "5001e11dd0e97e62",
   "target": 500553,
-  "released": 152433,
-  "englishWords": 848654,
+  "released": 152511,
+  "englishWords": 849088,
   "reviewed": 0,
   "complete": false,
   "perPart": {
     "manas": 78616,
-    "semetey": 73817,
+    "semetey": 73895,
     "seytek": 0,
     "continuations": 0
   },
@@ -609,7 +609,7 @@
     "fd79ba826bdd7ca801ca7c738866b64ff00113b43323909fcf17c85ee128d355",
     "ce1914c32e48034c4c3f0f9e18e3e1bdf794492bc1aa50cc5e85aae67879c6ed",
     "683efb518308af1f160d4811349496cb975e3c49307693802d46157fd6629ace",
-    "8c017b843b3d7080fa1f1dcee6467b94ba417617f6672477d0138257fd13f5c6"
+    "cee1bc3653e569585219475d9bb9940070a58f6f9cbea759c9d88ade0aec98f6"
   ],
   "chapters": [
     {

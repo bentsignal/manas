@@ -104,7 +104,8 @@
     }
   ],
   "notes": {
-    "semetey-1-2013:p1428:b003:l001": "Compact heroic diction and culturally specific epithets are rendered contextually; no independent specialist review."
+    "semetey-1-2013:p1428:b003:l019": "Асынганда is read in context as 'when he slung it on'; the following lines describe Zulpukor as protection in battle.",
+    "semetey-1-2013:p1428:b004:l032": "Арбуурул is treated as an intensified or alternate form of the horse-name Buurul; retained as Arbuurul because the morphology is uncertain."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -114,5 +115,13 @@
       1428
     ],
     "details": "Rendered Semetey volume 1 PDF page 1428 at 1600-pixel scale and visually checked the printed layout. All 78 narrative positions are present in reading order, with 3 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row directly with its extracted Kyrgyz source row and replaced the prior mistranslated draft throughout. The armor, weapons, horse-description, and journey sequences now preserve the source order with one English line per source position."
   }
 }

@@ -129,12 +129,12 @@
     "details": "Rendered Semetey volume 1 PDF page 1425 at 1200-pixel scale and visually checked both printed columns against extracted coordinates and block structure. All 78 narrative positions are present in printed reading order, with 4 nonverse positions explicitly excluded. No independent manuscript collation."
   },
   "alignment_check": {
-    "method": "same-agent source-English row comparison",
-    "checked_by": "Codex",
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex QA",
     "date": "2026-09-15",
     "rows": 78,
     "status": "draft; no independent specialist review",
-    "details": "Every extracted narrative row was paired in order with one directly translated English row. Repetitions, names, numbers, and page transitions were retained; material uncertainties are noted by source ID."
+    "details": "Compared every English row with its exact extracted Kyrgyz source ID. Corrected shifted meaning across rows 7-8, 16-17, 19-20, 24-25, 37-38, 42-43, 50-51, 58-59, 61-62, 67-68, 70-71, and 77-78 while preserving one English row per source row; other rows remain semantically aligned."
   },
   "translation_provenance": "Direct Kyrgyz-to-English draft from the extracted text and rendered source page. No prior English translation or external machine-translation output used. Same-agent visual and alignment checks only; no independent specialist review."
 }

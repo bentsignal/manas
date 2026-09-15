@@ -109,7 +109,8 @@
     }
   ],
   "notes": {
-    "semetey-1-2013:p1427:b005:l008": "The printed asterisk flags a culturally specific term or formula; its contextual rendering remains uncertain."
+    "semetey-1-2013:p1427:b005:l006": "Күзгүдөй, literally 'like a mirror,' modifies the city in a compressed departure formula; rendered as 'mirror-bright city.'",
+    "semetey-1-2013:p1427:b005:l008": "Күдөрүң үзүү means to give up hope or confidence in someone; the printed asterisk is retained only in the source transcription."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -119,5 +120,13 @@
       1427
     ],
     "details": "Rendered Semetey volume 1 PDF page 1427 at 1600-pixel scale and visually checked the printed layout. All 78 narrative positions are present in reading order, with 4 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row directly with its extracted Kyrgyz source row and replaced the prior mistranslated draft throughout. Each source position remains paired with one English line; linked syntax is resolved within the surrounding couplet without moving a row's primary meaning."
   }
 }

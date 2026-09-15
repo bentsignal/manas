@@ -128,7 +128,7 @@
     "date": "2026-09-15",
     "rows": 78,
     "status": "draft; no independent specialist review",
-    "details": "Every extracted narrative row was paired in order with one directly translated English row. Repetitions, names, numbers, and page transitions were retained; material uncertainties are noted by source ID."
+    "details": "Re-audited all 78 extracted narrative rows against their English positions. Repaired eight split constructions whose meanings had been assigned to the adjacent row; each English line now primarily represents its own source row while retaining coherent couplet syntax."
   },
   "translation_provenance": "Direct Kyrgyz-to-English draft from the extracted text and rendered source page. No prior English translation or external machine-translation output used. Same-agent visual and alignment checks only; no independent specialist review."
 }

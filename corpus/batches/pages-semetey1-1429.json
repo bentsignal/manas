@@ -84,7 +84,8 @@
     }
   ],
   "notes": {
-    "semetey-1-2013:p1429:b003:l001": "Compact heroic diction and culturally specific epithets are rendered contextually; no independent specialist review."
+    "semetey-1-2013:p1429:b003:l023": "Чер can denote dense growth or forest in this landscape context; rendered as 'forest,' though the precise terrain sense remains uncertain.",
+    "semetey-1-2013:p1429:b004:l001": "Аруулап is read as reconnoitering or carefully surveying the route rather than the unrelated modern sense 'to cleanse.'"
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -94,5 +95,13 @@
       1429
     ],
     "details": "Rendered Semetey volume 1 PDF page 1429 at 1600-pixel scale and visually checked the printed layout. All 58 narrative positions are present in reading order, with 3 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 58,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row directly with its extracted Kyrgyz source row and replaced the prior mistranslated draft throughout. The ride, landscape survey, reconnaissance, and transition to Karagul remain in source order with one English line per source position."
   }
 }

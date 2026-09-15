@@ -128,5 +128,13 @@
       1432
     ],
     "details": "Rendered final Semetey volume 1 PDF page 1432 at 1600-pixel scale and visually verified that it contains only contents or colophon/end matter, not narrative verse. All 22 extracted positions are explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 0,
+    "status": "complete for empty narrative batch",
+    "details": "No narrative source rows are assigned to this batch and the English file is empty; therefore no source-English row alignment was required."
   }
 }

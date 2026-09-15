@@ -7,3 +7,13 @@ The [Jalal-Abad university library's November2023 accession bulletin](https://ja
 A [15March2017 public-broadcaster report](https://utrk.kg/s/11648) quotes editor Akmataliev describing a manuscript-faithful publication that restores earlier politically cut material. This strengthens the need to compare academic editions with the current witness, but does not establish an exact line count or that our2010/2013 editions contain every archival verse.
 
 Current status: no academic book acquired through these leads; no institutional message sent, no purchase made. Existing traditional-verse translation continues with explicit gaps and a provisional source count. First-complete-English status remains unproven.
+
+## Second public-source pass, 15 September 2026
+
+Exact-title, ISBN, pagination, Kyrgyz/Russian variant, institutional-catalogue and repository searches found no publicly downloadable scan of either the 2015/2017 six-book *Semetey* or the 2018 two-volume *Seytek*. The public Telegram files numbered 226 and 227 use the titles of the already acquired 2013 two-book *Semetey* and do not establish access to the six-book edition. A Manas Discovery file for Togolok Moldo's *Semetey, Seytek* is a different narrator and must not be substituted.
+
+The [Academy's 9 March 2017 announcement](https://naskr.kg/ky/2017/03/09/manas-eposunun-akademiyalyk-alyt-toktomu-zhakryk-kordu/) states that all six academic *Semetey* volumes appeared, contain more than 200,000 lines, were prepared by Ainek Zhainakova and scientifically edited by Abdylzhan Akmataliev, with a print run of 1,000. This corroborates the set but supplies neither scans nor an exact archival count.
+
+The [Osh State University library](https://library.oshsu.kg/) publishes `library@oshsu.kg` and `+996 3222 7-22-73` and offers an online book-order route. Its historical catalogue records two copies of each 2018 *Seytek* volume, one in the IBO reading room and one in the Philology Faculty reading room. This is the most specific request route for that edition; it does not prove present availability or permission to digitize it.
+
+The [Jalal-Abad library contact page](https://jasulib.org.kg/?page_id=1312), modified 31 January 2025, identifies director Roza Tazhimyrzaevna Kultaeva and lists `roza_kultaeva@mail.ru`, `+996 3722 23739`, and `+996 772 751645`. Its footer separately lists `+996 3722 23937`. These are public routing details for a request concerning the catalogued books 2–5, not evidence that the books are presently available or scannable.

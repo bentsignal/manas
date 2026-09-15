@@ -10,6 +10,10 @@ Prepared 15 September 2026. **Not sent.** This packet requests the source materi
 
 The public Institute page previously identified manuscript-fund head A. Isaeva, Manas/Folklore Department head M. K. Kolbaeva, and scientific secretary Zhazgul Toichubek kyzy. Its public routing details were `melis.a.-50@mail.ru`, `+996 (312) 39 20 23`, and 265a Chui Avenue, Bishkek. Confirm the current recipient and delivery route before sending.
 
+The Jalal-Abad library's contact page, modified 31 January 2025, identifies director Roza Tazhimyrzaevna Kultaeva and lists `roza_kultaeva@mail.ru`, `+996 3722 23739`, and `+996 772 751645`; its site footer separately lists `+996 3722 23937`. The historical holdings are in the fiction-lending department (АХЛ). Confirm the contact and the books' present availability before sending.
+
+The Osh State University library lists `library@oshsu.kg` and `+996 3222 7-22-73`, and provides an online book-order route. Its historical catalogue records two copies of each 2018 *Seytek* volume: one in the IBO reading room and one in the Philology Faculty reading room. Request research scans or reproduction information without assuming that digitization or lending is available.
+
 ## Exact materials requested
 
 1. Complete scans or digital transcriptions of Sayakbay Karalaev manuscripts with previous inventory numbers **925–966**, together with current shelfmarks and complete catalogue descriptions. The public catalogue confirms old 925 as current 104, old 927–966 as current 106–145, and only supports old 926/current 105 as an inferred sequence position. The public `Obrazets` files are five-page samples, not complete notebooks.

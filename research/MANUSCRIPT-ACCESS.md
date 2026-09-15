@@ -34,6 +34,12 @@ The current-104 sample was downloaded temporarily for verification only. It is a
 
 No public full-notebook asset was found. The public record HTML, bundled JavaScript, sitemap, and “Открытые рукописи” listing expose catalog pages, posters, and `Obrazets` PDFs, but no IIIF manifest, image service, full-file API, cloud-storage link, or original-scan endpoint. `robots.txt` returns the site's ordinary not-found page. For current 104, the same filename without `Obrazets-` and plausible `Full-` and `Original-` variants all return HTTP 404. The public evidence supports metadata access and sample viewing only; complete scans require a different, presently undisclosed access route.
 
+### Rejected numeric-PDF collision, 15 September 2026
+
+The public server also returns PDFs at `/static/media/pdf/104.pdf` through `/static/media/pdf/145.pdf`. These initially appeared to be a possible unlinked full-scan sequence, so all 42 files were downloaded, hashed, and inspected. They are **not** the catalogued Manas-cycle notebooks. The files total 810,109,177 bytes and 3,848 PDF pages, have no text layer, and contain unrelated Arabic-script printed religious and reference works.
+
+The mismatch is direct. The linked `Obrazets-104-...pdf` sample contains typed Cyrillic Kyrgyz verse from *Semetey*, while `104.pdf` contains an Arabic-script religious book. First and midpoint pages from every numbered PDF show the same unrelated collection class. Older distinct Wayback captures of `107.pdf` and `139.pdf` are truncated at exactly 1 MiB; recoverable JPX images from those captures also show unrelated Arabic-script printed works. The numbered URL pattern is therefore an asset-name collision and must never be treated as manuscript access. File-level hashes, lengths, page counts, and the rejection decision are recorded in `manuscript-numeric-collision-audit.json`.
+
 ## Sample collation
 
 ### Inventories 945–952 / current 124–131

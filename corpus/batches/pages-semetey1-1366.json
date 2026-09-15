@@ -118,5 +118,13 @@
       1366
     ],
     "details": "Rendered the correct Semetey PDF page and visually checked all text regions in reading order; all 78 narrative positions are included exactly once and 3 nonverse positions are explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared all 78 English positions directly with their extracted Kyrgyz source rows. Corrected 17 neighboring-row phrase displacements in Aichürök's description of Beijing; all positions remain one-to-one."
   }
 }

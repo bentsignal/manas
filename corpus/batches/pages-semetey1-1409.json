@@ -109,7 +109,8 @@
     }
   ],
   "notes": {
-    "semetey-1-2013:p1409:b003:l001": "Compact heroic diction and culturally specific epithets are translated contextually; no independent specialist review."
+    "semetey-1-2013:p1409:b003:l021": "Кара найза зулпукор is retained as the black spear Zulpukor in this line, though Zulpukor elsewhere denotes Manas's sword; the weapon image may be formulaically compressed.",
+    "semetey-1-2013:p1409:b005:l032": "Жая is read in its epic hunting sense as elephant flesh, consistent with Bakai's boast; this rare lexical sense remains provisional."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -119,5 +120,13 @@
       1409
     ],
     "details": "Rendered Semetey volume 1 PDF page 1409 at 1200-pixel scale and visually checked both printed columns against extracted coordinates and block structure. All 78 narrative positions are present in printed reading order, with 4 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row directly with its extracted Kyrgyz source row and replaced the prior machine-mistranslated draft throughout. Bakai's lament for Manas and recollection of former campaigns now retain source order with one English line per source position."
   }
 }

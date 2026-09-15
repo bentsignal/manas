@@ -106,5 +106,13 @@
       1369
     ],
     "details": "Rendered Semetey volume 1 PDF page 1369 at 1200-pixel scale and visually checked both printed columns against extracted coordinates and block structure. All 62 narrative positions are present in printed reading order, with 4 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 62,
+    "status": "draft; no independent specialist review",
+    "details": "Compared all 62 English positions directly with their extracted Kyrgyz source rows and replaced the prior machine-mistranslated draft throughout. Semetey's assault and Aichürök's curse retain source order with one English line per source position."
   }
 }

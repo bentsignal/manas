@@ -121,5 +121,13 @@
       1363
     ],
     "details": "Rendered the correct Semetey PDF page at 1400 pixels and visually checked all text regions; all 78 narrative positions are included exactly once and 4 nonverse positions are explicitly excluded."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared all 78 English positions directly with their extracted Kyrgyz source rows. Corrected eight neighboring-row phrase displacements in the Chubak, Kakan, and Kalmak passages; all positions remain one-to-one."
   }
 }

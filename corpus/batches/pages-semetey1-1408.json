@@ -104,7 +104,8 @@
     }
   ],
   "notes": {
-    "semetey-1-2013:p1408:b003:l001": "Compact heroic diction and culturally specific epithets are translated contextually; no independent specialist review."
+    "semetey-1-2013:p1408:b003:l007": "Карангүндүн орою is read contextually as the accursed ram's flank; the compact epithet and anatomical term remain somewhat uncertain.",
+    "semetey-1-2013:p1408:b004:l035": "Тагын минип is rendered contextually as mounting Beijing's throne; the precise ceremonial or dominion image is uncertain."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -114,5 +115,13 @@
       1408
     ],
     "details": "Rendered Semetey volume 1 PDF page 1408 at 1200-pixel scale and visually checked both printed columns against extracted coordinates and block structure. All 78 narrative positions are present in printed reading order, with 3 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row directly with its extracted Kyrgyz source row and replaced the prior machine-mistranslated draft throughout. The two shots at Akkulja and Bakai's ensuing lament now retain source order with one English line per source position."
   }
 }

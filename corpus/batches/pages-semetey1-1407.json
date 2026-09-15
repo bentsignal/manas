@@ -104,7 +104,8 @@
     }
   ],
   "notes": {
-    "semetey-1-2013:p1407:b003:l005": "The printed asterisk flags a culturally specific expression; its contextual English rendering remains uncertain."
+    "semetey-1-2013:p1407:b003:l005": "Салбырын names an organized hunting expedition; rendered as 'the hunt' in the parallel account of shooting wild rams.",
+    "semetey-1-2013:p1407:b004:l022": "Өлгөнү эми билинди is an epic lament saying Bakai's death or mortal decline has now become evident, not a literal notice that he dies at this point."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -114,5 +115,13 @@
       1407
     ],
     "details": "Rendered Semetey volume 1 PDF page 1407 at 1200-pixel scale and visually checked both printed columns against extracted coordinates and block structure. All 78 narrative positions are present in printed reading order, with 3 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row directly with its extracted Kyrgyz source row and replaced the prior machine-mistranslated draft throughout. Bakai's warning, Semetey's rebuke, and Kuukulja's movement now retain source order with one English line per source position."
   }
 }

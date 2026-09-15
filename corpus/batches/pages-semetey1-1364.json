@@ -117,5 +117,13 @@
       1364
     ],
     "details": "Rendered the correct Semetey PDF page and visually checked all text regions in reading order; all 77 narrative positions are included exactly once and 3 nonverse positions are explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 77,
+    "status": "draft; no independent specialist review",
+    "details": "Compared all 77 English positions directly with their extracted Kyrgyz source rows. Corrected ten neighboring-row phrase displacements in the blessing and departure passages; all positions remain one-to-one."
   }
 }

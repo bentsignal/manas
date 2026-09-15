@@ -114,5 +114,13 @@
       1304
     ],
     "details": "Rendered Semetey volume 1 PDF page 1304 at 1200-pixel scale and visually checked both printed columns against extracted coordinates and block structure. All 78 narrative positions are present in printed reading order, with 3 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit and wholesale retranslation",
+    "checked_by": "Codex QA",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Retranslated every narrative row directly from its exact extracted Kyrgyz source ID, preserving one English row per source row and the original source order."
   }
 }

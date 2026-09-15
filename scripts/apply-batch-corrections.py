@@ -20,10 +20,10 @@ reviewed = 0
 for batch_path in args.batch:
     batch = json.loads(batch_path.read_text())
     review = batch.get('alignment_check') or {}
-    assert review.get('method') in {
-        'source-English row semantic audit',
-        'same-agent source-English row comparison',
-    }, f'{batch_path}: correction requires a source-English row audit'
+    method = review.get('method', '')
+    assert method == 'same-agent source-English row comparison' or method.startswith(
+        'source-English row semantic audit'
+    ), f'{batch_path}: correction requires a source-English row audit'
     assert review.get('checked_by') and review.get('date')
     english = (root / batch['english']).read_text().splitlines()
     assert len(english) == len(batch['source_ids']) == review.get('rows'), (

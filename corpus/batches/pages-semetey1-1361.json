@@ -116,5 +116,13 @@
       1361
     ],
     "details": "Rendered Semetey volume 1 PDF page 1361 at 1200-pixel scale and visually checked both printed columns against extracted coordinates and block structure. All 70 narrative positions are present in printed reading order, with 5 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 70,
+    "status": "draft; no independent specialist review",
+    "details": "Compared all 70 English positions directly with their extracted Kyrgyz source rows and replaced the prior machine-mistranslated draft throughout. Kanykei's clothing, ammunition, and equipment provisions retain source order with one English line per source position."
   }
 }

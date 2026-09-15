@@ -114,5 +114,13 @@
       1365
     ],
     "details": "Rendered the correct Semetey PDF page and visually checked all text regions in reading order; all 70 narrative positions are included exactly once and 4 nonverse positions are explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 70,
+    "status": "draft; no independent specialist review",
+    "details": "Compared all 70 English positions directly with their extracted Kyrgyz source rows. Corrected five neighboring-row phrase displacements at the palace departure and in Aichürök's warning; all positions remain one-to-one."
   }
 }

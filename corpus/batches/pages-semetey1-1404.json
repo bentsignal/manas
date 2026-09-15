@@ -118,5 +118,13 @@
       1404
     ],
     "details": "Rendered the correct Semetey PDF page at 1400 pixels and visually checked all text regions in reading order; all 78 narrative positions are included exactly once and 3 nonverse positions are explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row directly with its extracted Kyrgyz source row. Corrected 17 phrase displacements in descriptions of Beijing's magic defenses, Kuukulja, and Kongurbai's tent; row count and source order are unchanged."
   }
 }

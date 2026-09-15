@@ -10,6 +10,14 @@ Do not advertise this as the first complete English translation until the claim 
 
 ## Exact target
 
+### Reconciliation status (checked 15 September 2026)
+
+**500,553 is the defensible reported institutional total.** It is independently repeated by the [National Bank of the Kyrgyz Republic](https://www.nbkr.kg/index1.jsp?item=3637&lang=RUS), the [National Library of the Kyrgyz Republic](https://nlkr.gov.kg/news/manas-kyrgyz-ruhunun-ochpos-zhyldyzy/), and an [Osh State University article](https://journal.oshsu.kg/index.php/vestnik/article/download/655/430). The OshSU article explicitly names *Manas*, *Semetey*, *Seytek*, *Kenen*, *Alymsaryk*, and *Kulansaryk* before giving the 500,553-line total. These sources establish a widely reported total; they do not supply the archival notebooks, a counting protocol, or a line-by-line reconciliation.
+
+The competing **500,533** figure was found only on derivative popular pages, including [Open.kg](https://open.kg/about-kyrgyzstan/famous-personalities/kyrgyz-musicians/1570-sayakbay-karalaev-18941972.html) and a 2013 [Super.kg interview](https://www.super.kg/article/show/22025). No primary, archival, official, or scholarly source independently corroborating 500,533 was located. It is therefore treated as an unsupported derivative typo, twenty lines below the institutionally corroborated figure, unless archival evidence establishes otherwise.
+
+The total is more secure than either published component breakdown. The common four-part figures below conflict with a signed afterword in the acquired 2010 *Manas* edition, which gives *Manas* 84,830, *Semetey* 397,775, and *Seytek* 17,948. Both sets sum to 500,553, but their categories cannot be reconciled by arithmetic or by relabeling the continuation. The component counts remain unresolved pending an institution-confirmed notebook-to-edition crosswalk and counting protocol.
+
 The commonly cited breakdown is:
 
 | Part | Reported lines |
@@ -50,6 +58,8 @@ Downloaded through current links on the Bizdin catalogue pages. The old indexed 
 | Total | 5,874 | 401,930 | 0 |
 
 Text lines include titles, prose, notes, page labels, and glossary entries; they are NOT verse counts. Extraction defects can split or merge source lines. No coverage percentage can be certified from these figures.
+
+A later acquired 1990/1991 *Seytek* scan adds **3,192 OCR display positions** across 34 continuation pages, making **405,122 acquired digital positions** across the five extracts. This revised total is still not an archival verse count: the continuation positions include headings, folios, and a terminal prose synopsis, and its preface explicitly says repetitions and artistically weak lines were shortened. The scan therefore cannot certify the reported 15,186 continuation lines or close the corpus gap. See [CONTINUATIONS-CHECK.md](CONTINUATIONS-CHECK.md).
 
 Catalogue pages:
 - [Manas 2010](https://new.bizdin.kg/kniga/epos-manas-sayakbay-karalaev-polnyy-variant)

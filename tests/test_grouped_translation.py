@@ -146,15 +146,15 @@ class GroupedTranslationTests(unittest.TestCase):
             self.run_cli(root, 'audit-drafts.py', succeeds=False)
 
     def test_missing_reordered_or_previously_owned_fragments_fail_before_write(self):
-        for kind in ['missing', 'reordered', 'owned']:
+        for kind in ['missing', 'anchor_reordered', 'owned']:
             with self.subTest(kind=kind), tempfile.TemporaryDirectory() as directory:
                 root = Path(directory)
                 path = self.prepare_cli(root)
                 b = copy.deepcopy(self.batch)
                 if kind == 'missing':
                     b['source_groups']['w:a'][1] = 'w:missing'
-                elif kind == 'reordered':
-                    b['source_groups']['w:a'] = ['w:a', 'w:c', 'w:b']
+                elif kind == 'anchor_reordered':
+                    b['source_ids'] = ['w:d', 'w:a']
                 else:
                     b['source_ids'] = ['w:previous', 'w:d']
                     b['source_groups'] = {}

@@ -82,5 +82,29 @@
       ],
       "assessed_at": "2026-09-15"
     }
+  },
+  {
+    "id": "seytek-1991-continuation",
+    "catalogue_url": "https://cdn-1.aki.kg/st_bilimlib/8/6ba4d8da68bdb70850cc2e35ec861c0213e5b51f.pdf",
+    "download_url": "https://cdn-1.aki.kg/st_bilimlib/8/6ba4d8da68bdb70850cc2e35ec861c0213e5b51f.pdf",
+    "path": "sources/raw/manas-aki-candidate.pdf",
+    "bytes": 34770598,
+    "sha256": "68bc80c49971f65cf755f6ef4d49e22396d9ca913b53b1f18aace29563f74178",
+    "retrieved_at": "2026-09-14T00:00:00+00:00",
+    "completeness": "abridged-provisional",
+    "rights": "traditional-verse publication basis documented; abridged modern edition rights unverified",
+    "edition": "Seytek, Sayakbay Karalaev variant; Adabiyat, Frunze; title page 1991, copyright/bibliographic page 1990; ISBN 5-660-00194-7",
+    "coverage": "Continuation PDF pages 315–348 (printed pages 314–347); overlaps the prior edition at PDF page 314 and is followed by glossary at PDF page 349.",
+    "limitation": "The preface explicitly states that repetitions and artistically weak lines were shortened. This witness is not the complete archival continuation and cannot support a completeness claim.",
+    "publication_basis": {
+      "type": "traditional_folklore",
+      "scope": "Underlying traditional epic verse on visually checked PDF pages 315–348. Excludes modern headings, folios, editorial prose synopsis, layout and images. Not a clearance of the entire modern edition.",
+      "rationale": "Manas is traditional oral folklore; Article 8 excludes works of folk creativity from copyright. Application to this underlying verse is an editorial assessment, not a legal opinion or permission from the publisher.",
+      "evidence": [
+        "https://www.wipo.int/wipolex/en/legislation/details/22616",
+        "https://zakon.kg/law/zakon-kr-ob-avtorskom-prave-i-smezhnyh-pravah/"
+      ],
+      "assessed_at": "2026-09-15"
+    }
   }
 ]

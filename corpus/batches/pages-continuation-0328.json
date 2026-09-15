@@ -1,0 +1,32 @@
+{
+  "part": "continuations",
+  "status": "draft",
+  "extraction": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "source_url": "https://cdn-1.aki.kg/st_bilimlib/8/6ba4d8da68bdb70850cc2e35ec861c0213e5b51f.pdf",
+  "english": "corpus/batches/pages-continuation-0328.en.txt",
+  "source_ids": [],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "seytek-1991-continuation:p0328:b001:l001",
+      "kind": "prose",
+      "reason": "OCR artifact from the full-page illustration; the PDF shows no textual content at this position."
+    },
+    {
+      "id": "seytek-1991-continuation:p0328:b002:l001",
+      "kind": "prose",
+      "reason": "OCR artifact from the full-page illustration; the PDF shows no textual content at this position."
+    }
+  ],
+  "notes": {},
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "pdf_pages": [
+      328
+    ],
+    "details": "Full-page illustration visually checked; both OCR fragments are image artifacts, and no narrative verse, heading, or prose is printed on the page."
+  },
+  "after_id": "seytek-1991-continuation:p0327:b004:l001"
+}

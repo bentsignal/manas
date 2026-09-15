@@ -1,15 +1,15 @@
 {
-  "version": "e28a85284430ea56",
+  "version": "44f1b994b7831926",
   "target": 500553,
-  "released": 384304,
-  "englishWords": 2004925,
+  "released": 387458,
+  "englishWords": 2023023,
   "reviewed": 0,
   "complete": false,
   "perPart": {
     "manas": 78616,
     "semetey": 216333,
     "seytek": 89355,
-    "continuations": 0
+    "continuations": 3154
   },
   "sourceGaps": 932,
   "chunkSize": 256,
@@ -1515,7 +1515,19 @@
     "fe188b200801734ec5588ed72f0b0d436762bfaacdb30e08ace16647ece2f749",
     "d671546b356d15d1699e0ba595727801d63285654750a8172495ce2cdd2040b0",
     "2af64a1ca4feed12b4ff4505a0abbe042f52ad45a859a83b14e653cb173dbc2d",
-    "e7ff31a7575ab5073e7d1f82c8b680d00ec4f3cb0e74dedc6727740ab9881845"
+    "2b9f665a0fb421c4f2630ef02baf07e1caf6d1a14a295ad7a1c7f739e3229388",
+    "1128a39bbdfcc66e08e3804c8535ab23333cf8bba21f3317c21a1a71da2e1994",
+    "8885e5e146ff26ca68e8eeaf8131089f013ebc3367f004849115e9b286dcf191",
+    "674ee2acf3b171cda0700c9ca914d1e5f0f8b2081ce6689c5f90ec34ead184b0",
+    "3d5e71677aef91c1798c220dc44185e65540e114c9a1d995302b6770dedfe3d3",
+    "dc9570b861d4afc555b0205f6da5c47e2b57e7b9d9f1bc786002014c2598cba0",
+    "f11afaf28e24a471c1ba9497e2fb71453f3b0668f8725157bd997fa2a2367a66",
+    "b5650dce592a5f187347b6e96191e5e15727395db8afaa9f30be9632a7a29add",
+    "2ac34d39583b1decffb0810e388b262171e09ec50037cc87d9f9b081dfa54751",
+    "c228d6ae559adad19792568dd5344d3d9068d7059f7ba67423a3b0b96bf6e46d",
+    "9d1d8e266dd514d619de5bce491ac7f34041fab73041f22ed18ed65fcb879540",
+    "d98555d7c47998cfbb3411d849be5c2861fbf36aff55ebea7532699043c8d0ee",
+    "efd9acc270272f4d669e1cfac5629114426f18649d3d142e185b29bdc9e8464f"
   ],
   "chapters": [
     {
@@ -1529,6 +1541,10 @@
     {
       "title": "Seytek",
       "start": 294950
+    },
+    {
+      "title": "Kenen · Alymsaryk · Kulansaryk",
+      "start": 384305
     }
   ]
 }

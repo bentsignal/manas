@@ -3,6 +3,20 @@
   "target_lines": 500553,
   "count_status": "reported_not_reconciled",
   "source_url": "https://new.bizdin.kg/media/books/manas-ensclpd.pdf",
+  "reported_total_evidence": [
+    "https://www.nbkr.kg/index1.jsp?item=3637&lang=RUS",
+    "https://nlkr.gov.kg/news/manas-kyrgyz-ruhunun-ochpos-zhyldyzy/",
+    "https://journal.oshsu.kg/index.php/vestnik/article/download/655/430"
+  ],
+  "count_note": "500553 is the institutionally corroborated reported total. The derivative 500533 figure is unsupported and treated as a likely typo. The listed part counts conflict with a second published breakdown and remain unreconciled; extracted digital positions are not archival verse counts.",
+  "alternative_reported_breakdown": {
+    "source": "Signed afterword in the acquired Manas 2010 edition",
+    "manas": 84830,
+    "semetey": 397775,
+    "seytek": 17948,
+    "total": 500553,
+    "status": "published_but_unreconciled"
+  },
   "parts": [
     {"id":"manas","title":"Manas","reported_lines":84513},
     {"id":"semetey","title":"Semetey","reported_lines":316157},

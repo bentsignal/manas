@@ -21,13 +21,17 @@ for batch_path in args.batch:
     contributing_ids = [sid for group in groups.values() for sid in group]
     requested = set(contributing_ids)
     extracted = {}
-    for line in (root / batch['extraction']).open():
+    extraction_order = {}
+    for index, line in enumerate((root / batch['extraction']).open()):
         row = json.loads(line)
+        extraction_order[row['id']] = index
         if row['id'] in requested:
             assert row['id'] not in extracted, f'{batch_path}: repeated extracted source fragment'
             extracted[row['id']] = row
     source = {sid: extracted[sid] for sid in contributing_ids if sid in extracted}
     assert list(source) == contributing_ids, f'{batch_path}: missing or reordered source fragments'
+    anchors = [extraction_order[groups[sid][0]] for sid in batch['source_ids']]
+    assert anchors == sorted(anchors) and len(anchors) == len(set(anchors)), f'{batch_path}: reordered canonical source rows'
     english = (root / batch['english']).read_text().splitlines()
     assert len(english) == len(batch['source_ids']), f'{batch_path}: translation/source count mismatch'
     assert len(set(batch['source_ids'])) == len(english), f'{batch_path}: repeated source ID'

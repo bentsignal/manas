@@ -29,9 +29,7 @@
       "reason": "Visually confirmed decorative folio, not narrative verse."
     }
   ],
-  "notes": {
-    "semetey-1-2013:p1201:b003:l001": "The page is a full-page illustration with no narrative verse. The only extracted body line is a printer signature; the untextual illustration itself has no source-line ID."
-  },
+  "notes": {},
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex worker translate_1159_1162",
@@ -39,6 +37,6 @@
     "pdf_pages": [
       1201
     ],
-    "details": "Rendered the correct Semetey PDF page at 1400 pixels and visually confirmed a full-page illustration with zero narrative positions; all four extracted nonverse positions are explicitly excluded."
+    "details": "Rendered the correct Semetey PDF page at 1400 pixels and visually confirmed a full-page illustration with zero narrative positions; all four extracted nonverse positions are explicitly excluded. The page is a full-page illustration with no narrative verse. The only extracted body line is a printer signature; the untextual illustration itself has no source-line ID."
   }
 }

@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from source_evidence import verify_source_evidence, verify_gap_segment
+from source_evidence import build_source_evidence, verify_source_evidence, verify_gap_segment
 
 
 class SourceEvidenceTests(unittest.TestCase):
@@ -55,6 +55,22 @@ class SourceEvidenceTests(unittest.TestCase):
             extracted[row['id']][field] = value
             with self.assertRaises(AssertionError):
                 verify_source_evidence(row, extracted)
+
+    def test_ocr_keeps_raw_and_authenticated_visual_transcription(self):
+        original = dict(id='w:p0010:b001:l001', source_id='w',
+                        pdf_sha256='digest', page=10, bbox={'xMin':1.0},
+                        raw='й бөксөрүп күн өтүп,', text='Ай бөксөрүп күн өтүп,',
+                        normalization='tesseract-kir-psm3',
+                        transcription_status='visually_corrected')
+        extracted = {original['id']: original}
+        row = build_source_evidence(original['id'], [original['id']], [],
+                                    extracted, 'https://example.invalid')
+        self.assertEqual(row['source']['segments'][0]['raw'], original['raw'])
+        self.assertEqual(row['source']['segments'][0]['text'], original['text'])
+        altered = copy.deepcopy(row)
+        altered['source']['segments'][0]['text'] = original['raw']
+        with self.assertRaisesRegex(AssertionError, 'Altered OCR transcription'):
+            verify_source_evidence(altered, extracted)
 
     def test_withheld_provenance_uses_digest_without_republishing_text(self):
         from hashlib import sha256

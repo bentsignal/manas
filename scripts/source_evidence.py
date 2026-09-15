@@ -51,7 +51,9 @@ def build_source_evidence(sid, ids, joiners, extracted, url, note=None):
                ky=join_readable([r['text'] for r in originals], joiners),
                source=dict(url=url, page=first['page'], sha256=first['pdf_sha256'],
                            segments=[dict(id=r['id'], raw=r['raw'], bbox=r['bbox'],
-                                          normalization=r.get('normalization', 'identity')) for r in originals]))
+                                          normalization=r.get('normalization', 'identity'),
+                                          **({'text': r['text']} if r.get('normalization') == 'tesseract-kir-psm3' else {}))
+                                     for r in originals]))
     if any(s != ' ' for s in joiners):
         row['source']['joiners'] = joiners
     if note is not None:
@@ -74,10 +76,15 @@ def verify_source_evidence(row, extracted):
         assert segment['raw'] == original['raw'], 'Altered raw PDF text'
         assert segment['bbox'] == original['bbox'], 'Altered source coordinates'
         method = original.get('normalization', 'identity')
-        assert method in ('identity', 'legacy-font-v1'), 'Unknown font normalization'
+        assert method in ('identity', 'legacy-font-v1', 'tesseract-kir-psm3'), 'Unknown font normalization'
         assert segment.get('normalization', 'identity') == method, 'Undocumented font normalization'
-        text = normalize(original['raw'], method == 'legacy-font-v1')
-        assert original['text'] == text, 'Extraction normalization mismatch'
+        if method == 'tesseract-kir-psm3':
+            assert original.get('transcription_status') in ('unreviewed_ocr', 'visually_corrected'), 'Unknown OCR transcription status'
+            assert segment.get('text') == original['text'], 'Altered OCR transcription'
+            text = original['text']
+        else:
+            text = normalize(original['raw'], method == 'legacy-font-v1')
+            assert original['text'] == text, 'Extraction normalization mismatch'
         readable.append(text)
     assert join_readable(readable, joiners) == row['ky'], 'Undocumented source alteration'
 

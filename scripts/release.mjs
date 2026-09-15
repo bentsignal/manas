@@ -1,4 +1,4 @@
-import {readFile,mkdir,writeFile} from 'node:fs/promises';
+import {readFile,mkdir,readdir,rm,writeFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {validateRelease,sourceGapLabel} from '../lib/release.mjs';
 import {readReleaseRows} from '../lib/release-store.mjs';
@@ -28,9 +28,16 @@ const directory=new URL('public/text/chunks/',root);await mkdir(directory,{recur
 const chunkSize=256;
 const chunks=encodeTextChunks(renderRows,chunkSize);
 for(const chunk of chunks)await writeFile(new URL(`${chunk.hash}.json`,directory),chunk.text);
+const currentChunks=new Set(chunks.map(chunk=>`${chunk.hash}.json`));
+for(const name of await readdir(directory))if(!currentChunks.has(name))await rm(new URL(name,directory));
 const manifest={version,target:target.target_lines,...audit,chunkSize,chunks:chunks.map(c=>c.hash),chapters:target.parts.flatMap(p=>{const r=rows.find(r=>r.part===p.id);return r?[{title:p.title,start:r.ordinal}]:[];})};
 await writeFile(new URL('public/text/initial.json',root),JSON.stringify(renderRows.slice(0,chunkSize).map(({id,ordinal,en,gapBefore})=>({id,ordinal,en,...(gapBefore?{gapBefore}: {})})))+'\n');
 const destination=new URL('public/text/manifest.json',root);await writeFile(destination,JSON.stringify(manifest,null,2)+'\n');
 await mkdir(new URL('public/text/versions/',root),{recursive:true});
-await writeFile(new URL(`public/text/versions/${version}.json`,root),JSON.stringify(manifest)+'\n');
+const versions=new URL('public/text/versions/',root);
+for(const name of await readdir(versions))if(name!==`${version}.json`)await rm(new URL(name,versions));
+await writeFile(new URL(`${version}.json`,versions),JSON.stringify(manifest)+'\n');
+for(const entry of await readdir(new URL('public/text/',root),{withFileTypes:true}))
+  if(entry.isDirectory()&&entry.name!=='chunks'&&entry.name!=='versions')
+    await rm(new URL(`public/text/${entry.name}/`,root),{recursive:true});
 console.log(JSON.stringify(audit));

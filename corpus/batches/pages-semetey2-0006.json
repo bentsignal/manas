@@ -1,0 +1,137 @@
+{
+  "part": "semetey",
+  "status": "draft",
+  "extraction": "sources/extracted/semetey-2-2013.lines.jsonl",
+  "source_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Semetei-Baatyrdyk-epos-2-kitep-Saiakbai-Karalaevdin-varianty-boiuncha.pdf",
+  "after_id": "semetey-2-2013:p0005:b005:l039",
+  "english": "corpus/batches/pages-semetey2-0006.en.txt",
+  "source_ids": [
+    "semetey-2-2013:p0006:b004:l001",
+    "semetey-2-2013:p0006:b004:l002",
+    "semetey-2-2013:p0006:b004:l003",
+    "semetey-2-2013:p0006:b004:l004",
+    "semetey-2-2013:p0006:b004:l005",
+    "semetey-2-2013:p0006:b004:l006",
+    "semetey-2-2013:p0006:b004:l007",
+    "semetey-2-2013:p0006:b004:l008",
+    "semetey-2-2013:p0006:b004:l009",
+    "semetey-2-2013:p0006:b004:l010",
+    "semetey-2-2013:p0006:b004:l011",
+    "semetey-2-2013:p0006:b004:l012",
+    "semetey-2-2013:p0006:b004:l013",
+    "semetey-2-2013:p0006:b004:l014",
+    "semetey-2-2013:p0006:b004:l015",
+    "semetey-2-2013:p0006:b004:l016",
+    "semetey-2-2013:p0006:b004:l017",
+    "semetey-2-2013:p0006:b004:l018",
+    "semetey-2-2013:p0006:b004:l019",
+    "semetey-2-2013:p0006:b004:l020",
+    "semetey-2-2013:p0006:b004:l021",
+    "semetey-2-2013:p0006:b004:l022",
+    "semetey-2-2013:p0006:b004:l023",
+    "semetey-2-2013:p0006:b004:l024",
+    "semetey-2-2013:p0006:b004:l025",
+    "semetey-2-2013:p0006:b004:l026",
+    "semetey-2-2013:p0006:b004:l027",
+    "semetey-2-2013:p0006:b004:l028",
+    "semetey-2-2013:p0006:b004:l029",
+    "semetey-2-2013:p0006:b004:l030",
+    "semetey-2-2013:p0006:b004:l031",
+    "semetey-2-2013:p0006:b004:l032",
+    "semetey-2-2013:p0006:b004:l033",
+    "semetey-2-2013:p0006:b004:l034",
+    "semetey-2-2013:p0006:b004:l035",
+    "semetey-2-2013:p0006:b004:l036",
+    "semetey-2-2013:p0006:b006:l001",
+    "semetey-2-2013:p0006:b006:l002",
+    "semetey-2-2013:p0006:b006:l003",
+    "semetey-2-2013:p0006:b006:l004",
+    "semetey-2-2013:p0006:b006:l005",
+    "semetey-2-2013:p0006:b006:l006",
+    "semetey-2-2013:p0006:b006:l007",
+    "semetey-2-2013:p0006:b006:l008",
+    "semetey-2-2013:p0006:b006:l009",
+    "semetey-2-2013:p0006:b006:l010",
+    "semetey-2-2013:p0006:b006:l011",
+    "semetey-2-2013:p0006:b006:l012",
+    "semetey-2-2013:p0006:b006:l013",
+    "semetey-2-2013:p0006:b006:l014",
+    "semetey-2-2013:p0006:b006:l015",
+    "semetey-2-2013:p0006:b006:l016",
+    "semetey-2-2013:p0006:b006:l017",
+    "semetey-2-2013:p0006:b006:l018",
+    "semetey-2-2013:p0006:b006:l019",
+    "semetey-2-2013:p0006:b006:l020",
+    "semetey-2-2013:p0006:b006:l021",
+    "semetey-2-2013:p0006:b006:l022",
+    "semetey-2-2013:p0006:b006:l023",
+    "semetey-2-2013:p0006:b006:l024",
+    "semetey-2-2013:p0006:b006:l025",
+    "semetey-2-2013:p0006:b006:l026",
+    "semetey-2-2013:p0006:b006:l027",
+    "semetey-2-2013:p0006:b006:l028",
+    "semetey-2-2013:p0006:b006:l029",
+    "semetey-2-2013:p0006:b006:l030",
+    "semetey-2-2013:p0006:b006:l031",
+    "semetey-2-2013:p0006:b006:l032",
+    "semetey-2-2013:p0006:b006:l033",
+    "semetey-2-2013:p0006:b006:l034",
+    "semetey-2-2013:p0006:b006:l035",
+    "semetey-2-2013:p0006:b006:l036"
+  ],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "semetey-2-2013:p0006:b001:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed website watermark, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0006:b002:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative running title, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0006:b003:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed first line of centered section heading, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0006:b003:l002",
+      "kind": "heading",
+      "reason": "Visually confirmed second line of centered section heading, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0006:b005:l001",
+      "kind": "heading",
+      "reason": "Printer signature artifact, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0006:b007:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed folio numeral, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0006:b008:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative folio ornament, not narrative verse."
+    }
+  ],
+  "notes": {
+    "semetey-2-2013:p0006:b004:l016": "Сыр канжа is rendered as a patterned or ornamented smoking pipe; алтын найлуу specifies its gold tip.",
+    "semetey-2-2013:p0006:b004:l026": "Дүңгүрчөк is retained as düngürchök, a tobacco pouch or container; the exact object is uncertain.",
+    "semetey-2-2013:p0006:b004:l032": "Боор таш is retained literally as liver-stone, paired with Chinese flint for fire-making; its mineral identity is uncertain.",
+    "semetey-2-2013:p0006:b006:l021": "Иттин кан аты is rendered literally as the dog's bloody name, a hostile formula whose precise idiomatic force is uncertain.",
+    "semetey-2-2013:p0006:b006:l023": "The narrator explicitly compares the Chinese men's obeisance to bowing like women; the gendered insult is preserved.",
+    "semetey-2-2013:p0006:b006:l028": "Атаңдын көрү is rendered literally as your father's grave, a curse-like address."
+  },
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex worker translate_1364_1366",
+    "date": "2026-09-15",
+    "pdf_pages": [
+      6
+    ],
+    "details": "Rendered the correct Semetey volume 2 PDF page at 1400 pixels and visually checked all text regions in reading order; all 72 narrative positions are included exactly once and 7 nonverse positions are explicitly excluded. No independent manuscript collation."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "part": "semetey",
+  "status": "draft",
+  "extraction": "sources/extracted/semetey-2-2013.lines.jsonl",
+  "source_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Semetei-Baatyrdyk-epos-2-kitep-Saiakbai-Karalaevdin-varianty-boiuncha.pdf",
+  "after_id": "semetey-1-2013:p1429:b004:l029",
+  "english": "corpus/batches/pages-semetey2-0003.en.txt",
+  "source_ids": [
+    "semetey-2-2013:p0003:b004:l001",
+    "semetey-2-2013:p0003:b004:l002",
+    "semetey-2-2013:p0003:b004:l003",
+    "semetey-2-2013:p0003:b004:l004",
+    "semetey-2-2013:p0003:b004:l005",
+    "semetey-2-2013:p0003:b004:l006",
+    "semetey-2-2013:p0003:b004:l007",
+    "semetey-2-2013:p0003:b004:l008",
+    "semetey-2-2013:p0003:b004:l009",
+    "semetey-2-2013:p0003:b004:l010",
+    "semetey-2-2013:p0003:b004:l011",
+    "semetey-2-2013:p0003:b004:l012",
+    "semetey-2-2013:p0003:b004:l013",
+    "semetey-2-2013:p0003:b004:l014",
+    "semetey-2-2013:p0003:b004:l015",
+    "semetey-2-2013:p0003:b004:l016",
+    "semetey-2-2013:p0003:b004:l017",
+    "semetey-2-2013:p0003:b004:l018",
+    "semetey-2-2013:p0003:b004:l019",
+    "semetey-2-2013:p0003:b004:l020",
+    "semetey-2-2013:p0003:b004:l021",
+    "semetey-2-2013:p0003:b004:l022",
+    "semetey-2-2013:p0003:b004:l023",
+    "semetey-2-2013:p0003:b004:l024",
+    "semetey-2-2013:p0003:b004:l025",
+    "semetey-2-2013:p0003:b004:l026",
+    "semetey-2-2013:p0003:b004:l027",
+    "semetey-2-2013:p0003:b004:l028",
+    "semetey-2-2013:p0003:b004:l029",
+    "semetey-2-2013:p0003:b004:l030",
+    "semetey-2-2013:p0003:b004:l031",
+    "semetey-2-2013:p0003:b006:l001",
+    "semetey-2-2013:p0003:b006:l002",
+    "semetey-2-2013:p0003:b006:l003",
+    "semetey-2-2013:p0003:b006:l004",
+    "semetey-2-2013:p0003:b006:l005",
+    "semetey-2-2013:p0003:b006:l006",
+    "semetey-2-2013:p0003:b006:l007",
+    "semetey-2-2013:p0003:b006:l008",
+    "semetey-2-2013:p0003:b006:l009",
+    "semetey-2-2013:p0003:b006:l010",
+    "semetey-2-2013:p0003:b006:l011",
+    "semetey-2-2013:p0003:b006:l012",
+    "semetey-2-2013:p0003:b006:l013",
+    "semetey-2-2013:p0003:b006:l014",
+    "semetey-2-2013:p0003:b006:l015",
+    "semetey-2-2013:p0003:b006:l016",
+    "semetey-2-2013:p0003:b006:l017",
+    "semetey-2-2013:p0003:b006:l018",
+    "semetey-2-2013:p0003:b006:l019",
+    "semetey-2-2013:p0003:b006:l020",
+    "semetey-2-2013:p0003:b006:l021",
+    "semetey-2-2013:p0003:b006:l022",
+    "semetey-2-2013:p0003:b006:l023",
+    "semetey-2-2013:p0003:b006:l024",
+    "semetey-2-2013:p0003:b006:l025",
+    "semetey-2-2013:p0003:b006:l026",
+    "semetey-2-2013:p0003:b006:l027",
+    "semetey-2-2013:p0003:b006:l028",
+    "semetey-2-2013:p0003:b006:l029",
+    "semetey-2-2013:p0003:b006:l030",
+    "semetey-2-2013:p0003:b006:l031"
+  ],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "semetey-2-2013:p0003:b001:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed website watermark, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0003:b002:l001",
+      "kind": "heading",
+      "reason": "Decorative running title artifact, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0003:b003:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed first line of centered section heading, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0003:b003:l002",
+      "kind": "heading",
+      "reason": "Visually confirmed second line of centered section heading, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0003:b005:l001",
+      "kind": "heading",
+      "reason": "Printer signature artifact, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0003:b007:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed folio numeral, not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0003:b008:l001",
+      "kind": "heading",
+      "reason": "Visually confirmed decorative folio ornament, not narrative verse."
+    }
+  ],
+  "notes": {
+    "semetey-2-2013:p0003:b004:l002": "Жолум үй is rendered as a house broad as a millstone, following the established epic size formula; the exact image is uncertain.",
+    "semetey-2-2013:p0003:b004:l024": "The line says forty-two nobles carry Karagul out to urinate, an intentionally degrading image preserved directly.",
+    "semetey-2-2013:p0003:b004:l025": "Кысыр эмди тай is rendered as a barren, milk-fed foal; the precise livestock category is uncertain.",
+    "semetey-2-2013:p0003:b004:l026": "Казы and жал are rendered as horse-rib fat and mane fat, traditional horse-meat delicacies.",
+    "semetey-2-2013:p0003:b006:l001": "Күпсөр is retained as küpsör in the mixed-liquor phrase because the exact vessel, ingredient, or drink type is uncertain.",
+    "semetey-2-2013:p0003:b006:l027": "Абыгый is retained as Abygyi, Karagul's form of address or title; its exact status is uncertain."
+  },
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex worker translate_1364_1366",
+    "date": "2026-09-15",
+    "pdf_pages": [
+      3
+    ],
+    "details": "Rendered the correct Semetey volume 2 PDF page at 1400 pixels and visually checked all text regions in reading order; all 62 narrative positions are included exactly once and 7 nonverse positions are explicitly excluded. No independent manuscript collation."
+  }
+}

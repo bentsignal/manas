@@ -29056,5 +29056,72 @@
       ]
     },
     "note": "One source position is preserved by ID, page, PDF digest, bounding box, normalization method, and raw-text digest. English is withheld because it explicitly references the sexual contact involving Kulchoro, whom adjacent source identifies as twelve years old; this position receives no translation credit."
+  },
+  {
+    "id": "semetey-1-2013:p1044:content-withheld",
+    "kind": "content_withheld",
+    "status": "withheld",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p1044:b004:l014",
+    "before_id": "semetey-1-2013:p1044:b004:l019",
+    "source_line_ids": [
+      "semetey-1-2013:p1044:b004:l015",
+      "semetey-1-2013:p1044:b004:l016",
+      "semetey-1-2013:p1044:b004:l017",
+      "semetey-1-2013:p1044:b004:l018"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-1044.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 1044,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p1044:b004:l015",
+          "raw_sha256": "f1b08b79d9d00ca0ea9244d531edc60923bdaade74820325848c164dfeec5dcd",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 342.0597,
+            "xMax": 461.8872,
+            "yMax": 355.2477
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1044:b004:l016",
+          "raw_sha256": "05359cc11ba68006efd261fe78ae6d9836a259bca7bdbc66838ab2c133330d28",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 356.2197,
+            "xMax": 464.9844,
+            "yMax": 369.4077
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1044:b004:l017",
+          "raw_sha256": "e8938cb7bcc7c2bc361f78dafa57de8b2b217e2091b3ad456561fa3a88f5982b",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 370.3797,
+            "xMax": 412.512,
+            "yMax": 383.5677
+          },
+          "normalization": "legacy-font-v1"
+        },
+        {
+          "id": "semetey-1-2013:p1044:b004:l018",
+          "raw_sha256": "52be41748c988fc7f42a1c11f1cff030cc2f68cf2be134d280a309b9a4e32fee",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 384.5397,
+            "xMax": 451.4064,
+            "yMax": 397.7277
+          },
+          "normalization": "legacy-font-v1"
+        }
+      ]
+    },
+    "note": "Four consecutive source positions are preserved by ID, page, PDF digest, bounding box, normalization method, and raw-text digest. English is withheld because the passage identifies a participant as a child and describes intimate contact; these positions receive no translation credit."
   }
 ]

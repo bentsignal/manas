@@ -1,12 +1,12 @@
 {
-  "released_draft_rows": 155790,
-  "released_english_words": 868036,
+  "released_draft_rows": 155864,
+  "released_english_words": 868404,
   "independently_reviewed": 0,
-  "last_source_id": "semetey-1-2013:p1043:b005:l039",
+  "last_source_id": "semetey-1-2013:p1044:b004:l039",
   "complete": false,
   "full_source_reconciled": false,
   "background_translation_job": false,
-  "source_gaps": 931,
+  "source_gaps": 932,
   "scope": "Compiled release candidate; production deployment must be verified separately.",
   "gap_policy": "Publish readable drafts with explicit source-position marker; marker excluded from translated lines and English words; completeness blocked."
 }

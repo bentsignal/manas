@@ -1,5 +1,5 @@
 {
-  "status": "canonical-restored-not-yet-published",
+  "status": "published",
   "source_id": "semetey-1-2013:p0825:b003:l039",
   "kyrgyz": "Чынарга аса байлатып,",
   "english": "Had him tethered to a plane tree with his head drawn up,",
@@ -10,5 +10,6 @@
   "primary_sha256": "7a244b474ea8d582f5c3efccff5b74a5887ec38726105bfc03a26e077d095968",
   "primary_entry": "ас- IV; аса байла-",
   "image_review": "/tmp/manas-root824-0825.png",
-  "date": "2026-09-14"
+  "date": "2026-09-14",
+  "published_version": 52
 }

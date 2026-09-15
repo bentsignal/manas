@@ -24936,5 +24936,3502 @@
       ]
     },
     "note": "Алаңды ала качтымбы: taking away question clear, exact алаңды object unresolved; no invented woman or horse."
+  },
+  {
+    "id": "semetey-1-2013:p0916:b003:l021:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0916:b003:l020",
+    "before_id": "semetey-1-2013:p0916:b003:l022",
+    "source_line_ids": [
+      "semetey-1-2013:p0916:b003:l021"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 916,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0916:b003:l021",
+          "raw": "Ìààíè¢ êåòêåí êûðê àáà,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 427.2597,
+            "xMax": 230.2872,
+            "yMax": 440.4477
+          }
+        }
+      ]
+    },
+    "note": "Held pending маан role/honor exact phrase."
+  },
+  {
+    "id": "semetey-1-2013:p0916:b003:l026:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0916:b003:l025",
+    "before_id": "semetey-1-2013:p0916:b003:l027",
+    "source_line_ids": [
+      "semetey-1-2013:p0916:b003:l026"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 916,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0916:b003:l026",
+          "raw": "Òóëïàðäûí îîçóí áóðáàéáû,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 498.2997,
+            "xMax": 243.1992,
+            "yMax": 511.4877
+          }
+        }
+      ]
+    },
+    "note": "Held: whosehorse/turnmouth rhetoricalconstruction unresolved amidst shift thirdperson verse; no invented action."
+  },
+  {
+    "id": "semetey-1-2013:p0916:b003:l034:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0916:b003:l033",
+    "before_id": "semetey-1-2013:p0916:b003:l035",
+    "source_line_ids": [
+      "semetey-1-2013:p0916:b003:l034"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 916,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0916:b003:l034",
+          "raw": "Ê¿ðìºãº ñàëäû¢ êàíûìäû,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 611.8197,
+            "xMax": 237.132,
+            "yMax": 625.0077
+          }
+        }
+      ]
+    },
+    "note": "Held pending күрмөгө салдың канымды idiom, no clotting/boiling guess."
+  },
+  {
+    "id": "semetey-1-2013:p0916:b004:l021:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0916:b004:l020",
+    "before_id": "semetey-1-2013:p0916:b004:l022",
+    "source_line_ids": [
+      "semetey-1-2013:p0916:b004:l021"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 916,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0916:b004:l021",
+          "raw": "Îøîíäî, áåðåëåíèï æåòèìè¢",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 427.2597,
+            "xMax": 479.208,
+            "yMax": 440.4477
+          }
+        }
+      ]
+    },
+    "note": "Held pending береленип converb, next covering gaps clear."
+  },
+  {
+    "id": "semetey-1-2013:p0916:b004:l037:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0916:b004:l036",
+    "before_id": "semetey-1-2013:p0916:b004:l038",
+    "source_line_ids": [
+      "semetey-1-2013:p0916:b004:l037"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 916,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0916:b004:l037",
+          "raw": "Àñûíãàíû àëåíãèð æàà, ñûð æåáå,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 654.2997,
+            "xMax": 515.7312,
+            "yMax": 667.4877
+          }
+        }
+      ]
+    },
+    "note": "Held pending аленгир bow epithet, no guessed technicalkind. Parent reports exact алеңгир destructive bow established in earlier ranges, but present аленгир n/ң discrepancy not silently normalized without variant evidence."
+  },
+  {
+    "id": "semetey-1-2013:p0917:b004:l009:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0917:b004:l008",
+    "before_id": "semetey-1-2013:p0917:b004:l010",
+    "source_line_ids": [
+      "semetey-1-2013:p0917:b004:l009"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 917,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0917:b004:l009",
+          "raw": "Óêóìóíàí òóêóìó,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 256.8597,
+            "xMax": 420.504,
+            "yMax": 270.0477
+          }
+        }
+      ]
+    },
+    "note": "Held pending укумунан тукуму construction; no invented ancestry."
+  },
+  {
+    "id": "semetey-1-2013:p0917:b004:l030:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0917:b004:l029",
+    "before_id": "semetey-1-2013:p0917:b004:l032",
+    "source_line_ids": [
+      "semetey-1-2013:p0917:b004:l030",
+      "semetey-1-2013:p0917:b004:l031"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 917,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0917:b004:l030",
+          "raw": "Ò¿ãºíãºí ñàéûí ò¿òºãºí",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 554.9397,
+            "xMax": 454.1916,
+            "yMax": 568.1277
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0917:b004:l031",
+          "raw": "Ä¿ìïºê¿í¿í òóêóìó",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 569.0997,
+            "xMax": 430.17,
+            "yMax": 582.2877
+          }
+        }
+      ]
+    },
+    "note": "Held pending түгөнгөн сайын түтөгөн paradoxical epithet linkednextline. Held pending дүмпөкүнүн designation; no substitution from дүмөк."
+  },
+  {
+    "id": "semetey-1-2013:p0918:b004:l016:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0918:b004:l015",
+    "before_id": "semetey-1-2013:p0918:b004:l017",
+    "source_line_ids": [
+      "semetey-1-2013:p0918:b004:l016"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 918,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0918:b004:l016",
+          "raw": "«Îëóøóï æîîãî êèðå ýëåê,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 356.2197,
+            "xMax": 467.16,
+            "yMax": 369.4077
+          }
+        }
+      ]
+    },
+    "note": "Held pending олушуп opening, no silent оолугуп substitution."
+  },
+  {
+    "id": "semetey-1-2013:p0919:b003:l018:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0919:b003:l017",
+    "before_id": "semetey-1-2013:p0919:b003:l019",
+    "source_line_ids": [
+      "semetey-1-2013:p0919:b003:l018"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 919,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0919:b003:l018",
+          "raw": "Êîåí òóÿê êîëãî àëûï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 384.5397,
+            "xMax": 216.0288,
+            "yMax": 397.7277
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldpending Коен туяк held earlieraswhipname butno secureprimary; no rabbit-hoof weapon invention."
+  },
+  {
+    "id": "semetey-1-2013:p0919:b004:l027:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0919:b004:l026",
+    "before_id": "semetey-1-2013:p0919:b004:l028",
+    "source_line_ids": [
+      "semetey-1-2013:p0919:b004:l027"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 919,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0919:b004:l027",
+          "raw": "Êûçûë êóéðóê áèëèìäè àë,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 512.4597,
+            "xMax": 475.5108,
+            "yMax": 525.6477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldpending кызылкуйрук address withбилимдиал, no guessedbird/insult."
+  },
+  {
+    "id": "semetey-1-2013:p0920:b003:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0920:b003:l035",
+    "before_id": "semetey-1-2013:p0920:b003:l037",
+    "source_line_ids": [
+      "semetey-1-2013:p0920:b003:l036"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 920,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0920:b003:l036",
+          "raw": "Áàòêàãûí êûéìà ÷àíàòûï",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 640.1397,
+            "xMax": 231.06,
+            "yMax": 653.3277
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldpending кыймачанатып clayconstruction process; kneading/mixinghair neighboringverses secure."
+  },
+  {
+    "id": "semetey-1-2013:p0920:b004:l001:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0920:b003:l039",
+    "before_id": "semetey-1-2013:p0920:b004:l002",
+    "source_line_ids": [
+      "semetey-1-2013:p0920:b004:l001"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 920,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0920:b004:l001",
+          "raw": "Êûéëà äààíà ñàíàòûï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 143.0997,
+            "xMax": 440.8752,
+            "yMax": 156.2877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldpending кыйладаанасанатып grammar sense of countingtombs/object unclear."
+  },
+  {
+    "id": "semetey-1-2013:p0920:b004:l019:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0920:b004:l018",
+    "before_id": "semetey-1-2013:p0920:b004:l020",
+    "source_line_ids": [
+      "semetey-1-2013:p0920:b004:l019"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 920,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0920:b004:l019",
+          "raw": "Áåòòåøêåíäè ìåíò êûëûï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 398.6997,
+            "xMax": 468.012,
+            "yMax": 411.8877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldprintedмент notмeрт, no silentorthographicrepair."
+  },
+  {
+    "id": "semetey-1-2013:p0921:b003:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0921:b003:l019",
+    "before_id": "semetey-1-2013:p0921:b003:l021",
+    "source_line_ids": [
+      "semetey-1-2013:p0921:b003:l020"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 921,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0921:b003:l020",
+          "raw": "Áóñóðìàíãà ÷ºï áîëóï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 412.8597,
+            "xMax": 214.5792,
+            "yMax": 426.0477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldprintedчөп grass notчеп fortress; nearby9213:39clearчепdoesnotauthorizeemend."
+  },
+  {
+    "id": "semetey-1-2013:p0921:b005:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0921:b005:l011",
+    "before_id": "semetey-1-2013:p0921:b005:l013",
+    "source_line_ids": [
+      "semetey-1-2013:p0921:b005:l012"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 921,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0921:b005:l012",
+          "raw": "Àäûðäà æûëêû àëòû ñàí",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 299.3397,
+            "xMax": 461.7396,
+            "yMax": 312.5277
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldpending алтысан numericcollective unit, no numericalpadding."
+  },
+  {
+    "id": "semetey-1-2013:p0921:b005:l015:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0921:b005:l014",
+    "before_id": "semetey-1-2013:p0921:b005:l017",
+    "source_line_ids": [
+      "semetey-1-2013:p0921:b005:l015",
+      "semetey-1-2013:p0921:b005:l016"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 921,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0921:b005:l015",
+          "raw": "Êîø àëàáà ñóóñàð áºðê",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 342.0597,
+            "xMax": 444.4668,
+            "yMax": 355.2477
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0921:b005:l016",
+          "raw": "Ûðãàï êàëãàí êåçè ýêåí,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 356.2197,
+            "xMax": 460.3896,
+            "yMax": 369.4077
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldpending кошалаба capepithet; martenfurknown. Wholeheldlinked ыргап oscillation capaction uncertain."
+  },
+  {
+    "id": "semetey-1-2013:p0921:b005:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0921:b005:l019",
+    "before_id": "semetey-1-2013:p0921:b005:l021",
+    "source_line_ids": [
+      "semetey-1-2013:p0921:b005:l020"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 921,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0921:b005:l020",
+          "raw": "Ê¿í¿í¿í áààðû ÷à÷ûëûï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 412.8597,
+            "xMax": 463.4388,
+            "yMax": 426.0477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldкү нүнүнбаарычачылып literalallhisdaysscattered paradoxamidheartrelief; no silentкүнү→күдүк."
+  },
+  {
+    "id": "semetey-1-2013:p0921:b005:l030:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0921:b005:l029",
+    "before_id": "semetey-1-2013:p0921:b005:l031",
+    "source_line_ids": [
+      "semetey-1-2013:p0921:b005:l030"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 921,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0921:b005:l030",
+          "raw": "Àðãûí, êûðãûç îé òàðòûï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 554.9397,
+            "xMax": 473.832,
+            "yMax": 568.1277
+          }
+        }
+      ]
+    },
+    "note": "Wholeheldойтартып mentalresolve/valleychoice unclear."
+  },
+  {
+    "id": "semetey-1-2013:p0922:b007:l017:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0922:b007:l016",
+    "before_id": "semetey-1-2013:p0922:b007:l018",
+    "source_line_ids": [
+      "semetey-1-2013:p0922:b007:l017"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 922,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0922:b007:l017",
+          "raw": "Áàëàí-ò¿ã¿í äåäèðäèì,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 566.2197,
+            "xMax": 444.7344,
+            "yMax": 579.4077
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Балан-түгүн conventionalindefinitesbut exactdidirdim naming/privilege construction unclear."
+  },
+  {
+    "id": "semetey-1-2013:p0923:b003:l013:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0923:b003:l012",
+    "before_id": "semetey-1-2013:p0923:b003:l014",
+    "source_line_ids": [
+      "semetey-1-2013:p0923:b003:l013"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 923,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0923:b003:l013",
+          "raw": "Êàðà êèéèç* ñàíààñû,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 313.4997,
+            "xMax": 209.9316,
+            "yMax": 326.6877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Каракийизсанаасы blackfeltthought idiom unverified,not black-hearted assumption."
+  },
+  {
+    "id": "semetey-1-2013:p0923:b003:l021:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0923:b003:l020",
+    "before_id": "semetey-1-2013:p0923:b003:l022",
+    "source_line_ids": [
+      "semetey-1-2013:p0923:b003:l021"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 923,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0923:b003:l021",
+          "raw": "Æåðãå ñàëàð øóìäóãóì,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 427.2597,
+            "xMax": 222.6912,
+            "yMax": 440.4477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: жергесаларшумдугум possessive/hyperboleunclear; not invent enemyhumiliation."
+  },
+  {
+    "id": "semetey-1-2013:p0923:b005:l001:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0923:b003:l039",
+    "before_id": "semetey-1-2013:p0923:b005:l002",
+    "source_line_ids": [
+      "semetey-1-2013:p0923:b005:l001"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 923,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0923:b005:l001",
+          "raw": "Áåéëåï æóðòóì, óãóï àë,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 143.0997,
+            "xMax": 459.5952,
+            "yMax": 156.2877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Бейлеп openingverboraddress unresolved, no silent эйелим emend."
+  },
+  {
+    "id": "semetey-1-2013:p0923:b005:l018:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0923:b005:l017",
+    "before_id": "semetey-1-2013:p0923:b005:l019",
+    "source_line_ids": [
+      "semetey-1-2013:p0923:b005:l018"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 923,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0923:b005:l018",
+          "raw": "Êàêàí÷ûíäûí îîçó áàð,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 384.5397,
+            "xMax": 451.4184,
+            "yMax": 397.7277
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Каканчыноозубар entrance/voice phrase withdarkmist unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0923:b005:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0923:b005:l019",
+    "before_id": "semetey-1-2013:p0923:b005:l021",
+    "source_line_ids": [
+      "semetey-1-2013:p0923:b005:l020"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 923,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0923:b005:l020",
+          "raw": "Îí ýêè ýðäèí äîñó áàð.",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 412.8597,
+            "xMax": 448.374,
+            "yMax": 426.0477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Онэкиэрдиндосу бар twelveheroesfrienddespitevengeancecontext; no silent досу→доосу emend."
+  },
+  {
+    "id": "semetey-1-2013:p0924:b004:l039:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0924:b004:l038",
+    "before_id": "semetey-1-2013:p0925:b003:l001",
+    "source_line_ids": [
+      "semetey-1-2013:p0924:b004:l039"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 924,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0924:b004:l039",
+          "raw": "Áèçãå êàíãóðëàð êàïòàï êåëåáè,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 682.8597,
+            "xMax": 499.5096,
+            "yMax": 696.0477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: кангурлар enemycollectivelabel notidentified; notinventethnicity."
+  },
+  {
+    "id": "semetey-1-2013:p0925:b003:l011:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0925:b003:l010",
+    "before_id": "semetey-1-2013:p0925:b003:l012",
+    "source_line_ids": [
+      "semetey-1-2013:p0925:b003:l011"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 925,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0925:b003:l011",
+          "raw": "Êàïòàï êèðèï áàø òàðòûï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 285.1797,
+            "xMax": 240.756,
+            "yMax": 298.3677
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: каптапкирипбаштартып surrender/headpresenting versus headturning semanticunclear."
+  },
+  {
+    "id": "semetey-1-2013:p0925:b004:l003:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0925:b004:l002",
+    "before_id": "semetey-1-2013:p0925:b004:l004",
+    "source_line_ids": [
+      "semetey-1-2013:p0925:b004:l003"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 925,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0925:b004:l003",
+          "raw": "Àëäàï æ¿ðñº ñàí êîëäîé,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 171.6597,
+            "xMax": 461.1168,
+            "yMax": 184.8477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Алдап deceivingversusvariant leading not secured; no silentалга/айдап replacement."
+  },
+  {
+    "id": "semetey-1-2013:p0925:b004:l005:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0925:b004:l004",
+    "before_id": "semetey-1-2013:p0925:b004:l006",
+    "source_line_ids": [
+      "semetey-1-2013:p0925:b004:l005"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 925,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0925:b004:l005",
+          "raw": "Êåðäèí ¿ñò¿í êûäûðûï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 199.9797,
+            "xMax": 458.0592,
+            "yMax": 213.1677
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: кердин nounreferent ridge? primaryкерcolor not secure geographicalreference."
+  },
+  {
+    "id": "semetey-1-2013:p0925:b004:l023:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0925:b004:l022",
+    "before_id": "semetey-1-2013:p0925:b004:l024",
+    "source_line_ids": [
+      "semetey-1-2013:p0925:b004:l023"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 925,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0925:b004:l023",
+          "raw": "Æàëãûç àòòûí ÷óáàìà,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 455.5797,
+            "xMax": 446.8848,
+            "yMax": 468.7677
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Жалгызаттынчубама fragment unsafeto expand into narrowonehorsepath."
+  },
+  {
+    "id": "semetey-1-2013:p0925:b004:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0925:b004:l035",
+    "before_id": "semetey-1-2013:p0925:b004:l037",
+    "source_line_ids": [
+      "semetey-1-2013:p0925:b004:l036"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 925,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0925:b004:l036",
+          "raw": "Êºðêºì¿ðººê êàðà ñóð –",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 640.1397,
+            "xMax": 453.6024,
+            "yMax": 653.3277
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: көркөмүрөөк construction despiteкарасурdarkcomplexionclear."
+  },
+  {
+    "id": "semetey-1-2013:p0926:b004:l001:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0926:b003:l039",
+    "before_id": "semetey-1-2013:p0926:b004:l002",
+    "source_line_ids": [
+      "semetey-1-2013:p0926:b004:l001"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 926,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0926:b004:l001",
+          "raw": "Äèí Ûñòàì æîëóí à÷êàíäà,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 143.0997,
+            "xMax": 471.54,
+            "yMax": 156.2877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Ыстам visiblyprinted; relatedIslam/дин-ыстан knownbutm/nvariantnotsecured."
+  },
+  {
+    "id": "semetey-1-2013:p0926:b004:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0926:b004:l024",
+    "before_id": "semetey-1-2013:p0926:b004:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0926:b004:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 926,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0926:b004:l025",
+          "raw": "Àðòûê áîîðó ê¿÷ áîëóï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 483.8997,
+            "xMax": 450.8016,
+            "yMax": 497.0877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Артыкбоорукүчболуп woundseverityconstruction bodyreferentuncertain, no anatomicalexplanationinvented."
+  },
+  {
+    "id": "semetey-1-2013:p0928:b003:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0928:b003:l005",
+    "before_id": "semetey-1-2013:p0928:b003:l009",
+    "source_line_ids": [
+      "semetey-1-2013:p0928:b003:l006",
+      "semetey-1-2013:p0928:b003:l007",
+      "semetey-1-2013:p0928:b003:l008"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 928,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0928:b003:l006",
+          "raw": "Óéãó-òóéãó àðà æîë,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 214.1397,
+            "xMax": 198.7296,
+            "yMax": 227.3277
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0928:b003:l007",
+          "raw": "×àëà æ¿ðãºí ìåí îøîë.",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 228.2997,
+            "xMax": 217.566,
+            "yMax": 241.4877
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0928:b003:l008",
+          "raw": "Ýðäèãèì àøûê ê¿ëêàíà*,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 242.4597,
+            "xMax": 227.8896,
+            "yMax": 255.6477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Уйгу-туйгуаражол constructionunclear inboast. Wholeheld: Чалажүргөнменошол linkedpreviousmiddlepathboast notresolved. Wholeheld: күлкана epicboastepithet no exactprimary, notsilentlykilkana/furnace."
+  },
+  {
+    "id": "semetey-1-2013:p0929:b003:l014:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0929:b003:l013",
+    "before_id": "semetey-1-2013:p0929:b003:l015",
+    "source_line_ids": [
+      "semetey-1-2013:p0929:b003:l014"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 929,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0929:b003:l014",
+          "raw": "Êààðäàíûï èø á¿òºï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 327.6597,
+            "xMax": 208.4568,
+            "yMax": 340.8477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Каарданыпишбүтөп workcompletionclause ambiguoustempo amidBakaianger; no invented suppression."
+  },
+  {
+    "id": "semetey-1-2013:p0929:b005:l019:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0929:b005:l018",
+    "before_id": "semetey-1-2013:p0929:b005:l020",
+    "source_line_ids": [
+      "semetey-1-2013:p0929:b005:l019"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 929,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0929:b005:l019",
+          "raw": "Êûëäûì àñûë çàòû¢äû,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 398.6997,
+            "xMax": 454.2552,
+            "yMax": 411.8877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Кылдымасылзатыңды objectdivinityhonorconstruction incomplete; no inventedmadehonorific."
+  },
+  {
+    "id": "semetey-1-2013:p0929:b005:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0929:b005:l030",
+    "before_id": "semetey-1-2013:p0929:b005:l032",
+    "source_line_ids": [
+      "semetey-1-2013:p0929:b005:l031"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 929,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0929:b005:l031",
+          "raw": "Ýðäèãè¢ áàð ê¿ëêàíà",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 569.0997,
+            "xMax": 435.4824,
+            "yMax": 582.2877
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: күлкана epithet unresolved, same9283:8."
+  },
+  {
+    "id": "semetey-1-2013:p0930:b004:l016:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0930:b004:l015",
+    "before_id": "semetey-1-2013:p0930:b004:l017",
+    "source_line_ids": [
+      "semetey-1-2013:p0930:b004:l016"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 930,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0930:b004:l016",
+          "raw": "Òîíîãîí àðäàé øî¢øîþï.",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 356.2197,
+            "xMax": 458.9484,
+            "yMax": 369.4077
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Тоногонардай crouching comparison unresolved, noimposedpluckedcamel."
+  },
+  {
+    "id": "semetey-1-2013:p0930:b004:l027:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0930:b004:l026",
+    "before_id": "semetey-1-2013:p0930:b004:l028",
+    "source_line_ids": [
+      "semetey-1-2013:p0930:b004:l027"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 930,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0930:b004:l027",
+          "raw": "Êîé÷î ñóðàï ìèíãåíè,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 512.4597,
+            "xMax": 439.3896,
+            "yMax": 525.6477
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Койчосурапминген horseborrowingconstruction unclear, no silentshepherdclaim."
+  },
+  {
+    "id": "semetey-1-2013:p0931:b003:l028:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0931:b003:l027",
+    "before_id": "semetey-1-2013:p0931:b003:l029",
+    "source_line_ids": [
+      "semetey-1-2013:p0931:b003:l028"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 931,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0931:b003:l028",
+          "raw": "Áåë-áåë êåëãåí òàéòà¢äà,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 526.6197,
+            "xMax": 228.6696,
+            "yMax": 539.8077
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: тайтаң adjectivepairofpassesnotsecuregeographicalmeaning; ordinaryunsteadystepdefinitiondoesnotresolve."
+  },
+  {
+    "id": "semetey-1-2013:p0931:b005:l017:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0931:b005:l016",
+    "before_id": "semetey-1-2013:p0931:b005:l018",
+    "source_line_ids": [
+      "semetey-1-2013:p0931:b005:l017"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 931,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0931:b005:l017",
+          "raw": "Îðñîê àéäàï àëûïòûð.",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 370.3797,
+            "xMax": 444.5364,
+            "yMax": 383.5677
+          }
+        }
+      ]
+    },
+    "note": "Whole held: actual Yudakhin орсок describes a person with protruding upper teeth, separate food cross-reference also found. Neither securely resolves driving away mares here; no automatic missing-foals interpretation."
+  },
+  {
+    "id": "semetey-1-2013:p0933:b004:l010:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0933:b004:l009",
+    "before_id": "semetey-1-2013:p0933:b004:l011",
+    "source_line_ids": [
+      "semetey-1-2013:p0933:b004:l010"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 933,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0933:b004:l010",
+          "raw": "Àê øàéòàíäóó àò à-à àêìàê",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 271.0197,
+            "xMax": 472.992,
+            "yMax": 284.2077
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: Акшайтандууат а-а акмак extractionmatchesoddprintedclause; noomittinglexicalat."
+  },
+  {
+    "id": "semetey-1-2013:p0934:b004:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0934:b004:l024",
+    "before_id": "semetey-1-2013:p0934:b004:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0934:b004:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 934,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0934:b004:l025",
+          "raw": "Îëóøà êåòèï øàëïàéûï,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 538.6197,
+            "xMax": 224.46,
+            "yMax": 551.8077
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: олуша converb unresolved, no silent оолуша weakeningwithoutprimary."
+  },
+  {
+    "id": "semetey-1-2013:p0934:b004:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0934:b004:l030",
+    "before_id": "semetey-1-2013:p0934:b004:l032",
+    "source_line_ids": [
+      "semetey-1-2013:p0934:b004:l031"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 934,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0934:b004:l031",
+          "raw": "ªºä¿ð-ñººä¿ð æàí ýëå,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 623.8197,
+            "xMax": 210.0888,
+            "yMax": 637.0077
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: өөдүр-сөөдүр characterdescriptionunclear,notassumedfoolishweak."
+  },
+  {
+    "id": "semetey-1-2013:p0934:b005:l022:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0934:b005:l021",
+    "before_id": "semetey-1-2013:p0934:b005:l023",
+    "source_line_ids": [
+      "semetey-1-2013:p0934:b005:l022"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0916-0935.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 934,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0934:b005:l022",
+          "raw": "Ñóóðóëóøóï òóðóøòó.",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 496.1397,
+            "xMax": 439.4124,
+            "yMax": 509.3277
+          }
+        }
+      ]
+    },
+    "note": "Wholeheld: суурулушуп whiteantelopehairs unificationmetaphor mayunravel versusdrawtogether, notinventparting."
+  },
+  {
+    "id": "semetey-1-2013:p0936:b003:l024:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0936:b003:l023",
+    "before_id": "semetey-1-2013:p0936:b003:l025",
+    "source_line_ids": [
+      "semetey-1-2013:p0936:b003:l024"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 936,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0936:b003:l024",
+          "raw": "Ìåíèí áó êåáèìäå áóøìàí æîê,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 469.7397,
+            "xMax": 268.5876,
+            "yMax": 482.9277
+          }
+        }
+      ]
+    },
+    "note": "бушман exact speech quality uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0936:b003:l037:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0936:b003:l036",
+    "before_id": "semetey-1-2013:p0936:b003:l038",
+    "source_line_ids": [
+      "semetey-1-2013:p0936:b003:l037"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 936,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0936:b003:l037",
+          "raw": "Òóç êàéíàòûï àëãàíäà,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 654.2997,
+            "xMax": 213.8016,
+            "yMax": 667.4877
+          }
+        }
+      ]
+    },
+    "note": "Туз кайнатып allying/salt idiom uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0936:b004:l005:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0936:b004:l004",
+    "before_id": "semetey-1-2013:p0936:b004:l006",
+    "source_line_ids": [
+      "semetey-1-2013:p0936:b004:l005"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 936,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0936:b004:l005",
+          "raw": "Àðãà æ¿ã¿í àðòêàíäà,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 199.9797,
+            "xMax": 439.3212,
+            "yMax": 213.1677
+          }
+        }
+      ]
+    },
+    "note": "Арга жүгүн артканда exact feast obligation uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0937:b003:l004:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0937:b003:l003",
+    "before_id": "semetey-1-2013:p0937:b003:l005",
+    "source_line_ids": [
+      "semetey-1-2013:p0937:b003:l004"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 937,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0937:b003:l004",
+          "raw": "Àðäàé ìîéíó óçàðûï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 185.8197,
+            "xMax": 208.4808,
+            "yMax": 199.0077
+          }
+        }
+      ]
+    },
+    "note": "Ардай мойну exact bodily qualifier uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0937:b003:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0937:b003:l005",
+    "before_id": "semetey-1-2013:p0937:b003:l007",
+    "source_line_ids": [
+      "semetey-1-2013:p0937:b003:l006"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 937,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0937:b003:l006",
+          "raw": "Êàéðàòûíàí æàí ÷ûãûï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 214.1397,
+            "xMax": 228.7368,
+            "yMax": 227.3277
+          }
+        }
+      ]
+    },
+    "note": "Кайратынан жан чыгып literal spirit/force idiom uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0937:b003:l033:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0937:b003:l032",
+    "before_id": "semetey-1-2013:p0937:b003:l034",
+    "source_line_ids": [
+      "semetey-1-2013:p0937:b003:l033"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 937,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0937:b003:l033",
+          "raw": "Óðãàà÷ûäàé óç òàïòûì,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 597.6597,
+            "xMax": 219.6888,
+            "yMax": 610.8477
+          }
+        }
+      ]
+    },
+    "note": "Ургаачыдай уз exact beauty construction uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0937:b005:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0937:b005:l011",
+    "before_id": "semetey-1-2013:p0937:b005:l013",
+    "source_line_ids": [
+      "semetey-1-2013:p0937:b005:l012"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 937,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0937:b005:l012",
+          "raw": "Êóëäóê óðãàí ìàé ÷àéíàï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 299.3397,
+            "xMax": 467.856,
+            "yMax": 312.5277
+          }
+        }
+      ]
+    },
+    "note": "Кулдук урган май чайнап exact ritual action uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0937:b005:l019:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0937:b005:l018",
+    "before_id": "semetey-1-2013:p0937:b005:l020",
+    "source_line_ids": [
+      "semetey-1-2013:p0937:b005:l019"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 937,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0937:b005:l019",
+          "raw": "Ìóíóí êûìáàò æåðäå äàéíû áàð,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 398.6997,
+            "xMax": 508.3728,
+            "yMax": 411.8877
+          }
+        }
+      ]
+    },
+    "note": "кымбат жерде дайны bar exact reputation/location uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0938:b004:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0938:b004:l005",
+    "before_id": "semetey-1-2013:p0938:b004:l007",
+    "source_line_ids": [
+      "semetey-1-2013:p0938:b004:l006"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 938,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0938:b004:l006",
+          "raw": "×åêå¢äåãè òûðûøûí,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 214.1397,
+            "xMax": 439.4424,
+            "yMax": 227.3277
+          }
+        }
+      ]
+    },
+    "note": "Чекеңдеги тырышын exact brow wrinkle relation to speaker unclear; whole verse held pending primary/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0940:b003:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0940:b003:l005",
+    "before_id": "semetey-1-2013:p0940:b003:l007",
+    "source_line_ids": [
+      "semetey-1-2013:p0940:b003:l006"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 940,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0940:b003:l006",
+          "raw": "Êóëäóêòàøûï ìàé ÷àéíàï,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 214.1397,
+            "xMax": 236.316,
+            "yMax": 227.3277
+          }
+        }
+      ]
+    },
+    "note": "Кулдукташып май чайнап ritual action uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0940:b003:l013:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0940:b003:l012",
+    "before_id": "semetey-1-2013:p0940:b003:l014",
+    "source_line_ids": [
+      "semetey-1-2013:p0940:b003:l013"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 940,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0940:b003:l013",
+          "raw": "ªëáºãºíäºí êàëûøñàê,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 313.4997,
+            "xMax": 212.3532,
+            "yMax": 326.6877
+          }
+        }
+      ]
+    },
+    "note": "Өлбөгөндөн калышсак exact conditional negative uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0941:b003:l021:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0941:b003:l020",
+    "before_id": "semetey-1-2013:p0941:b003:l022",
+    "source_line_ids": [
+      "semetey-1-2013:p0941:b003:l021"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 941,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0941:b003:l021",
+          "raw": "Òàðòûï ñàëàð äàðûñû.",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 427.2597,
+            "xMax": 213.6552,
+            "yMax": 440.4477
+          }
+        }
+      ]
+    },
+    "note": "Тартып салар дарысы exact punitive powder/remedy apparatus uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0941:b004:l023:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0941:b004:l022",
+    "before_id": "semetey-1-2013:p0941:b004:l024",
+    "source_line_ids": [
+      "semetey-1-2013:p0941:b004:l023"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 941,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0941:b004:l023",
+          "raw": "Áàñïàé ìåíäå ñàíäàëãàí,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 455.5797,
+            "xMax": 458.208,
+            "yMax": 468.7677
+          }
+        }
+      ]
+    },
+    "note": "Баспай менде сандалган exact movement negative uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0941:b004:l029:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0941:b004:l028",
+    "before_id": "semetey-1-2013:p0941:b004:l030",
+    "source_line_ids": [
+      "semetey-1-2013:p0941:b004:l029"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 941,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0941:b004:l029",
+          "raw": "Êûëû÷òàðûí êûìïûéòûï",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 540.7797,
+            "xMax": 466.2624,
+            "yMax": 553.9677
+          }
+        }
+      ]
+    },
+    "note": "Кылычтарын кымпыйтып exact sword action uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0941:b004:l033:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0941:b004:l032",
+    "before_id": "semetey-1-2013:p0941:b004:l034",
+    "source_line_ids": [
+      "semetey-1-2013:p0941:b004:l033"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 941,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0941:b004:l033",
+          "raw": "Øûéðàêòàðûí ìåê÷åéòèï",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 597.6597,
+            "xMax": 464.8836,
+            "yMax": 610.8477
+          }
+        }
+      ]
+    },
+    "note": "Шыйрактарын мекчейтип legs vs firearm supports uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0942:b003:l035:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0942:b003:l034",
+    "before_id": "semetey-1-2013:p0942:b003:l036",
+    "source_line_ids": [
+      "semetey-1-2013:p0942:b003:l035"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 942,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0942:b003:l035",
+          "raw": "Ó÷óðãàíû¢ ýìèíå?",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 625.9797,
+            "xMax": 188.3976,
+            "yMax": 639.1677
+          }
+        }
+      ]
+    },
+    "note": "Учурганың эмине exact hostile question uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0942:b004:l007:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0942:b004:l006",
+    "before_id": "semetey-1-2013:p0942:b004:l008",
+    "source_line_ids": [
+      "semetey-1-2013:p0942:b004:l007"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 942,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0942:b004:l007",
+          "raw": "Òàðàçà æûëäûç ò¿í ýëåê,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 228.2997,
+            "xMax": 460.6164,
+            "yMax": 241.4877
+          }
+        }
+      ]
+    },
+    "note": "Тараза жылдыз түн элек mediation metaphor uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0942:b004:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0942:b004:l030",
+    "before_id": "semetey-1-2013:p0942:b004:l032",
+    "source_line_ids": [
+      "semetey-1-2013:p0942:b004:l031"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 942,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0942:b004:l031",
+          "raw": "Îîäàðûëìà ýð Êîæî,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 569.0997,
+            "xMax": 429.672,
+            "yMax": 582.2877
+          }
+        }
+      ]
+    },
+    "note": "Оодарылма эр exact hero/treachery epithet uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0942:b004:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0942:b004:l035",
+    "before_id": "semetey-1-2013:p0942:b004:l037",
+    "source_line_ids": [
+      "semetey-1-2013:p0942:b004:l036"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 942,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0942:b004:l036",
+          "raw": "Áóóëóìóí áóëàï î¢îëóï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 640.1397,
+            "xMax": 452.1816,
+            "yMax": 653.3277
+          }
+        }
+      ]
+    },
+    "note": "Буулумун булап оңолуп exact plunder subject/possessor uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0943:b003:l003:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0943:b003:l002",
+    "before_id": "semetey-1-2013:p0943:b003:l004",
+    "source_line_ids": [
+      "semetey-1-2013:p0943:b003:l003"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 943,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0943:b003:l003",
+          "raw": "Ýðäèãè áàð ê¿ëêàíà",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 171.6597,
+            "xMax": 197.28,
+            "yMax": 184.8477
+          }
+        }
+      ]
+    },
+    "note": "күлкана exact Chynkojo qualifier uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0943:b003:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0943:b003:l024",
+    "before_id": "semetey-1-2013:p0943:b003:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0943:b003:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 943,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0943:b003:l025",
+          "raw": "Ê¿íêîðäóãóì æîê ýëå.",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 483.8997,
+            "xMax": 213.522,
+            "yMax": 497.0877
+          }
+        }
+      ]
+    },
+    "note": "Күнкордугум exact blood-compensation clause uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0943:b003:l033:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0943:b003:l032",
+    "before_id": "semetey-1-2013:p0943:b003:l034",
+    "source_line_ids": [
+      "semetey-1-2013:p0943:b003:l033"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 943,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0943:b003:l033",
+          "raw": "Êåáåç áàéëàï êåëáåéáè,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 597.6597,
+            "xMax": 218.952,
+            "yMax": 610.8477
+          }
+        }
+      ]
+    },
+    "note": "Кебез байлап exact horse gift ritual uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0943:b003:l039:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0943:b003:l038",
+    "before_id": "semetey-1-2013:p0943:b004:l001",
+    "source_line_ids": [
+      "semetey-1-2013:p0943:b003:l039"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 943,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0943:b003:l039",
+          "raw": "Àëòû êåðòèï æ¿ê æûéûï,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 682.8597,
+            "xMax": 240.7896,
+            "yMax": 696.0477
+          }
+        }
+      ]
+    },
+    "note": "Алты кертип exact goods measure/packing uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0943:b004:l027:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0943:b004:l026",
+    "before_id": "semetey-1-2013:p0943:b004:l028",
+    "source_line_ids": [
+      "semetey-1-2013:p0943:b004:l027"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 943,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0943:b004:l027",
+          "raw": "Ñèåðèíå æåð òàïïàé,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 512.4597,
+            "xMax": 437.076,
+            "yMax": 525.6477
+          }
+        }
+      ]
+    },
+    "note": "Сиерине жер таппай exact verb spelling uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0944:b003:l005:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0944:b003:l004",
+    "before_id": "semetey-1-2013:p0944:b003:l006",
+    "source_line_ids": [
+      "semetey-1-2013:p0944:b003:l005"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 944,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0944:b003:l005",
+          "raw": "Êàïêàéäà êåãèí àëàéûí.",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 199.9797,
+            "xMax": 224.3028,
+            "yMax": 213.1677
+          }
+        }
+      ]
+    },
+    "note": "Капкайда revenge idiom uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0944:b004:l007:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0944:b004:l006",
+    "before_id": "semetey-1-2013:p0944:b004:l008",
+    "source_line_ids": [
+      "semetey-1-2013:p0944:b004:l007"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 944,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0944:b004:l007",
+          "raw": "Êåòèðáåñåì áîëæîëóí!»",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 230.4597,
+            "xMax": 445.3152,
+            "yMax": 243.6477
+          }
+        }
+      ]
+    },
+    "note": "Кетирбесем болжолун exact oath object uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0945:b003:l003:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0945:b003:l002",
+    "before_id": "semetey-1-2013:p0945:b003:l004",
+    "source_line_ids": [
+      "semetey-1-2013:p0945:b003:l003"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 945,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0945:b003:l003",
+          "raw": "Ýêè òààëàé êåáè áàð,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 171.6597,
+            "xMax": 203.9544,
+            "yMax": 184.8477
+          }
+        }
+      ]
+    },
+    "note": "Эки таалай кеби exact dual fortune/speech expression uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0945:b004:l006:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0945:b004:l005",
+    "before_id": "semetey-1-2013:p0945:b004:l007",
+    "source_line_ids": [
+      "semetey-1-2013:p0945:b004:l006"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 945,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0945:b004:l006",
+          "raw": "Æîîñóíóí ñûéëàï æ¿ð¿ïò¿ð.",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 214.1397,
+            "xMax": 485.0712,
+            "yMax": 227.3277
+          }
+        }
+      ]
+    },
+    "note": "Жоосунун сыйлап printed enemy vs ancestral honor uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0945:b004:l008:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0945:b004:l007",
+    "before_id": "semetey-1-2013:p0945:b004:l009",
+    "source_line_ids": [
+      "semetey-1-2013:p0945:b004:l008"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 945,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0945:b004:l008",
+          "raw": "Ààäàíûí ý÷àê áèëèïòèð,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 242.4597,
+            "xMax": 458.7684,
+            "yMax": 255.6477
+          }
+        }
+      ]
+    },
+    "note": "Ааданын exact Kojo intention/defect uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0946:b003:l030:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0946:b003:l029",
+    "before_id": "semetey-1-2013:p0946:b003:l031",
+    "source_line_ids": [
+      "semetey-1-2013:p0946:b003:l030"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 946,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0946:b003:l030",
+          "raw": "Æûéûëãàíäà àêûë æîê,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 554.9397,
+            "xMax": 223.7472,
+            "yMax": 568.1277
+          }
+        }
+      ]
+    },
+    "note": "Жыйылганда акыл жок exact assembly/thought construction uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0946:b004:l021:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0946:b004:l020",
+    "before_id": "semetey-1-2013:p0946:b004:l023",
+    "source_line_ids": [
+      "semetey-1-2013:p0946:b004:l021",
+      "semetey-1-2013:p0946:b004:l022"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 946,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0946:b004:l021",
+          "raw": "Êàäèìêèíèí ñ¿ðºò¿í",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 427.2597,
+            "xMax": 432.7488,
+            "yMax": 440.4477
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0946:b004:l022",
+          "raw": "Æàíàãûäàé äåäè – äåï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 441.4197,
+            "xMax": 449.2872,
+            "yMax": 454.6077
+          }
+        }
+      ]
+    },
+    "note": "Кадимкинин сүрөтүн exact previous portrait reference uncertain; whole verse held pending primary lexical/context review. Жанагыдай деди embedded speech syntax uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0946:b004:l034:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0946:b004:l033",
+    "before_id": "semetey-1-2013:p0946:b004:l035",
+    "source_line_ids": [
+      "semetey-1-2013:p0946:b004:l034"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 946,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0946:b004:l034",
+          "raw": "Àðìàíñûç áîëáîé ÷àëàéûí,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 611.8197,
+            "xMax": 469.3344,
+            "yMax": 625.0077
+          }
+        }
+      ]
+    },
+    "note": "Армансыз болбой чалайын double negative uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0947:b003:l007:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0947:b003:l006",
+    "before_id": "semetey-1-2013:p0947:b003:l008",
+    "source_line_ids": [
+      "semetey-1-2013:p0947:b003:l007"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 947,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0947:b003:l007",
+          "raw": "Æîë æîðãîëóó êûëòûëäàê",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 228.2997,
+            "xMax": 236.94,
+            "yMax": 241.4877
+          }
+        }
+      ]
+    },
+    "note": "Жол жорголуу кылтылдак gait phrase uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0947:b003:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0947:b003:l011",
+    "before_id": "semetey-1-2013:p0947:b003:l013",
+    "source_line_ids": [
+      "semetey-1-2013:p0947:b003:l012"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 947,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0947:b003:l012",
+          "raw": "Àéûï ÷àëûø êèøè ýêåí,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 299.3397,
+            "xMax": 231.486,
+            "yMax": 312.5277
+          }
+        }
+      ]
+    },
+    "note": "Айып чалыш exact personality/infirmity uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0947:b003:l015:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0947:b003:l014",
+    "before_id": "semetey-1-2013:p0947:b003:l016",
+    "source_line_ids": [
+      "semetey-1-2013:p0947:b003:l015"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 947,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0947:b003:l015",
+          "raw": "Êóäàé êûëãàí èøèìäè",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 342.0597,
+            "xMax": 216.1032,
+            "yMax": 355.2477
+          }
+        }
+      ]
+    },
+    "note": "Кудай кылган ишимди exact object relation uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0947:b003:l039:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0947:b003:l038",
+    "before_id": "semetey-1-2013:p0947:b005:l001",
+    "source_line_ids": [
+      "semetey-1-2013:p0947:b003:l039"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 947,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0947:b003:l039",
+          "raw": "Æåêåìå* áåëãå êóð÷àíãàí,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 682.8597,
+            "xMax": 237.5748,
+            "yMax": 696.0477
+          }
+        }
+      ]
+    },
+    "note": "Жекеме waist item uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0947:b005:l003:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0947:b005:l002",
+    "before_id": "semetey-1-2013:p0947:b005:l004",
+    "source_line_ids": [
+      "semetey-1-2013:p0947:b005:l003"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 947,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0947:b005:l003",
+          "raw": "Ý¢÷åãåð æàíäûí ýðåíè,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 171.6597,
+            "xMax": 452.172,
+            "yMax": 184.8477
+          }
+        }
+      ]
+    },
+    "note": "Эңчегер жандын precise giant epithet uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0947:b005:l014:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0947:b005:l013",
+    "before_id": "semetey-1-2013:p0947:b005:l015",
+    "source_line_ids": [
+      "semetey-1-2013:p0947:b005:l014"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 947,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0947:b005:l014",
+          "raw": "Êàëàéìàíäû ñàëáàñà",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 327.6597,
+            "xMax": 431.0964,
+            "yMax": 340.8477
+          }
+        }
+      ]
+    },
+    "note": "Калайманды салбаса negative conditional relation uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0948:b003:l032:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0948:b003:l031",
+    "before_id": "semetey-1-2013:p0948:b003:l033",
+    "source_line_ids": [
+      "semetey-1-2013:p0948:b003:l032"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 948,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0948:b003:l032",
+          "raw": "Çàéûïáóðóø* àòàíãàí.",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 583.4997,
+            "xMax": 211.7664,
+            "yMax": 596.6877
+          }
+        }
+      ]
+    },
+    "note": "Зайыпбуруш exact sacred epithet uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0948:b004:l015:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0948:b004:l014",
+    "before_id": "semetey-1-2013:p0948:b004:l016",
+    "source_line_ids": [
+      "semetey-1-2013:p0948:b004:l015"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 948,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0948:b004:l015",
+          "raw": "Êîøîé æàãûï àëãàíäà,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 342.0597,
+            "xMax": 444.7164,
+            "yMax": 355.2477
+          }
+        }
+      ]
+    },
+    "note": "Кошой жагып алганда printed lying/pleasing verb uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0948:b004:l017:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0948:b004:l016",
+    "before_id": "semetey-1-2013:p0948:b004:l018",
+    "source_line_ids": [
+      "semetey-1-2013:p0948:b004:l017"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 948,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0948:b004:l017",
+          "raw": "Êàçàíûíàí êàø êåòêåí,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 370.3797,
+            "xMax": 450.7104,
+            "yMax": 383.5677
+          }
+        }
+      ]
+    },
+    "note": "Казанынан каш кеткен exact pot idiom uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0948:b004:l019:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0948:b004:l018",
+    "before_id": "semetey-1-2013:p0948:b004:l020",
+    "source_line_ids": [
+      "semetey-1-2013:p0948:b004:l019"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 948,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0948:b004:l019",
+          "raw": "Êàïûðëàðäàí áàø êåòêåí.",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 398.6997,
+            "xMax": 462.648,
+            "yMax": 411.8877
+          }
+        }
+      ]
+    },
+    "note": "Капырлардан баш кеткен exact loss comparison uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0948:b004:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0948:b004:l024",
+    "before_id": "semetey-1-2013:p0948:b004:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0948:b004:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 948,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0948:b004:l025",
+          "raw": "Ê¿ïò¿ìä¿ òàáàð ýð ýìåñ.",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 483.8997,
+            "xMax": 452.9028,
+            "yMax": 497.0877
+          }
+        }
+      ]
+    },
+    "note": "Күптүмдү табар exact personal object uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0949:b004:l024:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0949:b004:l023",
+    "before_id": "semetey-1-2013:p0949:b004:l025",
+    "source_line_ids": [
+      "semetey-1-2013:p0949:b004:l024"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 949,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0949:b004:l024",
+          "raw": "Áàðáàðäûêòû áèëáåãåí",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 469.7397,
+            "xMax": 446.0712,
+            "yMax": 482.9277
+          }
+        }
+      ]
+    },
+    "note": "Барбардыкты билбеген exact religious negative uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0949:b004:l029:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0949:b004:l028",
+    "before_id": "semetey-1-2013:p0949:b004:l030",
+    "source_line_ids": [
+      "semetey-1-2013:p0949:b004:l029"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 949,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0949:b004:l029",
+          "raw": "Êàïòàòûï óóñóí ñàëûïòûð,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 540.7797,
+            "xMax": 473.7156,
+            "yMax": 553.9677
+          }
+        }
+      ]
+    },
+    "note": "Каптатып уусун hunting drive/poison ambiguity uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0949:b004:l034:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0949:b004:l033",
+    "before_id": "semetey-1-2013:p0949:b004:l035",
+    "source_line_ids": [
+      "semetey-1-2013:p0949:b004:l034"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 949,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0949:b004:l034",
+          "raw": "Êûçûë ìûÿí*, êºê êºéíºê",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 611.8197,
+            "xMax": 471.492,
+            "yMax": 625.0077
+          }
+        }
+      ]
+    },
+    "note": "Кызыл мыян clothing item uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0949:b004:l038:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0949:b004:l037",
+    "before_id": "semetey-1-2013:p0949:b004:l039",
+    "source_line_ids": [
+      "semetey-1-2013:p0949:b004:l038"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 949,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0949:b004:l038",
+          "raw": "Äèí áèëáåãåí áèðñèçãå,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 668.6997,
+            "xMax": 451.3428,
+            "yMax": 681.8877
+          }
+        }
+      ]
+    },
+    "note": "бирсизге exact religious epithet uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0950:b003:l031:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0950:b003:l030",
+    "before_id": "semetey-1-2013:p0950:b003:l032",
+    "source_line_ids": [
+      "semetey-1-2013:p0950:b003:l031"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 950,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0950:b003:l031",
+          "raw": "Òèëèíãåíè áèëèíáåé,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 569.0997,
+            "xMax": 204.7356,
+            "yMax": 582.2877
+          }
+        }
+      ]
+    },
+    "note": "Тилингени билинбей exact herd distribution uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0950:b004:l004:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0950:b004:l003",
+    "before_id": "semetey-1-2013:p0950:b004:l005",
+    "source_line_ids": [
+      "semetey-1-2013:p0950:b004:l004"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 950,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0950:b004:l004",
+          "raw": "Ìèíèëáåãåí æûëàñû.",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 185.8197,
+            "xMax": 437.22,
+            "yMax": 199.0077
+          }
+        }
+      ]
+    },
+    "note": "Минилбеген жыласы precise horse noun uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0950:b004:l025:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0950:b004:l024",
+    "before_id": "semetey-1-2013:p0950:b004:l026",
+    "source_line_ids": [
+      "semetey-1-2013:p0950:b004:l025"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 950,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0950:b004:l025",
+          "raw": "ªã¿ç¿ êàðûï ºç¿ ºëãºí,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 483.8997,
+            "xMax": 447.696,
+            "yMax": 497.0877
+          }
+        }
+      ]
+    },
+    "note": "Өгүзү карып өзү өлгөн ox/deceased monk relation uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0951:b003:l035:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0951:b003:l034",
+    "before_id": "semetey-1-2013:p0951:b003:l036",
+    "source_line_ids": [
+      "semetey-1-2013:p0951:b003:l035"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 951,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0951:b003:l035",
+          "raw": "Êàçàíãàïòàé êûçûë ÷îê,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 625.9797,
+            "xMax": 226.5852,
+            "yMax": 639.1677
+          }
+        }
+      ]
+    },
+    "note": "Казангаптай precise ember-size comparison uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0951:b004:l017:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0951:b004:l016",
+    "before_id": "semetey-1-2013:p0951:b004:l018",
+    "source_line_ids": [
+      "semetey-1-2013:p0951:b004:l017"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 951,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0951:b004:l017",
+          "raw": "Ñóóê ñèéäèê àë êûòàé",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 370.3797,
+            "xMax": 445.4592,
+            "yMax": 383.5677
+          }
+        }
+      ]
+    },
+    "note": "Суук сийдик age epithet uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0951:b004:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0951:b004:l019",
+    "before_id": "semetey-1-2013:p0951:b004:l021",
+    "source_line_ids": [
+      "semetey-1-2013:p0951:b004:l020"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 951,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0951:b004:l020",
+          "raw": "Àáèéèðèí êàìäàï êºòºð¿ï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 412.8597,
+            "xMax": 472.3392,
+            "yMax": 426.0477
+          }
+        }
+      ]
+    },
+    "note": "Абийирин камдап көтөрүп exact garment/exposure action uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0951:b004:l034:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0951:b004:l033",
+    "before_id": "semetey-1-2013:p0951:b004:l035",
+    "source_line_ids": [
+      "semetey-1-2013:p0951:b004:l034"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 951,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0951:b004:l034",
+          "raw": "Îí ýêè ñººì ñåðå ýêåí,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 611.8197,
+            "xMax": 447.5952,
+            "yMax": 625.0077
+          }
+        }
+      ]
+    },
+    "note": "Он эки сөөм сере exact span/width measure uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0952:b003:l021:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0952:b003:l020",
+    "before_id": "semetey-1-2013:p0952:b003:l022",
+    "source_line_ids": [
+      "semetey-1-2013:p0952:b003:l021"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 952,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0952:b003:l021",
+          "raw": "Æàïààñûí êºðñº¢ äî¢óçäàé",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 427.2597,
+            "xMax": 240.7584,
+            "yMax": 440.4477
+          }
+        }
+      ]
+    },
+    "note": "Жапаасын көрсөң доңуздай exact appearance/torment word uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0952:b004:l019:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0952:b004:l018",
+    "before_id": "semetey-1-2013:p0952:b004:l020",
+    "source_line_ids": [
+      "semetey-1-2013:p0952:b004:l019"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 952,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0952:b004:l019",
+          "raw": "Òèð¿¿ æ¿ðñº ñºç¿ à÷ûê",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 398.6997,
+            "xMax": 447.5352,
+            "yMax": 411.8877
+          }
+        }
+      ]
+    },
+    "note": "Тирүү жүрсө сөзү ачык exact characterization uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0953:b003:l035:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0953:b003:l034",
+    "before_id": "semetey-1-2013:p0953:b003:l036",
+    "source_line_ids": [
+      "semetey-1-2013:p0953:b003:l035"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 953,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0953:b003:l035",
+          "raw": "Èðìåãåíäåí æàí æåòïåéò,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 625.9797,
+            "xMax": 236.844,
+            "yMax": 639.1677
+          }
+        }
+      ]
+    },
+    "note": "Ирмегенден жан жетпейт exact wingbeat/pace idiom uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0953:b005:l004:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0953:b005:l003",
+    "before_id": "semetey-1-2013:p0953:b005:l005",
+    "source_line_ids": [
+      "semetey-1-2013:p0953:b005:l004"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 953,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0953:b005:l004",
+          "raw": "Îîçóí æûéñà çàêûìäàï,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 185.8197,
+            "xMax": 455.7288,
+            "yMax": 199.0077
+          }
+        }
+      ]
+    },
+    "note": "Оозун жыйса contrast checking rein vs speed uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0953:b005:l036:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0953:b005:l035",
+    "before_id": "semetey-1-2013:p0953:b005:l037",
+    "source_line_ids": [
+      "semetey-1-2013:p0953:b005:l036"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 953,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0953:b005:l036",
+          "raw": "Æàøûìäà êºð¿ï ºëáºä¿ì.",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 640.1397,
+            "xMax": 465.606,
+            "yMax": 653.3277
+          }
+        }
+      ]
+    },
+    "note": "Жашымда көрүп өлбөдүм exact youth/seeing negative uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0954:b004:l030:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0954:b004:l029",
+    "before_id": "semetey-1-2013:p0954:b004:l031",
+    "source_line_ids": [
+      "semetey-1-2013:p0954:b004:l030"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 954,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0954:b004:l030",
+          "raw": "Áºêñºäºí àëòû ñàé ìºíä¿ð òºã¿ë¿ï,",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 554.9397,
+            "xMax": 515.7936,
+            "yMax": 568.1277
+          }
+        }
+      ]
+    },
+    "note": "Бөксөдөн алты сай мөндүр exact six-valley/low-slope hail scope uncertain; whole verse held pending primary/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0955:b005:l003:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0955:b005:l002",
+    "before_id": "semetey-1-2013:p0955:b005:l004",
+    "source_line_ids": [
+      "semetey-1-2013:p0955:b005:l003"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 955,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0955:b005:l003",
+          "raw": "Ñèåðèíå æåð òàïïàé,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 172.3797,
+            "xMax": 437.076,
+            "yMax": 185.5677
+          }
+        }
+      ]
+    },
+    "note": "Сиерине жер таппай exact fit/urinate spelling uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0955:b005:l023:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0955:b005:l022",
+    "before_id": "semetey-1-2013:p0955:b005:l025",
+    "source_line_ids": [
+      "semetey-1-2013:p0955:b005:l023",
+      "semetey-1-2013:p0955:b005:l024"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 955,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0955:b005:l023",
+          "raw": "«Ñóóñàìûðäà Êàíûêåé,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 462.5397,
+            "xMax": 450.5544,
+            "yMax": 475.7277
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0955:b005:l024",
+          "raw": "Êàíûêåéäè Êºòºðìº",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 476.9397,
+            "xMax": 430.392,
+            "yMax": 490.1277
+          }
+        }
+      ]
+    },
+    "note": "Суусамырда Каныкей exact place vs person uncertain; whole verse held pending primary lexical/context review. Каныкейди Көтөрмө exact place construction uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0955:b005:l027:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0955:b005:l026",
+    "before_id": "semetey-1-2013:p0955:b005:l028",
+    "source_line_ids": [
+      "semetey-1-2013:p0955:b005:l027"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 955,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0955:b005:l027",
+          "raw": "Îðîéëóó æåðãå êèðåéèí,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 520.3797,
+            "xMax": 458.1972,
+            "yMax": 533.5677
+          }
+        }
+      ]
+    },
+    "note": "Оройлуу жер exact sacred territorial modifier uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0955:b005:l029:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0955:b005:l028",
+    "before_id": "semetey-1-2013:p0955:b005:l030",
+    "source_line_ids": [
+      "semetey-1-2013:p0955:b005:l029"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0936-0955.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 955,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0955:b005:l029",
+          "raw": "Îðîþí ñûéëàï æ¿ðºé¿í,",
+          "bbox": {
+            "xMin": 310.32,
+            "yMin": 549.4197,
+            "xMax": 457.32,
+            "yMax": 562.6077
+          }
+        }
+      ]
+    },
+    "note": "Ороюн сыйлап exact father-in-law memorial object uncertain; whole verse held pending primary lexical/context review."
+  },
+  {
+    "id": "semetey-1-2013:p0956:b006:l012:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0956:b006:l011",
+    "before_id": "semetey-1-2013:p0956:b006:l013",
+    "source_line_ids": [
+      "semetey-1-2013:p0956:b006:l012"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0956-0958.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 956,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0956:b006:l012",
+          "raw": "Êîøòîï êèéèï ñóóñàð áºðê",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 469.7397,
+            "xMax": 236.976,
+            "yMax": 482.9277
+          }
+        }
+      ]
+    },
+    "note": "Коштоп кийип суусар бөрк: marten-fur cap clear, paired or doubled wearing relation unresolved."
+  },
+  {
+    "id": "semetey-1-2013:p0956:b006:l020:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0956:b006:l019",
+    "before_id": "semetey-1-2013:p0956:b006:l021",
+    "source_line_ids": [
+      "semetey-1-2013:p0956:b006:l020"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0956-0958.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 956,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0956:b006:l020",
+          "raw": "Òàëòàëà¢äàï æàòêàí ÷àãû ýêåí.",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 583.2597,
+            "xMax": 267.078,
+            "yMax": 596.4477
+          }
+        }
+      ]
+    },
+    "note": "Талталаңдап жаткан чагы экен: exact талталаңдап not secured; nearby dictionary forms insufficient to infer lounging or flourishing."
+  },
+  {
+    "id": "semetey-1-2013:p0957:b003:l002:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0957:b003:l001",
+    "before_id": "semetey-1-2013:p0957:b003:l004",
+    "source_line_ids": [
+      "semetey-1-2013:p0957:b003:l002",
+      "semetey-1-2013:p0957:b003:l003"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0956-0958.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 957,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0957:b003:l002",
+          "raw": "Àòûíûí îîçó àëàêòàé",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 157.2597,
+            "xMax": 209.1504,
+            "yMax": 170.4477
+          }
+        },
+        {
+          "id": "semetey-1-2013:p0957:b003:l003",
+          "raw": "Àéáàíäûí ò¿ðê¿ ìûíäà ýêåí,",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 171.6597,
+            "xMax": 257.2848,
+            "yMax": 184.8477
+          }
+        }
+      ]
+    },
+    "note": "Атынын оозу алактай: horse mouth comparison unclear; алак does not secure palm-sized and is not silently emended to алакан. Айбандын түркү мында экен: exact түркү predicate unclear; dictionary fur garment and nearby түрк fat do not secure finest animal."
+  },
+  {
+    "id": "semetey-1-2013:p0957:b003:l005:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0957:b003:l004",
+    "before_id": "semetey-1-2013:p0957:b003:l006",
+    "source_line_ids": [
+      "semetey-1-2013:p0957:b003:l005"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0956-0958.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 957,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0957:b003:l005",
+          "raw": "Æûãà÷òûí ò¿ðê¿ ìûíäà ýêåí.",
+          "bbox": {
+            "xMin": 79.44,
+            "yMin": 199.9797,
+            "xMax": 261.588,
+            "yMax": 213.1677
+          }
+        }
+      ]
+    },
+    "note": "Жыгачтын түркү мында экен: exact түркү predicate unclear; no invented finest timber."
+  },
+  {
+    "id": "semetey-1-2013:p0958:b003:l016:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0958:b003:l015",
+    "before_id": "semetey-1-2013:p0958:b003:l017",
+    "source_line_ids": [
+      "semetey-1-2013:p0958:b003:l016"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0956-0958.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 958,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0958:b003:l016",
+          "raw": "Àëà ê¿ëä¿¿ êºéíºã¿ì,",
+          "bbox": {
+            "xMin": 76.56,
+            "yMin": 356.2197,
+            "xMax": 209.2872,
+            "yMax": 369.4077
+          }
+        }
+      ]
+    },
+    "note": "Ала күлдүү көйнөгүм: dress clear, күлдүү modifier unresolved; not silently emended to гүлдүү flowered."
+  },
+  {
+    "id": "semetey-1-2013:p0958:b004:l027:unresolved-verse",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "semetey-1-2013",
+    "after_id": "semetey-1-2013:p0958:b004:l026",
+    "before_id": "semetey-1-2013:p0958:b004:l028",
+    "source_line_ids": [
+      "semetey-1-2013:p0958:b004:l027"
+    ],
+    "evidence": "corpus/batches/pages-semetey1-0956-0958.json",
+    "source": {
+      "url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/%D0%A1%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D0%B9._%D0%91%D0%B0%D0%B0%D1%82%D1%8B%D1%80%D0%B4%D1%8B%D0%BA_%D1%8D%D0%BF%D0%BE%D1%81._1-%D0%BA%D0%B8%D1%82%D0%B5%D0%BF._%D0%A1%D0%B0%D1%8F%D0%BA%D0%B1%D0%B0%D0%B9_%D0%9A%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%B5%D0%B2%D0%B4%D0%B8%D0%BD_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B_%D0%B1%D0%BE%D1%8E%D0%BD%D1%87%D0%B0.pdf",
+      "page": 958,
+      "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
+      "segments": [
+        {
+          "id": "semetey-1-2013:p0958:b004:l027",
+          "raw": "Æûë* îîçäóêòàí áàëàíû",
+          "bbox": {
+            "xMin": 307.44,
+            "yMin": 512.4597,
+            "xMax": 452.7888,
+            "yMax": 525.6477
+          }
+        }
+      ]
+    },
+    "note": "Жыл* ооздуктан баланы: exact жыл footnoted modifier and bridle-child construction unresolved; 1960 glossary page371 did not resolve it."
   }
 ]

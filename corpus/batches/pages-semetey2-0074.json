@@ -1,0 +1,38 @@
+{
+  "part": "semetey",
+  "volume": 2,
+  "status": "draft",
+  "extraction": "sources/extracted/semetey-2-2013.lines.jsonl",
+  "source_url": "https://de-fra-1.linodeobjects.com/bizdinkgmedia/BMN/media/books/Semetei-Baatyrdyk-epos-2-kitep-Saiakbai-Karalaevdin-varianty-boiuncha.pdf",
+  "after_id": "semetey-2-2013:p0073:b005:l039",
+  "english": "corpus/batches/pages-semetey2-0074.en.txt",
+  "source_ids": [],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "semetey-2-2013:p0074:b001:l001",
+      "kind": "heading",
+      "reason": "Website watermark, decorative running title, or decorative folio on a non-text illustrated plate; not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0074:b002:l001",
+      "kind": "heading",
+      "reason": "Website watermark, decorative running title, or decorative folio on a non-text illustrated plate; not narrative verse."
+    },
+    {
+      "id": "semetey-2-2013:p0074:b003:l001",
+      "kind": "heading",
+      "reason": "Website watermark, decorative running title, or decorative folio on a non-text illustrated plate; not narrative verse."
+    }
+  ],
+  "notes": {},
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "pdf_pages": [
+      74
+    ],
+    "details": "Rendered Semetey volume 2 PDF page 74 at 1100-pixel scale and visually verified that it is a full-page non-text illustrated plate with only watermark, running title, and folio extracted. All 3 extracted positions are explicitly excluded; there is no narrative verse text. No independent manuscript collation."
+  }
+}

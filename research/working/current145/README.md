@@ -7,6 +7,8 @@ This complete 200-image scan is current inventory 145 / old inventory 966, the d
 
 Every visible verse baseline on pages 3–199 will receive a stable source ID, reviewed Kyrgyz transcription, English draft, and an explicit uncertainty status. Page 3 begins `Айза сынып жоголсо`, an exact anchor in the released 2013 *Seytek* edition. Secure printed counterparts will be preserved in the physical extraction and excluded individually from duplicate release counting; they will not be silently omitted.
 
+Current checkpoint: PDF pages **3–34**, photographed folios **191–222**, contain **964 physical narrative lines / 5,438 English words**. Every baseline in this range is represented in the canonical physical extraction. Exact printed-witness alignment is still in progress, so these positions have not yet been added to the public line total.
+
 | PDF pages | photographed folios | status |
 |---:|---:|---|
 | 1 | — | outside front cover; inspected; nonverse |

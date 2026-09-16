@@ -1,0 +1,53 @@
+{
+  "inventory": 142,
+  "old_inventory": 963,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/142.pdf",
+    "sha256": "2b1fd33d35b9fec662724180743e44a26bc44d8b347d5f99c373acf98cb6c73f",
+    "pdf_pages": 149,
+    "narrative_pdf_pages": [4, 148],
+    "folios": [2321, 2462],
+    "physical_count": 7668,
+    "count_basis": "photographed title-leaf total and manuscript per-leaf tallies"
+  },
+  "released_witness": {
+    "source_id": "seytek-2012",
+    "first_id": "seytek-2012:p0913:b004:l002",
+    "last_id": "seytek-2012:p1005:b002:l006",
+    "first_ordinal": 365621,
+    "last_ordinal": 372940,
+    "inclusive_lines": 7320,
+    "english_whitespace_words": 39020,
+    "english_regex_tokens": 39002
+  },
+  "secure_boundary_blocks": [
+    {
+      "manuscript_pdf_pages": [4, 8],
+      "folios": [2321, 2325],
+      "physical_lines": 201,
+      "release_ordinals": [365621, 365821],
+      "status": "secure sequential mapping",
+      "opening": "Каарына чыдабай,",
+      "closing": "Жер кетилип дуу болуп,"
+    },
+    {
+      "manuscript_pdf_page": 148,
+      "folio": 2462,
+      "physical_lines": 57,
+      "release_ordinals": [372884, 372940],
+      "status": "secure sequential mapping",
+      "opening": "Караңгы жок шам жарык,",
+      "closing": "Дарт кумарды чагышып,"
+    }
+  ],
+  "monotonic_episode_map": {
+    "manuscript_folios": [2321, 2462],
+    "release_ordinals": [365621, 372940],
+    "next_inventory_first_ordinal": 372941,
+    "status": "secure continuous episode-level mapping with 258 exact sequential boundary lines",
+    "secure_released_lines": 7320,
+    "unresolved_physical_count_surplus": 348,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The 348-line surplus is not localizable without diplomatic interior transcription. It may combine editorial omission, manuscript repetition, copyist counting practice, and split-versus-joined lineation."
+  }
+}

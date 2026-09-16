@@ -1,0 +1,270 @@
+{
+  "manuscript": "research/working/current146/page-036.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 35,
+  "lines_with_candidates": 7,
+  "exact_match_lines": 5,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l001",
+      "manuscript_text": "Бузук адамга түйүлүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l002",
+      "manuscript_text": "Кулак угуп, көз көргөн,",
+      "matches": [
+        {
+          "index": 1032,
+          "id": "seytek-1991-continuation:p0325:b005:l012",
+          "text": "Кулак угуп, көз көргөн,",
+          "score": 1.0
+        },
+        {
+          "index": 1108,
+          "id": "seytek-1991-continuation:p0326:b001:l046",
+          "text": "Кулак угуп, көз көргөн",
+          "score": 1.0
+        },
+        {
+          "index": 1932,
+          "id": "seytek-1991-continuation:p0335:b002:l031",
+          "text": "Кулак угуп, көз көргөн",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l003",
+      "manuscript_text": "Элдин баары мураа деп,",
+      "matches": [
+        {
+          "index": 1109,
+          "id": "seytek-1991-continuation:p0326:b001:l047",
+          "text": "Элдин баары мураа деп",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l004",
+      "manuscript_text": "Баана кылып алыптыр,",
+      "matches": [
+        {
+          "index": 1110,
+          "id": "seytek-1991-continuation:p0326:b001:l048",
+          "text": "Баана кылып алыптыр,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l005",
+      "manuscript_text": "Болбогурду ошол эл,",
+      "matches": [
+        {
+          "index": 1111,
+          "id": "seytek-1991-continuation:p0326:b001:l049",
+          "text": "Болбогурду ошол эл",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l006",
+      "manuscript_text": "Караан кылып алыптыр,",
+      "matches": [
+        {
+          "index": 1112,
+          "id": "seytek-1991-continuation:p0326:b002:l001",
+          "text": "Караан кылып алыптыр.",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l007",
+      "manuscript_text": "Ураактагы Ходынчтын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l008",
+      "manuscript_text": "Каканчынын мыктысы каны экен,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l009",
+      "manuscript_text": "Кырк хан эли кытайдан,",
+      "matches": [
+        {
+          "index": 1169,
+          "id": "seytek-1991-continuation:p0327:b001:l008",
+          "text": "Кырк кан эли кытайдан",
+          "score": 0.9444
+        },
+        {
+          "index": 2732,
+          "id": "seytek-1991-continuation:p0343:b005:l020",
+          "text": "Кырк кан эли кытайдын",
+          "score": 0.8889
+        },
+        {
+          "index": 1414,
+          "id": "seytek-1991-continuation:p0330:b003:l004",
+          "text": "Кырк кан эли кытайга,",
+          "score": 0.8571
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l010",
+      "manuscript_text": "Миң көздөрүн молу экен,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l011",
+      "manuscript_text": "Эл багар көкжал бару экен,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l012",
+      "manuscript_text": "Ходынчтын баарына,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l013",
+      "manuscript_text": "Кулак кагаз угузуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l014",
+      "manuscript_text": "Эбей, Шыгай улугу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l015",
+      "manuscript_text": "Каканга казак баштаттыр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l016",
+      "manuscript_text": "Ар жандуусу жыйылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l017",
+      "manuscript_text": "Кылычын керген кытайы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l018",
+      "manuscript_text": "Кырк хан эли кытайдын,",
+      "matches": [
+        {
+          "index": 2732,
+          "id": "seytek-1991-continuation:p0343:b005:l020",
+          "text": "Кырк кан эли кытайдын",
+          "score": 0.9444
+        },
+        {
+          "index": 1169,
+          "id": "seytek-1991-continuation:p0327:b001:l008",
+          "text": "Кырк кан эли кытайдан",
+          "score": 0.8889
+        },
+        {
+          "index": 1414,
+          "id": "seytek-1991-continuation:p0330:b003:l004",
+          "text": "Кырк кан эли кытайга,",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l019",
+      "manuscript_text": "Бээжинде жыйылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l020",
+      "manuscript_text": "Бул нур төгүлгөн Бээжинге,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l021",
+      "manuscript_text": "Бу түгөнгүс жерине,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l022",
+      "manuscript_text": "Ошондогу турган Кары хан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l023",
+      "manuscript_text": "Кары хандын көзүндө,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l024",
+      "manuscript_text": "Хан болгону он хандын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l025",
+      "manuscript_text": "Эки миң жылга толгондо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l026",
+      "manuscript_text": "Узак жашап Кары хан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l027",
+      "manuscript_text": "Эл арасы болгондо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l028",
+      "manuscript_text": "Алтайда туулуп зор болуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l029",
+      "manuscript_text": "Айдайын журту тойгон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l030",
+      "manuscript_text": "Боюнун кемин көрүптүр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l031",
+      "manuscript_text": "Бөтөн журтка чак болуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l032",
+      "manuscript_text": "Айткан сөзгө канаат,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l033",
+      "manuscript_text": "Кырк уруу кытай Каканга,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l034",
+      "manuscript_text": "Алым, салык бербеген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf036:l035",
+      "manuscript_text": "Айткан сөздү албаган.",
+      "matches": []
+    }
+  ]
+}

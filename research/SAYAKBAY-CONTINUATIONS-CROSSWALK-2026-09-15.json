@@ -1,0 +1,110 @@
+{
+  "date": "2026-09-15",
+  "target": {
+    "narrator": "Sayakbay Karalaev",
+    "titles": ["Kenen", "Alymsaryk", "Kulansaryk"],
+    "reported_lines": 15186
+  },
+  "exact_manuscript_crosswalk": [
+    {
+      "current_inventory": 145,
+      "old_inventory": 966,
+      "catalogue_title": "Сейтек",
+      "recording_year": 1946,
+      "lines": 6186,
+      "pages": 197,
+      "page_basis": "Manas Encyclopedia bibliography: pp. 191-387",
+      "record_url": "https://manuscript.bizdin.kg/рукопись/СейтекN/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-145-Seitek-Saiakba-Karalaev.pdf",
+      "sample_sha256": "3dfed3b53d3fe153c16b4b25de26b150dba281056e8d704e7dad972020ea43d2"
+    },
+    {
+      "current_inventory": 146,
+      "old_inventory": 967,
+      "catalogue_title": "Сейтек",
+      "recording_year": 1947,
+      "lines": 9000,
+      "pages": null,
+      "page_evidence": "The Manas Encyclopedia Kulansaryk entry cites current inventory 146, page 401.",
+      "record_url": "https://manuscript.bizdin.kg/рукопись/СейтекE/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-146-Seitek-Saiakba-Karalaev.pdf",
+      "sample_sha256": "6c4e8d0ac8bb63d138a323413d98109399751feed6f719f8f1a95764216c217c"
+    }
+  ],
+  "line_arithmetic": {
+    "inventory_145": 6186,
+    "inventory_146": 9000,
+    "sum": 15186,
+    "matches_reported_target_exactly": true
+  },
+  "episode_evidence": {
+    "kenen_article_url": "https://tamgasoft.kg/dict/index.php?lang=en&lfrom=kg&word=%D0%BA%D0%B5%D0%BD%D0%B5%D0%BD",
+    "kulansaryk_article_url": "https://el-sozduk.kg/kulansaryk/",
+    "covered_events": [
+      "Kenen's conception and birth",
+      "Kenen's marriage and rule",
+      "birth of Alymsaryk and Kulansaryk",
+      "Chyngtemir's invasion",
+      "Kenen's death",
+      "Zhelzhetpes's escape with the twins to Eki-Aral"
+    ],
+    "inventory_146_page_anchor": 401,
+    "unresolved_parallel_citation": {
+      "inventory": 960,
+      "page": 145,
+      "note": "The Kenen article cites inventory 960, while the exact 15,186-line arithmetic identifies current 145-146/old 966-967. Public evidence does not establish whether 960 is an overlapping telling, local-foliation reference, or citation error."
+    }
+  },
+  "printed_witness": {
+    "path": "sources/raw/manas-aki-candidate.pdf",
+    "sha256": "68bc80c49971f65cf755f6ef4d49e22396d9ca913b53b1f18aace29563f74178",
+    "publication_year_title_page": 1991,
+    "publication_year_copyright": 1990,
+    "isbn": "5-660-00194-7",
+    "continuation_pdf_pages": [315, 348],
+    "continuation_printed_pages": [314, 347],
+    "corpus_source_rows": 3154,
+    "ocr_nonempty_display_lines": 3192,
+    "reported_manuscript_lines": 15186,
+    "raw_row_difference": 12032,
+    "raw_row_coverage_percent": 20.77,
+    "comparison_warning": "Corpus/OCR rows are not guaranteed to equal archival verse-line counts.",
+    "explicitly_abridged": true,
+    "abridgement_evidence": "The preface says repetitions and lines judged artistically weak were shortened/cut while retaining composition.",
+    "ending": "Verse is followed by a parenthesized prose synopsis of the twins' escape."
+  },
+  "excluded_or_secondary_records": [
+    {
+      "current_inventory": 149,
+      "old_inventory": 4066,
+      "title": "Манас (Семетей, Сейтек, Алмсарык, Кунансарык)",
+      "reason": "No author, page count, line count, or file; cannot attribute to Sayakbay.",
+      "url": "https://manuscript.bizdin.kg/рукопись/Манас-Семетей-Сейтек-Алмсарык-Кунансарык/"
+    },
+    {
+      "inventory": "21-22",
+      "format": "mixed audio reel",
+      "duration": "23:31",
+      "reason": "Contains multiple contributors and unrelated items; Sayakbay segment has no separate duration or transcript.",
+      "url": "https://manuscript.bizdin.kg/рукопись/Отрывок-из-эпоса-Манас-Сейтек-анын-тукуму-Устный-рассказ-9-00-Посвяңение-своей-жене-3-00-Төкмө/"
+    },
+    {
+      "current_inventory": 245,
+      "old_inventory": 5181,
+      "reason": "Different later-generation tradition featuring Er Saryk; no Sayakbay attribution."
+    }
+  ],
+  "availability": {
+    "full_scans_public": false,
+    "full_transcript_public": false,
+    "public_samples": "five pages per inventory",
+    "external_messages_sent": false,
+    "corpus_modified": false
+  },
+  "acquisition_target": [
+    "Complete current inventory 145 / old 966",
+    "Complete current inventory 146 / old 967, including page 401",
+    "Catalogue cards and boundary/foliation sheets",
+    "Clarification of old inventory 960 page 145 overlap"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-15",
+  "question": "Whether the 100,000-line discrepancy reflects missing Semetey material or a numerical error",
+  "findings": {
+    "earliest_located_exact_500553": {
+      "source": "Манас энциклопедиясы, volume 2",
+      "year": 1995,
+      "local_pdf": "sources/raw/manas-encyclopedia-2-comparison.pdf"
+    },
+    "earliest_located_316157": {
+      "source": "Манас энциклопедиясы, volume 2, printed page 380",
+      "year": 1995,
+      "text": "С. Каралаев, 925—953-инв. 316157 ыр сап",
+      "ocr_error": false
+    },
+    "catalogue": {
+      "old_range": [
+        925,
+        953
+      ],
+      "current_range": [
+        104,
+        132
+      ],
+      "known_lines": 198100,
+      "records_with_counts": 27,
+      "missing_counts": [
+        925,
+        926
+      ],
+      "missing_count_pages": 603
+    },
+    "arithmetic": {
+      "required_missing_for_316157": 118057,
+      "lines_per_page_required": 195.783,
+      "required_missing_for_216157": 18057,
+      "lines_per_page_for_216157": 29.945,
+      "project_extracted_rows": 216333
+    },
+    "confidence": {
+      "printed_316157_is_real": "high",
+      "catalogue_sum": "high",
+      "316157_is_wrong": "moderate-high",
+      "intended_value_216157": "moderate",
+      "pre_1995_origin_of_500553": "low"
+    }
+  },
+  "common_breakdown": {
+    "Manas": 84513,
+    "Semetey": 316157,
+    "Seytek": 84697,
+    "continuations": 15186,
+    "total": 500553
+  },
+  "corrected_sem_candidate": {
+    "Manas": 84513,
+    "Semetey": 216157,
+    "Seytek": 84697,
+    "continuations": 15186,
+    "total": 400553
+  },
+  "alternate_breakdown": {
+    "Manas": 84830,
+    "Semetey": 397775,
+    "Seytek": 17948,
+    "total": 500553
+  },
+  "conclusion": "No public evidence supports 100,000 additional Semetey lines outside old inventories 925-953. The exact +100,000 discrepancy is most likely a component-table error propagated alongside an independently inherited 500,553 aggregate.",
+  "sources": [
+    {
+      "url": "https://new.bizdin.kg/media/books/Manas-eposu-1-tom.pdf",
+      "role": "2010 edition introduction repeats 500,553"
+    },
+    {
+      "url": "https://nlkr.gov.kg/news/manas-kyrgyz-ruhunun-ochpos-zhyldyzy/",
+      "role": "National Library repetition"
+    },
+    {
+      "url": "https://edu.gov.kg/announcements/56/",
+      "role": "official modern repetition"
+    },
+    {
+      "url": "https://mnu.kg/wp-content/uploads/2022/10/vestnik-2021-1.pdf",
+      "role": "later 316,157 repetition"
+    },
+    {
+      "url": "https://bulletennauki.ru/gallery/92_66.pdf",
+      "role": "later full breakdown"
+    },
+    {
+      "url": "https://ok.ru/group/53243993456790/topic/66989514530966",
+      "role": "alternate exact decomposition"
+    },
+    {
+      "url": "https://new.bizdin.kg/media/books/Muzyka-5-okuu-kitebi.pdf",
+      "role": "inconsistent alternate decomposition"
+    }
+  ]
+}

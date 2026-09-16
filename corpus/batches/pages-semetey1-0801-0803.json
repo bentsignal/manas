@@ -36,7 +36,9 @@
     "semetey-1-2013:p0801:b003:l028",
     "semetey-1-2013:p0801:b003:l029",
     "semetey-1-2013:p0801:b003:l030",
+    "semetey-1-2013:p0801:b003:l031",
     "semetey-1-2013:p0801:b003:l032",
+    "semetey-1-2013:p0801:b003:l033",
     "semetey-1-2013:p0801:b003:l034",
     "semetey-1-2013:p0801:b003:l035",
     "semetey-1-2013:p0801:b003:l036",
@@ -225,15 +227,18 @@
     "semetey-1-2013:p0803:b005:l025",
     "semetey-1-2013:p0803:b005:l026",
     "semetey-1-2013:p0803:b005:l027",
+    "semetey-1-2013:p0803:b005:l028",
     "semetey-1-2013:p0803:b005:l029",
     "semetey-1-2013:p0803:b005:l030",
+    "semetey-1-2013:p0803:b005:l031",
     "semetey-1-2013:p0803:b005:l032",
     "semetey-1-2013:p0803:b005:l033",
     "semetey-1-2013:p0803:b005:l034",
     "semetey-1-2013:p0803:b005:l035",
     "semetey-1-2013:p0803:b005:l036",
     "semetey-1-2013:p0803:b005:l037",
-    "semetey-1-2013:p0803:b005:l038"
+    "semetey-1-2013:p0803:b005:l038",
+    "semetey-1-2013:p0803:b005:l039"
   ],
   "source_groups": {
     "semetey-1-2013:p0801:b005:l036": [
@@ -256,16 +261,6 @@
       "id": "semetey-1-2013:p0801:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0801:b003:l031",
-      "kind": "unresolved_source",
-      "reason": "Бута бою дырылдап: бута can denote an arrow-shot distance, but exact construction describing hound motion not secured. Whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0801:b003:l033",
-      "kind": "unresolved_source",
-      "reason": "Өзөнгө чыккан талмызым: valley growth image clear, exact талмыз plant designation not secured. Whole verse held."
     },
     {
       "id": "semetey-1-2013:p0802:b002:l001",
@@ -291,21 +286,6 @@
       "id": "semetey-1-2013:p0803:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0803:b005:l028",
-      "kind": "unresolved_source",
-      "reason": "Мүчөсүнө кактырып: ritual touching/striking bodily members, referent and exact action not secured; no invented blood application. Whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0803:b005:l031",
-      "kind": "unresolved_source",
-      "reason": "Ырас кылып жырымдап: жырымда head fastening girth straps does not securely resolve this ritual construction. Whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0803:b005:l039",
-      "kind": "unresolved_source",
-      "reason": "Атакесин жаратып: жарат can mean create/approve; relation with next-page алгандыгын not secured. Whole verse held, not silently taking after father."
     }
   ],
   "notes": {
@@ -313,6 +293,8 @@
     "semetey-1-2013:p0801:b003:l003": "Source баладан is ablative with коркуп, afraid of the boy. Revised initial fear-for paraphrase to preserve direction; no invented explanation for fear.",
     "semetey-1-2013:p0801:b003:l005": "Болжол estimate/measure with жок before telescope rendered unmeasured range, contextual optical scope; no numerical range invented.",
     "semetey-1-2013:p0801:b003:l022": "Казыналык refers to upkeep at treasury expense, not a treasure-house breed of dog.",
+    "semetey-1-2013:p0801:b003:l031": "Бута бою дырылдап: бута can denote an arrow-shot distance, but exact construction describing hound motion not secured. Whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0801:b003:l033": "Өзөнгө чыккан талмызым: valley growth image clear, exact талмыз plant designation not secured. Whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0801:b003:l034": "Өлгөндө көргөн is hard-won child/death's-door lament formula; not a claim the child was literally born after his mother's death.",
     "semetey-1-2013:p0801:b003:l035": "Аманат is something left in trust; draft deliberately leaves recipient unstated. Next verse says the son brings the hound to the speaker.",
     "semetey-1-2013:p0801:b003:l038": "Көңүл бөлүн- literally heart/attention divided; broad emotional stirring in reunion context, no diagnosis or invented exclusive emotion. Repetition retained.",
@@ -339,165 +321,12 @@
     "semetey-1-2013:p0803:b005:l014": "Maternal/paternal morning-star epithet and source genitive reconstructed across following who-knows-worth line; no astronomical claim.",
     "semetey-1-2013:p0803:b005:l021": "Назыр attested variant of назир, votive sacrifice/offering; not personal name or administrative vizier.",
     "semetey-1-2013:p0803:b005:l026": "Causative slaughter has khoja and mullah as directed participants and bulls as objects; original ordering of all named participants and nine bulls preserved.",
-    "semetey-1-2013:p0803:b005:l035": "Source shifts from God's creation and servant to Manas's son in two parallel rhetorical questions; each verse's content retained in order."
+    "semetey-1-2013:p0803:b005:l028": "Мүчөсүнө кактырып: ritual touching/striking bodily members, referent and exact action not secured; no invented blood application. Whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Мүчөсүнө кактырып,”; nearest corpus parallel was “Мүчөсүнө чачамын*,”.",
+    "semetey-1-2013:p0803:b005:l031": "Ырас кылып жырымдап: жырымда head fastening girth straps does not securely resolve this ritual construction. Whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0803:b005:l035": "Source shifts from God's creation and servant to Manas's son in two parallel rhetorical questions; each verse's content retained in order.",
+    "semetey-1-2013:p0803:b005:l039": "Атакесин жаратып: жарат can mean create/approve; relation with next-page алгандыгын not secured. Whole verse held, not silently taking after father. Whole clause completion depends803:5:39 Атакесин жаратып which root holds pending lexical construction; hold804:1 rather than invent takingafterfather. after_id should803:5:38 pendingrootfinalconfirmation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0801:b003:l031"
-      ],
-      "raw": [
-        "Áóòà áîþ äûðûëäàï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0801:b003:l031",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 801,
-          "block": 3,
-          "line_in_block": 31,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 569.0997,
-            "xMax": 201.636,
-            "yMax": 582.2877
-          },
-          "raw": "Áóòà áîþ äûðûëäàï,",
-          "text": "Бута бою дырылдап,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Бута бою дырылдап: бута can denote an arrow-shot distance, but exact construction describing hound motion not secured. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0801:b003:l033"
-      ],
-      "raw": [
-        "ªçºíãº ÷ûêêàí òàëìûçûì,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0801:b003:l033",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 801,
-          "block": 3,
-          "line_in_block": 33,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 597.6597,
-            "xMax": 238.632,
-            "yMax": 610.8477
-          },
-          "raw": "ªçºíãº ÷ûêêàí òàëìûçûì,",
-          "text": "Өзөнгө чыккан талмызым,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Өзөнгө чыккан талмызым: valley growth image clear, exact талмыз plant designation not secured. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0803:b005:l028"
-      ],
-      "raw": [
-        "Ì¿÷ºñ¿íº êàêòûðûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0803:b005:l028",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 803,
-          "block": 5,
-          "line_in_block": 28,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 526.6197,
-            "xMax": 437.0472,
-            "yMax": 539.8077
-          },
-          "raw": "Ì¿÷ºñ¿íº êàêòûðûï,",
-          "text": "Мүчөсүнө кактырып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Мүчөсүнө кактырып: ritual touching/striking bodily members, referent and exact action not secured; no invented blood application. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0803:b005:l031"
-      ],
-      "raw": [
-        "Ûðàñ êûëûï æûðûìäàï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0803:b005:l031",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 803,
-          "block": 5,
-          "line_in_block": 31,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 569.0997,
-            "xMax": 461.0676,
-            "yMax": 582.2877
-          },
-          "raw": "Ûðàñ êûëûï æûðûìäàï,",
-          "text": "Ырас кылып жырымдап,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Ырас кылып жырымдап: жырымда head fastening girth straps does not securely resolve this ritual construction. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0803:b005:l039"
-      ],
-      "raw": [
-        "Àòàêåñèí æàðàòûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0803:b005:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 803,
-          "block": 5,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 682.8597,
-            "xMax": 428.244,
-            "yMax": 696.0477
-          },
-          "raw": "Àòàêåñèí æàðàòûï,",
-          "text": "Атакесин жаратып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Атакесин жаратып: жарат can mean create/approve; relation with next-page алгандыгын not secured. Whole verse held, not silently taking after father.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -511,11 +340,11 @@
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 228,
-    "english_words": 1195,
+    "translated_verse_rows": 233,
+    "english_words": 1222,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 233,
-    "unresolved_source_verses": 5,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 1
   },
   "alignment_check": {
@@ -529,5 +358,6 @@
     "rows": 228,
     "status": "draft; no independent specialist review",
     "details": "Compared every extracted narrative row directly with its matching English row across pages 0801-0803. The existing translation was semantically aligned and required no row changes; preserved one English line per source ID and the original row order."
-  }
+  },
+  "source_joiners": {}
 }

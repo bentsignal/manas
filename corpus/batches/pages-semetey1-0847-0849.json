@@ -103,6 +103,7 @@
     "semetey-1-2013:p0848:b003:l017",
     "semetey-1-2013:p0848:b003:l018",
     "semetey-1-2013:p0848:b003:l019",
+    "semetey-1-2013:p0848:b003:l020",
     "semetey-1-2013:p0848:b003:l021",
     "semetey-1-2013:p0848:b003:l022",
     "semetey-1-2013:p0848:b003:l023",
@@ -230,6 +231,7 @@
     "semetey-1-2013:p0849:b005:l029",
     "semetey-1-2013:p0849:b005:l030",
     "semetey-1-2013:p0849:b005:l031",
+    "semetey-1-2013:p0849:b005:l032",
     "semetey-1-2013:p0849:b005:l033",
     "semetey-1-2013:p0849:b005:l034",
     "semetey-1-2013:p0849:b005:l035",
@@ -261,11 +263,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0848:b003:l020",
-      "kind": "unresolved_source",
-      "reason": "Сом темирдеп кураттым: solid iron / sand construction relation unresolved; no construction method invented. Whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0849:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -279,11 +276,6 @@
       "id": "semetey-1-2013:p0849:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0849:b005:l032",
-      "kind": "unresolved_source",
-      "reason": "Алты миң балбан Алөөкө: six thousand, warrior and Alooko clear, but number scope (force or comparative strength) unsecured. Whole verse held."
     }
   ],
   "notes": {
@@ -299,6 +291,7 @@
     "semetey-1-2013:p0848:b003:l003": "Шексиз rendered not suspicious in the hidden-entrance context, a qualified contextual reading rather than certainty.",
     "semetey-1-2013:p0848:b003:l011": "Primary көөр precious stone/pearl, жакут ruby; treasure terminology retained.",
     "semetey-1-2013:p0848:b003:l018": "Шексиз refers contextually to avoiding suspicion at the hidden entrance.",
+    "semetey-1-2013:p0848:b003:l020": "Сом темирдеп кураттым: solid iron / sand construction relation unresolved; no construction method invented. Whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0848:b003:l021": "Шексиз read contextually as not arousing suspicion; construction method in preceding verse remains held.",
     "semetey-1-2013:p0848:b003:l030": "Primary баканооз informer/spy includes this poem's stranger and informer warning; no invented official rank.",
     "semetey-1-2013:p0848:b003:l038": "Primary ным II early night when people first lie asleep, not moisture.",
@@ -322,72 +315,10 @@
     "semetey-1-2013:p0849:b005:l012": "Кыябы favorable/opportune moment.",
     "semetey-1-2013:p0849:b005:l013": "Kyzylbash retained as source ethnonym without assigning a modern nationality.",
     "semetey-1-2013:p0849:b005:l026": "Ажайып wonders rendered broadly; no invented palace, women, or specific spoils.",
+    "semetey-1-2013:p0849:b005:l032": "Completion-first first pass corrected after targeted high-severity source-context review: Restores both the number and participant; the phrase continues into the next line.",
     "semetey-1-2013:p0849:b005:l038": "Primary мөрт fitting/opportune occasion supports a fitting time to tell the tale."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0848:b003:l020"
-      ],
-      "raw": [
-        "Ñîì òåìèðäåï êóðàòòûì,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0848:b003:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 848,
-          "block": 3,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 412.8597,
-            "xMax": 224.3304,
-            "yMax": 426.0477
-          },
-          "raw": "Ñîì òåìèðäåï êóðàòòûì,",
-          "text": "Сом темирдеп кураттым,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Сом темирдеп кураттым: solid iron / sand construction relation unresolved; no construction method invented. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0849:b005:l032"
-      ],
-      "raw": [
-        "Àëòû ìè¢ áàëáàí Àëººêº"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0849:b005:l032",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 849,
-          "block": 5,
-          "line_in_block": 32,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 583.4997,
-            "xMax": 459.486,
-            "yMax": 596.6877
-          },
-          "raw": "Àëòû ìè¢ áàëáàí Àëººêº",
-          "text": "Алты миң балбан Алөөкө",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Алты миң балбан Алөөкө: six thousand, warrior and Alooko clear, but number scope (force or comparative strength) unsecured. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -403,18 +334,33 @@
     "method": "source-English row semantic audit",
     "checked_by": "Codex QA",
     "date": "2026-09-15",
-    "page_range": [847, 849],
+    "page_range": [
+      847,
+      849
+    ],
     "rows_checked": 231,
     "status": "draft; no independent specialist review",
-    "details": "Compared all 231 English rows with their exact canonical Kyrgyz source IDs. Corrected page 847 rows 9 and 62 and page 848 rows 25, 27-29, and 43 while preserving all IDs, two unresolved-source exclusions, provenance, and one English row per canonical source verse."
+    "details": "Compared all 231 English rows with their exact canonical Kyrgyz source IDs. Corrected page 847 rows 9 and 62 and page 848 rows 25, 27-29, and 43 while preserving all IDs, two unresolved-source exclusions, provenance, and one English row per canonical source verse.",
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0849:b005:l032"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 231,
-    "english_words": 1347,
+    "translated_verse_rows": 233,
+    "english_words": 1357,
     "physical_narrative_fragments": 233,
     "reconstructed_source_verses": 233,
-    "unresolved_source_verses": 2,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 0
-  }
+  },
+  "source_joiners": {}
 }

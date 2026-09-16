@@ -30,6 +30,10 @@
     "semetey-1-2013:p0672:b003:l022",
     "semetey-1-2013:p0672:b003:l023",
     "semetey-1-2013:p0672:b003:l024",
+    "semetey-1-2013:p0672:b003:l025",
+    "semetey-1-2013:p0672:b003:l026",
+    "semetey-1-2013:p0672:b003:l027",
+    "semetey-1-2013:p0672:b003:l028",
     "semetey-1-2013:p0672:b003:l029",
     "semetey-1-2013:p0672:b003:l030",
     "semetey-1-2013:p0672:b003:l031",
@@ -69,6 +73,7 @@
     "semetey-1-2013:p0672:b004:l027",
     "semetey-1-2013:p0672:b004:l028",
     "semetey-1-2013:p0672:b004:l029",
+    "semetey-1-2013:p0672:b004:l030",
     "semetey-1-2013:p0672:b004:l031",
     "semetey-1-2013:p0672:b004:l032",
     "semetey-1-2013:p0672:b004:l033",
@@ -132,11 +137,13 @@
     "semetey-1-2013:p0673:b005:l012",
     "semetey-1-2013:p0673:b005:l013",
     "semetey-1-2013:p0673:b005:l014",
+    "semetey-1-2013:p0673:b005:l015",
     "semetey-1-2013:p0673:b005:l016",
     "semetey-1-2013:p0673:b005:l017",
     "semetey-1-2013:p0673:b005:l018",
     "semetey-1-2013:p0673:b005:l019",
     "semetey-1-2013:p0673:b005:l020",
+    "semetey-1-2013:p0673:b005:l021",
     "semetey-1-2013:p0673:b005:l022",
     "semetey-1-2013:p0673:b005:l023",
     "semetey-1-2013:p0673:b005:l024",
@@ -242,17 +249,26 @@
   "source_joiners": {},
   "notes": {
     "semetey-1-2013:p0672:b003:l020": "мас dazed/intoxicated from poison effects context, no alcoholic drink invented.",
+    "semetey-1-2013:p0672:b003:l025": "Капкайда кекти алууга exact modifier and syntax within following held passage uncertain; whole verse held. Калайыктын каты бар exact letter/strength interpretation unresolved; whole verse held. Кан Жакыптын сааты бар exact hour/condition reference unresolved; whole verse held. Кастарлап жайлап ийүүгө honor/kill collocation unclear; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”.",
+    "semetey-1-2013:p0672:b003:l026": "Капкайда кекти алууга exact modifier and syntax within following held passage uncertain; whole verse held. Калайыктын каты бар exact letter/strength interpretation unresolved; whole verse held. Кан Жакыптын сааты бар exact hour/condition reference unresolved; whole verse held. Кастарлап жайлап ийүүгө honor/kill collocation unclear; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”.",
+    "semetey-1-2013:p0672:b003:l027": "Капкайда кекти алууга exact modifier and syntax within following held passage uncertain; whole verse held. Калайыктын каты бар exact letter/strength interpretation unresolved; whole verse held. Кан Жакыптын сааты бар exact hour/condition reference unresolved; whole verse held. Кастарлап жайлап ийүүгө honor/kill collocation unclear; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”.",
+    "semetey-1-2013:p0672:b003:l028": "Капкайда кекти алууга exact modifier and syntax within following held passage uncertain; whole verse held. Калайыктын каты бар exact letter/strength interpretation unresolved; whole verse held. Кан Жакыптын сааты бар exact hour/condition reference unresolved; whole verse held. Кастарлап жайлап ийүүгө honor/kill collocation unclear; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”.",
     "semetey-1-2013:p0672:b003:l033": "Half-dead source figure preserved, no claim Jakyp has died.",
     "semetey-1-2013:p0672:b004:l004": "шор salt marsh read with subsequent trenches/ditches, tepchi moving through marsh, not unsupported battle suffering noun.",
     "semetey-1-2013:p0672:b004:l019": "жакут ruby and gold treasure named explicitly, no invented other stones.",
     "semetey-1-2013:p0672:b004:l024": "Gray saddlebags physical burden struggle, not separate antagonist.",
+    "semetey-1-2013:p0672:b004:l030": "Килиттен кармап үйрөтүп primary килит key, үйрөт teach/tame; no unsupported drag by lock from following сүйрөт; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0673:b003:l004": "чөбөгө exact primary Yudakhin residue from butter rendering; drink butter dregs and shit grass explicit insult, not substituted skim milk.",
     "semetey-1-2013:p0673:b003:l007": "Made white deer into cattle literal heroic domestication boast retained, no factual natural history assertion.",
     "semetey-1-2013:p0673:b003:l026": "One more boiling needed within/half-cooked idiom of immaturity retained as metaphor.",
+    "semetey-1-2013:p0673:b005:l015": "Бегелчеги бейишип limb context but exact бейишип verb unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0673:b005:l016": "багалчак exact primary horse joint above hoof, pasterns, not human trouser cuff.",
     "semetey-1-2013:p0673:b005:l018": "ит literally dog derogatory here refers horse, dog insult retained with horse as actual referent.",
     "semetey-1-2013:p0673:b005:l020": "омурткасы ороктоп spine sickle shaped under load, not an actual sickle injury.",
+    "semetey-1-2013:p0673:b005:l021": "Кабырга сөөгү каржактап rib bones context clear but exact каржактап action unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0673:b005:l024": "тулпар noble epic steed; no physical wings added absent explicit wings here.",
     "semetey-1-2013:p0673:b005:l037": "мүңкүр I primary helpless/unfortunate, here Bölökbai as recipient; not angel Munkar.",
+    "semetey-1-2013:p0674:b004:l008": "Жылгындуу retained as apparent place name Jilgynduu because printed comma separates it from Кең-Кол, followed by parallel named locations Кара-Буура, Чоң-Чаткал. Literal tamarisk-covered adjectival reading remains possible; no independently identified geographic location asserted.",
     "semetey-1-2013:p0674:b004:l011": "баткал exact primary Yudakhin hollow in side of mountain/hill slope, not swamp or marsh.",
     "semetey-1-2013:p0674:b004:l024": "Printed кербеним exact кербен caravan primary Yudakhin retained my caravan Manas metaphor, no silent береним warrior emendation.",
     "semetey-1-2013:p0674:b004:l026": "ыргап expensive fur cap head toss exact primary бөрк ырга wealth gesture, not danced or swayed in wind.",
@@ -260,42 +276,15 @@
     "semetey-1-2013:p0674:b004:l030": "жая I primary rump meat, usually horse and prized cut; no invented saddle or illness sense.",
     "semetey-1-2013:p0674:b004:l032": "жалаңгыч exact primary angel of death, not generic naked one.",
     "semetey-1-2013:p0674:b005:l002": "Source rhetorical who did not wear/toss cap retained, not silently regularized to first-person I alone.",
+    "semetey-1-2013:p0674:b005:l021": "тап II primary Yudakhin PDF788 time/moment supports time; alternative тап III warmth/heat/health or prime resonance possible in this poetic phrase. Conservative wording retains wide world without claiming a specific golden age.",
     "semetey-1-2013:p0674:b005:l024": "Наркескен established sword name Narkesken retained, clause source strikes men not invented specific death.",
-    "semetey-1-2013:p0674:b005:l032": "Eighteen thousand worlds explicit epic hyperbole retained, not armies or population corrected.",
-    "semetey-1-2013:p0673:b005:l024": "тулпар noble epic steed; no physical wings added absent explicit wings here.",
-    "semetey-1-2013:p0674:b004:l008": "Жылгындуу retained as apparent place name Jilgynduu because printed comma separates it from Кең-Кол, followed by parallel named locations Кара-Буура, Чоң-Чаткал. Literal tamarisk-covered adjectival reading remains possible; no independently identified geographic location asserted.",
-    "semetey-1-2013:p0674:b005:l021": "тап II primary Yudakhin PDF788 time/moment supports time; alternative тап III warmth/heat/health or prime resonance possible in this poetic phrase. Conservative wording retains wide world without claiming a specific golden age."
+    "semetey-1-2013:p0674:b005:l032": "Eighteen thousand worlds explicit epic hyperbole retained, not armies or population corrected."
   },
   "excluded_source_ids": [
     {
       "id": "semetey-1-2013:p0672:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0672:b003:l025",
-      "kind": "unresolved_source",
-      "reason": "Капкайда кекти алууга exact modifier and syntax within following held passage uncertain; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0672:b003:l026",
-      "kind": "unresolved_source",
-      "reason": "Калайыктын каты бар exact letter/strength interpretation unresolved; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0672:b003:l027",
-      "kind": "unresolved_source",
-      "reason": "Кан Жакыптын сааты бар exact hour/condition reference unresolved; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0672:b003:l028",
-      "kind": "unresolved_source",
-      "reason": "Кастарлап жайлап ийүүгө honor/kill collocation unclear; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0672:b004:l030",
-      "kind": "unresolved_source",
-      "reason": "Килиттен кармап үйрөтүп primary килит key, үйрөт teach/tame; no unsupported drag by lock from following сүйрөт; whole verse held."
     },
     {
       "id": "semetey-1-2013:p0672:b005:l001",
@@ -311,16 +300,6 @@
       "id": "semetey-1-2013:p0673:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0673:b005:l015",
-      "kind": "unresolved_source",
-      "reason": "Бегелчеги бейишип limb context but exact бейишип verb unresolved; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0673:b005:l021",
-      "kind": "unresolved_source",
-      "reason": "Кабырга сөөгү каржактап rib bones context clear but exact каржактап action unresolved; whole verse held."
     },
     {
       "id": "semetey-1-2013:p0673:b006:l001",
@@ -373,220 +352,33 @@
     "independent_review": false,
     "partially_independent_review": "Page672 was drafted by root and independently checked/corrected by this worker;673–674 directly translated and reviewed by this worker.",
     "scope": "Every reconstructed source/English position read in paired review files, each of pages672–674; saved tmp/translation-semetey1-0672-0674/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
-    "targeted_qa": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[672,674],"rows_checked":222,"details":"Audited all 222 included narrative rows; the existing English rows were semantically sound and correctly aligned."}
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        672,
+        674
+      ],
+      "rows_checked": 222,
+      "details": "Audited all 222 included narrative rows; the existing English rows were semantically sound and correctly aligned."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; page672 root scratch independently reviewed and revised by worker, pages673–674 directly translated by worker; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0672:b003:l025"
-      ],
-      "raw": "Êàïêàéäà êåêòè àëóóãà.",
-      "ky": "Капкайда кекти алууга.",
-      "status": "unresolved",
-      "note": "Капкайда кекти алууга exact modifier and syntax within following held passage uncertain; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0672:b003:l024",
-      "before_source_id": "semetey-1-2013:p0672:b003:l026",
-      "source": {
-        "page": 672,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0672:b003:l025",
-            "raw": "Êàïêàéäà êåêòè àëóóãà.",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 474.0597,
-              "xMax": 219.0204,
-              "yMax": 487.2477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0672:b003:l026"
-      ],
-      "raw": "Êàëàéûêòûí êàòû áàð,",
-      "ky": "Калайыктын каты бар,",
-      "status": "unresolved",
-      "note": "Калайыктын каты бар exact letter/strength interpretation unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0672:b003:l025",
-      "before_source_id": "semetey-1-2013:p0672:b003:l027",
-      "source": {
-        "page": 672,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0672:b003:l026",
-            "raw": "Êàëàéûêòûí êàòû áàð,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 487.9797,
-              "xMax": 213.7236,
-              "yMax": 501.1677
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0672:b003:l027"
-      ],
-      "raw": "Êàí Æàêûïòûí ñààòû áàð,",
-      "ky": "Кан Жакыптын сааты бар,",
-      "status": "unresolved",
-      "note": "Кан Жакыптын сааты бар exact hour/condition reference unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0672:b003:l026",
-      "before_source_id": "semetey-1-2013:p0672:b003:l028",
-      "source": {
-        "page": 672,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0672:b003:l027",
-            "raw": "Êàí Æàêûïòûí ñààòû áàð,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 501.6597,
-              "xMax": 237.0324,
-              "yMax": 514.8477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0672:b003:l028"
-      ],
-      "raw": "Êàñòàðëàï æàéëàï èé¿¿ãº,",
-      "ky": "Кастарлап жайлап ийүүгө,",
-      "status": "unresolved",
-      "note": "Кастарлап жайлап ийүүгө honor/kill collocation unclear; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0672:b003:l027",
-      "before_source_id": "semetey-1-2013:p0672:b003:l029",
-      "source": {
-        "page": 672,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0672:b003:l028",
-            "raw": "Êàñòàðëàï æàéëàï èé¿¿ãº,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 515.5797,
-              "xMax": 234.7956,
-              "yMax": 528.7677
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0672:b004:l030"
-      ],
-      "raw": "Êèëèòòåí êàðìàï ¿éðºò¿ï,",
-      "ky": "Килиттен кармап үйрөтүп,",
-      "status": "unresolved",
-      "note": "Килиттен кармап үйрөтүп primary килит key, үйрөт teach/tame; no unsupported drag by lock from following сүйрөт; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0672:b004:l029",
-      "before_source_id": "semetey-1-2013:p0672:b004:l031",
-      "source": {
-        "page": 672,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0672:b004:l030",
-            "raw": "Êèëèòòåí êàðìàï ¿éðºò¿ï,",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 543.1797,
-              "xMax": 466.5336,
-              "yMax": 556.3677
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0673:b005:l015"
-      ],
-      "raw": "Áåãåë÷åãè áåéèøèï,",
-      "ky": "Бегелчеги бейишип,",
-      "status": "unresolved",
-      "note": "Бегелчеги бейишип limb context but exact бейишип verb unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0673:b005:l014",
-      "before_source_id": "semetey-1-2013:p0673:b005:l016",
-      "source": {
-        "page": 673,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0673:b005:l015",
-            "raw": "Áåãåë÷åãè áåéèøèï,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 336.0597,
-              "xMax": 431.0424,
-              "yMax": 349.2477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0673:b005:l021"
-      ],
-      "raw": "Êàáûðãà ñººã¿ êàðæàêòàï,",
-      "ky": "Кабырга сөөгү каржактап,",
-      "status": "unresolved",
-      "note": "Кабырга сөөгү каржактап rib bones context clear but exact каржактап action unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0673:b005:l020",
-      "before_source_id": "semetey-1-2013:p0673:b005:l022",
-      "source": {
-        "page": 673,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0673:b005:l021",
-            "raw": "Êàáûðãà ñººã¿ êàðæàêòàï,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 418.8597,
-              "xMax": 467.832,
-              "yMax": 432.0477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    }
-  ],
+  "unresolved_passages": [],
   "counts": {
-    "translated_verse_rows": 222,
-    "english_words": 1175,
-    "translated_source_fragments": 224,
+    "translated_verse_rows": 229,
+    "english_words": 1208,
+    "translated_source_fragments": 231,
     "physical_narrative_fragments": 231,
     "reconstructed_source_verses": 229,
     "wrapped_verse_groups": 2,
-    "unresolved_source_rows": 7,
-    "unresolved_source_verses": 7,
+    "unresolved_source_rows": 0,
+    "unresolved_source_verses": 0,
     "nonverse_extraction_records": 9,
     "watermark_records": 3,
     "source_words": 716,

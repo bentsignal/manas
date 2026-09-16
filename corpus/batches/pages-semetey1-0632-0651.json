@@ -6,6 +6,7 @@
   "after_id": "semetey-1-2013:p0631:b004:l039",
   "english": "corpus/batches/pages-semetey1-0632-0651.en.txt",
   "source_ids": [
+    "semetey-1-2013:p0632:b003:l001",
     "semetey-1-2013:p0632:b003:l002",
     "semetey-1-2013:p0632:b003:l003",
     "semetey-1-2013:p0632:b003:l004",
@@ -151,6 +152,7 @@
     "semetey-1-2013:p0633:b005:l030",
     "semetey-1-2013:p0633:b005:l031",
     "semetey-1-2013:p0633:b005:l032",
+    "semetey-1-2013:p0633:b005:l033",
     "semetey-1-2013:p0633:b005:l034",
     "semetey-1-2013:p0633:b005:l036",
     "semetey-1-2013:p0633:b005:l037",
@@ -289,6 +291,7 @@
     "semetey-1-2013:p0635:b005:l016",
     "semetey-1-2013:p0635:b005:l017",
     "semetey-1-2013:p0635:b005:l018",
+    "semetey-1-2013:p0635:b005:l019",
     "semetey-1-2013:p0635:b005:l020",
     "semetey-1-2013:p0635:b005:l021",
     "semetey-1-2013:p0635:b005:l022",
@@ -299,6 +302,7 @@
     "semetey-1-2013:p0635:b005:l027",
     "semetey-1-2013:p0635:b005:l028",
     "semetey-1-2013:p0635:b005:l029",
+    "semetey-1-2013:p0635:b005:l030",
     "semetey-1-2013:p0635:b005:l031",
     "semetey-1-2013:p0635:b005:l032",
     "semetey-1-2013:p0635:b005:l033",
@@ -328,6 +332,7 @@
     "semetey-1-2013:p0636:b003:l018",
     "semetey-1-2013:p0636:b003:l019",
     "semetey-1-2013:p0636:b003:l020",
+    "semetey-1-2013:p0636:b003:l021",
     "semetey-1-2013:p0636:b003:l022",
     "semetey-1-2013:p0636:b003:l023",
     "semetey-1-2013:p0636:b003:l024",
@@ -408,6 +413,8 @@
     "semetey-1-2013:p0637:b003:l022",
     "semetey-1-2013:p0637:b003:l023",
     "semetey-1-2013:p0637:b003:l024",
+    "semetey-1-2013:p0637:b003:l025",
+    "semetey-1-2013:p0637:b003:l026",
     "semetey-1-2013:p0637:b003:l027",
     "semetey-1-2013:p0637:b003:l028",
     "semetey-1-2013:p0637:b003:l029",
@@ -418,6 +425,7 @@
     "semetey-1-2013:p0637:b003:l035",
     "semetey-1-2013:p0637:b003:l036",
     "semetey-1-2013:p0637:b003:l037",
+    "semetey-1-2013:p0637:b003:l038",
     "semetey-1-2013:p0637:b003:l039",
     "semetey-1-2013:p0637:b004:l001",
     "semetey-1-2013:p0637:b004:l002",
@@ -446,6 +454,7 @@
     "semetey-1-2013:p0637:b004:l025",
     "semetey-1-2013:p0637:b004:l026",
     "semetey-1-2013:p0637:b004:l027",
+    "semetey-1-2013:p0637:b004:l028",
     "semetey-1-2013:p0637:b004:l029",
     "semetey-1-2013:p0637:b004:l030",
     "semetey-1-2013:p0637:b004:l031",
@@ -660,6 +669,7 @@
     "semetey-1-2013:p0640:b004:l010",
     "semetey-1-2013:p0640:b004:l011",
     "semetey-1-2013:p0640:b004:l012",
+    "semetey-1-2013:p0640:b004:l013",
     "semetey-1-2013:p0640:b004:l014",
     "semetey-1-2013:p0640:b004:l015",
     "semetey-1-2013:p0640:b004:l016",
@@ -868,6 +878,7 @@
     "semetey-1-2013:p0643:b003:l024",
     "semetey-1-2013:p0643:b003:l025",
     "semetey-1-2013:p0643:b003:l026",
+    "semetey-1-2013:p0643:b003:l027",
     "semetey-1-2013:p0643:b003:l028",
     "semetey-1-2013:p0643:b003:l029",
     "semetey-1-2013:p0643:b003:l030",
@@ -904,6 +915,7 @@
     "semetey-1-2013:p0643:b005:l022",
     "semetey-1-2013:p0643:b005:l023",
     "semetey-1-2013:p0643:b005:l024",
+    "semetey-1-2013:p0643:b005:l025",
     "semetey-1-2013:p0643:b005:l026",
     "semetey-1-2013:p0643:b005:l027",
     "semetey-1-2013:p0643:b005:l028",
@@ -927,6 +939,7 @@
     "semetey-1-2013:p0644:b003:l007",
     "semetey-1-2013:p0644:b003:l008",
     "semetey-1-2013:p0644:b003:l009",
+    "semetey-1-2013:p0644:b003:l010",
     "semetey-1-2013:p0644:b003:l011",
     "semetey-1-2013:p0644:b003:l012",
     "semetey-1-2013:p0644:b003:l013",
@@ -1187,6 +1200,7 @@
     "semetey-1-2013:p0647:b003:l036",
     "semetey-1-2013:p0647:b003:l037",
     "semetey-1-2013:p0647:b003:l038",
+    "semetey-1-2013:p0647:b003:l039",
     "semetey-1-2013:p0647:b004:l001",
     "semetey-1-2013:p0647:b004:l002",
     "semetey-1-2013:p0647:b004:l003",
@@ -1211,6 +1225,7 @@
     "semetey-1-2013:p0647:b004:l022",
     "semetey-1-2013:p0647:b004:l023",
     "semetey-1-2013:p0647:b004:l024",
+    "semetey-1-2013:p0647:b004:l025",
     "semetey-1-2013:p0647:b004:l026",
     "semetey-1-2013:p0647:b004:l027",
     "semetey-1-2013:p0647:b004:l028",
@@ -1219,6 +1234,7 @@
     "semetey-1-2013:p0647:b004:l031",
     "semetey-1-2013:p0647:b004:l032",
     "semetey-1-2013:p0647:b004:l033",
+    "semetey-1-2013:p0647:b004:l035",
     "semetey-1-2013:p0647:b004:l036",
     "semetey-1-2013:p0647:b004:l037",
     "semetey-1-2013:p0647:b004:l038",
@@ -1252,6 +1268,7 @@
     "semetey-1-2013:p0648:b003:l027",
     "semetey-1-2013:p0648:b003:l028",
     "semetey-1-2013:p0648:b003:l029",
+    "semetey-1-2013:p0648:b003:l030",
     "semetey-1-2013:p0648:b003:l031",
     "semetey-1-2013:p0648:b003:l032",
     "semetey-1-2013:p0648:b003:l033",
@@ -1392,6 +1409,8 @@
     "semetey-1-2013:p0650:b003:l013",
     "semetey-1-2013:p0650:b003:l014",
     "semetey-1-2013:p0650:b003:l015",
+    "semetey-1-2013:p0650:b003:l016",
+    "semetey-1-2013:p0650:b003:l017",
     "semetey-1-2013:p0650:b003:l018",
     "semetey-1-2013:p0650:b003:l019",
     "semetey-1-2013:p0650:b003:l020",
@@ -1402,6 +1421,7 @@
     "semetey-1-2013:p0650:b003:l025",
     "semetey-1-2013:p0650:b003:l026",
     "semetey-1-2013:p0650:b003:l027",
+    "semetey-1-2013:p0650:b003:l028",
     "semetey-1-2013:p0650:b003:l029",
     "semetey-1-2013:p0650:b003:l030",
     "semetey-1-2013:p0650:b003:l031",
@@ -1508,6 +1528,7 @@
     "semetey-1-2013:p0651:b005:l018",
     "semetey-1-2013:p0651:b005:l019",
     "semetey-1-2013:p0651:b005:l020",
+    "semetey-1-2013:p0651:b005:l021",
     "semetey-1-2013:p0651:b005:l022",
     "semetey-1-2013:p0651:b005:l023",
     "semetey-1-2013:p0651:b005:l024",
@@ -1607,48 +1628,57 @@
   },
   "source_joiners": {},
   "notes": {
+    "semetey-1-2013:p0632:b003:l001": "Амал ташта кетеби exact stone/endeavor idiom unresolved; whole verse held, no guessed wasted hopes. Completion-first first pass: Low-confidence approximate rendering for “Амал ташта кетеби,”; nearest corpus parallel was “Амалым минтип кетеби?”.",
     "semetey-1-2013:p0632:b003:l007": "Канжайлак retained Kanjailak apparent pasture place, source1301:3:28 associates it with keeping horses in Talas; locative English on supplied for elliptical nominal verse, no invented person.",
     "semetey-1-2013:p0632:b003:l008": "тайтаңда primary Yudakhin тайтакта spread legs/walk wide-legged, dream swagger not invented dance.",
-    "semetey-1-2013:p0632:b004:l018": "бадана primary Yudakhin mail/armor, source wearing none retained despite surrounding ragged clothing description.",
     "semetey-1-2013:p0632:b004:l017": "май куйрук fleshy buttocks covered with game hides literal human destitution, no sexualization.",
+    "semetey-1-2013:p0632:b004:l018": "бадана primary Yudakhin mail/armor, source wearing none retained despite surrounding ragged clothing description.",
     "semetey-1-2013:p0632:b004:l026": "борук primary Yudakhin two-year wether, same animal preceding630 vow, gray not brown color.",
-    "semetey-1-2013:p0633:b003:l009": "Кудайдын жогун кубалап literal chasing what God lost, hunting context retained without replacing the unusual metaphor with invented game species.",
     "semetey-1-2013:p0633:b003:l007": "дубалап uttering spells/prayers over arrows primary дуба, no invented arrow enchantment effect.",
+    "semetey-1-2013:p0633:b003:l009": "Кудайдын жогун кубалап literal chasing what God lost, hunting context retained without replacing the unusual metaphor with invented game species.",
     "semetey-1-2013:p0633:b003:l023": "Source со¸м legacy artifact visually соём, translated slaughter; raw retained without normalization revision.",
     "semetey-1-2013:p0633:b005:l005": "сыр найза painted/lacquered spear, pinewood explicit карагай, no invented metal shaft.",
     "semetey-1-2013:p0633:b005:l027": "Twelve years since seeing face source repetition retained, no conflation with Manas death arithmetic.",
+    "semetey-1-2013:p0633:b005:l033": "Кызырлуу күнүң бөлдүңбү blessed day divide phrase unclear; no silent болдуңбу emendation, whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Кызырлуу күнүң бөлдүңбү,”; nearest corpus parallel was “Кызырлуу кыйын зоо болдуң,”.",
     "semetey-1-2013:p0634:b003:l010": "будур primary Yudakhin hilly ground, stag return joy metaphor not an added literal hunt.",
     "semetey-1-2013:p0634:b003:l012": "Generous one alive again metaphorical succession through Semetey retained as spoken assertion, no narrator resurrection explanation added.",
+    "semetey-1-2013:p0634:b003:l036": "Source parenthesis калаар retained with parenthetic being in English instead of silently dropping editorial marking.",
     "semetey-1-2013:p0634:b004:l002": "мураа II2 primary Yudakhin faithful devoted friend/support, not only material inheritance.",
     "semetey-1-2013:p0634:b004:l019": "Black gun and Arkesken read as weapon list continuing swords/guns14; Arkesken established all-cutting sword name, conjunction supplied rather than reclassifying named sword as gun.",
     "semetey-1-2013:p0634:b004:l024": "кереш primary Yudakhin contend/press against one another, retained competing at bellows next to consultation with smith patron Döötü; no invented enemy.",
-    "semetey-1-2013:p0634:b003:l036": "Source parenthesis калаар retained with parenthetic being in English instead of silently dropping editorial marking.",
     "semetey-1-2013:p0634:b004:l039": "атка кондуруп receiving name, not mounting horses; forty guards named designation.",
-    "semetey-1-2013:p0635:b003:l020": "агала I primary Yudakhin ала mottled/piebald; graying head image retained without invented disease.",
     "semetey-1-2013:p0635:b003:l018": "өлчөөсүн literally its measure/extent refers visible condition of returning destitute men, not physical measuring action.",
-    "semetey-1-2013:p0635:b005:l002": "ой lowland sense read with camping, not unrelated thoughts; тартып moving toward.",
+    "semetey-1-2013:p0635:b003:l020": "агала I primary Yudakhin ала mottled/piebald; graying head image retained without invented disease.",
     "semetey-1-2013:p0635:b003:l038": "Exact primary Yudakhin бөрк ырга shake cap or toss head wearing costly fur cap as sign of wealth, retained toss head with preceding caps.",
-    "semetey-1-2013:p0635:b005:l034": "шилби primary Yudakhin honeysuckle shrub, staff made of it not generic whip.",
+    "semetey-1-2013:p0635:b005:l002": "ой lowland sense read with camping, not unrelated thoughts; тартып moving toward.",
+    "semetey-1-2013:p0635:b005:l019": "Жетик качып, артыптыр exact relation of жетик to fleeing/putting coat on uncertain; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0635:b005:l024": "Source explicit дүйнө бок retained world is shit; preceding curse idiom rendered damn it rather than euphemism.",
+    "semetey-1-2013:p0635:b005:l030": "Караалдуу жетим келет exact adjective unclear; primary караал sight/aim does not support guessed destined, whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0635:b005:l034": "шилби primary Yudakhin honeysuckle shrub, staff made of it not generic whip.",
     "semetey-1-2013:p0636:b003:l003": "кызыталак explicit curse retained daughter-damning compound, treacherous world formula not softened.",
     "semetey-1-2013:p0636:b003:l016": "баргек primary Yudakhin support/delight of life, affectionate Semetey address not unknown proper name.",
+    "semetey-1-2013:p0636:b003:l021": "Уламадан уладым exact action relation continuation/learned teller unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0636:b003:l025": "туу unbroken/nonbreeding courser qualification, чунагым affectionate dear one; no clipped ears injury invented.",
     "semetey-1-2013:p0636:b003:l028": "убай I primary Yudakhin убайым anxiety/grief, not second sense kindness.",
     "semetey-1-2013:p0636:b004:l012": "тага and таяке synonymous maternal uncle, English plural retains relationship without inventing paternal uncle.",
     "semetey-1-2013:p0636:b004:l017": "бүтөп stopping up/closing, emotional choked with anger taken with following grief, no added violent act.",
-    "semetey-1-2013:p0636:b004:l025": "коңгурап primary Yudakhin low closed-mouth weeping; low sobbing not bells.",
     "semetey-1-2013:p0636:b004:l022": "Source laudatory host routing Kaldai retained despite surrounding present young Semetey, not silently reassigned to father.",
+    "semetey-1-2013:p0636:b004:l025": "коңгурап primary Yudakhin low closed-mouth weeping; low sobbing not bells.",
     "semetey-1-2013:p0637:b003:l021": "борум primary Yudakhin form/appearance, here the condition in which speaker finds himself; no alternative lexical sense invented.",
     "semetey-1-2013:p0637:b003:l023": "сонун primary Yudakhin sense2 trouble/wicked deed, not wonderful novelty.",
+    "semetey-1-2013:p0637:b003:l025": "Ачкыч алган алтоону accusative six key takers relation to next loading unclear; whole verse held. Абыке кулга арттырып linked previous accusative key takers, precise loading/blame action unclear; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Ачкыч алган алтоону,”; nearest corpus parallel was “Кылыч алган шайдооту,”.",
+    "semetey-1-2013:p0637:b003:l026": "Ачкыч алган алтоону accusative six key takers relation to next loading unclear; whole verse held. Абыке кулга арттырып linked previous accusative key takers, precise loading/blame action unclear; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Ачкыч алган алтоону,”; nearest corpus parallel was “Кылыч алган шайдооту,”.",
     "semetey-1-2013:p0637:b003:l028": "Кайыпчынын retained apparent cave toponym Kayipchi possessive, no invented supernatural cave owner.",
+    "semetey-1-2013:p0637:b003:l038": "Желеден төө чатышып camel tether entanglement exact combat idiom unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0637:b004:l004": "Source explicitly excludes Ajibai and elder Bakai from forty companions culpability, retained.",
     "semetey-1-2013:p0637:b004:l014": "сом эт thick flesh over ribs, not a severed body part or metaphorical kin; next Kirgilchal shot him.",
+    "semetey-1-2013:p0637:b004:l028": "Суук дорбосун салдырып cold feedbag image meaning unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0637:b004:l035": "алапай таппай primary exact bewildered/lost composure, no invented destination.",
     "semetey-1-2013:p0637:b004:l039": "баана primary shelter/protection, explicit Manas tomb refuge preserved.",
     "semetey-1-2013:p0638:b003:l010": "каргылуу кара тоо primary Yudakhin inaccessible mountain and metaphor dependable protector; mountain image retained.",
     "semetey-1-2013:p0638:b003:l016": "Literal missing leg retained with next limping, no silent conversion to solely bereaved companion metaphor.",
-    "semetey-1-2013:p0638:b003:l035": "Айсоорума retained Aisooru with possessive, no invented relationship or gender.",
     "semetey-1-2013:p0638:b003:l034": "кабышта primary folding in layers; magical cauldron folding retained, not corrected into ordinary rigid vessel.",
+    "semetey-1-2013:p0638:b003:l035": "Айсоорума retained Aisooru with possessive, no invented relationship or gender.",
     "semetey-1-2013:p0638:b004:l002": "Eightfold folded handles literal source marvel retained, distinct forty handles total.",
     "semetey-1-2013:p0638:b004:l008": "мураапы here inherited cauldron legacy/support not a new kinsman; object explicit.",
     "semetey-1-2013:p0638:b004:l015": "Кырчындуу retained apparent place Kyrchinduu in route; no invented botanical species.",
@@ -1665,14 +1695,15 @@
     "semetey-1-2013:p0640:b003:l007": "төкөр primary Yudakhin lame with exact төкөр уста Бөлөкбай example; not clumsy smith.",
     "semetey-1-2013:p0640:b003:l026": "аш кайнабас literal food would not boil retained unusual descriptor without silently deleting negative.",
     "semetey-1-2013:p0640:b003:l029": "бардигер primary all/everything available, not divine epithet барбардигер; whole vowed wether into cauldron.",
+    "semetey-1-2013:p0640:b004:l013": "Кайсап бала баштабайт exact negative begin relation to gulping and reserving Bakai portion unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0640:b004:l018": "амаз primary exact намаз prayers, no spelling emendation to original.",
     "semetey-1-2013:p0640:b004:l033": "Bakai addresses himself do not remain after Manas death, lament retained without inserted action.",
     "semetey-1-2013:p0640:b004:l039": "казы horse belly/rib fat, not automatically sausage; cutting/eating source explicit.",
     "semetey-1-2013:p0641:b003:l019": "ичи ысыйт affectionate warming following comic curse, not fever or new rage.",
     "semetey-1-2013:p0641:b003:l021": "телегейи тең completeness of good fortune, source heroic body description follows separately.",
     "semetey-1-2013:p0641:b005:l022": "Narrator uncertainty Таң, билбейбиз, чын болсо expressly preserved, miracle not asserted with certainty.",
-    "semetey-1-2013:p0641:b005:l036": "Зайыпбуруш qualified сайыппуруш conquering lord, exact primary Manas encyclopedia and Bakchiev glossary precedent, not wife or new person.",
     "semetey-1-2013:p0641:b005:l035": "Канзаада title prince read with caliph blessing, no fabricated personal name.",
+    "semetey-1-2013:p0641:b005:l036": "Зайыпбуруш qualified сайыппуруш conquering lord, exact primary Manas encyclopedia and Bakchiev glossary precedent, not wife or new person.",
     "semetey-1-2013:p0642:b003:l011": "Медиян retained Mediyan apparent geographical spelling, not silently normalized to preceding Medina.",
     "semetey-1-2013:p0642:b003:l018": "Олуяттын retained apparent lineage/name Oluyat as printed; no invented genealogy beyond genitive of.",
     "semetey-1-2013:p0642:b003:l030": "башаа primary exact бадыша sovereign; same title in4:12, not unrelated head or place.",
@@ -1683,33 +1714,40 @@
     "semetey-1-2013:p0643:b003:l002": "доо legal claim/dispute, clothes for disputes distinguished from battle and khan garments; no silent giant дөө emendation.",
     "semetey-1-2013:p0643:b003:l005": "Lice and dirt reserve changes read with preceding lest infestation and soiling; thousand separate changes retains hyperbole.",
     "semetey-1-2013:p0643:b003:l026": "шуркуя primary sense2 bold/daring woman, Kanykei praised as accomplished; no unsupported sexual slur.",
+    "semetey-1-2013:p0643:b003:l027": "Бек арынап таштаган aryna dedicate versus aryn tire/grieve exact action unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0643:b005:l002": "аркагы жоон exact thick weft cloth; сарала yellow mottled and карала black mottled following source, no invented fiber.",
-    "semetey-1-2013:p0643:b005:l037": "келеме II primary келе II braid ornament, күрмө sleeveless vest, бото II neckband; broad neckband not camel calf or fireclay.",
+    "semetey-1-2013:p0643:b005:l025": "Каялары көрүнгөн nakedness context clear but exact кая anatomical lexeme lacks primary support; whole verse held rather than guess testicles. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0643:b005:l036": "торгой көз small mail rings likened to lark eyes, not literal bird eyes mounted on garment.",
-    "semetey-1-2013:p0644:b003:l013": "келеп темир exact Yudakhin thin metal wire; мадат causative мада thrust/insert, worked into garment, not iron rod.",
+    "semetey-1-2013:p0643:b005:l037": "келеме II primary келе II braid ornament, күрмө sleeveless vest, бото II neckband; broad neckband not camel calf or fireclay.",
     "semetey-1-2013:p0644:b003:l004": "Орунбоор rendered Orenburg conventional place name, Маргалаң Margilan; source itinerary not historically corrected.",
-    "semetey-1-2013:p0644:b004:l016": "бейпай primary suffering/anguish, not barefoot or unarmed; bөөдө needlessly retained.",
-    "semetey-1-2013:p0644:b004:l038": "касаба II exact primary асаба banner with касаба колдо калкылдап example, not headdress.",
+    "semetey-1-2013:p0644:b003:l010": "Эгенди темир кайдасын apparent iron filings context but exact кайдасын unresolved; whole verse held without repairing source. Completion-first first pass: Low-confidence approximate rendering for “Эгенди темир кайдасын”; nearest corpus parallel was “Менин атам Темир кандан”.",
+    "semetey-1-2013:p0644:b003:l013": "келеп темир exact Yudakhin thin metal wire; мадат causative мада thrust/insert, worked into garment, not iron rod.",
     "semetey-1-2013:p0644:b003:l038": "Parenthesis begins source question and ends next page4:2, retained across independent verses.",
     "semetey-1-2013:p0644:b004:l006": "Manas alive again narrative metaphor repeated joy restoration retained without changing to literal resurrection exposition.",
+    "semetey-1-2013:p0644:b004:l016": "бейпай primary suffering/anguish, not barefoot or unarmed; bөөдө needlessly retained.",
+    "semetey-1-2013:p0644:b004:l038": "касаба II exact primary асаба banner with касаба колдо калкылдап example, not headdress.",
     "semetey-1-2013:p0645:b003:l003": "кулача exact primary кула dun color, no armspan mistranslation.",
     "semetey-1-2013:p0645:b003:l006": "көйкашка primary көй I1 outstanding/excellent with exact warriors example, not white blaze applied to human heads.",
     "semetey-1-2013:p0645:b003:l028": "Source planned giving mother to one of six elder kin retained as speech, no endorsement or historical correction.",
     "semetey-1-2013:p0645:b004:l007": "Eighty days source explicitly differs from sixty days before and after; retained without reconciliation.",
+    "semetey-1-2013:p0645:b004:l025": "Жаңырыктын Жар-Кыя retained apparent nested place designation Jangirik/Jar-Kiya, not invented route geography.",
     "semetey-1-2013:p0645:b004:l026": "жалгыз малдын чубама exact primary Yudakhin single-file livestock trail.",
     "semetey-1-2013:p0645:b004:l029": "багалак II exact абалак horn striker in ordo game, playing action interpreted accordingly, not moving trouser cuffs.",
-    "semetey-1-2013:p0645:b004:l025": "Жаңырыктын Жар-Кыя retained apparent nested place designation Jangirik/Jar-Kiya, not invented route geography.",
     "semetey-1-2013:p0646:b003:l009": "кысыр тай exact primary foal/yearling whose mother remained barren so it continues suckling, not sterile yearling.",
-    "semetey-1-2013:p0646:b003:l029": "болжош primary guiding sign with exact ободогу жылдыздай болжош болуп берейин guiding star example; Bakai guide simile, not invented astrologer.",
     "semetey-1-2013:p0646:b003:l028": "бааша qualified metathesis башаа sovereign, source unchanged.",
+    "semetey-1-2013:p0646:b003:l029": "болжош primary guiding sign with exact ободогу жылдыздай болжош болуп берейин guiding star example; Bakai guide simile, not invented astrologer.",
     "semetey-1-2013:p0646:b004:l013": "даңкан primary sense2 clod thrown by horse hoof, not saucepan/helmet.",
     "semetey-1-2013:p0646:b004:l026": "Көкчолок horse name received after mane/tail loss, retained Kökcholok; no unprinted alternate horse identity.",
     "semetey-1-2013:p0646:b004:l037": "ороюн read harsh character from primary орой II with preceding Abyke/Köbösh conduct, distinguished from following арбак ancestral spirit.",
     "semetey-1-2013:p0647:b003:l030": "көркоо primary sense3 bloodthirsty, speaker killed sixty men; no literal vampire invented.",
+    "semetey-1-2013:p0647:b003:l039": "Беш жүз түтүн коңулчу exact коңулчу qualifier unresolved, no silent коңшу neighbor emendation; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0647:b004:l010": "Horse tossing likened to woman widowed, source cross-gender simile retained, not changed to dead rider assertion.",
     "semetey-1-2013:p0647:b004:l011": "окоро primary reins braid/thong, not a bit or spur.",
+    "semetey-1-2013:p0647:b004:l025": "Көрүнгөнүң табылып what appeared found formula precise referent/action unclear; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Көрүнгөнүң табылып,”; nearest corpus parallel was “Төрөсү төрдөн табылып,”.",
     "semetey-1-2013:p0647:b004:l031": "болпоң primary plump pleasant fullness, falcon metaphor for boy retained.",
     "semetey-1-2013:p0647:b004:l033": "чолпон morning star affectionate metaphor alongside gray hawk, not additional proper character.",
+    "semetey-1-2013:p0647:b004:l035": "Беш жүз түтүн коңулчу repeated exact unresolved qualifier; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0648:b003:l030": "Бакай, какшаганда бу башка exact syntactic relation lament/this head/otherwise unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0648:b003:l031": "Кадыр түн Night of Power Islamic sacred night, not merely a valued ordinary evening.",
     "semetey-1-2013:p0648:b003:l039": "Улукмалуу qualified venerable from улук great/honored, applied weeping elder, no new personal name.",
     "semetey-1-2013:p0648:b004:l002": "Шай primary patron/protector, not tea or physical equipment, lion Bakai supported spiritually.",
@@ -1725,7 +1763,11 @@
     "semetey-1-2013:p0649:b005:l038": "Six reaches literal алты арыш hyperbole, no conversion to unsupported named nations.",
     "semetey-1-2013:p0650:b003:l007": "алат exact primary наалат woe/curse interjection with тура тур example, not a proper name.",
     "semetey-1-2013:p0650:b003:l011": "кызыл май primary overworked horse exhausted/broken-winded, not red fat literal wound.",
+    "semetey-1-2013:p0650:b003:l016": "Тайлабасаң жерге кир conditional тайла unresolved, no silent stop verb; whole verse held. Тайлабасаң көргө кир repeated conditional тайла unresolved; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Тайлабасаң жерге кир,”; nearest corpus parallel was “Такасы жерге кириптир,”.",
+    "semetey-1-2013:p0650:b003:l017": "Тайлабасаң жерге кир conditional тайла unresolved, no silent stop verb; whole verse held. Тайлабасаң көргө кир repeated conditional тайла unresolved; whole verse held. Completion-first first pass: Low-confidence approximate rendering for “Тайлабасаң жерге кир,”; nearest corpus parallel was “Такасы жерге кириптир,”.",
     "semetey-1-2013:p0650:b003:l022": "жүн кыл primary ruin valuable thing, six reaches martial hyperbole not wool manufacturing.",
+    "semetey-1-2013:p0650:b003:l028": "Көк сүлөөсүн, огой бөрк exact огой cap qualifier unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0650:b003:l032": "Primary Yudakhin жой I exact жойболот epic sword / разящий булат cleaving steel; spear and sword list, not unsupported metal quality. Cached PDF284/printed284 entry immediately before жок285; source retained.",
     "semetey-1-2013:p0650:b004:l013": "сонун sense2 wicked deed/trouble, ironic fine trick not narrator approval.",
     "semetey-1-2013:p0650:b004:l024": "Five nines with mare at head source offering unit retained, no unsupported species for remaining animals.",
     "semetey-1-2013:p0650:b004:l029": "Repeated striking down Baitailak retained; source does not explicitly say he died, no death invented.",
@@ -1734,20 +1776,15 @@
     "semetey-1-2013:p0651:b003:l030": "Fattened lamb and sweet head source nominal images retained in boy hospitality context without inventing extra slaughtered animal head.",
     "semetey-1-2013:p0651:b003:l032": "бор III exact primary бор кайнат boil vigorously, not chalk or wine.",
     "semetey-1-2013:p0651:b003:l036": "өлгөндө көргөн idiomatic extreme hardship before seeing orphan, not narrator claim host already dead.",
-    "semetey-1-2013:p0651:b005:l013": "бил I primary elephant, loaded beast retained fantastical scale, not silently бел ridge.",
     "semetey-1-2013:p0651:b005:l003": "чочко кан derogatory swine khan for grandfather retained as source language, no new identity supplied.",
-    "semetey-1-2013:p0650:b003:l032": "Primary Yudakhin жой I exact жойболот epic sword / разящий булат cleaving steel; spear and sword list, not unsupported metal quality. Cached PDF284/printed284 entry immediately before жок285; source retained."
+    "semetey-1-2013:p0651:b005:l013": "бил I primary elephant, loaded beast retained fantastical scale, not silently бел ridge.",
+    "semetey-1-2013:p0651:b005:l021": "Туурасы кадыр күйгөн чаң exact place/esteem/burning dust syntax unresolved; whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
   },
   "excluded_source_ids": [
     {
       "id": "semetey-1-2013:p0632:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0632:b003:l001",
-      "kind": "unresolved_source",
-      "reason": "Амал ташта кетеби exact stone/endeavor idiom unresolved; whole verse held, no guessed wasted hopes."
     },
     {
       "id": "semetey-1-2013:p0632:b005:l001",
@@ -1763,11 +1800,6 @@
       "id": "semetey-1-2013:p0633:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0633:b005:l033",
-      "kind": "unresolved_source",
-      "reason": "Кызырлуу күнүң бөлдүңбү blessed day divide phrase unclear; no silent болдуңбу emendation, whole verse held."
     },
     {
       "id": "semetey-1-2013:p0633:b006:l001",
@@ -1795,16 +1827,6 @@
       "reason": "Printer signature, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0635:b005:l019",
-      "kind": "unresolved_source",
-      "reason": "Жетик качып, артыптыр exact relation of жетик to fleeing/putting coat on uncertain; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0635:b005:l030",
-      "kind": "unresolved_source",
-      "reason": "Караалдуу жетим келет exact adjective unclear; primary караал sight/aim does not support guessed destined, whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0635:b006:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1815,11 +1837,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0636:b003:l021",
-      "kind": "unresolved_source",
-      "reason": "Уламадан уладым exact action relation continuation/learned teller unresolved; whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0636:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1828,26 +1845,6 @@
       "id": "semetey-1-2013:p0637:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0637:b003:l025",
-      "kind": "unresolved_source",
-      "reason": "Ачкыч алган алтоону accusative six key takers relation to next loading unclear; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0637:b003:l026",
-      "kind": "unresolved_source",
-      "reason": "Абыке кулга арттырып linked previous accusative key takers, precise loading/blame action unclear; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0637:b003:l038",
-      "kind": "unresolved_source",
-      "reason": "Желеден төө чатышып camel tether entanglement exact combat idiom unresolved; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0637:b004:l028",
-      "kind": "unresolved_source",
-      "reason": "Суук дорбосун салдырып cold feedbag image meaning unresolved; whole verse held."
     },
     {
       "id": "semetey-1-2013:p0637:b005:l001",
@@ -1878,11 +1875,6 @@
       "id": "semetey-1-2013:p0640:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0640:b004:l013",
-      "kind": "unresolved_source",
-      "reason": "Кайсап бала баштабайт exact negative begin relation to gulping and reserving Bakai portion unresolved; whole verse held."
     },
     {
       "id": "semetey-1-2013:p0640:b005:l001",
@@ -1920,19 +1912,9 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0643:b003:l027",
-      "kind": "unresolved_source",
-      "reason": "Бек арынап таштаган aryna dedicate versus aryn tire/grieve exact action unresolved; whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0643:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0643:b005:l025",
-      "kind": "unresolved_source",
-      "reason": "Каялары көрүнгөн nakedness context clear but exact кая anatomical lexeme lacks primary support; whole verse held rather than guess testicles."
     },
     {
       "id": "semetey-1-2013:p0643:b006:l001",
@@ -1943,11 +1925,6 @@
       "id": "semetey-1-2013:p0644:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0644:b003:l010",
-      "kind": "unresolved_source",
-      "reason": "Эгенди темир кайдасын apparent iron filings context but exact кайдасын unresolved; whole verse held without repairing source."
     },
     {
       "id": "semetey-1-2013:p0644:b005:l001",
@@ -1980,21 +1957,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0647:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Беш жүз түтүн коңулчу exact коңулчу qualifier unresolved, no silent коңшу neighbor emendation; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0647:b004:l025",
-      "kind": "unresolved_source",
-      "reason": "Көрүнгөнүң табылып what appeared found formula precise referent/action unclear; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0647:b004:l035",
-      "kind": "unresolved_source",
-      "reason": "Беш жүз түтүн коңулчу repeated exact unresolved qualifier; whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0647:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -2003,11 +1965,6 @@
       "id": "semetey-1-2013:p0648:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0648:b003:l030",
-      "kind": "unresolved_source",
-      "reason": "Бакай, какшаганда бу башка exact syntactic relation lament/this head/otherwise unresolved; whole verse held."
     },
     {
       "id": "semetey-1-2013:p0648:b005:l001",
@@ -2035,21 +1992,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0650:b003:l016",
-      "kind": "unresolved_source",
-      "reason": "Тайлабасаң жерге кир conditional тайла unresolved, no silent stop verb; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0650:b003:l017",
-      "kind": "unresolved_source",
-      "reason": "Тайлабасаң көргө кир repeated conditional тайла unresolved; whole verse held."
-    },
-    {
-      "id": "semetey-1-2013:p0650:b003:l028",
-      "kind": "unresolved_source",
-      "reason": "Көк сүлөөсүн, огой бөрк exact огой cap qualifier unresolved; whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0650:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -2063,11 +2005,6 @@
       "id": "semetey-1-2013:p0651:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0651:b005:l021",
-      "kind": "unresolved_source",
-      "reason": "Туурасы кадыр күйгөн чаң exact place/esteem/burning dust syntax unresolved; whole verse held."
     },
     {
       "id": "semetey-1-2013:p0651:b006:l001",
@@ -2137,7 +2074,10 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex QA",
       "date": "2026-09-15",
-      "page_range": [640, 649],
+      "page_range": [
+        640,
+        649
+      ],
       "rows_checked": 768,
       "status": "draft; no independent specialist review",
       "details": "Audited the 768 English rows on printed pages 640 through 649 against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 646 row 7, page 647 row 48, page 648 rows 19-20, and page 649 row 35; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Pages 632 through 639 and 650 through 651 were outside this targeted QA pass."
@@ -2148,605 +2088,16 @@
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0632:b003:l001"
-      ],
-      "raw": "Àìàë òàøòà êåòåáè,",
-      "ky": "Амал ташта кетеби,",
-      "status": "unresolved",
-      "note": "Амал ташта кетеби exact stone/endeavor idiom unresolved; whole verse held, no guessed wasted hopes.",
-      "after_source_id": "semetey-1-2013:p0631:b004:l039",
-      "before_source_id": "semetey-1-2013:p0632:b003:l002",
-      "source": {
-        "page": 632,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0632:b003:l001",
-            "raw": "Àìàë òàøòà êåòåáè,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 143.0997,
-              "xMax": 194.43,
-              "yMax": 156.2877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0633:b005:l033"
-      ],
-      "raw": "Êûçûðëóó ê¿í¿¢ áºëä¿¢á¿,",
-      "ky": "Кызырлуу күнүң бөлдүңбү,",
-      "status": "unresolved",
-      "note": "Кызырлуу күнүң бөлдүңбү blessed day divide phrase unclear; no silent болдуңбу emendation, whole verse held.",
-      "after_source_id": "semetey-1-2013:p0633:b005:l032",
-      "before_source_id": "semetey-1-2013:p0633:b005:l034",
-      "source": {
-        "page": 633,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0633:b005:l033",
-            "raw": "Êûçûðëóó ê¿í¿¢ áºëä¿¢á¿,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 597.6597,
-              "xMax": 473.6724,
-              "yMax": 610.8477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0635:b005:l019"
-      ],
-      "raw": "Æåòèê êà÷ûï, àðòûïòûð,",
-      "ky": "Жетик качып, артыптыр,",
-      "status": "unresolved",
-      "note": "Жетик качып, артыптыр exact relation of жетик to fleeing/putting coat on uncertain; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0635:b005:l018",
-      "before_source_id": "semetey-1-2013:p0635:b005:l020",
-      "source": {
-        "page": 635,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0635:b005:l019",
-            "raw": "Æåòèê êà÷ûï, àðòûïòûð,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 398.6997,
-              "xMax": 464.9364,
-              "yMax": 411.8877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0635:b005:l030"
-      ],
-      "raw": "Êàðààëäóó æåòèì êåëåò – äåï,",
-      "ky": "Караалдуу жетим келет – деп,",
-      "status": "unresolved",
-      "note": "Караалдуу жетим келет exact adjective unclear; primary караал sight/aim does not support guessed destined, whole verse held.",
-      "after_source_id": "semetey-1-2013:p0635:b005:l029",
-      "before_source_id": "semetey-1-2013:p0635:b005:l031",
-      "source": {
-        "page": 635,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0635:b005:l030",
-            "raw": "Êàðààëäóó æåòèì êåëåò – äåï,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 554.9397,
-              "xMax": 491.6688,
-              "yMax": 568.1277
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0636:b003:l021"
-      ],
-      "raw": "Óëàìàäàí óëàäûì,",
-      "ky": "Уламадан уладым,",
-      "status": "unresolved",
-      "note": "Уламадан уладым exact action relation continuation/learned teller unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0636:b003:l020",
-      "before_source_id": "semetey-1-2013:p0636:b003:l022",
-      "source": {
-        "page": 636,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0636:b003:l021",
-            "raw": "Óëàìàäàí óëàäûì,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 427.2597,
-              "xMax": 185.892,
-              "yMax": 440.4477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0637:b003:l025"
-      ],
-      "raw": "À÷êû÷ àëãàí àëòîîíó,",
-      "ky": "Ачкыч алган алтоону,",
-      "status": "unresolved",
-      "note": "Ачкыч алган алтоону accusative six key takers relation to next loading unclear; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0637:b003:l024",
-      "before_source_id": "semetey-1-2013:p0637:b003:l026",
-      "source": {
-        "page": 637,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0637:b003:l025",
-            "raw": "À÷êû÷ àëãàí àëòîîíó,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 483.8997,
-              "xMax": 210.6408,
-              "yMax": 497.0877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0637:b003:l026"
-      ],
-      "raw": "Àáûêå êóëãà àðòòûðûï,",
-      "ky": "Абыке кулга арттырып,",
-      "status": "unresolved",
-      "note": "Абыке кулга арттырып linked previous accusative key takers, precise loading/blame action unclear; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0637:b003:l025",
-      "before_source_id": "semetey-1-2013:p0637:b003:l027",
-      "source": {
-        "page": 637,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0637:b003:l026",
-            "raw": "Àáûêå êóëãà àðòòûðûï,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 498.2997,
-              "xMax": 223.3968,
-              "yMax": 511.4877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0637:b003:l038"
-      ],
-      "raw": "Æåëåäåí òºº ÷àòûøûï,",
-      "ky": "Желеден төө чатышып,",
-      "status": "unresolved",
-      "note": "Желеден төө чатышып camel tether entanglement exact combat idiom unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0637:b003:l037",
-      "before_source_id": "semetey-1-2013:p0637:b003:l039",
-      "source": {
-        "page": 637,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0637:b003:l038",
-            "raw": "Æåëåäåí òºº ÷àòûøûï,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 668.6997,
-              "xMax": 219.4716,
-              "yMax": 681.8877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0637:b004:l028"
-      ],
-      "raw": "Ñóóê äîðáîñóí ñàëäûðûï,",
-      "ky": "Суук дорбосун салдырып,",
-      "status": "unresolved",
-      "note": "Суук дорбосун салдырып cold feedbag image meaning unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0637:b004:l027",
-      "before_source_id": "semetey-1-2013:p0637:b004:l029",
-      "source": {
-        "page": 637,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0637:b004:l028",
-            "raw": "Ñóóê äîðáîñóí ñàëäûðûï,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 526.6197,
-              "xMax": 464.244,
-              "yMax": 539.8077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0640:b004:l013"
-      ],
-      "raw": "Êàéñàï áàëà áàøòàáàéò,",
-      "ky": "Кайсап бала баштабайт,",
-      "status": "unresolved",
-      "note": "Кайсап бала баштабайт exact negative begin relation to gulping and reserving Bakai portion unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0640:b004:l012",
-      "before_source_id": "semetey-1-2013:p0640:b004:l014",
-      "source": {
-        "page": 640,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0640:b004:l013",
-            "raw": "Êàéñàï áàëà áàøòàáàéò,",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 313.4997,
-              "xMax": 447.5112,
-              "yMax": 326.6877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0643:b003:l027"
-      ],
-      "raw": "Áåê àðûíàï òàøòàãàí.",
-      "ky": "Бек арынап таштаган.",
-      "status": "unresolved",
-      "note": "Бек арынап таштаган aryna dedicate versus aryn tire/grieve exact action unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0643:b003:l026",
-      "before_source_id": "semetey-1-2013:p0643:b003:l028",
-      "source": {
-        "page": 643,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0643:b003:l027",
-            "raw": "Áåê àðûíàï òàøòàãàí.",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 512.4597,
-              "xMax": 212.0568,
-              "yMax": 525.6477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0643:b005:l025"
-      ],
-      "raw": "Êàÿëàðû êºð¿íãºí.",
-      "ky": "Каялары көрүнгөн.",
-      "status": "unresolved",
-      "note": "Каялары көрүнгөн nakedness context clear but exact кая anatomical lexeme lacks primary support; whole verse held rather than guess testicles.",
-      "after_source_id": "semetey-1-2013:p0643:b005:l024",
-      "before_source_id": "semetey-1-2013:p0643:b005:l026",
-      "source": {
-        "page": 643,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0643:b005:l025",
-            "raw": "Êàÿëàðû êºð¿íãºí.",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 483.8997,
-              "xMax": 425.124,
-              "yMax": 497.0877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0644:b003:l010"
-      ],
-      "raw": "Ýãåíäè òåìèð êàéäàñûí",
-      "ky": "Эгенди темир кайдасын",
-      "status": "unresolved",
-      "note": "Эгенди темир кайдасын apparent iron filings context but exact кайдасын unresolved; whole verse held without repairing source.",
-      "after_source_id": "semetey-1-2013:p0644:b003:l009",
-      "before_source_id": "semetey-1-2013:p0644:b003:l011",
-      "source": {
-        "page": 644,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0644:b003:l010",
-            "raw": "Ýãåíäè òåìèð êàéäàñûí",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 271.0197,
-              "xMax": 218.4744,
-              "yMax": 284.2077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0647:b003:l039"
-      ],
-      "raw": "Áåø æ¿ç ò¿ò¿í êî¢óë÷ó,",
-      "ky": "Беш жүз түтүн коңулчу,",
-      "status": "unresolved",
-      "note": "Беш жүз түтүн коңулчу exact коңулчу qualifier unresolved, no silent коңшу neighbor emendation; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0647:b003:l038",
-      "before_source_id": "semetey-1-2013:p0647:b004:l001",
-      "source": {
-        "page": 647,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0647:b003:l039",
-            "raw": "Áåø æ¿ç ò¿ò¿í êî¢óë÷ó,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 682.8597,
-              "xMax": 226.6392,
-              "yMax": 696.0477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0647:b004:l035"
-      ],
-      "raw": "Áåø æ¿ç ò¿ò¿í êî¢óë÷ó,",
-      "ky": "Беш жүз түтүн коңулчу,",
-      "status": "unresolved",
-      "note": "Беш жүз түтүн коңулчу repeated exact unresolved qualifier; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0647:b004:l033",
-      "before_source_id": "semetey-1-2013:p0647:b004:l036",
-      "source": {
-        "page": 647,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0647:b004:l035",
-            "raw": "Áåø æ¿ç ò¿ò¿í êî¢óë÷ó,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 625.9797,
-              "xMax": 457.5192,
-              "yMax": 639.1677
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0647:b004:l025"
-      ],
-      "raw": "Êºð¿íãºí¿¢ òàáûëûï,",
-      "ky": "Көрүнгөнүң табылып,",
-      "status": "unresolved",
-      "note": "Көрүнгөнүң табылып what appeared found formula precise referent/action unclear; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0647:b004:l024",
-      "before_source_id": "semetey-1-2013:p0647:b004:l026",
-      "source": {
-        "page": 647,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0647:b004:l025",
-            "raw": "Êºð¿íãºí¿¢ òàáûëûï,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 483.8997,
-              "xMax": 440.7852,
-              "yMax": 497.0877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0648:b003:l030"
-      ],
-      "raw": "Áàêàé, êàêøàãàíäà áó áàøêà.",
-      "ky": "Бакай, какшаганда бу башка.",
-      "status": "unresolved",
-      "note": "Бакай, какшаганда бу башка exact syntactic relation lament/this head/otherwise unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0648:b003:l029",
-      "before_source_id": "semetey-1-2013:p0648:b003:l031",
-      "source": {
-        "page": 648,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0648:b003:l030",
-            "raw": "Áàêàé, êàêøàãàíäà áó áàøêà.",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 554.9397,
-              "xMax": 252.786,
-              "yMax": 568.1277
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0650:b003:l016"
-      ],
-      "raw": "Òàéëàáàñà¢ æåðãå êèð,",
-      "ky": "Тайлабасаң жерге кир,",
-      "status": "unresolved",
-      "note": "Тайлабасаң жерге кир conditional тайла unresolved, no silent stop verb; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0650:b003:l015",
-      "before_source_id": "semetey-1-2013:p0650:b003:l017",
-      "source": {
-        "page": 650,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0650:b003:l016",
-            "raw": "Òàéëàáàñà¢ æåðãå êèð,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 356.2197,
-              "xMax": 213.2064,
-              "yMax": 369.4077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0650:b003:l017"
-      ],
-      "raw": "Òàéëàáàñà¢ êºðãº êèð!",
-      "ky": "Тайлабасаң көргө кир!",
-      "status": "unresolved",
-      "note": "Тайлабасаң көргө кир repeated conditional тайла unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0650:b003:l016",
-      "before_source_id": "semetey-1-2013:p0650:b003:l018",
-      "source": {
-        "page": 650,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0650:b003:l017",
-            "raw": "Òàéëàáàñà¢ êºðãº êèð!",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 370.3797,
-              "xMax": 208.584,
-              "yMax": 383.5677
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0650:b003:l028"
-      ],
-      "raw": "Êºê ñ¿ëººñ¿í, îãîé áºðê,",
-      "ky": "Көк сүлөөсүн, огой бөрк,",
-      "status": "unresolved",
-      "note": "Көк сүлөөсүн, огой бөрк exact огой cap qualifier unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0650:b003:l027",
-      "before_source_id": "semetey-1-2013:p0650:b003:l029",
-      "source": {
-        "page": 650,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0650:b003:l028",
-            "raw": "Êºê ñ¿ëººñ¿í, îãîé áºðê,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 526.6197,
-              "xMax": 225.0924,
-              "yMax": 539.8077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0651:b005:l021"
-      ],
-      "raw": "Òóóðàñû êàäûð ê¿éãºí ÷à¢,",
-      "ky": "Туурасы кадыр күйгөн чаң,",
-      "status": "unresolved",
-      "note": "Туурасы кадыр күйгөн чаң exact place/esteem/burning dust syntax unresolved; whole verse held.",
-      "after_source_id": "semetey-1-2013:p0651:b005:l020",
-      "before_source_id": "semetey-1-2013:p0651:b005:l022",
-      "source": {
-        "page": 651,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0651:b005:l021",
-            "raw": "Òóóðàñû êàäûð ê¿éãºí ÷à¢,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 427.2597,
-              "xMax": 476.7624,
-              "yMax": 440.4477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    }
-  ],
+  "unresolved_passages": [],
   "counts": {
-    "translated_verse_rows": 1520,
-    "english_words": 8616,
-    "translated_source_fragments": 1539,
+    "translated_verse_rows": 1541,
+    "english_words": 8604,
+    "translated_source_fragments": 1560,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1541,
     "wrapped_verse_groups": 19,
-    "unresolved_source_rows": 21,
-    "unresolved_source_verses": 21,
+    "unresolved_source_rows": 0,
+    "unresolved_source_verses": 0,
     "nonverse_extraction_records": 46,
     "watermark_records": 20,
     "source_words": 5158,

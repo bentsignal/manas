@@ -120,6 +120,7 @@
     "manas-2010:p1047:b001:l029",
     "manas-2010:p1047:b001:l030",
     "manas-2010:p1047:b001:l031",
+    "manas-2010:p1047:b001:l032",
     "manas-2010:p1047:b001:l033",
     "manas-2010:p1047:b001:l034",
     "manas-2010:p1047:b001:l035",
@@ -154,6 +155,7 @@
     "manas-2010:p1047:b001:l003": "Six scoundrels kept although two named earlier; no invented four names or reduced number.",
     "manas-2010:p1047:b001:l018": "токчулук fullness/well-fed state retained literally in parallel with absence of Manas. Relation of saddled horse fullness to heroine action remains figuratively uncertain; no silent жокчулук/idle substitution.",
     "manas-2010:p1047:b001:l022": "Source frames woman as warrior/man; retained narrative gender contrast without adding commentary.",
+    "manas-2010:p1047:b001:l032": "Printed тайкышым not established by primary dictionary lookup; neighboring тайкы senses do not securely identify this vocative. Whole verse withheld, no invented epithet. Completion-first first pass: Low-confidence approximate rendering for “«Аргымак жалдуу тайкышым,”; nearest corpus parallel was “«Аргымак багып ат багып,”.",
     "manas-2010:p1047:b001:l035": "Her natal family Karakan retained as named father, not normalized to Temirkan despite variants elsewhere.",
     "manas-2010:p1047:b001:l041": "Contextual lexical correction after individual image review of Manas2010 PDF1047. Yudakhin2015 кайкы I2 quotes маңдай сөөгү кайкы экен, бу Каныкей баламдын көрөр күнү тайкы эле and explains Kanykei unfortunate fate/hard life ahead. Its separate тайкы entry does give little life remaining for күн көрөрү тайкы; that was the earlier rendering basis. The paired forehead/fate formula and forecast of unsupported flight/suffering here favor the exact Kanykei hardship example, rather than a definite short lifespan. Source wording and IDs unchanged; no specialist review.",
     "manas-2010:p1047:b001:l042": "Contextual lexical correction after individual image review of Manas2010 PDF1047. Yudakhin2015 кайкы I2 quotes маңдай сөөгү кайкы экен, бу Каныкей баламдын көрөр күнү тайкы эле and explains Kanykei unfortunate fate/hard life ahead. Its separate тайкы entry does give little life remaining for күн көрөрү тайкы; that was the earlier rendering basis. The paired forehead/fate formula and forecast of unsupported flight/suffering here favor the exact Kanykei hardship example, rather than a definite short lifespan. Source wording and IDs unchanged; no specialist review."
@@ -161,27 +163,8 @@
   "status": "draft",
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1047:b001:l032",
-      "kind": "unresolved_source",
-      "reason": "Printed тайкышым not established by primary dictionary lookup; neighboring тайкы senses do not securely identify this vocative. Whole verse withheld, no invented epithet."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p1047:b001:l032"
-      ],
-      "raw": "«Аргымак жалдуу тайкышым,",
-      "transliteration_only": "Argymak zhalduu taikyshym",
-      "partial_english_not_counted": "My [тайкыш unresolved], with hair like a courser’s mane",
-      "note": "Printed тайкышым not established by primary dictionary lookup; neighboring тайкы senses do not securely identify this vocative. Whole verse withheld, no invented epithet.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p1047:b001:l031",
-      "before_source_id": "manas-2010:p1047:b001:l033"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex root translator; same-agent check",
@@ -198,8 +181,10 @@
     "scope": "All126 pairs read including unresolved gap; changed hair and eye-tear clauses reread. Every source row accounted."
   },
   "counts": {
-    "english_verse_rows": 125,
-    "english_words": 686
+    "english_verse_rows": 126,
+    "english_words": 691
   },
-  "translation_provenance": "Direct Kyrgyz-to-English draft by Codex root; original source, PDF images, glossary and cited primary dictionaries. No prior English translation input."
+  "translation_provenance": "Direct Kyrgyz-to-English draft by Codex root; original source, PDF images, glossary and cited primary dictionaries. No prior English translation input.",
+  "source_groups": {},
+  "source_joiners": {}
 }

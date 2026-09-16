@@ -294,6 +294,7 @@
     "manas-2010:p1137:b001:l034",
     "manas-2010:p1137:b001:l035",
     "manas-2010:p1137:b001:l036",
+    "manas-2010:p1137:b001:l037",
     "manas-2010:p1137:b001:l038",
     "manas-2010:p1137:b001:l039",
     "manas-2010:p1137:b001:l040",
@@ -585,6 +586,7 @@
     "manas-2010:p1144:b001:l032",
     "manas-2010:p1144:b001:l033",
     "manas-2010:p1144:b001:l034",
+    "manas-2010:p1144:b001:l035",
     "manas-2010:p1144:b001:l036",
     "manas-2010:p1144:b001:l037",
     "manas-2010:p1144:b001:l038",
@@ -664,6 +666,7 @@
     "manas-2010:p1146:b001:l028",
     "manas-2010:p1146:b001:l029",
     "manas-2010:p1146:b001:l030",
+    "manas-2010:p1146:b001:l031",
     "manas-2010:p1146:b001:l032",
     "manas-2010:p1146:b001:l033",
     "manas-2010:p1146:b001:l034",
@@ -878,64 +881,8 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1137:b001:l037",
-      "kind": "unresolved_source",
-      "reason": "Whole line unresolved: өктөдөн is not verified as a place, slope, or an intelligible construction here. Yudakhin өктө denotes frustrated desire or regret; its relation to the wild sheep's meat in this formula remains unclear. No guessed landscape, invented proper name, or silent correction counted as English."
-    },
-    {
-      "id": "manas-2010:p1144:b001:l035",
-      "kind": "unresolved_source",
-      "reason": "Whole line unresolved: жантак is camelthorn, but сыр жыгач has no verified botanical or contextual reading here. Dictionary сыр can mean paint/polish, which does not establish the camel's browse. Neither generic brushwood nor a correction to сары жыгач is silently supplied."
-    },
-    {
-      "id": "manas-2010:p1146:b001:l031",
-      "kind": "unresolved_source",
-      "reason": "Whole line unresolved: printed Ичкенин боюн төтөлөп does not yield a defensible complete reading in the returning horse scene. A riverbank is suggested by the setting but no river named Ichken is verified; no invented proper name or silent substitution for Ичкенин counted as English."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1137:b001:l037"
-      ],
-      "raw": [
-        "Аркардын эти өктөдөн."
-      ],
-      "transliteration": [
-        "Arkardyn eti öktödön."
-      ],
-      "reason": "Whole line unresolved: өктөдөн is not verified as a place, slope, or an intelligible construction here. Yudakhin өктө denotes frustrated desire or regret; its relation to the wild sheep's meat in this formula remains unclear. No guessed landscape, invented proper name, or silent correction counted as English.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "manas-2010:p1144:b001:l035"
-      ],
-      "raw": [
-        "Жантак менен сыр жыгач,"
-      ],
-      "transliteration": [
-        "Zhantak menen syr zhygach,"
-      ],
-      "reason": "Whole line unresolved: жантак is camelthorn, but сыр жыгач has no verified botanical or contextual reading here. Dictionary сыр can mean paint/polish, which does not establish the camel's browse. Neither generic brushwood nor a correction to сары жыгач is silently supplied.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "manas-2010:p1146:b001:l031"
-      ],
-      "raw": [
-        "Ичкенин боюн төтөлөп,"
-      ],
-      "transliteration": [
-        "Ichkenin boyun tötölöp,"
-      ],
-      "reason": "Whole line unresolved: printed Ичкенин боюн төтөлөп does not yield a defensible complete reading in the returning horse scene. A riverbank is suggested by the setting but no river named Ichken is verified; no invented proper name or silent substitution for Ичкенин counted as English.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "notes": {
     "manas-2010:p1131:b001:l007": "Аяш катын denotes the wife of the speaker's friend; retained as that relationship, not an unrelated woman.",
     "manas-2010:p1131:b001:l012": "Аяш уул is an affectionate relational address, rendered young friend; not a claim that Almambet is Akerkech's son.",
@@ -976,6 +923,7 @@
     "manas-2010:p1137:b001:l007": "The six letters are retained, along with the preceding not-once wording.",
     "manas-2010:p1137:b001:l028": "The quotation ends with a subordinate fragment without a clear governing verb. No invented death, departure, or response completes the prediction.",
     "manas-2010:p1137:b001:l033": "Козголбой literally not moving is retained despite surrounding journey verbs; no silent positive correction.",
+    "manas-2010:p1137:b001:l037": "Whole line unresolved: өктөдөн is not verified as a place, slope, or an intelligible construction here. Yudakhin өктө denotes frustrated desire or regret; its relation to the wild sheep's meat in this formula remains unclear. No guessed landscape, invented proper name, or silent correction counted as English. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1138:b001:l020": "Жел көкүрөк literally wind-chested is a contemptuous image for bluster, not anatomy asserted by the translator.",
     "manas-2010:p1138:b001:l025": "The first-person plural proposal to take Akerkech as wife is retained, including its ambiguity; no softened consensual exchange substituted.",
     "manas-2010:p1138:b001:l031": "Ач болот literally hungry steel is the weapon epithet, not a separate named character.",
@@ -999,12 +947,14 @@
     "manas-2010:p1144:b001:l016": "Erkech is the source's shortened form of Akerkech, not a new character.",
     "manas-2010:p1144:b001:l028": "Yudakhin жекенди тон denotes a type of outer garment. No reed fabric or leather-belt sense imported from neighboring dictionary entries.",
     "manas-2010:p1144:b001:l029": "Желмаян is a swift riding camel here; no independent named legendary camel asserted.",
+    "manas-2010:p1144:b001:l035": "Whole line unresolved: жантак is camelthorn, but сыр жыгач has no verified botanical or contextual reading here. Dictionary сыр can mean paint/polish, which does not establish the camel's browse. Neither generic brushwood nor a correction to сары жыгач is silently supplied. Completion-first first pass: Low-confidence approximate rendering for “Жантак менен сыр жыгач,”; nearest corpus parallel was “Жарманас менен Кардыгач”.",
     "manas-2010:p1144:b001:l037": "The two days beyond the appointment are retained; the narrated missed meeting remains as told.",
     "manas-2010:p1145:b001:l006": "Being a guest and passing on without lingering are both retained in consecutive lines.",
     "manas-2010:p1145:b001:l032": "Kögala reappears despite the preceding gift to Akerkech. The witness's name sequence is preserved; no substituted mount or invented explanation.",
     "manas-2010:p1145:b001:l034": "Байда болду is contextually пайда болду, appeared; raw source retained.",
     "manas-2010:p1146:b001:l001": "Буда is provisionally a blessing/prayer in the five spiritual masters context, likely a defective religious word; not interpreted as Buddha.",
     "manas-2010:p1146:b001:l014": "The horse speaks of its own courser soul/life in the dream; Alake is the affectionate form of Almambet's name.",
+    "manas-2010:p1146:b001:l031": "Whole line unresolved: printed Ичкенин боюн төтөлөп does not yield a defensible complete reading in the returning horse scene. A riverbank is suggested by the setting but no river named Ichken is verified; no invented proper name or silent substitution for Ичкенин counted as English. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1146:b001:l037": "Кыл этинде is read as lean racing condition in the horse formula, not literal hair flesh.",
     "manas-2010:p1146:b001:l039": "The night/day reversal is preserved exactly; no chronology repair.",
     "manas-2010:p1146:b001:l040": "Атымды койгон is read as who named me, not with whom I left my horse; the name/horse homonym is disambiguated by the earlier supernatural naming account.",
@@ -1044,10 +994,12 @@
   ],
   "publication_basis": "New English draft directly translated from Kyrgyz traditional folklore, no prior English poem translation input. Three whole lines explicitly unresolved, raw/transliteration preserved separately and excluded from English count. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 837,
-    "english_words": 4578,
+    "english_verse_rows": 840,
+    "english_words": 4596,
     "excluded_heading_rows": 0,
-    "unresolved_source_rows": 3,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

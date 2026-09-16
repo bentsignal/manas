@@ -91,11 +91,14 @@
     "semetey-1-2013:p0151:b003:l011",
     "semetey-1-2013:p0151:b003:l012",
     "semetey-1-2013:p0151:b003:l013",
+    "semetey-1-2013:p0151:b003:l014",
     "semetey-1-2013:p0151:b003:l015",
     "semetey-1-2013:p0151:b003:l016",
     "semetey-1-2013:p0151:b003:l017",
     "semetey-1-2013:p0151:b003:l018",
     "semetey-1-2013:p0151:b003:l019",
+    "semetey-1-2013:p0151:b003:l020",
+    "semetey-1-2013:p0151:b003:l021",
     "semetey-1-2013:p0151:b003:l022",
     "semetey-1-2013:p0151:b003:l024",
     "semetey-1-2013:p0151:b003:l025",
@@ -294,21 +297,6 @@
       "reason": "Visually confirmed decorative running title or printed folio, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0151:b003:l014",
-      "kind": "unresolved_source",
-      "reason": "Complete verse withheld pending reliable lexical/syntactic reading. Көкчөнүн ошондо кылган капыры: unclear relation of infidel/wicked one to Kokcho’s deed; not replaced by an invented accusation."
-    },
-    {
-      "id": "semetey-1-2013:p0151:b003:l020",
-      "kind": "unresolved_source",
-      "reason": "Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence."
-    },
-    {
-      "id": "semetey-1-2013:p0151:b003:l021",
-      "kind": "unresolved_source",
-      "reason": "Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence."
-    },
-    {
       "id": "semetey-1-2013:p0152:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or printed folio, not narrative verse."
@@ -321,8 +309,6 @@
   ],
   "notes": {
     "semetey-1-2013:p0150:b003:l001": "Individually inspected source page image /tmp/semetey-root-0150.png, left column then right. Direct model translation from Kyrgyz; unchanged raw/SHA/bbox and deterministic legacy-font-v1 normalization. Lineation provisional.",
-    "semetey-1-2013:p0151:b003:l001": "Individually inspected source page image /tmp/semetey-root-0151.png, left column then right. Direct model translation from Kyrgyz; unchanged raw/SHA/bbox and deterministic legacy-font-v1 normalization. Lineation provisional.",
-    "semetey-1-2013:p0152:b003:l001": "Ар camels again, tails braided, no dropped н emendation required (Yudakhin ар II=нар I).",
     "semetey-1-2013:p0150:b003:l005": "Golden throne май blood-stained in slaying context and explicit silver throne blood10; unlike prosperity formula at150right39/151left4.",
     "semetey-1-2013:p0150:b003:l008": "Printed father Khan Azyz slain;11 another father Kun Zhang-Zhung slain. Source contradiction retained, not harmonized with earlier Manas episodes. Indented continuation9 one verse. Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0150:b003:l012": "Отогот coral rank button/cap ornament, primary https://el-sozduk.kg/отогот/. Not a geographical name.",
@@ -334,9 +320,12 @@
     "semetey-1-2013:p0150:b003:l019": "Бейпай destruction/devastation in attack context; indented20 joined. Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0150:b003:l023": "Талак divorce/renunciation metaphor applied throne, qualified utterly renounced; no additional marriage event.",
     "semetey-1-2013:p0150:b003:l024": "Yellow willow planted, not spear shaft. Pure gold сап26 not handle/shaft.",
+    "semetey-1-2013:p0150:b003:l031": "Айлы singular his village/settlement, corrected plural their settlements after pair review.",
     "semetey-1-2013:p0150:b003:l033": "Burulcha daughter of Esen, former wife left in Beijing; not Aruuke substituted.",
+    "semetey-1-2013:p0150:b003:l037": " Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0150:b003:l039": "Black burning hell spiritual liberation image continues across columns but separate left-aligned verses; not merged.",
     "semetey-1-2013:p0150:b004:l005": "Muslim’s slave preferred to unbelievers’ khan, harsh hierarchy/faith perspective source not endorsement. Indented6 joined. Visually indented continuation joined as one provisional verse, all fragments retained.",
+    "semetey-1-2013:p0150:b004:l007": " Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0150:b004:l014": "Bare келеме шарып куран holy Quran, not Qur’an oath-taking verb from other occurrences.",
     "semetey-1-2013:p0150:b004:l021": "Abrupt subject returns to Almambet aged12 and mother Altynai after Kongurbay19; qualified by mother identification. No chronology repair.",
     "semetey-1-2013:p0150:b004:l025": "Бир = пир spiritual guide, primary https://el-sozduk.kg/БИР/, not number one as object.",
@@ -345,10 +334,14 @@
     "semetey-1-2013:p0150:b004:l032": "Кара support/presence, not dark color. Kokcho coming33 literal reported speech retained.",
     "semetey-1-2013:p0150:b004:l036": "Кул slave contempt epithet retained; no external social-history claim.",
     "semetey-1-2013:p0150:b004:l039": "Yurt lattice walls май rich/greasy abundance image qualified by gold-filled chests38 and felt walls151:4; not battle blood here.",
+    "semetey-1-2013:p0151:b003:l001": "Individually inspected source page image /tmp/semetey-root-0151.png, left column then right. Direct model translation from Kyrgyz; unchanged raw/SHA/bbox and deterministic legacy-font-v1 normalization. Lineation provisional.",
     "semetey-1-2013:p0151:b003:l003": "Келберсиген imposing/dignified khan; promotion attributed to meeting Almambet. Repeat meeting5 retained.",
     "semetey-1-2013:p0151:b003:l009": "Akerkech called elder sister by Kanykei; kinship claim retained, no external genealogy substituted.",
     "semetey-1-2013:p0151:b003:l013": "Тамыр friend/lover double sense, primary Yudakhin https://el-sozduk.kg/тамыр/ senses3/4; accusation context. Lover is reported allegation, not narrator’s verification of adultery.",
+    "semetey-1-2013:p0151:b003:l014": "Complete verse withheld pending reliable lexical/syntactic reading. Көкчөнүн ошондо кылган капыры: unclear relation of infidel/wicked one to Kokcho’s deed; not replaced by an invented accusation. Completion-first first pass: Low-confidence approximate rendering for “Көкчөнүн ошондо кылган капыры.”; nearest corpus parallel was “Өкүмдүк кылган капырдын”.",
     "semetey-1-2013:p0151:b003:l015": "Almambet in Beijing/high office report retained despite recap’s nonlinear order.",
+    "semetey-1-2013:p0151:b003:l020": "Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence. Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence. Completion-first first pass: Low-confidence approximate rendering for “Копшосо кылыч айзадан”; nearest corpus parallel was “Касаба, кылыч, айзасын”.",
+    "semetey-1-2013:p0151:b003:l021": "Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence. Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence. Completion-first first pass: Low-confidence approximate rendering for “Копшосо кылыч айзадан”; nearest corpus parallel was “Касаба, кылыч, айзасын”.",
     "semetey-1-2013:p0151:b003:l022": "Арам сийдик bodily-fluid insult literally impure/illegitimate piss, retained as bastard piss without asserting biological parentage. Physical22+23 one wrapped verse. Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0151:b003:l025": "Kazakhs penned into reeds, inferred actor Almambet from next27–29; no invented combat method.",
     "semetey-1-2013:p0151:b003:l030": "Seeking a place to turn in flight qualified бурулуш жайды чалганда; not a specific named settlement.",
@@ -357,13 +350,18 @@
     "semetey-1-2013:p0151:b003:l034": "Икелеп = никелеп married, explicitly qualified dropped н; primary Karasaev https://el-sozduk.kg/нике/ notes nonstandard ике, Yudakhin никеле- exact алган жары marital formula. Алмам affectionate shortened Almambet retained.",
     "semetey-1-2013:p0151:b003:l035": "Айдар forelock/topknot, чок tassel on belt; not fire-belt.",
     "semetey-1-2013:p0151:b003:l039": "Gray among white horses metaphor retained, afterlife friendship follows next column without line merge.",
+    "semetey-1-2013:p0151:b004:l005": " Visually indented continuation joined as one provisional verse, all fragments retained.",
+    "semetey-1-2013:p0151:b004:l009": " Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0151:b004:l013": "My khan father inside Manas’s speech is his father-in-law Temir Khan; retain literal my rather than silently Kanykei’s first-person speech switch.",
     "semetey-1-2013:p0151:b004:l014": "Төркүлөп married woman’s visit to natal family; not dowry delivery invented.",
     "semetey-1-2013:p0151:b004:l018": "Боо rein/halter fastening as horse ownership metonym, qualified reins; horse gift18 belongs Almambet17.",
     "semetey-1-2013:p0151:b004:l021": "Кара сур dark-complexioned beauty, not hateful label; urduu radiant22 previously established primary.",
     "semetey-1-2013:p0151:b004:l024": "Долу fierce/strong-tempered self-title, менде variant пенде God’s servant. Not demon name.",
+    "semetey-1-2013:p0151:b004:l034": "Bare Beijing construed from Beijing by departure/arrival context; no silent source-text alteration.",
     "semetey-1-2013:p0151:b004:l037": "Explicit twelve-year age preserved within nonsexual recollection; no modern age correction or invented intimacy.",
     "semetey-1-2013:p0151:b004:l039": "Ар camel, primary Yudakhin ар II=нар I, corroborated earlier1450:32/803:13;70camel loads gold coins, not seventy tricks.",
+    "semetey-1-2013:p0152:b003:l001": "Ар camels again, tails braided, no dropped н emendation required (Yudakhin ар II=нар I).",
+    "semetey-1-2013:p0152:b003:l003": " Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0152:b003:l006": "Printed берип жыйнадым giving/gathering retained qualified literal compound; does not invent an additional counted herd.",
     "semetey-1-2013:p0152:b003:l013": "Gold poured/received by father, coffers supplied as ordinary containment image; no smelting or alchemy.",
     "semetey-1-2013:p0152:b003:l016": "Оңурайтып hollow-eyed/sunken appearance, primary https://el-sozduk.kg/оңурай/ literal hollow/sunken and grim; оңшойтуп forlorn qualified. Distinct father grim face right27.",
@@ -374,118 +372,17 @@
     "semetey-1-2013:p0152:b003:l038": "Sickle-nosed dark Sart is speaker’s insult toward father; historical ethnonym preserved without generalizing to modern ethnic group.",
     "semetey-1-2013:p0152:b004:l003": "Renouncing fatherhood, not literal death of father. Repeated22–23 renunciation kept.",
     "semetey-1-2013:p0152:b004:l005": "Rhetorical never obtained Aktulpar retained, no invented later possession.",
+    "semetey-1-2013:p0152:b004:l007": " Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0152:b004:l009": "Vulture-like dark Sart insult is printed comparison; not invented zoological claim.",
     "semetey-1-2013:p0152:b004:l013": "Карын бөлө children of sisters: Umotoy child of Akerkech and cousin of Kanykei’s Semetey; English child’s cousin resolves relational ellipsis, not Umotoy as Kanykei’s own cousin.",
+    "semetey-1-2013:p0152:b004:l020": "Self-deprecating recollection of leaving her father in tears after the Aktulpar dispute, while Manas was still alive. Unfortunate avoids both moral shamelessness and anachronistic widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0152:b004:l025": "Олоң saddle-girth comparison with thick long braid, primary Yudakhin https://el-sozduk.kg/олоң/, not sedge/reed.",
     "semetey-1-2013:p0152:b004:l028": "Printed бардым past form retained as rhetorical How did I go; surrounding refusal to visit again not silently harmonized.",
-    "semetey-1-2013:p0152:b004:l034": "Кылыгы кымбат conduct costly/dear ironic qualified by repeated complaints; not flattering admirable behavior or monetary valuation.",
-    "semetey-1-2013:p0152:b004:l036": "Малга кароо miserly with livestock, not job of herdsman.",
-    "semetey-1-2013:p0150:b003:l037": " Visually indented continuation joined as one provisional verse, all fragments retained.",
-    "semetey-1-2013:p0150:b004:l007": " Visually indented continuation joined as one provisional verse, all fragments retained.",
-    "semetey-1-2013:p0151:b004:l005": " Visually indented continuation joined as one provisional verse, all fragments retained.",
-    "semetey-1-2013:p0151:b004:l009": " Visually indented continuation joined as one provisional verse, all fragments retained.",
-    "semetey-1-2013:p0152:b003:l003": " Visually indented continuation joined as one provisional verse, all fragments retained.",
-    "semetey-1-2013:p0152:b004:l007": " Visually indented continuation joined as one provisional verse, all fragments retained.",
     "semetey-1-2013:p0152:b004:l031": " Visually indented continuation joined as one provisional verse, all fragments retained.",
-    "semetey-1-2013:p0150:b003:l031": "Айлы singular his village/settlement, corrected plural their settlements after pair review.",
-    "semetey-1-2013:p0151:b004:l034": "Bare Beijing construed from Beijing by departure/arrival context; no silent source-text alteration.",
-    "semetey-1-2013:p0152:b004:l020": "Self-deprecating recollection of leaving her father in tears after the Aktulpar dispute, while Manas was still alive. Unfortunate avoids both moral shamelessness and anachronistic widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0152:b004:l034": "Кылыгы кымбат conduct costly/dear ironic qualified by repeated complaints; not flattering admirable behavior or monetary valuation.",
+    "semetey-1-2013:p0152:b004:l036": "Малга кароо miserly with livestock, not job of herdsman."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0151:b003:l014"
-      ],
-      "raw": [
-        "Êºê÷ºí¿í îøîíäî êûëãàí êàïûðû."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0151:b003:l014",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 151,
-          "block": 3,
-          "line_in_block": 14,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 327.6597,
-            "xMax": 287.7228,
-            "yMax": 340.8477
-          },
-          "raw": "Êºê÷ºí¿í îøîíäî êûëãàí êàïûðû.",
-          "text": "Көкчөнүн ошондо кылган капыры.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Complete verse withheld pending reliable lexical/syntactic reading. Көкчөнүн ошондо кылган капыры: unclear relation of infidel/wicked one to Kokcho’s deed; not replaced by an invented accusation.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0151:b003:l020"
-      ],
-      "raw": [
-        "Êîïøîñî êûëû÷ àéçàäàí"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0151:b003:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 151,
-          "block": 3,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 412.8597,
-            "xMax": 225.6696,
-            "yMax": 426.0477
-          },
-          "raw": "Êîïøîñî êûëû÷ àéçàäàí",
-          "text": "Копшосо кылыч айзадан",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0151:b003:l021"
-      ],
-      "raw": [
-        "Êûð ÷ûãàðäû – äåï óãóï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0151:b003:l021",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 151,
-          "block": 3,
-          "line_in_block": 21,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 427.2597,
-            "xMax": 233.928,
-            "yMax": 440.4477
-          },
-          "raw": "Êûð ÷ûãàðäû – äåï óãóï,",
-          "text": "Кыр чыгарды – деп угуп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Complete verse withheld pending reliable lexical/syntactic reading. Копшосо кылыч айзадан / Кыр чыгарды: копшосо and exact blade/quarrel relation unresolved; adjoining verse retained independently as source evidence.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -510,11 +407,12 @@
     "scope": "Every included narrative row on printed pages 150–152 was compared with its exact Kyrgyz source row; one lexical error was corrected without changing source IDs, exclusions, or row count."
   },
   "counts": {
-    "english_verse_rows": 220,
-    "english_words": 1304,
+    "english_verse_rows": 223,
+    "english_words": 1321,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 223,
     "wrapped_verse_groups": 11,
-    "unresolved_source_rows": 3
-  }
+    "unresolved_source_rows": 0
+  },
+  "source_joiners": {}
 }

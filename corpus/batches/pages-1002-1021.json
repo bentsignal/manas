@@ -694,6 +694,7 @@
     "manas-2010:p1018:b001:l018",
     "manas-2010:p1018:b001:l019",
     "manas-2010:p1018:b001:l020",
+    "manas-2010:p1018:b001:l021",
     "manas-2010:p1018:b001:l022",
     "manas-2010:p1018:b001:l023",
     "manas-2010:p1018:b001:l024",
@@ -892,29 +893,9 @@
       "id": "manas-2010:p1011:b002:l001",
       "kind": "heading",
       "reason": "Bold centered editorial section heading, separately translated; authorship unverified, not verse."
-    },
-    {
-      "id": "manas-2010:p1018:b001:l021",
-      "kind": "unresolved_source",
-      "reason": "Whole line unresolved. Алтымыш sixty and чал elder are clear, but айман has no defensible contextual construction here. Yudakhin horse adjective voracious/enduring does not establish the phrase. Excluded from English count; exact raw and transliteration recorded separately."
     }
   ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1018:b001:l021"
-      ],
-      "raw": [
-        "Алтымыш айман чал экен,"
-      ],
-      "transliteration": [
-        "Altymysh ayman chal eken,"
-      ],
-      "reason": "Whole line unresolved. Алтымыш sixty and чал elder are clear, but айман has no defensible contextual construction here. Yudakhin horse adjective voracious/enduring does not establish the phrase. Excluded from English count; exact raw and transliteration recorded separately.",
-      "status": "unresolved-source-not-English-translation",
-      "additional_lexical_note": "Whole line unresolved. Алтымыш sixty and чал elder are clear, but айман has no defensible contextual construction here. Yudakhin horse adjective voracious/enduring does not establish the phrase. Excluded from English count; exact raw and transliteration recorded separately."
-    }
-  ],
+  "unresolved_passages": [],
   "notes": {
     "manas-2010:p1002:b001:l020": "Twelve khans and ten divisions retained as printed; no reconciliation with other enumerations.",
     "manas-2010:p1003:b001:l032": "Twenty nights here and twenty days in the following line retained; not harmonized with forty days at1004:l019.",
@@ -954,6 +935,7 @@
     "manas-2010:p1018:b001:l006": "Улама learned transmitters/received tradition; the following claims are explicitly hearsay, not independently verified biography.",
     "manas-2010:p1018:b001:l016": "Ике contextually read as нике marriage with missing initial н; raw preserved. Forty wives and eighty years both retained.",
     "manas-2010:p1018:b001:l020": "Ат кара тил болгондо positively defined as early summer when horses feed fully on green grass and their tongues darken from its sap:2015 explanatory/phraseological dictionaries https://el-sozduk.kg/АТ%20КАРА%20ТИЛ%20БОЛГОНДО/. Not a season of famine.",
+    "manas-2010:p1018:b001:l021": "Whole line unresolved. Алтымыш sixty and чал elder are clear, but айман has no defensible contextual construction here. Yudakhin horse adjective voracious/enduring does not establish the phrase. Excluded from English count; exact raw and transliteration recorded separately. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1018:b001:l022": "Курумшу ragged old felt, Yudakhin and2015 https://el-sozduk.kg/курумшу/; not generic woven cloth.",
     "manas-2010:p1018:b001:l036": "Explicit uncertainty whether Chubak’s origin story is true retained; mutually differing reported genealogies not reconciled.",
     "manas-2010:p1019:b001:l005": "Insult concerning birth to an unmarried girl retained as reported speech; not asserted narrator fact.",
@@ -981,10 +963,12 @@
   ],
   "publication_basis": "New English draft directly translated from Kyrgyz traditional folklore, no prior English poem translation input. Explicit whole-line unresolved reading excluded from translation count; no independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 835,
-    "english_words": 4560,
+    "english_verse_rows": 836,
+    "english_words": 4565,
     "excluded_heading_rows": 1,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

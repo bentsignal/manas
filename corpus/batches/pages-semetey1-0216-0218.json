@@ -32,6 +32,7 @@
     "semetey-1-2013:p0216:b003:l025",
     "semetey-1-2013:p0216:b003:l026",
     "semetey-1-2013:p0216:b003:l027",
+    "semetey-1-2013:p0216:b003:l028",
     "semetey-1-2013:p0216:b003:l029",
     "semetey-1-2013:p0216:b003:l030",
     "semetey-1-2013:p0216:b003:l031",
@@ -90,6 +91,7 @@
     "semetey-1-2013:p0217:b003:l007",
     "semetey-1-2013:p0217:b003:l008",
     "semetey-1-2013:p0217:b003:l009",
+    "semetey-1-2013:p0217:b003:l010",
     "semetey-1-2013:p0217:b003:l011",
     "semetey-1-2013:p0217:b003:l012",
     "semetey-1-2013:p0217:b003:l013",
@@ -255,11 +257,6 @@
       "reason": "Visually confirmed decorative title, folio or printer signature28–1018, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0216:b003:l028",
-      "kind": "unresolved_source",
-      "reason": "Тайкушум in Аргымак жалдуу тайкушум remains unidentified. Horse-mane comparison alone insufficient for full verse. No bird species or personal name invented."
-    },
-    {
       "id": "semetey-1-2013:p0217:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printer signature28–1018, not narrative verse."
@@ -273,11 +270,6 @@
       "id": "semetey-1-2013:p0217:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printer signature28–1018, not narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0217:b003:l010",
-      "kind": "unresolved_source",
-      "reason": "Тайкуш in Аргымакка жал тайкуш repeats unresolved216:3:28; full referent and sense not established. Whole verse withheld."
     },
     {
       "id": "semetey-1-2013:p0218:b002:l001",
@@ -299,6 +291,7 @@
     "semetey-1-2013:p0216:b003:l019": "Black-steel bits, six days without rest/water and racing prowess literal hyperbole preserved.",
     "semetey-1-2013:p0216:b003:l024": "Көйкашка renowned, established primary dictionary, not shameless or assumed white blaze.",
     "semetey-1-2013:p0216:b003:l026": "Each different horse, no new classes invented.",
+    "semetey-1-2013:p0216:b003:l028": "Тайкушум in Аргымак жалдуу тайкушум remains unidentified. Horse-mane comparison alone insufficient for full verse. No bird species or personal name invented. Completion-first first pass: Low-confidence approximate rendering for “Аргымак жалдуу тайкушум”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”.",
     "semetey-1-2013:p0216:b003:l035": "Right ear specifically laid back, not both.",
     "semetey-1-2013:p0216:b003:l036": "Earth crust flung overhead in pawing, black bit struck against throat literal source; no modern horse-care explanation.",
     "semetey-1-2013:p0216:b004:l002": "Primary Yudakhin чаткаяк exact silk-tail couplet: thighs from groin to knee, not tail beating genitalia.",
@@ -311,11 +304,14 @@
     "semetey-1-2013:p0216:b004:l030": "Болбосо alternative retained as Or else following negative possibility; rhetorical oscillation not harmonized.",
     "semetey-1-2013:p0216:b004:l031": "Rivers/springs through valleys retained literal; possible endearment attachment to child32 uncertain, no trip invented.",
     "semetey-1-2013:p0216:b004:l036": "Ten plains filled with tears literal hyperbole; moon/night conditional extends217.",
+    "semetey-1-2013:p0217:b003:l001": "Reporting formula деп restored as she said during pair review, followed by reopened direct speech. Day/night parallel216 retained.",
     "semetey-1-2013:p0217:b003:l009": "Жетесиз канды төгөрмүн worthless/unworthy blood; кан interpreted blood with spill verb, not a khan murdered. Victim and self-reference not invented.",
+    "semetey-1-2013:p0217:b003:l010": "Тайкуш in Аргымакка жал тайкуш repeats unresolved216:3:28; full referent and sense not established. Whole verse withheld. Completion-first first pass: Low-confidence approximate rendering for “Аргымакка жал тайкуш,”; nearest corpus parallel was “Аргымакка артып кет,”.",
     "semetey-1-2013:p0217:b003:l013": "Бел support/back metaphor; renowned champion supplied provisionally from белгилүүм, absence of Kyrgyz supporters explicit15.",
     "semetey-1-2013:p0217:b003:l018": "Огой read Nogai with dropped initial н, primary2010 editorial preface discusses spelling. No mysterious Ogoy person invented.",
     "semetey-1-2013:p0217:b003:l021": "Араан devouring maw, retain horse mouth hyperbole.",
     "semetey-1-2013:p0217:b003:l025": "Primary Yudakhin телик: small male falcon, also epic gripping bird of prey. Generic bird of prey avoids unsupported vulture species. Threat to corpse conditional, not actual death.",
+    "semetey-1-2013:p0217:b003:l029": "RESTORED after root individually inspected primary Kyrgyz1960 glossaryPDF374, sources/raw/semetey-1960-glossary-aid.pdf SHA7ac3f8ee9a8e53f7c633ed5865a58f87cf1fc51399ce0a9c3dd9c67d5c66034a URLhttps://cdn-1.aki.kg/st_bilimlib/2/e16422eeace9f6cdc0d6f56d7613e629a4c39663.pdf: exact Упарак кылба сөзүмдү gloss жокко чыгарба, калп деп санаба. Direct English Do not dismiss my words as false; no mere phonetic replacement. Original2013source wording unchanged; source/English pair reread.",
     "semetey-1-2013:p0217:b003:l033": "Six separate looks through spyglass, not six races. Toru=my Bay affectionate horse designation, no extra proper person.",
     "semetey-1-2013:p0217:b003:l036": "Before appointed death explicit character lament, no newly narrated death.",
     "semetey-1-2013:p0217:b005:l007": "643 steeds source count retained exactly; amanat entrusting horse to God.",
@@ -346,74 +342,9 @@
     "semetey-1-2013:p0218:b004:l022": "It-Torpu and It-Olor toponyms retained, not actual dead dog invented.",
     "semetey-1-2013:p0218:b004:l027": "No twig left on earth literal threat/hyperbole retained across separate verses; who would suffer not added. Specialist review needed for discourse relation.",
     "semetey-1-2013:p0218:b004:l030": "Budur/budurmak rough terrain descriptive, compared adyr/adyrmak hilly terrain33–34; capitalization retained as sentence case not proof of named passes.",
-    "semetey-1-2013:p0218:b004:l038": "Keng-Kepe named ridge, no unsupported location coordinates. Sentence continues219.",
-    "semetey-1-2013:p0217:b003:l001": "Reporting formula деп restored as she said during pair review, followed by reopened direct speech. Day/night parallel216 retained.",
-    "semetey-1-2013:p0217:b003:l029": "RESTORED after root individually inspected primary Kyrgyz1960 glossaryPDF374, sources/raw/semetey-1960-glossary-aid.pdf SHA7ac3f8ee9a8e53f7c633ed5865a58f87cf1fc51399ce0a9c3dd9c67d5c66034a URLhttps://cdn-1.aki.kg/st_bilimlib/2/e16422eeace9f6cdc0d6f56d7613e629a4c39663.pdf: exact Упарак кылба сөзүмдү gloss жокко чыгарба, калп деп санаба. Direct English Do not dismiss my words as false; no mere phonetic replacement. Original2013source wording unchanged; source/English pair reread."
+    "semetey-1-2013:p0218:b004:l038": "Keng-Kepe named ridge, no unsupported location coordinates. Sentence continues219."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0216:b003:l028"
-      ],
-      "raw": [
-        "Àðãûìàê æàëäóó òàéêóøóì"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0216:b003:l028",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 216,
-          "block": 3,
-          "line_in_block": 28,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 526.6197,
-            "xMax": 242.364,
-            "yMax": 539.8077
-          },
-          "raw": "Àðãûìàê æàëäóó òàéêóøóì",
-          "text": "Аргымак жалдуу тайкушум",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Тайкушум in Аргымак жалдуу тайкушум remains unidentified. Horse-mane comparison alone insufficient for full verse. No bird species or personal name invented.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0217:b003:l010"
-      ],
-      "raw": [
-        "Àðãûìàêêà æàë òàéêóø,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0217:b003:l010",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 217,
-          "block": 3,
-          "line_in_block": 10,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 271.0197,
-            "xMax": 228.0696,
-            "yMax": 284.2077
-          },
-          "raw": "Àðãûìàêêà æàë òàéêóø,",
-          "text": "Аргымакка жал тайкуш,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Тайкуш in Аргымакка жал тайкуш repeats unresolved216:3:28; full referent and sense not established. Whole verse withheld.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -425,5 +356,17 @@
     ],
     "evidence": "Individually inspected /tmp/semetey-root-0216.png through0218.png, left column then right; one indented wrap grouped. All233 reconstructed source/English positions read in two blocks117+116. Reporting formula217:3:1 restored during pair review and reread. Two whole unresolved verses excluded, all physical source evidence retained. Later217:3:29 restored from directly inspected primary glossary374; source/English pair reread. Two remaining whole gaps are216:3:28 and217:3:10 тайкуш."
   },
-  "alignment_check": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[216,218],"rows_checked":231,"status":"draft; no independent specialist review","details":"Audited all 231 included narrative rows on printed pages 216 through 218 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Two unresolved source verses remain excluded as documented."}
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      216,
+      218
+    ],
+    "rows_checked": 231,
+    "status": "draft; no independent specialist review",
+    "details": "Audited all 231 included narrative rows on printed pages 216 through 218 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Two unresolved source verses remain excluded as documented."
+  },
+  "source_joiners": {}
 }

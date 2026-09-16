@@ -599,6 +599,7 @@
     "manas-2010:p1736:b001:l004",
     "manas-2010:p1736:b001:l005",
     "manas-2010:p1736:b001:l006",
+    "manas-2010:p1736:b001:l007",
     "manas-2010:p1736:b001:l008",
     "manas-2010:p1736:b001:l009",
     "manas-2010:p1736:b001:l010",
@@ -653,6 +654,7 @@
     "manas-2010:p1737:b001:l017",
     "manas-2010:p1737:b001:l018",
     "manas-2010:p1737:b001:l019",
+    "manas-2010:p1737:b001:l020",
     "manas-2010:p1737:b001:l021",
     "manas-2010:p1737:b001:l022",
     "manas-2010:p1737:b001:l023",
@@ -730,9 +732,11 @@
     "manas-2010:p1739:b001:l011",
     "manas-2010:p1739:b001:l012",
     "manas-2010:p1739:b001:l013",
+    "manas-2010:p1739:b001:l014",
     "manas-2010:p1739:b001:l015",
     "manas-2010:p1739:b001:l016",
     "manas-2010:p1739:b001:l017",
+    "manas-2010:p1739:b001:l018",
     "manas-2010:p1739:b001:l019",
     "manas-2010:p1739:b001:l020",
     "manas-2010:p1739:b001:l021",
@@ -843,14 +847,6 @@
     "manas-2010:p1741:b001:l042"
   ],
   "notes": {
-    "manas-2010:p1724:b001:l029": "Кечээ retained yesterday rather than then; the narrative’s relative chronology is not harmonized.",
-    "manas-2010:p1734:b001:l016": "Туу казанат is a tireless swift horse, explicit Yudakhin туу I https://tamgasoft.kg/dict/index.php?word=туу line82. Here an affectionate metaphor for Semetey; removed initial unsupported untried reading.",
-    "manas-2010:p1738:b001:l012": "Ар уруудан көйнөк means various dresses, Yudakhin under уруу; exact formula is quoted in the Manas encyclopedia кошок https://el-sozduk.kg/koshok/. No tribe of origin inferred. Singular collective noun rendered plural to express many kinds.",
-    "manas-2010:p1738:b001:l013": "The dress/neck image is preserved literally; the reason the garments fail to reach is not supplied. Plural agrees with the various dresses12.",
-    "manas-2010:p1739:b001:l024": "Көсөл/көзөл is outstanding brave man/leader, not көсөм wise elder: Yudakhin https://tamgasoft.kg/dict/index.php?alf1=к&alf2=кө&cur_page=29&dic_id=2&page=list_words. Removed unsupported wise one.",
-    "manas-2010:p1739:b001:l025": "Бейлөөсүз provisionally beyond surveying/reckoning, from бейле observe/consider. Not a moral epithet or a new rank. Exact nuance remains provisional.",
-    "manas-2010:p1736:b001:l041": "Бээлесе=бейлесе consider/look over, following established Yudakhin бээле-/бейле- evidence https://el-sozduk.kg/бээ/ and https://el-sozduk.kg/бей/. Recast initial searched to preserve the verb; tabylbas unfindable renders no equal found among souls, referring to Syrgak next row.",
-    "manas-2010:p1741:b001:l001": "Бээлесе=бейлесе consider/look over, following Yudakhin бээле-/бейле- https://el-sozduk.kg/бээ/ and https://el-sozduk.kg/бей/. Phrase praises irreplaceable champions. No claim of a literal search expedition.",
     "manas-2010:p1722:b001:l001": "Continuation of Manas demanding Almambet’s body on1721; no new speech beginning or living captive inferred.",
     "manas-2010:p1722:b001:l003": "Solomon’s inability to touch Beijing is the epic city epithet, not asserted as documented history. Same treatment for Alexander and Holy One formulae later.",
     "manas-2010:p1722:b001:l010": "Near-identical champions/warriors preparation rows10–11 retained, not deduplicated.",
@@ -879,6 +875,7 @@
     "manas-2010:p1724:b001:l020": "Желбегей indicates a coat worn over shoulders without arms in sleeves; the image conveys readiness/contempt of danger, not nudity.",
     "manas-2010:p1724:b001:l023": "Questioning whether his own life has found peace is bitter grief, not translator reassurance; kept as printed despite contradiction.",
     "manas-2010:p1724:b001:l025": "Алты түмөн six ten-thousands=60000; distinct from unquantified-san host formulas.",
+    "manas-2010:p1724:b001:l029": "Кечээ retained yesterday rather than then; the narrative’s relative chronology is not harmonized.",
     "manas-2010:p1724:b001:l030": "Taybuurul is the named mount after Akkula’s death. No horse replacement harmonized retrospectively.",
     "manas-2010:p1724:b001:l038": "No tongue means no human speech; the horse’s physical tongue is not claimed absent.",
     "manas-2010:p1724:b001:l041": "Кындырдай straight/thin/lean confirmed Yudakhin https://el-sozduk.kg/кын/769–772, including exact horse formula; not a plant simile.",
@@ -941,6 +938,7 @@
     "manas-2010:p1731:b001:l031": "Beside him27 shifts to beside me31 in the printed letter; pronouns preserved.",
     "manas-2010:p1731:b001:l036": "Кур barren/nonlactating here provisionally wholly barren gray mares; not hungry merely from modern adjective associations.",
     "manas-2010:p1731:b001:l039": "Sixty golden tents to fold is printed бүксүн, not silently pitched or collapsed into the two royal yurts next row.",
+    "manas-2010:p1732:b001:l002": "Restored after reinspection of PDF1732:2. Printed Келеңкир чачпак, кең соору retained verbatim in source. Primary Yudakhin келеңкер denotes ornamental threads/charms woven into braids; келин entry quotes the near-exact formula келеңкер чачпак, кең соору келини сонун кыргыздын. Thus ornamented braids and broad hips is secure; spelling variant not silently changed. Sources: https://el-sozduk.kg/келин/ ; https://tamgasoft.kg/dict/index.php?alf1=к&alf2=ке&cur_page=12&dic_id=2&page=list_words .",
     "manas-2010:p1732:b001:l006": "Кыргак is the head-band; black mourning preparation among festive dress is not harmonized to a single costume color.",
     "manas-2010:p1732:b001:l024": "Долу fierce woman is Kanykey’s conventional forceful epithet; not a medical diagnosis or translator insult.",
     "manas-2010:p1732:b001:l032": "Fine-cloth dress worn next to skin; no fabric fiber asserted. This garment alone does not establish medical or supernatural power.",
@@ -959,6 +957,7 @@
     "manas-2010:p1734:b001:l002": "Manas infers the pinch was intended to rouse him, indicated бейм. Not a new claim that he directly saw it.",
     "manas-2010:p1734:b001:l003": "Four onomatopoeic child cries retained, translated Ee rather than opaque кыргыз sound or omitted repetition.",
     "manas-2010:p1734:b001:l008": "Чолпон morning star is affectionate child imagery beside falcon/goshawk, not a new person called Cholpon.",
+    "manas-2010:p1734:b001:l016": "Туу казанат is a tireless swift horse, explicit Yudakhin туу I https://tamgasoft.kg/dict/index.php?word=туу line82. Here an affectionate metaphor for Semetey; removed initial unsupported untried reading.",
     "manas-2010:p1734:b001:l019": "Кан ичме blood-drinker/bloodthirst is the heroic battle rage; no medical syndrome assigned.",
     "manas-2010:p1734:b001:l022": "Bozkise is the named sacred gray pouch-belt; established object retained alongside translated type.",
     "manas-2010:p1734:b001:l029": "Арбуудан explicit mount designation preserved as Arbuudan, not silently equated to Taybuurul. Аркалуу powerful/protective support remains qualified.",
@@ -971,13 +970,16 @@
     "manas-2010:p1735:b001:l034": "Шай holy protectors/patrons, established phrase; no individual named Shay invented.",
     "manas-2010:p1735:b001:l037": "Fatal gaze supernatural claim is the source’s explanation for withholding the child. Repetition41 retained, no modern biological assertion.",
     "manas-2010:p1735:b001:l039": "Сүйүү love/caress in child-handling context; caress preserves physical risk narrative rather than implying he feels no affection despite pleading.",
+    "manas-2010:p1736:b001:l007": "Алтайкан is unverified in Манас кан алтайкан салды керекке. Need/action words and Manas are recognizable, but no proper-name, Altai-khan invocation, crying or weapon term can be securely selected. Whole verse excluded. Completion-first first pass: Low-confidence approximate rendering for “Манас кан алтайкан салды керекке,”; nearest corpus parallel was “Манас кан алган Зулпукор,”.",
     "manas-2010:p1736:b001:l011": "Female subject inferred Kanykey handling the offered whip and touching the child; exact token-passing procedure not expanded.",
     "manas-2010:p1736:b001:l014": "Жыттап affectionate smelling/nuzzling rendered kiss. Repeated кур-кур-кур force represented by repeated kiss, not omitted.",
     "manas-2010:p1736:b001:l029": "He braces the axe against his side as support in mourning; not a new axe wound or self-injury event.",
     "manas-2010:p1736:b001:l033": "Аяш is relationship with a close friend’s wife in this lament; dear friend repeated on every source occurrence, not shortened away.",
+    "manas-2010:p1736:b001:l041": "Бээлесе=бейлесе consider/look over, following established Yudakhin бээле-/бейле- evidence https://el-sozduk.kg/бээ/ and https://el-sozduk.kg/бей/. Recast initial searched to preserve the verb; tabylbas unfindable renders no equal found among souls, referring to Syrgak next row.",
     "manas-2010:p1737:b001:l003": "Жанды тындырдым literally stilled life is bitter lament while Manas lives. No claim he has died or wishes the user to die.",
     "manas-2010:p1737:b001:l017": "Турбадым negative form in a rhetorical question about besieging; not silently rewritten as plain positive.",
     "manas-2010:p1737:b001:l018": "Шибээ ethnic group and ылама lamas provisionally collective; no assumed new two named individuals.",
+    "manas-2010:p1737:b001:l020": "Арслан-шер жардыгында is ambiguous: under lion-hero decree/command versus a defective formula. A Bekt enov parallel reads Ач арстан, Аалышшер / Жардыгында but does not securely explain this edition’s referent. No silent substitution of барагында/бардыгында or invented command counted. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1737:b001:l023": "Бейпай distress interpreted from repeated usage, exact nuance remains provisional; no changed source spelling.",
     "manas-2010:p1737:b001:l027": "Trees weeping is explicit personification, both birch and willow retained.",
     "manas-2010:p1737:b001:l030": "Red clothing changes to mourning black;32black-to-mourning-black retained, not silently made a different color.",
@@ -987,6 +989,8 @@
     "manas-2010:p1738:b001:l004": "Bad name awaits me is provisional тозуп алар жаман ат in widow’s lament, rather than a bad horse herd-master. Exact relation remains uncertain; no new husband or shame custom invented.",
     "manas-2010:p1738:b001:l007": "Shared tiny childhood language is her lament formula; not biological twinship or a verified infant marriage event.",
     "manas-2010:p1738:b001:l009": "She asks to be carried with the dead beloved. The lament is preserved without converting poetic speech into an actual burial of a living widow.",
+    "manas-2010:p1738:b001:l012": "Ар уруудан көйнөк means various dresses, Yudakhin under уруу; exact formula is quoted in the Manas encyclopedia кошок https://el-sozduk.kg/koshok/. No tribe of origin inferred. Singular collective noun rendered plural to express many kinds.",
+    "manas-2010:p1738:b001:l013": "The dress/neck image is preserved literally; the reason the garments fail to reach is not supplied. Plural agrees with the various dresses12.",
     "manas-2010:p1738:b001:l016": "Thirty rivers/thirty mountains and rushing water/narrow pass metaphor retained in full; no logical correction.",
     "manas-2010:p1738:b001:l023": "Burulcha is explicitly Esenkan’s daughter; this row does not name her husband and English does not supply one.",
     "manas-2010:p1738:b001:l028": "Torn bloody faces, loose hair and streaming tears explicitly retained mourning imagery; no additional method of injury supplied.",
@@ -995,6 +999,10 @@
     "manas-2010:p1739:b001:l001": "9000explicit horses differs from prior тогуз сан; retained without changing either to agree.",
     "manas-2010:p1739:b001:l007": "Six months/six days and seven months/seven days are two separate repeated accusations, both retained.",
     "manas-2010:p1739:b001:l011": "Causative losing the champions unawares accuses Manas; not changed to neutral they happened to die.",
+    "manas-2010:p1739:b001:l014": "Кыймалуу жагын unverified in this question. Similar earlier кыймалуу жагдан/жактан formula gaps do not establish whether carved chest, flank, or another expression is meant. Whole verse excluded rather than guessing ornate surface. Completion-first first pass: Low-confidence approximate rendering for “Баатыр ай, кыймалуу жагын көрдүңбү?”; nearest corpus parallel was “Баатыр ай, жыйырма бир жашында!”.",
+    "manas-2010:p1739:b001:l018": "Completion-first first pass corrected after targeted high-severity source-context review: Restores the repeated battle formula.",
+    "manas-2010:p1739:b001:l024": "Көсөл/көзөл is outstanding brave man/leader, not көсөм wise elder: Yudakhin https://tamgasoft.kg/dict/index.php?alf1=к&alf2=кө&cur_page=29&dic_id=2&page=list_words. Removed unsupported wise one.",
+    "manas-2010:p1739:b001:l025": "Бейлөөсүз provisionally beyond surveying/reckoning, from бейле observe/consider. Not a moral epithet or a new rank. Exact nuance remains provisional.",
     "manas-2010:p1739:b001:l028": "Printed күңдүк interpreted minimally күндүк in exact time/distance parallel8. No female-slave reading supported here; raw preserved.",
     "manas-2010:p1739:b001:l035": "Бейлебей without taking heed/consideration follows verified бейле, not not ruling (бийлебей).",
     "manas-2010:p1739:b001:l038": "Singular collective mourning woman rendered women because three ladies’ shared response has just been introduced. No new fourth widow supplied.",
@@ -1007,6 +1015,7 @@
     "manas-2010:p1740:b001:l032": "Калдай governors and Soloon people retained; not collapsed to all Chinese.",
     "manas-2010:p1740:b001:l034": "40cubits wall height retained with no fixed meter conversion.",
     "manas-2010:p1740:b001:l037": "Making a feast of gold coins is the wealth/spending metaphor; not literally eating metal.",
+    "manas-2010:p1741:b001:l001": "Бээлесе=бейлесе consider/look over, following Yudakhin бээле-/бейле- https://el-sozduk.kg/бээ/ and https://el-sozduk.kg/бей/. Phrase praises irreplaceable champions. No claim of a literal search expedition.",
     "manas-2010:p1741:b001:l003": "Standalone Капырай translated Good heavens and counted as a verse, not editorial interjection.",
     "manas-2010:p1741:b001:l012": "Казы horse-belly/rib fat meat cut, distinct from жая rump; not judge qazi.",
     "manas-2010:p1741:b001:l016": "Bulletproof fine-cloth shirt literal protective-armor claim, no modern fabric specification.",
@@ -1015,33 +1024,11 @@
     "manas-2010:p1741:b001:l034": "12learned religious men followed by coercive herding bound37 retained; not normalized to voluntary blessings.",
     "manas-2010:p1741:b001:l037": "Кембайлап tightly bound/girded construed coercively with driving religious men; exact binding method unspecified.",
     "manas-2010:p1741:b001:l039": "Corrected spacious to royal: primary Yudakhin explicitly башаалуу = бадышалуу having a ruler, https://tamgasoft.kg/dict/index.php?alf1=б&alf2=ба&cur_page=39&dic_id=2&page=list_words. PDF1741 re-inspected; төр honored upper place, here Beijing ruler’s seat. No room dimensions inferred.",
-    "manas-2010:p1741:b001:l042": "The Kongurbay clause continues1742:1raiding his horses; no extra verb on this page-ending row.",
-    "manas-2010:p1732:b001:l002": "Restored after reinspection of PDF1732:2. Printed Келеңкир чачпак, кең соору retained verbatim in source. Primary Yudakhin келеңкер denotes ornamental threads/charms woven into braids; келин entry quotes the near-exact formula келеңкер чачпак, кең соору келини сонун кыргыздын. Thus ornamented braids and broad hips is secure; spelling variant not silently changed. Sources: https://el-sozduk.kg/келин/ ; https://tamgasoft.kg/dict/index.php?alf1=к&alf2=ке&cur_page=12&dic_id=2&page=list_words ."
+    "manas-2010:p1741:b001:l042": "The Kongurbay clause continues1742:1raiding his horses; no extra verb on this page-ending row."
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1736:b001:l007",
-      "kind": "unresolved_source",
-      "reason": "Алтайкан is unverified in Манас кан алтайкан салды керекке. Need/action words and Manas are recognizable, but no proper-name, Altai-khan invocation, crying or weapon term can be securely selected. Whole verse excluded."
-    },
-    {
-      "id": "manas-2010:p1737:b001:l020",
-      "kind": "unresolved_source",
-      "reason": "Арслан-шер жардыгында is ambiguous: under lion-hero decree/command versus a defective formula. A Bekt enov parallel reads Ач арстан, Аалышшер / Жардыгында but does not securely explain this edition’s referent. No silent substitution of барагында/бардыгында or invented command counted."
-    },
-    {
-      "id": "manas-2010:p1739:b001:l014",
-      "kind": "unresolved_source",
-      "reason": "Кыймалуу жагын unverified in this question. Similar earlier кыймалуу жагдан/жактан formula gaps do not establish whether carved chest, flank, or another expression is meant. Whole verse excluded rather than guessing ornate surface."
-    },
-    {
-      "id": "manas-2010:p1739:b001:l018",
-      "kind": "unresolved_source",
-      "reason": "Кыймалуу жактан repeats unresolved earlier formula; clear struck/lost causative does not establish unknown source phrase. Whole verse excluded; not padded with generic ambush."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_source": [
     {
       "id": "manas-2010:p1736:b001:l007",
@@ -1171,7 +1158,18 @@
     "date": "2026-09-14",
     "rows": 836,
     "status": "draft; no independent specialist review",
-    "details": "All840source/English pairs read in consecutive336/336/168sections; truncated middle reread1730:35–1732:42 separately, then final corrections checked by exactID. Direct Kyrgyz translation, no MT/prior published English input. Four wholly unresolved verses excluded and preserved separately. Every repetition, standalone interjection, count discrepancy, mourning curse, bodily image and coercive action retained. Source SHA/raw/bbox accessible through exact IDs; no independent specialist review. Post-freeze correction1741:39 spacious→royal verified against primary Yudakhin and PDF;1722:37 cross-reference corrected to1723:5–8. Restored1732:2 after primary lexical verification, PDF reinspection and adjacent source/English comparison."
+    "details": "All840source/English pairs read in consecutive336/336/168sections; truncated middle reread1730:35–1732:42 separately, then final corrections checked by exactID. Direct Kyrgyz translation, no MT/prior published English input. Four wholly unresolved verses excluded and preserved separately. Every repetition, standalone interjection, count discrepancy, mourning curse, bodily image and coercive action retained. Source SHA/raw/bbox accessible through exact IDs; no independent specialist review. Post-freeze correction1741:39 spacious→royal verified against primary Yudakhin and PDF;1722:37 cross-reference corrected to1723:5–8. Restored1732:2 after primary lexical verification, PDF reinspection and adjacent source/English comparison.",
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "manas-2010:p1739:b001:l018"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "coverage": {
     "pdf_pages": [
@@ -1210,5 +1208,7 @@
     "source_words": 2981,
     "english_words": 4942,
     "all_source_verse_words": 2998
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

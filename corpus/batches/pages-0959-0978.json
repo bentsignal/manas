@@ -602,6 +602,7 @@
     "manas-2010:p0973:b001:l006",
     "manas-2010:p0973:b001:l007",
     "manas-2010:p0973:b001:l008",
+    "manas-2010:p0973:b001:l009",
     "manas-2010:p0973:b001:l010",
     "manas-2010:p0973:b001:l011",
     "manas-2010:p0973:b001:l012",
@@ -878,6 +879,9 @@
     "manas-2010:p0964:b001:l006": "Marriage and religious scholars in6–8 retained without adding details of consummation.",
     "manas-2010:p0964:b001:l020": "Self-blame and blame in20–24 belong to the narrated conflict; no endorsement added.",
     "manas-2010:p0964:b001:l023": "Brow/eyebrow image retained in the complaint; exact idiomatic force uncertain.",
+    "manas-2010:p0964:b003:l004": "Box-shaped beards preserves the үкөк simile.",
+    "manas-2010:p0964:b003:l005": "Sart retained as a historical group designation, not equated with a modern ethnicity.",
+    "manas-2010:p0964:b003:l009": "Dust image accompanies the arrivals; not an actual fire.",
     "manas-2010:p0965:b001:l009": "Күрмөк is barnyard millet/weed associated with rice fields, Yudakhin https://el-sozduk.kg/күрмөк/.",
     "manas-2010:p0965:b001:l013": "Үрбү is read as the personal name Ürbü despite lowercase extraction.",
     "manas-2010:p0965:b001:l025": "Üyrülmö and Chogulma retained as named gathering places without modern identification.",
@@ -920,11 +924,13 @@
     "manas-2010:p0972:b001:l021": "Image reads жөө, on foot; not silently emended to жоо, enemy.",
     "manas-2010:p0972:b001:l024": "Mountain is visibly printed; not silently changed to enemy.",
     "manas-2010:p0972:b001:l035": "Кол interpreted as army in this mobilization context.",
+    "manas-2010:p0973:b001:l009": "Image legible. Edition glossary and primary-dictionary searches did not establish күлдүркөн; leather would be an unsupported guess. Entire verse excluded from translated line and word totals. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0973:b001:l020": "The implicit subject in20–24 is provisionally Bakay, explicitly named later at39.",
     "manas-2010:p0973:b001:l025": "Civilian blame in25–31 remains the character’s warning.",
     "manas-2010:p0973:b001:l038": "Ethnic/religious contrast retained as the speaker’s warning, without endorsement.",
     "manas-2010:p0974:b001:l008": "Кембай retains the guard/escort sense; no chains supplied.",
     "manas-2010:p0974:b001:l012": "Drawing a line is the literal gesture; precise threatened action remains implicit.",
+    "manas-2010:p0974:b001:l022": "Corrected after individual PDF reinspection and primary Yudakhin чок I2: exact чок белбоо means tasselled sash/belt (quotes алтын айдар чок белбоо), not fiery. Existing golden forelock/crest wording preserved.",
     "manas-2010:p0974:b001:l034": "Twelve thousand retained as the printed troop count.",
     "manas-2010:p0975:b001:l012": "Twelve nations had not attacked is the epic negative-attack formula; compare compressed966:25.",
     "manas-2010:p0975:b001:l014": "Жая is the horse’s hindquarter meat in this context.",
@@ -945,22 +951,13 @@
     "manas-2010:p0978:b001:l019": "Violent threats in19–29 belong to the character’s speech.",
     "manas-2010:p0978:b001:l029": "Даңгыт is a large dog, edition glossary1836:b001:l028.",
     "manas-2010:p0978:b001:l039": "The return-from-Beijing wording is retained despite the army’s pending departure; temporal incongruity not harmonized.",
-    "manas-2010:p0978:b001:l042": "Sentence continues onto979; no invented completion appended.",
-    "manas-2010:p0964:b003:l004": "Box-shaped beards preserves the үкөк simile.",
-    "manas-2010:p0964:b003:l005": "Sart retained as a historical group designation, not equated with a modern ethnicity.",
-    "manas-2010:p0964:b003:l009": "Dust image accompanies the arrivals; not an actual fire.",
-    "manas-2010:p0974:b001:l022": "Corrected after individual PDF reinspection and primary Yudakhin чок I2: exact чок белбоо means tasselled sash/belt (quotes алтын айдар чок белбоо), not fiery. Existing golden forelock/crest wording preserved."
+    "manas-2010:p0978:b001:l042": "Sentence continues onto979; no invented completion appended."
   },
   "excluded_source_ids": [
     {
       "id": "manas-2010:p0964:b002:l001",
       "kind": "heading",
       "reason": "Printed section heading; translated separately."
-    },
-    {
-      "id": "manas-2010:p0973:b001:l009",
-      "kind": "unresolved_source",
-      "reason": "Unidentified күлдүркөн material/epithet in otherwise legible coat description; no verified complete English reading."
     }
   ],
   "headings": [
@@ -1023,8 +1020,8 @@
     "independent_review": false
   },
   "counts": {
-    "translated_verse_rows": 836,
-    "english_words": 4605,
+    "translated_verse_rows": 837,
+    "english_words": 4609,
     "per_page": [
       {
         "page": 959,
@@ -1129,18 +1126,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p0973:b001:l009"
-      ],
-      "raw": "Көк күлдүркөн тон менен",
-      "transliteration_only": "Kök küldürkön ton menen",
-      "partial_english_not_counted": "Wearing a blue [unidentified material/epithet] coat,",
-      "note": "Image legible. Edition glossary and primary-dictionary searches did not establish күлдүркөн; leather would be an unsupported guess. Entire verse excluded from translated line and word totals.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p0973:b001:l008",
-      "before_source_id": "manas-2010:p0973:b001:l010"
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

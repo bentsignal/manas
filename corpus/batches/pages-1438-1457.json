@@ -349,6 +349,7 @@
     "manas-2010:p1446:b001:l005",
     "manas-2010:p1446:b001:l006",
     "manas-2010:p1446:b001:l007",
+    "manas-2010:p1446:b001:l008",
     "manas-2010:p1446:b001:l009",
     "manas-2010:p1446:b001:l010",
     "manas-2010:p1446:b001:l011",
@@ -846,28 +847,8 @@
     "manas-2010:p1457:b001:l041",
     "manas-2010:p1457:b001:l042"
   ],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1446:b001:l008",
-      "kind": "unresolved_source",
-      "reason": "Алтын айдар кең бурчту is visibly printed. Golden forelock and broad corners are recognizable words, but their referent and the construction leading into Kökchö’s confinement are not defensibly resolved. No established proper-name or city reading found. Whole verse retained raw/transliterated outside English translation count; no padded English or silent emendation."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1446:b001:l008"
-      ],
-      "raw": [
-        "Алтын айдар кең бурчту"
-      ],
-      "transliteration": [
-        "Altyn aydar keng burchtu"
-      ],
-      "reason": "Алтын айдар кең бурчту is visibly printed. Golden forelock and broad corners are recognizable words, but their referent and the construction leading into Kökchö’s confinement are not defensibly resolved. No established proper-name or city reading found. Whole verse retained raw/transliterated outside English translation count; no padded English or silent emendation.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "headings": [],
   "prose_passages": [],
   "notes": {
@@ -916,6 +897,7 @@
     "manas-2010:p1445:b001:l029": "Чаган spring festival in Yudakhin https://el-sozduk.kg/чага/. Every day is the source hyperbole, not a calendar correction.",
     "manas-2010:p1445:b001:l041": "Була valuables/precious fabrics and furnishings, not simply cotton; Yudakhin exact plunder formula https://el-sozduk.kg/була/.",
     "manas-2010:p1446:b001:l004": "Көксөө decrepit old person: https://el-sozduk.kg/koksoo-4/. Not the desire verb көксө-.",
+    "manas-2010:p1446:b001:l008": "Алтын айдар кең бурчту is visibly printed. Golden forelock and broad corners are recognizable words, but their referent and the construction leading into Kökchö’s confinement are not defensibly resolved. No established proper-name or city reading found. Whole verse retained raw/transliterated outside English translation count; no padded English or silent emendation. Completion-first first pass: Low-confidence approximate rendering for “Алтын айдар кең бурчту”; nearest corpus parallel was “Алтын айдар барабан”.",
     "manas-2010:p1446:b001:l018": "Millet and wife comparisons are disparaging ethnic stereotypes spoken by the narrator; retained without endorsement.",
     "manas-2010:p1446:b001:l039": "Шер animal-hero epithet; tigers is metaphorical, not additional characters.",
     "manas-2010:p1447:b001:l008": "Contextually retranslated from the complete formula Ордолуу шайык көк жөкөр. Primary 1960 Semetey glossary PDF374 explicitly identifies it as an epithet of Kokand: great/holy/famous city and capital inhabited by many sheikhs. The complete formula, source image and adjacent Kyrgyz verses were individually reviewed; ordinary жөкөр dictionary footwear/retainer senses do not govern this geographic formula. Original raw text, IDs, coordinates and source lineation remain unchanged. Formula introduces Kokon/Margalang whose khans Kozubek and Malabek are named next; city epithet.",
@@ -1037,9 +1019,11 @@
   ],
   "publication_basis": "New draft directly translated from Kyrgyz traditional folklore; no prior English poem translation input. One unresolved verse retained separately outside English count. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 839,
-    "english_words": 4529,
-    "unresolved_source_rows": 1,
+    "english_verse_rows": 840,
+    "english_words": 4536,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

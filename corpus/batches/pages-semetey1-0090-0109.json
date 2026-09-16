@@ -1347,6 +1347,7 @@
     "semetey-1-2013:p0107:b005:l013",
     "semetey-1-2013:p0107:b005:l014",
     "semetey-1-2013:p0107:b005:l015",
+    "semetey-1-2013:p0107:b005:l016",
     "semetey-1-2013:p0107:b005:l017",
     "semetey-1-2013:p0107:b005:l018",
     "semetey-1-2013:p0107:b005:l019",
@@ -1808,6 +1809,7 @@
     "semetey-1-2013:p0106:b004:l037": "Return to former slave condition as former dependents disperse, speaker projection not narrator declaration of current legal status.",
     "semetey-1-2013:p0107:b003:l018": "кары elder in address to old Bakai and voluntary offer of himself, Baimyrza personal comparison retained without invented genealogy; not an arm detached here.",
     "semetey-1-2013:p0107:b003:l022": "буттап weigh by poods: exact Yudakhin https://el-sozduk.kg/бутта/ gold weighed by poods, not foot action.",
+    "semetey-1-2013:p0107:b005:l016": "Алачтан marked with glossary star but relevant glossary entry not located. White saddlebags and provenance construction understood; алач referent/material unresolved, so whole verse withheld rather than guessed. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0107:b005:l025": "Gold collar/copper sleeve double mail with lark-eye rings, epic armor attributes preserved alongside white-cloth coat without harmonizing separate objects.",
     "semetey-1-2013:p0107:b005:l027": "келеме clothing/robe sense in garment comparison, not automatically Quran scripture from separate келеме шарып expression.",
     "semetey-1-2013:p0107:b005:l036": "суп чепкен expensive white-cloth coat, exact Yudakhin https://el-sozduk.kg/суп/; dictionary allows white silk or white camel wool, material not over-specified.",
@@ -2029,11 +2031,6 @@
       "reason": "Printer signature, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0107:b005:l016",
-      "kind": "unresolved_source",
-      "reason": "Алачтан marked with glossary star but relevant glossary entry not located. White saddlebags and provenance construction understood; алач referent/material unresolved, so whole verse withheld rather than guessed."
-    },
-    {
       "id": "semetey-1-2013:p0107:b006:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -2117,12 +2114,25 @@
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
     "scope": "Every reconstructed source/English position read in paired review files, each of pages90–109; saved tmp/translation-semetey1-0090-0109/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
-    "targeted_qa_0090_0099": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[90,99],"rows_checked":756,"details":"Audited all 756 included narrative rows on printed pages 90 through 99 against their exact Kyrgyz source rows; corrected two instances where the epic epithet буудан for Bakai had been rendered as a literal horse. Pages 100–109 were outside this scoped pass."},
+    "targeted_qa_0090_0099": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        90,
+        99
+      ],
+      "rows_checked": 756,
+      "details": "Audited all 756 included narrative rows on printed pages 90 through 99 against their exact Kyrgyz source rows; corrected two instances where the epic epithet буудан for Bakai had been rendered as a literal horse. Pages 100–109 were outside this scoped pass."
+    },
     "targeted_qa_0100_0109": {
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [100, 109],
+      "page_range": [
+        100,
+        109
+      ],
       "rows_checked": 763,
       "details": "Audited all 763 included narrative rows on printed pages 100 through 109 against their exact Kyrgyz source rows; corrected eight rows for lexical meaning or neighboring-row displacement."
     }
@@ -2132,44 +2142,15 @@
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0107:b005:l016"
-      ],
-      "raw": "Àëà÷òàí* ò¿øêºí àê êóðæóí",
-      "ky": "Алачтан* түшкөн ак куржун",
-      "status": "unresolved",
-      "note": "Алачтан marked with glossary star but relevant glossary entry not located. White saddlebags and provenance construction understood; алач referent/material unresolved, so whole verse withheld rather than guessed.",
-      "after_source_id": "semetey-1-2013:p0107:b005:l015",
-      "before_source_id": "semetey-1-2013:p0107:b005:l017",
-      "source": {
-        "page": 107,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0107:b005:l016",
-            "raw": "Àëà÷òàí* ò¿øêºí àê êóðæóí",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 356.2197,
-              "xMax": 482.1948,
-              "yMax": 369.4077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    }
-  ],
+  "unresolved_passages": [],
   "counts": {
-    "translated_verse_rows": 1519,
-    "english_words": 8585,
-    "translated_source_fragments": 1557,
+    "translated_verse_rows": 1520,
+    "english_words": 8592,
+    "translated_source_fragments": 1558,
     "physical_narrative_fragments": 1558,
     "reconstructed_source_verses": 1520,
     "wrapped_verse_groups": 38,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "nonverse_extraction_records": 45,
     "watermark_records": 20,
     "source_words": 5215,

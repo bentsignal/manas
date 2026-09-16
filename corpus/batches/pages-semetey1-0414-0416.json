@@ -41,6 +41,8 @@
     "semetey-1-2013:p0414:b003:l035",
     "semetey-1-2013:p0414:b003:l036",
     "semetey-1-2013:p0414:b003:l037",
+    "semetey-1-2013:p0414:b003:l038",
+    "semetey-1-2013:p0414:b003:l039",
     "semetey-1-2013:p0414:b004:l001",
     "semetey-1-2013:p0414:b004:l003",
     "semetey-1-2013:p0414:b004:l004",
@@ -105,6 +107,7 @@
     "semetey-1-2013:p0415:b003:l024",
     "semetey-1-2013:p0415:b003:l025",
     "semetey-1-2013:p0415:b003:l026",
+    "semetey-1-2013:p0415:b003:l027",
     "semetey-1-2013:p0415:b003:l028",
     "semetey-1-2013:p0415:b003:l029",
     "semetey-1-2013:p0415:b003:l030",
@@ -227,6 +230,7 @@
     "semetey-1-2013:p0416:b004:l031",
     "semetey-1-2013:p0416:b004:l032",
     "semetey-1-2013:p0416:b004:l033",
+    "semetey-1-2013:p0416:b004:l034",
     "semetey-1-2013:p0416:b004:l035",
     "semetey-1-2013:p0416:b004:l036",
     "semetey-1-2013:p0416:b004:l037",
@@ -259,16 +263,6 @@
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0414:b003:l038",
-      "kind": "unresolved_source",
-      "reason": "Жейрендин эти өктөгө: meat/desire relation unclear in proverb. Whole verse held; primary өктө unfulfilled wish does not securely resolve syntax."
-    },
-    {
-      "id": "semetey-1-2013:p0414:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Жеткилең көөнүң бек калсын: secure direction of wish toward Kokcho unresolved; not silently emended to permanent disillusionment or loyalty."
-    },
-    {
       "id": "semetey-1-2013:p0415:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
@@ -279,11 +273,6 @@
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0415:b003:l027",
-      "kind": "unresolved_source",
-      "reason": "Кош алаба, суусар бөрк: алаба qualifier unresolved. Marten cap secure but whole verse held rather than omit qualifier."
-    },
-    {
       "id": "semetey-1-2013:p0416:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
@@ -292,11 +281,6 @@
       "id": "semetey-1-2013:p0416:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0416:b004:l034",
-      "kind": "unresolved_source",
-      "reason": "Олуят берген он жарды: identity of он жар and relation to following blessing unclear; no invented ten commandments."
     }
   ],
   "notes": {
@@ -309,6 +293,8 @@
     "semetey-1-2013:p0414:b003:l032": "Indented33 joins32 into one verse, preserved as two source fragments.",
     "semetey-1-2013:p0414:b003:l035": "Арамзаада bastard source insult retained as speaker's characterization.",
     "semetey-1-2013:p0414:b003:l037": "Plentiful/honey phrase retained before unresolved gazelle-meat proverb; no completion invented for held38.",
+    "semetey-1-2013:p0414:b003:l038": "Жейрендин эти өктөгө: meat/desire relation unclear in proverb. Whole verse held; primary өктө unfulfilled wish does not securely resolve syntax. Жеткилең көөнүң бек калсын: secure direction of wish toward Kokcho unresolved; not silently emended to permanent disillusionment or loyalty. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0414:b003:l039": "Жейрендин эти өктөгө: meat/desire relation unclear in proverb. Whole verse held; primary өктө unfulfilled wish does not securely resolve syntax. Жеткилең көөнүң бек калсын: secure direction of wish toward Kokcho unresolved; not silently emended to permanent disillusionment or loyalty. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0414:b004:l001": "Indented2 joins1; жерге кирген curse rendered damned, not actual buried corpse.",
     "semetey-1-2013:p0414:b004:l004": "Жаз cease/dispel and next күрдөө strength from primary күрдөлү2; negative challenge preserved, not positive making Almambet laugh.",
     "semetey-1-2013:p0414:b004:l016": "Last-month time phrase retained despite preceding months-long hunting account.",
@@ -316,6 +302,7 @@
     "semetey-1-2013:p0414:b004:l023": "Repeated деп уктум I heard preserves hearsay; reed confinement and beating not eyewitness claim.",
     "semetey-1-2013:p0414:b004:l027": "Mecca literal pilgrimage here, not separate maternal меке idiom.",
     "semetey-1-2013:p0414:b004:l029": "Dream eagle/sword interpreted as Almambet within Bakai speech; question mark preserved on30.",
+    "semetey-1-2013:p0414:b004:l031": "Alake object remains on source31 and grant verb32; source-order correspondence retained after pair review.",
     "semetey-1-2013:p0414:b004:l036": "Sixty wives and forty girls exact distinct source groups; not sixty warriors.",
     "semetey-1-2013:p0415:b003:l001": "Primary менде = бенде mortal/person, not pronoun in me or proper name Mende. Bakai wise in mortal ways.",
     "semetey-1-2013:p0415:b003:l011": "Aruuke and Kanykei fathers are brothers, so younger paternal cousin; сиңди literally younger sister in broad kinship use, not biological sister invented.",
@@ -323,6 +310,7 @@
     "semetey-1-2013:p0415:b003:l013": "Star moving in sky literal epic image retained.",
     "semetey-1-2013:p0415:b003:l015": "Friendship extending beyond death retained; tense shifts father/Alake then he arrival mirror source, not verse rearrangement.",
     "semetey-1-2013:p0415:b003:l020": "White wheat flour chewing and Holy Quran oath source customs kept separately; no additional ceremonial directions.",
+    "semetey-1-2013:p0415:b003:l027": "Кош алаба, суусар бөрк: алаба qualifier unresolved. Marten cap secure but whole verse held rather than omit qualifier. Unresolved whole verse excluded. Суусар marten, not sable or otter; алаба not guessed plume. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0415:b003:l033": "Kumis by day/girls by night source revelry phrase retained without explicit added sexual detail.",
     "semetey-1-2013:p0415:b003:l035": "Kydyr sacred benefactor touch/blessing, not a living visitor newly introduced.",
     "semetey-1-2013:p0415:b003:l039": "Primary убарлаш close friend/confidant, аташкан sworn friend; not forced co-suffering meaning.",
@@ -330,6 +318,7 @@
     "semetey-1-2013:p0415:b004:l008": "Black steel on arm sword equipment, not literal arm replacement.",
     "semetey-1-2013:p0415:b004:l010": "Horse endurance for six months epic description, no biological guarantee.",
     "semetey-1-2013:p0415:b004:l015": "Primary Yudakhin exact туубай туна чөгөйүн = curse hour of birth; no literal drowning procedure.",
+    "semetey-1-2013:p0415:b004:l017": "Lion object remains17, sending and seeing strength18, source-order correspondence retained.",
     "semetey-1-2013:p0415:b004:l020": "Бараң enemy ethnonym here, distinct gun sense416. Primary Manas Encyclopedia1 PDF209–210 explicitly defines ethnonym from fereng/parangi/Frank and quotes Karalaev маңдайында бараң бар as hostile people. Refers broadly to epic Europeans, not certified modern French identity. This evidence is NOT in Yudakhin headword. https://api.libraryiksu.kg/elibrary/books/Manas%20enciklopedia%20T7189.pdf",
     "semetey-1-2013:p0415:b004:l025": "Erkelik appeal to being beloved daughter, not courtship.",
     "semetey-1-2013:p0415:b004:l031": "Golden forelock and tasselled belt describes Azyz's only son; not horse description substituted.",
@@ -353,137 +342,11 @@
     "semetey-1-2013:p0416:b004:l017": "Урганы past God struck him, not silently changed into imperative curse.",
     "semetey-1-2013:p0416:b004:l023": "Manas's quoted reproaches retain denial, river camp, daughter worth less than yearling; no attempt to rationalize river verse.",
     "semetey-1-2013:p0416:b004:l031": "Refusing to lie/stay with Kanykei and six-month салбар neglected wife are source narrative, not independent diagnosis.",
+    "semetey-1-2013:p0416:b004:l034": "Олуят берген он жарды: identity of он жар and relation to following blessing unclear; no invented ten commandments. Он жар unresolved whole verse, no invented religious commandments. Following ceased to call it blessing retained with unresolved antecedent. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0416:b004:l036": "Hook-nosed black Sart source ethnic insult voiced by Kanykei, not editorial characterization of an ethnic group.",
-    "semetey-1-2013:p0416:b004:l039": "Repeats six-month neglect and continues next page, not apparatus or duplicate removed.",
-    "semetey-1-2013:p0414:b004:l031": "Alake object remains on source31 and grant verb32; source-order correspondence retained after pair review.",
-    "semetey-1-2013:p0415:b004:l017": "Lion object remains17, sending and seeing strength18, source-order correspondence retained."
+    "semetey-1-2013:p0416:b004:l039": "Repeats six-month neglect and continues next page, not apparatus or duplicate removed."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0414:b003:l038"
-      ],
-      "raw": [
-        "Æåéðåíäèí ýòè ºêòºãº,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0414:b003:l038",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 414,
-          "block": 3,
-          "line_in_block": 38,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 668.6997,
-            "xMax": 215.892,
-            "yMax": 681.8877
-          },
-          "raw": "Æåéðåíäèí ýòè ºêòºãº,",
-          "text": "Жейрендин эти өктөгө,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Жейрендин эти өктөгө: meat/desire relation unclear in proverb. Whole verse held; primary өктө unfulfilled wish does not securely resolve syntax.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0414:b003:l039"
-      ],
-      "raw": [
-        "Æåòêèëå¢ êººí¿¢ áåê êàëñûí"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0414:b003:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 414,
-          "block": 3,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 682.8597,
-            "xMax": 255.1596,
-            "yMax": 696.0477
-          },
-          "raw": "Æåòêèëå¢ êººí¿¢ áåê êàëñûí",
-          "text": "Жеткилең көөнүң бек калсын",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Жеткилең көөнүң бек калсын: secure direction of wish toward Kokcho unresolved; not silently emended to permanent disillusionment or loyalty.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0415:b003:l027"
-      ],
-      "raw": [
-        "Êîø àëàáà, ñóóñàð áºðê"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0415:b003:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 415,
-          "block": 3,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 512.4597,
-            "xMax": 218.0376,
-            "yMax": 525.6477
-          },
-          "raw": "Êîø àëàáà, ñóóñàð áºðê",
-          "text": "Кош алаба, суусар бөрк",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Кош алаба, суусар бөрк: алаба qualifier unresolved. Marten cap secure but whole verse held rather than omit qualifier. Unresolved whole verse excluded. Суусар marten, not sable or otter; алаба not guessed plume.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0416:b004:l034"
-      ],
-      "raw": [
-        "Îëóÿò áåðãåí îí æàðäû"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0416:b004:l034",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 416,
-          "block": 4,
-          "line_in_block": 34,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 611.8197,
-            "xMax": 447.6792,
-            "yMax": 625.0077
-          },
-          "raw": "Îëóÿò áåðãåí îí æàðäû",
-          "text": "Олуят берген он жарды",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Олуят берген он жарды: identity of он жар and relation to following blessing unclear; no invented ten commandments. Он жар unresolved whole verse, no invented religious commandments. Following ceased to call it blessing retained with unresolved antecedent.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -506,5 +369,6 @@
     "rows": 227,
     "status": "draft; no independent specialist review",
     "details": "Audited every included narrative row against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned; no row changes were required."
-  }
+  },
+  "source_joiners": {}
 }

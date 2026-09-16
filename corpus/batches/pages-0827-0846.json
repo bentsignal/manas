@@ -100,6 +100,7 @@
     "manas-2010:p0828:b001:l013",
     "manas-2010:p0828:b001:l014",
     "manas-2010:p0828:b001:l015",
+    "manas-2010:p0828:b001:l016",
     "manas-2010:p0828:b001:l017",
     "manas-2010:p0828:b001:l018",
     "manas-2010:p0828:b001:l019",
@@ -329,6 +330,7 @@
     "manas-2010:p0833:b001:l033",
     "manas-2010:p0833:b001:l034",
     "manas-2010:p0833:b001:l035",
+    "manas-2010:p0833:b001:l036",
     "manas-2010:p0833:b001:l037",
     "manas-2010:p0833:b001:l038",
     "manas-2010:p0833:b001:l039",
@@ -882,6 +884,7 @@
     "manas-2010:p0827:b001:l028": "Conditional about popular well-being is printed here despite its loose connection to the empty landscape.",
     "manas-2010:p0827:b001:l035": "Unhealing trouble is a literal, provisional reading of айыкпаган бир кыйын; the following dust points to impending combat.",
     "manas-2010:p0828:b001:l007": "God is the implicit subject of the favor-and-road proverb in lines7–8.",
+    "manas-2010:p0828:b001:l016": "Кыйырыңды is a visible quoted exclamation; dictionary frontier/relative senses do not establish the omitted curse. Full row withheld. Completion-first first pass: Low-confidence approximate rendering for “«Кыйырыңды!» - деп, бул чочко,”; nearest corpus parallel was “«Кырып сал!» - деп, бакырып,”.",
     "manas-2010:p0828:b001:l018": "The grammatical subject shifts in this recollection; inability is retained without inventing a new named actor.",
     "manas-2010:p0828:b001:l026": "Meat joint and orphaned yearling in26–27 are things not paid; their precise marriage-gift function is inferred from context.",
     "manas-2010:p0828:b001:l032": "Forced acquisition as a booty-wife is explicit; it is not rendered as consent.",
@@ -904,6 +907,7 @@
     "manas-2010:p0833:b001:l027": "Ике кыйбай = without performing the marriage rite, equivalent of нике кыйбай.",
     "manas-2010:p0833:b001:l032": "Here the horse is called Zhanaaly’s;838:25 attributes him to Karach. Both retained.",
     "manas-2010:p0833:b001:l033": "Image clearly reads мээси жок, literally without brains. Unusual praise preserved, not silently changed to ээси жок or peerless.",
+    "manas-2010:p0833:b001:l036": "Substantive horse epithet түрсаяк not reliably identified in consulted primary dictionaries; tireless would be an unsupported guess. Full row withheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0833:b001:l037": "Үкү аяк: owl-footed horse image retained; exact equestrian connotation uncertain.",
     "manas-2010:p0834:b001:l021": "Буйгат figuratively deceit/trick: Yudakhin quotes this very words/eyes formula. https://el-sozduk.kg/буй/",
     "manas-2010:p0834:b001:l024": "Chewing the lead rope retains the image of breaking submission.",
@@ -937,6 +941,8 @@
     "manas-2010:p0842:b001:l038": "Кечил = monks; whether this also names an ethnopolitical group is uncertain.",
     "manas-2010:p0842:b001:l039": "Керүү terrain/barrier phrase provisionally a wall across the way; not a named fortress.",
     "manas-2010:p0842:b001:l042": "Burn for six years retains the image of nursing his grief/vengeance.",
+    "manas-2010:p0843:b003:l007": "Subject resumes Akbaltay after the intervening Kutubiy identification; inheritance is not reassigned to Kutubiy.",
+    "manas-2010:p0843:b003:l011": "Сан: Yudakhin gives countless number and sometimes ten thousand. With explicit seven, rendered seventy thousand provisionally; no claim of literal census accuracy. https://tamgasoft.kg/dict/index.php?lfrom=kg&lto=ru&word=сан",
     "manas-2010:p0844:b001:l013": "Owner in this childlessness context rendered heir.",
     "manas-2010:p0844:b001:l034": "Primary Manas encyclopedia defines ат кара тил болгондо as summer arriving and horses filling on green grass. https://api.libraryiksu.kg/elibrary/books/Manas%20enciklopedia%20T7189.pdf",
     "manas-2010:p0844:b001:l035": "Жонок read as a ridge/rounded height, not asserted as a verified place-name.",
@@ -950,21 +956,9 @@
     "manas-2010:p0846:b001:l020": "Суюлуп literally thinning; tears soaking the beard are not substituted for the printed verb.",
     "manas-2010:p0846:b001:l030": "My only eyes addresses the companions as precious supports; plural form preserved.",
     "manas-2010:p0846:b001:l036": "Literal chewing of white wheat flour; context is a secrecy oath. No infant feeding added. Comparable wheat-bread oath described in Kyrgyz literature textbook https://new.bizdin.kg/media/books/Kyrgyz-adabiiaty-8-klass.pdf",
-    "manas-2010:p0846:b001:l038": "Ак куран rendered holy Quran; physically taking it in hand is explicit.",
-    "manas-2010:p0843:b003:l007": "Subject resumes Akbaltay after the intervening Kutubiy identification; inheritance is not reassigned to Kutubiy.",
-    "manas-2010:p0843:b003:l011": "Сан: Yudakhin gives countless number and sometimes ten thousand. With explicit seven, rendered seventy thousand provisionally; no claim of literal census accuracy. https://tamgasoft.kg/dict/index.php?lfrom=kg&lto=ru&word=сан"
+    "manas-2010:p0846:b001:l038": "Ак куран rendered holy Quran; physically taking it in hand is explicit."
   },
   "excluded_source_ids": [
-    {
-      "id": "manas-2010:p0828:b001:l016",
-      "kind": "unresolved_source",
-      "reason": "Кыйырыңды is a visible quoted exclamation; dictionary frontier/relative senses do not establish the omitted curse. Full row withheld."
-    },
-    {
-      "id": "manas-2010:p0833:b001:l036",
-      "kind": "unresolved_source",
-      "reason": "Substantive horse epithet түрсаяк not reliably identified in consulted primary dictionaries; tireless would be an unsupported guess. Full row withheld."
-    },
     {
       "id": "manas-2010:p0843:b002:l001",
       "kind": "heading",
@@ -1039,8 +1033,8 @@
     "independent_review": false
   },
   "counts": {
-    "translated_verse_rows": 831,
-    "english_words": 4635,
+    "translated_verse_rows": 833,
+    "english_words": 4645,
     "per_page": [
       {
         "page": 827,
@@ -1145,30 +1139,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p0828:b001:l016"
-      ],
-      "raw": "«Кыйырыңды!» - деп, бул чочко,",
-      "transliteration_only": "“Kyyyringdy!” dep, bul chochko",
-      "partial_english_not_counted": "This pig said “[unresolved exclamation]”",
-      "note": "Кыйырыңды is a visible quoted exclamation; dictionary frontier/relative senses do not establish the omitted curse. Full row withheld.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p0828:b001:l015",
-      "before_source_id": "manas-2010:p0828:b001:l017"
-    },
-    {
-      "source_line_ids": [
-        "manas-2010:p0833:b001:l036"
-      ],
-      "raw": "Айзага камбыл түрсаяк,",
-      "transliteration_only": "Ayzaga kambyl türsayak",
-      "partial_english_not_counted": "Ready for spear combat, [түрсаяк unresolved]",
-      "note": "Substantive horse epithet түрсаяк not reliably identified in consulted primary dictionaries; tireless would be an unsupported guess. Full row withheld.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p0833:b001:l035",
-      "before_source_id": "manas-2010:p0833:b001:l037"
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

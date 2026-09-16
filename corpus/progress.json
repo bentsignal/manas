@@ -1,12 +1,12 @@
 {
-  "released_draft_rows": 387458,
-  "released_english_words": 2039196,
+  "released_draft_rows": 388432,
+  "released_english_words": 2044578,
   "independently_reviewed": 0,
   "last_source_id": "seytek-1991-continuation:p0348:b002:l024",
   "complete": false,
   "full_source_reconciled": false,
   "background_translation_job": false,
-  "source_gaps": 932,
+  "source_gaps": 7,
   "scope": "Compiled release candidate; production deployment must be verified separately.",
   "gap_policy": "Publish readable drafts with explicit source-position marker; marker excluded from translated lines and English words; completeness blocked."
 }

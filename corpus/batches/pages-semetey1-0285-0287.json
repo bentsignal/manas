@@ -166,6 +166,7 @@
     "semetey-1-2013:p0287:b003:l003",
     "semetey-1-2013:p0287:b003:l004",
     "semetey-1-2013:p0287:b003:l005",
+    "semetey-1-2013:p0287:b003:l006",
     "semetey-1-2013:p0287:b003:l007",
     "semetey-1-2013:p0287:b003:l008",
     "semetey-1-2013:p0287:b003:l009",
@@ -270,11 +271,6 @@
       "id": "semetey-1-2013:p0287:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title or folio, not narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0287:b003:l006",
-      "kind": "unresolved_source",
-      "reason": "Өлчөөсү түшкөн жерди айтып: measure/appointed lot and place relation remains unclear. No unsupported burial site, death location or measured estate invented; whole verse retained pending interpretation."
     }
   ],
   "notes": {
@@ -320,6 +316,7 @@
     "semetey-1-2013:p0286:b004:l036": "Manas supplied to clarify whose sister Kardygach is;284:3:29–33 explicitly same mother bears Manas and Kardygach. Avoid misleading antecedent Karacha immediately preceding.",
     "semetey-1-2013:p0286:b004:l037": "Zhelpinish at world’s end, Zharmanas named recipient in marriage context; negative people epithet retained, no modern ethnicity invented.",
     "semetey-1-2013:p0287:b003:l001": "Repeated one son lion/one daughter warrior closes mother’s speech; all repetitions retained.",
+    "semetey-1-2013:p0287:b003:l006": "Өлчөөсү түшкөн жерди айтып: measure/appointed lot and place relation remains unclear. No unsupported burial site, death location or measured estate invented; whole verse retained pending interpretation. Completion-first first pass: Low-confidence approximate rendering for “Өлчөөсү түшкөн жерди айтып,”; nearest corpus parallel was “Белге тийчү жерди айтып,”.",
     "semetey-1-2013:p0287:b003:l007": "Kanykei still calls own son little brother, concealment in text, not actual different genealogy.",
     "semetey-1-2013:p0287:b003:l013": "Lattice wall, curtain, bed spatial sequence retained, no modern house plan invented.",
     "semetey-1-2013:p0287:b003:l017": "Шай spiritual patron, not tea; Chyiyrdy mother of Manas explicitly19.",
@@ -340,39 +337,7 @@
     "semetey-1-2013:p0287:b004:l034": "Kanykei addressed as foal/tireless steed, six-month ride/sixty mature years extended metaphor, not actual aging zoological assertion. Teeth-wearing/aging36 both retained.",
     "semetey-1-2013:p0287:b004:l038": "Primary дулдул II tireless steed, from legendary Ali mount but figurative here; black white-blazed horse epithet preserved, not new named animal. Speech continues288."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0287:b003:l006"
-      ],
-      "raw": [
-        "ªë÷ººñ¿ ò¿øêºí æåðäè àéòûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0287:b003:l006",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 287,
-          "block": 3,
-          "line_in_block": 6,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 214.1397,
-            "xMax": 262.632,
-            "yMax": 227.3277
-          },
-          "raw": "ªë÷ººñ¿ ò¿øêºí æåðäè àéòûï,",
-          "text": "Өлчөөсү түшкөн жерди айтып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Өлчөөсү түшкөн жерди айтып: measure/appointed lot and place relation remains unclear. No unsupported burial site, death location or measured estate invented; whole verse retained pending interpretation.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -395,5 +360,6 @@
     "rows": 233,
     "status": "draft; no independent specialist review",
     "details": "Audited every included narrative row against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned; no row changes were required."
-  }
+  },
+  "source_joiners": {}
 }

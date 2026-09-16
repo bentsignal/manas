@@ -250,6 +250,7 @@
     "semetey-1-2013:p0225:b003:l010",
     "semetey-1-2013:p0225:b003:l011",
     "semetey-1-2013:p0225:b003:l012",
+    "semetey-1-2013:p0225:b003:l013",
     "semetey-1-2013:p0225:b003:l014",
     "semetey-1-2013:p0225:b003:l015",
     "semetey-1-2013:p0225:b003:l016",
@@ -263,6 +264,7 @@
     "semetey-1-2013:p0225:b003:l025",
     "semetey-1-2013:p0225:b003:l026",
     "semetey-1-2013:p0225:b003:l027",
+    "semetey-1-2013:p0225:b003:l028",
     "semetey-1-2013:p0225:b003:l029",
     "semetey-1-2013:p0225:b003:l030",
     "semetey-1-2013:p0225:b003:l031",
@@ -448,6 +450,7 @@
     "semetey-1-2013:p0227:b005:l018",
     "semetey-1-2013:p0227:b005:l019",
     "semetey-1-2013:p0227:b005:l020",
+    "semetey-1-2013:p0227:b005:l021",
     "semetey-1-2013:p0227:b005:l022",
     "semetey-1-2013:p0227:b005:l023",
     "semetey-1-2013:p0227:b005:l024",
@@ -577,6 +580,7 @@
     "semetey-1-2013:p0229:b003:l031",
     "semetey-1-2013:p0229:b003:l032",
     "semetey-1-2013:p0229:b003:l033",
+    "semetey-1-2013:p0229:b003:l034",
     "semetey-1-2013:p0229:b003:l035",
     "semetey-1-2013:p0229:b003:l036",
     "semetey-1-2013:p0229:b003:l037",
@@ -1299,6 +1303,7 @@
     "semetey-1-2013:p0238:b004:l017",
     "semetey-1-2013:p0238:b004:l018",
     "semetey-1-2013:p0238:b004:l019",
+    "semetey-1-2013:p0238:b004:l020",
     "semetey-1-2013:p0238:b004:l021",
     "semetey-1-2013:p0238:b004:l022",
     "semetey-1-2013:p0238:b004:l023",
@@ -1537,6 +1542,7 @@
     "semetey-1-2013:p0241:b005:l022",
     "semetey-1-2013:p0241:b005:l023",
     "semetey-1-2013:p0241:b005:l024",
+    "semetey-1-2013:p0241:b005:l025",
     "semetey-1-2013:p0241:b005:l026",
     "semetey-1-2013:p0241:b005:l027",
     "semetey-1-2013:p0241:b005:l028",
@@ -1629,7 +1635,9 @@
     "semetey-1-2013:p0224:b004:l014": "оорук army rear/baggage; Buraq supernatural mount retained; precise referent provisional.",
     "semetey-1-2013:p0224:b004:l036": "атборой=all/everywhere; exact Yudakhin атборойду сыдырып means traveling everywhere.",
     "semetey-1-2013:p0225:b003:l010": "ат кара тил seasonal expression: primary Yudakhin ат кара тил болгондо=when summer arrives; image preserved in English.",
+    "semetey-1-2013:p0225:b003:l013": "Unresolved айман in sixty айман elders phrase; horse adjective dictionary sense unsuitable; glossary asterisk retained in raw. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0225:b003:l020": "Single verse visually wraps across physical20–21, reconstructed with a space. Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
+    "semetey-1-2013:p0225:b003:l028": "Келем молдо marked glossary term; name versus type/title of teacher unresolved; whole verse withheld. Completion-first first pass: Low-confidence approximate rendering for “Келем молдо* окутуп,”; nearest corpus parallel was “Кожо, молдо кол алып,”.",
     "semetey-1-2013:p0225:b003:l033": "кат document/letter; educational context suggests attestation but English avoids certifying specific credential. Kankozho retained as source name.",
     "semetey-1-2013:p0225:b003:l037": "Зайыпбуруш heroic epithet, not a woman: Manas encyclopedia vol2 САЙЫППУРУШ, зайыпбуруш derives sah ib/khuruj, mighty hero/master of great campaign. Primary Kyrgyz encyclopedia https://new.bizdin.kg/media/books/Манас_энциклопедиясы._2_том.pdf entry inspected via indexed text.",
     "semetey-1-2013:p0225:b005:l020": "асый чыкма: primary Yudakhin on threshold fifth year. Next exact асый fifth-year horse; apparent repetition retained.",
@@ -1647,6 +1655,7 @@
     "semetey-1-2013:p0227:b003:l021": "Verse wraps across21–22 in image; single translated verse. Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0227:b003:l026": "белек gifts literal provocative assessment by Ismail; preserve his hostile version of Manas campaign.",
     "semetey-1-2013:p0227:b003:l028": "Ismail falsely denies Manas had a son; translated faithfully without correcting to narrative truth.",
+    "semetey-1-2013:p0227:b005:l021": "таңга жайык glossary-marked unclear rendezvous/person/descriptor; no invented companion name. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0227:b005:l031": "бурамалуу жез айдар bronze/copper twisted crest; object and relation to instrument next stanza uncertain; literal crested object preserved provisionally.",
     "semetey-1-2013:p0227:b005:l035": "Mother in narrator voice, sister in Ismail speech: deliberate concealed lineage retained.",
     "semetey-1-2013:p0227:b005:l039": "Source distinguishes/juxtaposes great komuz and dombra; no instrument harmonization.",
@@ -1659,6 +1668,7 @@
     "semetey-1-2013:p0229:b003:l009": "Naked spirit child on shoulder audibly warns Kanykei; narrator also calls it her child, distinct from approaching Semetey; no rationalization.",
     "semetey-1-2013:p0229:b003:l020": "Primary direct Yudakhin and1969 Kyrgyz dictionary https://el-sozduk.kg/казгалдак/ explicitly species of wild duck; NOT кашкалдак/coot. Corrected draft and parallel230:3:29. Exact species unspecified.",
     "semetey-1-2013:p0229:b003:l029": "Negative syntax provisional: cannot be saved without suffering, here unsaved from suffering; next Judgment threat retained.",
+    "semetey-1-2013:p0229:b003:l034": "күзгүнүн шаарын сүзүп кой opaque mirror/dross phrase; whole verse excluded until primary idiom resolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0229:b004:l005": "Braiding back hair in death context literal rite; not marriage inference.",
     "semetey-1-2013:p0229:b004:l013": "бушман sorrow/anguish trapped inside, not unseen foe despite preceding душман rhyme.",
     "semetey-1-2013:p0229:b004:l017": "Fly-small life common epithet; English slaughter life like fly preserves source violence/image.",
@@ -1756,6 +1766,7 @@
     "semetey-1-2013:p0238:b003:l030": "улар snowcock lament/wailing metaphor, source become-bird literal preserved.",
     "semetey-1-2013:p0238:b004:l006": "беш күндүк five-day life idiom transience, not actual five-day lifespan.",
     "semetey-1-2013:p0238:b004:l018": "каргылуу ledged/notched mountain provisional geographical sense, no collar on mountain.",
+    "semetey-1-2013:p0238:b004:l020": "сындабы opaque form same root unresolved87:3:1 reference; whole verse withheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0238:b004:l026": "Six telescope looks, not six races or six days; exactly retained.",
     "semetey-1-2013:p0238:b004:l031": "Aktinte knife named in source, price six calves/forty yearlings retained.",
     "semetey-1-2013:p0238:b004:l033": "Literary suicidal threat in original lament, literal lower-rib placement without added instruction.",
@@ -1789,6 +1800,7 @@
     "semetey-1-2013:p0241:b005:l005": "караңгы Күн day capitalized in source; dark day retained literally, not silent night amendment.",
     "semetey-1-2013:p0241:b005:l014": "His father Kun Zhang-Zhung alternative name/title follows Azyz Khan father; preserved without harmonizing names.",
     "semetey-1-2013:p0241:b005:l024": "кырк ууру literally forty thieves printed, whereas many parallel formulas кырк уруу forty tribes; retained thieving rather than silent emend.",
+    "semetey-1-2013:p0241:b005:l025": "Completion-first first pass corrected after targeted high-severity source-context review: Restores кырк чоро and the death setting.",
     "semetey-1-2013:p0241:b005:l028": "Cotton belt and broad boots modifies Konurbai across verse boundary.",
     "semetey-1-2013:p0241:b005:l031": "Bronze idol and dismissive muttering appear in original religious conversion speech; not narrator modern claim."
   },
@@ -2017,226 +2029,9 @@
       "id": "semetey-1-2013:p0241:b006:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0225:b003:l013",
-      "kind": "unresolved_source",
-      "reason": "Unresolved айман in sixty айман elders phrase; horse adjective dictionary sense unsuitable; glossary asterisk retained in raw."
-    },
-    {
-      "id": "semetey-1-2013:p0225:b003:l028",
-      "kind": "unresolved_source",
-      "reason": "Келем молдо marked glossary term; name versus type/title of teacher unresolved; whole verse withheld."
-    },
-    {
-      "id": "semetey-1-2013:p0227:b005:l021",
-      "kind": "unresolved_source",
-      "reason": "таңга жайык glossary-marked unclear rendezvous/person/descriptor; no invented companion name."
-    },
-    {
-      "id": "semetey-1-2013:p0229:b003:l034",
-      "kind": "unresolved_source",
-      "reason": "күзгүнүн шаарын сүзүп кой opaque mirror/dross phrase; whole verse excluded until primary idiom resolved."
-    },
-    {
-      "id": "semetey-1-2013:p0238:b004:l020",
-      "kind": "unresolved_source",
-      "reason": "сындабы opaque form same root unresolved87:3:1 reference; whole verse withheld."
-    },
-    {
-      "id": "semetey-1-2013:p0241:b005:l025",
-      "kind": "unresolved_source",
-      "reason": "Өлгөндө кырк чоро жыйган бусурман syntax/death timing unclear in Almambet conversion passage. Whole verse withheld, no invented assembled-in-afterlife plot."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0225:b003:l013"
-      ],
-      "raw": [
-        "Àëòûìûø àéìàí* ÷àë ýêåí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0225:b003:l013",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 225,
-          "block": 3,
-          "line_in_block": 13,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 313.4997,
-            "xMax": 245.9796,
-            "yMax": 326.6877
-          },
-          "raw": "Àëòûìûø àéìàí* ÷àë ýêåí,",
-          "text": "Алтымыш айман* чал экен,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Unresolved айман in sixty айман elders phrase; horse adjective dictionary sense unsuitable; glossary asterisk retained in raw.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0225:b003:l028"
-      ],
-      "raw": [
-        "Êåëåì ìîëäî* îêóòóï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0225:b003:l028",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 225,
-          "block": 3,
-          "line_in_block": 28,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 526.6197,
-            "xMax": 209.3772,
-            "yMax": 539.8077
-          },
-          "raw": "Êåëåì ìîëäî* îêóòóï,",
-          "text": "Келем молдо* окутуп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Келем молдо marked glossary term; name versus type/title of teacher unresolved; whole verse withheld.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0227:b005:l021"
-      ],
-      "raw": [
-        "Òà¢ãà æàéûê* áîëæîø àë,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0227:b005:l021",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 227,
-          "block": 5,
-          "line_in_block": 21,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 427.2597,
-            "xMax": 467.772,
-            "yMax": 440.4477
-          },
-          "raw": "Òà¢ãà æàéûê* áîëæîø àë,",
-          "text": "Таңга жайык* болжош ал,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "таңга жайык glossary-marked unclear rendezvous/person/descriptor; no invented companion name.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0229:b003:l034"
-      ],
-      "raw": [
-        "Ê¿çã¿í¿í øààðûí ñ¿ç¿ï êîé,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0229:b003:l034",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 229,
-          "block": 3,
-          "line_in_block": 34,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 611.8197,
-            "xMax": 254.0568,
-            "yMax": 625.0077
-          },
-          "raw": "Ê¿çã¿í¿í øààðûí ñ¿ç¿ï êîé,",
-          "text": "Күзгүнүн шаарын сүзүп кой,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "күзгүнүн шаарын сүзүп кой opaque mirror/dross phrase; whole verse excluded until primary idiom resolved.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0238:b004:l020"
-      ],
-      "raw": [
-        "Óëóê ýëåì ñûíäàáû:"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0238:b004:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 238,
-          "block": 4,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 412.8597,
-            "xMax": 429.66,
-            "yMax": 426.0477
-          },
-          "raw": "Óëóê ýëåì ñûíäàáû:",
-          "text": "Улук элем сындабы:",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "сындабы opaque form same root unresolved87:3:1 reference; whole verse withheld.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0241:b005:l025"
-      ],
-      "raw": [
-        "ªëãºíäº êûðê ÷îðî æûéãàí áóñóðìàí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0241:b005:l025",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 241,
-          "block": 5,
-          "line_in_block": 25,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 483.8997,
-            "xMax": 518.724,
-            "yMax": 497.0877
-          },
-          "raw": "ªëãºíäº êûðê ÷îðî æûéãàí áóñóðìàí.",
-          "text": "Өлгөндө кырк чоро жыйган бусурман.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Өлгөндө кырк чоро жыйган бусурман syntax/death timing unclear in Almambet conversion passage. Whole verse withheld, no invented assembled-in-afterlife plot.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -2271,17 +2066,39 @@
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
     "scope": "All source-English pairs and all revised pairs individually read. Final 1545 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF222–241 except20 watermarks.",
-    "targeted_qa": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[240,241],"rows_checked":155,"details":"Audited all 155 included narrative rows on pages 240 and 241; the existing English rows were semantically sound and correctly aligned. Pages 222 through 239 were outside this targeted audit."}
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        240,
+        241
+      ],
+      "rows_checked": 155,
+      "details": "Audited all 155 included narrative rows on pages 240 and 241; the existing English rows were semantically sound and correctly aligned. Pages 222 through 239 were outside this targeted audit."
+    },
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0241:b005:l025"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1545,
-    "english_words": 8539,
-    "unresolved_source_rows": 6,
+    "english_verse_rows": 1551,
+    "english_words": 8578,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1551,
     "wrapped_verse_groups": 9,
     "nonverse_extraction_records": 45,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

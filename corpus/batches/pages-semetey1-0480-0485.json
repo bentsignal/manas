@@ -102,6 +102,7 @@
     "semetey-1-2013:p0481:b003:l017",
     "semetey-1-2013:p0481:b003:l018",
     "semetey-1-2013:p0481:b003:l019",
+    "semetey-1-2013:p0481:b003:l020",
     "semetey-1-2013:p0481:b003:l021",
     "semetey-1-2013:p0481:b003:l022",
     "semetey-1-2013:p0481:b003:l024",
@@ -143,6 +144,7 @@
     "semetey-1-2013:p0481:b005:l021",
     "semetey-1-2013:p0481:b005:l022",
     "semetey-1-2013:p0481:b005:l023",
+    "semetey-1-2013:p0481:b005:l024",
     "semetey-1-2013:p0481:b005:l025",
     "semetey-1-2013:p0481:b005:l026",
     "semetey-1-2013:p0481:b005:l027",
@@ -220,6 +222,7 @@
     "semetey-1-2013:p0482:b004:l022",
     "semetey-1-2013:p0482:b004:l023",
     "semetey-1-2013:p0482:b004:l024",
+    "semetey-1-2013:p0482:b004:l025",
     "semetey-1-2013:p0482:b004:l026",
     "semetey-1-2013:p0482:b004:l027",
     "semetey-1-2013:p0482:b004:l028",
@@ -386,6 +389,7 @@
     "semetey-1-2013:p0484:b004:l037",
     "semetey-1-2013:p0484:b004:l038",
     "semetey-1-2013:p0484:b004:l039",
+    "semetey-1-2013:p0485:b003:l001",
     "semetey-1-2013:p0485:b003:l002",
     "semetey-1-2013:p0485:b003:l003",
     "semetey-1-2013:p0485:b003:l004",
@@ -431,6 +435,7 @@
     "semetey-1-2013:p0485:b004:l005",
     "semetey-1-2013:p0485:b004:l006",
     "semetey-1-2013:p0485:b004:l007",
+    "semetey-1-2013:p0485:b004:l008",
     "semetey-1-2013:p0485:b004:l009",
     "semetey-1-2013:p0485:b004:l010",
     "semetey-1-2013:p0485:b004:l011",
@@ -459,6 +464,7 @@
     "semetey-1-2013:p0485:b004:l034",
     "semetey-1-2013:p0485:b004:l035",
     "semetey-1-2013:p0485:b004:l036",
+    "semetey-1-2013:p0485:b004:l037",
     "semetey-1-2013:p0485:b004:l038",
     "semetey-1-2013:p0485:b004:l039"
   ],
@@ -494,30 +500,36 @@
   },
   "source_joiners": {},
   "notes": {
-    "semetey-1-2013:p0480:b004:l005": "он эки бирге кол берген exact primary Yudakhin кол follower of twelve ishans/spiritual guides, not twelve supporters.",
     "semetey-1-2013:p0480:b003:l001": "элбөс qualified өлбөс live/not die in fixed death-life pairing; raw printed retained.",
     "semetey-1-2013:p0480:b004:l003": "Карсак corsac fox, tracking comparison retained.",
-    "semetey-1-2013:p0481:b005:l008": "он эки бирге кол берген exact Yudakhin allegiance to twelve ishans, not twelve supporters.",
-    "semetey-1-2013:p0481:b005:l005": "кыр жайсаң printed hill nobles retained, no silent кырк forty repair.",
-    "semetey-1-2013:p0481:b005:l015": "Алтай qualified алты ай six months with riding adjective арыгыс; not unexplained place Altai.",
+    "semetey-1-2013:p0480:b004:l005": "он эки бирге кол берген exact primary Yudakhin кол follower of twelve ishans/spiritual guides, not twelve supporters.",
     "semetey-1-2013:p0481:b003:l012": "кыргак primary edge/ridge; black steel edge heroic metaphor, not invented specific spearhead.",
-    "semetey-1-2013:p0482:b004:l018": "даңкан primary Yudakhin clod thrown by hooves, not helmet; cauldron size hyperbole retained.",
+    "semetey-1-2013:p0481:b003:l020": "Бээжинге качты, көч алчы exact көч алчы uncertain migration imperative; no silent өч revenge emendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0481:b005:l005": "кыр жайсаң printed hill nobles retained, no silent кырк forty repair.",
+    "semetey-1-2013:p0481:b005:l008": "он эки бирге кол берген exact Yudakhin allegiance to twelve ishans, not twelve supporters.",
+    "semetey-1-2013:p0481:b005:l015": "Алтай qualified алты ай six months with riding adjective арыгыс; not unexplained place Altai.",
+    "semetey-1-2013:p0481:b005:l024": "Оюла турган табы экен exact passive оюла uncertain intended action; whole verse held rather than invented attack. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0482:b003:l005": "Forty companions then sixty count source inconsistency preserved.",
+    "semetey-1-2013:p0482:b004:l018": "даңкан primary Yudakhin clod thrown by hooves, not helmet; cauldron size hyperbole retained.",
+    "semetey-1-2013:p0482:b004:l025": "Будурала тоо менен exact Будурала uncertain descriptor or name; whole verse held without silently бүдүр ала correction. Completion-first first pass: Low-confidence approximate rendering for “Будурала тоо менен”; nearest corpus parallel was “Айсарала ат менен”.",
     "semetey-1-2013:p0482:b004:l038": "Атаңдын көрү literal grave curse preserved, not suppressed.",
     "semetey-1-2013:p0483:b003:l017": "Tasseled drawstring with forty joints literal dress detail retained.",
-    "semetey-1-2013:p0483:b005:l027": "сары изине чөп сал exact primary Yudakhin pursue relentlessly, not literal grass strewing;29 parallel retained.",
     "semetey-1-2013:p0483:b005:l011": "олоң saddle girth primary Yudakhin, thick hair simile.",
+    "semetey-1-2013:p0483:b005:l027": "сары изине чөп сал exact primary Yudakhin pursue relentlessly, not literal grass strewing;29 parallel retained.",
     "semetey-1-2013:p0483:b005:l037": "айдал ынын айнеги shoulder mirror literal firearm praise image, not invented optical sight.",
+    "semetey-1-2013:p0484:b003:l001": "Restored after root and worker reviewed printed PDF484 and the preceding Akkelte gun description. Primary Yudakhin болжош I means distinguishing sign/mark (sources/raw/yudakhin-2015.pdf, printed156); Үнү бийик describes its loud voice/report, болжошу its mark. The nominal construction is rendered as a distinguishing feature; no aiming property or use as a military signal added. Printed Kyrgyz unchanged; provisional interpretation, not specialist certification.",
     "semetey-1-2013:p0484:b003:l004": "очогор firearm type and named Chorkelte/Koychagyr/Almabash following retained as successive epic gun comparisons, not modern technical equivalence.",
     "semetey-1-2013:p0484:b003:l013": "алты курч six heavenly swords source count, not six-edged single weapon.",
     "semetey-1-2013:p0484:b003:l017": "Сыр найза painted spear primary Yudakhin, Bölökbai maker retained.",
     "semetey-1-2013:p0484:b003:l036": "Корошон saint name ritual sheep vow retained; no external religious efficacy claim.",
+    "semetey-1-2013:p0485:b003:l001": "Кытайдын чыгаан айындай exact чыгаан month comparison uncertain; no unsupported Chinese New Year identification. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0485:b003:l018": "чардоо patrol/reconnaissance from primary Yudakhin чарда-/чардоочу, no musical instrument reading.",
+    "semetey-1-2013:p0485:b003:l035": "Question God has struck Buruts retained despite threatening pursuers context, not rewritten as Kalmyks.",
+    "semetey-1-2013:p0485:b004:l008": "Теңкерибей турасың exact теңкерибей uncertain; whole verse held without silently arrogance/turnover emendation. Completion-first first pass: Low-confidence approximate rendering for “Теңкерибей турасың.”; nearest corpus parallel was “«Жеңекелеп» турасың,”.",
     "semetey-1-2013:p0485:b004:l024": "бадирек primary Yudakhin scoundrel, refusal to comply preserved.",
     "semetey-1-2013:p0485:b004:l035": "ойнуңду ал take your game literal rebuke retained without silently оюң mind emendation.",
     "semetey-1-2013:p0485:b004:l036": "Take your mother insult literal retained, no polite euphemism or invented action.",
-    "semetey-1-2013:p0485:b003:l035": "Question God has struck Buruts retained despite threatening pursuers context, not rewritten as Kalmyks.",
-    "semetey-1-2013:p0484:b003:l001": "Restored after root and worker reviewed printed PDF484 and the preceding Akkelte gun description. Primary Yudakhin болжош I means distinguishing sign/mark (sources/raw/yudakhin-2015.pdf, printed156); Үнү бийик describes its loud voice/report, болжошу its mark. The nominal construction is rendered as a distinguishing feature; no aiming property or use as a military signal added. Printed Kyrgyz unchanged; provisional interpretation, not specialist certification."
+    "semetey-1-2013:p0485:b004:l037": "Каада кыз албай, камды ал exact каада кыз social term uncertain; whole verse held rather than invent ceremonial bride. Completion-first first pass: Low-confidence approximate rendering for “Каада кыз албай, камды ал!”; nearest corpus parallel was “Катын албай, капырай,”."
   },
   "excluded_source_ids": [
     {
@@ -536,19 +548,9 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0481:b003:l020",
-      "kind": "unresolved_source",
-      "reason": "Бээжинге качты, көч алчы exact көч алчы uncertain migration imperative; no silent өч revenge emendation."
-    },
-    {
       "id": "semetey-1-2013:p0481:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0481:b005:l024",
-      "kind": "unresolved_source",
-      "reason": "Оюла турган табы экен exact passive оюла uncertain intended action; whole verse held rather than invented attack."
     },
     {
       "id": "semetey-1-2013:p0481:b006:l001",
@@ -559,11 +561,6 @@
       "id": "semetey-1-2013:p0482:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0482:b004:l025",
-      "kind": "unresolved_source",
-      "reason": "Будурала тоо менен exact Будурала uncertain descriptor or name; whole verse held without silently бүдүр ала correction."
     },
     {
       "id": "semetey-1-2013:p0482:b005:l001",
@@ -599,21 +596,6 @@
       "id": "semetey-1-2013:p0485:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0485:b003:l001",
-      "kind": "unresolved_source",
-      "reason": "Кытайдын чыгаан айындай exact чыгаан month comparison uncertain; no unsupported Chinese New Year identification."
-    },
-    {
-      "id": "semetey-1-2013:p0485:b004:l008",
-      "kind": "unresolved_source",
-      "reason": "Теңкерибей турасың exact теңкерибей uncertain; whole verse held without silently arrogance/turnover emendation."
-    },
-    {
-      "id": "semetey-1-2013:p0485:b004:l037",
-      "kind": "unresolved_source",
-      "reason": "Каада кыз албай, камды ал exact каада кыз social term uncertain; whole verse held rather than invent ceremonial bride."
     },
     {
       "id": "semetey-1-2013:p0485:b005:l001",
@@ -655,7 +637,10 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [480, 485],
+      "page_range": [
+        480,
+        485
+      ],
       "rows_checked": 455,
       "details": "Audited all 455 included narrative rows on pages 480 through 485. No English row changes were required."
     }
@@ -665,185 +650,16 @@
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0481:b003:l020"
-      ],
-      "raw": "Áýýæèíãå êà÷òû, êº÷ àë÷û,",
-      "ky": "Бээжинге качты, көч алчы,",
-      "status": "unresolved",
-      "note": "Бээжинге качты, көч алчы exact көч алчы uncertain migration imperative; no silent өч revenge emendation.",
-      "after_source_id": "semetey-1-2013:p0481:b003:l019",
-      "before_source_id": "semetey-1-2013:p0481:b003:l021",
-      "source": {
-        "page": 481,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0481:b003:l020",
-            "raw": "Áýýæèíãå êà÷òû, êº÷ àë÷û,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 412.8597,
-              "xMax": 245.2812,
-              "yMax": 426.0477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0481:b005:l024"
-      ],
-      "raw": "Îþëà òóðãàí òàáû ýêåí.",
-      "ky": "Оюла турган табы экен.",
-      "status": "unresolved",
-      "note": "Оюла турган табы экен exact passive оюла uncertain intended action; whole verse held rather than invented attack.",
-      "after_source_id": "semetey-1-2013:p0481:b005:l023",
-      "before_source_id": "semetey-1-2013:p0481:b005:l025",
-      "source": {
-        "page": 481,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0481:b005:l024",
-            "raw": "Îþëà òóðãàí òàáû ýêåí.",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 469.7397,
-              "xMax": 452.8092,
-              "yMax": 482.9277
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0482:b004:l025"
-      ],
-      "raw": "Áóäóðàëà òîî ìåíåí",
-      "ky": "Будурала тоо менен",
-      "status": "unresolved",
-      "note": "Будурала тоо менен exact Будурала uncertain descriptor or name; whole verse held without silently бүдүр ала correction.",
-      "after_source_id": "semetey-1-2013:p0482:b004:l024",
-      "before_source_id": "semetey-1-2013:p0482:b004:l026",
-      "source": {
-        "page": 482,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0482:b004:l025",
-            "raw": "Áóäóðàëà òîî ìåíåí",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 483.8997,
-              "xMax": 423.534,
-              "yMax": 497.0877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0485:b003:l001"
-      ],
-      "raw": "Êûòàéäûí ÷ûãààí àéûíäàé",
-      "ky": "Кытайдын чыгаан айындай",
-      "status": "unresolved",
-      "note": "Кытайдын чыгаан айындай exact чыгаан month comparison uncertain; no unsupported Chinese New Year identification.",
-      "after_source_id": "semetey-1-2013:p0484:b004:l039",
-      "before_source_id": "semetey-1-2013:p0485:b003:l002",
-      "source": {
-        "page": 485,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0485:b003:l001",
-            "raw": "Êûòàéäûí ÷ûãààí àéûíäàé",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 143.0997,
-              "xMax": 243.648,
-              "yMax": 156.2877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0485:b004:l008"
-      ],
-      "raw": "Òå¢êåðèáåé òóðàñû¢.",
-      "ky": "Теңкерибей турасың.",
-      "status": "unresolved",
-      "note": "Теңкерибей турасың exact теңкерибей uncertain; whole verse held without silently arrogance/turnover emendation.",
-      "after_source_id": "semetey-1-2013:p0485:b004:l007",
-      "before_source_id": "semetey-1-2013:p0485:b004:l009",
-      "source": {
-        "page": 485,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0485:b004:l008",
-            "raw": "Òå¢êåðèáåé òóðàñû¢.",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 242.4597,
-              "xMax": 437.1444,
-              "yMax": 255.6477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0485:b004:l037"
-      ],
-      "raw": "Êààäà êûç àëáàé, êàìäû àë!",
-      "ky": "Каада кыз албай, камды ал!",
-      "status": "unresolved",
-      "note": "Каада кыз албай, камды ал exact каада кыз social term uncertain; whole verse held rather than invent ceremonial bride.",
-      "after_source_id": "semetey-1-2013:p0485:b004:l036",
-      "before_source_id": "semetey-1-2013:p0485:b004:l038",
-      "source": {
-        "page": 485,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0485:b004:l037",
-            "raw": "Êààäà êûç àëáàé, êàìäû àë!",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 654.2997,
-              "xMax": 476.0004,
-              "yMax": 667.4877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    }
-  ],
+  "unresolved_passages": [],
   "counts": {
-    "translated_verse_rows": 455,
-    "english_words": 2492,
-    "translated_source_fragments": 462,
+    "translated_verse_rows": 461,
+    "english_words": 2497,
+    "translated_source_fragments": 468,
     "physical_narrative_fragments": 468,
     "reconstructed_source_verses": 461,
     "wrapped_verse_groups": 7,
-    "unresolved_source_rows": 6,
-    "unresolved_source_verses": 6,
+    "unresolved_source_rows": 0,
+    "unresolved_source_verses": 0,
     "nonverse_extraction_records": 14,
     "watermark_records": 6,
     "source_words": 1499,

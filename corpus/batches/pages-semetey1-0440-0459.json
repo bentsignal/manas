@@ -27,6 +27,7 @@
     "semetey-1-2013:p0440:b003:l019",
     "semetey-1-2013:p0440:b003:l020",
     "semetey-1-2013:p0440:b003:l021",
+    "semetey-1-2013:p0440:b003:l022",
     "semetey-1-2013:p0440:b003:l023",
     "semetey-1-2013:p0440:b003:l024",
     "semetey-1-2013:p0440:b003:l026",
@@ -262,6 +263,7 @@
     "semetey-1-2013:p0443:b003:l022",
     "semetey-1-2013:p0443:b003:l023",
     "semetey-1-2013:p0443:b003:l024",
+    "semetey-1-2013:p0443:b003:l025",
     "semetey-1-2013:p0443:b003:l026",
     "semetey-1-2013:p0443:b003:l027",
     "semetey-1-2013:p0443:b003:l028",
@@ -278,6 +280,7 @@
     "semetey-1-2013:p0443:b003:l039",
     "semetey-1-2013:p0443:b005:l001",
     "semetey-1-2013:p0443:b005:l002",
+    "semetey-1-2013:p0443:b005:l003",
     "semetey-1-2013:p0443:b005:l004",
     "semetey-1-2013:p0443:b005:l005",
     "semetey-1-2013:p0443:b005:l006",
@@ -555,6 +558,7 @@
     "semetey-1-2013:p0447:b003:l007",
     "semetey-1-2013:p0447:b003:l008",
     "semetey-1-2013:p0447:b003:l009",
+    "semetey-1-2013:p0447:b003:l010",
     "semetey-1-2013:p0447:b003:l011",
     "semetey-1-2013:p0447:b003:l012",
     "semetey-1-2013:p0447:b003:l013",
@@ -597,6 +601,7 @@
     "semetey-1-2013:p0447:b004:l012",
     "semetey-1-2013:p0447:b004:l013",
     "semetey-1-2013:p0447:b004:l014",
+    "semetey-1-2013:p0447:b004:l015",
     "semetey-1-2013:p0447:b004:l016",
     "semetey-1-2013:p0447:b004:l017",
     "semetey-1-2013:p0447:b004:l018",
@@ -778,6 +783,7 @@
     "semetey-1-2013:p0449:b005:l039",
     "semetey-1-2013:p0450:b003:l001",
     "semetey-1-2013:p0450:b003:l002",
+    "semetey-1-2013:p0450:b003:l003",
     "semetey-1-2013:p0450:b003:l004",
     "semetey-1-2013:p0450:b003:l005",
     "semetey-1-2013:p0450:b003:l006",
@@ -905,6 +911,7 @@
     "semetey-1-2013:p0451:b005:l012",
     "semetey-1-2013:p0451:b005:l013",
     "semetey-1-2013:p0451:b005:l014",
+    "semetey-1-2013:p0451:b005:l015",
     "semetey-1-2013:p0451:b005:l016",
     "semetey-1-2013:p0451:b005:l017",
     "semetey-1-2013:p0451:b005:l018",
@@ -946,6 +953,7 @@
     "semetey-1-2013:p0452:b003:l015",
     "semetey-1-2013:p0452:b003:l016",
     "semetey-1-2013:p0452:b003:l017",
+    "semetey-1-2013:p0452:b003:l018",
     "semetey-1-2013:p0452:b003:l019",
     "semetey-1-2013:p0452:b003:l020",
     "semetey-1-2013:p0452:b003:l021",
@@ -1007,6 +1015,7 @@
     "semetey-1-2013:p0453:b003:l007",
     "semetey-1-2013:p0453:b003:l008",
     "semetey-1-2013:p0453:b003:l009",
+    "semetey-1-2013:p0453:b003:l010",
     "semetey-1-2013:p0453:b003:l011",
     "semetey-1-2013:p0453:b003:l012",
     "semetey-1-2013:p0453:b003:l013",
@@ -1205,6 +1214,7 @@
     "semetey-1-2013:p0455:b004:l014",
     "semetey-1-2013:p0455:b004:l015",
     "semetey-1-2013:p0455:b004:l016",
+    "semetey-1-2013:p0455:b004:l017",
     "semetey-1-2013:p0455:b004:l019",
     "semetey-1-2013:p0455:b004:l020",
     "semetey-1-2013:p0455:b004:l021",
@@ -1502,6 +1512,7 @@
     "semetey-1-2013:p0459:b005:l006",
     "semetey-1-2013:p0459:b005:l007",
     "semetey-1-2013:p0459:b005:l008",
+    "semetey-1-2013:p0459:b005:l009",
     "semetey-1-2013:p0459:b005:l010",
     "semetey-1-2013:p0459:b005:l011",
     "semetey-1-2013:p0459:b005:l012",
@@ -1602,6 +1613,10 @@
       "semetey-1-2013:p0453:b004:l018",
       "semetey-1-2013:p0453:b004:l019"
     ],
+    "semetey-1-2013:p0455:b004:l017": [
+      "semetey-1-2013:p0455:b004:l017",
+      "semetey-1-2013:p0455:b004:l018"
+    ],
     "semetey-1-2013:p0456:b003:l039": [
       "semetey-1-2013:p0456:b003:l039",
       "semetey-1-2013:p0456:b003:l040"
@@ -1627,11 +1642,12 @@
   "notes": {
     "semetey-1-2013:p0440:b003:l009": "кызталак bastard sourceprofanity retained; religiousfaith/hell judgments are character/narrator speech, not translatorendorsed claim.",
     "semetey-1-2013:p0440:b003:l015": "колдура hoarsevoice exactYudakhin, not assumed rattling statue; anthropomorphic idol as printed.",
+    "semetey-1-2013:p0440:b003:l022": "Completion-first first pass corrected after targeted high-severity source-context review: Restores он бөлүп and the horse-tack verb токунам; syntax remains uncertain.",
     "semetey-1-2013:p0440:b003:l023": "опсолоң reckless/unconsidered primaryYudakhin, qualified idol epithet; no namedgodadded.",
     "semetey-1-2013:p0440:b003:l031": "Azhaiyp wondrous spells, dragoninstruction and OneEyedland sourcefantasticaleducation; no external occult instructions.",
     "semetey-1-2013:p0440:b004:l005": "чекири жок кой көздүү exactprimaryYudakhin brown/unspottedeyes, not literal sheepeyes only.",
-    "semetey-1-2013:p0440:b004:l018": "уй куймулчак exactYudakhin lean/slopehaunchedracehorse cowcomparison, not cowtail anatomicalreplacement.",
     "semetey-1-2013:p0440:b004:l016": "Seven түмөн70000 versus sixсан60000at38 sourcevariation preserved.",
+    "semetey-1-2013:p0440:b004:l018": "уй куймулчак exactYudakhin lean/slopehaunchedracehorse cowcomparison, not cowtail anatomicalreplacement.",
     "semetey-1-2013:p0441:b005:l002": "сарыизинечөпсал exactYudakhin relentless pursuit, not literallyputgrassonfootprints.",
     "semetey-1-2013:p0441:b005:l025": "Weatherstone/snake/cloudBuurakan magic narrative faithfully rendered; no external ritualsteps or naturalweatherclaims added.",
     "semetey-1-2013:p0441:b005:l031": "жанаяк handledbowl in watercontext, not tobaccomortar automatically.",
@@ -1647,7 +1663,9 @@
     "semetey-1-2013:p0442:b004:l035": "буйкыл primaryYudakhin exactdeer-cattleparallel meaningthrowenemyintoconfusion, not imagined domesticatedbullverb.",
     "semetey-1-2013:p0443:b003:l006": "колот- primaryYudakhin frighten, not mountainvalley noun.",
     "semetey-1-2013:p0443:b003:l015": "даңза primaryYudakhin genealogicalregister includingnotablepeople, no inventedmodernintelligencefile.",
+    "semetey-1-2013:p0443:b003:l025": "Кылычын сууруп кын кылган kынкыл afterdrawsword unclear, possibletypographic qyr but no emendation; wholeverseheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0443:b003:l039": "ак сарай whitepalace noun metaphor inlament repeated5:19, literalcomparison retained withoutinventinglostpalacecausalclaim.",
+    "semetey-1-2013:p0443:b005:l003": "Олуяттын конгонун Oluyat person vs holyblessingarrival ambiguous in metanarrative, wholeverseheld pendingprimaryphraseevidence. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0443:b005:l014": "өлгөндөкөргөн late/hardwon child idiom, not actualpostmortembirth; repeated18 near-deathmetaphor.",
     "semetey-1-2013:p0443:b005:l038": "каны чыккан khanascendedtower, not bloodflowing tower; nextpagetowerclimb continuation.",
     "semetey-1-2013:p0444:b003:l029": "Mecca origin claim inKarykanspeech preserved, not harmonized withAltai birth.",
@@ -1670,10 +1688,13 @@
     "semetey-1-2013:p0446:b004:l026": "каяшаяк=каяша objection/backtalk exactYudakhin, not physicalcombatassumed.",
     "semetey-1-2013:p0446:b004:l032": "Singular I among pluralletterwe retained, no narratorharmonization; nextwishattainmentcontradiction leftliteral.",
     "semetey-1-2013:p0447:b003:l006": "PrintedАлтайга toAltai, not silentlyалтыай sixmonths; courser metaphorofManas retained.",
+    "semetey-1-2013:p0447:b003:l010": "Балтырдын баарын жорутуп жорут interpretativeverb doesnotclearlyfitcalves, plausible жоорут chafe but wholeverseheld ratherthan unprovenemendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0447:b003:l035": "мас intoxicated/dazed primaryYudakhin, боортокто prone; childhoodverse oddimage retained asdazedprone not inventedalcoholconsumption.",
     "semetey-1-2013:p0447:b004:l009": "улама learnedmen/oraltradition source, not specificallyBuddhistlama automatic.",
+    "semetey-1-2013:p0447:b004:l015": "Аз тасмыя мүлкүмдү тасмыя exactunknown qualifierofpossessions; wholeverseheld, not silentlydropqualifier. Completion-first first pass: Low-confidence approximate rendering for “Аз тасмыя мүлкүмдү”; nearest corpus parallel was “Казынамды, мүлкүмдү,”.",
     "semetey-1-2013:p0447:b004:l023": "бат quickly adverb withgivingletter, grieftrigger preservescontext, not guessedlettercattypo.",
     "semetey-1-2013:p0447:b004:l035": "Pighead carriedamongfive literal laterritualitemcontext, not translateonlypiggishcharacter.",
+    "semetey-1-2013:p0448:b003:l005": "Kanykey recounts receiving the conspirators' letter during Manas's lifetime. The later grief concerns recognizing danger; no moral charge against her. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0448:b003:l021": "керээттүү=кереттүү exact Yudakhin gifted with miraculous foresight, not simply miraculous.",
     "semetey-1-2013:p0448:b003:l027": "Mountain assertion beside Talas valley retained literally without emending тоо to жоо; following enemy assertion distinct.",
     "semetey-1-2013:p0448:b004:l011": "Közkaman name contains каман boar; religious and ethnic judgments remain Kanykei speech, not translator factual claims.",
@@ -1682,21 +1703,25 @@
     "semetey-1-2013:p0449:b003:l017": "чалгай primary Yudakhin indirect/roundabout, qualified speech evasions, not garment gusset.",
     "semetey-1-2013:p0449:b005:l015": "чыр quarrel retained literally, not guessed чырак life-flame emendation.",
     "semetey-1-2013:p0449:b005:l026": "чегеле nail/fasten primary Yudakhin; hands nailed literal threatened punishment without invented procedure.",
+    "semetey-1-2013:p0450:b003:l003": "Чолпон кармап алалык star/shepherd noun unclear in interception command; whole verse held, no conjectural adverb replacement. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0450:b003:l031": "Eight kinsmen versus seven elder brothers at39 preserved as printed, no count harmonization.",
+    "semetey-1-2013:p0450:b004:l001": "жеткилең intensifier complete/utter with humiliation; no invented geographical name or destination.",
     "semetey-1-2013:p0450:b004:l029": "телик bird raised by substitute parent, figurative gathered followers returning to original people; not specific invented falcon species.",
     "semetey-1-2013:p0450:b004:l030": "курама composite gathered population exact primary Yudakhin, not geographical Kurama name here.",
-    "semetey-1-2013:p0450:b004:l001": "жеткилең intensifier complete/utter with humiliation; no invented geographical name or destination.",
     "semetey-1-2013:p0451:b003:l005": "баргектүү exact Yudakhin quotes same алаканы айнектүү бүлдүргөсү баргектүү whip fittings, ornamented wrist-loop not figurative life delight.",
     "semetey-1-2013:p0451:b003:l010": "бил=пил elephant initial consonant variant; төкөр lame smith at11 exact primary, not merely deft.",
     "semetey-1-2013:p0451:b003:l033": "бүлдүркөн blackberry-patterned; калдыркан butterfly at37 exact Yudakhin; бүгүш garment pleat, капшыт side seam.",
     "semetey-1-2013:p0451:b005:l009": "Negative тартпадым retained despite surrounding suffering account, no silent affirmative emendation.",
+    "semetey-1-2013:p0451:b005:l015": "Кыяматтык кет, Кудай oath/curse syntax uncertain; whole verse held rather than invented divine appeal. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0451:b005:l022": "алты курч exact Yudakhin six heavenly swords, not six edges on one sword.",
     "semetey-1-2013:p0452:b003:l017": "шай unseen patron primary Yudakhin, not Sheikh or shaman invented.",
+    "semetey-1-2013:p0452:b003:l018": "Улуктугуң сындабы precise rhetorical сындабы uncertain, prior87 parallel held; no unsupported сын- broken interpretation. Completion-first first pass: Low-confidence approximate rendering for “Улуктугуң сындабы,”; nearest corpus parallel was “Балам, улуктугуң сында жок,”.",
     "semetey-1-2013:p0452:b003:l022": "сында жок exact primary Yudakhin perfect/beyond reproach, distinct unresolved preceding сындабы.",
     "semetey-1-2013:p0452:b004:l008": "Born after wandering to Altai source sequence retained, not rewritten as parents migration.",
     "semetey-1-2013:p0452:b004:l021": "Crosswise-built house literal image retained, no invented prison or grave causal meaning.",
     "semetey-1-2013:p0452:b004:l023": "тутамга келбейт exact primary Yudakhin soul crushed by grief when remembered; not literally unable to hold fist.",
     "semetey-1-2013:p0453:b003:l009": "бил=пил elephant primary variant, eleven captured versus two brought preserved; later single elephant wording also retained.",
+    "semetey-1-2013:p0453:b003:l010": "Ичкени басып төтөлөп literal to-drink walking-directly versus possible ичкери inward uncertain; whole verse held, no silent emendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0453:b003:l015": "баашалуу=башаалуу sovereign/padishah metathesis supported primary Yudakhin, not unsupported tribe name.",
     "semetey-1-2013:p0453:b004:l002": "Azhybai/Bakai named here despite preceding Almambet/Chubak elephant intervention; source variation retained.",
     "semetey-1-2013:p0453:b004:l022": "дүйнө бок world shit explicit source profanity retained, not sanitized as merely cruel world.",
@@ -1708,6 +1733,7 @@
     "semetey-1-2013:p0455:b003:l019": "кембайла exact primary Yudakhin escort under guard from конвой loan, not merely tie feet.",
     "semetey-1-2013:p0455:b004:l012": "Printed directional какан жерине toward khagan land retained despite next movement toward Manas; no silently ablative жеринен.",
     "semetey-1-2013:p0455:b004:l016": "денекул permanent bondslave primary Yudakhin данекул/денекул, no generic servant euphemism.",
+    "semetey-1-2013:p0455:b004:l017": "Баатыр, менин акчылык түштү бейлиме exact акчылык unknown here; possible hunger/greed emendation not adopted, both physical segments held. Completion-first first pass: Low-confidence approximate rendering for “Баатыр, менин акчылык түштү бейлиме.”; nearest corpus parallel was “Баатыр, сенин каканакта балаңа.”.",
     "semetey-1-2013:p0455:b004:l028": "адылкеч=азилкеч friend/joking companion exact primary Yudakhin, not just ruler adjective.",
     "semetey-1-2013:p0456:b003:l012": "аркар аяк жез билек horse animal/metal simile retained, not human warrior arms.",
     "semetey-1-2013:p0456:b003:l027": "эндей primary Yudakhin weak/feckless with аяк epithet broadly rendered; not assumed barefoot literal or omitted line.",
@@ -1719,6 +1745,7 @@
     "semetey-1-2013:p0457:b003:l020": "көк кене blue tick simile for well-fed champions retained, not changed to literal parasites infestation.",
     "semetey-1-2013:p0457:b003:l022": "Шебиет retained named game; оромпой primary Yudakhin one-legged circle/tag game, no invented detailed rules.",
     "semetey-1-2013:p0457:b003:l035": "келеңкер чачпак кең соору exact primary Yudakhin келин entry rich braid tassels and broad hips; no noun transposition.",
+    "semetey-1-2013:p0457:b005:l009": "Kanykey recalls making armour while the living Manas and his companions attend a feast and fall into deception. Self-deprecating retrospective voice, not bereavement at that time. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0457:b005:l011": "Аколпок=ак олпок white padded armor primary Yudakhin аголпок/олпок, not merely white shirt.",
     "semetey-1-2013:p0457:b005:l030": "Drawn line source image retained, no invented magic circle purpose.",
     "semetey-1-2013:p0458:b003:l038": "бут idols in renunciation phrase not feet; талак separation/renunciation religious claim by Közkaman.",
@@ -1727,21 +1754,15 @@
     "semetey-1-2013:p0458:b004:l036": "Printed кэз legacy spelling normalized semantic көз eye transparently; raw retained unchanged.",
     "semetey-1-2013:p0459:b003:l024": "кырк жылкы qualified temporal forty-year poison reading in aged/fermented drink context, not forty horses literal; raw spelling unchanged. Source fantastical poison potency retained, no chemical identity, dosage or procedure added.",
     "semetey-1-2013:p0459:b003:l031": "курбу I rim/ledge primary Yudakhin, gold-rimmed bowl, not peer/companion sense.",
+    "semetey-1-2013:p0459:b005:l009": "Уу ичип, Манас жүйөө жок precise жүйөө жок meaning in collapse uncertain; whole verse held, not arbitrarily no pulse/no consciousness clinical claim. Completion-first first pass: Low-confidence approximate rendering for “Уу ичип, Манас жүйөө жок,”; nearest corpus parallel was “Минтпе, Манас, жөнү жок”.",
     "semetey-1-2013:p0459:b005:l013": "теңиз ocean epithet of heroes retained alongside earlier pairedhero formula; no silently эгиз twins emendation.",
-    "semetey-1-2013:p0459:b005:l039": "Чоюнбашчан cast-iron-headed fighters literal epithet, not invented explicit helmet construction.",
-    "semetey-1-2013:p0448:b003:l005": "Kanykey recounts receiving the conspirators' letter during Manas's lifetime. The later grief concerns recognizing danger; no moral charge against her. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0457:b005:l009": "Kanykey recalls making armour while the living Manas and his companions attend a feast and fall into deception. Self-deprecating retrospective voice, not bereavement at that time. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0459:b005:l039": "Чоюнбашчан cast-iron-headed fighters literal epithet, not invented explicit helmet construction."
   },
   "excluded_source_ids": [
     {
       "id": "semetey-1-2013:p0440:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0440:b003:l022",
-      "kind": "unresolved_source",
-      "reason": "Он бөлүп кантип токунам tenfolddivision/saddling clause unclear; wholeverseheld, not guessed ritualdismemberment or tensaddles."
     },
     {
       "id": "semetey-1-2013:p0440:b005:l001",
@@ -1779,19 +1800,9 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0443:b003:l025",
-      "kind": "unresolved_source",
-      "reason": "Кылычын сууруп кын кылган kынкыл afterdrawsword unclear, possibletypographic qyr but no emendation; wholeverseheld."
-    },
-    {
       "id": "semetey-1-2013:p0443:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0443:b005:l003",
-      "kind": "unresolved_source",
-      "reason": "Олуяттын конгонун Oluyat person vs holyblessingarrival ambiguous in metanarrative, wholeverseheld pendingprimaryphraseevidence."
     },
     {
       "id": "semetey-1-2013:p0443:b006:l001",
@@ -1834,16 +1845,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0447:b003:l010",
-      "kind": "unresolved_source",
-      "reason": "Балтырдын баарын жорутуп жорут interpretativeverb doesnotclearlyfitcalves, plausible жоорут chafe but wholeverseheld ratherthan unprovenemendation."
-    },
-    {
-      "id": "semetey-1-2013:p0447:b004:l015",
-      "kind": "unresolved_source",
-      "reason": "Аз тасмыя мүлкүмдү тасмыя exactunknown qualifierofpossessions; wholeverseheld, not silentlydropqualifier."
-    },
-    {
       "id": "semetey-1-2013:p0447:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1879,11 +1880,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0450:b003:l003",
-      "kind": "unresolved_source",
-      "reason": "Чолпон кармап алалык star/shepherd noun unclear in interception command; whole verse held, no conjectural adverb replacement."
-    },
-    {
       "id": "semetey-1-2013:p0450:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1899,11 +1895,6 @@
       "reason": "Printer signature, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0451:b005:l015",
-      "kind": "unresolved_source",
-      "reason": "Кыяматтык кет, Кудай oath/curse syntax uncertain; whole verse held rather than invented divine appeal."
-    },
-    {
       "id": "semetey-1-2013:p0451:b006:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1914,11 +1905,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0452:b003:l018",
-      "kind": "unresolved_source",
-      "reason": "Улуктугуң сындабы precise rhetorical сындабы uncertain, prior87 parallel held; no unsupported сын- broken interpretation."
-    },
-    {
       "id": "semetey-1-2013:p0452:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1927,11 +1913,6 @@
       "id": "semetey-1-2013:p0453:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0453:b003:l010",
-      "kind": "unresolved_source",
-      "reason": "Ичкени басып төтөлөп literal to-drink walking-directly versus possible ичкери inward uncertain; whole verse held, no silent emendation."
     },
     {
       "id": "semetey-1-2013:p0453:b005:l001",
@@ -1952,16 +1933,6 @@
       "id": "semetey-1-2013:p0455:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0455:b004:l017",
-      "kind": "unresolved_source",
-      "reason": "Баатыр, менин акчылык түштү бейлиме exact акчылык unknown here; possible hunger/greed emendation not adopted, both physical segments held."
-    },
-    {
-      "id": "semetey-1-2013:p0455:b004:l018",
-      "kind": "unresolved_source",
-      "reason": "Баатыр, менин акчылык түштү бейлиме exact акчылык unknown here; possible hunger/greed emendation not adopted, both physical segments held."
     },
     {
       "id": "semetey-1-2013:p0455:b005:l001",
@@ -2012,11 +1983,6 @@
       "id": "semetey-1-2013:p0459:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0459:b005:l009",
-      "kind": "unresolved_source",
-      "reason": "Уу ичип, Манас жүйөө жок precise жүйөө жок meaning in collapse uncertain; whole verse held, not arbitrarily no pulse/no consciousness clinical claim."
     },
     {
       "id": "semetey-1-2013:p0459:b006:l001",
@@ -2083,9 +2049,26 @@
     "independent_review": false,
     "scope": "Every reconstructed source/English position read in paired review files, each of pages440–459; saved tmp/translation-semetey1-0440-0459/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
     "targeted_qa": {
-      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
-      "page_range": [450, 459], "rows_checked": 756,
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        450,
+        459
+      ],
+      "rows_checked": 756,
       "details": "Audited all 756 included narrative rows on pages 450 through 459 and corrected one clear lexical embellishment while preserving strict row alignment. Pages 440 through 449 were outside this targeted audit."
+    },
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0440:b003:l022"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
     }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
@@ -2093,337 +2076,16 @@
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0440:b003:l022"
-      ],
-      "raw": "Îí áºë¿ï êàíòèï òîêóíàì,",
-      "ky": "Он бөлүп кантип токунам,",
-      "status": "unresolved",
-      "note": "Он бөлүп кантип токунам tenfolddivision/saddling clause unclear; wholeverseheld, not guessed ritualdismemberment or tensaddles.",
-      "after_source_id": "semetey-1-2013:p0440:b003:l021",
-      "before_source_id": "semetey-1-2013:p0440:b003:l023",
-      "source": {
-        "page": 440,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0440:b003:l022",
-            "raw": "Îí áºë¿ï êàíòèï òîêóíàì,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 441.4197,
-              "xMax": 233.352,
-              "yMax": 454.6077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0443:b003:l025"
-      ],
-      "raw": "Êûëû÷ûí ñóóðóï êûí êûëãàí,",
-      "ky": "Кылычын сууруп кын кылган,",
-      "status": "unresolved",
-      "note": "Кылычын сууруп кын кылган kынкыл afterdrawsword unclear, possibletypographic qyr but no emendation; wholeverseheld.",
-      "after_source_id": "semetey-1-2013:p0443:b003:l024",
-      "before_source_id": "semetey-1-2013:p0443:b003:l026",
-      "source": {
-        "page": 443,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0443:b003:l025",
-            "raw": "Êûëû÷ûí ñóóðóï êûí êûëãàí,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 483.8997,
-              "xMax": 265.4592,
-              "yMax": 497.0877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0443:b005:l003"
-      ],
-      "raw": "Îëóÿòòûí êîíãîíóí,",
-      "ky": "Олуяттын конгонун,",
-      "status": "unresolved",
-      "note": "Олуяттын конгонун Oluyat person vs holyblessingarrival ambiguous in metanarrative, wholeverseheld pendingprimaryphraseevidence.",
-      "after_source_id": "semetey-1-2013:p0443:b005:l002",
-      "before_source_id": "semetey-1-2013:p0443:b005:l004",
-      "source": {
-        "page": 443,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0443:b005:l003",
-            "raw": "Îëóÿòòûí êîíãîíóí,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 171.6597,
-              "xMax": 432.3792,
-              "yMax": 184.8477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0447:b003:l010"
-      ],
-      "raw": "Áàëòûðäûí áààðûí æîðóòóï,",
-      "ky": "Балтырдын баарын жорутуп,",
-      "status": "unresolved",
-      "note": "Балтырдын баарын жорутуп жорут interpretativeverb doesnotclearlyfitcalves, plausible жоорут chafe but wholeverseheld ratherthan unprovenemendation.",
-      "after_source_id": "semetey-1-2013:p0447:b003:l009",
-      "before_source_id": "semetey-1-2013:p0447:b003:l011",
-      "source": {
-        "page": 447,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0447:b003:l010",
-            "raw": "Áàëòûðäûí áààðûí æîðóòóï,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 271.0197,
-              "xMax": 252.7464,
-              "yMax": 284.2077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0447:b004:l015"
-      ],
-      "raw": "Àç òàñìûÿ ì¿ëê¿ìä¿",
-      "ky": "Аз тасмыя мүлкүмдү",
-      "status": "unresolved",
-      "note": "Аз тасмыя мүлкүмдү тасмыя exactunknown qualifierofpossessions; wholeverseheld, not silentlydropqualifier.",
-      "after_source_id": "semetey-1-2013:p0447:b004:l014",
-      "before_source_id": "semetey-1-2013:p0447:b004:l016",
-      "source": {
-        "page": 447,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0447:b004:l015",
-            "raw": "Àç òàñìûÿ ì¿ëê¿ìä¿",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 342.0597,
-              "xMax": 436.242,
-              "yMax": 355.2477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0450:b003:l003"
-      ],
-      "raw": "×îëïîí êàðìàï àëàëûê,",
-      "ky": "Чолпон кармап алалык,",
-      "status": "unresolved",
-      "note": "Чолпон кармап алалык star/shepherd noun unclear in interception command; whole verse held, no conjectural adverb replacement.",
-      "after_source_id": "semetey-1-2013:p0450:b003:l002",
-      "before_source_id": "semetey-1-2013:p0450:b003:l004",
-      "source": {
-        "page": 450,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0450:b003:l003",
-            "raw": "×îëïîí êàðìàï àëàëûê,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 171.6597,
-              "xMax": 218.3616,
-              "yMax": 184.8477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0451:b005:l015"
-      ],
-      "raw": "Êûÿìàòòûê êåò, Êóäàé",
-      "ky": "Кыяматтык кет, Кудай",
-      "status": "unresolved",
-      "note": "Кыяматтык кет, Кудай oath/curse syntax uncertain; whole verse held rather than invented divine appeal.",
-      "after_source_id": "semetey-1-2013:p0451:b005:l014",
-      "before_source_id": "semetey-1-2013:p0451:b005:l016",
-      "source": {
-        "page": 451,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0451:b005:l015",
-            "raw": "Êûÿìàòòûê êåò, Êóäàé",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 342.0597,
-              "xMax": 449.022,
-              "yMax": 355.2477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0452:b003:l018"
-      ],
-      "raw": "Óëóêòóãó¢ ñûíäàáû,",
-      "ky": "Улуктугуң сындабы,",
-      "status": "unresolved",
-      "note": "Улуктугуң сындабы precise rhetorical сындабы uncertain, prior87 parallel held; no unsupported сын- broken interpretation.",
-      "after_source_id": "semetey-1-2013:p0452:b003:l017",
-      "before_source_id": "semetey-1-2013:p0452:b003:l019",
-      "source": {
-        "page": 452,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0452:b003:l018",
-            "raw": "Óëóêòóãó¢ ñûíäàáû,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 384.5397,
-              "xMax": 200.3448,
-              "yMax": 397.7277
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0453:b003:l010"
-      ],
-      "raw": "È÷êåíè áàñûï òºòºëºï, óóëóì,",
-      "ky": "Ичкени басып төтөлөп, уулум,",
-      "status": "unresolved",
-      "note": "Ичкени басып төтөлөп literal to-drink walking-directly versus possible ичкери inward uncertain; whole verse held, no silent emendation.",
-      "after_source_id": "semetey-1-2013:p0453:b003:l009",
-      "before_source_id": "semetey-1-2013:p0453:b003:l011",
-      "source": {
-        "page": 453,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0453:b003:l010",
-            "raw": "È÷êåíè áàñûï òºòºëºï, óóëóì,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 271.0197,
-              "xMax": 261.5988,
-              "yMax": 284.2077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0455:b004:l017",
-        "semetey-1-2013:p0455:b004:l018"
-      ],
-      "raw": "Áààòûð, ìåíèí àê÷ûëûê ò¿øò¿\náåéëèìå.",
-      "ky": "Баатыр, менин акчылык түштү бейлиме.",
-      "status": "unresolved",
-      "note": "Баатыр, менин акчылык түштү бейлиме exact акчылык unknown here; possible hunger/greed emendation not adopted, both physical segments held.",
-      "after_source_id": "semetey-1-2013:p0455:b004:l016",
-      "before_source_id": "semetey-1-2013:p0455:b004:l019",
-      "source": {
-        "page": 455,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0455:b004:l017",
-            "raw": "Áààòûð, ìåíèí àê÷ûëûê ò¿øò¿",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 370.3797,
-              "xMax": 497.8116,
-              "yMax": 383.5677
-            },
-            "normalization": "legacy-font-v1"
-          },
-          {
-            "id": "semetey-1-2013:p0455:b004:l018",
-            "raw": "áåéëèìå.",
-            "bbox": {
-              "xMin": 466.32,
-              "yMin": 384.5397,
-              "xMax": 518.9784,
-              "yMax": 397.7277
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0459:b005:l009"
-      ],
-      "raw": "Óó è÷èï, Ìàíàñ æ¿éºº æîê,",
-      "ky": "Уу ичип, Манас жүйөө жок,",
-      "status": "unresolved",
-      "note": "Уу ичип, Манас жүйөө жок precise жүйөө жок meaning in collapse uncertain; whole verse held, not arbitrarily no pulse/no consciousness clinical claim.",
-      "after_source_id": "semetey-1-2013:p0459:b005:l008",
-      "before_source_id": "semetey-1-2013:p0459:b005:l010",
-      "source": {
-        "page": 459,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0459:b005:l009",
-            "raw": "Óó è÷èï, Ìàíàñ æ¿éºº æîê,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 256.8597,
-              "xMax": 479.712,
-              "yMax": 270.0477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    }
-  ],
+  "unresolved_passages": [],
   "counts": {
-    "translated_verse_rows": 1526,
-    "english_words": 8670,
-    "translated_source_fragments": 1548,
+    "translated_verse_rows": 1537,
+    "english_words": 8740,
+    "translated_source_fragments": 1560,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1537,
     "wrapped_verse_groups": 22,
-    "unresolved_source_rows": 12,
-    "unresolved_source_verses": 11,
+    "unresolved_source_rows": 0,
+    "unresolved_source_verses": 0,
     "nonverse_extraction_records": 46,
     "watermark_records": 20,
     "source_words": 5207,

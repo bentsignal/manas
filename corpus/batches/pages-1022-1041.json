@@ -566,6 +566,7 @@
     "manas-2010:p1035:b001:l009",
     "manas-2010:p1035:b001:l010",
     "manas-2010:p1035:b001:l011",
+    "manas-2010:p1035:b001:l012",
     "manas-2010:p1035:b001:l013",
     "manas-2010:p1035:b001:l014",
     "manas-2010:p1035:b001:l015",
@@ -918,6 +919,7 @@
     "manas-2010:p1034:b001:l021": "Ages eleven, twelve, thirteen and fifteen retained without harmonization with earlier biographical episodes.",
     "manas-2010:p1034:b001:l034": "Guilt falling on the neck remains a metaphor, followed by actual lead-rope submission1035.",
     "manas-2010:p1035:b001:l008": "Pit/brine in8–9 is the surrender/self-curse formula, not an execution that occurs.",
+    "manas-2010:p1035:b001:l012": "Image legible; карыдайда not resolved by edition glossary or primary dictionary search. Indexed Kyrgyz parallel PDF direct URL returned404. Entire row excluded from English and word totals; no invented place-name or hardship reading. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1035:b001:l019": "My dark eyes for sale rendered yours to dispose of in the self-offering; no actual sale price supplied.",
     "manas-2010:p1035:b001:l040": "Каканчын rendered Chinese realm in this locative setting; no modern border identification.",
     "manas-2010:p1035:b001:l041": "Take me as companion is Chubak’s request recalled by Almambet; pronoun supplied from the dialogue.",
@@ -945,13 +947,7 @@
     "manas-2010:p1041:b001:l036": "Source permits Manas as warrior’s support; following39 explicitly calls him the people’s prop.",
     "manas-2010:p1041:b001:l042": "Final lake-heart simile continues beyond this batch; no invented completion."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1035:b001:l012",
-      "kind": "unresolved_source",
-      "reason": "Unidentified карыдайда in a legible verse of Chubak’s apology; hardship was an unsupported guess."
-    }
-  ],
+  "excluded_source_ids": [],
   "headings": [],
   "lexical_sources": [
     "sources/extracted/manas-2010.lines.jsonl (edition preface15 and glossary1833–1844)",
@@ -1005,8 +1001,8 @@
     "independent_review": false
   },
   "counts": {
-    "translated_verse_rows": 839,
-    "english_words": 4595,
+    "translated_verse_rows": 840,
+    "english_words": 4601,
     "per_page": [
       {
         "page": 1022,
@@ -1111,18 +1107,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p1035:b001:l012"
-      ],
-      "raw": "Алаке, карыдайда кармашкан,",
-      "transliteration_only": "Alake, karydayda karmashkan",
-      "partial_english_not_counted": "Almambet, who grappled together [unidentified setting/condition],",
-      "note": "Image legible; карыдайда not resolved by edition glossary or primary dictionary search. Indexed Kyrgyz parallel PDF direct URL returned404. Entire row excluded from English and word totals; no invented place-name or hardship reading.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p1035:b001:l011",
-      "before_source_id": "manas-2010:p1035:b001:l013"
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

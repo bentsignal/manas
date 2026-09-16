@@ -428,6 +428,7 @@
     "manas-2010:p1253:b001:l001",
     "manas-2010:p1253:b001:l002",
     "manas-2010:p1253:b001:l003",
+    "manas-2010:p1253:b001:l004",
     "manas-2010:p1253:b001:l005",
     "manas-2010:p1253:b001:l006",
     "manas-2010:p1253:b001:l007",
@@ -540,6 +541,7 @@
     "manas-2010:p1255:b001:l030",
     "manas-2010:p1255:b001:l031",
     "manas-2010:p1255:b001:l032",
+    "manas-2010:p1255:b001:l033",
     "manas-2010:p1255:b001:l034",
     "manas-2010:p1255:b001:l035",
     "manas-2010:p1255:b001:l036",
@@ -848,15 +850,14 @@
     "manas-2010:p1243:b001:l002": "Stars proved fires: visual misidentification in enormous night army, not stars literally burning on earth.",
     "manas-2010:p1243:b001:l019": "Arkesken retained as sword name, recurrent capitalized weapon designation in this witness. No unsupported all-cutting etymology; possible relationship to наркескен not silently imposed.",
     "manas-2010:p1243:b001:l021": "сан epic multitude unit rendered vast host/army; no invented exact census.",
-    "manas-2010:p1244:b001:l017": "сан epic multitude unit rendered vast host/army; no invented exact census.",
-    "manas-2010:p1246:b001:l014": "сан epic multitude unit rendered vast host/army; no invented exact census.",
-    "manas-2010:p1253:b001:l003": "сан epic multitude unit rendered vast host/army; no invented exact census.",
     "manas-2010:p1243:b001:l031": "калчаI.1–2 grim/terrible appearance and Kongurbay epithet, Yudakhin https://el-sozduk.kg/калча/. English grim-faced here and subsequent standalone epithet references; not mountain-Tajik ethnic identification in this context.",
+    "manas-2010:p1244:b001:l017": "сан epic multitude unit rendered vast host/army; no invented exact census.",
     "manas-2010:p1244:b001:l038": "алп giant title translated as the Giant, including Mangkush, Kutan and Kiten; no opaque rank transliteration.",
     "manas-2010:p1245:b001:l009": "кына grip/press firmly, Yudakhin https://el-sozduk.kg/кына/. Red spear/sword held tight, not put away in a sheath.",
     "manas-2010:p1245:b001:l015": "сында жок perfect/without fault, Yudakhin https://el-sozduk.kg/сын/. Chief peerless, not silently changing сында to санда uncountable.",
     "manas-2010:p1245:b001:l028": "Bozkertik appears here as Ylama’s mount; earlier named fighter Bozkertik also exists. Printed name/function retained without assuming one identity or correcting the text.",
     "manas-2010:p1246:b001:l006": "Jutting fangs attach to dead horses on following line; mustaches attach to dead men1246:8–9, repeated1249:34–37. No omission as grotesque detail.",
+    "manas-2010:p1246:b001:l014": "сан epic multitude unit rendered vast host/army; no invented exact census.",
     "manas-2010:p1246:b001:l026": "табы leopard breed/type provisionally, following fighting trim at1246:23; contextual repetition retains both values.",
     "manas-2010:p1247:b001:l004": "уй куймулчак lean cow-like rump is racing-horse conformation, exact Yudakhin https://el-sozduk.kg/куймулчак/; not fat bovine hindquarters.",
     "manas-2010:p1247:b001:l013": "Roe-deer-like head provisionally Sarala from preceding grammatical subject; rider assignment possible, qualified.",
@@ -884,6 +885,8 @@
     "manas-2010:p1252:b001:l014": "окоро түйгөн tied in rounded knots, source glossary1841:31 and1969 https://el-sozduk.kg/окоро/. Repeated1252:42; not loose reins.",
     "manas-2010:p1252:b001:l020": "Khan of the monks retained as epic description without historical office equivalence.",
     "manas-2010:p1252:b001:l037": "Loss of wings metaphor is loss of Sarala mount on next row; no injury to literal wings invented.",
+    "manas-2010:p1253:b001:l003": "сан epic multitude unit rendered vast host/army; no invented exact census.",
+    "manas-2010:p1253:b001:l004": "Алгазардай comparison unresolved: Algazar/Algazar-like lacks verified dictionary sense or character identification; no proper-name status assumed merely from initial capitalization. Partial transliteration is not accepted English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1253:b001:l021": "Shared womb/birth bond of horse and rider retained as supernatural epic kinship, no rationalizing rewrite.",
     "manas-2010:p1253:b001:l028": "Twelvefold encirclement retains twelve with implicit courses/rings qualified; no invented twelve named attackers.",
     "manas-2010:p1253:b001:l031": "Сырбараң polished musket weapon gloss, no unsupported ignition type. At1253:37 struck could mean shot or close blow; source does not settle which.",
@@ -893,19 +896,20 @@
     "manas-2010:p1255:b001:l003": "бери variant пери, spirits, Yudakhin бериII; jinn/spirits pairing preserved rather than adverb here.",
     "manas-2010:p1255:b001:l021": "Printed эр эмес no hero is awkward beside universal shuddering next line; possible elliptical not only the imprisoned hero, but no missing word invented. Qualified literal negation retained.",
     "manas-2010:p1255:b001:l030": "Twin lamb companion is metaphor of intimacy, not asserted shared biological parentage.",
+    "manas-2010:p1255:b001:l033": "Completion-first first pass corrected after targeted high-severity source-context review: Restores the battle formula; кыймалуу refers to an exposed/vulnerable side.",
     "manas-2010:p1256:b001:l038": "Feedbag simile/right-knee placement retained as printed transport of wounded Almambet.",
     "manas-2010:p1257:b001:l010": "чыбыр hillocks/undulating ground, Yudakhin https://el-sozduk.kg/чыбыр/.",
     "manas-2010:p1257:b001:l011": "кабаты менен interpreted as both riders borne together across ridges; qualified, no extra passenger invented.",
     "manas-2010:p1257:b001:l025": "Dead soul revived is recovery metaphor here, not independent claim Almambet had died.",
     "manas-2010:p1258:b001:l001": "Negation санаа жок scopes flinching/thought of death across1258:1–2, English preserves scope rather than asserting Syrgak flinched.",
     "manas-2010:p1258:b001:l036": "кыргакIII trusted comrade/support, Yudakhin https://el-sozduk.kg/кыргак/; black-steel metaphor applied to Syrgak, not literal named blade or untranslated armor term.",
-    "manas-2010:p1260:b001:l037": "кыргакIII trusted comrade/support, Yudakhin https://el-sozduk.kg/кыргак/; black-steel metaphor applied to Syrgak, not literal named blade or untranslated armor term.",
     "manas-2010:p1258:b001:l038": "Orok shortened proper name retained, alongside Orokkyr1258:29 and Orokbash1251:36.",
     "manas-2010:p1259:b001:l027": "сарала here yellow-piebald leather trousers, contrasted with horse proper name Sarala adjacent; no trousers named Sarala.",
     "manas-2010:p1259:b001:l033": "ыштык primitive hide-smoking pit, exact nostril-steam simile Yudakhin https://el-sozduk.kg/ыштык/.",
     "manas-2010:p1260:b001:l008": "Gray steed description and name Kerküröng retained despite apparent coat-name inconsistency; no forced brown correction.",
     "manas-2010:p1260:b001:l019": "Explicit wings of black horse retained, unlike metaphorical loss of wings when rider unhorsed.",
     "manas-2010:p1260:b001:l022": "талкандай чал scatter/churn like ground grain, Yudakhin чал; imagery retained as destructive world-confounding boast.",
+    "manas-2010:p1260:b001:l037": "кыргакIII trusted comrade/support, Yudakhin https://el-sozduk.kg/кыргак/; black-steel metaphor applied to Syrgak, not literal named blade or untranslated armor term.",
     "manas-2010:p1261:b001:l002": "оозу катуу hard-mouthed horse resists bit; runaway carries Syrgak past fallen Kongurbay, not kidnapping by a third rider.",
     "manas-2010:p1261:b001:l029": "дүңкүлдөк booming drum/instrument, context signal for respite; not an invented modern cannon.",
     "manas-2010:p1261:b001:l032": "Implicit agreeing subject provisionally Almambet; no additional treaty conditions beyond printed seven days.",
@@ -918,18 +922,7 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1253:b001:l004",
-      "kind": "unresolved_source",
-      "reason": "Алгазардай comparison unresolved: Algazar/Algazar-like lacks verified dictionary sense or character identification; no proper-name status assumed merely from initial capitalization. Partial transliteration is not accepted English translation."
-    },
-    {
-      "id": "manas-2010:p1255:b001:l033",
-      "kind": "unresolved_source",
-      "reason": "кыймалуу жагдан ornamented iron-covered chest is established, but чалдырып and its relation to feared live capture/gift are unresolved. No supported coffin, chest-making or transportation interpretation; entire readable verse preserved separately."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_source": [
     {
       "id": "manas-2010:p1253:b001:l004",
@@ -1082,7 +1075,18 @@
     "date": "2026-09-14",
     "rows": 838,
     "status": "draft; no independent specialist review",
-    "details": "All840source/draft pairs read in five consecutive168-row sections. Final title, grammar, negation and comrade-metaphor corrections rechecked.838English rows retained; two unresolved phrases excluded from English count and preserved separately. Direct Kyrgyz draft, no prior English project input. Repetitions, numbers and narrative inconsistencies preserved with material uncertainty notes."
+    "details": "All840source/draft pairs read in five consecutive168-row sections. Final title, grammar, negation and comrade-metaphor corrections rechecked.838English rows retained; two unresolved phrases excluded from English count and preserved separately. Direct Kyrgyz draft, no prior English project input. Repetitions, numbers and narrative inconsistencies preserved with material uncertainty notes.",
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "manas-2010:p1255:b001:l033"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "coverage": {
     "pdf_pages": [
@@ -1121,5 +1125,7 @@
     "source_words": 2641,
     "english_words": 4274,
     "all_source_verse_words": 2646
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

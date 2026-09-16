@@ -91,6 +91,7 @@
     "manas-2010:p1651:b001:l042",
     "manas-2010:p1652:b001:l001",
     "manas-2010:p1652:b001:l002",
+    "manas-2010:p1652:b001:l003",
     "manas-2010:p1652:b001:l004",
     "manas-2010:p1652:b001:l005",
     "manas-2010:p1652:b001:l006",
@@ -153,6 +154,7 @@
     "manas-2010:p1651:b001:l031": "Lean-haunched уй куймулчак racehorse term, not cow anatomy.",
     "manas-2010:p1651:b001:l035": "Zulpuqor named sword; double-edged explicitly preserved, not automatically split blade.",
     "manas-2010:p1651:b001:l037": "Yesterday planted willow and golden throne left behind illustrate abandoned possessions; actual sequence/date not reconciled. Willow not silently converted to spear shaft.",
+    "manas-2010:p1652:b001:l003": "Printed Жобо жоого атычу has clear shooting-at-enemy remainder but Жобо unverified in this syntax. Yudakhin жобо plan/project or verb grieve/evade https://el-sozduk.kg/zhobo-7/ does not resolve modifier/clause; related384:32 sorrow does not establish this form. Same-witness online repetition not independent repair. No silent Жобо→жоо or guessed distress-shooting gloss. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1652:b001:l005": "Gun taken as gift from Beijing; giver not specified in this clause.",
     "manas-2010:p1652:b001:l006": "көйкашка renowned distinguished per exact Yudakhin variant https://el-sozduk.kg/koy-12/, not shameless.",
     "manas-2010:p1652:b001:l009": "Moonlike shoulder mirror weapon gleam image retained, not literal glass accessory.",
@@ -169,13 +171,7 @@
   "status": "draft",
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1652:b001:l003",
-      "kind": "unresolved_source",
-      "reason": "Printed Жобо жоого атычу has clear shooting-at-enemy remainder but Жобо unverified in this syntax. Yudakhin жобо plan/project or verb grieve/evade https://el-sozduk.kg/zhobo-7/ does not resolve modifier/clause; related384:32 sorrow does not establish this form. Same-witness online repetition not independent repair. No silent Жобо→жоо or guessed distress-shooting gloss."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_passages": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -193,8 +189,8 @@
     "scope": "All125 included source/English pairs read and checked plus excluded1652:3 raw/context; revised1652:24–26,41 pairs reread. Predecessor1649:38–42 and continuation1653:1–6 read."
   },
   "counts": {
-    "english_verse_rows": 125,
-    "english_words": 708
+    "english_verse_rows": 126,
+    "english_words": 713
   },
   "translation_provenance": "Direct Kyrgyz-to-English by Codex root from original extraction, PDF images, edition glossary and cited primary dictionaries. No prior English translation input.",
   "unresolved_source": [
@@ -257,5 +253,7 @@
       },
       "rendered_page": "/tmp/manas-root-1652.png"
     }
-  ]
+  ],
+  "source_groups": {},
+  "source_joiners": {}
 }

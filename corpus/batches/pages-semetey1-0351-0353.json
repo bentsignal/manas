@@ -59,6 +59,7 @@
     "semetey-1-2013:p0351:b004:l014",
     "semetey-1-2013:p0351:b004:l015",
     "semetey-1-2013:p0351:b004:l016",
+    "semetey-1-2013:p0351:b004:l017",
     "semetey-1-2013:p0351:b004:l018",
     "semetey-1-2013:p0351:b004:l019",
     "semetey-1-2013:p0351:b004:l020",
@@ -256,11 +257,6 @@
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0351:b004:l017",
-      "kind": "unresolved_source",
-      "reason": "Өлсө кетпей оюңан: death/remaining in thought clause and person reference unresolved in hound sniffing passage. No unprinted scent or dead father subject supplied."
-    },
-    {
       "id": "semetey-1-2013:p0352:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
@@ -294,8 +290,10 @@
     "semetey-1-2013:p0351:b003:l030": "Six different kinds of fur source number retained; no unprinted list of colors.",
     "semetey-1-2013:p0351:b003:l031": "Narrow hindquarters/broad chest hound description, not human anatomy.",
     "semetey-1-2013:p0351:b004:l001": "Indented2 completes one verse, not additional verse. Heirloom/treasure from Manas preserved.",
+    "semetey-1-2013:p0351:b004:l004": "Present instruction to bring Manas's surviving dog Kumayyk, repeatedly described as his bequest, to Kanykey. No accusation of misconduct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0351:b004:l007": "Primary Yudakhin exact өлгөндө көргөн бала = long-awaited child; no resurrection or child seen after death.",
     "semetey-1-2013:p0351:b004:l016": "Sniffing eyes literal printed көзүңдөн, not silent correction to clothes or face.",
+    "semetey-1-2013:p0351:b004:l017": "Өлсө кетпей оюңан: death/remaining in thought clause and person reference unresolved in hound sniffing passage. No unprinted scent or dead father subject supplied. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0351:b004:l021": "If she/he causes misgiving conditional hound judgment, next source Manas epithet kept on its own verse rather than shifted to next.",
     "semetey-1-2013:p0351:b004:l023": "Туйгун noble falcon epithet of Manas within hound speech, not newly arrived falcon; Akshumkar begins352.",
     "semetey-1-2013:p0351:b004:l025": "Negative wish not cross little pass/not bite you retained without harmonizing to preceding movement.",
@@ -324,12 +322,14 @@
     "semetey-1-2013:p0353:b003:l008": "Primary1960glossary372 көк шал бут blue speckled hunting-bird leg markings, not paralysis.",
     "semetey-1-2013:p0353:b003:l010": "No more than bucketful / platterful of meat separate measures and source repetitions retained, no calorie recommendation.",
     "semetey-1-2013:p0353:b003:l013": "Printed negative шукшурбайт retained for tail13/wings15 despite hunting prowess context. Primary шукшурул descending with folded wings; no silent positive emendment.",
+    "semetey-1-2013:p0353:b003:l017": "Жем баштык feeding bag, sal a kel put/bring. Object unexpressed; English it preserves this rather than inventing meat as direct object. Bird transport versus bringing feed not independently settled.",
     "semetey-1-2013:p0353:b003:l018": "Foul feathers from neglect literal, no invented sickness.",
     "semetey-1-2013:p0353:b003:l025": "Sary-Ozon/Talas places; narrative moves from bird to former home.",
     "semetey-1-2013:p0353:b003:l031": "Iron and solid tin doors source materials, not corrected to steel or bronze.",
     "semetey-1-2013:p0353:b003:l032": "Though woman/source speaker's gendered phrase retained, not editorial endorsement.",
     "semetey-1-2013:p0353:b005:l001": "Human noses/ears worn as amulets in guard description retained as source violence; no extra procedure.",
     "semetey-1-2013:p0353:b005:l004": "Seven jinn/spirits, forty swordsmen, sixty spearmen exact distinct counts, not combined into invented total.",
+    "semetey-1-2013:p0353:b005:l008": "Kanykey recalls the many guards she had while Manas was alive, contrasting them with destruction after his death. Use unfortunate for retrospective self-deprecation rather than implying past widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0353:b005:l010": "Repeated conjectural -гандыр remains must have, absent narrator eyewitness verification.",
     "semetey-1-2013:p0353:b005:l012": "Ruined palace cattle enclosure, not complete annihilation/no remnant invented.",
     "semetey-1-2013:p0353:b005:l016": "Raven/crow/all living gone rhetorical devastation, no literal modern census.",
@@ -339,44 +339,9 @@
     "semetey-1-2013:p0353:b005:l030": "Bloody neck figurative bloodstained killer in combat, no invented injury to Bakai.",
     "semetey-1-2013:p0353:b005:l031": "Five hundred түтүн households, not five hundred soldiers or smoke plumes.",
     "semetey-1-2013:p0353:b005:l035": "Ill name after resistance, source judgment retained alongside noble praise, not harmonized.",
-    "semetey-1-2013:p0353:b005:l039": "My uncle King Bakai possessive incomplete phrase continues354; no invented complement.",
-    "semetey-1-2013:p0353:b003:l017": "Жем баштык feeding bag, sal a kel put/bring. Object unexpressed; English it preserves this rather than inventing meat as direct object. Bird transport versus bringing feed not independently settled.",
-    "semetey-1-2013:p0351:b004:l004": "Present instruction to bring Manas's surviving dog Kumayyk, repeatedly described as his bequest, to Kanykey. No accusation of misconduct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0353:b005:l008": "Kanykey recalls the many guards she had while Manas was alive, contrasting them with destruction after his death. Use unfortunate for retrospective self-deprecation rather than implying past widowhood. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0353:b005:l039": "My uncle King Bakai possessive incomplete phrase continues354; no invented complement."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0351:b004:l017"
-      ],
-      "raw": [
-        "ªëñº êåòïåé îþ¢àí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0351:b004:l017",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 351,
-          "block": 4,
-          "line_in_block": 17,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 370.3797,
-            "xMax": 428.106,
-            "yMax": 383.5677
-          },
-          "raw": "ªëñº êåòïåé îþ¢àí,",
-          "text": "Өлсө кетпей оюңан,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Өлсө кетпей оюңан: death/remaining in thought clause and person reference unresolved in hound sniffing passage. No unprinted scent or dead father subject supplied.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -399,5 +364,6 @@
     "rows": 232,
     "status": "draft; no independent specialist review",
     "details": "Audited every included narrative row against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned; no row changes were required."
-  }
+  },
+  "source_joiners": {}
 }

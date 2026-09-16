@@ -118,6 +118,7 @@
     "manas-2010:p1813:b001:l026",
     "manas-2010:p1813:b001:l027",
     "manas-2010:p1813:b001:l028",
+    "manas-2010:p1813:b001:l029",
     "manas-2010:p1813:b001:l030",
     "manas-2010:p1813:b001:l031",
     "manas-2010:p1813:b001:l032",
@@ -786,6 +787,7 @@
     "manas-2010:p1829:b001:l023",
     "manas-2010:p1829:b001:l024",
     "manas-2010:p1829:b001:l025",
+    "manas-2010:p1829:b001:l026",
     "manas-2010:p1829:b001:l027",
     "manas-2010:p1829:b001:l028",
     "manas-2010:p1829:b001:l029",
@@ -942,6 +944,7 @@
     "manas-2010:p1813:b001:l020": "Printed Азарын read attention/gaze, contextual назар variant, given explicit looking22 and eye-strike25. Not a new attack with a weapon.",
     "manas-2010:p1813:b001:l026": "Printed огой read Nogoy in established Argyn-Nogoy pair; raw initial-letter loss preserved.",
     "manas-2010:p1813:b001:l027": "Кылым generations/peoples in collective pairing with Kyrgyz, not a numerical count of centuries.",
+    "manas-2010:p1813:b001:l029": "Printed Сан кыйылган жок эле. Number/multitude/thigh and cutting/being overcome senses do not establish the complete clause in Manas’s recollection of governing peoples. Negative is legible but no secure subject/object relation. Whole verse preserved separately, not filled with an invented boast or casualty statistic. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1813:b001:l037": "Жалын provisionally flame, the fiery child beside Manas, fitting1811:34–41 and1831:5. Alternative жал-ын his mane would align the wild-ass image38 but leaves possessors unstable. Devouring retained as destructive gaze/grief metaphor, not literal cannibalism. No raw emendation.",
     "manas-2010:p1813:b001:l038": "Printed болдуңбу have you become retained, though surrounding verses discuss making child like a snake40. No silent causative repair to make the animal parallels uniform.",
     "manas-2010:p1814:b001:l008": "Falling in prime and not lasting seven days10 are Manas’s prediction; later death1831 retained without computing an exact chronology.",
@@ -1051,6 +1054,7 @@
     "manas-2010:p1829:b001:l003": "Жабыр provisionally slopes in topographical deployment context parallel hills5; exact nuance awaits expert review, not identified as a place-name.",
     "manas-2010:p1829:b001:l010": "Кара жанга канышчу rendered fight to death in stand-fast classification11–12; exact martial idiom provisional.",
     "manas-2010:p1829:b001:l019": "Чогоол мылтык fierce/terrible gun, explicit Yudakhin https://el-sozduk.kg/чогоол/. Not an unsupported specific gun model.",
+    "manas-2010:p1829:b001:l026": "Printed Баатыр ай, жеке олуя курчанып. Warrior/girding and жеке leather battle belt or alone are legible; олуя saint/seer does not securely establish attachment or a named belt. No silent replacement by a conventional belt formula or invented sacred object. Entire verse excluded pending resolution. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1829:b001:l031": "Kokboru center/child edges31–34 then child center/Kokboru flanks35–39 retained; no harmonization of repeated combat positions.",
     "manas-2010:p1830:b001:l002": "Чорт келте short gun, descriptive gun name/epithet; no invented modern firearm mechanism.",
     "manas-2010:p1830:b001:l009": "Mountain of dead horses and heaps of warriors11 retained as battle hyperbole.",
@@ -1076,82 +1080,8 @@
     "manas-2010:p1832:b001:l025": "Funeral observances here subsequent memorial gathering after initial burial and departure; not a claim that Kokboru missed the secret burial he attended1820:22.",
     "manas-2010:p1832:b001:l034": "Narrative ends with all pledged khans failing to return, not a completed successful feast. Last statement wraps34–35, both rows retained.1833 starts modern glossary and is outside this batch."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1813:b001:l029",
-      "kind": "unresolved_source",
-      "reason": "Printed Сан кыйылган жок эле. Number/multitude/thigh and cutting/being overcome senses do not establish the complete clause in Manas’s recollection of governing peoples. Negative is legible but no secure subject/object relation. Whole verse preserved separately, not filled with an invented boast or casualty statistic."
-    },
-    {
-      "id": "manas-2010:p1829:b001:l026",
-      "kind": "unresolved_source",
-      "reason": "Printed Баатыр ай, жеке олуя курчанып. Warrior/girding and жеке leather battle belt or alone are legible; олуя saint/seer does not securely establish attachment or a named belt. No silent replacement by a conventional belt formula or invented sacred object. Entire verse excluded pending resolution."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1813:b001:l029"
-      ],
-      "raw": [
-        "Сан кыйылган жок эле,"
-      ],
-      "source_segments": [
-        {
-          "id": "manas-2010:p1813:b001:l029",
-          "source_id": "manas-2010",
-          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-          "page": 1813,
-          "block": 1,
-          "line_in_block": 29,
-          "bbox": {
-            "xMin": 212.52,
-            "yMin": 533.712,
-            "xMax": 330.36,
-            "yMax": 548.964
-          },
-          "raw": "Сан кыйылган жок эле,",
-          "text": "Сан кыйылган жок эле,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "identity"
-        }
-      ],
-      "reason": "Printed Сан кыйылган жок эле. Number/multitude/thigh and cutting/being overcome senses do not establish the complete clause in Manas’s recollection of governing peoples. Negative is legible but no secure subject/object relation. Whole verse preserved separately, not filled with an invented boast or casualty statistic.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "manas-2010:p1829:b001:l026"
-      ],
-      "raw": [
-        "Баатыр ай, жеке олуя курчанып,"
-      ],
-      "source_segments": [
-        {
-          "id": "manas-2010:p1829:b001:l026",
-          "source_id": "manas-2010",
-          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-          "page": 1829,
-          "block": 1,
-          "line_in_block": 26,
-          "bbox": {
-            "xMin": 212.52,
-            "yMin": 483.192,
-            "xMax": 377.1588,
-            "yMax": 498.444
-          },
-          "raw": "Баатыр ай, жеке олуя курчанып,",
-          "text": "Баатыр ай, жеке олуя курчанып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "identity"
-        }
-      ],
-      "reason": "Printed Баатыр ай, жеке олуя курчанып. Warrior/girding and жеке leather battle belt or alone are legible; олуя saint/seer does not securely establish attachment or a named belt. No silent replacement by a conventional belt formula or invented sacred object. Entire verse excluded pending resolution.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -1213,9 +1143,11 @@
   ],
   "publication_basis": "New draft directly translated from Kyrgyz traditional folklore; no prior English poem translation input. Material uncertainty and contextual corrections documented per ID with raw source retained in extraction. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 915,
-    "english_words": 4952,
-    "unresolved_source_rows": 2,
+    "english_verse_rows": 917,
+    "english_words": 4968,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

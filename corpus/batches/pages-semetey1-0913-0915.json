@@ -27,6 +27,7 @@
     "semetey-1-2013:p0913:b004:l019",
     "semetey-1-2013:p0913:b004:l020",
     "semetey-1-2013:p0913:b004:l021",
+    "semetey-1-2013:p0913:b004:l022",
     "semetey-1-2013:p0913:b004:l023",
     "semetey-1-2013:p0913:b004:l024",
     "semetey-1-2013:p0913:b004:l025",
@@ -98,6 +99,7 @@
     "semetey-1-2013:p0914:b003:l021",
     "semetey-1-2013:p0914:b003:l022",
     "semetey-1-2013:p0914:b003:l023",
+    "semetey-1-2013:p0914:b003:l024",
     "semetey-1-2013:p0914:b003:l025",
     "semetey-1-2013:p0914:b003:l026",
     "semetey-1-2013:p0914:b003:l027",
@@ -157,10 +159,12 @@
     "semetey-1-2013:p0915:b003:l003",
     "semetey-1-2013:p0915:b003:l004",
     "semetey-1-2013:p0915:b003:l005",
+    "semetey-1-2013:p0915:b003:l006",
     "semetey-1-2013:p0915:b003:l007",
     "semetey-1-2013:p0915:b003:l008",
     "semetey-1-2013:p0915:b003:l009",
     "semetey-1-2013:p0915:b003:l010",
+    "semetey-1-2013:p0915:b003:l011",
     "semetey-1-2013:p0915:b003:l012",
     "semetey-1-2013:p0915:b003:l013",
     "semetey-1-2013:p0915:b003:l014",
@@ -174,6 +178,7 @@
     "semetey-1-2013:p0915:b003:l022",
     "semetey-1-2013:p0915:b003:l023",
     "semetey-1-2013:p0915:b003:l024",
+    "semetey-1-2013:p0915:b003:l025",
     "semetey-1-2013:p0915:b003:l026",
     "semetey-1-2013:p0915:b003:l027",
     "semetey-1-2013:p0915:b003:l028",
@@ -215,6 +220,7 @@
     "semetey-1-2013:p0915:b005:l025",
     "semetey-1-2013:p0915:b005:l026",
     "semetey-1-2013:p0915:b005:l027",
+    "semetey-1-2013:p0915:b005:l028",
     "semetey-1-2013:p0915:b005:l029",
     "semetey-1-2013:p0915:b005:l030",
     "semetey-1-2013:p0915:b005:l031",
@@ -260,11 +266,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0913:b004:l022",
-      "kind": "unresolved_source",
-      "reason": "Таш тулгалар жабылып: stone hearths clear, жабылып relation/covering action unresolved; no invented hearth assembly."
-    },
-    {
       "id": "semetey-1-2013:p0914:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -273,11 +274,6 @@
       "id": "semetey-1-2013:p0914:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0914:b003:l024",
-      "kind": "unresolved_source",
-      "reason": "Оң келдекей жаа тартып: bow drawing clear, exact келдекей modifier unresolved."
     },
     {
       "id": "semetey-1-2013:p0915:b002:l001",
@@ -293,26 +289,6 @@
       "id": "semetey-1-2013:p0915:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0915:b003:l006",
-      "kind": "unresolved_source",
-      "reason": "Кежисин курчтан мадаткан: кежи primary headstall or tether rope, relation to armor and мадат action unresolved; no invented steel neck reinforcement."
-    },
-    {
-      "id": "semetey-1-2013:p0915:b003:l011",
-      "kind": "unresolved_source",
-      "reason": "Алтымыш уруу курдаткан: sixty and making clear, уруу clans versus kinds/material construction unclear; no invented sixty layers."
-    },
-    {
-      "id": "semetey-1-2013:p0915:b003:l025",
-      "kind": "unresolved_source",
-      "reason": "Жолу каткан алакчы: primary алакчы mortal world, full ill-fated encounter construction unresolved; no invented murderer."
-    },
-    {
-      "id": "semetey-1-2013:p0915:b005:l028",
-      "kind": "unresolved_source",
-      "reason": "Алаңды ала качтымбы: taking away question clear, exact алаңды object unresolved; no invented woman or horse."
     }
   ],
   "notes": {
@@ -321,6 +297,7 @@
     "semetey-1-2013:p0913:b004:l016": "Primary ас- IV exact аса байла- = tether horse with head drawn up during cooling/rest. Source sequence unsaddling/cooling agrees; this primary discovery also restored825:3:39 separately.",
     "semetey-1-2013:p0913:b004:l018": "Stone tethering places rendered broadly; керме usually a tethering line, but no invented posts, masonry, or knotting procedure supplied.",
     "semetey-1-2013:p0913:b004:l021": "Жан казан small traveling/camp kettle in primary dictionary.",
+    "semetey-1-2013:p0913:b004:l022": "Таш тулгалар жабылып: stone hearths clear, жабылып relation/covering action unresolved; no invented hearth assembly. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0913:b004:l025": "Primary кысырак young mare not yet foaled; тай yearling. Yearling fillies is qualified reading of compound, not an extra adult-horse count.",
     "semetey-1-2013:p0913:b004:l032": "Дүрбү spyglass; epic chronology not harmonized or removed.",
     "semetey-1-2013:p0913:b006:l007": "Көгөргөн stubborn/defiant context, distinguished from preceding literal blue smoke/tent.",
@@ -334,6 +311,7 @@
     "semetey-1-2013:p0914:b003:l012": "Primary буй кыл- bring into confusion/disarray; not ordinary domestic chores or a placename.",
     "semetey-1-2013:p0914:b003:l016": "Primary жазайыл1 weapon/falconet; adjacent мылтык explicitly identifies gun here. Its misfortune sense in other passages is not imposed.",
     "semetey-1-2013:p0914:b003:l021": "Primary очогор epic gun; capitalized source form retained as Ochogor. No invented flintlock mechanism.",
+    "semetey-1-2013:p0914:b003:l024": "Оң келдекей жаа тартып: bow drawing clear, exact келдекей modifier unresolved. Completion-first first pass: Low-confidence approximate rendering for “Оң келдекей жаа тартып,”; nearest corpus parallel was “Жамгыр кылып жаа тартып,”.",
     "semetey-1-2013:p0914:b003:l025": "Primary араан I wide-open mouth; broad/wide-mouthed arrow image retained without inventing a particular archaeological arrowhead form.",
     "semetey-1-2013:p0914:b003:l033": "Primary даңгыт adult male dog or wolf; dogs provisionally chosen in road/scavenging context. Not a Tangut ethnonym. Exact species remains contextual.",
     "semetey-1-2013:p0914:b003:l036": "Junior-wife sons retained as source's family classification, without assigning an unstated mother.",
@@ -343,10 +321,13 @@
     "semetey-1-2013:p0914:b004:l027": "Жан аябай not sparing themselves; avoids falsely claiming deaths of other people.",
     "semetey-1-2013:p0914:b004:l033": "Rooster/cock simile retained alongside lion epithet; no zoological harmonization.",
     "semetey-1-2013:p0914:b004:l039": "Primary себил I impenetrable war clothing/armor. Sentence continues on next page at orphan's shoulder blades; no dropped transition.",
+    "semetey-1-2013:p0915:b003:l006": "Кежисин курчтан мадаткан: кежи primary headstall or tether rope, relation to armor and мадат action unresolved; no invented steel neck reinforcement. Completion-first first pass: Low-confidence approximate rendering for “Кежисин курчтан мадаткан,”; nearest corpus parallel was “Темирин курчтан таптаган.”.",
     "semetey-1-2013:p0915:b003:l007": "Primary жадат- weary/bore; armor's ability to weary Kelte's bullets is personified invulnerability, not real ballistic guidance.",
     "semetey-1-2013:p0915:b003:l008": "Уз skilled artisan; no unsupported gender restriction on makers.",
+    "semetey-1-2013:p0915:b003:l011": "Алтымыш уруу курдаткан: sixty and making clear, уруу clans versus kinds/material construction unclear; no invented sixty layers. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0915:b003:l013": "Forty companions contrasted with earlier Chinese-emperor battle; Akolpok remains subject of ensuing invulnerability claims.",
     "semetey-1-2013:p0915:b003:l024": "Mother's warning of companions becoming enemies retained; no claim of verified prophecy.",
+    "semetey-1-2013:p0915:b003:l025": "Жолу каткан алакчы: primary алакчы mortal world, full ill-fated encounter construction unresolved; no invented murderer. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0915:b003:l031": "Бүчү ties/fastenings, following source crossing/tie verb; not a newly specified metal button.",
     "semetey-1-2013:p0915:b003:l037": "Primary кешик fortune/blessing in this battle outcome, not serving leftovers.",
     "semetey-1-2013:p0915:b005:l002": "Бок explicit coarse excrement word; profanity preserved in narrator's lament.",
@@ -354,200 +335,14 @@
     "semetey-1-2013:p0915:b005:l008": "Primary жашык lean/fatless flesh; source көк color retained as blue without medical diagnosis.",
     "semetey-1-2013:p0915:b005:l014": "Stiff saddle straps retained literally; no invented physical cause or abstract death interpretation.",
     "semetey-1-2013:p0915:b005:l019": "No livestock claim retained in lament despite earlier horse/wealth narrative; no continuity repair.",
+    "semetey-1-2013:p0915:b005:l028": "Алаңды ала качтымбы: taking away question clear, exact алаңды object unresolved; no invented woman or horse. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0915:b005:l029": "Ар strength/vigor in exhausting context; alternative honor resonance not silently used to invent a specific insult.",
+    "semetey-1-2013:p0915:b005:l033": "Coordinator independently viewed PDF882 and883 images and exact extraction after worker flagged parallel.882:4:26–27 explicitly offers mother Kanykei for marriage to one of six elder kinsmen;883:3:24–26 repeats head/mother offering refusal. Thus915 is offering mother, not resembling her. Restored direct draft; no modern endorsement or specialist review.",
     "semetey-1-2013:p0915:b005:l034": "Primary эстен- = эсте-II yawn, exact open-mouth example. Odd quoted yawn before slaughter retained; not silently emended to thinking or resting.",
     "semetey-1-2013:p0915:b005:l036": "Жаш tears in weeping context; life/age resonance possible, no inferred death asserted.",
-    "semetey-1-2013:p0915:b005:l039": "Final verse explicitly offers head and reports refusal; preserved as included boundary to916.",
-    "semetey-1-2013:p0915:b005:l033": "Coordinator independently viewed PDF882 and883 images and exact extraction after worker flagged parallel.882:4:26–27 explicitly offers mother Kanykei for marriage to one of six elder kinsmen;883:3:24–26 repeats head/mother offering refusal. Thus915 is offering mother, not resembling her. Restored direct draft; no modern endorsement or specialist review."
+    "semetey-1-2013:p0915:b005:l039": "Final verse explicitly offers head and reports refusal; preserved as included boundary to916."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0913:b004:l022"
-      ],
-      "raw": [
-        "Òàø òóëãàëàð æàáûëûï."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0913:b004:l022",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 913,
-          "block": 4,
-          "line_in_block": 22,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 496.6197,
-            "xMax": 224.796,
-            "yMax": 509.8077
-          },
-          "raw": "Òàø òóëãàëàð æàáûëûï.",
-          "text": "Таш тулгалар жабылып.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Таш тулгалар жабылып: stone hearths clear, жабылып relation/covering action unresolved; no invented hearth assembly.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0914:b003:l024"
-      ],
-      "raw": [
-        "Î¢ êåëäåêåé æàà òàðòûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0914:b003:l024",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 914,
-          "block": 3,
-          "line_in_block": 24,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 469.7397,
-            "xMax": 228.7692,
-            "yMax": 482.9277
-          },
-          "raw": "Î¢ êåëäåêåé æàà òàðòûï,",
-          "text": "Оң келдекей жаа тартып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Оң келдекей жаа тартып: bow drawing clear, exact келдекей modifier unresolved.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0915:b003:l006"
-      ],
-      "raw": [
-        "Êåæèñèí êóð÷òàí ìàäàòêàí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0915:b003:l006",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 915,
-          "block": 3,
-          "line_in_block": 6,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 214.1397,
-            "xMax": 248.064,
-            "yMax": 227.3277
-          },
-          "raw": "Êåæèñèí êóð÷òàí ìàäàòêàí,",
-          "text": "Кежисин курчтан мадаткан,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Кежисин курчтан мадаткан: кежи primary headstall or tether rope, relation to armor and мадат action unresolved; no invented steel neck reinforcement.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0915:b003:l011"
-      ],
-      "raw": [
-        "Àëòûìûø óðóó êóðäàòêàí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0915:b003:l011",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 915,
-          "block": 3,
-          "line_in_block": 11,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 285.1797,
-            "xMax": 241.476,
-            "yMax": 298.3677
-          },
-          "raw": "Àëòûìûø óðóó êóðäàòêàí.",
-          "text": "Алтымыш уруу курдаткан.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Алтымыш уруу курдаткан: sixty and making clear, уруу clans versus kinds/material construction unclear; no invented sixty layers.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0915:b003:l025"
-      ],
-      "raw": [
-        "«Æîëó êàòêàí àëàê÷û"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0915:b003:l025",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 915,
-          "block": 3,
-          "line_in_block": 25,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 483.8997,
-            "xMax": 211.4784,
-            "yMax": 497.0877
-          },
-          "raw": "«Æîëó êàòêàí àëàê÷û",
-          "text": "«Жолу каткан алакчы",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Жолу каткан алакчы: primary алакчы mortal world, full ill-fated encounter construction unresolved; no invented murderer.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0915:b005:l028"
-      ],
-      "raw": [
-        "Àëà¢äû àëà êà÷òûìáû?"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0915:b005:l028",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 915,
-          "block": 5,
-          "line_in_block": 28,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 526.6197,
-            "xMax": 450.528,
-            "yMax": 539.8077
-          },
-          "raw": "Àëà¢äû àëà êà÷òûìáû?",
-          "text": "Алаңды ала качтымбы?",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Алаңды ала качтымбы: taking away question clear, exact алаңды object unresolved; no invented woman or horse.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -573,11 +368,12 @@
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 220,
-    "english_words": 1221,
+    "translated_verse_rows": 226,
+    "english_words": 1250,
     "physical_narrative_fragments": 226,
     "reconstructed_source_verses": 226,
-    "unresolved_source_verses": 6,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 0
-  }
+  },
+  "source_joiners": {}
 }

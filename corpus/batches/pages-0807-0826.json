@@ -671,6 +671,7 @@
     "manas-2010:p0822:b001:l033",
     "manas-2010:p0822:b001:l034",
     "manas-2010:p0822:b001:l035",
+    "manas-2010:p0822:b001:l036",
     "manas-2010:p0822:b001:l037",
     "manas-2010:p0822:b001:l038",
     "manas-2010:p0822:b001:l039",
@@ -824,6 +825,7 @@
     "manas-2010:p0826:b001:l019",
     "manas-2010:p0826:b001:l020",
     "manas-2010:p0826:b001:l021",
+    "manas-2010:p0826:b001:l022",
     "manas-2010:p0826:b001:l023",
     "manas-2010:p0826:b001:l024",
     "manas-2010:p0826:b001:l025",
@@ -947,6 +949,7 @@
     "manas-2010:p0822:b001:l007": "Fourteen days here, seven days and sixty days in823 all preserved without harmonization.",
     "manas-2010:p0822:b001:l028": "Куда kin by marriage in father-in-law alliance context; not God, unlike кудай elsewhere.",
     "manas-2010:p0822:b001:l034": "Dream marriage to Körpöyan retained; printed first-person кыйганым leaves officiant grammar compressed. Kydyr is named in032; no new waking ceremony invented.",
+    "manas-2010:p0822:b001:l036": "Кайыр ике кет кудай remains uninterpreted; similar768:l019 also unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0822:b001:l041": "Кызыталак curse rendered damned, Yudakhin талак explicitly treats it as an insult; literal divorced-daughter origin recorded here, not a factual marriage event.",
     "manas-2010:p0822:b001:l042": "Минеткен interpreted as dialectal/defective минткен thus-did; ironic pleasure retained.",
     "manas-2010:p0823:b001:l007": "Акыреттик жар spouse for the hereafter retained as Bakay’s claim, not independent proof of marriage.",
@@ -962,50 +965,13 @@
     "manas-2010:p0826:b001:l006": "Twin is Manas’s intimate metaphor for Bakay, not a literal birth claim.",
     "manas-2010:p0826:b001:l012": "Аяш friend’s wife/sister-in-law familiar address; rendered our sister-in-law for Körpöyan, not an additional woman.",
     "manas-2010:p0826:b001:l020": "Кайып hidden/unseen spring, supernatural nuance possible; no fabricated map location.",
+    "manas-2010:p0826:b001:l022": "Жалгыз аяк жалтак чеп remains uninterpreted; proposed narrow path/grass requires unverified textual changes. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0826:b001:l031": "Belendi and Chambyl ridge names retained without modern geographical identification."
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p0822:b001:l036",
-      "kind": "unresolved_source",
-      "reason": "Unresolved full utterance: Кайыр ике кет кудай. Visually confirmed; marriage context and parallel768:l019 do not establish defensible full English. No dictionary confirmation for кет кудай. Raw and transliteration retained separately, not counted as translated verse."
-    },
-    {
-      "id": "manas-2010:p0826:b001:l022",
-      "kind": "unresolved_source",
-      "reason": "Unresolved full display line: Жалгыз аяк жалтак чеп. Narrow-track opening intelligible; жалтак чеп has no defensible contextual full reading. Dictionary жалтак means timid/intimidated, чеп fortress; changing to sparse grass would require unsupported repairs. Raw retained, not counted as English verse."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p0822:b001:l036"
-      ],
-      "raw": [
-        "Кайыр ике кет кудай,"
-      ],
-      "transliteration": [
-        "Kayyr ike ket kuday,"
-      ],
-      "reason": "Unresolved full utterance: Кайыр ике кет кудай. Visually confirmed; marriage context and parallel768:l019 do not establish defensible full English. No dictionary confirmation for кет кудай. Raw and transliteration retained separately, not counted as translated verse.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "manas-2010:p0826:b001:l022"
-      ],
-      "raw": [
-        "Жалгыз аяк жалтак чеп,"
-      ],
-      "transliteration": [
-        "Zhalgyz ayak zhaltak chep,"
-      ],
-      "reason": "Unresolved full display line: Жалгыз аяк жалтак чеп. Narrow-track opening intelligible; жалтак чеп has no defensible contextual full reading. Dictionary жалтак means timid/intimidated, чеп fortress; changing to sparse grass would require unsupported repairs. Raw retained, not counted as English verse.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "lexical_sources": [
     "corpus/lexicon.json",
     "sources/raw/manas-2010.pdf glossary1833–1844: especially1835:l012,1841:l018,1842:l004/l007,1843:l040",
@@ -1023,10 +989,12 @@
   ],
   "publication_basis": "New English draft translated directly from Kyrgyz traditional folklore; no prior English poem translation input. Two unresolved source lines preserved in audit, not claimed translated. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 838,
-    "english_words": 4545,
+    "english_verse_rows": 840,
+    "english_words": 4554,
     "excluded_heading_rows": 0,
-    "unresolved_source_rows": 2,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

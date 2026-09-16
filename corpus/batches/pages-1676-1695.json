@@ -333,6 +333,7 @@
     "manas-2010:p1683:b001:l028",
     "manas-2010:p1683:b001:l029",
     "manas-2010:p1683:b001:l030",
+    "manas-2010:p1683:b001:l031",
     "manas-2010:p1683:b001:l032",
     "manas-2010:p1683:b001:l033",
     "manas-2010:p1683:b001:l034",
@@ -850,23 +851,6 @@
     "manas-2010:p1695:b001:l042"
   ],
   "notes": {
-    "manas-2010:p1676:b001:l027": "Суп has ordinary cotton and epic fine white silk/camel-wool senses; chooses epic cloth without asserting the fibre. https://el-sozduk.kg/суп/ Yudakhin I.2.",
-    "manas-2010:p1679:b001:l012": "Printed Бөлүнө retained; provisional distributive reading from бөлүн-, rather than silently emending to белине (his waist). Exact formula needs specialist review.",
-    "manas-2010:p1679:b001:l013": "Жааны read as rain beside жамгыр, preserving synonymous repetition rather than making the second term bows.",
-    "manas-2010:p1680:b001:l020": "Үч айча мурун means about three months earlier than Almambet, not three months longer in duration.",
-    "manas-2010:p1682:b001:l021": "Санжыргалуу denotes an authoritative/illustrious hero in established project lexicon; does not assert good fortune at his impending death.",
-    "manas-2010:p1683:b001:l013": "Каргылуу figurative strong/reliable/protective sense; spatial earth as shelter provisional, not merely cherished. https://el-sozduk.kg/каргылуу/ Yudakhin2, protective mountain metaphor.",
-    "manas-2010:p1683:b001:l018": "Кан ыйлап read as blood-weeping formula beside калайык ыйлап; not a newly introduced khan subject.",
-    "manas-2010:p1684:b001:l007": "Ычкыры түпөк төрт муундун: түпөк decorative tassel; Yudakhin exact formula ычкыры түпөк, кырк муун. Printed төрт (four) retained, not silently changed to dictionary forty. https://el-sozduk.kg/түпөк/. Not a blowpipe.",
-    "manas-2010:p1688:b001:l037": "Алтымыш асый uses horse-maturity count, beginning at five years as first асый. Preserve epic sixty without turning into rider age or asserting exact modern age.",
-    "manas-2010:p1688:b001:l038": "Азуусу horse cheek teeth/molars, not tusks; epic immunity to age preserved.",
-    "manas-2010:p1688:b001:l039": "Epic суп cloth; fine white silk or camel wool dictionary alternatives, fibre not determined. https://el-sozduk.kg/суп/. Bulletproof is narrator’s supernatural claim.",
-    "manas-2010:p1688:b001:l040": "Канчык female-dog epithet preserved without euphemistic fierce woman. Narrator’s loaded wording, not translator endorsement.",
-    "manas-2010:p1689:b001:l010": "Колдоюп from колдой- stiffen/be ungainly, not колдо- support. Provisional stance sense beside cock simile. https://el-sozduk.kg/колдой/ Yudakhin/1969/2015.",
-    "manas-2010:p1691:b001:l002": "Санжыргалуу authoritative/illustrious hero; consistent with1682:21.",
-    "manas-2010:p1691:b001:l018": "Келбото epic outer garment, Yudakhin https://el-sozduk.kg/келбото/. Not the unrelated clay күлбото; no material/armor construction invented.",
-    "manas-2010:p1691:b001:l031": "Азирет as epic epithet of Ali, established project lexicon/Yudakhin; narrator’s hyperbolic untouchability formula, not historical military claim.",
-    "manas-2010:p1692:b001:l022": "Printed бардеги retained in raw. Qualified variant/emendation to баргеги: exact Yudakhin аманат жандын баргеги - ойногондо очогор weapon as delight/support of life. Handicraft reference also records бардек variant. https://tamgasoft.kg/dict/index.php?word=баргек. Not destroyer; no independent manuscript collation.",
     "manas-2010:p1676:b001:l001": "Continues Almambet under attack from previous page; leaning while running retained literally; manner uncertain.",
     "manas-2010:p1676:b001:l003": "Feedbag-shaped head simile retained without making this an actual bag.",
     "manas-2010:p1676:b001:l012": "Kongurbay explicitly presses in; subsequent Chinese-draining subject returns to Almambet18. No attribution of Almambet’s attacks to Kongurbay.",
@@ -874,6 +858,7 @@
     "manas-2010:p1676:b001:l019": "Boot-leg worthlessness idiom; exceptional Kojozhash20 retained.",
     "manas-2010:p1676:b001:l022": "Cowlike haunches is Sarala’s fixed horse epithet; lean added from established куймулчак description, not a different horse.",
     "manas-2010:p1676:b001:l024": "Dragon and secret shooting lore mythic narration, not transformed into historical instruction.",
+    "manas-2010:p1676:b001:l027": "Суп has ordinary cotton and epic fine white silk/camel-wool senses; chooses epic cloth without asserting the fibre. https://el-sozduk.kg/суп/ Yudakhin I.2.",
     "manas-2010:p1676:b001:l035": "Kara-Kytay and Manzhuu collectives here; no individual sorcerer Manzhuu supplied.",
     "manas-2010:p1676:b001:l040": "Those gone are forty companions41, not the innumerable Chinese39.",
     "manas-2010:p1677:b001:l001": "Кынап provisionally precisely/tightly wielding the lance and Zulpuqor from1676:42; no extra weapon action invented.",
@@ -891,10 +876,13 @@
     "manas-2010:p1678:b001:l032": "Калча fierce epithet of Kongurbay; not another personal name.",
     "manas-2010:p1678:b001:l038": "Bow-drawing spearmen is printed combination, not homogenized into archers alone.",
     "manas-2010:p1679:b001:l004": "Sixty days/sixty wounds then seventy days/seventy wounds retained as separate escalating formulae.",
+    "manas-2010:p1679:b001:l012": "Printed Бөлүнө retained; provisional distributive reading from бөлүн-, rather than silently emending to белине (his waist). Exact formula needs specialist review.",
+    "manas-2010:p1679:b001:l013": "Жааны read as rain beside жамгыр, preserving synonymous repetition rather than making the second term bows.",
     "manas-2010:p1679:b001:l015": "Жаңжуулап battle cry associated with generals; exact shouted name expanded provisionally as Zhang-Zhung.",
     "manas-2010:p1679:b001:l024": "Он эчесин printed variant probably он эченин; ten or more contextual numerical phrase, no precise casualty census.",
     "manas-2010:p1679:b001:l031": "Mottled-gray banner literal reading; image may imply confused rout, retained rather than supplying unstated flag owner.",
     "manas-2010:p1680:b001:l018": "Gray filly is Kojozhash’s horse; not Sarala.",
+    "manas-2010:p1680:b001:l020": "Үч айча мурун means about three months earlier than Almambet, not three months longer in duration.",
     "manas-2010:p1680:b001:l026": "Kojozhash unseen26–28; not Almambet magically invisible.",
     "manas-2010:p1680:b001:l038": "Louse/thumb infancy similes of companions retained despite Almambet’s separate childhood elsewhere; no harmonization.",
     "manas-2010:p1681:b001:l002": "Akzholtoy auspicious epithet of Syrgak here, not two people.",
@@ -904,17 +892,22 @@
     "manas-2010:p1682:b001:l003": "Fleet-Footed and Dagger-Hands named combatant groups, consistent with preceding hand-trained fighters1489.",
     "manas-2010:p1682:b001:l006": "Printed Karazhoy, although Kojozhash elsewhere called his son; no silent name correction.",
     "manas-2010:p1682:b001:l018": "Gathered wealth is provisional literal жыйган; parallel prayer asks faith in death19. Not emended to жыргал.",
+    "manas-2010:p1682:b001:l021": "Санжыргалуу denotes an authoritative/illustrious hero in established project lexicon; does not assert good fortune at his impending death.",
     "manas-2010:p1682:b001:l027": "Manzhuu here identifies Kongurbay as ethnic/title descriptor, not sorcerer personal name.",
     "manas-2010:p1682:b001:l032": "Аласасы келген destined due/death approaching, horse stumbles next. Not medical claim.",
     "manas-2010:p1682:b001:l037": "Golden shield worn upon head falls; preserve shield wording without silently replacing helmet.",
     "manas-2010:p1683:b001:l003": "Almambet attempting to replace fallen head shield before shot. Source sequence preserved.",
     "manas-2010:p1683:b001:l009": "Shattered head explicit; no censorship or additional gore.",
+    "manas-2010:p1683:b001:l013": "Каргылуу figurative strong/reliable/protective sense; spatial earth as shelter provisional, not merely cherished. https://el-sozduk.kg/каргылуу/ Yudakhin2, protective mountain metaphor.",
+    "manas-2010:p1683:b001:l018": "Кан ыйлап read as blood-weeping formula beside калайык ыйлап; not a newly introduced khan subject.",
     "manas-2010:p1683:b001:l020": "Horse saddle/saddlecloth remain; no rider resurrected after10/17.",
     "manas-2010:p1683:b001:l022": "Horse hip wound and three-legged flight; not human wound.",
     "manas-2010:p1683:b001:l028": "Foal-left-behind simile does not establish Sarala as mare; preserve simile against elsewhere male epithet.",
+    "manas-2010:p1683:b001:l031": "Completion-first first pass corrected after targeted high-severity source-context review: Restores the repeated battle formula.",
     "manas-2010:p1683:b001:l038": "Mountain/refuge lament: goose-circling cliff38 and Almambet mountain42 preserved as separate verses.",
     "manas-2010:p1684:b001:l003": "Six swift horses preserved; source does not explicitly count six messengers.",
     "manas-2010:p1684:b001:l006": "Yraman’s Singer Son is traditional named companion Yrchy Uul, translated epithet.",
+    "manas-2010:p1684:b001:l007": "Ычкыры түпөк төрт муундун: түпөк decorative tassel; Yudakhin exact formula ычкыры түпөк, кырк муун. Printed төрт (four) retained, not silently changed to dictionary forty. https://el-sozduk.kg/түпөк/. Not a blowpipe.",
     "manas-2010:p1684:b001:l018": "Twelve lost companions here, not reconciled with later corpse counts.",
     "manas-2010:p1684:b001:l022": "Pursuit to Mecca is Chinese threat quoted by messenger, not narrator’s completed event.",
     "manas-2010:p1684:b001:l027": "Ыстам understood Islam/Muslim in repeated narrative context; raw variant unchanged.",
@@ -941,7 +934,12 @@
     "manas-2010:p1688:b001:l024": "Khojosan spiritual protector name; position beneath arm literal apparition image.",
     "manas-2010:p1688:b001:l026": "Black-spotted lion supernatural protector; natural lion coat not corrected.",
     "manas-2010:p1688:b001:l034": "Sieve lungs/copper wings epic horse physiology retained.",
+    "manas-2010:p1688:b001:l037": "Алтымыш асый uses horse-maturity count, beginning at five years as first асый. Preserve epic sixty without turning into rider age or asserting exact modern age.",
+    "manas-2010:p1688:b001:l038": "Азуусу horse cheek teeth/molars, not tusks; epic immunity to age preserved.",
+    "manas-2010:p1688:b001:l039": "Epic суп cloth; fine white silk or camel wool dictionary alternatives, fibre not determined. https://el-sozduk.kg/суп/. Bulletproof is narrator’s supernatural claim.",
+    "manas-2010:p1688:b001:l040": "Канчык female-dog epithet preserved without euphemistic fierce woman. Narrator’s loaded wording, not translator endorsement.",
     "manas-2010:p1689:b001:l007": "Straight inward direction relative to stronghold unresolved; no destination invented.",
+    "manas-2010:p1689:b001:l010": "Колдоюп from колдой- stiffen/be ungainly, not колдо- support. Provisional stance sense beside cock simile. https://el-sozduk.kg/колдой/ Yudakhin/1969/2015.",
     "manas-2010:p1689:b001:l022": "Horse beneath him though previously led8; narrative shift retained, not added mounting verse.",
     "manas-2010:p1689:b001:l025": "Жебенин огу literally arrow’s projectile amid gunfire. Neutral projectile retains weapon ambiguity; no switch mechanically asserted.",
     "manas-2010:p1689:b001:l027": "Ооз омуртка first neck vertebra; anatomical term retained, not mouth bone.",
@@ -953,9 +951,12 @@
     "manas-2010:p1690:b001:l032": "Taking girls as plunder explicit; not softened into treasure only.",
     "manas-2010:p1690:b001:l034": "Devouring own champions is grief/self-blame metaphor, retained.",
     "manas-2010:p1691:b001:l001": "Сары оору wasting illness idiom rather than unsupported diagnosis of jaundice.",
+    "manas-2010:p1691:b001:l002": "Санжыргалуу authoritative/illustrious hero; consistent with1682:21.",
     "manas-2010:p1691:b001:l008": "Zhang-Zhung could title/governor-general collective; conventional spelling retained, individual identity unconfirmed.",
     "manas-2010:p1691:b001:l016": "Eighteen thousand worlds conventional cosmic total, not empirical count.",
+    "manas-2010:p1691:b001:l018": "Келбото epic outer garment, Yudakhin https://el-sozduk.kg/келбото/. Not the unrelated clay күлбото; no material/armor construction invented.",
     "manas-2010:p1691:b001:l030": "Аты уйкаш matching names formula retained even though Almambet/Chubak not obvious rhyme; no matched horses substitution.",
+    "manas-2010:p1691:b001:l031": "Азирет as epic epithet of Ali, established project lexicon/Yudakhin; narrator’s hyperbolic untouchability formula, not historical military claim.",
     "manas-2010:p1691:b001:l039": "Арга жүгүн burden of endurance/recourse provisional, not specified weight or object.",
     "manas-2010:p1691:b001:l042": "Кыясы кымбат cliffs difficult/costly to traverse contextual reading; no financial valuation.",
     "manas-2010:p1692:b001:l001": "Red horse hypothetical ride, no newly acquired mount asserted.",
@@ -963,6 +964,7 @@
     "manas-2010:p1692:b001:l015": "Twelve ages hyperbole and incomplete transition retained, no omitted clause silently supplied.",
     "manas-2010:p1692:b001:l017": "Укурук кайрар restraint by herding pole image rendered rein him in; subject no one provisionally inferred from калды negative.",
     "manas-2010:p1692:b001:l020": "Weapon shoulder mirror image retained; not literal mirror attached.",
+    "manas-2010:p1692:b001:l022": "Printed бардеги retained in raw. Qualified variant/emendation to баргеги: exact Yudakhin аманат жандын баргеги - ойногондо очогор weapon as delight/support of life. Handicraft reference also records бардек variant. https://tamgasoft.kg/dict/index.php?word=баргек. Not destroyer; no independent manuscript collation.",
     "manas-2010:p1692:b001:l024": "Birth recollection places fortune in Altay; not later return journey.",
     "manas-2010:p1692:b001:l036": "Sacred steel bullet gift one only; magical narrative not modern weapon guidance.",
     "manas-2010:p1693:b001:l003": "Birth mouth-touch ritual; object inferred gifted bullet and agent holy man, syntax compressed and needs specialist review.",
@@ -987,13 +989,7 @@
     "manas-2010:p1695:b001:l037": "Айдарым exposed windblown place contextual reading, not person name asserted.",
     "manas-2010:p1695:b001:l042": "Shout continues next page; no manufactured ending."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1683:b001:l031",
-      "kind": "unresolved_source",
-      "reason": "Кыймалуу жактан чалдырып is visibly present but the complete ornate-chest/formula meaning remains unresolved. Parallel1303:26 and1418:8 also unresolved. Deadly side would be conjecture without lexical support; omit the entire verse from translated counts, retain raw evidence and gap. No missing-print claim."
-    }
-  ],
+  "excluded_source_ids": [],
   "headings": [],
   "lexical_sources": [
     "https://el-sozduk.kg/түпөк/",
@@ -1036,11 +1032,22 @@
   "alignment_check": {
     "checked_by": "Codex recovery translation worker complete_source_resume",
     "method": "Recovered same-project Kyrgyz-to-English model draft; independently reread all840 ordered source/draft pairs and20 images after app restart, with17 material wording corrections and1 wholly unresolved exclusion. No external English translation used. Model checking only; no specialist review.",
-    "independent_review": false
+    "independent_review": false,
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "manas-2010:p1683:b001:l031"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "counts": {
-    "translated_verse_rows": 839,
-    "english_words": 4431,
+    "translated_verse_rows": 840,
+    "english_words": 4436,
     "per_page": [
       {
         "page": 1676,
@@ -1145,32 +1152,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p1683:b001:l031"
-      ],
-      "raw": "Кыймалуу жактан чалдырып,",
-      "note": "Кыймалуу жактан чалдырып is visibly present but the complete ornate-chest/formula meaning remains unresolved. Parallel1303:26 and1418:8 also unresolved. Deadly side would be conjecture without lexical support; omit the entire verse from translated counts, retain raw evidence and gap. No missing-print claim.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p1683:b001:l030",
-      "before_source_id": "manas-2010:p1683:b001:l032",
-      "source": {
-        "page": 1683,
-        "sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-        "segments": [
-          {
-            "id": "manas-2010:p1683:b001:l031",
-            "raw": "Кыймалуу жактан чалдырып,",
-            "bbox": {
-              "xMin": 212.52,
-              "yMin": 567.432,
-              "xMax": 362.0376,
-              "yMax": 582.684
-            }
-          }
-        ]
-      }
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

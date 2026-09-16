@@ -5,6 +5,7 @@
   "after_id": "semetey-1-2013:p0086:b004:l039",
   "english": "corpus/batches/pages-semetey1-0087-0089.en.txt",
   "source_ids": [
+    "semetey-1-2013:p0087:b003:l001",
     "semetey-1-2013:p0087:b003:l002",
     "semetey-1-2013:p0087:b003:l003",
     "semetey-1-2013:p0087:b003:l004",
@@ -282,16 +283,10 @@
       "id": "semetey-1-2013:p0089:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title, folio or printer signature12–1018; not verse."
-    },
-    {
-      "id": "semetey-1-2013:p0087:b003:l001",
-      "kind": "unresolved_source",
-      "reason": "Unresolved сындабы in Улуктугум сындабы!: prior draft 'Has my dignity been broken?' treated it as broken, but primary Yudakhin сын and 1969 dictionary give сында жок as perfect/beyond criticism, including Улуктугуң сында жок. Printed form lacks жок and is not сынды; the complete rhetorical sense remains uncertain. https://el-sozduk.kg/сын/"
     }
   ],
   "notes": {
-    "semetey-1-2013:p0088:b003:l001": "Entire left column then entire right column, individually visually checked from PDF image. Deterministic legacy-font-v1 with unchanged raw/SHA/bbox. Direct model translation, no prior English input.",
-    "semetey-1-2013:p0089:b003:l001": "Албай койбой ne boldum double negative rhetorical regret: not refraining from receiving child as trust from Manas2; qualified object from preceding88:39 and later6, not a new acquisition event.",
+    "semetey-1-2013:p0087:b003:l001": "Unresolved сындабы in Улуктугум сындабы!: prior draft 'Has my dignity been broken?' treated it as broken, but primary Yudakhin сын and 1969 dictionary give сында жок as perfect/beyond criticism, including Улуктугуң сында жок. Printed form lacks жок and is not сынды; the complete rhetorical sense remains uncertain. https://el-sozduk.kg/сын/ Completion-first first pass: Low-confidence rendering for “Улуктугум сындабы!”; no close corpus parallel was found.",
     "semetey-1-2013:p0087:b003:l006": "Primary Yudakhin https://el-sozduk.kg/туна/ gives exact туубай туна чөгөйүн idiom: curse hour of birth/wish never born. Replaced preliminary literal sinking image; no actual self-harm event invented.",
     "semetey-1-2013:p0087:b003:l009": "Before destined death explicit lament, not a statement the character now dies.",
     "semetey-1-2013:p0087:b003:l012": "Ыйман modesty/shame here in facing elder, not an asserted conversion or loss of religious faith.",
@@ -313,6 +308,7 @@
     "semetey-1-2013:p0087:b004:l035": "Арбаңдатып causative child limbs moving, making laugh; not walking independently.",
     "semetey-1-2013:p0087:b004:l036": "Coughing subject provisionally Chyiyrdy who carries child38–39; no medical explanation. Repetition retained.",
     "semetey-1-2013:p0087:b004:l037": "Күпү pillow stuffed with wool: Yudakhin sense3 and 2015 https://el-sozduk.kg/күпү/. Child bulk comparison, not barrel or battle armor; exact material not inserted into verse.",
+    "semetey-1-2013:p0088:b003:l001": "Entire left column then entire right column, individually visually checked from PDF image. Deterministic legacy-font-v1 with unchanged raw/SHA/bbox. Direct model translation, no prior English input.",
     "semetey-1-2013:p0088:b003:l002": "Карааны child as surviving support/presence, not a separate dark apparition.",
     "semetey-1-2013:p0088:b003:l004": "Hem touches ground explicitly; do not silently make it hem lifted for walking.",
     "semetey-1-2013:p0088:b003:l012": "Баспайын negative inability/wish not to walk retained beside repeated struggle to continue; not changed to positive.",
@@ -338,6 +334,7 @@
     "semetey-1-2013:p0088:b004:l031": "Samarkand31 and Bukhara35 both printed; retain named destinations without harmonizing geography.",
     "semetey-1-2013:p0088:b004:l032": "Буткулдан interpreted all over/everywhere (бүткүл), qualified vowel form; not unverified place-name Butkul.",
     "semetey-1-2013:p0088:b004:l039": "Өлгөндө көргөн long-awaited after suffering, not literally obtained after speaker’s death; чырак lamp child metaphor.",
+    "semetey-1-2013:p0089:b003:l001": "Албай койбой ne boldum double negative rhetorical regret: not refraining from receiving child as trust from Manas2; qualified object from preceding88:39 and later6, not a new acquisition event.",
     "semetey-1-2013:p0089:b003:l004": "Калбай койбой regretting remaining alive, preserved separately from receiving child1; elliptical negation merits review.",
     "semetey-1-2013:p0089:b003:l006": "Аманат entrusted surviving child/presence, not temporary burial here.",
     "semetey-1-2013:p0089:b003:l008": "Take me with you addressed to dead Manas, lament not narrative self-harm action.",
@@ -381,41 +378,13 @@
     "method": "source-English row semantic audit",
     "checked_by": "Codex",
     "date": "2026-09-15",
-    "page_range": [87, 89],
+    "page_range": [
+      87,
+      89
+    ],
     "rows_checked": 231,
     "details": "Audited all 231 included narrative rows on printed pages 87 through 89 against their exact Kyrgyz source rows; corrected one lexical mistranslation on page 88, where талаа (open plain/wilderness) had been rendered as plunder."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0087:b003:l001"
-      ],
-      "raw": [
-        "Óëóêòóãóì ñûíäàáû!"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0087:b003:l001",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 87,
-          "block": 3,
-          "line_in_block": 1,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 143.0997,
-            "xMax": 202.4568,
-            "yMax": 156.2877
-          },
-          "raw": "Óëóêòóãóì ñûíäàáû!",
-          "text": "Улуктугум сындабы!",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Unresolved сындабы in Улуктугум сындабы!: prior draft 'Has my dignity been broken?' treated it as broken, but primary Yudakhin сын and 1969 dictionary give сында жок as perfect/beyond criticism, including Улуктугуң сында жок. Printed form lacks жок and is not сынды; the complete rhetorical sense remains uncertain. https://el-sozduk.kg/сын/",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ]
+  "unresolved_source": [],
+  "source_joiners": {}
 }

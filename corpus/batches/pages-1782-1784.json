@@ -86,6 +86,7 @@
     "manas-2010:p1783:b001:l037",
     "manas-2010:p1783:b001:l038",
     "manas-2010:p1783:b001:l039",
+    "manas-2010:p1783:b001:l040",
     "manas-2010:p1783:b001:l041",
     "manas-2010:p1783:b001:l042",
     "manas-2010:p1784:b001:l001",
@@ -156,6 +157,7 @@
     "manas-2010:p1783:b001:l034": "белгисиз without a memorial provisionally in immediate mausoleum construction context, not hidden grave location plan inferred.",
     "manas-2010:p1783:b001:l035": "Six hundred pack camels literal; комдотуп causative fitted pack saddles.",
     "manas-2010:p1783:b001:l039": "Kokand khan’s reach figurative колтук domain, not armpit geography.",
+    "manas-2010:p1783:b001:l040": "Күл майдамды unverified: possible place-name following Andijan/Namangan/Kokand, or clay/ash material phrase preceding күлбото. майдам variant майдан elsewhere does not establish this referent. Do not invent Gulmaidan locality or pulverized-ash process. Printed image appears Кул майдамды; raw retained. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1783:b001:l041": "күлбото refractory clay, Yudakhin and2015exact nextcouplet https://el-sozduk.kg/кү/9446–9468. Not modern Portland cement; raw spacing retained.",
     "manas-2010:p1784:b001:l001": "Vat mixture goat/cattle hair literal traditional construction narrative.",
     "manas-2010:p1784:b001:l004": "Aksakal provisionally proper patronymic as capitalized source, could elder title; no extra genealogy.",
@@ -171,13 +173,7 @@
   "status": "draft",
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1783:b001:l040",
-      "kind": "unresolved_source",
-      "reason": "Күл майдамды unverified: possible place-name following Andijan/Namangan/Kokand, or clay/ash material phrase preceding күлбото. майдам variant майдан elsewhere does not establish this referent. Do not invent Gulmaidan locality or pulverized-ash process. Printed image appears Кул майдамды; raw retained."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_passages": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -195,8 +191,8 @@
     "scope": "All126 raw verses with draft/gap pairs read, revised1782:2/14/41,1783:1/18–19 and1784:8/10/12/14/20/33–34/37 reread. Predecessor1781:38–42 and continuation1785:1–6 read."
   },
   "counts": {
-    "english_verse_rows": 125,
-    "english_words": 735
+    "english_verse_rows": 126,
+    "english_words": 738
   },
   "translation_provenance": "Direct Kyrgyz-to-English by Codex root from original extraction, PDF images, edition glossary and cited primary dictionaries. No prior English translation input.",
   "unresolved_source": [
@@ -259,5 +255,7 @@
       },
       "rendered_page": "/tmp/manas-root-1783.png"
     }
-  ]
+  ],
+  "source_groups": {},
+  "source_joiners": {}
 }

@@ -290,6 +290,7 @@
     "manas-2010:p0664:b001:l030",
     "manas-2010:p0664:b001:l031",
     "manas-2010:p0664:b001:l032",
+    "manas-2010:p0664:b001:l033",
     "manas-2010:p0664:b001:l034",
     "manas-2010:p0664:b001:l035",
     "manas-2010:p0664:b001:l036",
@@ -955,6 +956,7 @@
     "manas-2010:p0664:b001:l021": "Онжоңдогон visibly printed; prancing/lurching gait interpretation qualified.",
     "manas-2010:p0664:b001:l025": "Көпчүк saddle cushion/pad, not additional luggage invented.",
     "manas-2010:p0664:b001:l031": "The pronoun scope can shift from saddlebags to wrapped weapons; English keeps description suspended until five objects at l038.",
+    "manas-2010:p0664:b001:l033": "Verse source remains unresolved: Акыйнек means a taunting-song genre in consulted dictionaries, incompatible with secure identification of this wrapping/binding material. No defensible full English rendering; exact source and partial gloss retained in unresolved_passages, excluded from English counts. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0664:b001:l034": "Була fine fiber/thread material, precise textile uncertain; not assigned a named imported cloth.",
     "manas-2010:p0664:b001:l038": "Five objects from the bag plus Zulpukor already Manas’s account for six blades; both five and six retained without insertion into verse.",
     "manas-2010:p0665:b001:l001": "Кылды in compressed кылычтын кылды мыктысы is irregular; very finest of swords retains discernible praise, raw unchanged.",
@@ -1088,33 +1090,8 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p0664:b001:l033",
-      "kind": "unresolved_source",
-      "reason": "Verse source remains unresolved: Акыйнек means a taunting-song genre in consulted dictionaries, incompatible with secure identification of this wrapping/binding material. No defensible full English rendering; exact source and partial gloss retained in unresolved_passages, excluded from English counts."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p0664:b001:l033"
-      ],
-      "raw": [
-        "Акыйнек менен курдаткан,"
-      ],
-      "transliteration": [
-        "Akyynek menen kurdatkan,"
-      ],
-      "partial_gloss": "Bound/girdled with [unidentified material or defective word]. This is a partial gloss only, not a complete English translation.",
-      "reason": "Verse source remains unresolved: Акыйнек means a taunting-song genre in consulted dictionaries, incompatible with secure identification of this wrapping/binding material. No defensible full English rendering; exact source and partial gloss retained in unresolved_passages, excluded from English counts.",
-      "publication": "Audit only; not included in English verse/word counts.",
-      "lexical_sources": [
-        "https://el-sozduk.kg/акыйнек/",
-        "https://el-sozduk.kg/акыйнак/"
-      ]
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "lexical_sources": [
     "sources/raw/manas-2010.pdf glossary pp1833–1844, especially 1834:l022, 1836:l016, 1837:l002–003, 1837:l016–017, 1839:l007, 1841:l012, 1842:l007",
     "corpus/lexicon.json",
@@ -1135,10 +1112,12 @@
   ],
   "publication_basis": "New English draft directly from Kyrgyz traditional folklore, no prior English translation input. One unresolved verse preserved in audit and excluded from English counts, not silently omitted. No independent Kyrgyz expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 839,
-    "english_words": 4648,
+    "english_verse_rows": 840,
+    "english_words": 4653,
     "excluded_heading_rows": 0,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

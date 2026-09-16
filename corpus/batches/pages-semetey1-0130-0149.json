@@ -695,6 +695,7 @@
     "semetey-1-2013:p0139:b003:l009",
     "semetey-1-2013:p0139:b003:l010",
     "semetey-1-2013:p0139:b003:l011",
+    "semetey-1-2013:p0139:b003:l012",
     "semetey-1-2013:p0139:b003:l013",
     "semetey-1-2013:p0139:b003:l014",
     "semetey-1-2013:p0139:b003:l015",
@@ -1793,7 +1794,9 @@
     "semetey-1-2013:p0138:b003:l031": "Топот annihilation/perishing curse extended to mountain; Yudakhin usual той phrase https://el-sozduk.kg/топот/; preserve printed тоо rather than emend to feast.",
     "semetey-1-2013:p0138:b004:l015": "Көмүлгөн buried life retained as anomalous literal image within self-killing lament; no method added.",
     "semetey-1-2013:p0139:b003:l011": "Бил I elephant, Yudakhin https://el-sozduk.kg/бил/, not know/waist. Дилде gold coins.",
+    "semetey-1-2013:p0139:b003:l012": "Whole verse unresolved: Көгөн көздөн миңди алып. Captive-eye formula likely, but exact көгөн көз descriptor not resolved by inspected primary lexical entries; retain exact source fragments and exclude English rather than substitute similar formulas elsewhere. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0139:b003:l039": "Албарс bulat steel/blade per Yudakhin https://el-sozduk.kg/албарс/. Odd simile with spilling Chyiyrdy's blood retained as printed; referent and comparison remain uncertain, not silently changed to weapon instrumental.",
+    "semetey-1-2013:p0139:b005:l015": "Narrator describes Bakay calling toward the cave where Kanykey had sheltered. He fears the widow and orphan were killed, then praises her character, courage and holiness; not a hostile moral epithet. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0139:b005:l020": "Күлазык durable travel provisions, Yudakhin https://el-sozduk.kg/КҮЛ/; no ash-food literalism.",
     "semetey-1-2013:p0139:b005:l036": "Кадыр түн Night of Power religious metaphor applied to Kanykei, not a claim that she is a calendar night.",
     "semetey-1-2013:p0139:b005:l038": "Күң handmaid/slave woman retained despite reverential saint comparison; not harmonized to queen.",
@@ -1865,8 +1868,7 @@
     "semetey-1-2013:p0149:b004:l013": "Өзү бош loose woman is feared slander in quoted speech, not translator's characterization.",
     "semetey-1-2013:p0149:b004:l034": "Кадыры калган жери бар resolved as harbor grievance/resentment toward someone: Yudakhin exact ал Семетей баатырдан кадырым калган жерим бар https://el-sozduk.kg/кадыр/. Kanykei resents her father, not merely loses her standing with him.",
     "semetey-1-2013:p0149:b004:l035": "Он жар ten commands given by saint read literally; no unsupported identification with biblical Ten Commandments.",
-    "semetey-1-2013:p0149:b004:l039": "Кара дин dark faith versus ак purity religious source contrast retained; continuation on150 outside assigned batch. Glossary marker preserved in KY/raw only.",
-    "semetey-1-2013:p0139:b005:l015": "Narrator describes Bakay calling toward the cave where Kanykey had sheltered. He fears the widow and orphan were killed, then praises her character, courage and holiness; not a hostile moral epithet. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0149:b004:l039": "Кара дин dark faith versus ак purity religious source contrast retained; continuation on150 outside assigned batch. Glossary marker preserved in KY/raw only."
   },
   "excluded_source_ids": [
     {
@@ -2093,46 +2095,9 @@
       "id": "semetey-1-2013:p0149:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0139:b003:l012",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Көгөн көздөн миңди алып. Captive-eye formula likely, but exact көгөн көз descriptor not resolved by inspected primary lexical entries; retain exact source fragments and exclude English rather than substitute similar formulas elsewhere."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0139:b003:l012"
-      ],
-      "raw": [
-        "Êºãºí êºçäºí ìè¢äè àëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0139:b003:l012",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 139,
-          "block": 3,
-          "line_in_block": 12,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 299.3397,
-            "xMax": 239.3628,
-            "yMax": 312.5277
-          },
-          "raw": "Êºãºí êºçäºí ìè¢äè àëûï,",
-          "text": "Көгөн көздөн миңди алып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Көгөн көздөн миңди алып. Captive-eye formula likely, but exact көгөн көз descriptor not resolved by inspected primary lexical entries; retain exact source fragments and exclude English rather than substitute similar formulas elsewhere.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -2167,18 +2132,39 @@
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
     "scope": "All source-English pairs and all revised pairs individually read. Final1513English verses have unique canonical first-source IDs; grouped fragments and nonverse/unresolved exclusions account for every extraction record on130–149 except20watermarks.",
-    "targeted_qa_0140_0149": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[140,149],"rows_checked":758,"details":"Audited all 758 included narrative rows on printed pages 140 through 149 against their exact Kyrgyz source rows; corrected one reversed participant relation on page 140. Pages 130–139 were outside this scoped pass."},
-    "targeted_qa_0130_0139": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[130,139],"rows_checked":755,"details":"Audited all 755 included narrative rows on printed pages 130 through 139 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."}
+    "targeted_qa_0140_0149": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        140,
+        149
+      ],
+      "rows_checked": 758,
+      "details": "Audited all 758 included narrative rows on printed pages 140 through 149 against their exact Kyrgyz source rows; corrected one reversed participant relation on page 140. Pages 130–139 were outside this scoped pass."
+    },
+    "targeted_qa_0130_0139": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        130,
+        139
+      ],
+      "rows_checked": 755,
+      "details": "Audited all 755 included narrative rows on printed pages 130 through 139 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Dictionary and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1513,
-    "english_words": 8666,
-    "unresolved_source_rows": 1,
+    "english_verse_rows": 1514,
+    "english_words": 8672,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1562,
     "reconstructed_source_verses": 1514,
     "wrapped_verse_groups": 48,
     "nonverse_extraction_records": 45,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

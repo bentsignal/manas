@@ -1,0 +1,3007 @@
+{
+  "date": "2026-09-15",
+  "scope": {
+    "gap_ids_audited": 925,
+    "english_rows_audited": 974,
+    "source_segments_audited": 982
+  },
+  "summary": {
+    "rows_flagged": 249,
+    "high_severity": 38,
+    "medium_severity": 211,
+    "systemic_finding": "The dominant failure mode is approximate borrowing from a superficially similar formula in the existing corpus. This produced semantic substitutions, lost names/numbers, and several obvious machine artifacts."
+  },
+  "rows_needing_correction": [
+    {
+      "gap_id": "manas-2010:p0183:unresolved-utterance",
+      "source_line_ids": [
+        "manas-2010:p0183:b002:l001"
+      ],
+      "source_text": "«Үттүгүңө шоодай», - деп,",
+      "current_en": "“God has plainly struck me!” he said.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “«Үттүгүңө шоодай», - деп,”; nearest corpus parallel was “«Көрүнөө кудай урду», - деп,”."
+    },
+    {
+      "gap_id": "manas-2010:p0483:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p0483:b001:l027"
+      ],
+      "source_text": "Тоорактуу жоргодо,",
+      "current_en": "Of the poplar-covered promontories,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тоорактуу жоргодо,”; nearest corpus parallel was “Тоорактуу тумшуктун”."
+    },
+    {
+      "gap_id": "manas-2010:p0635:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p0635:b001:l002"
+      ],
+      "source_text": "Түбү кылым кырымы,",
+      "current_en": "The bottom enemy is Kyrgyz",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Түбү кылым кырымы,”; nearest corpus parallel was “Түбү душман кыргызды”."
+    },
+    {
+      "gap_id": "manas-2010:p0828:b001:l016:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p0828:b001:l016"
+      ],
+      "source_text": "«Кыйырыңды!» - деп, бул чочко,",
+      "current_en": "“Slaughter them!” he bellowed,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “«Кыйырыңды!» - деп, бул чочко,”; nearest corpus parallel was “«Кырып сал!» - деп, бакырып,”."
+    },
+    {
+      "gap_id": "manas-2010:p1047:b001:l032:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1047:b001:l032"
+      ],
+      "source_text": "«Аргымак жалдуу тайкышым,",
+      "current_en": "\"The stallion and the horses,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “«Аргымак жалдуу тайкышым,”; nearest corpus parallel was “«Аргымак багып ат багып,”."
+    },
+    {
+      "gap_id": "manas-2010:p1084:b001:l011:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1084:b001:l011"
+      ],
+      "source_text": "Эмгегим эмес, өзүңө",
+      "current_en": "My hero, to you yourself,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эмгегим эмес, өзүңө”; nearest corpus parallel was “Эреним, сенин өзүңө”."
+    },
+    {
+      "gap_id": "manas-2010:p1084:b001:l014:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1084:b001:l014"
+      ],
+      "source_text": "Эмгегим эмес, Алмамбет,",
+      "current_en": "Almambet has ridden here.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эмгегим эмес, Алмамбет,”; nearest corpus parallel was “Желген экен Алмамбет,”."
+    },
+    {
+      "gap_id": "manas-2010:p1116:b001:l042:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1116:b001:l042"
+      ],
+      "source_text": "Уй күрөң тартып жөнөлүп,",
+      "current_en": "The cow is sent from the brown",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "He set off on the dun-bay horse,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "manas-2010:p1144:b001:l035:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1144:b001:l035"
+      ],
+      "source_text": "Жантак менен сыр жыгач,",
+      "current_en": "Against Jarmanas and Kardygach",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жантак менен сыр жыгач,”; nearest corpus parallel was “Жарманас менен Кардыгач”."
+    },
+    {
+      "gap_id": "manas-2010:p1151:b001:l001:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1151:b001:l001"
+      ],
+      "source_text": "Кулактары мистеген,",
+      "current_en": "His ears flopped.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кулактары мистеген,”; nearest corpus parallel was “Кулактары шалпылдап,”."
+    },
+    {
+      "gap_id": "manas-2010:p1200:b001:l035:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1200:b001:l035"
+      ],
+      "source_text": "Темир залдуу көпүрө",
+      "current_en": "I was Bakai who wore",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Темир залдуу көпүрө”; nearest corpus parallel was “Темир калкан ок өтпөс,”."
+    },
+    {
+      "gap_id": "manas-2010:p1255:b001:l033:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1255:b001:l033"
+      ],
+      "source_text": "Кыймалуу жагдан чалдырып,",
+      "current_en": "Call from mobile",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "Struck from the vulnerable flank,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "manas-2010:p1272:b001:l034:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1272:b001:l034"
+      ],
+      "source_text": "Бөйкү деген төлгөсүн",
+      "current_en": "A critic called Sinaylik is dead.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бөйкү деген төлгөсүн”; nearest corpus parallel was “Сынайлык деген сынчы өлгөн,”."
+    },
+    {
+      "gap_id": "manas-2010:p1303:b001:l026:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1303:b001:l026"
+      ],
+      "source_text": "«Кыймалуу жагдан чалдырып,",
+      "current_en": "Call from mobile",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "Struck from the vulnerable flank,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "manas-2010:p1323:b001:l028:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1323:b001:l028"
+      ],
+      "source_text": "Чобуркайлар чокусун!",
+      "current_en": "Let the piebald ones peck at his crown!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чобуркайлар чокусун!”; nearest corpus parallel was “Сагызган көзүн чокусун.”."
+    },
+    {
+      "gap_id": "manas-2010:p1410:b001:l005:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1410:b001:l005"
+      ],
+      "source_text": "Чынчуу кандуу улугу",
+      "current_en": "Who had fled from Talas,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чынчуу кандуу улугу”; nearest corpus parallel was “Чынкожо аттуу улугу,”."
+    },
+    {
+      "gap_id": "manas-2010:p1446:b001:l008:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1446:b001:l008"
+      ],
+      "source_text": "Алтын айдар кең бурчту",
+      "current_en": "And a drum with a golden tuft",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Алтын айдар кең бурчту”; nearest corpus parallel was “Алтын айдар барабан”."
+    },
+    {
+      "gap_id": "manas-2010:p1466:b001:l036:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1466:b001:l036"
+      ],
+      "source_text": "Канча боор, чап олоң",
+      "current_en": "How many hands",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Канча боор, чап олоң”; nearest corpus parallel was “Канча болсо сан колду”."
+    },
+    {
+      "gap_id": "manas-2010:p1627:b001:l025:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1627:b001:l025"
+      ],
+      "source_text": "Уй күрөң тартып жөлөнүп,",
+      "current_en": "The cow is sent from the brown",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "He set off on the dun-bay horse,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "manas-2010:p1638:b001:l022:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1638:b001:l022"
+      ],
+      "source_text": "Алим-салим окуусун",
+      "current_en": "The wondrous arts",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Алим-салим окуусун”; nearest corpus parallel was “Ажайыптын окуусун”."
+    },
+    {
+      "gap_id": "manas-2010:p1661:b001:l005:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1661:b001:l005"
+      ],
+      "source_text": "Меке дылда кылымды",
+      "current_en": "A century without a check",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Меке дылда кылымды”; nearest corpus parallel was “Чек чыгарбай кылымды”."
+    },
+    {
+      "gap_id": "manas-2010:p1666:b001:l034:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1666:b001:l034"
+      ],
+      "source_text": "Ошондо бийөнгө тийип белине,",
+      "current_en": "Was a young wife of seventeen,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ошондо бийөнгө тийип белине,”; nearest corpus parallel was “Ошондо он жетиде келинчек”."
+    },
+    {
+      "gap_id": "manas-2010:p1683:b001:l031:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1683:b001:l031"
+      ],
+      "source_text": "Кыймалуу жактан чалдырып,",
+      "current_en": "Call from mobile",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "Struck from the vulnerable flank,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "manas-2010:p1719:b001:l037:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1719:b001:l037"
+      ],
+      "source_text": "Баатыр бий өңгө тийген чекеге,",
+      "current_en": "The warrior had gone straight to Mecca.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Баатыр бий өңгө тийген чекеге,”; nearest corpus parallel was “Баатыр бурулбай кеткен Мекеге.”."
+    },
+    {
+      "gap_id": "manas-2010:p1736:b001:l007:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1736:b001:l007"
+      ],
+      "source_text": "Манас кан алтайкан салды керекке,",
+      "current_en": "Zulpukor, held by Khan Manas,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Манас кан алтайкан салды керекке,”; nearest corpus parallel was “Манас кан алган Зулпукор,”."
+    },
+    {
+      "gap_id": "manas-2010:p1739:b001:l014:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1739:b001:l014"
+      ],
+      "source_text": "Баатыр ай, кыймалуу жагын көрдүңбү?",
+      "current_en": "Ah, warrior, at twenty-one!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Баатыр ай, кыймалуу жагын көрдүңбү?”; nearest corpus parallel was “Баатыр ай, жыйырма бир жашында!”."
+    },
+    {
+      "gap_id": "manas-2010:p1739:b001:l018:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1739:b001:l018"
+      ],
+      "source_text": "Кыймалуу жактан чалдырып,",
+      "current_en": "Call from mobile",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "Struck from the vulnerable flank,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "manas-2010:p1749:b001:l005:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1749:b001:l005"
+      ],
+      "source_text": "Ташка салса тарткызым,",
+      "current_en": "Don't throw stones,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Алакем жолдон кайра кайткызым.”; nearest corpus parallel was “Алакем арслан, кайран шер.”."
+    },
+    {
+      "gap_id": "manas-2010:p1749:b001:l005:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1749:b001:l006"
+      ],
+      "source_text": "Алакем жолдон кайра кайткызым.",
+      "current_en": "Almambet the lion, the noble lion!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Алакем жолдон кайра кайткызым.”; nearest corpus parallel was “Алакем арслан, кайран шер.”."
+    },
+    {
+      "gap_id": "manas-2010:p1764:b001:l012:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1764:b001:l012"
+      ],
+      "source_text": "Ээси боо сүйүнгөн,",
+      "current_en": "Who rejoiced at the word of an enemy,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ээси боо сүйүнгөн,”; nearest corpus parallel was “Жоо десе сүйүнгөн,”."
+    },
+    {
+      "gap_id": "manas-2010:p1775:b001:l020:unresolved-verse",
+      "source_line_ids": [
+        "manas-2010:p1775:b001:l020"
+      ],
+      "source_text": "Атасы тоонун туу чунак,",
+      "current_en": "Its sire is a spirit-steed of the mountains,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Атасы тоонун туу чунак,”; nearest corpus parallel was “Атасы тоонун кайыбы,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0033:b003:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0033:b003:l019"
+      ],
+      "source_text": "Кыйладан кыркы сына элек,",
+      "current_en": "The poor man's fortieth-day observance is not yet past.",
+      "severity": "high",
+      "reason": "The source contains 'кырк', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0062:b004:l002:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0062:b004:l002"
+      ],
+      "source_text": "Терселдей кепти билбеген,",
+      "current_en": "Knowing not a hair of deceit,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Терселдей кепти билбеген,”; nearest corpus parallel was “Кылдай кытмыр билбеген,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0087:b003:l001:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0087:b003:l001"
+      ],
+      "source_text": "Улуктугум сындабы!",
+      "current_en": "Is my authority being put to the test?",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence rendering for “Улуктугум сындабы!”; no close corpus parallel was found."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0112:b004:l039:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0112:b004:l039"
+      ],
+      "source_text": "Таң жыйылган молдого,",
+      "current_en": "There would be heaps of gathered wealth;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Таң жыйылган молдого,”; nearest corpus parallel was “Сан жыйылган топ эле,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0151:b003:l014:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0151:b003:l014"
+      ],
+      "source_text": "Көкчөнүн ошондо кылган капыры.",
+      "current_en": "I will take the horse",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көкчөнүн ошондо кылган капыры.”; nearest corpus parallel was “Өкүмдүк кылган капырдын”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0151:b003:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0151:b003:l020"
+      ],
+      "source_text": "Копшосо кылыч айзадан",
+      "current_en": "Their banners, swords, and spears",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Копшосо кылыч айзадан”; nearest corpus parallel was “Касаба, кылыч, айзасын”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0151:b003:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0151:b003:l021"
+      ],
+      "source_text": "Кыр чыгарды – деп угуп,",
+      "current_en": "I heard, had stirred up a quarrel;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Копшосо кылыч айзадан”; nearest corpus parallel was “Касаба, кылыч, айзасын”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0164:b003:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0164:b003:l036"
+      ],
+      "source_text": "Кыйратып бузган көчү бар,",
+      "current_en": "We shattered them and took revenge.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кыйратып бузган көчү бар,”; nearest corpus parallel was “Кыйратып бузуп, өч алдык.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0180:b004:l013:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0180:b004:l013"
+      ],
+      "source_text": "Кечээ, калдайлуу кара муз кезде,",
+      "current_en": "When the ice is black as ice,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "When black ice lay like a great sheet,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0184:b003:l035:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0184:b003:l035"
+      ],
+      "source_text": "Береки жылма баскан Букарды",
+      "current_en": "Childish infidel",
+      "severity": "high",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match. The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording. The source names Bukhara, which disappears from the English.",
+      "suggested_fix": "That Bukhara lying yonder,",
+      "original_review_note": "Low-confidence approximate rendering for “Береки жылма баскан Букарды”; nearest corpus parallel was “Балаа баскан капырдын”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0189:b004:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0189:b004:l025"
+      ],
+      "source_text": "Ардыктуу кирчил бала эле,",
+      "current_en": "Was an exceptionally skilled young scribe.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ардыктуу кирчил бала эле,”; nearest corpus parallel was “Артык катчы бала экен,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0210:b004:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0210:b004:l019"
+      ],
+      "source_text": "Ал эмес, төмөн көп огойго кол салды.",
+      "current_en": "He attacked Seytek.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ал эмес, төмөн көп огойго кол салды.”; nearest corpus parallel was “Ал Сейтекке кол салды.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0212:b003:l016:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0212:b003:l016"
+      ],
+      "source_text": "Аркар атса бөздөп ал,",
+      "current_en": "Driving wild sheep, panting,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аркар атса бөздөп ал,”; nearest corpus parallel was “Аркар айдап акактап,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0212:b004:l002:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0212:b004:l002"
+      ],
+      "source_text": "Аргымак жалдуу тайкушуң,",
+      "current_en": "We shall sell our coursers and pay tribute;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аргымак жалдуу тайкушуң,”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0216:b003:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0216:b003:l028"
+      ],
+      "source_text": "Аргымак жалдуу тайкушум",
+      "current_en": "We shall sell our coursers and pay tribute;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аргымак жалдуу тайкушум”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0217:b003:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0217:b003:l010"
+      ],
+      "source_text": "Аргымакка жал тайкуш,",
+      "current_en": "Then load me upon a thoroughbred!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аргымакка жал тайкуш,”; nearest corpus parallel was “Аргымакка артып кет,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0225:b003:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0225:b003:l028"
+      ],
+      "source_text": "Келем молдо* окутуп,",
+      "current_en": "Khoja and mullah took command,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Келем молдо* окутуп,”; nearest corpus parallel was “Кожо, молдо кол алып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0241:b005:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0241:b005:l025"
+      ],
+      "source_text": "Өлгөндө кырк чоро жыйган бусурман.",
+      "current_en": "The Muslims who survived the dead",
+      "severity": "high",
+      "reason": "The source contains 'кырк', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0260:b004:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0260:b004:l028"
+      ],
+      "source_text": "«Аргымак жалдуу тайкушум,",
+      "current_en": "We shall sell our coursers and pay tribute;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “«Аргымак жалдуу тайкушум,”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0261:b003:l034:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0261:b003:l034"
+      ],
+      "source_text": "Жетелүү тонуң кийгизбе,",
+      "current_en": "Do not dress him in your arrow-proof coat.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жетелүү тонуң кийгизбе,”; nearest corpus parallel was “Ок өтпөс эле тонуң кийгизбе,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0266:b003:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0266:b003:l020"
+      ],
+      "source_text": "Частазымдан бата алдым.",
+      "current_en": "Received a blessing from a prince,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Частазымдан бата алдым.”; nearest corpus parallel was “Канзаададан бата алдым,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0271:b003:l014:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0271:b003:l014"
+      ],
+      "source_text": "Энеңди сексен ал, балбан!»",
+      "current_en": "If you hold back, take your own mother, wrestler!",
+      "severity": "high",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match. The source contains 'сексен', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Энеңди сексен ал, балбан!»”; nearest corpus parallel was “Аянсаң энеңди ал, балбан!”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0272:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0272:b003:l025"
+      ],
+      "source_text": "Чарчысы келсе, сегиз кан",
+      "current_en": "If he had the power, Esenkan",
+      "severity": "high",
+      "reason": "The source contains 'сегиз', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0273:b003:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0273:b003:l018"
+      ],
+      "source_text": "Чачама дары, күйгөн уу",
+      "current_en": "There is a potent poisonous drug mixed in.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чачама дары, күйгөн уу”; nearest corpus parallel was “Чачама дары кошо бар.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0277:b003:l004:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0277:b003:l004"
+      ],
+      "source_text": "Аргымак жалдуу Тайкушмун,",
+      "current_en": "We shall sell our coursers and pay tribute;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аргымак жалдуу Тайкушмун,”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0277:b003:l034:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0277:b003:l034"
+      ],
+      "source_text": "Күн тутам болду бу башка,",
+      "current_en": "This became the occasion to save my life:",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Күн тутам болду бу башка,”; nearest corpus parallel was “Жаныма болду бул баана,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0287:b003:l006:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0287:b003:l006"
+      ],
+      "source_text": "Өлчөөсү түшкөн жерди айтып,",
+      "current_en": "Speaking of where to strike their flank,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өлчөөсү түшкөн жерди айтып,”; nearest corpus parallel was “Белге тийчү жерди айтып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0297:b005:l026:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0297:b005:l026"
+      ],
+      "source_text": "Муңкаганым ак сарай,",
+      "current_en": "My lament is a white palace;",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "I mourn for the white palace,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0297:b005:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0297:b005:l036"
+      ],
+      "source_text": "Калдай кара муз кезде,",
+      "current_en": "When the ice is black as ice,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "When black ice lay like a great sheet,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0312:b004:l027:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0312:b004:l027"
+      ],
+      "source_text": "Элчиликтен аз көрдү",
+      "current_en": "He has little of an envoy's courtesy.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Элчиликтен аз көрдү”; nearest corpus parallel was “Элчилиги аз экен,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0319:b004:l016:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0319:b004:l016"
+      ],
+      "source_text": "Карабжысын калдайтып,",
+      "current_en": "Leaving his gaze,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "Making his armguard loom wide,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0326:b003:l038:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0326:b003:l038"
+      ],
+      "source_text": "Барды-келди мүчөсү",
+      "current_en": "Now force has come upon you.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Барды-келди мүчөсү”; nearest corpus parallel was “Башыңа келди эми күч.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0332:b003:l014:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0332:b003:l014"
+      ],
+      "source_text": "Ордолоп алган жүйөө жок,",
+      "current_en": "Burned embers,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ордолоп алган жүйөө жок,”; nearest corpus parallel was “Серп алган жагы күйгөн чок,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0334:b003:l009:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0334:b003:l009"
+      ],
+      "source_text": "Не бир дапкыр бел ашып,",
+      "current_en": "Over the bare waist with a cold,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Не бир дапкыр бел ашып,”; nearest corpus parallel was “Суугу бар кыраң белди ашып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0345:b003:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0345:b003:l019"
+      ],
+      "source_text": "Чомчонун жолдон уруучу,",
+      "current_en": "Chokmor beater,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чомчонун жолдон уруучу,”; nearest corpus parallel was “Чокмор чаап уруучу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0349:b003:l030:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0349:b003:l030"
+      ],
+      "source_text": "«Этене тайтаң, эсер күң",
+      "current_en": "Who did not obey what you were told!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “«Этене тайтаң, эсер күң”; nearest corpus parallel was “Эдене тайтаң* жан элең!”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0360:b003:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0360:b003:l019"
+      ],
+      "source_text": "Аркадагы кабажык,",
+      "current_en": "The spearhead was barbed;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аркадагы кабажык,”; nearest corpus parallel was “Айзанын учу кабажык,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0368:b003:l011:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0368:b003:l011"
+      ],
+      "source_text": "Күн жаң-жуң солоон, кытайга",
+      "current_en": "And laid low Kün Jangjung.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Күн жаң-жуң солоон, кытайга”; nearest corpus parallel was “Күн жаң-жуңду жай кылган.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0370:b004:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0370:b004:l019"
+      ],
+      "source_text": "Муңканганым ак сарай,",
+      "current_en": "My lament is a white palace;",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "I mourn for the white palace,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0392:b003:l037:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0392:b003:l037"
+      ],
+      "source_text": "Басканын коочак-коо билип,",
+      "current_en": "Knowing that the light day flew,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Басканын коочак-коо билип,”; nearest corpus parallel was “Учканын жарык күн билип,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0392:b004:l033:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0392:b004:l033"
+      ],
+      "source_text": "Ат томугун сыдырып,",
+      "current_en": "Scroll to be horse,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "Stripping the horse's fetlock,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0395:b005:l005:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0395:b005:l005"
+      ],
+      "source_text": "Арга бир жүгүң артасың, Чубак,",
+      "current_en": "You will indulge your spoiled temper, Chubak!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Арга бир жүгүң артасың, Чубак,”; nearest corpus parallel was “Эркелик жиниң тартасың, Чубак!”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0397:b004:l016:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0397:b004:l016"
+      ],
+      "source_text": "Ак үйлүү жыйнап алтымыш,",
+      "current_en": "And take him as a hostage.",
+      "severity": "high",
+      "reason": "The source contains 'алтымыш', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0425:b003:l011:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0425:b003:l011"
+      ],
+      "source_text": "Бөйөнгө* тийип башына,",
+      "current_en": "‘Struck on the head with a battle-axe,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бөйөнгө* тийип башына,”; nearest corpus parallel was “Айбалта тийип башына,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0428:b003:l023:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0428:b003:l023"
+      ],
+      "source_text": "Саламжалдуу энекең",
+      "current_en": "Your noisy mother",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Саламжалдуу энекең”; nearest corpus parallel was “Чуулгандуу энекең”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0428:b004:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0428:b004:l010"
+      ],
+      "source_text": "Аргымак жалдуу тайкушум,",
+      "current_en": "We shall sell our coursers and pay tribute;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аргымак жалдуу тайкушум,”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0434:b004:l004:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0434:b004:l004"
+      ],
+      "source_text": "Атташкан шерим атакең,",
+      "current_en": "I had no lion Manas behind me.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Атташкан шерим атакең,”; nearest corpus parallel was “Артымда Манас шерим жок,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0440:b003:l022:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0440:b003:l022"
+      ],
+      "source_text": "Он бөлүп кантип токунам,",
+      "current_en": "How can I stand without dying?",
+      "severity": "high",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match. The source contains 'он бөлүп', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Он бөлүп кантип токунам,”; nearest corpus parallel was “Өлбөй кантип турамын,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0447:b004:l015:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0447:b004:l015"
+      ],
+      "source_text": "Аз тасмыя мүлкүмдү",
+      "current_en": "You exhausted my treasury and possessions",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аз тасмыя мүлкүмдү”; nearest corpus parallel was “Казынамды, мүлкүмдү,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0452:b003:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0452:b003:l018"
+      ],
+      "source_text": "Улуктугуң сындабы,",
+      "current_en": "My child, your nobility is beyond reproach,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Улуктугуң сындабы,”; nearest corpus parallel was “Балам, улуктугуң сында жок,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0455:b004:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0455:b004:l017",
+        "semetey-1-2013:p0455:b004:l018"
+      ],
+      "source_text": "Баатыр, менин акчылык түштү бейлиме.",
+      "current_en": "To your child still in the womb, hero.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Баатыр, менин акчылык түштү бейлиме.”; nearest corpus parallel was “Баатыр, сенин каканакта балаңа.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0459:b005:l009:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0459:b005:l009"
+      ],
+      "source_text": "Уу ичип, Манас жүйөө жок,",
+      "current_en": "Do not act so, Manas, without reason.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Уу ичип, Манас жүйөө жок,”; nearest corpus parallel was “Минтпе, Манас, жөнү жок”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0469:b003:l002:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0469:b003:l002"
+      ],
+      "source_text": "Өлүп-кечип молдосу,",
+      "current_en": "Dying and disappearing,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өлүп-кечип молдосу,”; nearest corpus parallel was “Өлүп-өчүп жоголуп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0477:b004:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0477:b004:l019"
+      ],
+      "source_text": "Колтук кагат, араң жан.",
+      "current_en": "Unholy people who open their arms.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Колтук кагат, араң жан.”; nearest corpus parallel was “Колтук ачкан арамдар.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0482:b004:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0482:b004:l025"
+      ],
+      "source_text": "Будурала тоо менен",
+      "current_en": "With the horse Aisarala,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Будурала тоо менен”; nearest corpus parallel was “Айсарала ат менен”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0485:b004:l008:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0485:b004:l008"
+      ],
+      "source_text": "Теңкерибей турасың.",
+      "current_en": "You keep calling me 'sister-in-law.'",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Теңкерибей турасың.”; nearest corpus parallel was “«Жеңекелеп» турасың,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0485:b004:l037:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0485:b004:l037"
+      ],
+      "source_text": "Каада кыз албай, камды ал!",
+      "current_en": "But instead of taking a wife, good heavens,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Каада кыз албай, камды ал!”; nearest corpus parallel was “Катын албай, капырай,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0487:b003:l014:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0487:b003:l014"
+      ],
+      "source_text": "Көргөн чуңкул көйкашка,",
+      "current_en": "The girl who opened the garden,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көргөн чуңкул көйкашка,”; nearest corpus parallel was “Багын аччу көйкашка,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0489:b005:l001:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0489:b005:l001"
+      ],
+      "source_text": "Коштон болгон жырымы,",
+      "current_en": "The days were twenty.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Коштон болгон жырымы,”; nearest corpus parallel was “Күнү болгон жыйырма.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0491:b003:l013:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0491:b003:l013"
+      ],
+      "source_text": "Бир төрөнүн боочусу,",
+      "current_en": "The pervert of the king,",
+      "severity": "high",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match. The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "A prince's attendant,",
+      "original_review_note": "Low-confidence approximate rendering for “Бир төрөнүн боочусу,”; nearest corpus parallel was “Коң төрөнүн бузугу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0505:b003:l008:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0505:b003:l008"
+      ],
+      "source_text": "Он төрт төөгө кайран жан,",
+      "current_en": "Better than that,",
+      "severity": "high",
+      "reason": "The source contains 'он төрт', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0511:b004:l003:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0511:b004:l003"
+      ],
+      "source_text": "Баатыр, күйө бир келген мен элем.",
+      "current_en": "Woman, where did you come from?",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0513:b003:l034:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0513:b003:l034"
+      ],
+      "source_text": "Бөтөн-бөтөн саз айтып,",
+      "current_en": "Told of ridge after ridge,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бөтөн-бөтөн саз айтып,”; nearest corpus parallel was “Бөөт-бөөт белди айтып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0514:b004:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0514:b004:l021"
+      ],
+      "source_text": "Алтымышта, кырк койго",
+      "current_en": "The white tinte bought",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording. The source contains 'алтымыш', but the English omits or changes the number. The source contains 'кырк', but the English omits or changes the number.",
+      "suggested_fix": "At sixty, for forty sheep,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0526:b004:l037:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0526:b004:l037"
+      ],
+      "source_text": "Аргымак жалдуу тайкушту,",
+      "current_en": "We shall sell our coursers and pay tribute;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аргымак жалдуу тайкушту,”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0531:b003:l005:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0531:b003:l005"
+      ],
+      "source_text": "Эбедейиң* эзбесең,",
+      "current_en": "Unless you crush his arrogance,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence rendering for “Эбедейиң* эзбесең,”; no close corpus parallel was found."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0532:b003:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0532:b003:l019"
+      ],
+      "source_text": "Алты күн ааа бир күтүп,",
+      "current_en": "Six hundred children came together,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "After waiting six days,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0546:b003:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0546:b003:l018"
+      ],
+      "source_text": "Үңкүрдүн жашын суратып,",
+      "current_en": "And brought down toward the cave's mouth.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Үңкүрдүн жашын суратып,”; nearest corpus parallel was “Үңкүрдүн оозун көздөй уратып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0552:b004:l022:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0552:b004:l022"
+      ],
+      "source_text": "Агып кеткен ээй, кол арык,",
+      "current_en": "The pitch-black flowing",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Агып кеткен ээй, кол арык,”; nearest corpus parallel was “Агып кеткен капкара,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0556:b003:l027:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0556:b003:l027"
+      ],
+      "source_text": "Ак ала чап керүүмдү,",
+      "current_en": "Your white beard",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ак ала чап керүүмдү,”; nearest corpus parallel was “Ак ала сакал карыңды,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0558:b004:l032:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0558:b004:l032"
+      ],
+      "source_text": "Болуштун түбү кээ болот,",
+      "current_en": "Behind the steel is tone,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Болуштун түбү кээ болот,”; nearest corpus parallel was “Болоттун арты тон болот,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0559:b003:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0559:b003:l020"
+      ],
+      "source_text": "Уй күрөң тартып жөлөнтүп,",
+      "current_en": "The cow is sent from the brown",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "He set off on the dun-bay horse,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0560:b004:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0560:b004:l020"
+      ],
+      "source_text": "Өзүң этене тайтаң* баласың,",
+      "current_en": "He was still somewhat childish and awkward,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өзүң этене тайтаң* баласың,”; nearest corpus parallel was “Этене тайтаң балараак,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0567:b004:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0567:b004:l018"
+      ],
+      "source_text": "«Таң төбөлөп эй, атама,",
+      "current_en": "When dawn splits and breaks,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “«Таң төбөлөп эй, атама,”; nearest corpus parallel was “Таң сөгүлүп атарда,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0571:b003:l012:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0571:b003:l012"
+      ],
+      "source_text": "Чын этеги ээй, тийгенге,",
+      "current_en": "To get really mad,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чын этеги ээй, тийгенге,”; nearest corpus parallel was “Чын жинине тийгенге,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0573:b003:l007:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0573:b003:l007"
+      ],
+      "source_text": "Кайрадан көөдөн жашынбай",
+      "current_en": "My Kyrgyz people in Talas, again?",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кайрадан көөдөн жашынбай”; nearest corpus parallel was “Кайрадан көрөр күн барбы?”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0575:b004:l022:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0575:b004:l022"
+      ],
+      "source_text": "Көбү кеткен эжеңди",
+      "current_en": "His eyes had grown inflamed,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көбү кеткен эжеңди”; nearest corpus parallel was “Көзү кеткен ириңдеп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0576:b003:l012:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0576:b003:l012"
+      ],
+      "source_text": "Алтай кан салдым жикесиз,",
+      "current_en": "I brought death upon his people;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Алтай кан салдым жикесиз,”; nearest corpus parallel was “Калкына каран салдым деп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0580:b003:l033:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0580:b003:l033"
+      ],
+      "source_text": "Чалым, сен эзелден берки күлкана,",
+      "current_en": "A sharp-tongued woman like you from ancient days!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чалым, сен эзелден берки күлкана,”; nearest corpus parallel was “Сендей эзелден берки кескини,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0587:b005:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0587:b005:l010"
+      ],
+      "source_text": "Менин түптүү чынар талмызым,",
+      "current_en": "My deep-rooted sacred plane tree,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Менин түптүү чынар талмызым,”; nearest corpus parallel was “Түптүү чынар мазарым,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0587:b005:l031:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0587:b005:l031"
+      ],
+      "source_text": "Менин уулумдан туулган мемирем.",
+      "current_en": "Semetey, born of Manas,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Менин уулумдан туулган мемирем.”; nearest corpus parallel was “Манастан туулган Семетей”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0598:b004:l033:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0598:b004:l033"
+      ],
+      "source_text": "Бейлеп-жинин какканда,",
+      "current_en": "When you find a common denominator,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бейлеп-жинин какканда,”; nearest corpus parallel was “Жалпы жинин тапканда,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0605:b004:l012:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0605:b004:l012"
+      ],
+      "source_text": "Эчендер ыргап кийчү эле,",
+      "current_en": "Who has not worn it at a jaunty tilt,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эчендер ыргап кийчү эле,”; nearest corpus parallel was “Кимдер ыргап кийбеген,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0606:b004:l030:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0606:b004:l030"
+      ],
+      "source_text": "Алат күн, ичте бушман бар,",
+      "current_en": "Yet see, there is distress within me.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Алат күн, ичте бушман бар,”; nearest corpus parallel was “Көрсөң бир ичте бышман бар,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0609:b005:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0609:b005:l018"
+      ],
+      "source_text": "Ачылчу оозун жазданып,",
+      "current_en": "With sharp steel for my pillow,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ачылчу оозун жазданып,”; nearest corpus parallel was “Ач болотту жазданып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0609:b005:l024:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0609:b005:l024"
+      ],
+      "source_text": "Манасына баласын",
+      "current_en": "My child to his child,",
+      "severity": "high",
+      "reason": "The source names Manas, which disappears from the English.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0610:b003:l029:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0610:b003:l029"
+      ],
+      "source_text": "Дүмөктү Каныкей балам баштаган,",
+      "current_en": "Dumuk started right.",
+      "severity": "high",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match. The source names Kanykei, which disappears or changes identity in English.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Дүмөктү Каныкей балам баштаган,”; nearest corpus parallel was “Дүмөктү туура баштаган.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0614:b004:l029:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0614:b004:l029"
+      ],
+      "source_text": "Шириңки сары көйкашка,",
+      "current_en": "Er Jamgyrchy shirt",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Шириңки сары көйкашка,”; nearest corpus parallel was “Эр Жамгырчы көйкашка”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0617:b003:l027:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0617:b003:l027"
+      ],
+      "source_text": "Ич соорулап качканда,",
+      "current_en": "When he fled into the sand,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ич соорулап качканда,”; nearest corpus parallel was “Кумга сала качканда,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0622:b003:l016:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0622:b003:l016"
+      ],
+      "source_text": "Жери тузаң куландуу,",
+      "current_en": "Was called Talas.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жери тузаң куландуу,”; nearest corpus parallel was “Жери Талас деп угуп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0623:b004:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0623:b004:l025"
+      ],
+      "source_text": "Кыймалуу жагдан чалдырып,",
+      "current_en": "Call from mobile",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "Struck from the vulnerable flank,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0625:b005:l015:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0625:b005:l015"
+      ],
+      "source_text": "Өзөндүүнүн талмызы,",
+      "current_en": "The talmyz of the waters of Jeti-Özön,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өзөндүүнүн талмызы,”; nearest corpus parallel was “Жети-Өзөн суунун талмызы,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0626:b004:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0626:b004:l036"
+      ],
+      "source_text": "Бети гана кумдуу жан эле.",
+      "current_en": "Was not the blue-maned one the lion?",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бети гана кумдуу жан эле.”; nearest corpus parallel was “Шери гана көк жал эмеспи.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0632:b003:l001:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0632:b003:l001"
+      ],
+      "source_text": "Амал ташта кетеби,",
+      "current_en": "Is this how my fate will end?",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Амал ташта кетеби,”; nearest corpus parallel was “Амалым минтип кетеби?”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0633:b005:l033:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0633:b005:l033"
+      ],
+      "source_text": "Кызырлуу күнүң бөлдүңбү,",
+      "current_en": "You became mighty cliffs blessed by Khydyr;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кызырлуу күнүң бөлдүңбү,”; nearest corpus parallel was “Кызырлуу кыйын зоо болдуң,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0637:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0637:b003:l025"
+      ],
+      "source_text": "Ачкыч алган алтоону,",
+      "current_en": "His bold men took their swords.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ачкыч алган алтоону,”; nearest corpus parallel was “Кылыч алган шайдооту,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0637:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0637:b003:l026"
+      ],
+      "source_text": "Абыке кулга арттырып,",
+      "current_en": "They loaded upon Aktulpar,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ачкыч алган алтоону,”; nearest corpus parallel was “Кылыч алган шайдооту,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0644:b003:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0644:b003:l010"
+      ],
+      "source_text": "Эгенди темир кайдасын",
+      "current_en": "Against my father Temir Khan,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эгенди темир кайдасын”; nearest corpus parallel was “Менин атам Темир кандан”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0647:b004:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0647:b004:l025"
+      ],
+      "source_text": "Көрүнгөнүң табылып,",
+      "current_en": "And his lord was restored to the seat of honor;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көрүнгөнүң табылып,”; nearest corpus parallel was “Төрөсү төрдөн табылып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0650:b003:l016:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0650:b003:l016"
+      ],
+      "source_text": "Тайлабасаң жерге кир,",
+      "current_en": "The horseshoe hit the ground,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тайлабасаң жерге кир,”; nearest corpus parallel was “Такасы жерге кириптир,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0650:b003:l016:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0650:b003:l017"
+      ],
+      "source_text": "Тайлабасаң көргө кир!",
+      "current_en": "Enter a grave before it is dug!",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тайлабасаң жерге кир,”; nearest corpus parallel was “Такасы жерге кириптир,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0654:b003:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0654:b003:l019",
+        "semetey-1-2013:p0654:b003:l020"
+      ],
+      "source_text": "Чочко кандын мурунку сөзү жеп таштап,",
+      "current_en": "The peoples of three khans clashed.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чочко кандын мурунку сөзү жеп таштап,”; nearest corpus parallel was “Үч кандын журту салышып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0657:b005:l001:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0657:b005:l001"
+      ],
+      "source_text": "Бакай кул, жобобосуң билдиңби,",
+      "current_en": "He made known to that slave Bakay.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бакай кул, жобобосуң билдиңби,”; nearest corpus parallel was “Бакай кулга билгизди.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0657:b005:l027:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0657:b005:l027"
+      ],
+      "source_text": "Жан тутамча көрүнбөй,",
+      "current_en": "No life is visible.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жан тутамча көрүнбөй,”; nearest corpus parallel was “Жан ко¸ турган көрүнбөйт.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0659:b005:l030:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0659:b005:l030"
+      ],
+      "source_text": "Бир өлбөгөн шумдуктан,",
+      "current_en": "When some terrible thing to Manas",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бир өлбөгөн шумдуктан,”; nearest corpus parallel was “Бир шумдукту Манаска,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0660:b003:l013:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0660:b003:l013"
+      ],
+      "source_text": "Алтымыш Кудай эми урсун,",
+      "current_en": "Now God had struck the woman;",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording. The source contains 'алтымыш', but the English omits or changes the number.",
+      "suggested_fix": "May God now strike the sixty of them,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0663:b003:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0663:b003:l028"
+      ],
+      "source_text": "Капыр, өлчөлүү гана сендей болобу.",
+      "current_en": "Could he have an heir like you?",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Капыр, өлчөлүү гана сендей болобу.”; nearest corpus parallel was “Караан сендей болобу?”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0663:b004:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0663:b004:l010"
+      ],
+      "source_text": "Түндүк тартпас бу башым,",
+      "current_en": "Poor soul who would not draw the roof-cover,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Түндүк тартпас бу башым,”; nearest corpus parallel was “Түндүк бир тартпас кайран жан,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0665:b005:l012:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0665:b005:l012"
+      ],
+      "source_text": "«Көрсө копор куу жетим",
+      "current_en": "Seizing them, the wretched orphan",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “«Көрсө копор куу жетим”; nearest corpus parallel was “Кармап алып, куу жетим”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0672:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0672:b003:l025"
+      ],
+      "source_text": "Капкайда кекти алууга.",
+      "current_en": "Was to take his distant vengeance.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0672:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0672:b003:l026"
+      ],
+      "source_text": "Калайыктын каты бар,",
+      "current_en": "All the assembled people,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0672:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0672:b003:l027"
+      ],
+      "source_text": "Кан Жакыптын сааты бар,",
+      "current_en": "Khan Jakyp had livestock;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0672:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0672:b003:l028"
+      ],
+      "source_text": "Кастарлап жайлап ийүүгө,",
+      "current_en": "Kulchoro to pass slowly,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кастарлап жайлап ийүүгө,”; nearest corpus parallel was “Күлчоро жайлап өтүүгө,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0675:b003:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0675:b003:l020"
+      ],
+      "source_text": "Алты айчылык кезенге",
+      "current_en": "The hero who knows what will come",
+      "severity": "high",
+      "reason": "The source contains 'алты ай', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0675:b005:l026:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0675:b005:l026"
+      ],
+      "source_text": "Ээн калды бу жер чунайып,",
+      "current_en": "His crooked little ears stood up;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ээн калды бу жер чунайып,”; nearest corpus parallel was “Кулагы буруш чунайып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0677:b004:l023:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0677:b004:l023"
+      ],
+      "source_text": "Беш, алты жайга ойноткон.",
+      "current_en": "Installed in the field",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording. The source contains 'беш, алты', but the English omits or changes the number.",
+      "suggested_fix": "He ranged them through five or six summer pastures.",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0685:b005:l003:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0685:b005:l003"
+      ],
+      "source_text": "Өкүрдүм жаман жүйө жок,",
+      "current_en": "Strained and hurled vile words.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өкүрдүм жаман жүйө жок,”; nearest corpus parallel was “Күчөндү жаман сүйлөнүп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0688:b003:l011:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0688:b003:l011"
+      ],
+      "source_text": "Үстүмө бардоо тарттырып,",
+      "current_en": "Draw a smile,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Үстүмө бардоо тарттырып,”; nearest corpus parallel was “Чымыроону тарттырып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0689:b003:l005:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0689:b003:l005"
+      ],
+      "source_text": "Түгөнсүн ичи тамаша,",
+      "current_en": "Within Tüp lay Chaar-Tal,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Түгөнсүн ичи тамаша,”; nearest corpus parallel was “Түптүн ичи Чаар-Тал,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0689:b005:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0689:b005:l020"
+      ],
+      "source_text": "Кошолоң тарткан жырымы*,",
+      "current_en": "Goodbye, your long-drawn song,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "My doubled, drawn-out lament,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0690:b003:l009:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0690:b003:l009"
+      ],
+      "source_text": "Эми келди жүйөң деп.",
+      "current_en": "Saying that no man would now travel,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эми келди жүйөң деп.”; nearest corpus parallel was “Эми киши жүрбөйт деп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0690:b003:l009:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0690:b003:l010"
+      ],
+      "source_text": "Урдун уулу бул эле,",
+      "current_en": "You were a son of light,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эми келди жүйөң деп.”; nearest corpus parallel was “Эми киши жүрбөйт деп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0690:b003:l009:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0690:b003:l011"
+      ],
+      "source_text": "Урдун кызы сен элең,",
+      "current_en": "She was the daughter of Light;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эми келди жүйөң деп.”; nearest corpus parallel was “Эми киши жүрбөйт деп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0690:b003:l032:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0690:b003:l032"
+      ],
+      "source_text": "Урдун уулу байкушка,",
+      "current_en": "To the young son of Oyrong,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Урдун уулу байкушка,”; nearest corpus parallel was “Ойрондун уулу чунакка”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0693:b004:l038:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0693:b004:l038"
+      ],
+      "source_text": "Сокмоктуу тийип айзасы",
+      "current_en": "The spear that struck so violently",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Сокмоктуу тийип айзасы”; nearest corpus parallel was “Катуу тийген айзасы”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0694:b003:l001:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0694:b003:l001"
+      ],
+      "source_text": "Көмүлгөн чочко сайганда,",
+      "current_en": "When the practiced swine struck,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көмүлгөн чочко сайганда,”; nearest corpus parallel was “Камбыл чочко урганда”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0694:b003:l039:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0694:b003:l039"
+      ],
+      "source_text": "Өөдүр-сөөдүр кебиң бар,",
+      "current_en": "We talked a lot,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өөдүр-сөөдүр кебиң бар,”; nearest corpus parallel was “Өөдүр-дөөдүр кеп кылдык,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0696:b003:l038:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0696:b003:l038"
+      ],
+      "source_text": "Анда Алмаң кандай биле элек,",
+      "current_en": "Manas had not yet existed then;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Анда Алмаң кандай биле элек,”; nearest corpus parallel was “Анда Манас боло элек,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0703:b004:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0703:b004:l036"
+      ],
+      "source_text": "Сүйүрмө сүттөн толо элек,",
+      "current_en": "His ribs have not yet filled out;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Сүйүрмө сүттөн толо элек,”; nearest corpus parallel was “Кабырга сөөгү толо элек,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0703:b004:l039:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0703:b004:l039"
+      ],
+      "source_text": "Ийирме эттен толо элек,",
+      "current_en": "The flesh of his calves was not yet full;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ийирме эттен толо элек,”; nearest corpus parallel was “Балтыр эти толо элек,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0705:b003:l035:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0705:b003:l035"
+      ],
+      "source_text": "Багалеги байбалуу,",
+      "current_en": "The bag is embroidered,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жибектен каргы саймалуу.”; nearest corpus parallel was “Багалагы саймалуу.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0705:b003:l035:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0705:b003:l036"
+      ],
+      "source_text": "Жибектен каргы саймалуу.",
+      "current_en": "Had embroidered cuffs.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жибектен каргы саймалуу.”; nearest corpus parallel was “Багалагы саймалуу.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0712:b003:l023:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0712:b003:l023"
+      ],
+      "source_text": "Өлөөрүмдө бир жемек",
+      "current_en": "At the point of death, take one last meal:",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жараткан иши бир демек,”; nearest corpus parallel was “Жараткан өзү билбесе,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0712:b003:l023:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0712:b003:l024"
+      ],
+      "source_text": "Жараткан иши бир демек,",
+      "current_en": "Unless the Creator himself knew it,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жараткан иши бир демек,”; nearest corpus parallel was “Жараткан өзү билбесе,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0728:b004:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0728:b004:l017"
+      ],
+      "source_text": "Таманыңда жүрөк жок,",
+      "current_en": "With no hair on their foreheads,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Таманыңда жүрөк жок,”; nearest corpus parallel was “Маңдайында жүнү жок,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0730:b003:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0730:b003:l021"
+      ],
+      "source_text": "Керээттүү кербен кургуруң,",
+      "current_en": "Your wretch, his craving roused,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Керээттүү кербен кургуруң,”; nearest corpus parallel was “Кумары келген кургуруң”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0759:b003:l002:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0759:b003:l002",
+        "semetey-1-2013:p0759:b003:l003"
+      ],
+      "source_text": "Энемдин кундактагы баласын бөлө чаапсың.",
+      "current_en": "Knew my mother would choose a hero.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Энемдин кундактагы баласын бөлө чаапсың.”; nearest corpus parallel was “Энемдин эр тандаарын билиптир.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0759:b003:l022:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0759:b003:l022"
+      ],
+      "source_text": "Кыркып берген ырымын,",
+      "current_en": "The customary rite performed;",
+      "severity": "high",
+      "reason": "The source contains 'кырк', but the English omits or changes the number.",
+      "suggested_fix": null,
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0765:b003:l022:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0765:b003:l022"
+      ],
+      "source_text": "Ар жүйөнүн жолунда,",
+      "current_en": "Take the world in abundance,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ар жүйөнүн жолунда,”; nearest corpus parallel was “Ар дүйнөнү мол алып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0768:b003:l027:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0768:b003:l027"
+      ],
+      "source_text": "Кыбыладан сызгырган",
+      "current_en": "From the direction of prayer,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кыбыладан сызгырган”; nearest corpus parallel was “Кыбыладан”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0769:b003:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0769:b003:l018"
+      ],
+      "source_text": "Жүргөндү зындан коо кылган,",
+      "current_en": "Made of pine,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жүргөндү зындан коо кылган,”; nearest corpus parallel was “Карагайдан коо кылган,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0769:b003:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0769:b003:l036"
+      ],
+      "source_text": "Кылдат корго кынаткан,",
+      "current_en": "That's why",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кылдат корго кынаткан,”; nearest corpus parallel was “Мына ушуга кынаткан”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0770:b004:l013:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0770:b004:l013"
+      ],
+      "source_text": "Уйчу-туйчу кеп айтат,",
+      "current_en": "And tell many tales that divide the people.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Уйчу-туйчу кеп айтат,”; nearest corpus parallel was “Эл бузугун көп айтат,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0772:b003:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0772:b003:l019"
+      ],
+      "source_text": "Өзөк сөз кайдан арылат,",
+      "current_en": "How can regret be dispelled,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өзөк сөз кайдан арылат,”; nearest corpus parallel was “Арман кайдан арылат,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0774:b004:l031:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0774:b004:l031"
+      ],
+      "source_text": "Туу казанат туу салды,",
+      "current_en": "Happy birthday my cousin,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "My young standard-winning warrior,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0775:b003:l008:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0775:b003:l008"
+      ],
+      "source_text": "Бир бороон менен жөн болдуң.",
+      "current_en": "He was an enemy of ours.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бир бороон менен жөн болдуң.”; nearest corpus parallel was “Биздер гана менен жоо болчу.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0776:b004:l004:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0776:b004:l004"
+      ],
+      "source_text": "Ара күрмөй* дардайган",
+      "current_en": "And towered like a craggy peak;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ара күрмөй* дардайган”; nearest corpus parallel was “Аласкардай дардайган,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0776:b004:l015:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0776:b004:l015"
+      ],
+      "source_text": "Кыясынан чалдырдың,",
+      "current_en": "You called from mobile,",
+      "severity": "high",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match. The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "You were struck from the flank,",
+      "original_review_note": "Low-confidence approximate rendering for “Кыясынан чалдырдың,”; nearest corpus parallel was “Кыймалуу жагдан чалдырдың,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0776:b004:l019:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0776:b004:l019"
+      ],
+      "source_text": "Кыйгачтап бычсам жең болбой,",
+      "current_en": "Trail diagonally along the road.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кыйгачтап бычсам жең болбой,”; nearest corpus parallel was “Кыйгачтап жолго тийгизип,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0777:b003:l016:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0777:b003:l016"
+      ],
+      "source_text": "Алакөөдөн Абыке өңдүү күбүңө,",
+      "current_en": "Abyke, a khan among the six, wept;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Алакөөдөн Абыке өңдүү күбүңө,”; nearest corpus parallel was “Алтоонун Абыке өңдүү кан ыйлап,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0777:b004:l003:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0777:b004:l003"
+      ],
+      "source_text": "Кыялы жерде чалдырдың,",
+      "current_en": "You called from mobile,",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "You were struck from the flank,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0778:b003:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0778:b003:l020"
+      ],
+      "source_text": "Эндей этке кийди эми,",
+      "current_en": "Began gulping down the meat.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Эндей этке кийди эми,”; nearest corpus parallel was “Сугунуп этке кирди эми.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0783:b005:l007:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0783:b005:l007"
+      ],
+      "source_text": "Муну бурултуп түргө коюптур.",
+      "current_en": "God had struck it down.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Муну бурултуп түргө коюптур.”; nearest corpus parallel was “Кудай уруп коюптур:”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0783:b005:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0783:b005:l010"
+      ],
+      "source_text": "Тобун чечип коюптур.",
+      "current_en": "They named him Bokmurun.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тулпарлар азоо мээ болуп,”; nearest corpus parallel was “Тулпар аты ток болуп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0783:b005:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0783:b005:l011"
+      ],
+      "source_text": "Тулпарлар азоо мээ болуп,",
+      "current_en": "His winged steed, had been well fed;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тулпарлар азоо мээ болуп,”; nearest corpus parallel was “Тулпар аты ток болуп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0787:b003:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0787:b003:l025"
+      ],
+      "source_text": "Беренелүү оң жүргөн,",
+      "current_en": "A mercenary murderer",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Беренелүү оң жүргөн,”; nearest corpus parallel was “Беренелүү канкордун”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0789:b004:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0789:b004:l018"
+      ],
+      "source_text": "Чычар өөдө бел менен,",
+      "current_en": "Over ridge after ridge,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чычар өөдө бел менен,”; nearest corpus parallel was “Адыр-адыр бел менен,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0793:b003:l029:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0793:b003:l029"
+      ],
+      "source_text": "Кызымталдуу сулуусу,",
+      "current_en": "The beauty among his daughters,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кызымталдуу сулуусу,”; nearest corpus parallel was “Кыздарынын сулуусу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0798:b004:l014:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0798:b004:l014"
+      ],
+      "source_text": "Бирөө көзүн көргүсүз,",
+      "current_en": "No man could look upon his face.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бирөө көзүн көргүсүз,”; nearest corpus parallel was “Адам жүзүн көргүсүз,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0800:b003:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0800:b003:l028"
+      ],
+      "source_text": "Кечээ, жесиринде дүмөктү",
+      "current_en": "When upon Beijing an uproar",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кечээ, жесиринде дүмөктү”; nearest corpus parallel was “Ал Бээжинге дүмөктү”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0800:b003:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0800:b003:l029"
+      ],
+      "source_text": "Сала келген эмеспи,",
+      "current_en": "Did indeed inflict.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кечээ, жесиринде дүмөктү”; nearest corpus parallel was “Ал Бээжинге дүмөктү”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0803:b005:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0803:b005:l028"
+      ],
+      "source_text": "Мүчөсүнө кактырып,",
+      "current_en": "I will scatter him his share.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Мүчөсүнө кактырып,”; nearest corpus parallel was “Мүчөсүнө чачамын*,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0807:b003:l038:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0807:b003:l038"
+      ],
+      "source_text": "Маша ирмебес мергенден,",
+      "current_en": "From the master hunter,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Маша ирмебес мергенден,”; nearest corpus parallel was “Машы уста мергенден,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0807:b003:l038:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0807:b003:l039"
+      ],
+      "source_text": "Теңиздик менен эрдиги",
+      "current_en": "Courage and companionship",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Маша ирмебес мергенден,”; nearest corpus parallel was “Машы уста мергенден,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0807:b004:l022:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0807:b004:l022"
+      ],
+      "source_text": "Боз керешке дегенден,",
+      "current_en": "Let it be a gray beginning,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Боз керешке дегенден,”; nearest corpus parallel was “Боз керешке там болгун,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0810:b004:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0810:b004:l021"
+      ],
+      "source_text": "Мунун танабы* бирге таалайың,",
+      "current_en": "That's a lot of lies,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Мунун танабы* бирге таалайың,”; nearest corpus parallel was “Мунун калп айтканы бир далай,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0810:b004:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0810:b004:l022"
+      ],
+      "source_text": "Өсөлөнүп* көп айтам,",
+      "current_en": "I spent a lot of time alone,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Мунун танабы* бирге таалайың,”; nearest corpus parallel was “Мунун калп айтканы бир далай,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0821:b004:l005:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0821:b004:l005"
+      ],
+      "source_text": "Темене этек ыктуусу,",
+      "current_en": "The most graceful in tasseled ornaments,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Темене этек ыктуусу,”; nearest corpus parallel was “Келеңкер чачпак ыктуусу,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0827:b005:l029:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0827:b005:l029"
+      ],
+      "source_text": "Муңканганым ак сарай,",
+      "current_en": "My lament is a white palace;",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording.",
+      "suggested_fix": "I mourn for the white palace,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0827:b005:l039:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0827:b005:l039"
+      ],
+      "source_text": "Каракчы*, күрөө* жүрбөгөн,",
+      "current_en": "No one is holding back,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Каракчы*, күрөө* жүрбөгөн,”; nearest corpus parallel was “Кармашып киши жүрбөгөн,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0828:b003:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0828:b003:l010"
+      ],
+      "source_text": "Салынган кери мунарык,",
+      "current_en": "A glittering tower",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Салынган кери мунарык,”; nearest corpus parallel was “Жалтылдаган мунарык”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0830:b003:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0830:b003:l017"
+      ],
+      "source_text": "Айдарым* жолдон жөн кетпей,",
+      "current_en": "And gathered troops all along the road—",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Айдарым* жолдон жөн кетпей,”; nearest corpus parallel was “Айдап жолдон кол алып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0834:b004:l035:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0834:b004:l035"
+      ],
+      "source_text": "Же айыкпай жаткан доосу жок,",
+      "current_en": "There is no bulging mountain,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Же айыкпай жаткан доосу жок,”; nearest corpus parallel was “Томпоюп жаткан тоосу жок,”. Low-confidence approximate rendering for “Же Анжыдан келген жоосу жок.”; nearest corpus parallel was “Жанынан келген киши жок.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0834:b004:l035:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0834:b004:l036"
+      ],
+      "source_text": "Же Анжыдан келген жоосу жок.",
+      "current_en": "No one has returned from their side.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Же айыкпай жаткан доосу жок,”; nearest corpus parallel was “Томпоюп жаткан тоосу жок,”. Low-confidence approximate rendering for “Же Анжыдан келген жоосу жок.”; nearest corpus parallel was “Жанынан келген киши жок.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0844:b004:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0844:b004:l028"
+      ],
+      "source_text": "Көк шиберге көлпүгүп,",
+      "current_en": "When placed on a blue tile",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көк шиберге көлпүгүп,”; nearest corpus parallel was “Көк шиберге койгондо”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0845:b003:l003:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0845:b003:l003"
+      ],
+      "source_text": "Бул боз өзөн урчукта,",
+      "current_en": "At the shoulder of a gray mountain,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бул боз өзөн урчукта,”; nearest corpus parallel was “Бозоргон тоонун урчукта,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0846:b003:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0846:b003:l017"
+      ],
+      "source_text": "Сарпайылап* бууган жер,",
+      "current_en": "Careful feeding.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Сарпайылап* бууган жер,”; nearest corpus parallel was “Сарпайылап бактырган.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0849:b005:l032:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0849:b005:l032"
+      ],
+      "source_text": "Алты миң балбан Алөөкө",
+      "current_en": "My name is the champion Alöökö;",
+      "severity": "high",
+      "reason": "The English is broken, anachronistic, or plainly unrelated to the Kyrgyz wording. The source contains 'алты миң', but the English omits or changes the number.",
+      "suggested_fix": "Alöökö with six thousand champions,",
+      "original_review_note": "Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0854:b004:l038:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0854:b004:l038"
+      ],
+      "source_text": "Казынасын мөлдөп ойдуруп,",
+      "current_en": "Robbed of his treasury,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Казынасын мөлдөп ойдуруп,”; nearest corpus parallel was “Казынасын алдырып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0855:b003:l003:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0855:b003:l003"
+      ],
+      "source_text": "Жергелүү чапан кийгизбей,",
+      "current_en": "Dress her in a rough homespun coat,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жергелүү чапан кийгизбей,”; nearest corpus parallel was “Кежээл чапан кийгизип,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0859:b003:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0859:b003:l020"
+      ],
+      "source_text": "Аңыстатпай* өзүнө айт,",
+      "current_en": "Say it to my six uncles' faces.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Аңыстатпай* өзүнө айт,”; nearest corpus parallel was “Алты агамдын көзүнө айт.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0862:b004:l037:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0862:b004:l037"
+      ],
+      "source_text": "Козусун уйга жалгызган,",
+      "current_en": "He tethered the lamb beside the cow,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Козусун уйга жалгызган,”; nearest corpus parallel was “Боз козусун жетелеп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0863:b004:l031:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0863:b004:l031"
+      ],
+      "source_text": "Чабаганчы динчибиз,",
+      "current_en": "Saying I would be a messenger,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чабаганчы динчибиз,”; nearest corpus parallel was “Чабаганчы болом – деп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0864:b003:l031:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0864:b003:l031"
+      ],
+      "source_text": "Тайып кетсе топчулук",
+      "current_en": "If it slips, face it.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тайып кетсе топчулук”; nearest corpus parallel was “Тайып кетсе өөдөлөп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0872:b003:l026:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0872:b003:l026"
+      ],
+      "source_text": "Атабайча суп жабуу*",
+      "current_en": "Close the door carefully.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Атабайча суп жабуу*”; nearest corpus parallel was “Абайлап көрсө сур жабуу.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0878:b004:l032:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0878:b004:l032"
+      ],
+      "source_text": "Ала коюп жүздү атып,",
+      "current_en": "Sarybai shot a hundred shafts,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көк чыбык мылтык, ак тинте,”; nearest corpus parallel was “Көк чыбык мылтык колго алып,”. Low-confidence approximate rendering for “Көсөмдү мылтык курч менен”; nearest corpus parallel was “Көркөмдү мындай кан менен,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0878:b004:l032:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0878:b004:l033"
+      ],
+      "source_text": "Көк чыбык мылтык, ак тинте,",
+      "current_en": "Taking the gun Kok Chybyk in hand,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көк чыбык мылтык, ак тинте,”; nearest corpus parallel was “Көк чыбык мылтык колго алып,”. Low-confidence approximate rendering for “Көсөмдү мылтык курч менен”; nearest corpus parallel was “Көркөмдү мындай кан менен,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0878:b004:l032:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0878:b004:l034"
+      ],
+      "source_text": "Көсөмдү мылтык курч менен",
+      "current_en": "Art with such blood,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көк чыбык мылтык, ак тинте,”; nearest corpus parallel was “Көк чыбык мылтык колго алып,”. Low-confidence approximate rendering for “Көсөмдү мылтык курч менен”; nearest corpus parallel was “Көркөмдү мындай кан менен,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0881:b005:l025:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0881:b005:l025"
+      ],
+      "source_text": "Тозок жатты жээктен,",
+      "current_en": "Lay together, poised.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тозок жатты жээктен,”; nearest corpus parallel was “Кошо жатты комдонуп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0888:b003:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0888:b003:l017"
+      ],
+      "source_text": "Бул журтка аалам түшкөнү",
+      "current_en": "How shall we see those people again?",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бул журтка аалам түшкөнү”; nearest corpus parallel was “Ал журтка кайдан көрүндүк.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0890:b004:l029:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0890:b004:l029"
+      ],
+      "source_text": "Көмөрүлүп аткан ок",
+      "current_en": "And every word he spoke was a fired bullet.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көмөрүлүп аткан ок”; nearest corpus parallel was “Сүйлөгөнү аткан ок.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0897:b005:l029:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0897:b005:l029"
+      ],
+      "source_text": "Тоодай ала кан болдук.",
+      "current_en": "We exacted tribute and became khans.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Тоодай ала кан болдук.”; nearest corpus parallel was “Сурак алып кан болдук,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0903:b004:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0903:b004:l017"
+      ],
+      "source_text": "Мунарыкты тээктеп,",
+      "current_en": "Looking at the tower,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Мунарыкты тээктеп,”; nearest corpus parallel was “Мунарыкты караса,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0904:b003:l033:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0904:b003:l033"
+      ],
+      "source_text": "Калканын кара торлотуп,",
+      "current_en": "Black mountain of Kasman",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Калканын кара торлотуп,”; nearest corpus parallel was “Касмандын кара тоосунун”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0906:b004:l023:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0906:b004:l023"
+      ],
+      "source_text": "Мунун чалаары бийик, тик кыя,",
+      "current_en": "In a place with high, sheer cliffs,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Мунун чалаары бийик, тик кыя,”; nearest corpus parallel was “Жатышы бийик, тик кыя”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0912:b003:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0912:b003:l018"
+      ],
+      "source_text": "Бөлүнүп чыксаң бүгүлөр,",
+      "current_en": "Separated men",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бөлүнүп чыксаң бүгүлөр,”; nearest corpus parallel was “Бөлүнүп чыккан эрлерин”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0912:b004:l007:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0912:b004:l007"
+      ],
+      "source_text": "Чалыңа берет тымызын!",
+      "current_en": "Karykan will give you his grove.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Чалыңа берет тымызын!”; nearest corpus parallel was “Талын берет Карыкан,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0912:b004:l018:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0912:b004:l018"
+      ],
+      "source_text": "Бир алтоон кетирип жибер эренге,",
+      "current_en": "He loosened all six,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бир алтоон кетирип жибер эренге,”; nearest corpus parallel was “Алтоон чечип жиберип,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0914:b003:l024:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0914:b003:l024"
+      ],
+      "source_text": "Оң келдекей жаа тартып,",
+      "current_en": "He drew his bow, raining arrows,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Оң келдекей жаа тартып,”; nearest corpus parallel was “Жамгыр кылып жаа тартып,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0915:b003:l006:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0915:b003:l006"
+      ],
+      "source_text": "Кежисин курчтан мадаткан,",
+      "current_en": "Forged its metal from hard steel,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кежисин курчтан мадаткан,”; nearest corpus parallel was “Темирин курчтан таптаган.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0916:b003:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0916:b003:l021"
+      ],
+      "source_text": "Мааниң кеткен кырк аба,",
+      "current_en": "Those forty choros who attacked as one,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Мааниң кеткен кырк аба,”; nearest corpus parallel was “Жабыла кеткен кырк чоро,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0916:b004:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0916:b004:l021"
+      ],
+      "source_text": "Ошондо, береленип жетимиң",
+      "current_en": "This was where they came to me, the unfortunate one.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ошондо, береленип жетимиң”; nearest corpus parallel was “Ошондо, карабетке келген жер.”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0920:b003:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0920:b003:l036"
+      ],
+      "source_text": "Баткагын кыйма чанатып",
+      "current_en": "She had them tread the mud.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Баткагын кыйма чанатып”; nearest corpus parallel was “Баткагын буга тептирип,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0920:b004:l001:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0920:b004:l001"
+      ],
+      "source_text": "Кыйла даана санатып,",
+      "current_en": "And levy a heavy fine;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кыйла даана санатып,”; nearest corpus parallel was “Кыйла айып салалы,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0922:b007:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0922:b007:l017"
+      ],
+      "source_text": "Балан-түгүн дедирдим,",
+      "current_en": "Since childhood,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Балан-түгүн дедирдим,”; nearest corpus parallel was “Балан-бастан дегиче,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0925:b004:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0925:b004:l036"
+      ],
+      "source_text": "Көркөмүрөөк кара сур –",
+      "current_en": "A mountain as black as coal -",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Көркөмүрөөк кара сур –”; nearest corpus parallel was “Көмүркөйдөй кара тоо –”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0931:b003:l028:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0931:b003:l028"
+      ],
+      "source_text": "Бел-бел келген тайтаңда,",
+      "current_en": "From active Kakan",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Бел-бел келген тайтаңда,”; nearest corpus parallel was “Белсене келген Какандан”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0933:b004:l010:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0933:b004:l010"
+      ],
+      "source_text": "Ак шайтандуу ат а-а акмак",
+      "current_en": "To that devilish woman,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Ак шайтандуу ат а-а акмак”; nearest corpus parallel was “Ал шайтандуу катынга”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0934:b004:l031:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0934:b004:l031"
+      ],
+      "source_text": "Өөдүр-сөөдүр жан эле,",
+      "current_en": "We talked a lot,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Өөдүр-сөөдүр жан эле,”; nearest corpus parallel was “Өөдүр-дөөдүр кеп кылдык,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0936:b003:l024:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0936:b003:l024"
+      ],
+      "source_text": "Менин бу кебимде бушман жок,",
+      "current_en": "My calamities, above my head,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Менин бу кебимде бушман жок,”; nearest corpus parallel was “Менин балакетим башыман”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0941:b004:l033:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0941:b004:l033"
+      ],
+      "source_text": "Шыйрактарын мекчейтип",
+      "current_en": "Their necks hunched,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Шыйрактарын мекчейтип”; nearest corpus parallel was “Моюндарын мекчейтип,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0944:b004:l007:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0944:b004:l007"
+      ],
+      "source_text": "Кетирбесем болжолун!»",
+      "current_en": "For matchless Chürök,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кетирбесем болжолун!»”; nearest corpus parallel was “Кетирбесем алымды,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0946:b004:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0946:b004:l021"
+      ],
+      "source_text": "Кадимкинин сүрөтүн",
+      "current_en": "One of the usual",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кадимкинин сүрөтүн”; nearest corpus parallel was “Кадимкинин бири деп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0946:b004:l021:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0946:b004:l022"
+      ],
+      "source_text": "Жанагыдай деди – деп,",
+      "current_en": "Saying, 'That is how she spoke then.'",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Кадимкинин сүрөтүн”; nearest corpus parallel was “Кадимкинин бири деп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0951:b004:l017:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0951:b004:l017"
+      ],
+      "source_text": "Суук сийдик ал кытай",
+      "current_en": "The Chinese stretched out and thrust;",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Суук сийдик ал кытай”; nearest corpus parallel was “Чоюлуп сайды ал кытай,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0951:b004:l020:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0951:b004:l020"
+      ],
+      "source_text": "Абийирин камдап көтөрүп,",
+      "current_en": "He lifted onto his shoulder.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Абийирин камдап көтөрүп,”; nearest corpus parallel was “Ийинине салып көтөрүп,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0953:b005:l036:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0953:b005:l036"
+      ],
+      "source_text": "Жашымда көрүп өлбөдүм.",
+      "current_en": "If I do not die young,",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жашымда көрүп өлбөдүм.”; nearest corpus parallel was “Жашымда өлүп албасам,”."
+    },
+    {
+      "gap_id": "semetey-1-2013:p0957:b003:l005:unresolved-verse",
+      "source_line_ids": [
+        "semetey-1-2013:p0957:b003:l005"
+      ],
+      "source_text": "Жыгачтын түркү мында экен.",
+      "current_en": "The Kyrgyz people are not here.",
+      "severity": "medium",
+      "reason": "The first-pass review note identifies this as a low-confidence approximate formula match.",
+      "suggested_fix": null,
+      "original_review_note": "Low-confidence approximate rendering for “Жыгачтын түркү мында экен.”; nearest corpus parallel was “Кыргыздын журту мында жок.”."
+    }
+  ]
+}

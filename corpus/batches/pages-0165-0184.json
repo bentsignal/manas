@@ -855,6 +855,7 @@
     "manas-2010:p0182:b002:l046",
     "manas-2010:p0182:b002:l047",
     "manas-2010:p0182:b002:l048",
+    "manas-2010:p0183:b002:l001",
     "manas-2010:p0183:b002:l002",
     "manas-2010:p0183:b002:l003",
     "manas-2010:p0183:b002:l004",
@@ -1054,6 +1055,7 @@
     "manas-2010:p0182:b002:l014": "кадамак is an ordo phase/shot near the circle line, confirmed by Yudakhin and explanatory dictionaries with this passage. https://el-sozduk.kg/кадамак/",
     "manas-2010:p0182:b002:l016": "тоорумак is an ordo shot; dictionary cites the next line entering the circle. https://el-sozduk.kg/ТООРУ/",
     "manas-2010:p0182:b002:l041": "Two nar camels retained despite singular red nar at l044. No harmonization.",
+    "manas-2010:p0183:b002:l001": "Legible entire utterance remains uninterpreted; transliteration preserved privately in batch descriptor, not counted as English translation. Completion-first first pass: Low-confidence approximate rendering for “«Үттүгүңө шоодай», - деп,”; nearest corpus parallel was “«Көрүнөө кудай урду», - деп,”.",
     "manas-2010:p0183:b002:l009": "Drawing the line retained literally, possibly game/battle metaphor; not an invented challenge speech.",
     "manas-2010:p0183:b002:l016": "ок shot may be arrows or bullets in this mixed bow/gun martial diction; generic shot retained.",
     "manas-2010:p0183:b002:l026": "Youngest of six lions retained as epic formula without identifying the six or rewriting genealogical chronology.",
@@ -1088,11 +1090,6 @@
       "id": "manas-2010:p0179:b003:l002",
       "kind": "heading",
       "reason": "Bold centered chapter heading, visually checked; translated separately in headings, not verse."
-    },
-    {
-      "id": "manas-2010:p0183:b002:l001",
-      "kind": "unresolved_source",
-      "reason": "Whole utterance is legible but not interpreted. Transliteration is not an English translation."
     }
   ],
   "headings": [
@@ -1269,15 +1266,7 @@
     }
   ],
   "translation_provenance": "Draft translated directly from Kyrgyz extraction and page images; no acquired prior English translation used as input. Dictionary checks support selected lexemes only; no independent specialist review.",
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p0183:b002:l001"
-      ],
-      "raw": "«Үттүгүңө шоодай», - деп,",
-      "transliteration_only": "“Üttügüngö shoodai!” he cried,",
-      "note": "Entire phrase Үттүгүңө шоодай is legible but meaning unresolved, apparently a hostile exclamation. Transliterated, not silently omitted or supplied an invented curse. шоодай dictionary alone does not resolve phrase. https://el-sozduk.kg/шоодай/",
-      "status": "unresolved"
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

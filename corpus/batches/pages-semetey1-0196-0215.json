@@ -115,6 +115,7 @@
     "semetey-1-2013:p0197:b003:l024",
     "semetey-1-2013:p0197:b003:l025",
     "semetey-1-2013:p0197:b003:l026",
+    "semetey-1-2013:p0197:b003:l027",
     "semetey-1-2013:p0197:b003:l028",
     "semetey-1-2013:p0197:b003:l029",
     "semetey-1-2013:p0197:b003:l030",
@@ -409,6 +410,7 @@
     "semetey-1-2013:p0201:b003:l009",
     "semetey-1-2013:p0201:b003:l010",
     "semetey-1-2013:p0201:b003:l011",
+    "semetey-1-2013:p0201:b003:l012",
     "semetey-1-2013:p0201:b003:l013",
     "semetey-1-2013:p0201:b003:l014",
     "semetey-1-2013:p0201:b003:l015",
@@ -617,6 +619,7 @@
     "semetey-1-2013:p0203:b005:l024",
     "semetey-1-2013:p0203:b005:l025",
     "semetey-1-2013:p0203:b005:l026",
+    "semetey-1-2013:p0203:b005:l027",
     "semetey-1-2013:p0203:b005:l028",
     "semetey-1-2013:p0203:b005:l029",
     "semetey-1-2013:p0203:b005:l030",
@@ -720,6 +723,7 @@
     "semetey-1-2013:p0205:b003:l012",
     "semetey-1-2013:p0205:b003:l013",
     "semetey-1-2013:p0205:b003:l014",
+    "semetey-1-2013:p0205:b003:l015",
     "semetey-1-2013:p0205:b003:l016",
     "semetey-1-2013:p0205:b003:l017",
     "semetey-1-2013:p0205:b003:l018",
@@ -1013,6 +1017,7 @@
     "semetey-1-2013:p0208:b004:l036",
     "semetey-1-2013:p0208:b004:l037",
     "semetey-1-2013:p0208:b004:l038",
+    "semetey-1-2013:p0208:b004:l039",
     "semetey-1-2013:p0209:b003:l001",
     "semetey-1-2013:p0209:b003:l002",
     "semetey-1-2013:p0209:b003:l003",
@@ -1146,6 +1151,7 @@
     "semetey-1-2013:p0210:b004:l016",
     "semetey-1-2013:p0210:b004:l017",
     "semetey-1-2013:p0210:b004:l018",
+    "semetey-1-2013:p0210:b004:l019",
     "semetey-1-2013:p0210:b004:l020",
     "semetey-1-2013:p0210:b004:l021",
     "semetey-1-2013:p0210:b004:l022",
@@ -1259,6 +1265,7 @@
     "semetey-1-2013:p0212:b003:l013",
     "semetey-1-2013:p0212:b003:l014",
     "semetey-1-2013:p0212:b003:l015",
+    "semetey-1-2013:p0212:b003:l016",
     "semetey-1-2013:p0212:b003:l017",
     "semetey-1-2013:p0212:b003:l018",
     "semetey-1-2013:p0212:b003:l019",
@@ -1283,6 +1290,7 @@
     "semetey-1-2013:p0212:b003:l038",
     "semetey-1-2013:p0212:b003:l039",
     "semetey-1-2013:p0212:b004:l001",
+    "semetey-1-2013:p0212:b004:l002",
     "semetey-1-2013:p0212:b004:l003",
     "semetey-1-2013:p0212:b004:l004",
     "semetey-1-2013:p0212:b004:l005",
@@ -1449,6 +1457,7 @@
     "semetey-1-2013:p0214:b004:l010",
     "semetey-1-2013:p0214:b004:l011",
     "semetey-1-2013:p0214:b004:l012",
+    "semetey-1-2013:p0214:b004:l013",
     "semetey-1-2013:p0214:b004:l014",
     "semetey-1-2013:p0214:b004:l015",
     "semetey-1-2013:p0214:b004:l016",
@@ -1518,6 +1527,7 @@
     "semetey-1-2013:p0215:b004:l002",
     "semetey-1-2013:p0215:b004:l003",
     "semetey-1-2013:p0215:b004:l004",
+    "semetey-1-2013:p0215:b004:l005",
     "semetey-1-2013:p0215:b004:l006",
     "semetey-1-2013:p0215:b004:l007",
     "semetey-1-2013:p0215:b004:l008",
@@ -1807,400 +1817,9 @@
       "id": "semetey-1-2013:p0215:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio; not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0197:b003:l027",
-      "kind": "unresolved_source",
-      "reason": "Аргымагын чепейтип: horse noun clear but чепейтип unverified. Primary parallel кекейтип is not the printed verb; no substitution. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0201:b003:l012",
-      "kind": "unresolved_source",
-      "reason": "Чөйчөгүн чөпкө толтуруп: чөйчөк cup/horse rump groove and compound stomach senses exist, but exact anatomy in this feeding verse remains unsecured. No invented crop or stomach ellipsis. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0203:b005:l027",
-      "kind": "unresolved_source",
-      "reason": "Келеме кериш, кең күрмө: costly cloth/ornament and loose coat are clear, but кериш in this clothing compound is unsecured. No invented crossweave. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0205:b003:l015",
-      "kind": "unresolved_source",
-      "reason": "Ичкенин жолун төтөлөп: route clause clear but Ичкенин unresolved; no invented place or silent ичкери substitution. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0208:b004:l039",
-      "kind": "unresolved_source",
-      "reason": "Бул Ичкенин жолун төтөлөп: Ичкенин unresolved; distinct Ичке жолун earlier on page does not justify altering the source form. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0210:b004:l019",
-      "kind": "unresolved_source",
-      "reason": "Ал эмес, төмөн көп огойго кол салды: огой unclear in attack clause; no unsupported identification with Nogay or other ethnicity. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0212:b003:l016",
-      "kind": "unresolved_source",
-      "reason": "Аркар атса бөздөп ал: argali shooting clause clear but бөздөп unsecured; no conjectural emendation or invented hunting process. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0212:b004:l002",
-      "kind": "unresolved_source",
-      "reason": "Аргымак жалдуу тайкушуң: argamak-mane simile clear but тайкуш not lexically secured; no invented bird species or proper name. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0214:b004:l013",
-      "kind": "unresolved_source",
-      "reason": "Аргымагын чепейтип: same unclear verb as197:3:27; dictionary parallel кекейтип cannot silently replace printed чепейтип. Entire verse retained as unresolved source and not counted as English translation."
-    },
-    {
-      "id": "semetey-1-2013:p0215:b004:l005",
-      "kind": "unresolved_source",
-      "reason": "Танашчу күлүк бар бекен: swift-horse question clear but танашчу remains unverified in racing context. No silent талашчу correction or generic invented contest verb. Entire verse retained as unresolved source and not counted as English translation."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0197:b003:l027"
-      ],
-      "raw": [
-        "Àðãûìàãûí ÷åïåéòèï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0197:b003:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 197,
-          "block": 3,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 512.4597,
-            "xMax": 212.7744,
-            "yMax": 525.6477
-          },
-          "raw": "Àðãûìàãûí ÷åïåéòèï,",
-          "text": "Аргымагын чепейтип,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Аргымагын чепейтип: horse noun clear but чепейтип unverified. Primary parallel кекейтип is not the printed verb; no substitution. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0197:b003:l026",
-      "following_source": "semetey-1-2013:p0197:b003:l028",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0197.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0201:b003:l012"
-      ],
-      "raw": [
-        "×ºé÷ºã¿í ÷ºïêº òîëòóðóï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0201:b003:l012",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 201,
-          "block": 3,
-          "line_in_block": 12,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 299.3397,
-            "xMax": 235.5204,
-            "yMax": 312.5277
-          },
-          "raw": "×ºé÷ºã¿í ÷ºïêº òîëòóðóï,",
-          "text": "Чөйчөгүн чөпкө толтуруп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Чөйчөгүн чөпкө толтуруп: чөйчөк cup/horse rump groove and compound stomach senses exist, but exact anatomy in this feeding verse remains unsecured. No invented crop or stomach ellipsis. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0201:b003:l011",
-      "following_source": "semetey-1-2013:p0201:b003:l013",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0201.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0203:b005:l027"
-      ],
-      "raw": [
-        "Êåëåìå êåðèø, êå¢ ê¿ðìº,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0203:b005:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 203,
-          "block": 5,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 512.4597,
-            "xMax": 469.44,
-            "yMax": 525.6477
-          },
-          "raw": "Êåëåìå êåðèø, êå¢ ê¿ðìº,",
-          "text": "Келеме кериш, кең күрмө,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Келеме кериш, кең күрмө: costly cloth/ornament and loose coat are clear, but кериш in this clothing compound is unsecured. No invented crossweave. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0203:b005:l026",
-      "following_source": "semetey-1-2013:p0203:b005:l028",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0203.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0205:b003:l015"
-      ],
-      "raw": [
-        "È÷êåíèí æîëóí òºòºëºï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0205:b003:l015",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 205,
-          "block": 3,
-          "line_in_block": 15,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 342.0597,
-            "xMax": 227.25,
-            "yMax": 355.2477
-          },
-          "raw": "È÷êåíèí æîëóí òºòºëºï,",
-          "text": "Ичкенин жолун төтөлөп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Ичкенин жолун төтөлөп: route clause clear but Ичкенин unresolved; no invented place or silent ичкери substitution. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0205:b003:l014",
-      "following_source": "semetey-1-2013:p0205:b003:l016",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0205.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0208:b004:l039"
-      ],
-      "raw": [
-        "Áóë È÷êåíèí æîëóí òºòºëºï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0208:b004:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 208,
-          "block": 4,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 682.8597,
-            "xMax": 481.5,
-            "yMax": 696.0477
-          },
-          "raw": "Áóë È÷êåíèí æîëóí òºòºëºï,",
-          "text": "Бул Ичкенин жолун төтөлөп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Бул Ичкенин жолун төтөлөп: Ичкенин unresolved; distinct Ичке жолун earlier on page does not justify altering the source form. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0208:b004:l038",
-      "following_source": "semetey-1-2013:p0209:b003:l001",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0208.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0210:b004:l019"
-      ],
-      "raw": [
-        "Àë ýìåñ, òºìºí êºï îãîéãî êîë ñàëäû."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0210:b004:l019",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 210,
-          "block": 4,
-          "line_in_block": 19,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 398.6997,
-            "xMax": 515.844,
-            "yMax": 411.8877
-          },
-          "raw": "Àë ýìåñ, òºìºí êºï îãîéãî êîë ñàëäû.",
-          "text": "Ал эмес, төмөн көп огойго кол салды.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Ал эмес, төмөн көп огойго кол салды: огой unclear in attack clause; no unsupported identification with Nogay or other ethnicity. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0210:b004:l018",
-      "following_source": "semetey-1-2013:p0210:b004:l020",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0210.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0212:b003:l016"
-      ],
-      "raw": [
-        "Àðêàð àòñà áºçäºï àë,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0212:b003:l016",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 212,
-          "block": 3,
-          "line_in_block": 16,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 356.2197,
-            "xMax": 206.4564,
-            "yMax": 369.4077
-          },
-          "raw": "Àðêàð àòñà áºçäºï àë,",
-          "text": "Аркар атса бөздөп ал,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Аркар атса бөздөп ал: argali shooting clause clear but бөздөп unsecured; no conjectural emendation or invented hunting process. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0212:b003:l015",
-      "following_source": "semetey-1-2013:p0212:b003:l017",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0212.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0212:b004:l002"
-      ],
-      "raw": [
-        "Àðãûìàê æàëäóó òàéêóøó¢,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0212:b004:l002",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 212,
-          "block": 4,
-          "line_in_block": 2,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 157.2597,
-            "xMax": 476.8968,
-            "yMax": 170.4477
-          },
-          "raw": "Àðãûìàê æàëäóó òàéêóøó¢,",
-          "text": "Аргымак жалдуу тайкушуң,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Аргымак жалдуу тайкушуң: argamak-mane simile clear but тайкуш not lexically secured; no invented bird species or proper name. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0212:b004:l001",
-      "following_source": "semetey-1-2013:p0212:b004:l003",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0212.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0214:b004:l013"
-      ],
-      "raw": [
-        "Àðãûìàãûí ÷åïåéòèï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0214:b004:l013",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 214,
-          "block": 4,
-          "line_in_block": 13,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 313.4997,
-            "xMax": 440.7744,
-            "yMax": 326.6877
-          },
-          "raw": "Àðãûìàãûí ÷åïåéòèï,",
-          "text": "Аргымагын чепейтип,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Аргымагын чепейтип: same unclear verb as197:3:27; dictionary parallel кекейтип cannot silently replace printed чепейтип. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0214:b004:l012",
-      "following_source": "semetey-1-2013:p0214:b004:l014",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0214.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0215:b004:l005"
-      ],
-      "raw": [
-        "Òàíàø÷ó ê¿ë¿ê áàð áåêåí?"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0215:b004:l005",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 215,
-          "block": 4,
-          "line_in_block": 5,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 199.9797,
-            "xMax": 468.3084,
-            "yMax": 213.1677
-          },
-          "raw": "Òàíàø÷ó ê¿ë¿ê áàð áåêåí?",
-          "text": "Танашчу күлүк бар бекен?",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Танашчу күлүк бар бекен: swift-horse question clear but танашчу remains unverified in racing context. No silent талашчу correction or generic invented contest verb. Entire verse retained as unresolved source and not counted as English translation.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0215:b004:l004",
-      "following_source": "semetey-1-2013:p0215:b004:l006",
-      "rendered_page": "tmp/pdfs/semetey1-0196-0215/page-0215.png"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "notes": {
@@ -2228,6 +1847,7 @@
     "semetey-1-2013:p0197:b003:l012": "Historical Sart ethnonym and narrator's judgments retained, not endorsed; four peoples beside eight khans left unchanged.",
     "semetey-1-2013:p0197:b003:l019": "чом padding used instead of a saddle; no invented camel mounts.",
     "semetey-1-2013:p0197:b003:l022": "Primary Yudakhin каңкы/ак каңкы saddle, especially rawhide-covered; literal white retained as epithet.",
+    "semetey-1-2013:p0197:b003:l027": "Аргымагын чепейтип: horse noun clear but чепейтип unverified. Primary parallel кекейтип is not the printed verb; no substitution. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0197:b003:l029": "Primary Yudakhin тепейт- exact көк кепичин тепейтип = small blue overshoes projecting (dictionary mentions stirrups); https://el-sozduk.kg/тепей/. No unsupported correction of preceding чепейтип to parallel кекейтип.",
     "semetey-1-2013:p0197:b003:l030": "Printed memorial feast for Manas and celebration for Semetey both retained.",
     "semetey-1-2013:p0197:b004:l003": "ырым auspicious omen here horse race as divination; no extra ritual invented.",
@@ -2309,6 +1929,7 @@
     "semetey-1-2013:p0200:b004:l038": "Primary Yudakhin таң ашыр- leave horse standing overnight to cool/condition, not ride until morning.",
     "semetey-1-2013:p0201:b003:l003": "кыбыла direction of prayer rendered qibla, not earlier кутба north. Star-motion image preserved, no modern astronomical correction.",
     "semetey-1-2013:p0201:b003:l010": "от grass/pasture here, not fire.",
+    "semetey-1-2013:p0201:b003:l012": "Чөйчөгүн чөпкө толтуруп: чөйчөк cup/horse rump groove and compound stomach senses exist, but exact anatomy in this feeding verse remains unsecured. No invented crop or stomach ellipsis. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0201:b003:l014": "CORRECTION supersedes earlier bare-belly note: primary Yudakhin таз I exact тулпардын таз кардын чөпкө толтуруп = feeding horse stomach fully with grass; anatomical таз карын horse stomach, English stomach.",
     "semetey-1-2013:p0201:b003:l015": "Printed ten fescues and eighty grasses retained as abundance formula, not collapsed to various grasses.",
     "semetey-1-2013:p0201:b003:l017": "кара суу spring-fed water in this grazing context, not black pollution.",
@@ -2368,6 +1989,7 @@
     "semetey-1-2013:p0203:b005:l020": "арттагы descendant/successor, not necessarily a named child supplied in source line.",
     "semetey-1-2013:p0203:b005:l024": "Shoulder-blade placement of sword retained.",
     "semetey-1-2013:p0203:b005:l026": "Double mail/lark-eye rings source armor metaphor kept alongside cotton coat; not replaced with generic golden robe.",
+    "semetey-1-2013:p0203:b005:l027": "Келеме кериш, кең күрмө: costly cloth/ornament and loose coat are clear, but кериш in this clothing compound is unsecured. No invented crossweave. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0203:b005:l028": "Primary Yudakhin суп fine cotton/calico cloth; printed чепкен coat, not wool automatically. Adjacent mail/metal and cloth layers left unreconciled.",
     "semetey-1-2013:p0203:b005:l031": "Gray Belt celestial origin preserved alongside earlier possession by Manas.",
     "semetey-1-2013:p0203:b005:l036": "Red-whipped Shypshaydar epithet literal; parentage and maternal-uncle relation kept in printed order pending nextpage continuation.",
@@ -2397,6 +2019,7 @@
     "semetey-1-2013:p0205:b003:l007": "Two кулач armspans/fathoms retained without exact metric conversion.",
     "semetey-1-2013:p0205:b003:l009": "Primary окто I=нокто halter; окоро special braid; not projectile/loading homonym.",
     "semetey-1-2013:p0205:b003:l014": "Sheep-like galloping comparison of Akborchuk retained despite horse not sheep.",
+    "semetey-1-2013:p0205:b003:l015": "Ичкенин жолун төтөлөп: route clause clear but Ичкенин unresolved; no invented place or silent ичкери substitution. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0205:b003:l024": "One verse wraps24–25; every physical fragment retained, not two English verses. Indented continuation inspected in PDF and joined with one space as one printed verse; physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0205:b003:l026": "Printed кэп context көп many, raw unchanged; no new speech count.",
     "semetey-1-2013:p0205:b003:l028": "Ninety-five elder age retained, not adjusted to different age elsewhere; quote supplied from first person.",
@@ -2465,6 +2088,7 @@
     "semetey-1-2013:p0208:b004:l028": "Primary будурмак dome-shaped knoll; willow on knoll interpreted elliptic location, not unsupported gnarled wood. Rhymed willow-cutting/admonishing daughter parallel retained.",
     "semetey-1-2013:p0208:b004:l031": "Primary адырмактуу hilly and адыр hill; willow on hillside contextual location, not invented botanical species.",
     "semetey-1-2013:p0208:b004:l036": "ике кый- variant нике кый- perform marriage, not cutting a child or two things.",
+    "semetey-1-2013:p0208:b004:l039": "Бул Ичкенин жолун төтөлөп: Ичкенин unresolved; distinct Ичке жолун earlier on page does not justify altering the source form. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0209:b003:l003": "Lumbering/floundering horse imagery conditional, no invented injury.",
     "semetey-1-2013:p0209:b003:l008": "Devour in reputational/political threat metaphor, retained not claimed literal cannibalism.",
     "semetey-1-2013:p0209:b003:l015": "Primary Yudakhin эки exact эки болбойт comes to no good; not cannot reproduce/double, root verified154 parallel.",
@@ -2498,6 +2122,7 @@
     "semetey-1-2013:p0210:b004:l011": "калдай imposing/large via калдай-3 in stock head-as-banner formula; pronoun her from following woman's self. Does not invent literal severed official's head. Provisional compressed epithet reading; primary https://el-sozduk.kg/калдай/.",
     "semetey-1-2013:p0210:b004:l017": "Forty nobles армylikecomparison retained, not40thousand or exactly40soldiers.",
     "semetey-1-2013:p0210:b004:l018": "Capitalized Ombu place/polity retained as source name, not asserted modern Omsk. Printed took ten lacks explicit object; no tribute/warriors invented.",
+    "semetey-1-2013:p0210:b004:l019": "Ал эмес, төмөн көп огойго кол салды: огой unclear in attack clause; no unsupported identification with Nogay or other ethnicity. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Low-confidence approximate rendering for “Ал эмес, төмөн көп огойго кол салды.”; nearest corpus parallel was “Ал Сейтекке кол салды.”.",
     "semetey-1-2013:p0210:b004:l020": "A thousand black-eyed ones kept, not specifying women or slaves absent here.",
     "semetey-1-2013:p0210:b004:l021": "Primary Yudakhin бил I elephant, дилде gold coins; not waist loads or only gold color.",
     "semetey-1-2013:p0210:b004:l022": "Forty-two сан host units retained, no unverified multiplier.",
@@ -2526,12 +2151,14 @@
     "semetey-1-2013:p0212:b003:l011": "Printed eight hundred households retained despite earlier seven hundred; no harmonization.",
     "semetey-1-2013:p0212:b003:l012": "Жан кордугу paired with мал кордугу, lack of attendants/people provisionally, rather than denying emotional abuse.",
     "semetey-1-2013:p0212:b003:l013": "Төрт түлүк traditional four categories of livestock; count retained without imposing a species list.",
+    "semetey-1-2013:p0212:b003:l016": "Аркар атса бөздөп ал: argali shooting clause clear but бөздөп unsecured; no conjectural emendation or invented hunting process. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Low-confidence approximate rendering for “Аркар атса бөздөп ал,”; nearest corpus parallel was “Аркар айдап акактап,”.",
     "semetey-1-2013:p0212:b003:l019": "Көздөп ал select/aim at among named entrants; four retained though later leave two/take one counts differently.",
     "semetey-1-2013:p0212:b003:l023": "Башы менен context horse itself together with prize, not severed head.",
     "semetey-1-2013:p0212:b003:l026": "Argamak retained established horse breed/type designation; Karakashka proper horse name.",
     "semetey-1-2013:p0212:b003:l027": "Leave two/take one retained despite preceding four horses; no reconciliation.",
     "semetey-1-2013:p0212:b003:l035": "Такыр bare/barren; tying-post simile retained, not invented baldness alone.",
     "semetey-1-2013:p0212:b004:l001": "Ардан- shame/wounded honor; continued proud woman clause not laughter.",
+    "semetey-1-2013:p0212:b004:l002": "Аргымак жалдуу тайкушуң: argamak-mane simile clear but тайкуш not lexically secured; no invented bird species or proper name. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Low-confidence approximate rendering for “Аргымак жалдуу тайкушуң,”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”.",
     "semetey-1-2013:p0212:b004:l008": "Сай-сөөк deep bodily grief literally bones; poetic separation retained.",
     "semetey-1-2013:p0212:b004:l012": "Crane/goshawk predation images retained; addressee shifts between fate/deity and father not normalized.",
     "semetey-1-2013:p0212:b004:l016": "Куш hunting bird in predatory contrast to swan; no invented exact species.",
@@ -2570,6 +2197,7 @@
     "semetey-1-2013:p0214:b004:l006": "Жон ridge sense provisional in wider crowd description; source also back. No silent substitution with numbered crowd.",
     "semetey-1-2013:p0214:b004:l009": "Primary Yudakhin чом=ком camel pack pad/saddle, also ragged garment figurative. Saddle absence/tack context favors pack-pad riding; exact application to horses provisional.",
     "semetey-1-2013:p0214:b004:l012": "Absence of cruppers retained despite earlier rope cruppers; no reconciliation.",
+    "semetey-1-2013:p0214:b004:l013": "Аргымагын чепейтип: same unclear verb as197:3:27; dictionary parallel кекейтип cannot silently replace printed чепейтип. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0214:b004:l014": "Primary Yudakhin тепейт- quotes көк кепичин тепейтип blue overshoes sticking out on stirrups. Adjacent primary horse verb кекейтип does not justify emending printed чепейтип, withheld separately.",
     "semetey-1-2013:p0214:b004:l028": "Missing visible referent in dust/crowd clause retained generically as things; no invented rider name.",
     "semetey-1-2013:p0214:b004:l032": "Source gender contrast retained as narrator's historical phrasing.",
@@ -2580,6 +2208,7 @@
     "semetey-1-2013:p0215:b003:l035": "Дүйнө бок coarse curse retained rather than sanitized.",
     "semetey-1-2013:p0215:b003:l038": "Көзү ачык insight/clairvoyant capacity; seeing eyes preserves both appraisal and visionary register without expert certification.",
     "semetey-1-2013:p0215:b004:l002": "Lungs wrenched out hyperbolic exertion/competition image retained, not made clinical.",
+    "semetey-1-2013:p0215:b004:l005": "Танашчу күлүк бар бекен: swift-horse question clear but танашчу remains unverified in racing context. No silent талашчу correction or generic invented contest verb. Entire verse retained as unresolved source and not counted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0215:b004:l006": "Амыз honor, prior primary support; not enmity.",
     "semetey-1-2013:p0215:b004:l010": "Akborchuk established proper horse name. Бир салып urging/striking once; no inferred firearm despite other contexts naming weapons.",
     "semetey-1-2013:p0215:b004:l014": "Көйкашка exceptional/outstanding, primary Yudakhin; not forehead blaze in this idiom.",
@@ -2625,16 +2254,32 @@
     "method": "same-agent-source-English-comparison",
     "scope": "Every physical fragment across 196–215 accounted by translated source groups, ten unresolved exclusions,44 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, poetic incongruities, coarse curses and numeral discrepancies retained.",
     "targeted_qa": {
-      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
-      "page_range": [200, 209], "rows_checked": 770,
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        200,
+        209
+      ],
+      "rows_checked": 770,
       "details": "Audited all 770 included narrative rows on pages 200 through 209; the existing English rows were semantically sound and correctly aligned. Pages 196 through 199 and 210 through 215 were outside this targeted audit."
     },
-    "targeted_qa_0210_0215": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[210,215],"rows_checked":462,"details":"Audited all 462 included narrative rows on printed pages 210 through 215 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 196–209 were outside this scoped pass."}
+    "targeted_qa_0210_0215": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        210,
+        215
+      ],
+      "rows_checked": 462,
+      "details": "Audited all 462 included narrative rows on printed pages 210 through 215 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 196–209 were outside this scoped pass."
+    }
   },
   "counts": {
-    "english_verse_rows": 1541,
-    "english_words": 8668,
-    "unresolved_source_rows": 10,
+    "english_verse_rows": 1551,
+    "english_words": 8729,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1559,
     "reconstructed_source_verses": 1551,
     "wrapped_verse_groups": 8,
@@ -2649,5 +2294,6 @@
     "source_words": 5105,
     "english_words": 8668,
     "all_source_verse_words": 5141
-  }
+  },
+  "source_joiners": {}
 }

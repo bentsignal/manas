@@ -118,6 +118,7 @@
     "semetey-1-2013:p0696:b003:l035",
     "semetey-1-2013:p0696:b003:l036",
     "semetey-1-2013:p0696:b003:l037",
+    "semetey-1-2013:p0696:b003:l038",
     "semetey-1-2013:p0696:b003:l039",
     "semetey-1-2013:p0696:b004:l001",
     "semetey-1-2013:p0696:b004:l002",
@@ -158,6 +159,8 @@
     "semetey-1-2013:p0696:b004:l037",
     "semetey-1-2013:p0696:b004:l038",
     "semetey-1-2013:p0696:b004:l039",
+    "semetey-1-2013:p0697:b003:l001",
+    "semetey-1-2013:p0697:b003:l002",
     "semetey-1-2013:p0697:b003:l003",
     "semetey-1-2013:p0697:b003:l004",
     "semetey-1-2013:p0697:b003:l005",
@@ -488,6 +491,7 @@
     "semetey-1-2013:p0701:b004:l020",
     "semetey-1-2013:p0701:b004:l021",
     "semetey-1-2013:p0701:b004:l022",
+    "semetey-1-2013:p0701:b004:l023",
     "semetey-1-2013:p0701:b004:l024",
     "semetey-1-2013:p0701:b004:l025",
     "semetey-1-2013:p0701:b004:l026",
@@ -577,6 +581,7 @@
     "semetey-1-2013:p0702:b003:l036",
     "semetey-1-2013:p0702:b003:l037",
     "semetey-1-2013:p0702:b003:l038",
+    "semetey-1-2013:p0702:b003:l039",
     "semetey-1-2013:p0702:b004:l001",
     "semetey-1-2013:p0702:b004:l002",
     "semetey-1-2013:p0702:b004:l003",
@@ -677,6 +682,7 @@
     "semetey-1-2013:p0703:b004:l020",
     "semetey-1-2013:p0703:b004:l021",
     "semetey-1-2013:p0703:b004:l022",
+    "semetey-1-2013:p0703:b004:l023",
     "semetey-1-2013:p0703:b004:l024",
     "semetey-1-2013:p0703:b004:l025",
     "semetey-1-2013:p0703:b004:l026",
@@ -689,7 +695,9 @@
     "semetey-1-2013:p0703:b004:l033",
     "semetey-1-2013:p0703:b004:l034",
     "semetey-1-2013:p0703:b004:l035",
+    "semetey-1-2013:p0703:b004:l036",
     "semetey-1-2013:p0703:b004:l037",
+    "semetey-1-2013:p0703:b004:l039",
     "semetey-1-2013:p0704:b003:l001",
     "semetey-1-2013:p0704:b003:l002",
     "semetey-1-2013:p0704:b003:l003",
@@ -710,6 +718,7 @@
     "semetey-1-2013:p0704:b003:l018",
     "semetey-1-2013:p0704:b003:l019",
     "semetey-1-2013:p0704:b003:l020",
+    "semetey-1-2013:p0704:b003:l021",
     "semetey-1-2013:p0704:b003:l022",
     "semetey-1-2013:p0704:b003:l023",
     "semetey-1-2013:p0704:b003:l024",
@@ -800,6 +809,8 @@
     "semetey-1-2013:p0705:b003:l032",
     "semetey-1-2013:p0705:b003:l033",
     "semetey-1-2013:p0705:b003:l034",
+    "semetey-1-2013:p0705:b003:l035",
+    "semetey-1-2013:p0705:b003:l036",
     "semetey-1-2013:p0705:b003:l037",
     "semetey-1-2013:p0705:b003:l038",
     "semetey-1-2013:p0705:b003:l039",
@@ -836,6 +847,7 @@
     "semetey-1-2013:p0705:b005:l031",
     "semetey-1-2013:p0705:b005:l032",
     "semetey-1-2013:p0705:b005:l033",
+    "semetey-1-2013:p0705:b005:l034",
     "semetey-1-2013:p0705:b005:l035",
     "semetey-1-2013:p0705:b005:l036",
     "semetey-1-2013:p0705:b005:l037",
@@ -1240,6 +1252,7 @@
     "semetey-1-2013:p0711:b003:l023",
     "semetey-1-2013:p0711:b003:l024",
     "semetey-1-2013:p0711:b003:l025",
+    "semetey-1-2013:p0711:b003:l026",
     "semetey-1-2013:p0711:b003:l027",
     "semetey-1-2013:p0711:b003:l028",
     "semetey-1-2013:p0711:b003:l029",
@@ -1313,6 +1326,8 @@
     "semetey-1-2013:p0712:b003:l020",
     "semetey-1-2013:p0712:b003:l021",
     "semetey-1-2013:p0712:b003:l022",
+    "semetey-1-2013:p0712:b003:l023",
+    "semetey-1-2013:p0712:b003:l024",
     "semetey-1-2013:p0712:b003:l025",
     "semetey-1-2013:p0712:b003:l026",
     "semetey-1-2013:p0712:b003:l027",
@@ -1321,6 +1336,7 @@
     "semetey-1-2013:p0712:b003:l030",
     "semetey-1-2013:p0712:b003:l031",
     "semetey-1-2013:p0712:b003:l032",
+    "semetey-1-2013:p0712:b003:l033",
     "semetey-1-2013:p0712:b003:l034",
     "semetey-1-2013:p0712:b003:l035",
     "semetey-1-2013:p0712:b003:l036",
@@ -1375,6 +1391,7 @@
     "semetey-1-2013:p0713:b003:l007",
     "semetey-1-2013:p0713:b003:l008",
     "semetey-1-2013:p0713:b003:l009",
+    "semetey-1-2013:p0713:b003:l010",
     "semetey-1-2013:p0713:b003:l011",
     "semetey-1-2013:p0713:b003:l012",
     "semetey-1-2013:p0713:b003:l013",
@@ -1492,6 +1509,7 @@
     "semetey-1-2013:p0714:b004:l008",
     "semetey-1-2013:p0714:b004:l009",
     "semetey-1-2013:p0714:b004:l010",
+    "semetey-1-2013:p0714:b004:l011",
     "semetey-1-2013:p0714:b004:l012",
     "semetey-1-2013:p0714:b004:l013",
     "semetey-1-2013:p0714:b004:l014",
@@ -1573,8 +1591,11 @@
     "semetey-1-2013:p0696:b003:l015": "Breast touching retained as reported narrative, not omitted or expanded.",
     "semetey-1-2013:p0696:b003:l031": "Hat stone/button marks Chinese official rank; жаң-жуң general. Refusal of general rank distinct from request khanate. Primary ташI5 used in earlier verified lexical review. Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0696:b003:l036": "Атка кон- here gain name/renown parallel next fame line, not literal first mounting horse despite already riding.",
+    "semetey-1-2013:p0696:b003:l038": "Whole verse held: кандай биле элек elliptical object/reference unresolved; do not invent ignorance of religion from nextverse. Completion-first first pass: Low-confidence approximate rendering for “Анда Алмаң кандай биле элек,”; nearest corpus parallel was “Анда Манас боло элек,”.",
     "semetey-1-2013:p0696:b004:l004": "Final lexical/syntactic reading башта from first +бек firm, selfidentification Muslim before urging Almam conversion. Awkward source comma retained in Kyrgyz, no emend.",
     "semetey-1-2013:p0696:b004:l038": "Primary оройI ancestral spirit; exact орою актан жаралган pure by birth, conventionallybornMuslim. Source plural оройлор retained as ancestral spirits and pureborn literal, not silently changed to singular speaker or automatic Muslim birth statement.",
+    "semetey-1-2013:p0697:b003:l001": "Whole verse held pending Урдун referent in paired son/daughter clause; do not invent heavenly houri descent without primary. Whole verse held with paired Урдун son/daughter ambiguity; precise primary needed. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0697:b003:l002": "Whole verse held pending Урдун referent in paired son/daughter clause; do not invent heavenly houri descent without primary. Whole verse held with paired Урдун son/daughter ambiguity; precise primary needed. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0697:b003:l004": "Friday and Night of Power both explicit; no calendrical correction.",
     "semetey-1-2013:p0697:b003:l006": "Thumb-small/louse-small childhood language retained as dreamed union, not invented adult marriage date.",
     "semetey-1-2013:p0697:b003:l010": "Final pairreview restores lionreference10 and heart11 rather than moving heart into10; retrospective departedlion descriptor preserved within flashback.",
@@ -1601,19 +1622,25 @@
     "semetey-1-2013:p0700:b004:l014": "Nar retained camel type, not assume two-humped.",
     "semetey-1-2013:p0700:b004:l016": "Twelve years mourning repeated source narrative, not harmonized with child six.",
     "semetey-1-2013:p0700:b004:l040": "Page has40 right-column physical lines; final verse independent, no fixed39-row truncation.",
+    "semetey-1-2013:p0701:b004:l023": "Whole verse held: Намазын жанга бербеген exact source prayer-object problematic in praise formula; no silent normalization намысын. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0701:b004:l030": "Printed Чыла п internal space retained exact raw/text; translation reads ordinary чылап steeped in poison formula, qualified spacing normalization only.",
     "semetey-1-2013:p0701:b005:l029": "Cock comparison literal короздой, not silently generic falcon.",
     "semetey-1-2013:p0701:b005:l035": "Children use old cap as kokboru prize instead of goat carcass; no animal inserted.",
     "semetey-1-2013:p0702:b003:l027": "Bridle saved for lion’s horse metaphor for child preserved.",
     "semetey-1-2013:p0702:b003:l035": "White antelope hair simile retained pending final idiomatic review; no wool/milk substitution.",
     "semetey-1-2013:p0702:b003:l036": "Exact primary Yudakhin суурулуш- акбөкөндүнкылындайсуурулушупкалышты became heartfeltfriends; retains preceding hairsimile and rendersidiom here insteadof literal drawingtogether.",
+    "semetey-1-2013:p0702:b003:l039": "Whole verse held afterreview: чынар plane tree/protector primary does not securely yield bright adjective in Ободо чынар жылдыздай. Exact adjacent жошулуш stars idiom lacks чынар; do not silently dropword or emend to чолпон. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0702:b004:l001": "Exact primary жошулуш- ободогужылдыздайжошулушупкалышты caressedoneanother likeheavenlystars; corrected fromliteral streamed.",
     "semetey-1-2013:p0702:b004:l013": "Exact эмес contrast retained notbirchesbutwillows; draft notonly wronglyassertedbothspecieswept. Next карагандын canwatchers orcaragana, contextual allwatchers adopted with treepunpossible.",
     "semetey-1-2013:p0702:b004:l026": "Жобо lament/complaint in context; no invented legal regulation.",
     "semetey-1-2013:p0702:b004:l027": "Finalpairreview restores parched/waterless27 and wretchdesert28; no swappedwholeversechunks.",
     "semetey-1-2013:p0702:b004:l031": "Казанат noble steed epithet for khan, retained metaphor.",
     "semetey-1-2013:p0703:b003:l021": "Primary каранII exact каранкүн misfortune-day/cursed life. Printed concatenated Карангүн qualified orthographic variant; lament interjection matches context, not modern place-name.",
+    "semetey-1-2013:p0703:b004:l023": "Whole verse held: Айкараңгыкүнүмжаз moon/monthdark and spring/day phrase unresolved in weakness context, no invented seasonalmeaning. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0703:b004:l036": "Whole verse held: Сүйүрмө bodypart/form cannot be securely identified in milkfilling childhood clause; no invented bone/teeth. Completion-first first pass: Low-confidence approximate rendering for “Сүйүрмө сүттөн толо элек,”; nearest corpus parallel was “Кабырга сөөгү толо элек,”.",
     "semetey-1-2013:p0703:b004:l037": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
+    "semetey-1-2013:p0703:b004:l039": "Whole verse held: Ийирме bodypart/form unresolved in meatfilling childhood clause; no automatictwenty fromsimilarword. Completion-first first pass: Low-confidence approximate rendering for “Ийирме эттен толо элек,”; nearest corpus parallel was “Балтыр эти толо элек,”.",
+    "semetey-1-2013:p0704:b003:l021": "Whole verse held: Коен туяк in hand may be named whip or implement, but primary коён entry gives no secure compound; no invented rabbit-foot whip. Earlier574 held same per root. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0704:b003:l028": "Ириңдеп pus/festering literal, finalreview restores severity insteadof merely inflamed.",
     "semetey-1-2013:p0704:b003:l038": "Primary күмүрөй dark/gloomy, figurative hopeless/burdensome; direct darken-my-blood metaphor preserved with following darken soul. No medical meaning. Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0704:b004:l002": "Primary күмүрөй gloomy/hopeless applied figuratively to soul; paired blood/soul preserved.",
@@ -1622,11 +1649,14 @@
     "semetey-1-2013:p0705:b003:l017": "Primary бадана exact кош бадана торгойкөз doublemail small rings like lark eyes.",
     "semetey-1-2013:p0705:b003:l018": "Primary келемеII бото type outergarment, кеңкүрмө broadjacket; no invented camel.",
     "semetey-1-2013:p0705:b003:l029": "Silk weft explicit; white суп cloth fiber not otherwise specified, no automatic cotton claim.",
+    "semetey-1-2013:p0705:b003:l035": "Whole verse held: байбалуу trousercuff qualifier not found in primary; no unverified braid/fringe. Whole verse held: каргы primary collar for dog, no secure garment sense in silk embroidered trouser clause. Completion-first first pass: Low-confidence approximate rendering for “Жибектен каргы саймалуу.”; nearest corpus parallel was “Багалагы саймалуу.”.",
+    "semetey-1-2013:p0705:b003:l036": "Whole verse held: байбалуу trousercuff qualifier not found in primary; no unverified braid/fringe. Whole verse held: каргы primary collar for dog, no secure garment sense in silk embroidered trouser clause. Completion-first first pass: Low-confidence approximate rendering for “Жибектен каргы саймалуу.”; nearest corpus parallel was “Багалагы саймалуу.”.",
     "semetey-1-2013:p0705:b003:l037": "Сарала yellowmottled textile as literal pattern; costly weft explicit; no invented fiber.",
     "semetey-1-2013:p0705:b005:l002": "Тиштеген literal bitten used sewingwork context; rendered stitching, no claim mother bites wholetrousers.",
     "semetey-1-2013:p0705:b005:l004": "Primary шили necksinew; stretchedlike sinew literal simile, paired gluecontract6.",
     "semetey-1-2013:p0705:b005:l008": "Primary милте2 sewnpiping and талдыр- dazzling beauty exact көздүнжоосунталдырган. Eye supplied idiomatically for implicit visual result; not gunwick.",
     "semetey-1-2013:p0705:b005:l019": "Primary маша-IV skillful making/repair, exact ашаганданмашаган makerformula; source Жасаганданмашаган differs and retained, rendered consummatecraft without emend.",
+    "semetey-1-2013:p0705:b005:l034": "Whole verse held: Канатын literally wing/section in provisioning context may be typo for кантын sugar, but no silent deletion of vowel; no invented sugar supplied. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0705:b005:l037": "Primary баглан exact багланкозуширинбашборкайнатып quotation weaned lamb and tasty head boiled untilready. Replaces generic fat/tender with supported terms.",
     "semetey-1-2013:p0706:b004:l021": "Semetey offers Kanykei as wife to Abyke, source younghero plan preserved, not endorsement or completed event.",
     "semetey-1-2013:p0706:b004:l023": "Long repeated conditional-vow clauses retained without inventing unprinted oath penalty.",
@@ -1656,6 +1686,7 @@
     "semetey-1-2013:p0711:b003:l007": "Karabair type +капканбел traplike strongback horseepithet; literal metaphor retained.",
     "semetey-1-2013:p0711:b003:l011": "Оорук baggage/reartrain militarycontext, not sicknessnoun; оорубас neverails.",
     "semetey-1-2013:p0711:b003:l015": "Saikal and Kardygach both named in recollection; later singular femalehero is Kardygach.",
+    "semetey-1-2013:p0711:b003:l026": "Whole verse held afterprimaryreview: кына-III firmlypress/fit but Zulpukorconstruction notsecurelywieldfittingly. Prior draft overgeneralized exact action; no invented sheathing/thrust. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0711:b003:l028": "Forty-one days source explicit, laternineandsixty notharmonized.",
     "semetey-1-2013:p0711:b003:l031": "Уйпалгыр -гырcurse form, accursedone insteadof unsupported fearsomeadjective; exact emotionalepithet, notliteralphysicaldishevelingevent.",
     "semetey-1-2013:p0711:b004:l012": "Handleleavingwrist and heartcoveringfalling literal fearmetaphors retained, no modernmedicaldiagnosis.",
@@ -1663,8 +1694,12 @@
     "semetey-1-2013:p0711:b004:l034": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0712:b003:l007": "Баргек adornment/preciouscharge, not bird.",
     "semetey-1-2013:p0712:b003:l018": "Primary илек countless multitude, no fixed numericsubstitution.",
+    "semetey-1-2013:p0712:b003:l023": "Whole verse held: death-time биржемек literaloneeating versus idiomatic finalclash unresolved; not padded. Whole verse held: Жаратканишибирдемек syntax/elliptical divinework assertion unresolved, keep sourcecomplete. Completion-first first pass: Low-confidence approximate rendering for “Жараткан иши бир демек,”; nearest corpus parallel was “Жараткан өзү билбесе,”.",
+    "semetey-1-2013:p0712:b003:l024": "Whole verse held: death-time биржемек literaloneeating versus idiomatic finalclash unresolved; not padded. Whole verse held: Жаратканишибирдемек syntax/elliptical divinework assertion unresolved, keep sourcecomplete. Completion-first first pass: Low-confidence approximate rendering for “Жараткан иши бир демек,”; nearest corpus parallel was “Жараткан өзү билбесе,”.",
+    "semetey-1-2013:p0712:b003:l033": "Whole verse held afterprimarycheck: Улукман headwordLuqman/sage, unclear modifierofBeijing here. Do not transliterateunknownword asplacename toavoid translatingit. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0712:b004:l014": "Twelvefathom spear literal hyperbole, no metricconversion.",
     "semetey-1-2013:p0712:b004:l025": "Source female warrior dressesmasculinely, hairboundunderhelmet; gender description retained, no identityspeculation.",
+    "semetey-1-2013:p0713:b003:l010": "Whole verse held: Коентаяк literal hare/rabbitstick may same namedimplement as704, no secure glossary. Do not silently туяк-emend. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0713:b003:l019": "Kambarlike Zhakyp sourcecomparison, no invented saintidentity.",
     "semetey-1-2013:p0713:b003:l022": "Kickingoutwomb literalbirthhyperbole retained.",
     "semetey-1-2013:p0713:b003:l031": "Seventeen historicalbattleage source, no currentageinvented.",
@@ -1679,6 +1714,7 @@
     "semetey-1-2013:p0714:b003:l021": "Paintedspear, not alleged firearm.",
     "semetey-1-2013:p0714:b003:l028": "Burut outsiderethnonymforKyrgyz, babblinghostileepithet quoted; nottranslatorview.",
     "semetey-1-2013:p0714:b003:l037": "Битте castrate animalturningstalliontoridinghorse; same7144:3malecamel, no licepurginginterpretation.",
+    "semetey-1-2013:p0714:b004:l011": "Whole verse held: санкара referent treasury/store/official not securely verified; Beijingplaceknown but no partialpadding. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0714:b004:l021": "Red sash madeinBeijing contextpreparingforwar, notredbeltethnicidentity.",
     "semetey-1-2013:p0714:b004:l039": "Included finalboundary narrationintroducesBakai recollection continuing715Kyrgylslander; source715readKYonlyforcontext."
   },
@@ -1932,658 +1968,9 @@
       "id": "semetey-1-2013:p0714:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0696:b003:l038",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: кандай биле элек elliptical object/reference unresolved; do not invent ignorance of religion from nextverse."
-    },
-    {
-      "id": "semetey-1-2013:p0697:b003:l001",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held pending Урдун referent in paired son/daughter clause; do not invent heavenly houri descent without primary."
-    },
-    {
-      "id": "semetey-1-2013:p0697:b003:l002",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held with paired Урдун son/daughter ambiguity; precise primary needed."
-    },
-    {
-      "id": "semetey-1-2013:p0701:b004:l023",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Намазын жанга бербеген exact source prayer-object problematic in praise formula; no silent normalization намысын."
-    },
-    {
-      "id": "semetey-1-2013:p0702:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held afterreview: чынар plane tree/protector primary does not securely yield bright adjective in Ободо чынар жылдыздай. Exact adjacent жошулуш stars idiom lacks чынар; do not silently dropword or emend to чолпон."
-    },
-    {
-      "id": "semetey-1-2013:p0703:b004:l023",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Айкараңгыкүнүмжаз moon/monthdark and spring/day phrase unresolved in weakness context, no invented seasonalmeaning."
-    },
-    {
-      "id": "semetey-1-2013:p0703:b004:l036",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Сүйүрмө bodypart/form cannot be securely identified in milkfilling childhood clause; no invented bone/teeth."
-    },
-    {
-      "id": "semetey-1-2013:p0703:b004:l039",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Ийирме bodypart/form unresolved in meatfilling childhood clause; no automatictwenty fromsimilarword."
-    },
-    {
-      "id": "semetey-1-2013:p0704:b003:l021",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Коен туяк in hand may be named whip or implement, but primary коён entry gives no secure compound; no invented rabbit-foot whip. Earlier574 held same per root."
-    },
-    {
-      "id": "semetey-1-2013:p0705:b003:l035",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: байбалуу trousercuff qualifier not found in primary; no unverified braid/fringe."
-    },
-    {
-      "id": "semetey-1-2013:p0705:b003:l036",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: каргы primary collar for dog, no secure garment sense in silk embroidered trouser clause."
-    },
-    {
-      "id": "semetey-1-2013:p0705:b005:l034",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Канатын literally wing/section in provisioning context may be typo for кантын sugar, but no silent deletion of vowel; no invented sugar supplied."
-    },
-    {
-      "id": "semetey-1-2013:p0711:b003:l026",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held afterprimaryreview: кына-III firmlypress/fit but Zulpukorconstruction notsecurelywieldfittingly. Prior draft overgeneralized exact action; no invented sheathing/thrust."
-    },
-    {
-      "id": "semetey-1-2013:p0712:b003:l023",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: death-time биржемек literaloneeating versus idiomatic finalclash unresolved; not padded."
-    },
-    {
-      "id": "semetey-1-2013:p0712:b003:l024",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Жаратканишибирдемек syntax/elliptical divinework assertion unresolved, keep sourcecomplete."
-    },
-    {
-      "id": "semetey-1-2013:p0712:b003:l033",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held afterprimarycheck: Улукман headwordLuqman/sage, unclear modifierofBeijing here. Do not transliterateunknownword asplacename toavoid translatingit."
-    },
-    {
-      "id": "semetey-1-2013:p0713:b003:l010",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Коентаяк literal hare/rabbitstick may same namedimplement as704, no secure glossary. Do not silently туяк-emend."
-    },
-    {
-      "id": "semetey-1-2013:p0714:b004:l011",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: санкара referent treasury/store/official not securely verified; Beijingplaceknown but no partialpadding."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0696:b003:l038"
-      ],
-      "raw": [
-        "Àíäà Àëìà¢ êàíäàé áèëå ýëåê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0696:b003:l038",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 696,
-          "block": 3,
-          "line_in_block": 38,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 668.6997,
-            "xMax": 261.018,
-            "yMax": 681.8877
-          },
-          "raw": "Àíäà Àëìà¢ êàíäàé áèëå ýëåê,",
-          "text": "Анда Алмаң кандай биле элек,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: кандай биле элек elliptical object/reference unresolved; do not invent ignorance of religion from nextverse.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0697:b003:l001"
-      ],
-      "raw": [
-        "Óðäóí óóëó ñåí áîëäó¢,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0697:b003:l001",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 697,
-          "block": 3,
-          "line_in_block": 1,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 143.0997,
-            "xMax": 220.6392,
-            "yMax": 156.2877
-          },
-          "raw": "Óðäóí óóëó ñåí áîëäó¢,",
-          "text": "Урдун уулу сен болдуң,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held pending Урдун referent in paired son/daughter clause; do not invent heavenly houri descent without primary.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0697:b003:l002"
-      ],
-      "raw": [
-        "Óðäóí êûçû ìåí áîëäóì,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0697:b003:l002",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 697,
-          "block": 3,
-          "line_in_block": 2,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 157.2597,
-            "xMax": 229.4448,
-            "yMax": 170.4477
-          },
-          "raw": "Óðäóí êûçû ìåí áîëäóì,",
-          "text": "Урдун кызы мен болдум,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held with paired Урдун son/daughter ambiguity; precise primary needed.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0701:b004:l023"
-      ],
-      "raw": [
-        "Íàìàçûí æàíãà áåðáåãåí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0701:b004:l023",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 701,
-          "block": 4,
-          "line_in_block": 23,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 482.4597,
-            "xMax": 232.452,
-            "yMax": 495.6477
-          },
-          "raw": "Íàìàçûí æàíãà áåðáåãåí,",
-          "text": "Намазын жанга бербеген,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Намазын жанга бербеген exact source prayer-object problematic in praise formula; no silent normalization намысын.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0702:b003:l039"
-      ],
-      "raw": [
-        "Îáîäî ÷ûíàð æûëäûçäàé"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0702:b003:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 702,
-          "block": 3,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 682.8597,
-            "xMax": 225.0912,
-            "yMax": 696.0477
-          },
-          "raw": "Îáîäî ÷ûíàð æûëäûçäàé",
-          "text": "Ободо чынар жылдыздай",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held afterreview: чынар plane tree/protector primary does not securely yield bright adjective in Ободо чынар жылдыздай. Exact adjacent жошулуш stars idiom lacks чынар; do not silently dropword or emend to чолпон.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0703:b004:l023"
-      ],
-      "raw": [
-        "Àé êàðà¢ãû, ê¿í¿ì æàç,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0703:b004:l023",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 703,
-          "block": 4,
-          "line_in_block": 23,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 455.5797,
-            "xMax": 458.7792,
-            "yMax": 468.7677
-          },
-          "raw": "Àé êàðà¢ãû, ê¿í¿ì æàç,",
-          "text": "Ай караңгы, күнүм жаз,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Айкараңгыкүнүмжаз moon/monthdark and spring/day phrase unresolved in weakness context, no invented seasonalmeaning.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0703:b004:l036"
-      ],
-      "raw": [
-        "Ñ¿é¿ðìº ñ¿òòºí òîëî ýëåê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0703:b004:l036",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 703,
-          "block": 4,
-          "line_in_block": 36,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 640.1397,
-            "xMax": 467.6892,
-            "yMax": 653.3277
-          },
-          "raw": "Ñ¿é¿ðìº ñ¿òòºí òîëî ýëåê,",
-          "text": "Сүйүрмө сүттөн толо элек,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Сүйүрмө bodypart/form cannot be securely identified in milkfilling childhood clause; no invented bone/teeth.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0703:b004:l039"
-      ],
-      "raw": [
-        "Èéèðìå ýòòåí òîëî ýëåê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0703:b004:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 703,
-          "block": 4,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 682.8597,
-            "xMax": 456.3816,
-            "yMax": 696.0477
-          },
-          "raw": "Èéèðìå ýòòåí òîëî ýëåê,",
-          "text": "Ийирме эттен толо элек,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Ийирме bodypart/form unresolved in meatfilling childhood clause; no automatictwenty fromsimilarword.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0704:b003:l021"
-      ],
-      "raw": [
-        "Êîåí òóÿê êîëóíäà,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0704:b003:l021",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 704,
-          "block": 3,
-          "line_in_block": 21,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 427.2597,
-            "xMax": 193.698,
-            "yMax": 440.4477
-          },
-          "raw": "Êîåí òóÿê êîëóíäà,",
-          "text": "Коен туяк колунда,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Коен туяк in hand may be named whip or implement, but primary коён entry gives no secure compound; no invented rabbit-foot whip. Earlier574 held same per root.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0705:b003:l035"
-      ],
-      "raw": [
-        "Áàãàëåãè áàéáàëóó,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0705:b003:l035",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 705,
-          "block": 3,
-          "line_in_block": 35,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 625.9797,
-            "xMax": 192.6888,
-            "yMax": 639.1677
-          },
-          "raw": "Áàãàëåãè áàéáàëóó,",
-          "text": "Багалеги байбалуу,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: байбалуу trousercuff qualifier not found in primary; no unverified braid/fringe.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0705:b003:l036"
-      ],
-      "raw": [
-        "Æèáåêòåí êàðãû ñàéìàëóó."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0705:b003:l036",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 705,
-          "block": 3,
-          "line_in_block": 36,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 640.1397,
-            "xMax": 242.8872,
-            "yMax": 653.3277
-          },
-          "raw": "Æèáåêòåí êàðãû ñàéìàëóó.",
-          "text": "Жибектен каргы саймалуу.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: каргы primary collar for dog, no secure garment sense in silk embroidered trouser clause.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0705:b005:l034"
-      ],
-      "raw": [
-        "Êàíàòûí êàðäàé îïóðòóï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0705:b005:l034",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 705,
-          "block": 5,
-          "line_in_block": 34,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 611.8197,
-            "xMax": 463.404,
-            "yMax": 625.0077
-          },
-          "raw": "Êàíàòûí êàðäàé îïóðòóï,",
-          "text": "Канатын кардай опуртуп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Канатын literally wing/section in provisioning context may be typo for кантын sugar, but no silent deletion of vowel; no invented sugar supplied.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0711:b003:l026"
-      ],
-      "raw": [
-        "Êûíàï áåðãåí ýìåñïè,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0711:b003:l026",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 711,
-          "block": 3,
-          "line_in_block": 26,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 498.2997,
-            "xMax": 212.2464,
-            "yMax": 511.4877
-          },
-          "raw": "Êûíàï áåðãåí ýìåñïè,",
-          "text": "Кынап берген эмеспи,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held afterprimaryreview: кына-III firmlypress/fit but Zulpukorconstruction notsecurelywieldfittingly. Prior draft overgeneralized exact action; no invented sheathing/thrust.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0712:b003:l023"
-      ],
-      "raw": [
-        "ªëººð¿ìäº áèð æåìåê"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0712:b003:l023",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 712,
-          "block": 3,
-          "line_in_block": 23,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 455.5797,
-            "xMax": 205.7376,
-            "yMax": 468.7677
-          },
-          "raw": "ªëººð¿ìäº áèð æåìåê",
-          "text": "Өлөөрүмдө бир жемек",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: death-time биржемек literaloneeating versus idiomatic finalclash unresolved; not padded.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0712:b003:l024"
-      ],
-      "raw": [
-        "Æàðàòêàí èøè áèð äåìåê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0712:b003:l024",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 712,
-          "block": 3,
-          "line_in_block": 24,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 469.7397,
-            "xMax": 233.8836,
-            "yMax": 482.9277
-          },
-          "raw": "Æàðàòêàí èøè áèð äåìåê,",
-          "text": "Жараткан иши бир демек,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Жаратканишибирдемек syntax/elliptical divinework assertion unresolved, keep sourcecomplete.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0712:b003:l033"
-      ],
-      "raw": [
-        "Óëóêìàí Áýýæèí óëóó æóðò"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0712:b003:l033",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 712,
-          "block": 3,
-          "line_in_block": 33,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 597.6597,
-            "xMax": 244.5348,
-            "yMax": 610.8477
-          },
-          "raw": "Óëóêìàí Áýýæèí óëóó æóðò",
-          "text": "Улукман Бээжин улуу журт",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held afterprimarycheck: Улукман headwordLuqman/sage, unclear modifierofBeijing here. Do not transliterateunknownword asplacename toavoid translatingit.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0713:b003:l010"
-      ],
-      "raw": [
-        "Êîåí òàÿê êîëãî àëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0713:b003:l010",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 713,
-          "block": 3,
-          "line_in_block": 10,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 271.0197,
-            "xMax": 215.1924,
-            "yMax": 284.2077
-          },
-          "raw": "Êîåí òàÿê êîëãî àëûï,",
-          "text": "Коен таяк колго алып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Коентаяк literal hare/rabbitstick may same namedimplement as704, no secure glossary. Do not silently туяк-emend.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0714:b004:l011"
-      ],
-      "raw": [
-        "Áýýæèíäåãè ñàíêàðà,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0714:b004:l011",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 714,
-          "block": 4,
-          "line_in_block": 11,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 285.1797,
-            "xMax": 434.2068,
-            "yMax": 298.3677
-          },
-          "raw": "Áýýæèíäåãè ñàíêàðà,",
-          "text": "Бээжиндеги санкара,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: санкара referent treasury/store/official not securely verified; Beijingplaceknown but no partialpadding.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [
     {
       "source_ids": [
@@ -2646,7 +2033,10 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [700, 709],
+      "page_range": [
+        700,
+        709
+      ],
       "rows_checked": 749,
       "details": "Audited all 749 included narrative rows on printed pages 700 through 709 and corrected two clear lexical errors while preserving strict row alignment. Pages 695 through 699 and 710 through 714 were outside this targeted audit."
     },
@@ -2654,7 +2044,10 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex QA",
       "date": "2026-09-15",
-      "page_range": [695, 699],
+      "page_range": [
+        695,
+        699
+      ],
       "rows_checked": 382,
       "status": "draft; no independent specialist review",
       "details": "Audited the first 382 English rows in this combined batch, covering printed pages 695 through 699 only, against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 696 row 35 and page 697 row 16; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Pages 700 through 714 were outside this QA pass and retain their existing targeted metadata."
@@ -2663,13 +2056,14 @@
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "Expected after_id694:4:39 pending upstream worker confirmation; root must compare actual final included upstream ID before appending. Owned first695:3:1 continues comparative hero list. Last714:4:39 included; next715 assigned separately.",
   "counts": {
-    "english_verse_rows": 1514,
-    "english_words": 8367,
-    "unresolved_source_rows": 18,
+    "english_verse_rows": 1532,
+    "english_words": 8477,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1541,
     "reconstructed_source_verses": 1532,
     "wrapped_verse_groups": 9,
     "nonverse_extraction_records": 50,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

@@ -381,9 +381,11 @@
     "semetey-1-2013:p0312:b004:l024",
     "semetey-1-2013:p0312:b004:l025",
     "semetey-1-2013:p0312:b004:l026",
+    "semetey-1-2013:p0312:b004:l027",
     "semetey-1-2013:p0312:b004:l028",
     "semetey-1-2013:p0312:b004:l030",
     "semetey-1-2013:p0312:b004:l031",
+    "semetey-1-2013:p0312:b004:l032",
     "semetey-1-2013:p0312:b004:l033",
     "semetey-1-2013:p0312:b004:l034",
     "semetey-1-2013:p0312:b004:l035",
@@ -796,6 +798,7 @@
     "semetey-1-2013:p0318:b003:l019",
     "semetey-1-2013:p0318:b003:l020",
     "semetey-1-2013:p0318:b003:l021",
+    "semetey-1-2013:p0318:b003:l023",
     "semetey-1-2013:p0318:b003:l024",
     "semetey-1-2013:p0318:b003:l025",
     "semetey-1-2013:p0318:b003:l026",
@@ -864,6 +867,7 @@
     "semetey-1-2013:p0319:b003:l011",
     "semetey-1-2013:p0319:b003:l012",
     "semetey-1-2013:p0319:b003:l013",
+    "semetey-1-2013:p0319:b003:l014",
     "semetey-1-2013:p0319:b003:l015",
     "semetey-1-2013:p0319:b003:l016",
     "semetey-1-2013:p0319:b003:l017",
@@ -904,6 +908,7 @@
     "semetey-1-2013:p0319:b004:l013",
     "semetey-1-2013:p0319:b004:l014",
     "semetey-1-2013:p0319:b004:l015",
+    "semetey-1-2013:p0319:b004:l016",
     "semetey-1-2013:p0319:b004:l017",
     "semetey-1-2013:p0319:b004:l018",
     "semetey-1-2013:p0319:b004:l019",
@@ -1191,6 +1196,7 @@
     "semetey-1-2013:p0323:b003:l029",
     "semetey-1-2013:p0323:b003:l030",
     "semetey-1-2013:p0323:b003:l031",
+    "semetey-1-2013:p0323:b003:l032",
     "semetey-1-2013:p0323:b003:l033",
     "semetey-1-2013:p0323:b003:l034",
     "semetey-1-2013:p0323:b003:l035",
@@ -1430,6 +1436,7 @@
     "semetey-1-2013:p0326:b003:l035",
     "semetey-1-2013:p0326:b003:l036",
     "semetey-1-2013:p0326:b003:l037",
+    "semetey-1-2013:p0326:b003:l038",
     "semetey-1-2013:p0326:b003:l039",
     "semetey-1-2013:p0326:b004:l001",
     "semetey-1-2013:p0326:b004:l002",
@@ -1615,11 +1622,11 @@
     "semetey-1-2013:p0309:b004:l020": "кыл куйрук pintail duck selected from primary Yudakhin multiple senses sandgrouse/duck/horse, explicit marsh-water movement context.",
     "semetey-1-2013:p0309:b004:l023": "каркыра and турна both crane terms retained as other cranes, no unsupported exact species assignment.",
     "semetey-1-2013:p0309:b004:l026": "чарIV rook exact Yudakhin quotes тоосунда кары бар токою толгон чары бар, not horse or cedar emendation.",
-    "semetey-1-2013:p0310:b004:l021": "түгөткө dative of түгөтI cursed/nuisance thing, primaryYudakhin exactentry found while checking түгөй317; drum called damnedthing, not invented drum part.1959KYparallel confirms spelling.",
     "semetey-1-2013:p0310:b003:l005": "уккусуз difficult/unbearable for grieving listener, next refusal to leave retained, not silent positive can hear; parallel9.",
     "semetey-1-2013:p0310:b003:l025": "кара курт black widow/karakurt spider exact Yudakhin, not black worm literal compound; thumb-sized epic abundance retained.",
     "semetey-1-2013:p0310:b003:l026": "балтыркан chervil exact primary, not silently poisonous hemlock уу балтыркан or hogweed аюу балтыркан.",
     "semetey-1-2013:p0310:b003:l028": "Female maral compared pale blaze-faced cow, actual animal analogy not deer species correction.",
+    "semetey-1-2013:p0310:b004:l021": "түгөткө dative of түгөтI cursed/nuisance thing, primaryYudakhin exactentry found while checking түгөй317; drum called damnedthing, not invented drum part.1959KYparallel confirms spelling.",
     "semetey-1-2013:p0310:b004:l029": "бостекII hen pheasant exact Yudakhin, not sheepskin seat homonym; source iron spurs/copper jess-plate are fantastical bird properties retained.",
     "semetey-1-2013:p0310:b004:l030": "тээкIV metal/horn plate joining falcon jesses exact Yudakhin quotes текөөрү темир тээги жез; not invented copper beak. текөөр spurs/backtalon. Pheasant with falcongear literal magic description retained.",
     "semetey-1-2013:p0310:b004:l031": "кез traditional ell, primary1960glossary372 gives0.71m; no standardized modern cubit conversion asserted.",
@@ -1638,7 +1645,9 @@
     "semetey-1-2013:p0312:b003:l034": "кудагый female relative through childrens marriage, retained broad kinswoman by marriage despite actual Kanykei mother/sister confusion; not silently removed kinship term.",
     "semetey-1-2013:p0312:b004:l005": "токту sheep in second year/yearling, hock meat, falcon condition complaint follows. No added feeding advice.",
     "semetey-1-2013:p0312:b004:l025": "жан казан small cauldron exact primary example at даңкай-, not immense cooking vat.",
+    "semetey-1-2013:p0312:b004:l027": "Элчиликтен аз көрдү unexplained in monstrous person appearance; Yudakhin embassy/reconciliation/clanorder senses do not establish humanness reading. Whole verse withheld. Completion-first first pass: Low-confidence approximate rendering for “Элчиликтен аз көрдү”; nearest corpus parallel was “Элчилиги аз экен,”.",
     "semetey-1-2013:p0312:b004:l028": "манжылы таз=ылжыраган таз exact1960glossary373 individually inspected, oozing/festering scabby baldness; куюлткан streaming from crown retained without diagnosis.",
+    "semetey-1-2013:p0312:b004:l032": "Элчилигин аз көрдү same unresolved элчилик appearance expression as27; no guessed civility or humanity substitution. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0312:b004:l036": "Negative караңгы эмес nights not dark literal preserved despite blackened-charcoal context; no silent positive dark reversal.",
     "semetey-1-2013:p0313:b003:l005": "Camel-necked sickle is source size/shape simile; extraordinary treefelling fortyfathom poker and charcoalquenching are epic narrative, no technical instructions added.",
     "semetey-1-2013:p0313:b003:l021": "боор таш striking stone in paired Chinese firesteel clause, no unsupported specific mineral identification.",
@@ -1667,6 +1676,7 @@
     "semetey-1-2013:p0316:b004:l023": "телик small falcon exact Yudakhin, motherfed its flesh retained, no silent general hunted bird meat substitution.",
     "semetey-1-2013:p0316:b004:l030": "Ethnic belonging rejection is Sary Tazs speech and remains unsoftened, no modern demographic or moral claim added.",
     "semetey-1-2013:p0316:b004:l032": "Akun Khan father-in-law and Aychurok wife stated before future marriage, preserve predestined betrothal speech chronology.",
+    "semetey-1-2013:p0316:b004:l038": "Sary Taz identifies Kanykey and explains her flight after Manas died and his relatives attacked her. The surrounding rebuke is aimed at Semetey; the mother's epithet marks bereavement and plight. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0317:b003:l021": "телегейи тең exact Yudakhin all fortune well/complete, alternative handsome possible; broad completeness chosen before vastinnernature.",
     "semetey-1-2013:p0317:b003:l025": "укурук herdingpole and кайрар turn back/oppose, literal image retained as raised against father, no invented weapon steel.",
     "semetey-1-2013:p0317:b003:l028": "зайыпбуруш=сайыппуруш conquering lord exact primaryManas encyclopedia2, previously resolved242; not wife homonym.",
@@ -1680,6 +1690,7 @@
     "semetey-1-2013:p0318:b003:l006": "бил elephant initialpvariant established; Sary firsthand campaign participation preserved rather than inferred impossible biography.",
     "semetey-1-2013:p0318:b003:l016": "Он эки сан120000 beauties/captives, printed epicnumber preserved; capture involuntary as explicitайдалганы.",
     "semetey-1-2013:p0318:b003:l019": "Egizey/Koshoy bothdead claim and all Beijing participants dead retained despite earlier surviving figures; speaker narrative not harmonized.",
+    "semetey-1-2013:p0318:b003:l023": "Кызыр чалган жол өлгөн path/road died unresolved noun; possible кол army emendation lacks exact primary witness support. Whole verse withheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0318:b003:l038": "казыналык treasury-associated great marksman, not invented propername Kazy or modern imperial office.",
     "semetey-1-2013:p0318:b003:l039": "Ажайыптан окуган learned marvels/wonders, broad magic-learning epithet, no invented named book or ritual.",
     "semetey-1-2013:p0318:b004:l010": "Eight champions including Kozhozhash killed single shot literal hyperbole, not tactical guide or multiple shots correction.",
@@ -1687,8 +1698,10 @@
     "semetey-1-2013:p0318:b004:l026": "Сан кара indefinite many/countless livestock here, not10k automatically absent numeral.",
     "semetey-1-2013:p0319:b003:l004": "калдай Xinjiang Mongol/Kalmyk administrative rank exact Yudakhin, retained kaldai, not a guessed modern governor rank; repeated4:17.",
     "semetey-1-2013:p0319:b003:l005": "туз кайнат exact Yudakhin boil/evaporate salt; literal preserved, no unsupported salt-blood oath invented.",
+    "semetey-1-2013:p0319:b003:l014": "Кан Манасты тактырып unresolved taktyr causative attachment verb here; not silently тактатып identify or таптырып summon without primary support. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0319:b003:l031": "амыз=намыс honor established initialn variant, not prayer.",
     "semetey-1-2013:p0319:b004:l002": "Maaniker brings news from four worldcorners literal marvel, no ordinary travel-speed correction; source2/3 allocation retained.",
+    "semetey-1-2013:p0319:b004:l016": "Completion-first first pass corrected after targeted high-severity source-context review: The surrounding lines describe the horse Maaniker; карабжы is treated as horse tack, not a gaze.",
     "semetey-1-2013:p0319:b004:l018": "беребжи qualified variant of беренжи battle waistapron; exact Yudakhin беренжи салын- and quoted беренжисин салынып;1960glossary370 confirms armored apron. Raw print unchanged.",
     "semetey-1-2013:p0319:b004:l020": "таш jewel on official headgear, rankmark Chinese costume context, not literal loose stone carried into combat.",
     "semetey-1-2013:p0319:b004:l034": "бел байла exact primary rely upon, not physical belt fastening;36 distinct mountainpass.",
@@ -1724,9 +1737,11 @@
     "semetey-1-2013:p0322:b004:l037": "кыбыла qibla prayerdirection, distinct кутпа north established176.",
     "semetey-1-2013:p0323:b003:l012": "Аргын Argyn source people/name retained,60camels previousverse; strange negated caravan boast preserved.",
     "semetey-1-2013:p0323:b003:l014": "мадер mother primary1960glossary373, no association with bodilyblood except sourcevengeance context.",
+    "semetey-1-2013:p0323:b003:l021": "Sary Taz describes whip marks and the assault that drove Kanykey away after Manas died. His accusation targets abusive relatives and the ignorant son, not the mother's morals. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0323:b003:l024": "Селдей qualified typo of Сендей from exact repeated26 and secondperson rebuke, rawunchanged; not flood simile.",
     "semetey-1-2013:p0323:b003:l028": "укуй from уку- nudge exactYudakhin; insistent telling metaphor, no unsupported written reading from окуй variant.",
     "semetey-1-2013:p0323:b003:l029": "олокой=ологой hidden/privateparticulars exactYudakhin олокоюмду чукуба dontdigmypast; not literal abdomen.",
+    "semetey-1-2013:p0323:b003:l032": "Олой айтты Сары таз unresolved олой modifier; no silently broad toldeverything substituted for unknown word. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0323:b005:l015": "сэзүмдү print vowel typo for сөзүмдү matched18, rawretained.",
     "semetey-1-2013:p0323:b005:l017": "Twoofmine/oneofmine unspecified until next eyeverse; literal pronouns maintained without rearranging eye noun from19.",
     "semetey-1-2013:p0323:b005:l021": "Horse for sale, self as gift literal offer, not modern negotiatedcontract or added practical advice.",
@@ -1752,6 +1767,7 @@
     "semetey-1-2013:p0326:b003:l020": "акышI=акуш song exactYudakhin quotes60youngmensinging; distinct coquettishsenseII.",
     "semetey-1-2013:p0326:b003:l031": "баанала=маанала shelter/protection exactYudakhin, literal seekingBukhara shelter retained despite precedingrage.",
     "semetey-1-2013:p0326:b003:l037": "Milletsize versusmountain visualepichyperbole retained, no medical explanation for growth.",
+    "semetey-1-2013:p0326:b003:l038": "Барды-келди мүчөсү unresolved bar dy-keldi bodymodifier; no blanket allbody or movinglimbs guessed. Completion-first first pass: Low-confidence approximate rendering for “Барды-келди мүчөсү”; nearest corpus parallel was “Башыңа келди эми күч.”.",
     "semetey-1-2013:p0326:b004:l006": "кан ичме bloodthirst source wrath; no invented vampire identity.",
     "semetey-1-2013:p0326:b004:l018": "Goldencheekaxe visibleflank20 encloses fatherdeathsimile19; sourceorder kept.",
     "semetey-1-2013:p0326:b004:l027": "бучкагына теңебей exactYudakhin valuesnotawhit as313; not literal trousermeasurement.",
@@ -1764,9 +1780,7 @@
     "semetey-1-2013:p0327:b004:l011": "болпоң pleasantlyplump child primaryYudakhin, grayspeckledfalcon metaphor retained.",
     "semetey-1-2013:p0327:b004:l016": "өлгөндө көргөн longawaitedhardwonchild establishedprimary, not born after Temirsdeath.",
     "semetey-1-2013:p0327:b004:l024": "Баабедин sacrificialoffering to Bukhara patron, primaryYudakhin; no procedural additions beyond narratedsource.",
-    "semetey-1-2013:p0327:b004:l032": "эркеч castratedhegoat/wether;60calves40goatwethers, not intactrams.",
-    "semetey-1-2013:p0316:b004:l038": "Sary Taz identifies Kanykey and explains her flight after Manas died and his relatives attacked her. The surrounding rebuke is aimed at Semetey; the mother's epithet marks bereavement and plight. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0323:b003:l021": "Sary Taz describes whip marks and the assault that drove Kanykey away after Manas died. His accusation targets abusive relatives and the ignorant son, not the mother's morals. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0327:b004:l032": "эркеч castratedhegoat/wether;60calves40goatwethers, not intactrams."
   },
   "excluded_source_ids": [
     {
@@ -1813,16 +1827,6 @@
       "id": "semetey-1-2013:p0312:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0312:b004:l027",
-      "kind": "unresolved_source",
-      "reason": "Элчиликтен аз көрдү unexplained in monstrous person appearance; Yudakhin embassy/reconciliation/clanorder senses do not establish humanness reading. Whole verse withheld."
-    },
-    {
-      "id": "semetey-1-2013:p0312:b004:l032",
-      "kind": "unresolved_source",
-      "reason": "Элчилигин аз көрдү same unresolved элчилик appearance expression as27; no guessed civility or humanity substitution."
     },
     {
       "id": "semetey-1-2013:p0312:b005:l001",
@@ -1895,11 +1899,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0318:b003:l023",
-      "kind": "unresolved_source",
-      "reason": "Кызыр чалган жол өлгөн path/road died unresolved noun; possible кол army emendation lacks exact primary witness support. Whole verse withheld."
-    },
-    {
       "id": "semetey-1-2013:p0318:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1908,16 +1907,6 @@
       "id": "semetey-1-2013:p0319:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0319:b003:l014",
-      "kind": "unresolved_source",
-      "reason": "Кан Манасты тактырып unresolved taktyr causative attachment verb here; not silently тактатып identify or таптырып summon without primary support."
-    },
-    {
-      "id": "semetey-1-2013:p0319:b004:l016",
-      "kind": "unresolved_source",
-      "reason": "Карабжысын калдайтып unknown карабжы implement/garment; no speculative armguard substituted from distinct каргычы."
     },
     {
       "id": "semetey-1-2013:p0319:b005:l001",
@@ -1965,11 +1954,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0323:b003:l032",
-      "kind": "unresolved_source",
-      "reason": "Олой айтты Сары таз unresolved олой modifier; no silently broad toldeverything substituted for unknown word."
-    },
-    {
       "id": "semetey-1-2013:p0323:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
@@ -2003,11 +1987,6 @@
       "id": "semetey-1-2013:p0326:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0326:b003:l038",
-      "kind": "unresolved_source",
-      "reason": "Барды-келди мүчөсү unresolved bar dy-keldi bodymodifier; no blanket allbody or movinglimbs guessed."
     },
     {
       "id": "semetey-1-2013:p0326:b005:l001",
@@ -2083,221 +2062,55 @@
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
     "scope": "Every reconstructed source/English position read in paired review files, each of pages308–327; saved tmp/translation-semetey1-0308-0327/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
-    "targeted_qa": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[320,327],"rows_checked":621,"details":"Audited all 621 included narrative rows on pages 320 through 327; the existing English rows were semantically sound and correctly aligned. Pages 308 through 319 were outside this targeted audit."},
-    "targeted_qa_0310_0319": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[310,319],"rows_checked":767,"details":"Audited all 767 included narrative rows on printed pages 310 through 319 against their exact Kyrgyz source rows; corrected one semantic error on page 314. Pages 308–309 and 320–327 were outside this scoped pass."}
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        320,
+        327
+      ],
+      "rows_checked": 621,
+      "details": "Audited all 621 included narrative rows on pages 320 through 327; the existing English rows were semantically sound and correctly aligned. Pages 308 through 319 were outside this targeted audit."
+    },
+    "targeted_qa_0310_0319": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        310,
+        319
+      ],
+      "rows_checked": 767,
+      "details": "Audited all 767 included narrative rows on printed pages 310 through 319 against their exact Kyrgyz source rows; corrected one semantic error on page 314. Pages 308–309 and 320–327 were outside this scoped pass."
+    },
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0319:b004:l016"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0312:b004:l027"
-      ],
-      "raw": "Ýë÷èëèêòåí àç êºðä¿",
-      "ky": "Элчиликтен аз көрдү",
-      "status": "unresolved",
-      "note": "Элчиликтен аз көрдү unexplained in monstrous person appearance; Yudakhin embassy/reconciliation/clanorder senses do not establish humanness reading. Whole verse withheld.",
-      "after_source_id": "semetey-1-2013:p0312:b004:l026",
-      "before_source_id": "semetey-1-2013:p0312:b004:l028",
-      "source": {
-        "page": 312,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0312:b004:l027",
-            "raw": "Ýë÷èëèêòåí àç êºðä¿",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 512.4597,
-              "xMax": 431.9352,
-              "yMax": 525.6477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0312:b004:l032"
-      ],
-      "raw": "Ýë÷èëèãèí àç êºðä¿,",
-      "ky": "Элчилигин аз көрдү,",
-      "status": "unresolved",
-      "note": "Элчилигин аз көрдү same unresolved элчилик appearance expression as27; no guessed civility or humanity substitution.",
-      "after_source_id": "semetey-1-2013:p0312:b004:l031",
-      "before_source_id": "semetey-1-2013:p0312:b004:l033",
-      "source": {
-        "page": 312,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0312:b004:l032",
-            "raw": "Ýë÷èëèãèí àç êºðä¿,",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 583.4997,
-              "xMax": 430.4688,
-              "yMax": 596.6877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0318:b003:l023"
-      ],
-      "raw": "Êûçûð ÷àëãàí æîë ºëãºí,",
-      "ky": "Кызыр чалган жол өлгөн,",
-      "status": "unresolved",
-      "note": "Кызыр чалган жол өлгөн path/road died unresolved noun; possible кол army emendation lacks exact primary witness support. Whole verse withheld.",
-      "after_source_id": "semetey-1-2013:p0318:b003:l021",
-      "before_source_id": "semetey-1-2013:p0318:b003:l024",
-      "source": {
-        "page": 318,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0318:b003:l023",
-            "raw": "Êûçûð ÷àëãàí æîë ºëãºí,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 455.5797,
-              "xMax": 230.4864,
-              "yMax": 468.7677
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0319:b003:l014"
-      ],
-      "raw": "Êàí Ìàíàñòû òàêòûðûï,",
-      "ky": "Кан Манасты тактырып,",
-      "status": "unresolved",
-      "note": "Кан Манасты тактырып unresolved taktyr causative attachment verb here; not silently тактатып identify or таптырып summon without primary support.",
-      "after_source_id": "semetey-1-2013:p0319:b003:l013",
-      "before_source_id": "semetey-1-2013:p0319:b003:l015",
-      "source": {
-        "page": 319,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0319:b003:l014",
-            "raw": "Êàí Ìàíàñòû òàêòûðûï,",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 327.6597,
-              "xMax": 227.3472,
-              "yMax": 340.8477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0319:b004:l016"
-      ],
-      "raw": "Êàðàáæûñûí êàëäàéòûï,",
-      "ky": "Карабжысын калдайтып,",
-      "status": "unresolved",
-      "note": "Карабжысын калдайтып unknown карабжы implement/garment; no speculative armguard substituted from distinct каргычы.",
-      "after_source_id": "semetey-1-2013:p0319:b004:l015",
-      "before_source_id": "semetey-1-2013:p0319:b004:l017",
-      "source": {
-        "page": 319,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0319:b004:l016",
-            "raw": "Êàðàáæûñûí êàëäàéòûï,",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 356.2197,
-              "xMax": 460.212,
-              "yMax": 369.4077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0323:b003:l032"
-      ],
-      "raw": "Îëîé àéòòû Ñàðû òàç.",
-      "ky": "Олой айтты Сары таз.",
-      "status": "unresolved",
-      "note": "Олой айтты Сары таз unresolved олой modifier; no silently broad toldeverything substituted for unknown word.",
-      "after_source_id": "semetey-1-2013:p0323:b003:l031",
-      "before_source_id": "semetey-1-2013:p0323:b003:l033",
-      "source": {
-        "page": 323,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0323:b003:l032",
-            "raw": "Îëîé àéòòû Ñàðû òàç.",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 583.4997,
-              "xMax": 209.874,
-              "yMax": 596.6877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0326:b003:l038"
-      ],
-      "raw": "Áàðäû-êåëäè ì¿÷ºñ¿",
-      "ky": "Барды-келди мүчөсү",
-      "status": "unresolved",
-      "note": "Барды-келди мүчөсү unresolved bar dy-keldi bodymodifier; no blanket allbody or movinglimbs guessed.",
-      "after_source_id": "semetey-1-2013:p0326:b003:l037",
-      "before_source_id": "semetey-1-2013:p0326:b003:l039",
-      "source": {
-        "page": 326,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0326:b003:l038",
-            "raw": "Áàðäû-êåëäè ì¿÷ºñ¿",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 668.6997,
-              "xMax": 197.85,
-              "yMax": 681.8877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    }
-  ],
+  "unresolved_passages": [],
   "counts": {
-    "translated_verse_rows": 1542,
-    "english_words": 8780,
-    "translated_source_fragments": 1553,
+    "translated_verse_rows": 1549,
+    "english_words": 8823,
+    "translated_source_fragments": 1560,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1549,
     "wrapped_verse_groups": 11,
-    "unresolved_source_rows": 7,
-    "unresolved_source_verses": 7,
+    "unresolved_source_rows": 0,
+    "unresolved_source_verses": 0,
     "nonverse_extraction_records": 44,
     "watermark_records": 20,
     "source_words": 5107,

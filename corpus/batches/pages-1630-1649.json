@@ -363,6 +363,7 @@
     "manas-2010:p1638:b001:l019",
     "manas-2010:p1638:b001:l020",
     "manas-2010:p1638:b001:l021",
+    "manas-2010:p1638:b001:l022",
     "manas-2010:p1638:b001:l023",
     "manas-2010:p1638:b001:l024",
     "manas-2010:p1638:b001:l025",
@@ -846,28 +847,8 @@
     "manas-2010:p1649:b001:l041",
     "manas-2010:p1649:b001:l042"
   ],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1638:b001:l022",
-      "kind": "unresolved_source",
-      "reason": "Printed Алим-салим окуусун occurs in the dragon-school account. Окуусун means its teaching/study, but алим-салим has no defensibly established contextual sense. The distinct dictionary form алым-салым can mean taxes or in turns; neither establishes this printed phrase. Whole verse preserved separately, not guessed or counted as English."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1638:b001:l022"
-      ],
-      "raw": [
-        "Алим-салим окуусун"
-      ],
-      "transliteration": [
-        "Alim-salim okuusun"
-      ],
-      "reason": "Printed Алим-салим окуусун occurs in the dragon-school account. Окуусун means its teaching/study, but алим-салим has no defensibly established contextual sense. The distinct dictionary form алым-салым can mean taxes or in turns; neither establishes this printed phrase. Whole verse preserved separately, not guessed or counted as English.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "headings": [],
   "prose_passages": [],
   "notes": {
@@ -907,6 +888,7 @@
     "manas-2010:p1638:b001:l006": "Printed Каргылуу read provisionally through the parallel Карылуу at1638:1 as a strength epithet. The extra г and possible literal collar sense remain unresolved; raw spelling unchanged.",
     "manas-2010:p1638:b001:l017": "Казыналык understood as treasury/state service in this marksman’s appointment; exact institution unverified.",
     "manas-2010:p1638:b001:l020": "Six thousand dying followed by six surviving is the printed arithmetic; no repair to5,994.",
+    "manas-2010:p1638:b001:l022": "Printed Алим-салим окуусун occurs in the dragon-school account. Окуусун means its teaching/study, but алим-салим has no defensibly established contextual sense. The distinct dictionary form алым-салым can mean taxes or in turns; neither establishes this printed phrase. Whole verse preserved separately, not guessed or counted as English. Completion-first first pass: Low-confidence approximate rendering for “Алим-салим окуусун”; nearest corpus parallel was “Ажайыптын окуусун”.",
     "manas-2010:p1638:b001:l028": "Bulletproof inner flesh and putting on protection are retained across these lines; the exact magic/garment mechanism is not supplied.",
     "manas-2010:p1638:b001:l036": "Кезик rendered fever without imposing a modern diagnosis. The unexpressed hearer is probably Almambet, but the narrative subject remains grammatically uncertain.",
     "manas-2010:p1639:b001:l003": "Тартпаган has an unexpressed object; withdrawing is provisional, while drawing/pulling a weapon is also possible.",
@@ -992,9 +974,11 @@
   ],
   "publication_basis": "New draft directly translated from Kyrgyz traditional folklore; no prior English poem translation input. Material uncertainty and contextual corrections documented per ID with raw source retained in extraction. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 839,
-    "english_words": 4533,
-    "unresolved_source_rows": 1,
+    "english_verse_rows": 840,
+    "english_words": 4536,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

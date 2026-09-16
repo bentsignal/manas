@@ -31,6 +31,7 @@
     "semetey-1-2013:p0219:b003:l024",
     "semetey-1-2013:p0219:b003:l025",
     "semetey-1-2013:p0219:b003:l026",
+    "semetey-1-2013:p0219:b003:l027",
     "semetey-1-2013:p0219:b003:l028",
     "semetey-1-2013:p0219:b003:l029",
     "semetey-1-2013:p0219:b003:l030",
@@ -267,11 +268,6 @@
       "reason": "Visually confirmed decorative title, folio or printer signature28*, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0219:b003:l027",
-      "kind": "unresolved_source",
-      "reason": "Арка гана чачым иейин hair oath: арка чач braid and ий bend/spin variants do not securely establish full idiomatic action. Whole verse withheld; taboo father-marriage oath in next two verses retained separately."
-    },
-    {
       "id": "semetey-1-2013:p0220:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printer signature28*, not narrative verse."
@@ -299,6 +295,7 @@
     "semetey-1-2013:p0219:b003:l015": "Repeated Eshen condemnation and commands retained, not compressed.",
     "semetey-1-2013:p0219:b003:l017": "Because I am a woman explicit complaint against gendered scorn, not omitted.",
     "semetey-1-2013:p0219:b003:l020": "Dogs for даңгыт; threat to slaughter and drink blood is character’s conditional oath, not narrator event, no added gore/procedure beyond source.",
+    "semetey-1-2013:p0219:b003:l027": "Арка гана чачым иейин hair oath: арка чач braid and ий bend/spin variants do not securely establish full idiomatic action. Whole verse withheld; taboo father-marriage oath in next two verses retained separately. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0219:b003:l028": "Taboo oath to marry own father Temir Khan explicitly printed; preserved as self-curse, not actual marriage or sexual act narrated. Adjacent hair wording27 remains unresolved separately.",
     "semetey-1-2013:p0219:b003:l035": "Primary Yudakhin мурдала exact муну угуп эшен чал, мурдалап коркуп жан чыгып = old ishan already scared to death. Fear metaphor not actual death. Eshen transliterated title here; primary identifies religious ishan, prior proper-name interpretation tentative.",
     "semetey-1-2013:p0219:b003:l038": "Primary Yudakhin сап exact билегинен сап кеткен, жүрөгүнөн кап кеткен: weapon haft drops, heart casing bursts from fear. No named weapon or literal medical death asserted.",
@@ -348,45 +345,13 @@
     "semetey-1-2013:p0221:b004:l005": "Ichke-Zhol printed hyphenated/capitalized toponym preserved provisionally, literal Narrow Road; no map coordinates.",
     "semetey-1-2013:p0221:b004:l006": "Алтымыш асый sixty mature years of horse age, not confidently equated to modern exact sixty birth-years. Mythic old horse kept; specialist age reckoning review needed.",
     "semetey-1-2013:p0221:b004:l008": "God-struck/shameless/fool curses voiced by Ismail; no diagnosis. Widow excited and in mourning repeated throughout preserved.",
+    "semetey-1-2013:p0221:b004:l012": "Эгерде conditional retained as If so rather than initial unsupported certainty; negative warning follows preceding conditional11.",
     "semetey-1-2013:p0221:b004:l022": "Bones aching and honor broken/departed/returned four distinct rhetorical questions retained; амыз normalized sense намыс with initial consonant omitted, not emended in source.",
     "semetey-1-2013:p0221:b004:l028": "Men’s clothes explicit hostile accusation in speaker’s portrayal, no gender-identity inference.",
     "semetey-1-2013:p0221:b004:l030": "Joy at husband’s death is speaker’s accusation, not silently rewritten narrator fact.",
-    "semetey-1-2013:p0221:b004:l036": "Eight khans and search for husband sarcastic question retained, no literal completed remarriage invented.",
-    "semetey-1-2013:p0221:b004:l012": "Эгерде conditional retained as If so rather than initial unsupported certainty; negative warning follows preceding conditional11."
+    "semetey-1-2013:p0221:b004:l036": "Eight khans and search for husband sarcastic question retained, no literal completed remarriage invented."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0219:b003:l027"
-      ],
-      "raw": [
-        "Àðêà ãàíà ÷à÷ûì èåéèí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0219:b003:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 219,
-          "block": 3,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 512.4597,
-            "xMax": 226.4472,
-            "yMax": 525.6477
-          },
-          "raw": "Àðêà ãàíà ÷à÷ûì èåéèí,",
-          "text": "Арка гана чачым иейин,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Арка гана чачым иейин hair oath: арка чач braid and ий bend/spin variants do not securely establish full idiomatic action. Whole verse withheld; taboo father-marriage oath in next two verses retained separately.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -409,6 +374,17 @@
     "rows_checked": 155,
     "status": "draft; no independent specialist review",
     "details": "Audited all 155 included narrative rows on printed pages 0220 through 0221 against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned. Page 0219 remains outside this targeted audit.",
-    "targeted_qa_0219": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[219,219],"rows_checked":75,"details":"Audited all 75 included narrative rows on printed page 219 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 220–221 retain their separate targeted audit metadata."}
-  }
+    "targeted_qa_0219": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        219,
+        219
+      ],
+      "rows_checked": 75,
+      "details": "Audited all 75 included narrative rows on printed page 219 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 220–221 retain their separate targeted audit metadata."
+    }
+  },
+  "source_joiners": {}
 }

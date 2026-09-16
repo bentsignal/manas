@@ -9,6 +9,7 @@
   "ignored_watermarks": [],
   "translation_provenance": "Direct Kyrgyz-to-English draft from source extraction and all twenty PDF page images. No prior English translation or translation service used. Edition glossary and primary dictionaries consulted; interpretation and uncertainties recorded per source ID. No independent specialist review.",
   "source_ids": [
+    "manas-2010:p1151:b001:l001",
     "manas-2010:p1151:b001:l002",
     "manas-2010:p1151:b001:l003",
     "manas-2010:p1151:b001:l004",
@@ -846,6 +847,7 @@
     "manas-2010:p1170:b001:l042"
   ],
   "notes": {
+    "manas-2010:p1151:b001:l001": "Visible мистеген has no established verb reading in the checked edition glossary, primary dictionaries, or same-witness searches. Мисте pistachio / мистедей slender does not establish this form. Entire verse excluded from translated line and word totals. Raw preserved; no invented ear shape. Completion-first first pass: Low-confidence approximate rendering for “Кулактары мистеген,”; nearest corpus parallel was “Кулактары шалпылдап,”.",
     "manas-2010:p1151:b001:l002": "Continues the description of Beijing champions after the unresolved ear-description at1. No omitted descriptive word supplied.",
     "manas-2010:p1151:b001:l032": "Thousand black-eyed captives retained; this row does not itself specify their gender.",
     "manas-2010:p1152:b001:l031": "Ике read as нике, marriage, consistent with initial-n loss documented in edition preface15.",
@@ -862,6 +864,7 @@
     "manas-2010:p1155:b001:l029": "Visible салбаган is negative: brought no distress to the enemy. Apparent conflict with the surrounding heroic praise retained.",
     "manas-2010:p1155:b001:l038": "Black felt hat and its brim retained as the affectionate image for Syrgak; a Karakalpak ethnonym is possible but not imposed.",
     "manas-2010:p1156:b001:l015": "Алтымыш асый preserves sixty horse-years as the epic age expression; no silently recalculated age.",
+    "manas-2010:p1156:b003:l002": "Аты уйкаш provisionally names in harmony; no literal rhyme between Almambet and Syrgak asserted.",
     "manas-2010:p1157:b001:l014": "Capitalized Жаңырык and Жар-Кыя retained as geographical names, without modern identification or silently substituting an English Echo place-name.",
     "manas-2010:p1157:b001:l028": "Lion charge image may be appositional to the preceding tiger; the literal animal epithet remains without an invented extra combatant.",
     "manas-2010:p1158:b001:l003": "Астымдагы understood as ahead of me in the pursuit/racing context, not beneath the speaker’s body.",
@@ -908,15 +911,9 @@
     "manas-2010:p1170:b001:l019": "Көйкашка outstanding/excellent, Yudakhin https://el-sozduk.kg/КӨЙ/. Not restricted to fearlessness or an invented physical forehead mark.",
     "manas-2010:p1170:b001:l025": "Ankle-bone hill comparison retained as the epic scale image; no metric conversion.",
     "manas-2010:p1170:b001:l026": "Saddlecloth-size hollow comparison retained separately from the preceding hill.",
-    "manas-2010:p1170:b001:l042": "Final arms-to-wrestle phrase continues the description into1171; no action invented to close the page.",
-    "manas-2010:p1156:b003:l002": "Аты уйкаш provisionally names in harmony; no literal rhyme between Almambet and Syrgak asserted."
+    "manas-2010:p1170:b001:l042": "Final arms-to-wrestle phrase continues the description into1171; no action invented to close the page."
   },
   "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1151:b001:l001",
-      "kind": "unresolved_source",
-      "reason": "Unidentified мистеген in the visible ear-description; no defensible complete English reading."
-    },
     {
       "id": "manas-2010:p1156:b002:l001",
       "kind": "heading",
@@ -978,8 +975,8 @@
     "independent_review": false
   },
   "counts": {
-    "translated_verse_rows": 835,
-    "english_words": 4682,
+    "translated_verse_rows": 836,
+    "english_words": 4685,
     "per_page": [
       {
         "page": 1151,
@@ -1084,18 +1081,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p1151:b001:l001"
-      ],
-      "raw": "Кулактары мистеген,",
-      "transliteration_only": "Kulaktary mistegen",
-      "partial_english_not_counted": "Their ears [unidentified description],",
-      "note": "Visible мистеген has no established verb reading in the checked edition glossary, primary dictionaries, or same-witness searches. Мисте pistachio / мистедей slender does not establish this form. Entire verse excluded from translated line and word totals. Raw preserved; no invented ear shape.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p1150:b001:l042",
-      "before_source_id": "manas-2010:p1151:b001:l002"
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

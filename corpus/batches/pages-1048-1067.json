@@ -312,6 +312,7 @@
     "manas-2010:p1055:b001:l015",
     "manas-2010:p1055:b001:l016",
     "manas-2010:p1055:b001:l017",
+    "manas-2010:p1055:b001:l018",
     "manas-2010:p1055:b001:l019",
     "manas-2010:p1055:b001:l020",
     "manas-2010:p1055:b001:l021",
@@ -837,6 +838,7 @@
     "manas-2010:p1067:b001:l037",
     "manas-2010:p1067:b001:l038",
     "manas-2010:p1067:b001:l039",
+    "manas-2010:p1067:b001:l040",
     "manas-2010:p1067:b001:l041",
     "manas-2010:p1067:b001:l042"
   ],
@@ -845,8 +847,8 @@
     "manas-2010:p1048:b001:l008": "олжомо my spoils retained; no unsupported substitution of my wife.",
     "manas-2010:p1048:b001:l026": "тел кулун foal fostered/suckled by another mare, qualified contextual gloss; no change to the printed eating of it.",
     "manas-2010:p1048:b001:l030": "кыярак уу: poison certain, exact modifier unconfirmed. Deadly is contextual to attempted killing; no identified chemical/plant or silent spelling correction. Whole phrase remains qualified.",
-    "manas-2010:p1049:b001:l024": "кез traditional length unit rendered cubit in40high/40deep pair; no exact modern conversion.",
     "manas-2010:p1049:b001:l021": "көөр gem/precious stone, Yudakhin https://el-sozduk.kg/көөр/; jeweled horse breastband, not soot.",
+    "manas-2010:p1049:b001:l024": "кез traditional length unit rendered cubit in40high/40deep pair; no exact modern conversion.",
     "manas-2010:p1049:b001:l028": "Орунун segmented as орун place/grounds following erected/billowing modifier; moat is another possible segmentation. Qualified: no silent emendation to ордо palace or invented tent.",
     "manas-2010:p1050:b001:l009": "Салты-ичке delicate bearing; тейтең tottering, related телтек unsteady gait. Qualified compressed physical description; no explicit footbinding added. https://el-sozduk.kg/телтек/",
     "manas-2010:p1050:b001:l012": "Узун segmented уз+possessive/accusative, craftswomen, rather than узун long. Yudakhin уз skilled craftsperson https://el-sozduk.kg/уз/; related1064:6/25 accomplished women.",
@@ -869,6 +871,7 @@
     "manas-2010:p1054:b001:l001": "кызыл токтугу full abundance is qualified intensifying reading; contrast with Almambet’s recklessness preserved.",
     "manas-2010:p1054:b001:l032": "Shangkay retained as printed ethnogeographic name, not confidently equated with modern Shanghai.",
     "manas-2010:p1055:b001:l011": "суп white camel-wool garment, local glossary1842:29, English material gloss.",
+    "manas-2010:p1055:b001:l018": "Readable words but unresolved phrase Ичигинин саары in mocking list. Yudakhin саар dawn/early morning gives no coherent fur-coat reading; no verified correction or idiom. Excluded from English count, not discarded as non-verse. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1055:b001:l019": "бичик Kalmyk sacred book in Yudakhin https://el-sozduk.kg/бичик/. City of his sacred book retained within Manas’s mocking list; neighboring1055:18 unresolved separately.",
     "manas-2010:p1055:b001:l025": "A thousand black-eyed ones preserves omitted noun; not silently specifying girls/women or adding a sexual claim.",
     "manas-2010:p1055:b001:l038": "Taste their salt literal threat phrase retained with qualified idiomatic force; no invented action.",
@@ -907,7 +910,8 @@
     "manas-2010:p1066:b001:l035": "Printed кек revenge retained as leopard-tiger of vengeance, https://el-sozduk.kg/кек/; possible defective wording not silently changed to эр hero.",
     "manas-2010:p1067:b001:l005": "буркан Buddhist deity/idol, rendered Buddha in the sorcerers’ three repeated imprecations; no claim of historically orthodox ritual.",
     "manas-2010:p1067:b001:l025": "сөөм thumb-to-forefinger span, Yudakhin https://el-sozduk.kg/сөөм/; эли fingerbreadth. Both explicit measures and numbers retained without metric conversion.",
-    "manas-2010:p1067:b001:l028": "эр тандаарын literally would choose a man/hero retained, although surrounding divination is about bearing one; no silent тандаарын→туурарын emendation."
+    "manas-2010:p1067:b001:l028": "эр тандаарын literally would choose a man/hero retained, although surrounding divination is about bearing one; no silent тандаарын→туурарын emendation.",
+    "manas-2010:p1067:b001:l040": "Readable Алтын менен баралап, but verb sense unresolved in gold/clothing context. Yudakhin барала- break into pieces does not support confident adorn/pay meaning. No invented emendation; excluded from English count, retained as unresolved verse. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
   },
   "headings": [
     {
@@ -924,16 +928,6 @@
       "id": "manas-2010:p1050:b002:l001",
       "kind": "heading",
       "reason": "Editorial section heading, translated separately."
-    },
-    {
-      "id": "manas-2010:p1055:b001:l018",
-      "kind": "unresolved_source",
-      "reason": "Readable words but unresolved phrase Ичигинин саары in mocking list. Yudakhin саар dawn/early morning gives no coherent fur-coat reading; no verified correction or idiom. Excluded from English count, not discarded as non-verse."
-    },
-    {
-      "id": "manas-2010:p1067:b001:l040",
-      "kind": "unresolved_source",
-      "reason": "Readable Алтын менен баралап, but verb sense unresolved in gold/clothing context. Yudakhin барала- break into pieces does not support confident adorn/pay meaning. No invented emendation; excluded from English count, retained as unresolved verse."
     }
   ],
   "unresolved_source": [
@@ -1125,5 +1119,7 @@
     "source_words": 2692,
     "english_words": 4695,
     "all_source_verse_words": 2698
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

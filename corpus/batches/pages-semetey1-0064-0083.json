@@ -377,6 +377,7 @@
     "semetey-1-2013:p0068:b004:l022",
     "semetey-1-2013:p0068:b004:l023",
     "semetey-1-2013:p0068:b004:l024",
+    "semetey-1-2013:p0068:b004:l025",
     "semetey-1-2013:p0068:b004:l026",
     "semetey-1-2013:p0068:b004:l027",
     "semetey-1-2013:p0068:b004:l028",
@@ -1650,6 +1651,7 @@
     "semetey-1-2013:p0068:b003:l018": "Karakan and Temir Khan both retained as printed destinations/person designations, not silently harmonized.",
     "semetey-1-2013:p0068:b003:l033": "Printed алам көчүңдү: take your camp/migration from Keng-Kol. Directional tension with return-and-revenge narrative retained.",
     "semetey-1-2013:p0068:b003:l036": "Printed сартымды retained as my Sart (settled Central Asian person); possible corruption of шарт vow not silently substituted. Revenge against Karymbai may motivate the phrase, but identification not asserted.",
+    "semetey-1-2013:p0068:b004:l025": "UNRESOLVED: Капчыгай элек эр болдук. We were a gorge, became эр does not yield a securely interpretable complete contrast; possible эр erosion/ground or corrupt reading requires more evidence. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0068:b004:l033": "Таалайды жеген literally ate/consumed fortune. Metaphor retained without smoothing away grief.",
     "semetey-1-2013:p0069:b003:l017": "Chyiyrdy explicitly says my beard is white; gender/formula tension retained, not rewritten as hair.",
     "semetey-1-2013:p0069:b004:l003": "Visually confirmed indented continuation joined as one verse; all original fragments retained in source_groups.",
@@ -1677,6 +1679,7 @@
     "semetey-1-2013:p0073:b005:l011": "Black-spotted leopard and short-tailed lion invoked as Manas's supernatural helpers; no rationalization into human warriors.",
     "semetey-1-2013:p0073:b005:l019": "Жыңайлак read as жылаңайлак barefoot; red dervish retained without invented proper identity. Raw glyphs unchanged.",
     "semetey-1-2013:p0073:b005:l038": "Begins imagined accusation continued onto next page. Quotation punctuation will be finalized with continuation; no whole sentence inferred from this partial boundary.",
+    "semetey-1-2013:p0074:b003:l008": "Kanykey laments her orphan's seven days without food and offers to die sacrificially; self-abasing widow lament, not shamefaced misconduct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0074:b003:l018": "Visually confirmed indented continuation joined as one verse; all original fragments retained in source_groups.",
     "semetey-1-2013:p0074:b003:l021": "Kanykei explicitly proposes stabbing her own lung and dying in sacrifice. Literary source content retained without softening or added instructions.",
     "semetey-1-2013:p0074:b004:l007": "Чампаң read as чампан, foreign/unclear-language speakers; Seytek1960 editorial glossary PDF262 defines Чампан тили түшүнүксүз. https://new.bizdin.kg/media/books/Сейтек._1960_г..pdf. No exact place name asserted; raw spelling unchanged.",
@@ -1732,8 +1735,7 @@
     "semetey-1-2013:p0083:b005:l019": "Урмеке resolved by Seytek1991 glossary PDF352 (printed351): reverent address meaning sacred mother (касиеттүү энеке). Primary Kyrgyz glossary https://cdn-1.aki.kg/st_bilimlib/8/6ba4d8da68bdb70850cc2e35ec861c0213e5b51f.pdf; local sources/raw/manas-aki-candidate.pdf SHA68bc80c49971f65cf755f6ef4d49e22396d9ca913b53b1f18aace29563f74178. Worker individually inspected /tmp/seytek1991-glossary352.png after coordinator located entry. Restored whole English verse; no unsupported Mecca reading.",
     "semetey-1-2013:p0083:b005:l029": "Six hunger days printed here, versus seven73–74; not harmonized.",
     "semetey-1-2013:p0083:b005:l036": "Five hair divisions printed here, versus four74:11; not harmonized.",
-    "semetey-1-2013:p0083:b005:l039": "Continuous sentence ends at84:3:1 let us die in sacrifice, owned by next batch. This batch keeps its own final verse only, no completion padding.",
-    "semetey-1-2013:p0074:b003:l008": "Kanykey laments her orphan's seven days without food and offers to die sacrificially; self-abasing widow lament, not shamefaced misconduct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0083:b005:l039": "Continuous sentence ends at84:3:1 let us die in sacrifice, owned by next batch. This batch keeps its own final verse only, no completion padding."
   },
   "excluded_source_ids": [
     {
@@ -1965,46 +1967,9 @@
       "id": "semetey-1-2013:p0083:b006:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0068:b004:l025",
-      "kind": "unresolved_source",
-      "reason": "UNRESOLVED: Капчыгай элек эр болдук. We were a gorge, became эр does not yield a securely interpretable complete contrast; possible эр erosion/ground or corrupt reading requires more evidence."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0068:b004:l025"
-      ],
-      "raw": [
-        "Ýíåêå, êàï÷ûãàé ýëåê ýð áîëäóê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0068:b004:l025",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 68,
-          "block": 4,
-          "line_in_block": 25,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 483.8997,
-            "xMax": 504.7968,
-            "yMax": 497.0877
-          },
-          "raw": "Ýíåêå, êàï÷ûãàé ýëåê ýð áîëäóê,",
-          "text": "Энеке, капчыгай элек эр болдук,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "UNRESOLVED: Капчыгай элек эр болдук. We were a gorge, became эр does not yield a securely interpretable complete contrast; possible эр erosion/ground or corrupt reading requires more evidence.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -2039,19 +2004,50 @@
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
     "scope": "All source-English pairs and all revised pairs individually read. Final1542English verses have unique canonical first-source IDs; grouped fragments and nonverse/unresolved exclusions account for every extraction record on64–83 except20watermarks.",
-    "targeted_qa_0080_0083": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[80,83],"rows_checked":307,"details":"Audited all 307 included narrative rows on printed pages 80 through 83 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."},
-    "targeted_qa_0070_0079": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[70,79],"rows_checked":774,"details":"Audited all 774 included narrative rows on printed pages 70 through 79 against their exact Kyrgyz source rows; corrected one literalized epic epithet for Kanykei on page 73. Pages 64–69 and 80–83 were outside this scoped pass."},
-    "targeted_qa_0064_0069": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[64,69],"rows_checked":461,"details":"Audited all 461 included narrative rows on printed pages 64 through 69 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."}
+    "targeted_qa_0080_0083": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        80,
+        83
+      ],
+      "rows_checked": 307,
+      "details": "Audited all 307 included narrative rows on printed pages 80 through 83 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."
+    },
+    "targeted_qa_0070_0079": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        70,
+        79
+      ],
+      "rows_checked": 774,
+      "details": "Audited all 774 included narrative rows on printed pages 70 through 79 against their exact Kyrgyz source rows; corrected one literalized epic epithet for Kanykei on page 73. Pages 64–69 and 80–83 were outside this scoped pass."
+    },
+    "targeted_qa_0064_0069": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        64,
+        69
+      ],
+      "rows_checked": 461,
+      "details": "Audited all 461 included narrative rows on printed pages 64 through 69 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Dictionary and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1542,
-    "english_words": 8952,
-    "unresolved_source_rows": 1,
+    "english_verse_rows": 1543,
+    "english_words": 8961,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1559,
     "reconstructed_source_verses": 1543,
     "wrapped_verse_groups": 16,
     "nonverse_extraction_records": 46,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

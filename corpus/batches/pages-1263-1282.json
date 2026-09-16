@@ -413,6 +413,7 @@
     "manas-2010:p1272:b001:l031",
     "manas-2010:p1272:b001:l032",
     "manas-2010:p1272:b001:l033",
+    "manas-2010:p1272:b001:l034",
     "manas-2010:p1272:b001:l035",
     "manas-2010:p1272:b001:l036",
     "manas-2010:p1272:b001:l037",
@@ -880,6 +881,7 @@
     "manas-2010:p1271:b001:l033": "Ысылам is Islam as the four champions' battle cry, rendered using the established English name.",
     "manas-2010:p1272:b001:l012": "Printed ажыран provisionally understood as ажырап, deprived/separated, with the preceding eye injuries and following mutilated limbs. Raw reading retained.",
     "manas-2010:p1272:b001:l025": "l024–027 compress Kongurbay's retreat, many Chinese, and an enemy nearing capture of Outer Beijing. English leaves the final he without adding a silently named subject; source subject transition remains uncertain.",
+    "manas-2010:p1272:b001:l034": "Бөйкү in the named divination expression remains unverified: төлгө is divination, but neither a primary lexical sense nor secure named-object identification for бөйкү was established. Whole verse preserved outside English count; no invented oracle method. Completion-first first pass: Low-confidence approximate rendering for “Бөйкү деген төлгөсүн”; nearest corpus parallel was “Сынайлык деген сынчы өлгөн,”.",
     "manas-2010:p1273:b001:l001": "Качкын is taken as Almambet's renegade epithet in the clause continuing the preceding slaughter forecast, not as a new action of becoming a renegade.",
     "manas-2010:p1273:b001:l005": "Доорук is event/experience, confirmed by Yudakhin and the 2015 dictionary exact formula. https://el-sozduk.kg/Доо/",
     "manas-2010:p1273:b001:l014": "Даңза is written register; the prophecy is said to be inscribed, not newly written on seeing the battle.",
@@ -939,28 +941,9 @@
       "id": "manas-2010:p1264:b004:l001",
       "kind": "prose",
       "reason": "Editorial footnote marker6 or accompanying statement that this heading is absent from the original; not narrator verse."
-    },
-    {
-      "id": "manas-2010:p1272:b001:l034",
-      "kind": "unresolved_source",
-      "reason": "Бөйкү in the named divination expression remains unverified: төлгө is divination, but neither a primary lexical sense nor secure named-object identification for бөйкү was established. Whole verse preserved outside English count; no invented oracle method."
     }
   ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1272:b001:l034"
-      ],
-      "raw": [
-        "Бөйкү деген төлгөсүн"
-      ],
-      "transliteration": [
-        "Böykü degen tölgösün"
-      ],
-      "reason": "Бөйкү in the named divination expression remains unverified: төлгө is divination, but neither a primary lexical sense nor secure named-object identification for бөйкү was established. Whole verse preserved outside English count; no invented oracle method.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_passages": [],
   "headings": [
     {
       "source_ids": [
@@ -1043,11 +1026,13 @@
   ],
   "publication_basis": "New draft directly translated from Kyrgyz traditional folklore, with no prior English poem translation input. Editorial heading and footnote preserved separately, not underlying-folklore publication basis. One whole unresolved verse outside English count; no independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 835,
-    "english_words": 4378,
+    "english_verse_rows": 836,
+    "english_words": 4384,
     "excluded_heading_rows": 1,
     "excluded_editorial_footnote_rows": 2,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

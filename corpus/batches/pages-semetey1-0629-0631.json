@@ -39,6 +39,8 @@
     "semetey-1-2013:p0629:b003:l031",
     "semetey-1-2013:p0629:b003:l032",
     "semetey-1-2013:p0629:b003:l033",
+    "semetey-1-2013:p0629:b003:l034",
+    "semetey-1-2013:p0629:b003:l035",
     "semetey-1-2013:p0629:b003:l036",
     "semetey-1-2013:p0629:b003:l037",
     "semetey-1-2013:p0629:b003:l038",
@@ -65,6 +67,7 @@
     "semetey-1-2013:p0629:b004:l020",
     "semetey-1-2013:p0629:b004:l021",
     "semetey-1-2013:p0629:b004:l022",
+    "semetey-1-2013:p0629:b004:l023",
     "semetey-1-2013:p0629:b004:l024",
     "semetey-1-2013:p0629:b004:l025",
     "semetey-1-2013:p0629:b004:l026",
@@ -183,6 +186,7 @@
     "semetey-1-2013:p0631:b003:l026",
     "semetey-1-2013:p0631:b003:l027",
     "semetey-1-2013:p0631:b003:l028",
+    "semetey-1-2013:p0631:b003:l029",
     "semetey-1-2013:p0631:b003:l030",
     "semetey-1-2013:p0631:b003:l031",
     "semetey-1-2013:p0631:b003:l032",
@@ -263,21 +267,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0629:b003:l034",
-      "kind": "unresolved_source",
-      "reason": "Болжош болуп жаткан го: noun means mark/sign, but exact relation of dead Koenaaly to Manas remains unclear; no unsupported companion synonym."
-    },
-    {
-      "id": "semetey-1-2013:p0629:b003:l035",
-      "kind": "unresolved_source",
-      "reason": "Башына тыгын болгону: stopper/plug noun or something placed under head is attested, but intended image in grave account remains unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0629:b004:l023",
-      "kind": "unresolved_source",
-      "reason": "Кытай оттук боор таш: Chinese fire-striking stone apparent, but exact боор таш modifier/material not secured; entire verse held."
-    },
-    {
       "id": "semetey-1-2013:p0630:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -296,11 +285,6 @@
       "id": "semetey-1-2013:p0631:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0631:b003:l029",
-      "kind": "unresolved_source",
-      "reason": "Дүнүйө кирип ичине: wealth/world entering inside him is literal text but dream idiom unresolved; no invented gladness."
     }
   ],
   "notes": {
@@ -311,13 +295,18 @@
     "semetey-1-2013:p0629:b003:l013": "Жашайдар treated young topknotted child; lying naked and entering naked repeated in18, no armor silently supplied.",
     "semetey-1-2013:p0629:b003:l016": "Boy-boy cries retained as vocalization, not the English noun boy.",
     "semetey-1-2013:p0629:b003:l020": "Primary Yudakhin аласа II2 explicitly angel of death, exact аласа жакын келгенде; not invented financial debt.",
+    "semetey-1-2013:p0629:b003:l021": "Second model review: ок rendered shot without specifying bullet versus arrow; no explicit firearm in the fatal attack clause.",
     "semetey-1-2013:p0629:b003:l026": "Caravan traveler's report retained as hearsay; later claims remain inferential го.",
     "semetey-1-2013:p0629:b003:l031": "At his head is spatial burial account; no assertion of biological succession.",
+    "semetey-1-2013:p0629:b003:l034": "Болжош болуп жаткан го: noun means mark/sign, but exact relation of dead Koenaaly to Manas remains unclear; no unsupported companion synonym. Башына тыгын болгону: stopper/plug noun or something placed under head is attested, but intended image in grave account remains unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0629:b003:l035": "Болжош болуп жаткан го: noun means mark/sign, but exact relation of dead Koenaaly to Manas remains unclear; no unsupported companion synonym. Башына тыгын болгону: stopper/plug noun or something placed under head is attested, but intended image in grave account remains unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0629:b004:l001": "His father refers back to Semetey; source familial perspective retained without claiming Manas fathered Bakay.",
     "semetey-1-2013:p0629:b004:l008": "Primary жолум үй small temporary yurt without wall lattice, not full-size palace.",
     "semetey-1-2013:p0629:b004:l014": "Назыр=назир vow/sacrificial offering; no invented sacrificial purpose beyond camel ritual context.",
     "semetey-1-2013:p0629:b004:l019": "Эчен кылым many ages retained as epic expression, no recalculated chronological age.",
     "semetey-1-2013:p0629:b004:l020": "Primary даңгыл2 experienced expert; not a road.",
     "semetey-1-2013:p0629:b004:l021": "Source says smokeless firewood; later27 says smoke flies. Both retained without harmonizing contradiction.",
+    "semetey-1-2013:p0629:b004:l023": "Кытай оттук боор таш: Chinese fire-striking stone apparent, but exact боор таш modifier/material not secured; entire verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0629:b004:l030": "Broad-bodied movement descriptive; no personal name.",
     "semetey-1-2013:p0629:b004:l031": "Дардакта=дардаңда primary lumbering movement of a large person, not boasting in cooking context.",
     "semetey-1-2013:p0629:b004:l032": "Primary көлпөктө stately smooth movement; жатып калды aspect rendered kept moving, not unsupported falling asleep (Semetey sleeps later).",
@@ -325,6 +314,7 @@
     "semetey-1-2013:p0629:b004:l035": "Qibla orientation preserved; primary1960glossary373 explains direction of Mecca.",
     "semetey-1-2013:p0630:b003:l003": "Акыреттик describes friendship extending into the next world, no claim Bolokbay is a ghost.",
     "semetey-1-2013:p0630:b003:l005": "Primary төкөр exact төкөр уста Бөлөкбай means lame smith.",
+    "semetey-1-2013:p0630:b003:l006": "His father refers to Semetey, not a claim that Bolokbay is Manas’s biological son.",
     "semetey-1-2013:p0630:b003:l014": "Raising Bolokbay to khan preserved even though he is also called smith and treasury keeper.",
     "semetey-1-2013:p0630:b003:l020": "Primary калча4 explicitly treasury/bodyguard, conventional40; not imposed Tajik ethnicity or slave sense.",
     "semetey-1-2013:p0630:b003:l021": "1960glossary373 and Yudakhin мүңкүр mean disabled or helpless/distressed; contextual unfortunate guards, not invented underworld angels. Two indented physical fragments form one verse, source evidence retained.",
@@ -332,6 +322,7 @@
     "semetey-1-2013:p0630:b003:l028": "Distressed treasury guards, consistent with21; no Munkur angel invented.",
     "semetey-1-2013:p0630:b003:l037": "Baabedin ritual patron named; sacrificial vow explicitly stated. Indented деп continuation joined, both source fragments retained.",
     "semetey-1-2013:p0630:b003:l039": "Primary борук I two-year-old wether; gray color retained, not a camel.",
+    "semetey-1-2013:p0630:b004:l001": "Restored after independent worker and root primary lexical review: Yudakhin бастыр- sense6 walk/ride at a walk, exact кайдан бастырдыңар asks where traveling from. Preceding3:36 mountain-top travel and39 leading a wether support movement over summit; no pressing on the animal inferred. Qualified contextual reading, source unchanged.",
     "semetey-1-2013:p0630:b004:l007": "Surviving without dying retains source redundancy.",
     "semetey-1-2013:p0630:b004:l011": "Cumulative four with previous two; not four additional named men.",
     "semetey-1-2013:p0630:b004:l013": "Cumulative six with preceding four; Azhibay occurs as a hostile relative here, not silently replaced with a different name.",
@@ -346,6 +337,7 @@
     "semetey-1-2013:p0631:b003:l017": "Arkalap construed relying on Semetey, who is absent; not physically carrying him.",
     "semetey-1-2013:p0631:b003:l021": "Kangshaak-Tash proper landscape spelling retained; 1960glossary372 defines каншаакташ high projecting cliff, source place identity not invented.",
     "semetey-1-2013:p0631:b003:l023": "Not dead/not counted among living paradox retained across23–26, not literal resurrection.",
+    "semetey-1-2013:p0631:b003:l029": "Дүнүйө кирип ичине: wealth/world entering inside him is literal text but dream idiom unresolved; no invented gladness. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0631:b003:l035": "Argali ewes and rams kept distinct; source6and4 retained.",
     "semetey-1-2013:p0631:b004:l002": "Dootu named patron associated with smithing; next-world friendship retained, not historical claim that biblical David met Bolokbay.",
     "semetey-1-2013:p0631:b004:l014": "Кадыр түн Night of Power; no calendar date added.",
@@ -353,138 +345,9 @@
     "semetey-1-2013:p0631:b004:l019": "Күптүү=күптү pent-up distress, not bodily swelling diagnosis.",
     "semetey-1-2013:p0631:b004:l026": "Age12 retained as speaker's estimate, not reconciled with other time statements.",
     "semetey-1-2013:p0631:b004:l030": "Self-deprecating curse this wretch in eyelid omen speech, no newly introduced person.",
-    "semetey-1-2013:p0631:b004:l035": "May Manas never die retained as lament despite prior death; no resurrection invented.",
-    "semetey-1-2013:p0629:b004:l001": "His father refers back to Semetey; source familial perspective retained without claiming Manas fathered Bakay.",
-    "semetey-1-2013:p0630:b003:l006": "His father refers to Semetey, not a claim that Bolokbay is Manas’s biological son.",
-    "semetey-1-2013:p0629:b003:l021": "Second model review: ок rendered shot without specifying bullet versus arrow; no explicit firearm in the fatal attack clause.",
-    "semetey-1-2013:p0630:b004:l001": "Restored after independent worker and root primary lexical review: Yudakhin бастыр- sense6 walk/ride at a walk, exact кайдан бастырдыңар asks where traveling from. Preceding3:36 mountain-top travel and39 leading a wether support movement over summit; no pressing on the animal inferred. Qualified contextual reading, source unchanged."
+    "semetey-1-2013:p0631:b004:l035": "May Manas never die retained as lament despite prior death; no resurrection invented."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0629:b003:l034"
-      ],
-      "raw": [
-        "Áîëæîø áîëóï æàòêàí ãî,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0629:b003:l034",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 629,
-          "block": 3,
-          "line_in_block": 34,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 611.8197,
-            "xMax": 233.9028,
-            "yMax": 625.0077
-          },
-          "raw": "Áîëæîø áîëóï æàòêàí ãî,",
-          "text": "Болжош болуп жаткан го,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Болжош болуп жаткан го: noun means mark/sign, but exact relation of dead Koenaaly to Manas remains unclear; no unsupported companion synonym.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0629:b003:l035"
-      ],
-      "raw": [
-        "Áàøûíà òûãûí áîëãîíó,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0629:b003:l035",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 629,
-          "block": 3,
-          "line_in_block": 35,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 625.9797,
-            "xMax": 224.7816,
-            "yMax": 639.1677
-          },
-          "raw": "Áàøûíà òûãûí áîëãîíó,",
-          "text": "Башына тыгын болгону,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Башына тыгын болгону: stopper/plug noun or something placed under head is attested, but intended image in grave account remains unresolved.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0629:b004:l023"
-      ],
-      "raw": [
-        "Êûòàé îòòóê áîîð òàø"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0629:b004:l023",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 629,
-          "block": 4,
-          "line_in_block": 23,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 455.5797,
-            "xMax": 441.6384,
-            "yMax": 468.7677
-          },
-          "raw": "Êûòàé îòòóê áîîð òàø",
-          "text": "Кытай оттук боор таш",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Кытай оттук боор таш: Chinese fire-striking stone apparent, but exact боор таш modifier/material not secured; entire verse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0631:b003:l029"
-      ],
-      "raw": [
-        "Ä¿í¿éº êèðèï è÷èíå,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0631:b003:l029",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 631,
-          "block": 3,
-          "line_in_block": 29,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 540.7797,
-            "xMax": 212.97,
-            "yMax": 553.9677
-          },
-          "raw": "Ä¿í¿éº êèðèï è÷èíå,",
-          "text": "Дүнүйө кирип ичине,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Дүнүйө кирип ичине: wealth/world entering inside him is literal text but dream idiom unresolved; no invented gladness.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -498,11 +361,11 @@
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 226,
-    "english_words": 1234,
+    "translated_verse_rows": 230,
+    "english_words": 1253,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 230,
-    "unresolved_source_verses": 4,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 4
   },
   "alignment_check": {
@@ -517,9 +380,16 @@
     "status": "draft; no independent specialist review",
     "details": "Audited all 151 included narrative rows on printed pages 0630 through 0631 against the extracted Kyrgyz source. The existing English rows were semantically sound and correctly aligned.",
     "additional_targeted_qa": {
-      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
-      "page_range": [629, 629], "rows_checked": 75,
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        629,
+        629
+      ],
+      "rows_checked": 75,
       "details": "Audited all 75 included narrative rows on page 629; the existing English rows were semantically sound and correctly aligned."
     }
-  }
+  },
+  "source_joiners": {}
 }

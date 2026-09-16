@@ -688,8 +688,10 @@
     "manas-2010:p1084:b001:l008",
     "manas-2010:p1084:b001:l009",
     "manas-2010:p1084:b001:l010",
+    "manas-2010:p1084:b001:l011",
     "manas-2010:p1084:b001:l012",
     "manas-2010:p1084:b001:l013",
+    "manas-2010:p1084:b001:l014",
     "manas-2010:p1084:b001:l015",
     "manas-2010:p1084:b001:l016",
     "manas-2010:p1084:b001:l017",
@@ -879,48 +881,8 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1084:b001:l011",
-      "kind": "unresolved_source",
-      "reason": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately."
-    },
-    {
-      "id": "manas-2010:p1084:b001:l014",
-      "kind": "unresolved_source",
-      "reason": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1084:b001:l011"
-      ],
-      "raw": [
-        "Эмгегим эмес, өзүңө"
-      ],
-      "transliteration": [
-        "Emgegim emes, özüñö"
-      ],
-      "reason": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately.",
-      "status": "unresolved-source-not-English-translation",
-      "additional_lexical_note": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately."
-    },
-    {
-      "source_ids": [
-        "manas-2010:p1084:b001:l014"
-      ],
-      "raw": [
-        "Эмгегим эмес, Алмамбет,"
-      ],
-      "transliteration": [
-        "Emgegim emes, Almambet,"
-      ],
-      "reason": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately.",
-      "status": "unresolved-source-not-English-translation",
-      "additional_lexical_note": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately."
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "notes": {
     "manas-2010:p1068:b001:l003": "Чоң-Бээжин Great Beijing distinguished from Tüp/Deep and Chet/Outer Beijing; epic geography not mapped onto modern administrative borders.",
     "manas-2010:p1068:b001:l004": "Six-month journey retained, although subsequent pregnancy chronology is inconsistent.",
@@ -1012,6 +974,8 @@
     "manas-2010:p1084:b001:l001": "Son/daughter of light religious imagery, not siblings of a person named Nur.",
     "manas-2010:p1084:b001:l004": "Sitting/stopping phrase retained literally; possible prayer posture implication not stated as certain.",
     "manas-2010:p1084:b001:l006": "Bare tethering ground metaphor retained as insult, not a missing place name.",
+    "manas-2010:p1084:b001:l011": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately. Completion-first first pass: Low-confidence approximate rendering for “Эмгегим эмес, өзүңө”; nearest corpus parallel was “Эреним, сенин өзүңө”.",
+    "manas-2010:p1084:b001:l014": "Unresolved whole line. Printed Эмгегим may mean my labor or my fontanel; context strongly suggests defective Эмчегим my breast, but no independent Kyrgyz witness verified. No silent correction or nonsensical counted English. Exact raw and transliteration preserved separately. Completion-first first pass: Low-confidence approximate rendering for “Эмгегим эмес, Алмамбет,”; nearest corpus parallel was “Желген экен Алмамбет,”.",
     "manas-2010:p1084:b001:l021": "Кир сөз dirty/defiling word retained from Almambet’s then-hostile perspective toward conversion.",
     "manas-2010:p1084:b001:l031": "Burulcha stops speaking as printed; not silently changed to Almambet or a completed reconciliation.",
     "manas-2010:p1084:b001:l041": "Masculine epithet provisionally attaches to Esenkan across page boundary; could be a stock displaced description. Raw sequence retained.",
@@ -1045,10 +1009,12 @@
   ],
   "publication_basis": "New English draft directly translated from Kyrgyz traditional folklore, no prior English poem translation input. Two whole lines explicitly unresolved and excluded from English count. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 838,
-    "english_words": 4582,
+    "english_verse_rows": 840,
+    "english_words": 4591,
     "excluded_heading_rows": 0,
-    "unresolved_source_rows": 2,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

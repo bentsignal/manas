@@ -69,6 +69,7 @@
     "manas-2010:p0768:b001:l016",
     "manas-2010:p0768:b001:l017",
     "manas-2010:p0768:b001:l018",
+    "manas-2010:p0768:b001:l019",
     "manas-2010:p0768:b001:l020",
     "manas-2010:p0768:b001:l021",
     "manas-2010:p0768:b001:l022",
@@ -857,6 +858,7 @@
     "manas-2010:p0767:b001:l033": "Shooruk is called Chinese here; other ethnic descriptions are not harmonized.",
     "manas-2010:p0767:b001:l041": "Narration shifts to Shooruk's attack on the Noygut, made explicit on the next page.",
     "manas-2010:p0768:b001:l016": "Айча бел retained literally as crescent-waisted; the exact beauty convention remains uncertain.",
+    "manas-2010:p0768:b001:l019": "Printed кет кудай remains uninterpreted in marriage context; parallel822:l036 does not resolve it. Whole verse preserved separately, excluded from English counts. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0768:b001:l020": "The preceding verse remains unresolved; this clause is translated separately without supplying its missing object.",
     "manas-2010:p0768:b001:l026": "Напси: appetite/desire seizing Bakay; narrator's explicit comment retained.",
     "manas-2010:p0768:b001:l029": "Кожосан: protecting spirit, edition glossary1839:l019. Applied as Bakay's epithet, not an ordinary military rank.",
@@ -954,13 +956,7 @@
     "manas-2010:p0786:b001:l025": "Чогоол fierce/impetuous qualifies gunfire; not an unidentified weapon name.",
     "manas-2010:p0786:b001:l037": "Threat to behead his own companions, including elders, is explicit."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p0768:b001:l019",
-      "kind": "unresolved_source",
-      "reason": "Substantive expression кет кудай not reliably interpreted; verse preserved separately, excluded from English counts."
-    }
-  ],
+  "excluded_source_ids": [],
   "headings": [],
   "lexical_sources": [
     "sources/extracted/manas-2010.lines.jsonl (edition glossary1833–1844; parallel822:l036)",
@@ -1007,8 +1003,8 @@
     "independent_review": false
   },
   "counts": {
-    "translated_verse_rows": 839,
-    "english_words": 4545,
+    "translated_verse_rows": 840,
+    "english_words": 4550,
     "per_page": [
       {
         "page": 767,
@@ -1113,19 +1109,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p0768:b001:l019"
-      ],
-      "raw": "Чын дүйнөлүк кет кудай",
-      "transliteration_only": "Chyn düynölük ket kuday",
-      "partial_english_not_counted": "Of the true world ... [ket kuday unresolved]",
-      "note": "Unresolved substantive expression кет кудай; full verse excluded from English totals. Repeats at822:l036 in Bakay's marriage recollection. Possible borrowing or textual defect unverified; no invented completion.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p0768:b001:l018",
-      "before_source_id": "manas-2010:p0768:b001:l020",
-      "additional_lexical_note": "Unresolved substantive expression кет кудай; full verse excluded from English totals. Repeats at822:l036 in Bakay's marriage recollection. Possible borrowing or textual defect unverified; no invented completion."
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

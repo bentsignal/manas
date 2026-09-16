@@ -231,6 +231,7 @@
     "manas-2010:p1532:b001:l014",
     "manas-2010:p1532:b001:l015",
     "manas-2010:p1532:b001:l016",
+    "manas-2010:p1532:b001:l017",
     "manas-2010:p1532:b001:l018",
     "manas-2010:p1532:b001:l019",
     "manas-2010:p1532:b001:l020",
@@ -871,6 +872,7 @@
     "manas-2010:p1531:b001:l040": "Two fired bricks per man explicitly retained across1531:40–41, tied to ensuing encirclement and defenses; no inferred modern weapon or added brick count.",
     "manas-2010:p1532:b001:l006": "шор кайнат cause misery, Yudakhin https://el-sozduk.kg/шор/; boiling misfortunes image retained here, boiling misery1543:1. Exact1546:13 формула rendered inescapable misery, not boiled brine poured on captives.",
     "manas-2010:p1532:b001:l012": "Printed names in harmony retained though Serek/Syrgak only approximate phonetic pair; same formula Almambet/Chubak1539:12, no names altered to force rhyme.",
+    "manas-2010:p1532:b001:l017": "Printed Ордун салын is not confidently resolved in escape/positioning context. A separately published Kyrgyz quotation in Ubukeev has Ордун салып, but this only supports a variant ending, not whole-phrase meaning. Do not silently normalize or invent a maneuver. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1532:b001:l034": "сан epic multitude unit vast host, no fixed census. Also1534:10,1537:5; seven сан1542:35 becomes seven vast hosts, explicit seven retained.",
     "manas-2010:p1532:b001:l039": "Cow-rumped literal horse conformation epithet retained for Sarala; not changed to a cow mount.",
     "manas-2010:p1533:b001:l024": "кызыталак coarse curse literally daughter divorced, Yudakhin https://el-sozduk.kg/талак/; literal curse retained without invented sexual act.",
@@ -915,13 +917,7 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1532:b001:l017",
-      "kind": "unresolved_source",
-      "reason": "Printed Ордун салын is not confidently resolved in escape/positioning context. A separately published Kyrgyz quotation in Ubukeev has Ордун салып, but this only supports a variant ending, not whole-phrase meaning. Do not silently normalize or invent a maneuver."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_source": [
     {
       "id": "manas-2010:p1532:b001:l017",
@@ -1062,5 +1058,7 @@
     "source_words": 2697,
     "english_words": 4460,
     "all_source_verse_words": 2701
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

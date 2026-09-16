@@ -88,6 +88,7 @@
     "semetey-1-2013:p0045:b003:l003",
     "semetey-1-2013:p0045:b003:l004",
     "semetey-1-2013:p0045:b003:l005",
+    "semetey-1-2013:p0045:b003:l006",
     "semetey-1-2013:p0045:b003:l007",
     "semetey-1-2013:p0045:b003:l008",
     "semetey-1-2013:p0045:b003:l009",
@@ -1331,6 +1332,7 @@
     "semetey-1-2013:p0061:b003:l036",
     "semetey-1-2013:p0061:b003:l037",
     "semetey-1-2013:p0061:b003:l038",
+    "semetey-1-2013:p0061:b003:l039",
     "semetey-1-2013:p0061:b004:l001",
     "semetey-1-2013:p0061:b004:l002",
     "semetey-1-2013:p0061:b004:l003",
@@ -1352,6 +1354,7 @@
     "semetey-1-2013:p0061:b004:l019",
     "semetey-1-2013:p0061:b004:l020",
     "semetey-1-2013:p0061:b004:l021",
+    "semetey-1-2013:p0061:b004:l022",
     "semetey-1-2013:p0061:b004:l023",
     "semetey-1-2013:p0061:b004:l024",
     "semetey-1-2013:p0061:b004:l025",
@@ -1407,7 +1410,9 @@
     "semetey-1-2013:p0062:b003:l036",
     "semetey-1-2013:p0062:b003:l037",
     "semetey-1-2013:p0062:b003:l038",
+    "semetey-1-2013:p0062:b003:l039",
     "semetey-1-2013:p0062:b004:l001",
+    "semetey-1-2013:p0062:b004:l002",
     "semetey-1-2013:p0062:b004:l003",
     "semetey-1-2013:p0062:b004:l004",
     "semetey-1-2013:p0062:b004:l005",
@@ -1449,6 +1454,7 @@
     "semetey-1-2013:p0063:b003:l002",
     "semetey-1-2013:p0063:b003:l003",
     "semetey-1-2013:p0063:b003:l004",
+    "semetey-1-2013:p0063:b003:l005",
     "semetey-1-2013:p0063:b003:l006",
     "semetey-1-2013:p0063:b003:l007",
     "semetey-1-2013:p0063:b003:l008",
@@ -1492,6 +1498,7 @@
     "semetey-1-2013:p0063:b004:l007",
     "semetey-1-2013:p0063:b004:l008",
     "semetey-1-2013:p0063:b004:l009",
+    "semetey-1-2013:p0063:b004:l011",
     "semetey-1-2013:p0063:b004:l012",
     "semetey-1-2013:p0063:b004:l013",
     "semetey-1-2013:p0063:b004:l014",
@@ -1504,6 +1511,7 @@
     "semetey-1-2013:p0063:b004:l021",
     "semetey-1-2013:p0063:b004:l022",
     "semetey-1-2013:p0063:b004:l023",
+    "semetey-1-2013:p0063:b004:l024",
     "semetey-1-2013:p0063:b004:l025",
     "semetey-1-2013:p0063:b004:l026",
     "semetey-1-2013:p0063:b004:l027",
@@ -1898,322 +1906,9 @@
       "id": "semetey-1-2013:p0063:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio; not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0045:b003:l006",
-      "kind": "unresolved_source",
-      "reason": "Тумардан чыккан ок болду: тумар normally amulet, but the relation to the projectile and the subsequent lung penetration is not securely resolved. No invented weapon or magic event, and no silent тумар/туман substitution. Whole verse unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0061:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Сөлөкөтү сөгүлүп: frame/shape is clear but сөгүлүп in this physical portrait has no secure complete interpretation. Looming would supply an unsupported verb sense; unraveling would be an unsupported literal physical event. Whole verse unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0061:b004:l022",
-      "kind": "unresolved_source",
-      "reason": "Шатырман оюн даң салып: games and loud celebration are clear, but шатырман is unverified. Related шатыра-шатман joyous/noisy expressions do not securely establish this form or rule out a game term. Whole verse unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0062:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Темир чектүү капырдын: темир чектүү is an unverified epithet. Iron and unbeliever are recognizable, but no confident iron-fenced/iron-limited/other reading. Whole verse unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0062:b004:l002",
-      "kind": "unresolved_source",
-      "reason": "Терселдей кепти билбеген: терселдей is not securely interpreted. No conjectural Christian/heretic or contrary-speech substitution. Whole verse unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0063:b003:l005",
-      "kind": "unresolved_source",
-      "reason": "Байгамбар султан дан урду да: Prophet and sovereign and struck are clear, but separately printed дан is not securely explained as a word, displaced suffix or typo. It is not silently discarded to count the verse as fully translated."
-    },
-    {
-      "id": "semetey-1-2013:p0063:b004:l011",
-      "kind": "unresolved_source",
-      "reason": "Калдыркан кара көйнөгү: калдыркан has primary senses large butterfly, sheet metal, and greave, but its exact relation to this black dress remains unresolved. No invented butterfly pattern or metal fabric. Whole verse unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0063:b004:l024",
-      "kind": "unresolved_source",
-      "reason": "Кынынан кыйрап жыгылып: falling/collapsing is clear but кынынан is not securely interpreted in this passage. No unverified sheath/body/flank replacement. Whole verse unresolved."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0045:b003:l006"
-      ],
-      "raw": [
-        "Òóìàðäàí ÷ûêêàí îê áîëäó,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0045:b003:l006",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 45,
-          "block": 3,
-          "line_in_block": 6,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 214.1397,
-            "xMax": 244.5264,
-            "yMax": 227.3277
-          },
-          "raw": "Òóìàðäàí ÷ûêêàí îê áîëäó,",
-          "text": "Тумардан чыккан ок болду,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Тумардан чыккан ок болду: тумар normally amulet, but the relation to the projectile and the subsequent lung penetration is not securely resolved. No invented weapon or magic event, and no silent тумар/туман substitution. Whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0045:b003:l005",
-      "following_source": "semetey-1-2013:p0045:b003:l007",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0045.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0061:b003:l039"
-      ],
-      "raw": [
-        "Ñºëºêºò¿ ñºã¿ë¿ï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0061:b003:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 61,
-          "block": 3,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 80.64,
-            "yMin": 682.8597,
-            "xMax": 188.622,
-            "yMax": 696.0477
-          },
-          "raw": "Ñºëºêºò¿ ñºã¿ë¿ï,",
-          "text": "Сөлөкөтү сөгүлүп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Сөлөкөтү сөгүлүп: frame/shape is clear but сөгүлүп in this physical portrait has no secure complete interpretation. Looming would supply an unsupported verb sense; unraveling would be an unsupported literal physical event. Whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0061:b003:l038",
-      "following_source": "semetey-1-2013:p0061:b004:l001",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0061.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0061:b004:l022"
-      ],
-      "raw": [
-        "Øàòûðìàí îþí äà¢ ñàëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0061:b004:l022",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 61,
-          "block": 4,
-          "line_in_block": 22,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 441.4197,
-            "xMax": 471.5628,
-            "yMax": 454.6077
-          },
-          "raw": "Øàòûðìàí îþí äà¢ ñàëûï,",
-          "text": "Шатырман оюн даң салып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Шатырман оюн даң салып: games and loud celebration are clear, but шатырман is unverified. Related шатыра-шатман joyous/noisy expressions do not securely establish this form or rule out a game term. Whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0061:b004:l021",
-      "following_source": "semetey-1-2013:p0061:b004:l023",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0061.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0062:b003:l039"
-      ],
-      "raw": [
-        "Òåìèð ÷åêò¿¿ êàïûðäûí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0062:b003:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 62,
-          "block": 3,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 682.8597,
-            "xMax": 228.0864,
-            "yMax": 696.0477
-          },
-          "raw": "Òåìèð ÷åêò¿¿ êàïûðäûí,",
-          "text": "Темир чектүү капырдын,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Темир чектүү капырдын: темир чектүү is an unverified epithet. Iron and unbeliever are recognizable, but no confident iron-fenced/iron-limited/other reading. Whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0062:b003:l038",
-      "following_source": "semetey-1-2013:p0062:b004:l001",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0062.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0062:b004:l002"
-      ],
-      "raw": [
-        "Òåðñåëäåé êåïòè áèëáåãåí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0062:b004:l002",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 62,
-          "block": 4,
-          "line_in_block": 2,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 157.2597,
-            "xMax": 467.3016,
-            "yMax": 170.4477
-          },
-          "raw": "Òåðñåëäåé êåïòè áèëáåãåí,",
-          "text": "Терселдей кепти билбеген,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Терселдей кепти билбеген: терселдей is not securely interpreted. No conjectural Christian/heretic or contrary-speech substitution. Whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0062:b004:l001",
-      "following_source": "semetey-1-2013:p0062:b004:l003",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0062.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0063:b003:l005"
-      ],
-      "raw": [
-        "Áàéãàìáàð ñóëòàí äàí óðäó äà"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0063:b003:l005",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 63,
-          "block": 3,
-          "line_in_block": 5,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 199.9797,
-            "xMax": 257.2944,
-            "yMax": 213.1677
-          },
-          "raw": "Áàéãàìáàð ñóëòàí äàí óðäó äà",
-          "text": "Байгамбар султан дан урду да",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Байгамбар султан дан урду да: Prophet and sovereign and struck are clear, but separately printed дан is not securely explained as a word, displaced suffix or typo. It is not silently discarded to count the verse as fully translated.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0063:b003:l004",
-      "following_source": "semetey-1-2013:p0063:b003:l006",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0063.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0063:b004:l011"
-      ],
-      "raw": [
-        "Êàëäûðêàí êàðà êºéíºã¿"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0063:b004:l011",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 63,
-          "block": 4,
-          "line_in_block": 11,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 285.1797,
-            "xMax": 458.9076,
-            "yMax": 298.3677
-          },
-          "raw": "Êàëäûðêàí êàðà êºéíºã¿",
-          "text": "Калдыркан кара көйнөгү",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Калдыркан кара көйнөгү: калдыркан has primary senses large butterfly, sheet metal, and greave, but its exact relation to this black dress remains unresolved. No invented butterfly pattern or metal fabric. Whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0063:b004:l009",
-      "following_source": "semetey-1-2013:p0063:b004:l012",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0063.png"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0063:b004:l024"
-      ],
-      "raw": [
-        "Êûíûíàí êûéðàï æûãûëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0063:b004:l024",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 63,
-          "block": 4,
-          "line_in_block": 24,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 469.7397,
-            "xMax": 485.772,
-            "yMax": 482.9277
-          },
-          "raw": "Êûíûíàí êûéðàï æûãûëûï,",
-          "text": "Кынынан кыйрап жыгылып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Кынынан кыйрап жыгылып: falling/collapsing is clear but кынынан is not securely interpreted in this passage. No unverified sheath/body/flank replacement. Whole verse unresolved.",
-      "status": "unresolved-source-not-English-translation",
-      "preceding_source": "semetey-1-2013:p0063:b004:l023",
-      "following_source": "semetey-1-2013:p0063:b004:l025",
-      "rendered_page": "tmp/pdfs/semetey1-0044-0063/page-0063.png"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "notes": {
@@ -2222,15 +1917,19 @@
     "semetey-1-2013:p0044:b003:l004": "Father's-grave imprecation retained as a curse in reported speech, not translator commentary.",
     "semetey-1-2013:p0044:b003:l006": "The hollow/ravine metaphor is rendered literally; no unverified explanation of the proverbial image is added.",
     "semetey-1-2013:p0044:b003:l016": "Baychoro is retained as printed; no silent identification with Bakai.",
+    "semetey-1-2013:p0044:b003:l019": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0044:b003:l027": "Spring and dark eye are the source's parallel mourning images.",
     "semetey-1-2013:p0044:b004:l001": "Sunset here and dawn two verses later both retained; chronology not harmonized.",
     "semetey-1-2013:p0044:b004:l008": "Qibla is the Islamic direction of prayer; no modern geographic bearing is imposed.",
     "semetey-1-2013:p0044:b004:l022": "Кулун literally colt is the customary child epithet, used here within an enemy's order to kill Semetey.",
     "semetey-1-2013:p0044:b004:l026": "Даңгыт denotes a great male dog/wolf, not Tangut people. Yudakhin and 1969 dictionary: https://el-sozduk.kg/даңгыт/.",
     "semetey-1-2013:p0044:b004:l032": "Exact idiom зың-зың этип кенебейт means remaining quite unconcerned. Yudakhin https://el-sozduk.kg/зың/; no literal ringing or invented resolve.",
+    "semetey-1-2013:p0045:b003:l006": "Тумардан чыккан ок болду: тумар normally amulet, but the relation to the projectile and the subsequent lung penetration is not securely resolved. No invented weapon or magic event, and no silent тумар/туман substitution. Whole verse unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0045:b003:l016": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0045:b003:l018": "Whip-length measurement concerns division of cloth, not a new attack upon a person.",
     "semetey-1-2013:p0045:b003:l021": "Khakan is the imperial title in the Beijing epithet, retained without identifying a modern state.",
     "semetey-1-2013:p0045:b003:l025": "Four paired provisions for orphans, widows, blind and disabled people remain distinct verses.",
+    "semetey-1-2013:p0045:b003:l034": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0045:b003:l036": "Кундуз is otter in Yudakhin, not beaver: https://tamgasoft.kg/dict/index.php?lfrom=kg&word=кундуз. Fur context retained.",
     "semetey-1-2013:p0045:b003:l038": "Багалак/багалек is the trouser cuff here; Yudakhin gives an exact otter-fur cuff example: https://el-sozduk.kg/багалек/.",
     "semetey-1-2013:p0045:b004:l013": "Seven pack camels here and six hundred later are retained as printed, without numerical reconciliation.",
@@ -2240,22 +1939,31 @@
     "semetey-1-2013:p0045:b004:l033": "Калдайган кара баш retains great dark head; no unsupported bowed posture is added.",
     "semetey-1-2013:p0045:b004:l035": "Тул is the mourning effigy of the deceased, not a coffin. Yudakhin https://el-sozduk.kg/tul-7/.",
     "semetey-1-2013:p0045:b004:l039": "Aktinte is retained as a named weapon; no extra verse is created for the name.",
+    "semetey-1-2013:p0046:b003:l004": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0046:b003:l006": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0046:b003:l014": "Dead horse hide and the dead elder brother's widow form a harsh parallel; the coercive marriage implications are retained.",
     "semetey-1-2013:p0046:b003:l024": "The wives' sons are understood from the brothers' dispute; English supplies the familial relation, not new characters.",
     "semetey-1-2013:p0046:b003:l026": "Казгалдак is a wild duck; exact species not selected. Yudakhin and 1969 epic example: https://el-sozduk.kg/казгалдак/.",
     "semetey-1-2013:p0046:b003:l027": "Kara-Kyr is retained as a place name without a speculative modern location.",
+    "semetey-1-2013:p0046:b003:l028": "Köbösh directly insults Kanykey, pairing the epithet with bitch and demanding remarriage while assaulting her. Replace literal black-faced with hostile shameless, not bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0046:b003:l033": "Ormombek, Tekechi's son, appears in an accusation/question, not a verified new husband.",
+    "semetey-1-2013:p0046:b003:l036": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0046:b004:l002": "Arkesken is the named sword.",
     "semetey-1-2013:p0046:b004:l006": "The child is cut into SIX pieces here, but TWO on p47b3:23. Both source numbers are retained. The child is not explicitly named Semetey here; no invented explanation for the later living Semetey.",
     "semetey-1-2013:p0046:b004:l010": "Кечир is shoulder-blade cartilage, supported by Yudakhin https://el-sozduk.kg/кечир/. No additional anatomical precision is claimed.",
     "semetey-1-2013:p0046:b004:l022": "Forehead and fate are the mourner's conventional imagery, not a factual physiognomic claim by the translator.",
     "semetey-1-2013:p0046:b004:l026": "Nape-hair image retained, without replacing it with an unrelated baldness claim.",
     "semetey-1-2013:p0046:b004:l034": "Даңгыт again means great dogs/wolves; see https://el-sozduk.kg/даңгыт/.",
+    "semetey-1-2013:p0047:b003:l001": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0047:b003:l020": "Шашке means midmorning, not an exact clock hour.",
     "semetey-1-2013:p0047:b003:l023": "TWO pieces is the printed number, despite SIX on p46b4:6; child identity not silently supplied.",
+    "semetey-1-2013:p0047:b003:l029": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0047:b004:l004": "Олоңдой чач is the idiom for a long thick braid, not meadow grass. Yudakhin https://el-sozduk.kg/олоң/.",
+    "semetey-1-2013:p0047:b004:l006": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0047:b004:l013": "The wish to die as a sacrifice is the mourner's plea, not an action added by the translation.",
     "semetey-1-2013:p0047:b004:l017": "Printed албөй is interpreted as өлбөй, 'without dying', in the survival lament. Raw glyphs and normalized evidence are unchanged.",
+    "semetey-1-2013:p0047:b004:l019": "Kanykey laments her dead husband and assault, wishing she had died with him. Bereaved is the idiomatic widow sense; disgrace remains explicit in кордук. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+    "semetey-1-2013:p0047:b004:l021": "Sympathetic narrator immediately names the place of Manas's death and describes violence against his widow; no complexion description. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json. Earlier note (epithet interpretation superseded above; other qualifications retained): Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0047:b004:l023": "Talas spring drips remain poetic body imagery; not removed as apparatus.",
     "semetey-1-2013:p0047:b004:l029": "The violent wound to the breast is retained without sexualizing it.",
     "semetey-1-2013:p0047:b004:l035": "Literal 'without showing that she was a woman' preserves the narrator's gendered convention; no added assertion of women's weakness.",
@@ -2267,30 +1975,42 @@
     "semetey-1-2013:p0048:b003:l029": "Kara-Üngkür is the named treasury cave, not assigned a modern location.",
     "semetey-1-2013:p0048:b003:l034": "The source says two thoughts; English does not assign one thought to each person without evidence.",
     "semetey-1-2013:p0048:b003:l036": "Coercive marriage desire is the scoundrel's thought, not the narrator's recommendation.",
+    "semetey-1-2013:p0048:b003:l038": "Kanykey rehearses the six attackers' calculation that helplessness will force her to marry one of them; hostile quoted framing, not sympathetic narrator label. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0048:b004:l014": "Keng-Kol preserves printed Кол, not silently changed to Көл/lake.",
     "semetey-1-2013:p0048:b004:l018": "Praise and criticism of the Kyrgyz both remain, including the contradictory tone of the lament.",
+    "semetey-1-2013:p0048:b004:l025": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0048:b004:l031": "Зар is read as Persian-derived gold in the plunder context; the lament homonym is not selected here. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0048:b004:l035": "Казкалдак is the wild-duck variant, with no species invented.",
     "semetey-1-2013:p0048:b004:l039": "Кулаалы is kite/buzzard in Yudakhin; only ак кулаалы specifically denotes a male harrier. https://el-sozduk.kg/кулаалы/.",
+    "semetey-1-2013:p0049:b003:l008": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0049:b003:l019": "Кысталак is rendered as the harsh curse variant of кызыталак, not a term of affection. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0049:b003:l021": "Бейле is understood as surveying/examining the route, not governing a people.",
     "semetey-1-2013:p0049:b003:l029": "The enclosure belongs to the deceased lord in the circumambulation context; no modern mausoleum architecture is supplied.",
     "semetey-1-2013:p0049:b003:l037": "Khojosan is the source's protective sacred figure. Not identified with Manas; later p53 and p59 invocations remain distinct.",
+    "semetey-1-2013:p0049:b005:l007": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0049:b005:l012": "Repeated wind images are kept literally; no source word replaced to smooth the lament.",
     "semetey-1-2013:p0049:b005:l014": "Жетик denotes an excellent/accomplished person, not жетим orphan. https://el-sozduk.kg/жетик/.",
     "semetey-1-2013:p0049:b005:l022": "The dress and neck image is retained; no unverified ritual explanation added.",
+    "semetey-1-2013:p0049:b005:l025": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0049:b005:l029": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged.",
     "semetey-1-2013:p0049:b005:l036": "Алаткүн is read as the imperative take, not a new proper name.",
     "semetey-1-2013:p0049:b005:l038": "The PDF prints буудай, wheat, though p49b5:32 and p45b4:8 have the expected horse term буудан in a parallel. English preserves wheat and the odd juxtaposition, with no silent emendation. Тобурчак is a great fine steed.",
+    "semetey-1-2013:p0050:b003:l004": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0050:b003:l012": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0050:b003:l021": "Printed Келеңкер соору, кең чачпак places ornaments before hips, then broad hair pendants. This unusual noun order is retained. 'At their hips' supplies an English relation between juxtaposed nouns; no swap to the common келеңкер чачпак, кең соору formula. Yudakhin келеңкер ornaments/charms in braids, https://el-sozduk.kg/келин/.",
+    "semetey-1-2013:p0050:b003:l027": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0050:b003:l036": "Умаштай is fully awake in this formula, not the porridge homonym. Yudakhin https://el-sozduk.kg/УМАШ/.",
+    "semetey-1-2013:p0050:b004:l018": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0050:b004:l020": "The parenthetical clause about Manas and Akkelte is printed in the poem's body and translated as a verse, not excluded as editorial prose.",
     "semetey-1-2013:p0050:b004:l025": "Ak-Olpok is the named armored coat; the negative about its availability is retained.",
     "semetey-1-2013:p0050:b004:l026": "Суп is fine white cloth (epic usages include silk/camel wool); whiteness retained without imposing one fiber. https://el-sozduk.kg/суп/.",
     "semetey-1-2013:p0050:b004:l027": "The second суп cloth verse is independently retained; see prior note.",
     "semetey-1-2013:p0050:b004:l039": "Half a wheat grain is the precise source image, not rounded or generalized.",
     "semetey-1-2013:p0051:b003:l009": "Кайса means to eat/snatch food; Yudakhin gives кайсап алар тамак жок. https://el-sozduk.kg/кайса/. This is lack of food, not failure to meet someone.",
+    "semetey-1-2013:p0051:b003:l020": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0051:b003:l023": "Printed бул жерге is retained in evidence; no silent replacement with бул жерде.",
+    "semetey-1-2013:p0051:b003:l024": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0051:b003:l027": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0051:b003:l031": "Banner and gift images concern the surviving heir, but remain literal images rather than all being replaced with 'son'.",
     "semetey-1-2013:p0051:b005:l003": "Head wrapped with willow, feet propped with gold: printed verbs retained despite other variants with the relations reversed.",
     "semetey-1-2013:p0051:b005:l007": "Аптиек is a Quran selection used as a primer, historically one seventh of the Quran. Primary1969 and2015 entries and exact Semetey example: https://el-sozduk.kg/ап/ (аптиек/аптийек).",
@@ -2298,6 +2018,8 @@
     "semetey-1-2013:p0051:b005:l016": "Канчык is the fierce she-wolf/bitch epithet, not 'khan's wife'. Narrator's animal epithet retained; Yudakhin https://el-sozduk.kg/канчык/.",
     "semetey-1-2013:p0051:b005:l018": "Aysarala is Almambet's named horse; not replaced with a generic coat-color description.",
     "semetey-1-2013:p0051:b005:l033": "Ычкыры түпөк, кырк муун has an exact Yudakhin example: tasselled drawstring with forty segments. 'Knots' renders the cord's joints, not forty bones. https://el-sozduk.kg/ТҮПӨК/.",
+    "semetey-1-2013:p0052:b003:l008": "Kanykey addresses absent defenders, mourns Manas and flees to Bukhara; self-lament about widowhood rather than moral wrongdoing. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+    "semetey-1-2013:p0052:b003:l011": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0052:b003:l024": "The second-person mountain obstacle form болдуң is retained, not silently changed to third-person болду.",
     "semetey-1-2013:p0052:b004:l001": "Олоңдой hair is a long thick braid; https://el-sozduk.kg/олоң/.",
     "semetey-1-2013:p0052:b004:l007": "Double mail here is retained despite unavailable Ak-Olpok on p50; no identity or acquisition supplied to reconcile them.",
@@ -2309,6 +2031,7 @@
     "semetey-1-2013:p0053:b003:l037": "Repeated cave image retained independently.",
     "semetey-1-2013:p0053:b004:l008": "Six tail feathers and forty flight feathers are the printed counts; not six separate tails.",
     "semetey-1-2013:p0053:b004:l018": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged.",
+    "semetey-1-2013:p0053:b004:l026": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0053:b004:l032": "Тулпар is the winged/exceptional steed epithet, not a new proper name.",
     "semetey-1-2013:p0053:b004:l033": "The source says the names chime/rhyme; the English transliterations need not make an invented rhyme.",
     "semetey-1-2013:p0054:b003:l001": "The divinely dug pit is a figurative source image, not an added event.",
@@ -2325,21 +2048,29 @@
     "semetey-1-2013:p0055:b003:l018": "Advanced years is literal; no invented wisdom claim.",
     "semetey-1-2013:p0055:b003:l020": "The old woman makes the child laugh, a causative action; the child is not made the instigator.",
     "semetey-1-2013:p0055:b003:l032": "Karakan here and Temir Khan later are preserved as printed names rather than silently standardized.",
+    "semetey-1-2013:p0055:b003:l034": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0055:b004:l003": "Бадыраң темир is ordinary/common iron, as verified with Yudakhin during the Manas1803 lexical review.",
+    "semetey-1-2013:p0055:b004:l006": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0055:b004:l009": "Телик/телиген is the little falcon, characterized as a poor hunter in Yudakhin; not generic hand-reared livestock. https://el-sozduk.kg/телиген/.",
     "semetey-1-2013:p0055:b004:l018": "The repeated shit insult remains in the poem's English, not reduced to a neutral euphemism. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0055:b004:l027": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0055:b004:l038": "Кундуз is otter; see p45b3:36.",
     "semetey-1-2013:p0056:b003:l006": "The death referred to here is not assigned an unsupported childbirth identity.",
     "semetey-1-2013:p0056:b003:l007": "Мураап is interpreted in the heir/inheritance context, not as an irrigation official.",
     "semetey-1-2013:p0056:b003:l008": "Баанай is shelter/protection; Yudakhin gives the exact infant Semetey head-protection formula. https://el-sozduk.kg/баана/.",
+    "semetey-1-2013:p0056:b003:l016": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0056:b003:l026": "Parenthesized curse remains a printed verse in the narrative body.",
     "semetey-1-2013:p0056:b003:l031": "Аласа denotes both a due/claim and the angel of death. The death-claim reading is supported by Yudakhin https://el-sozduk.kg/аласа/; the indented continuation belongs to this one verse. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0056:b003:l037": "Joint ends and soles are separate bodily injury details and both retained.",
     "semetey-1-2013:p0056:b004:l002": "Six days without food is a duration of hunger, not the infant's age.",
     "semetey-1-2013:p0056:b004:l010": "Sacrifice/death plea retained as speech, not expanded into an action.",
+    "semetey-1-2013:p0056:b004:l011": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0056:b004:l018": "Widow fearing her infant will starve during flight; narrator is explicitly sympathetic and describes lack of milk, refuge and food. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
+    "semetey-1-2013:p0056:b004:l026": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0057:b003:l004": "The lung compared to a cauldron is retained, not replaced with generic meat.",
     "semetey-1-2013:p0057:b003:l015": "Four refusals of rich food followed by deprivation are retained, including their negatives.",
     "semetey-1-2013:p0057:b003:l021": "Кыйгыл is sour, not bitter; exact Yudakhin thirst-for-sour-water example https://el-sozduk.kg/кыйгыл/.",
+    "semetey-1-2013:p0057:b003:l025": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0057:b003:l038": "Жал means horse neck fat as food in this context, not chewing a mane.",
     "semetey-1-2013:p0057:b005:l005": "Drawing the roof-opening cover is the contextual understanding of түндүктү тартуу; no new roof structure supplied.",
     "semetey-1-2013:p0057:b005:l019": "Кызыталак rendered as 'Damn it'; its literal daughter-repudiation curse is not an actual legal divorce event here.",
@@ -2351,35 +2082,44 @@
     "semetey-1-2013:p0058:b003:l016": "Six days here and seven days later both retained without chronological correction. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0058:b004:l007": "Heels striking buttocks is the source's running hyperbole.",
     "semetey-1-2013:p0058:b004:l022": "Кайып иш is understood as a supernatural deed, rendered miracle; Yudakhin кайып gives unseen benevolent spirit. https://el-sozduk.kg/кайып/. This is contextual interpretation, not an exact dictionary formula; printed иш is not emended to аш/food or read as wild game without evidence.",
+    "semetey-1-2013:p0058:b004:l027": "Sympathetic narrator contrasts Kanykey's former refined food with present starvation while seeking food for her orphan; bereavement is causal context. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0058:b004:l028": "Repeated кайып иш rendered consistently with p58b4:22; no silent иш/аш substitution.",
     "semetey-1-2013:p0058:b004:l032": "Gold-heeled boots retained despite socks-only description on p56; no invented acquisition supplied.",
     "semetey-1-2013:p0059:b003:l025": "Tiny grain-sized mouth and subsequent bull/calf head images are the source's hunger hyperbole; both animal sizes retained.",
     "semetey-1-2013:p0059:b005:l018": "Death plea retained as literary speech without added means.",
     "semetey-1-2013:p0059:b005:l020": "Handbreadth nights is retained as an odd source image, not silently emended.",
     "semetey-1-2013:p0059:b005:l031": "The violent reference to Chinese killers is retained as the character's speech, not endorsed as a present-day claim.",
+    "semetey-1-2013:p0059:b005:l033": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0059:b005:l037": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged.",
     "semetey-1-2013:p0060:b003:l024": "Огой is the Nogai ethnonym with initial н dropped. Karalaev's Manas2010 editorial preface explicitly lists огой–ногой at p15b2:5 (local primary extraction/PDF); no invented personal name or generic helper replaces it.",
     "semetey-1-2013:p0060:b003:l028": "Каргылуу кара тоо is an inaccessible mountain, also a protective-support metaphor, not rock ledges. Exact Yudakhin expression: https://el-sozduk.kg/каргылуу/.",
     "semetey-1-2013:p0060:b003:l037": "The long nursing-cow line wraps physically but is one verse. The following TWO mothers remains distinct. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0060:b004:l001": "Сайгак is cattle gadfly here, with an exact calf example in Yudakhin; not the antelope homonym. https://el-sozduk.kg/сайгак/.",
     "semetey-1-2013:p0060:b004:l005": "Томолонсун is a curse for the calf to tumble/fall, not a proper name.",
     "semetey-1-2013:p0060:b004:l009": "Repeated calf curse retained independently.",
+    "semetey-1-2013:p0060:b004:l021": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
     "semetey-1-2013:p0060:b004:l023": "Repeated calf curse retained independently.",
     "semetey-1-2013:p0060:b004:l034": "THREE and FIVE circuits here, then THREE on p61, remain as printed.",
     "semetey-1-2013:p0061:b003:l010": "THREE circuits retained rather than reconciled with p60's five.",
     "semetey-1-2013:p0061:b003:l016": "Batkaktuu is capitalized as the stream/place name; карасуу is a spring-fed stream, not a new named Black Sea.",
+    "semetey-1-2013:p0061:b003:l039": "Сөлөкөтү сөгүлүп: frame/shape is clear but сөгүлүп in this physical portrait has no secure complete interpretation. Looming would supply an unsupported verb sense; unraveling would be an unsupported literal physical event. Whole verse unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0061:b004:l003": "Intelligence here and lack of humanity in the next verse form the narrator's moral contrast; both retained.",
     "semetey-1-2013:p0061:b004:l006": "Jet-Kayt is retained as the named figure previously overthrown, not replaced with a new identity.",
     "semetey-1-2013:p0061:b004:l008": "SIXTY days is the source feast duration.",
     "semetey-1-2013:p0061:b004:l014": "Бор кайнат means vigorous boiling; Yudakhin бор gives the exact idiom https://el-sozduk.kg/бор/. Not translated as chalk.",
     "semetey-1-2013:p0061:b004:l017": "Forty foot-lengths is retained as the game's bodily measure; no conversion into modern metric or standardized English feet.",
     "semetey-1-2013:p0061:b004:l018": "Forty mares at each place is the source's count.",
+    "semetey-1-2013:p0061:b004:l022": "Шатырман оюн даң салып: games and loud celebration are clear, but шатырман is unverified. Related шатыра-шатман joyous/noisy expressions do not securely establish this form or rule out a game term. Whole verse unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0061:b004:l023": "Чатыраш is chess in Yudakhin and1969;2015 describes a historical board game with fourteen pieces each. 'Chess' follows the older primary lexical identification without imposing modern tournament rules. https://el-sozduk.kg/чатыраш/.",
     "semetey-1-2013:p0061:b004:l024": "Khoja and eshen are Islamic religious titles; the source's sixty/forty counts remain distinct.",
     "semetey-1-2013:p0061:b004:l027": "Ике is an attested variant of нике, marriage, not an unrecognized proper name. Yudakhin https://el-sozduk.kg/ike-2/.",
     "semetey-1-2013:p0061:b004:l030": "The father is the ceremonial appointed father for marriage, not a substituted biological father.",
     "semetey-1-2013:p0062:b003:l001": "Continuing speech and its pleading repetitions remain full verses, not abridged prose.",
+    "semetey-1-2013:p0062:b003:l039": "Темир чектүү капырдын: темир чектүү is an unverified epithet. Iron and unbeliever are recognizable, but no confident iron-fenced/iron-limited/other reading. Whole verse unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0062:b004:l002": "Терселдей кепти билбеген: терселдей is not securely interpreted. No conjectural Christian/heretic or contrary-speech substitution. Whole verse unresolved. Completion-first first pass: Low-confidence approximate rendering for “Терселдей кепти билбеген,”; nearest corpus parallel was “Кылдай кытмыр билбеген,”.",
     "semetey-1-2013:p0062:b004:l028": "Жетик is accomplished/excellent, not orphan жетим; https://el-sozduk.kg/жетик/.",
     "semetey-1-2013:p0063:b003:l003": "Sacred writing tied in the belt and the oath sworn by God figuratively strike Karymbay; English does not add a physical assailant.",
+    "semetey-1-2013:p0063:b003:l005": "Байгамбар султан дан урду да: Prophet and sovereign and struck are clear, but separately printed дан is not securely explained as a word, displaced suffix or typo. It is not silently discarded to count the verse as fully translated. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0063:b003:l008": "Possession by a demon is the narrative's explanation, not a clinical diagnosis.",
     "semetey-1-2013:p0063:b003:l020": "FOURTEEN here and the repeated age on l22 are retained despite TWELVE in earlier marital formulas.",
     "semetey-1-2013:p0063:b003:l021": "Sword and sheath image retained without adding a sexual interpretation.",
@@ -2391,55 +2131,18 @@
     "semetey-1-2013:p0063:b004:l004": "The source juxtaposes the great dark head with a side blow; both anatomical references are retained without smoothing away the head.",
     "semetey-1-2013:p0063:b004:l006": "Долоно is hawthorn; булдурсун is the heavy whip. Both glossary-marked ordinary terms translated.",
     "semetey-1-2013:p0063:b004:l009": "Indented physical continuation is part of this one verse; not counted as a second English line. Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
+    "semetey-1-2013:p0063:b004:l011": "Калдыркан кара көйнөгү: калдыркан has primary senses large butterfly, sheet metal, and greave, but its exact relation to this black dress remains unresolved. No invented butterfly pattern or metal fabric. Whole verse unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0063:b004:l012": "The dress tears at the side; its previous modifier remains an unresolved whole verse recorded separately.",
     "semetey-1-2013:p0063:b004:l016": "Strawberry-mottled dress image retained without replacing it with a claim about material.",
     "semetey-1-2013:p0063:b004:l020": "Printed кулдук is interpreted as possessive кулдун in this calf-ownership construction; raw unchanged.",
     "semetey-1-2013:p0063:b004:l022": "The prince addressed in the cry is not declared dead; plea and the mother's fall remain separate.",
+    "semetey-1-2013:p0063:b004:l024": "Кынынан кыйрап жыгылып: falling/collapsing is clear but кынынан is not securely interpreted in this passage. No unverified sheath/body/flank replacement. Whole verse unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0063:b004:l026": "Spring flowing through the valley and light from within are affectionate child images, retained separately.",
     "semetey-1-2013:p0063:b004:l029": "Roof drip compares the whip's lasting bodily mark; no literal leak invented during the assault.",
     "semetey-1-2013:p0063:b004:l030": "Handspan mark and until-death duration retained as the source's lasting-injury image.",
     "semetey-1-2013:p0063:b004:l032": "Repeated roof-drip image introduces the lasting memory of the whip; retained independently.",
     "semetey-1-2013:p0063:b004:l036": "Death wish and burning honor belong to literary lament; no new self-harm action added.",
-    "semetey-1-2013:p0063:b004:l039": "The surviving Semetey is explicitly the reason she remains alive; no reconciliation with the unnamed killed child on46–47 is supplied.",
-    "semetey-1-2013:p0044:b003:l019": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0045:b003:l016": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0045:b003:l034": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0046:b003:l004": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0046:b003:l006": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0046:b003:l036": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0047:b003:l001": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0047:b003:l029": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0047:b004:l006": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0047:b004:l021": "Sympathetic narrator immediately names the place of Manas's death and describes violence against his widow; no complexion description. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json. Earlier note (epithet interpretation superseded above; other qualifications retained): Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0048:b004:l025": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0049:b003:l008": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0049:b005:l007": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0049:b005:l025": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0050:b003:l004": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0050:b003:l012": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0050:b003:l027": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0050:b004:l018": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0051:b003:l020": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0051:b003:l024": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0051:b003:l027": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0052:b003:l011": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0053:b004:l026": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0055:b003:l034": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0055:b004:l006": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0055:b004:l027": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0056:b003:l016": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0056:b004:l011": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0056:b004:l026": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0057:b003:l025": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0059:b005:l033": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0060:b004:l021": "Indented continuation inspected in the PDF and joined with one space as one printed verse; both physical IDs, raw strings and bboxes retained.",
-    "semetey-1-2013:p0059:b005:l037": "Corrected after individually re-inspecting this page and reading primary Yudakhin кол: exact он эки бирге кол берген = follower of twelve ishans (spiritual masters), a piety formula. Not age twelve, marriage, or twelve allies. Source wording preserved unchanged.",
-    "semetey-1-2013:p0046:b003:l028": "Köbösh directly insults Kanykey, pairing the epithet with bitch and demanding remarriage while assaulting her. Replace literal black-faced with hostile shameless, not bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0047:b004:l019": "Kanykey laments her dead husband and assault, wishing she had died with him. Bereaved is the idiomatic widow sense; disgrace remains explicit in кордук. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0048:b003:l038": "Kanykey rehearses the six attackers' calculation that helplessness will force her to marry one of them; hostile quoted framing, not sympathetic narrator label. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0052:b003:l008": "Kanykey addresses absent defenders, mourns Manas and flees to Bukhara; self-lament about widowhood rather than moral wrongdoing. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0056:b004:l018": "Widow fearing her infant will starve during flight; narrator is explicitly sympathetic and describes lack of milk, refuge and food. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0058:b004:l027": "Sympathetic narrator contrasts Kanykey's former refined food with present starvation while seeking food for her orphan; bereavement is causal context. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0063:b004:l039": "The surviving Semetey is explicitly the reason she remains alive; no reconciliation with the unnamed killed child on46–47 is supplied."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -2477,25 +2180,41 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [44, 49],
+      "page_range": [
+        44,
+        49
+      ],
       "rows_checked": 451,
       "details": "Audited all 451 included narrative rows on printed pages 44 through 49 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction. Printed pages 50 through 63 were outside this targeted pass."
     },
-    "targeted_qa_0060_0063": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[60,63],"rows_checked":302,"details":"Audited all 302 included narrative rows on printed pages 60 through 63 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."},
+    "targeted_qa_0060_0063": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        60,
+        63
+      ],
+      "rows_checked": 302,
+      "details": "Audited all 302 included narrative rows on printed pages 60 through 63 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."
+    },
     "targeted_qa_0050_0059": {
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [50, 59],
+      "page_range": [
+        50,
+        59
+      ],
       "rows_checked": 760,
       "details": "Audited all 760 included narrative rows on printed pages 50 through 59 against their exact Kyrgyz source rows; corrected four lexical errors, including two places where the heroic epithet буудан had been mistaken for a literal steed."
     }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No MT API or previous published English poem used. Primary Kyrgyz/Russian dictionary entries and original Kyrgyz editorial preface used only for lexical support. Provisional translation and lineation; source witness not reconciled and no independent expert certification.",
   "counts": {
-    "english_verse_rows": 1513,
-    "english_words": 9266,
-    "unresolved_source_rows": 8,
+    "english_verse_rows": 1521,
+    "english_words": 9301,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1521,
     "wrapped_verse_groups": 39,
@@ -2514,5 +2233,6 @@
   "source_hashes": {
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
-  }
+  },
+  "source_joiners": {}
 }

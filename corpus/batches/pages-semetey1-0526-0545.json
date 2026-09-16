@@ -81,6 +81,7 @@
     "semetey-1-2013:p0526:b004:l034",
     "semetey-1-2013:p0526:b004:l035",
     "semetey-1-2013:p0526:b004:l036",
+    "semetey-1-2013:p0526:b004:l037",
     "semetey-1-2013:p0526:b004:l038",
     "semetey-1-2013:p0527:b003:l001",
     "semetey-1-2013:p0527:b003:l002",
@@ -393,6 +394,7 @@
     "semetey-1-2013:p0531:b003:l001",
     "semetey-1-2013:p0531:b003:l002",
     "semetey-1-2013:p0531:b003:l004",
+    "semetey-1-2013:p0531:b003:l005",
     "semetey-1-2013:p0531:b003:l006",
     "semetey-1-2013:p0531:b003:l007",
     "semetey-1-2013:p0531:b003:l008",
@@ -483,6 +485,7 @@
     "semetey-1-2013:p0532:b003:l016",
     "semetey-1-2013:p0532:b003:l017",
     "semetey-1-2013:p0532:b003:l018",
+    "semetey-1-2013:p0532:b003:l019",
     "semetey-1-2013:p0532:b003:l020",
     "semetey-1-2013:p0532:b003:l021",
     "semetey-1-2013:p0532:b003:l022",
@@ -803,6 +806,7 @@
     "semetey-1-2013:p0536:b003:l028",
     "semetey-1-2013:p0536:b003:l029",
     "semetey-1-2013:p0536:b003:l030",
+    "semetey-1-2013:p0536:b003:l031",
     "semetey-1-2013:p0536:b003:l032",
     "semetey-1-2013:p0536:b003:l033",
     "semetey-1-2013:p0536:b003:l034",
@@ -830,6 +834,7 @@
     "semetey-1-2013:p0536:b004:l017",
     "semetey-1-2013:p0536:b004:l018",
     "semetey-1-2013:p0536:b004:l019",
+    "semetey-1-2013:p0536:b004:l020",
     "semetey-1-2013:p0536:b004:l021",
     "semetey-1-2013:p0536:b004:l022",
     "semetey-1-2013:p0536:b004:l023",
@@ -982,6 +987,7 @@
     "semetey-1-2013:p0538:b004:l017",
     "semetey-1-2013:p0538:b004:l018",
     "semetey-1-2013:p0538:b004:l019",
+    "semetey-1-2013:p0538:b004:l020",
     "semetey-1-2013:p0538:b004:l021",
     "semetey-1-2013:p0538:b004:l022",
     "semetey-1-2013:p0538:b004:l023",
@@ -1000,6 +1006,8 @@
     "semetey-1-2013:p0538:b004:l037",
     "semetey-1-2013:p0538:b004:l038",
     "semetey-1-2013:p0538:b004:l039",
+    "semetey-1-2013:p0539:b003:l001",
+    "semetey-1-2013:p0539:b003:l002",
     "semetey-1-2013:p0539:b003:l003",
     "semetey-1-2013:p0539:b003:l004",
     "semetey-1-2013:p0539:b003:l005",
@@ -1134,6 +1142,7 @@
     "semetey-1-2013:p0540:b004:l020",
     "semetey-1-2013:p0540:b004:l021",
     "semetey-1-2013:p0540:b004:l022",
+    "semetey-1-2013:p0540:b004:l023",
     "semetey-1-2013:p0540:b004:l024",
     "semetey-1-2013:p0540:b004:l025",
     "semetey-1-2013:p0540:b004:l026",
@@ -1347,6 +1356,7 @@
     "semetey-1-2013:p0543:b004:l003",
     "semetey-1-2013:p0543:b004:l004",
     "semetey-1-2013:p0543:b004:l005",
+    "semetey-1-2013:p0543:b004:l006",
     "semetey-1-2013:p0543:b004:l007",
     "semetey-1-2013:p0543:b004:l008",
     "semetey-1-2013:p0543:b004:l009",
@@ -1530,7 +1540,8 @@
     "semetey-1-2013:p0545:b005:l035",
     "semetey-1-2013:p0545:b005:l036",
     "semetey-1-2013:p0545:b005:l037",
-    "semetey-1-2013:p0545:b005:l038"
+    "semetey-1-2013:p0545:b005:l038",
+    "semetey-1-2013:p0545:b005:l039"
   ],
   "source_groups": {
     "semetey-1-2013:p0526:b004:l038": [
@@ -1641,6 +1652,7 @@
     "semetey-1-2013:p0526:b004:l022": "Tail/maneless kulan explicit literary description retained, not zoological claim.",
     "semetey-1-2013:p0526:b004:l027": "Printed Туз not Түз: salt-black desert reading retained; no silent leveling emendation.",
     "semetey-1-2013:p0526:b004:l034": "бейдаарат without ritual ablution; sacred cave not mundane unwashed-hiker rule.",
+    "semetey-1-2013:p0526:b004:l037": "Whole verse unresolved: Аргымак жалдуу тайкушту. Thoroughbred-like mane clear, тайкуш unresolved despite prior212/216/217 research; no invented animal or social label. Completion-first first pass: Low-confidence approximate rendering for “Аргымак жалдуу тайкушту,”; nearest corpus parallel was “Аргымак сатуу, биз тартуу,”.",
     "semetey-1-2013:p0526:b004:l038": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0527:b003:l001": "Protected like a father continues Kanykei/cave memory, not new asserted biological father. The cave is the protective subject carried over from526; neutral protection preserves all the preceding destitute people and Kanykei, without inventing a biological father.",
     "semetey-1-2013:p0527:b003:l007": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
@@ -1672,12 +1684,14 @@
     "semetey-1-2013:p0530:b004:l030": "кайып unseen/supernatural world; not simply random chance in this miraculous animal context.",
     "semetey-1-2013:p0530:b004:l038": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0531:b003:l002": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
+    "semetey-1-2013:p0531:b003:l005": "Whole verse unresolved: Эбедейиң эзбесең. Conditional negative and potential offense to Kumaik clear from following resentful warning; эбедейиң lacks secure lexical resolution. No guessed instruction inserted. Completion-first first pass: Low-confidence rendering for “Эбедейиң* эзбесең,”; no close corpus parallel was found.",
     "semetey-1-2013:p0531:b003:l010": "Retrospective father-death lament translated if only you had not died, not an instruction to physically revive father.",
     "semetey-1-2013:p0531:b003:l027": "Source negative wish of never having to return orphaned retained as retrospective counterfactual lament.",
     "semetey-1-2013:p0531:b005:l016": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0531:b005:l022": "кайып бээ supernatural/unseen mare with short tail and dun coat; not silently ordinary owned horse or mythical unicorn.",
     "semetey-1-2013:p0531:b005:l025": "карыш казы span-thick horse belly fat source hyperbole, not sausage.",
     "semetey-1-2013:p0532:b003:l001": "кызырлуу night blessed by Khydyr; not assigning a calendar date/Night of Power absent source.",
+    "semetey-1-2013:p0532:b003:l019": "Completion-first first pass corrected after targeted high-severity source-context review: Restores алты күн; аа is treated as emphatic/interjectional noise.",
     "semetey-1-2013:p0532:b003:l020": "Printed Айып болгон compared exact parallel532:3:22 Кайып болгон; contextual qualified initial-к omission gives vanished, not unmotivated blameworthy verdict. Raw unchanged; requires future textual specialist corroboration.",
     "semetey-1-2013:p0532:b003:l026": "Zhelpinish retained epic pilgrimage-place name, no modern map location asserted.",
     "semetey-1-2013:p0532:b003:l033": "Five years Mecca/Medina plus seven Egypt/Baghdad and total twelve kept as source; boo likelyбо remaining phrase, no extra captivity asserted.",
@@ -1720,6 +1734,7 @@
     "semetey-1-2013:p0536:b003:l014": "Source religious evaluation dark faith/cleansed retained as epic voice, not an objective claim about other religions.",
     "semetey-1-2013:p0536:b003:l017": "келме is the Islamic profession of faith; no full creed inserted into a verse that does not recite it.",
     "semetey-1-2013:p0536:b003:l019": "Golden throne renounced in19–20; талак is figurative repudiation here, not a newly introduced wife/divorce episode.",
+    "semetey-1-2013:p0536:b003:l031": "Whole verse held: image and extraction agree Чектүү кытай, көп калмак. Primary Yudakhin чектүү means limited/bounded but its particular Chinese epithet here remains uncertain; no invented frontier people or silent чексиз emendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0536:b003:l033": "сан treated as large host/division; primary Yudakhin сан II3 is countless quantity and sometimes ten thousand. Four is explicit; no unsupported exact population total imposed.",
     "semetey-1-2013:p0536:b003:l034": "дуутар interpreted as variant of дутар, plucked stringed instrument. Music accompanies the compressed battlefield/deception account, not an invented horn.",
     "semetey-1-2013:p0536:b003:l035": "Compressed536:3:35–39 names Kojozhash, deception by Chinese, shot head, martyr, then Almam. Patient and shooter checked directly against primary Kyrgyz Manas2010 PDF1682–1683, both images individually inspected:1682:37–42 shield falls and Kojozhash is named;1683:3–10 Almam is lifting shield when Kojozhash fires and shatters his head;1683:17 explicitly names Almambet dead. Thus English35 introduces shooter with By,37 retains passive victim and39 names Almam. No prior English input; local Manas2010 PDF SHA53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7. Exact deception mechanism remains compressed in Semetey and is not expanded from external retellings.",
@@ -1729,6 +1744,7 @@
     "semetey-1-2013:p0536:b004:l015": "Caliph/writ and prince/blessing are separate source actions, not a modern administrative claim.",
     "semetey-1-2013:p0536:b004:l017": "Exact primary Yudakhin кол quotation он эки бирге кол берген = follower of twelve ishans, a pious person. Preserve twelve spiritual masters; not twelve spirit hands or twelve numerical ones.",
     "semetey-1-2013:p0536:b004:l018": "зайыпбуруш mighty conqueror epithet supported by Manas2010 same-edition glossary1842 Сайыппуруш//зайыппуруш, previously personally inspected. Not a new proper name.",
+    "semetey-1-2013:p0536:b004:l020": "Whole verse held: image confirms Кашкарды камап алты алган. Siege of Kashgar is clear, but алты алган lacks a secure six-what/number-of-captures construction; do not silently replace алты by алды or invent six fortresses. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0536:b004:l022": "көкжал human warrior epithet rendered fierce-maned, retaining leopard imagery rather than asserting literal animal species or hair color.",
     "semetey-1-2013:p0536:b004:l027": "Beijing daughters taken as booty/captives is the source’s war narrative; retained without euphemism or invented modern consent context.",
     "semetey-1-2013:p0536:b004:l032": "Shot/death and subsequent rise/vanishing are explicit source sequence. English does not change the shot to a merely minor wound.",
@@ -1756,9 +1772,12 @@
     "semetey-1-2013:p0538:b003:l032": "Narrator’s own uncertainty about the miraculous appearance is preserved; translation does not claim independent historical verification.",
     "semetey-1-2013:p0538:b004:l002": "Primary Yudakhin сан II3 = countless quantity, sometimes ten thousand. Forty-two large hosts retained without pretending that сан certifies an exact420,000 troops.",
     "semetey-1-2013:p0538:b004:l015": "Religious praise and holy-war intentions are quoted epic speech, including coercion and slaughter in following verses; not translator endorsement.",
+    "semetey-1-2013:p0538:b004:l020": "Whole verse held: Кабары кымбат тозоктон is legible, but the grammatical/comparative relationship of hell, fame and кымбат within the Beijing description remains unresolved. No confident replacement by a generic hell description. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0538:b004:l021": "топон суу refers to the Flood in the sacred/hyperbolic Beijing description; not modern flood-risk information.",
     "semetey-1-2013:p0538:b004:l027": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0538:b004:l039": "Сулайман rendered Solomon in the Islamic sacred comparison, without adding details of another narrative.",
+    "semetey-1-2013:p0539:b003:l001": "Whole verse held: Алты ай сурак канды алып. Six months and khan are clear but сурак relation to taking/ruling the khan remains uncertain; do not replace with the neighboring clearer six-month reign verse. Whole verse held: Каканда чырак элди алып. чырак normally lamp/light in primary Yudakhin, but no secure contextual people/conquest phrase established; no silent чыраак or other emendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0539:b003:l002": "Whole verse held: Алты ай сурак канды алып. Six months and khan are clear but сурак relation to taking/ruling the khan remains uncertain; do not replace with the neighboring clearer six-month reign verse. Whole verse held: Каканда чырак элди алып. чырак normally lamp/light in primary Yudakhin, but no secure contextual people/conquest phrase established; no silent чыраак or other emendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0539:b003:l004": "Six-month reign and six-month aftermath in4/6 are source chronology; not silently harmonized with other campaigns.",
     "semetey-1-2013:p0539:b003:l010": "White ырапыс coat, ribbed cloth per primary Semetey1960 glossary375; not a generic white armor assertion.",
     "semetey-1-2013:p0539:b003:l016": "Six thousand warriors is explicit миң, unlike сан elsewhere; retain exact numerical hyperbole.",
@@ -1775,6 +1794,7 @@
     "semetey-1-2013:p0540:b003:l032": "Gushing blood, shovelfuls in38, and twelve pits in next column are source hyperbole; not realistic medical measurements.",
     "semetey-1-2013:p0540:b004:l015": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0540:b004:l019": "Кожосандар interpreted plural holy khwaja protectors in parallel saints/Companions. No biological sons or new named person invented.",
+    "semetey-1-2013:p0540:b004:l023": "Whole verse held: Атамды мустайыптар* колдогон. Primary Yudakhin has мустапа prophets and a strikingly parallel mustache/protection example, but no exact мустайып sacred noun established. The unrelated мустай- frown verb is insufficient; no silent replacement with мустапалар. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0540:b004:l025": "сакабалар are the Prophet’s Companions; religious protectors, not Manas’s forty choros counted in earlier verses.",
     "semetey-1-2013:p0540:b004:l032": "Washing is washing the dead before funeral rites; no invented baptism.",
     "semetey-1-2013:p0541:b003:l019": "The hair/no-comb phrase and tearing it strand by strand retained in separate canonical rows; physical mourning practice not softened.",
@@ -1794,6 +1814,7 @@
     "semetey-1-2013:p0543:b003:l021": "кундуз = otter, not beaver; skins on trouser legs retained.",
     "semetey-1-2013:p0543:b003:l034": "Question intonation supplied from the villains’ exasperation at Manas’s enduring name; source negative өчпөйт retained, not reversed to name has vanished.",
     "semetey-1-2013:p0543:b004:l005": "Source enumerates six wicked half-brothers in pairs: Abyke/Kobosh, Chyiybyt/Kochkor, Adybai/Kolbai. No omission or external name substitution.",
+    "semetey-1-2013:p0543:b004:l006": "Whole verse held: Кылычты сууруп кын кылып. Drawing sword is clear, but кын кылып not securely explained by sheath sense; do not silently amend to кыргын or кыңк. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0543:b004:l014": "Cauldron-sized turbans and call-to-prayer voices are explicit source images. Mosque poor/disabled inhabitants retained in ensuing verses.",
     "semetey-1-2013:p0543:b004:l027": "Source describes slaughter/destruction of religious occupants by the villains; translated without invented moderation or details.",
     "semetey-1-2013:p0543:b004:l033": "кереге lattice walls retained as source architecture; do not replace with stone walls based on expectations of a mosque.",
@@ -1817,7 +1838,8 @@
     "semetey-1-2013:p0545:b005:l024": "Sand is dumped into the Talas to conceal the cave excavation as source narrative; no external instructions or engineering expansion.",
     "semetey-1-2013:p0545:b005:l028": "Friday holy night retained; no unsupported Ramadan calendar identification added.",
     "semetey-1-2013:p0545:b005:l029": "олоң long/thick hair per primary Semetey1960 glossary373, reinspected this batch; not a horse-girth comparison imposed.",
-    "semetey-1-2013:p0545:b005:l032": "Source wounded state retained, refers back to Kanykei’s injuries; no invented healing claim."
+    "semetey-1-2013:p0545:b005:l032": "Source wounded state retained, refers back to Kanykei’s injuries; no invented healing claim.",
+    "semetey-1-2013:p0545:b005:l039": "Whole verse held: Анжыяндан аркага жоон сарала*. Following546:3:1 explicitly names Bukharan cloth, so sara-ala likely color-pattern fabric, but аркага construction and exact textile sense remain unresolved. Do not publish a cloth guess or identify a horse from sara-ala coat color. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
   },
   "excluded_source_ids": [
     {
@@ -2044,406 +2066,9 @@
       "id": "semetey-1-2013:p0545:b006:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0526:b004:l037",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Аргымак жалдуу тайкушту. Thoroughbred-like mane clear, тайкуш unresolved despite prior212/216/217 research; no invented animal or social label."
-    },
-    {
-      "id": "semetey-1-2013:p0531:b003:l005",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Эбедейиң эзбесең. Conditional negative and potential offense to Kumaik clear from following resentful warning; эбедейиң lacks secure lexical resolution. No guessed instruction inserted."
-    },
-    {
-      "id": "semetey-1-2013:p0532:b003:l019",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Алты күн ааа бир күтүп. Six days waiting clear, printed/extracted ааа not securely read; no guessed pronoun inserted."
-    },
-    {
-      "id": "semetey-1-2013:p0536:b003:l031",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: image and extraction agree Чектүү кытай, көп калмак. Primary Yudakhin чектүү means limited/bounded but its particular Chinese epithet here remains uncertain; no invented frontier people or silent чексиз emendation."
-    },
-    {
-      "id": "semetey-1-2013:p0536:b004:l020",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: image confirms Кашкарды камап алты алган. Siege of Kashgar is clear, but алты алган lacks a secure six-what/number-of-captures construction; do not silently replace алты by алды or invent six fortresses."
-    },
-    {
-      "id": "semetey-1-2013:p0538:b004:l020",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Кабары кымбат тозоктон is legible, but the grammatical/comparative relationship of hell, fame and кымбат within the Beijing description remains unresolved. No confident replacement by a generic hell description."
-    },
-    {
-      "id": "semetey-1-2013:p0539:b003:l001",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Алты ай сурак канды алып. Six months and khan are clear but сурак relation to taking/ruling the khan remains uncertain; do not replace with the neighboring clearer six-month reign verse."
-    },
-    {
-      "id": "semetey-1-2013:p0539:b003:l002",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Каканда чырак элди алып. чырак normally lamp/light in primary Yudakhin, but no secure contextual people/conquest phrase established; no silent чыраак or other emendation."
-    },
-    {
-      "id": "semetey-1-2013:p0540:b004:l023",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Атамды мустайыптар* колдогон. Primary Yudakhin has мустапа prophets and a strikingly parallel mustache/protection example, but no exact мустайып sacred noun established. The unrelated мустай- frown verb is insufficient; no silent replacement with мустапалар."
-    },
-    {
-      "id": "semetey-1-2013:p0543:b004:l006",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Кылычты сууруп кын кылып. Drawing sword is clear, but кын кылып not securely explained by sheath sense; do not silently amend to кыргын or кыңк."
-    },
-    {
-      "id": "semetey-1-2013:p0545:b005:l039",
-      "kind": "unresolved_source",
-      "reason": "Whole verse held: Анжыяндан аркага жоон сарала*. Following546:3:1 explicitly names Bukharan cloth, so sara-ala likely color-pattern fabric, but аркага construction and exact textile sense remain unresolved. Do not publish a cloth guess or identify a horse from sara-ala coat color."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0526:b004:l037"
-      ],
-      "raw": [
-        "Àðãûìàê æàëäóó òàéêóøòó,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0526:b004:l037",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 526,
-          "block": 4,
-          "line_in_block": 37,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 654.2997,
-            "xMax": 475.4112,
-            "yMax": 667.4877
-          },
-          "raw": "Àðãûìàê æàëäóó òàéêóøòó,",
-          "text": "Аргымак жалдуу тайкушту,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Аргымак жалдуу тайкушту. Thoroughbred-like mane clear, тайкуш unresolved despite prior212/216/217 research; no invented animal or social label.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0531:b003:l005"
-      ],
-      "raw": [
-        "Ýáåäåéè¢* ýçáåñå¢,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0531:b003:l005",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 531,
-          "block": 3,
-          "line_in_block": 5,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 199.9797,
-            "xMax": 192.792,
-            "yMax": 213.1677
-          },
-          "raw": "Ýáåäåéè¢* ýçáåñå¢,",
-          "text": "Эбедейиң* эзбесең,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Эбедейиң эзбесең. Conditional negative and potential offense to Kumaik clear from following resentful warning; эбедейиң lacks secure lexical resolution. No guessed instruction inserted.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0532:b003:l019"
-      ],
-      "raw": [
-        "Àëòû ê¿í ààà áèð ê¿ò¿ï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0532:b003:l019",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 532,
-          "block": 3,
-          "line_in_block": 19,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 398.6997,
-            "xMax": 225.7056,
-            "yMax": 411.8877
-          },
-          "raw": "Àëòû ê¿í ààà áèð ê¿ò¿ï,",
-          "text": "Алты күн ааа бир күтүп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Алты күн ааа бир күтүп. Six days waiting clear, printed/extracted ааа not securely read; no guessed pronoun inserted.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0536:b003:l031"
-      ],
-      "raw": [
-        "×åêò¿¿ êûòàé, êºï êàëìàê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0536:b003:l031",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 536,
-          "block": 3,
-          "line_in_block": 31,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 569.0997,
-            "xMax": 241.722,
-            "yMax": 582.2877
-          },
-          "raw": "×åêò¿¿ êûòàé, êºï êàëìàê,",
-          "text": "Чектүү кытай, көп калмак,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: image and extraction agree Чектүү кытай, көп калмак. Primary Yudakhin чектүү means limited/bounded but its particular Chinese epithet here remains uncertain; no invented frontier people or silent чексиз emendation.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0536:b004:l020"
-      ],
-      "raw": [
-        "Êàøêàðäû êàìàï àëòû àëãàí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0536:b004:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 536,
-          "block": 4,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 412.8597,
-            "xMax": 483.6768,
-            "yMax": 426.0477
-          },
-          "raw": "Êàøêàðäû êàìàï àëòû àëãàí,",
-          "text": "Кашкарды камап алты алган,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: image confirms Кашкарды камап алты алган. Siege of Kashgar is clear, but алты алган lacks a secure six-what/number-of-captures construction; do not silently replace алты by алды or invent six fortresses.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0538:b004:l020"
-      ],
-      "raw": [
-        "Êàáàðû êûìáàò òîçîêòîí"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0538:b004:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 538,
-          "block": 4,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 412.8597,
-            "xMax": 454.6056,
-            "yMax": 426.0477
-          },
-          "raw": "Êàáàðû êûìáàò òîçîêòîí",
-          "text": "Кабары кымбат тозоктон",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Кабары кымбат тозоктон is legible, but the grammatical/comparative relationship of hell, fame and кымбат within the Beijing description remains unresolved. No confident replacement by a generic hell description.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0539:b003:l001"
-      ],
-      "raw": [
-        "Àëòû àé ñóðàê êàíäû àëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0539:b003:l001",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 539,
-          "block": 3,
-          "line_in_block": 1,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 143.0997,
-            "xMax": 248.22,
-            "yMax": 156.2877
-          },
-          "raw": "Àëòû àé ñóðàê êàíäû àëûï,",
-          "text": "Алты ай сурак канды алып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Алты ай сурак канды алып. Six months and khan are clear but сурак relation to taking/ruling the khan remains uncertain; do not replace with the neighboring clearer six-month reign verse.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0539:b003:l002"
-      ],
-      "raw": [
-        "Êàêàíäà ÷ûðàê ýëäè àëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0539:b003:l002",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 539,
-          "block": 3,
-          "line_in_block": 2,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 157.2597,
-            "xMax": 239.892,
-            "yMax": 170.4477
-          },
-          "raw": "Êàêàíäà ÷ûðàê ýëäè àëûï,",
-          "text": "Каканда чырак элди алып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Каканда чырак элди алып. чырак normally lamp/light in primary Yudakhin, but no secure contextual people/conquest phrase established; no silent чыраак or other emendation.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0540:b004:l023"
-      ],
-      "raw": [
-        "Àòàìäû ìóñòàéûïòàð* êîëäîãîí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0540:b004:l023",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 540,
-          "block": 4,
-          "line_in_block": 23,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 455.5797,
-            "xMax": 502.572,
-            "yMax": 468.7677
-          },
-          "raw": "Àòàìäû ìóñòàéûïòàð* êîëäîãîí.",
-          "text": "Атамды мустайыптар* колдогон.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Атамды мустайыптар* колдогон. Primary Yudakhin has мустапа prophets and a strikingly parallel mustache/protection example, but no exact мустайып sacred noun established. The unrelated мустай- frown verb is insufficient; no silent replacement with мустапалар.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0543:b004:l006"
-      ],
-      "raw": [
-        "Êûëû÷òû ñóóðóï êûí êûëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0543:b004:l006",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 543,
-          "block": 4,
-          "line_in_block": 6,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 214.1397,
-            "xMax": 492.5736,
-            "yMax": 227.3277
-          },
-          "raw": "Êûëû÷òû ñóóðóï êûí êûëûï,",
-          "text": "Кылычты сууруп кын кылып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Кылычты сууруп кын кылып. Drawing sword is clear, but кын кылып not securely explained by sheath sense; do not silently amend to кыргын or кыңк.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0545:b005:l039"
-      ],
-      "raw": [
-        "Àíæûÿíäàí àðêàãà æîîí ñàðàëà*,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0545:b005:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 545,
-          "block": 5,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 682.8597,
-            "xMax": 512.9064,
-            "yMax": 696.0477
-          },
-          "raw": "Àíæûÿíäàí àðêàãà æîîí ñàðàëà*,",
-          "text": "Анжыяндан аркага жоон сарала*,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse held: Анжыяндан аркага жоон сарала*. Following546:3:1 explicitly names Bukharan cloth, so sara-ala likely color-pattern fabric, but аркага construction and exact textile sense remain unresolved. Do not publish a cloth guess or identify a horse from sara-ala coat color.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -2482,21 +2107,46 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [540, 545],
+      "page_range": [
+        540,
+        545
+      ],
       "rows_checked": 457,
       "details": "Audited all 457 included narrative rows on pages 540 through 545 and corrected one mistranslated image. Pages 526 through 539 were outside this targeted audit."
     },
-    "targeted_qa_0526_0529": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[526,529],"rows_checked":307,"details":"Audited all 307 included narrative rows on pages 526 through 529; the existing English rows were semantically sound and correctly aligned. Pages 530 through 539 were outside this pass."}
+    "targeted_qa_0526_0529": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        526,
+        529
+      ],
+      "rows_checked": 307,
+      "details": "Audited all 307 included narrative rows on pages 526 through 529; the existing English rows were semantically sound and correctly aligned. Pages 530 through 539 were outside this pass."
+    },
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0532:b003:l019"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1525,
-    "english_words": 8749,
-    "unresolved_source_rows": 11,
+    "english_verse_rows": 1536,
+    "english_words": 8820,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1536,
     "wrapped_verse_groups": 24,
     "nonverse_extraction_records": 45,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

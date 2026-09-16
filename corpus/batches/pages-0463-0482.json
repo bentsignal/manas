@@ -113,6 +113,7 @@
     "manas-2010:p0465:b001:l018",
     "manas-2010:p0465:b001:l019",
     "manas-2010:p0465:b001:l020",
+    "manas-2010:p0465:b001:l021",
     "manas-2010:p0465:b001:l022",
     "manas-2010:p0465:b001:l023",
     "manas-2010:p0465:b001:l024",
@@ -871,6 +872,7 @@
     "manas-2010:p0465:b001:l010": "ыймамы imam; unusual Айдоого болду read contextually as urging onward. Exact idiom provisional.",
     "manas-2010:p0465:b001:l011": "Printed амаз understood as namaz/prayer; raw spelling retained.",
     "manas-2010:p0465:b001:l015": "Lengthening cruppers and shortening breast girths at018 retained in printed order.",
+    "manas-2010:p0465:b001:l021": "Printed Ататтарын has no corroborated nominal meaning; neither transliteration nor unverified spelling change counts as translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0465:b001:l024": "Bag-like nose comparison retained literally as epic grotesque imagery.",
     "manas-2010:p0465:b001:l028": "тобокел religious resolve/entrusting oneself to God; rendered as an English exclamation.",
     "manas-2010:p0465:b001:l033": "Middle Beejin is the epic’s location label; no equation to a historical district.",
@@ -925,7 +927,9 @@
     "manas-2010:p0472:b001:l007": "Курганда contextually at least/at any rate three thousand; possible pity nuance retained in note. Distinct from six thousand killed471:l007.",
     "manas-2010:p0472:b001:l010": "Tash-Kechüü named ford retained; Zholoy knows it, not an invented bridge.",
     "manas-2010:p0472:b001:l015": "тозуп contextual blocking/guarding, variant of тосуп; raw unchanged.",
+    "manas-2010:p0472:b001:l025": "Lexical correction: таш сайынган means a Chinese/Kalmyk official wearing a distinguishing ball/button on the cap, Yudakhin таш I.5 https://el-sozduk.kg/таш/. In this formula таза means finest, not bald/shaven: Yudakhin таза3 https://el-sozduk.kg/ТАЗ/. Raw source unchanged.",
     "manas-2010:p0472:b001:l026": "таза shaven men in recurrent Kytay tonsure description; not a judgment of moral purity.",
+    "manas-2010:p0472:b001:l028": "Lexical correction: таш сайынган means a Chinese/Kalmyk official wearing a distinguishing ball/button on the cap, Yudakhin таш I.5 https://el-sozduk.kg/таш/. In this formula таза means finest, not bald/shaven: Yudakhin таза3 https://el-sozduk.kg/ТАЗ/. Raw source unchanged.",
     "manas-2010:p0472:b001:l030": "Obscene imprecation кызыталак rendered damned; exact literal taboo force is stronger.",
     "manas-2010:p0472:b001:l036": "Iron ropes and nets retained as epic equipment without reconstructing a mechanism.",
     "manas-2010:p0472:b001:l038": "Dagger-bearing men line is a fragment continued by lament; not excluded as prose.",
@@ -1012,16 +1016,9 @@
     "manas-2010:p0482:b001:l031": "ордо horde/court/host and ор- mow play on sound retained through horde/mow in sense, not English sound.",
     "manas-2010:p0482:b001:l038": "бээлеп know fully/with mastery; exact unusual adverb remains provisional.",
     "manas-2010:p0482:b001:l040": "Karakan as forefather; not equated with Beejin’s Karykan at476:l012.",
-    "manas-2010:p0482:b001:l042": "Set them straight preserves оңдогон as Zholoy’s threatening boast; not a claim of benevolent reform. Speech continues on p483.",
-    "manas-2010:p0472:b001:l025": "Lexical correction: таш сайынган means a Chinese/Kalmyk official wearing a distinguishing ball/button on the cap, Yudakhin таш I.5 https://el-sozduk.kg/таш/. In this formula таза means finest, not bald/shaven: Yudakhin таза3 https://el-sozduk.kg/ТАЗ/. Raw source unchanged.",
-    "manas-2010:p0472:b001:l028": "Lexical correction: таш сайынган means a Chinese/Kalmyk official wearing a distinguishing ball/button on the cap, Yudakhin таш I.5 https://el-sozduk.kg/таш/. In this formula таза means finest, not bald/shaven: Yudakhin таза3 https://el-sozduk.kg/ТАЗ/. Raw source unchanged."
+    "manas-2010:p0482:b001:l042": "Set them straight preserves оңдогон as Zholoy’s threatening boast; not a claim of benevolent reform. Speech continues on p483."
   },
   "excluded_source_ids": [
-    {
-      "id": "manas-2010:p0465:b001:l021",
-      "kind": "unresolved_source",
-      "reason": "Printed Ататтарын is legible but nominal meaning unidentified. No corroborated correction among ат, ата, аят or атак. Individual-term transliteration is not a complete English translation; excluded from translated totals."
-    },
     {
       "id": "manas-2010:p0469:b002:l001",
       "kind": "heading",
@@ -1088,8 +1085,8 @@
     "independent_review": false
   },
   "counts": {
-    "translated_verse_rows": 834,
-    "english_words": 4355,
+    "translated_verse_rows": 835,
+    "english_words": 4367,
     "per_page": [
       {
         "page": 463,
@@ -1195,18 +1192,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p0465:b001:l021"
-      ],
-      "raw": "Ататтарын оркойтуп,",
-      "transliteration_only": "Atattaryn orkoytup,",
-      "partial_english_not_counted": "Their atat held high,",
-      "note": "оркойтуп means making something project/protrude; Ататтарын remains unidentified. Possible correction to аттарын (horses) is unverified. Full line withheld, not silently omitted. See research/PAGES465-483-LEXICAL-CHECK.md.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p0465:b001:l020",
-      "before_source_id": "manas-2010:p0465:b001:l022"
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

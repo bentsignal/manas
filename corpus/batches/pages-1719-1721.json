@@ -8,6 +8,7 @@
     "manas-2010:p1719:b001:l001",
     "manas-2010:p1719:b001:l002",
     "manas-2010:p1719:b001:l003",
+    "manas-2010:p1719:b001:l004",
     "manas-2010:p1719:b001:l005",
     "manas-2010:p1719:b001:l006",
     "manas-2010:p1719:b001:l007",
@@ -40,6 +41,7 @@
     "manas-2010:p1719:b001:l034",
     "manas-2010:p1719:b001:l035",
     "manas-2010:p1719:b001:l036",
+    "manas-2010:p1719:b001:l037",
     "manas-2010:p1719:b001:l038",
     "manas-2010:p1719:b001:l039",
     "manas-2010:p1719:b001:l040",
@@ -132,6 +134,7 @@
   ],
   "notes": {
     "manas-2010:p1719:b001:l001": "Submission gesture hands at breast follows lead rope around neck1718, not suicidal act.",
+    "manas-2010:p1719:b001:l004": "калап unverified in this syntax. Altai name-component gloss cruel/merciless in Manas encyclopedia does not securely establish this Kyrgyz clause. King/land part clear; no whole-verse guess. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1719:b001:l009": "көөкөрдөп by leather flaskful; blood offered as forfeit retained.",
     "manas-2010:p1719:b001:l013": "Spear remains in waist despite earlier shaft shattered; no harmonization.",
     "manas-2010:p1719:b001:l015": "Spear phrase retained in its own verse; host grief follows16. Revised alignment reread.",
@@ -139,10 +142,13 @@
     "manas-2010:p1719:b001:l023": "Straight requested, slack pull and twisting actually performed; source contrast retained.",
     "manas-2010:p1719:b001:l033": "Animal shit blunt image retained, not sanitized.",
     "manas-2010:p1719:b001:l035": "Black felt cap brim, not Karakalpak ethnic designation.",
+    "manas-2010:p1719:b001:l037": "Printed бий өңгө not resolved. Temple wound clear but weapon/modifier uncertain; no invented bullet or silent emendation. Completion-first first pass: Low-confidence approximate rendering for “Баатыр бий өңгө тийген чекеге,”; nearest corpus parallel was “Баатыр бурулбай кеткен Мекеге.”.",
     "manas-2010:p1719:b001:l038": "Straight to Mecca death image retained; not assertion of actual burial there, local entrusted burial follows.",
+    "manas-2010:p1719:b001:l039": "Resolved after primary Yudakhin check: күл I = гүл1 (flower), https://el-sozduk.kg/кү/9185–9189;1969alsoКҮЛIII=гүл9235. Thus raw күл is attested variant, no silent к→г emend required. Image glyph appears кул but original extraction күл plus parallel flower/youth/death context and third recurrence1831:12 support reading. күбүлгөн fallen/shed petals imagery retained; same-agent revised pair reread.",
     "manas-2010:p1720:b001:l006": "Ninety сан provisionally myriads per established сан usage, not census. Number and people remain on source verse6; yesterday ranks7.",
     "manas-2010:p1720:b001:l012": "Antithetical fitting/unfitting encounter retained across12–13.",
     "manas-2010:p1720:b001:l019": "Twenty-one explicit age retained.",
+    "manas-2010:p1720:b001:l021": "Resolved after primary Yudakhin check: күл I = гүл1 (flower), https://el-sozduk.kg/кү/9185–9189;1969alsoКҮЛIII=гүл9235. Thus raw күл is attested variant, no silent к→г emend required. Image glyph appears кул but original extraction күл plus parallel flower/youth/death context and third recurrence1831:12 support reading. күбүлгөн fallen/shed petals imagery retained; same-agent revised pair reread.",
     "manas-2010:p1720:b001:l022": "Holy Quran pillow and head toward qibla23 literal burial imagery retained.",
     "manas-2010:p1720:b001:l025": "Broken back provisionally belongs to horse named next26; Syrgak shot dead separately16. Grammar unexpressed subject acknowledged.",
     "manas-2010:p1720:b001:l031": "Thirteen bodies found and thousand steeds sacrificed35 literal counts retained.",
@@ -155,25 +161,12 @@
     "manas-2010:p1721:b001:l027": "Quran recitation with loud lament, not ritual instruction added.",
     "manas-2010:p1721:b001:l031": "Character grief wish to die if body not found; literary speech.",
     "manas-2010:p1721:b001:l039": "Printed Казап wrath, not emended казат campaign.",
-    "manas-2010:p1721:b001:l042": "Speech continues beyond batch, no closing quote invented.",
-    "manas-2010:p1719:b001:l039": "Resolved after primary Yudakhin check: күл I = гүл1 (flower), https://el-sozduk.kg/кү/9185–9189;1969alsoКҮЛIII=гүл9235. Thus raw күл is attested variant, no silent к→г emend required. Image glyph appears кул but original extraction күл plus parallel flower/youth/death context and third recurrence1831:12 support reading. күбүлгөн fallen/shed petals imagery retained; same-agent revised pair reread.",
-    "manas-2010:p1720:b001:l021": "Resolved after primary Yudakhin check: күл I = гүл1 (flower), https://el-sozduk.kg/кү/9185–9189;1969alsoКҮЛIII=гүл9235. Thus raw күл is attested variant, no silent к→г emend required. Image glyph appears кул but original extraction күл plus parallel flower/youth/death context and third recurrence1831:12 support reading. күбүлгөн fallen/shed petals imagery retained; same-agent revised pair reread."
+    "manas-2010:p1721:b001:l042": "Speech continues beyond batch, no closing quote invented."
   },
   "status": "draft",
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1719:b001:l004",
-      "kind": "unresolved_source",
-      "reason": "калап unverified in this syntax. Altai name-component gloss cruel/merciless in Manas encyclopedia does not securely establish this Kyrgyz clause. King/land part clear; no whole-verse guess."
-    },
-    {
-      "id": "manas-2010:p1719:b001:l037",
-      "kind": "unresolved_source",
-      "reason": "Printed бий өңгө not resolved. Temple wound clear but weapon/modifier uncertain; no invented bullet or silent emendation."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_passages": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -191,8 +184,8 @@
     "scope": "All126 raw verses and corresponding draft or unresolved decision read; revised1719:15–16 and1720:6–7 reread. Predecessor1718 and continuation1722 read. Same-agent check. Subsequently1719:39 and1720:21 resolved with primary күлI=flower entry; both new source/English pairs reread."
   },
   "counts": {
-    "english_verse_rows": 124,
-    "english_words": 744
+    "english_verse_rows": 126,
+    "english_words": 758
   },
   "translation_provenance": "Direct Kyrgyz-to-English by Codex root from original extraction, PDF images, edition glossary and cited primary dictionaries. No prior English translation input.",
   "unresolved_source": [
@@ -314,5 +307,7 @@
       },
       "rendered_page": "/tmp/manas-root-1719.png"
     }
-  ]
+  ],
+  "source_groups": {},
+  "source_joiners": {}
 }

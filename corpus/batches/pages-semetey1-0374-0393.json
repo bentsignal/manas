@@ -636,6 +636,7 @@
     "semetey-1-2013:p0382:b003:l006",
     "semetey-1-2013:p0382:b003:l007",
     "semetey-1-2013:p0382:b003:l008",
+    "semetey-1-2013:p0382:b003:l009",
     "semetey-1-2013:p0382:b003:l010",
     "semetey-1-2013:p0382:b003:l011",
     "semetey-1-2013:p0382:b003:l012",
@@ -1049,6 +1050,7 @@
     "semetey-1-2013:p0387:b003:l033",
     "semetey-1-2013:p0387:b003:l034",
     "semetey-1-2013:p0387:b003:l035",
+    "semetey-1-2013:p0387:b003:l036",
     "semetey-1-2013:p0387:b003:l037",
     "semetey-1-2013:p0387:b003:l038",
     "semetey-1-2013:p0387:b003:l039",
@@ -1216,6 +1218,7 @@
     "semetey-1-2013:p0389:b004:l006",
     "semetey-1-2013:p0389:b004:l007",
     "semetey-1-2013:p0389:b004:l008",
+    "semetey-1-2013:p0389:b004:l009",
     "semetey-1-2013:p0389:b004:l010",
     "semetey-1-2013:p0389:b004:l011",
     "semetey-1-2013:p0389:b004:l012",
@@ -1438,6 +1441,7 @@
     "semetey-1-2013:p0392:b003:l034",
     "semetey-1-2013:p0392:b003:l035",
     "semetey-1-2013:p0392:b003:l036",
+    "semetey-1-2013:p0392:b003:l037",
     "semetey-1-2013:p0392:b003:l038",
     "semetey-1-2013:p0392:b003:l039",
     "semetey-1-2013:p0392:b004:l001",
@@ -1467,10 +1471,12 @@
     "semetey-1-2013:p0392:b004:l025",
     "semetey-1-2013:p0392:b004:l026",
     "semetey-1-2013:p0392:b004:l027",
+    "semetey-1-2013:p0392:b004:l028",
     "semetey-1-2013:p0392:b004:l029",
     "semetey-1-2013:p0392:b004:l030",
     "semetey-1-2013:p0392:b004:l031",
     "semetey-1-2013:p0392:b004:l032",
+    "semetey-1-2013:p0392:b004:l033",
     "semetey-1-2013:p0392:b004:l034",
     "semetey-1-2013:p0392:b004:l035",
     "semetey-1-2013:p0392:b004:l036",
@@ -1589,6 +1595,7 @@
     "semetey-1-2013:p0374:b004:l023": "чампанI foreignlanguage-nonspeaker exactYudakhin, here peoplefromwhomhorsesraided; not firearmhomonymII. Printedasterisk preservedraw.",
     "semetey-1-2013:p0374:b004:l024": "Кызыл баш Kyzylbash source ethnonym, no automaticallymodernstate replacement.",
     "semetey-1-2013:p0374:b004:l037": "телегейи тең fortunatecomplete exactYudakhin; теңиз ocean next epicmetaphor retained.",
+    "semetey-1-2013:p0375:b003:l004": "Explicit recollection of flight on foot after Manas's death; Bakay addresses her as mourning Kanykey and helps her reach Bukhara. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0375:b003:l016": "Milk sixskins as printed, no fermentedkumys replacement.",
     "semetey-1-2013:p0375:b003:l017": "үзүрлүү favorable/helpfulwords context, distinct apologeticsense when needed312.",
     "semetey-1-2013:p0375:b003:l020": "маңгыл reddish exactYudakhin; борук two-year wether establishedsamefoodnarrative64–83/130–149, no reedreading.",
@@ -1613,6 +1620,7 @@
     "semetey-1-2013:p0377:b003:l020": "күпчөк camelhidebucket exactYudakhin quotes bozo poisonverse, not wheelhub homonym.",
     "semetey-1-2013:p0377:b003:l022": "Burning/chokingpoison source literary warning, no added chemical identity, preparation, dosage or modern toxicology claims.",
     "semetey-1-2013:p0377:b003:l026": "болукпа qualified swell/growplump fromболук plump lexicalbase in poisoneddrinkwarning; no clinical mechanism asserted.",
+    "semetey-1-2013:p0377:b003:l031": "The immediately preceding verse says the father died; two verses later she explicitly calls herself widow. Primary widow sense is direct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0377:b005:l008": "бараI bribe exactYudakhin бараже,6000ingots1000beaverpelts preserved accusation, not factendorsedby narrator.",
     "semetey-1-2013:p0377:b005:l023": "Violentvengeance and cannibalistic fantasy literal Kanykei speech; no added practicalprocedures beyond source.",
     "semetey-1-2013:p0377:b005:l033": "соеюн slaughter asprinted after beheadingrequest, source violentcontradiction retained, no silentlyтоёюн eatfill emendation.",
@@ -1632,8 +1640,8 @@
     "semetey-1-2013:p0379:b003:l027": "Bowl-sized exposedflesh patches source poverty description, not erotic depiction.",
     "semetey-1-2013:p0379:b003:l035": "Энекең mother term source refers auntBurulcha here, no removal of kinship term.",
     "semetey-1-2013:p0379:b005:l015": "күмөнII unbornfetus primaryYudakhin, not doubt/suspicion homonym.",
-    "semetey-1-2013:p0379:b005:l025": "казы horsebelly/ribfat exactYudakhin, source wrapin fat unusual birthlegend left without adding medicalcause, dose, timing or inventedfeedingprocedure. Exact wrappedobject not specified, English actionnoun preserves unspecified object.",
     "semetey-1-2013:p0379:b005:l022": "Sixyeargestation/child notgrowing fantasticalbirth source retained, not modernpregnancyguidance.",
+    "semetey-1-2013:p0379:b005:l025": "казы horsebelly/ribfat exactYudakhin, source wrapin fat unusual birthlegend left without adding medicalcause, dose, timing or inventedfeedingprocedure. Exact wrappedobject not specified, English actionnoun preserves unspecified object.",
     "semetey-1-2013:p0379:b005:l032": "Born circumcised and piercedears literal miraculousbirth motif, no added medical/surgical procedure.",
     "semetey-1-2013:p0379:b005:l038": "ырымкай metathesis variant ымыркай newborn exactprimary, rawunchanged.",
     "semetey-1-2013:p0380:b003:l001": "Aruuke dies3daysafterbirth, Burulcha fosterschildnext; identities source retained.",
@@ -1655,9 +1663,11 @@
     "semetey-1-2013:p0381:b004:l031": "Coward accusation as sourcehearsay, no replacement with weakened only.",
     "semetey-1-2013:p0382:b003:l004": "жардык=жарлык decree exactYudakhin, moon-dark/cloudydayclause literal setting not silentlyжарык light or fatecorrection.",
     "semetey-1-2013:p0382:b003:l006": "Poisoning literaryhearsay only, no chemicalidentification or procedure beyond source.",
+    "semetey-1-2013:p0382:b003:l009": "Маңдайдан көчкөн көчү бар unclear brow/departingcaravan expression; possible migrationplaceMangdai lacks primarysupport, wholeverse withheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0382:b003:l021": "Threecontradictory Chubakkillingreports Malabek/Synchybek/Kozubek retained with repeatedhearsayqualifiers, no harmonization.",
     "semetey-1-2013:p0382:b003:l031": "тындымкыл kill secretly exactYudakhin, not silencebyspeech.",
     "semetey-1-2013:p0382:b003:l036": "Indentedpropername Аймкан continuation groupedwithprecedinggenitiveKozubekline, image inspected. Relation toKozubek left unspecified bysource; not insert daughter.",
+    "semetey-1-2013:p0382:b004:l004": "Present speaker Kanykey gives Semetey uncertain reports about Chubak and his surviving family. Self-deprecation by Manas's widow, not a moral allegation. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0382:b004:l027": "жоруктуу pleasant/reminiscentofpleasantimages exactYudakhin, delightfulplaces not actualwrongdoing adjective.",
     "semetey-1-2013:p0382:b004:l028": "Жылгындуу descriptor tamarisk-covered, KengKol/Talas retained placenames, no unsupported extra place Jy l gy ndu u.",
     "semetey-1-2013:p0383:b003:l012": "кыялаш same mountain slope exactYudakhin, paired уялаш same nest/kin; source metaphor preserved, no invented numerical height.",
@@ -1686,6 +1696,7 @@
     "semetey-1-2013:p0386:b004:l032": "өлгөндө extremeeffort/difficulty idiom, not literal death of livingretrievers.",
     "semetey-1-2013:p0387:b003:l003": "Gunbleeding/kicking/firingitself supernatural recognition motif, literalear retained, no modernmechanicalprocedure.",
     "semetey-1-2013:p0387:b003:l025": "Кайыпчы pass propername retained; no substitution fordivinespirit or identificationwithmodernmountain.",
+    "semetey-1-2013:p0387:b003:l036": "Кылычтын кыңай аягы sword crooked-end phrase: кыңай oblique known but ranking/shape idiom unclear; wholeverse withheld, no guessed weakest sword. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0387:b005:l015": "ирме primaryYudakhin snatch/bite violentstroke, sword bitesstone; no source negative inserted.",
     "semetey-1-2013:p0387:b005:l029": "Breastslashing nonsexual literaryinjury toKanykei whileholdingorphan, preserved without addedgraphicdetail.",
     "semetey-1-2013:p0388:b003:l020": "кемин=кепин exactYudakhin burialshroud, not deficiency or food; Chyiyrdy motherkinship retained.",
@@ -1699,6 +1710,8 @@
     "semetey-1-2013:p0389:b003:l022": "топ cannon/ball artillery alongsidemusket in literary magicalarmor boast; no modernballisticclaim.",
     "semetey-1-2013:p0389:b003:l025": "Arkesken earliernamedSyrgaks sword neverthelessprintedattackingManas here; sourcecontradiction preserved not replacedwithenemyweapon.",
     "semetey-1-2013:p0389:b004:l002": "Sevenyears biting/sewingcloth work then eightyearscompletion38 preserved distinct sourcefigures.",
+    "semetey-1-2013:p0389:b004:l009": "Букардагы муңжуга муңжу unresolved title/group/name; Bukhara known but wholeverse held rather than guessed Manchu variant. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0389:b004:l023": "Kanykey recalls procuring material and making armour during Manas's lifetime and rule; unfortunate avoids anachronistic bereavement in the narrated action. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0389:b004:l025": "булаI finecloth/silk primaryYudakhin, distinct ornaments/plunderat39; whitecloth31not assumed cottonfiberonly.",
     "semetey-1-2013:p0389:b004:l034": "Eightyfold layering with fineironfilings sourcelegend translated without added actionablemodernarmormaking detail or protectiveefficacy endorsement.",
     "semetey-1-2013:p0390:b003:l009": "Akolpok foldedfiveways ass eatcushion onManasthrone; not thronefolded or added sexualizedexposure.",
@@ -1718,19 +1731,18 @@
     "semetey-1-2013:p0391:b004:l039": "ала баш primaryYudakhin horse renowned/splendid; not necessarilyforeheadblaze. Followingpagefinisheslootingclause.",
     "semetey-1-2013:p0392:b003:l006": "көтөрмөлүү primaryYudakhin embanked/dammed, qualified adjectiveSuusamyr; no current infrastructure claim.",
     "semetey-1-2013:p0392:b003:l033": "Printedкалет transposedvowels vsкелет clearrepeatedquestion earlier19/22, rawunchanged.",
+    "semetey-1-2013:p0392:b003:l037": "Басканын коочак-коо билип коочак unresolvedmodifier pairedкоо; wholeverseheld, not guessedravines/vegetation. Completion-first first pass: Low-confidence approximate rendering for “Басканын коочак-коо билип,”; nearest corpus parallel was “Учканын жарык күн билип,”.",
     "semetey-1-2013:p0392:b003:l038": "заңгел rocky exactYudakhin заңгелтоо, not inventedjungle.",
-    "semetey-1-2013:p0392:b004:l021": "бакала observe/lookaround exactprimary, not leaplikefrog.",
     "semetey-1-2013:p0392:b004:l010": "Sevenyears literalnarrative residence despitefollowing2year/6monthtimings; no chronologyharmonization.",
+    "semetey-1-2013:p0392:b004:l021": "бакала observe/lookaround exactprimary, not leaplikefrog.",
+    "semetey-1-2013:p0392:b004:l028": "Ала төлөк кар кете ала төлөк exactphrase not primaryresolved; plausible patchysnow but wholeverseheld, no silent ала-тоолокemendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0392:b004:l033": "Completion-first first pass corrected after targeted high-severity source-context review: Literal best-effort rendering of ат томук + сыдырып.",
     "semetey-1-2013:p0393:b003:l010": "Көтөрмө Kanykei embankment/place sourcepropertoponym, distinct generalembankedSuusamyr392.",
     "semetey-1-2013:p0393:b003:l023": "окто=нокто halter initialn elision establishededitorial, head offeredtohalter context; no gunloading interpretation.",
     "semetey-1-2013:p0393:b003:l038": "уктап sleeping literalprinted despite livelypawing/crying neighboringlines, not silentlyүктап sniffingemend.",
     "semetey-1-2013:p0393:b003:l039": "Exposedflesh bodily horse recognition/scent motif nonsexual, no addedinjury or nudity beyondsource.",
     "semetey-1-2013:p0393:b005:l027": "ала көөдөн openhearted/guileless hero epithet, broadheartnextverses, not blankchest literal.",
-    "semetey-1-2013:p0393:b005:l032": "Forty includingManas literalcontradicts commonfortycompanionsplusManascount; source preserved.",
-    "semetey-1-2013:p0375:b003:l004": "Explicit recollection of flight on foot after Manas's death; Bakay addresses her as mourning Kanykey and helps her reach Bukhara. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0377:b003:l031": "The immediately preceding verse says the father died; two verses later she explicitly calls herself widow. Primary widow sense is direct. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0382:b004:l004": "Present speaker Kanykey gives Semetey uncertain reports about Chubak and his surviving family. Self-deprecation by Manas's widow, not a moral allegation. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0389:b004:l023": "Kanykey recalls procuring material and making armour during Manas's lifetime and rule; unfortunate avoids anachronistic bereavement in the narrated action. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0393:b005:l032": "Forty includingManas literalcontradicts commonfortycompanionsplusManascount; source preserved."
   },
   "excluded_source_ids": [
     {
@@ -1829,11 +1841,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0382:b003:l009",
-      "kind": "unresolved_source",
-      "reason": "Маңдайдан көчкөн көчү бар unclear brow/departingcaravan expression; possible migrationplaceMangdai lacks primarysupport, wholeverse withheld."
-    },
-    {
       "id": "semetey-1-2013:p0382:b005:l001",
       "kind": "heading",
       "reason": "Printed folio with ornaments, outside narrative verse."
@@ -1889,11 +1896,6 @@
       "reason": "Printed running ornamental title, outside narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0387:b003:l036",
-      "kind": "unresolved_source",
-      "reason": "Кылычтын кыңай аягы sword crooked-end phrase: кыңай oblique known but ranking/shape idiom unclear; wholeverse withheld, no guessed weakest sword."
-    },
-    {
       "id": "semetey-1-2013:p0387:b004:l001",
       "kind": "heading",
       "reason": "Printer signature, outside narrative verse."
@@ -1917,11 +1919,6 @@
       "id": "semetey-1-2013:p0389:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0389:b004:l009",
-      "kind": "unresolved_source",
-      "reason": "Букардагы муңжуга муңжу unresolved title/group/name; Bukhara known but wholeverse held rather than guessed Manchu variant."
     },
     {
       "id": "semetey-1-2013:p0389:b005:l001",
@@ -1952,21 +1949,6 @@
       "id": "semetey-1-2013:p0392:b002:l001",
       "kind": "heading",
       "reason": "Printed running ornamental title, outside narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0392:b003:l037",
-      "kind": "unresolved_source",
-      "reason": "Басканын коочак-коо билип коочак unresolvedmodifier pairedкоо; wholeverseheld, not guessedravines/vegetation."
-    },
-    {
-      "id": "semetey-1-2013:p0392:b004:l028",
-      "kind": "unresolved_source",
-      "reason": "Ала төлөк кар кете ала төлөк exactphrase not primaryresolved; plausible patchysnow but wholeverseheld, no silent ала-тоолокemendation."
-    },
-    {
-      "id": "semetey-1-2013:p0392:b004:l033",
-      "kind": "unresolved_source",
-      "reason": "Ат томугун сыдырып unclear horsekneecap stripping or AtTomuk geographicalname; wholeverseheld, not guessed place."
     },
     {
       "id": "semetey-1-2013:p0392:b005:l001",
@@ -2048,9 +2030,26 @@
     "independent_review": false,
     "scope": "Every reconstructed source/English position read in paired review files, each of pages374–393; saved tmp/translation-semetey1-0374-0393/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
     "targeted_qa": {
-      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
-      "page_range": [380, 389], "rows_checked": 774,
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        380,
+        389
+      ],
+      "rows_checked": 774,
       "details": "Audited all 774 included narrative rows on pages 380 through 389; the existing English rows were semantically sound and correctly aligned. Pages 374 through 379 and 390 through 393 were outside this targeted audit."
+    },
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0392:b004:l033"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
     }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
@@ -2058,185 +2057,16 @@
     "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
     "extraction_sha256": "07878f10290e57c7d34fc0fab6df78f2d0c24c7d6f192733182e6c0c103e2d16"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0382:b003:l009"
-      ],
-      "raw": "Ìà¢äàéäàí êº÷êºí êº÷¿ áàð,",
-      "ky": "Маңдайдан көчкөн көчү бар,",
-      "status": "unresolved",
-      "note": "Маңдайдан көчкөн көчү бар unclear brow/departingcaravan expression; possible migrationplaceMangdai lacks primarysupport, wholeverse withheld.",
-      "after_source_id": "semetey-1-2013:p0382:b003:l008",
-      "before_source_id": "semetey-1-2013:p0382:b003:l010",
-      "source": {
-        "page": 382,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0382:b003:l009",
-            "raw": "Ìà¢äàéäàí êº÷êºí êº÷¿ áàð,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 256.8597,
-              "xMax": 246.804,
-              "yMax": 270.0477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0387:b003:l036"
-      ],
-      "raw": "Êûëû÷òûí êû¢àé àÿãû –",
-      "ky": "Кылычтын кыңай аягы –",
-      "status": "unresolved",
-      "note": "Кылычтын кыңай аягы sword crooked-end phrase: кыңай oblique known but ranking/shape idiom unclear; wholeverse withheld, no guessed weakest sword.",
-      "after_source_id": "semetey-1-2013:p0387:b003:l035",
-      "before_source_id": "semetey-1-2013:p0387:b003:l037",
-      "source": {
-        "page": 387,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0387:b003:l036",
-            "raw": "Êûëû÷òûí êû¢àé àÿãû –",
-            "bbox": {
-              "xMin": 79.44,
-              "yMin": 640.1397,
-              "xMax": 233.2548,
-              "yMax": 653.3277
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0389:b004:l009"
-      ],
-      "raw": "Áóêàðäàãû ìó¢æóãà",
-      "ky": "Букардагы муңжуга",
-      "status": "unresolved",
-      "note": "Букардагы муңжуга муңжу unresolved title/group/name; Bukhara known but wholeverse held rather than guessed Manchu variant.",
-      "after_source_id": "semetey-1-2013:p0389:b004:l008",
-      "before_source_id": "semetey-1-2013:p0389:b004:l010",
-      "source": {
-        "page": 389,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0389:b004:l009",
-            "raw": "Áóêàðäàãû ìó¢æóãà",
-            "bbox": {
-              "xMin": 310.32,
-              "yMin": 256.8597,
-              "xMax": 430.392,
-              "yMax": 270.0477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0392:b003:l037"
-      ],
-      "raw": "Áàñêàíûí êîî÷àê-êîî áèëèï,",
-      "ky": "Басканын коочак-коо билип,",
-      "status": "unresolved",
-      "note": "Басканын коочак-коо билип коочак unresolvedmodifier pairedкоо; wholeverseheld, not guessedravines/vegetation.",
-      "after_source_id": "semetey-1-2013:p0392:b003:l036",
-      "before_source_id": "semetey-1-2013:p0392:b003:l038",
-      "source": {
-        "page": 392,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0392:b003:l037",
-            "raw": "Áàñêàíûí êîî÷àê-êîî áèëèï,",
-            "bbox": {
-              "xMin": 76.56,
-              "yMin": 654.2997,
-              "xMax": 247.6476,
-              "yMax": 667.4877
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0392:b004:l028"
-      ],
-      "raw": "Àëà òºëºê êàð êåòå,",
-      "ky": "Ала төлөк кар кете,",
-      "status": "unresolved",
-      "note": "Ала төлөк кар кете ала төлөк exactphrase not primaryresolved; plausible patchysnow but wholeverseheld, no silent ала-тоолокemendation.",
-      "after_source_id": "semetey-1-2013:p0392:b004:l027",
-      "before_source_id": "semetey-1-2013:p0392:b004:l029",
-      "source": {
-        "page": 392,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0392:b004:l028",
-            "raw": "Àëà òºëºê êàð êåòå,",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 526.6197,
-              "xMax": 425.9448,
-              "yMax": 539.8077
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    },
-    {
-      "source_line_ids": [
-        "semetey-1-2013:p0392:b004:l033"
-      ],
-      "raw": "Àò òîìóãóí ñûäûðûï,",
-      "ky": "Ат томугун сыдырып,",
-      "status": "unresolved",
-      "note": "Ат томугун сыдырып unclear horsekneecap stripping or AtTomuk geographicalname; wholeverseheld, not guessed place.",
-      "after_source_id": "semetey-1-2013:p0392:b004:l032",
-      "before_source_id": "semetey-1-2013:p0392:b004:l034",
-      "source": {
-        "page": 392,
-        "sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-        "segments": [
-          {
-            "id": "semetey-1-2013:p0392:b004:l033",
-            "raw": "Àò òîìóãóí ñûäûðûï,",
-            "bbox": {
-              "xMin": 307.44,
-              "yMin": 597.6597,
-              "xMax": 440.1192,
-              "yMax": 610.8477
-            },
-            "normalization": "legacy-font-v1"
-          }
-        ]
-      }
-    }
-  ],
+  "unresolved_passages": [],
   "counts": {
-    "translated_verse_rows": 1549,
-    "english_words": 9094,
-    "translated_source_fragments": 1554,
+    "translated_verse_rows": 1555,
+    "english_words": 9129,
+    "translated_source_fragments": 1560,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1555,
     "wrapped_verse_groups": 5,
-    "unresolved_source_rows": 6,
-    "unresolved_source_verses": 6,
+    "unresolved_source_rows": 0,
+    "unresolved_source_verses": 0,
     "nonverse_extraction_records": 45,
     "watermark_records": 20,
     "source_words": 5155,

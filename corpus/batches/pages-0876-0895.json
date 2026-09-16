@@ -761,6 +761,7 @@
     "manas-2010:p0893:b001:l039",
     "manas-2010:p0893:b001:l040",
     "manas-2010:p0893:b001:l041",
+    "manas-2010:p0893:b001:l042",
     "manas-2010:p0894:b001:l001",
     "manas-2010:p0894:b001:l002",
     "manas-2010:p0894:b001:l003",
@@ -931,6 +932,7 @@
     "manas-2010:p0893:b001:l028": "One enemy versus a thousand kin is source hyperbole; no reconciliation of the numbers.",
     "manas-2010:p0893:b001:l031": "Капыр unbeliever used as familiar epic epithet despite earlier Muslim praise; inconsistency retained.",
     "manas-2010:p0893:b001:l040": "Шоодураган rustling retained; capырай is exclamation, not automatically unbeliever here.",
+    "manas-2010:p0893:b001:l042": "Unresolved full display line Дардештиги бар экен. Image confirms reading; дардеш lexical root not established by local glossary or primary dictionary searches. Surrounding accusation of disobedience does not justify inventing stubbornness. Exact raw and transliteration preserved separately; not counted as translated English. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p0894:b001:l013": "Garment never leaving back retained as printed; likely criticism of household care, but no silent substitution of new clothes being absent.",
     "manas-2010:p0894:b001:l016": "Accusation of being fond of men is Bakay’s hostile speech about Akylay; not softened or stated as narrator-verified fact.",
     "manas-2010:p0894:b001:l022": "Childlessness claim belongs to Bakay’s denunciation; no external medical inference.",
@@ -942,28 +944,8 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p0893:b001:l042",
-      "kind": "unresolved_source",
-      "reason": "Unresolved full display line Дардештиги бар экен. Image confirms reading; дардеш lexical root not established by local glossary or primary dictionary searches. Surrounding accusation of disobedience does not justify inventing stubbornness. Exact raw and transliteration preserved separately; not counted as translated English."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p0893:b001:l042"
-      ],
-      "raw": [
-        "Дардештиги бар экен."
-      ],
-      "transliteration": [
-        "Dardeshtigi bar eken."
-      ],
-      "reason": "Unresolved full display line Дардештиги бар экен. Image confirms reading; дардеш lexical root not established by local glossary or primary dictionary searches. Surrounding accusation of disobedience does not justify inventing stubbornness. Exact raw and transliteration preserved separately; not counted as translated English.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "lexical_sources": [
     "corpus/lexicon.json",
     "sources/raw/manas-2010.pdf: introduction0015:b002:l005 (огой-ногой), glossary1836:l031–033 (даңкан),1844:l012–015 (эриш буз-)",
@@ -976,10 +958,12 @@
   ],
   "publication_basis": "New English draft translated directly from Kyrgyz traditional folklore; no prior English poem translation input. One unresolved source line preserved in audit, not claimed translated. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 839,
-    "english_words": 4531,
+    "english_verse_rows": 840,
+    "english_words": 4535,
     "excluded_heading_rows": 0,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

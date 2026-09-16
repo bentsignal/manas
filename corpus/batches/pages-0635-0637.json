@@ -6,6 +6,7 @@
   "english": "corpus/batches/pages-0635-0637.en.txt",
   "source_ids": [
     "manas-2010:p0635:b001:l001",
+    "manas-2010:p0635:b001:l002",
     "manas-2010:p0635:b001:l003",
     "manas-2010:p0635:b001:l004",
     "manas-2010:p0635:b001:l005",
@@ -142,14 +143,9 @@
     ],
     "scope": "Faithful transcription of digital PDF, including visible defects; not archival verification."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p0635:b001:l002",
-      "kind": "unresolved_source",
-      "reason": "Legible formula Түбү кылым кырымы has unestablished sense. No invented origin or material."
-    }
-  ],
+  "excluded_source_ids": [],
   "notes": {
+    "manas-2010:p0635:b001:l002": "Yudakhin кырым II establishes excellent workmanship in gun descriptions: https://el-sozduk.kg/кырым/ (direct HTTP retrieved after web tool failed). Its parallel reads түбү Кытай кырымы, but this PDF visibly has кылым. The remaining phrase is unresolved; no silent Кытай substitution or invented Crimean origin. Comparative study https://arch.kyrlibnet.kg/uploads/TALGUAITALIEVA2013.pdf PDF124 repeats our wording without explaining it. Completion-first first pass: Low-confidence approximate rendering for “Түбү кылым кырымы,”; nearest corpus parallel was “Түбү душман кыргызды”.",
     "manas-2010:p0635:b001:l004": "Козу боор курч lamb-liver steel: literal material epithet; not actual animal liver used as an ingredient. Exact technical meaning uncertain.",
     "manas-2010:p0635:b001:l006": "Алмабаш printed name for iron/weapon, retained alongside Akkelte without assuming two separate guns.",
     "manas-2010:p0635:b001:l008": "Sixty days and negative spoil/break retained; syntactic link to next forging line provisional.",
@@ -160,6 +156,7 @@
     "manas-2010:p0635:b001:l024": "Дөөтү David traditional smiths patron; Кара уста translated Black Smith as designation, not new person invented.",
     "manas-2010:p0635:b001:l027": "Карандын genitive wretched/doomed thing contextual; possible referent uncertainty remains.",
     "manas-2010:p0635:b001:l028": "Exactly thousand young mares retained.",
+    "manas-2010:p0635:b001:l033": "Каран калган conventional wretched/doomed curse applied to formidable gun; contextual formidable rendering, not positive appraisal of weapon ethics.",
     "manas-2010:p0635:b001:l034": "Көөр precious stone; source describes jeweled sight.",
     "manas-2010:p0635:b001:l035": "Кыба кандыруу satisfy/please; sight-beauty contextual.",
     "manas-2010:p0635:b001:l038": "Буулум costly cloth, Yudakhin and encyclopedia https://el-sozduk.kg/БУУЛУМ/; no invented specific weave.",
@@ -186,22 +183,14 @@
     "manas-2010:p0637:b001:l036": "Салык stored goods/cache, Yudakhin sense3 https://el-sozduk.kg/салык/. Not tax or an invented scaffold.",
     "manas-2010:p0637:b001:l039": "Two years and twenty-four months both retained.",
     "manas-2010:p0637:b001:l041": "Ат кара тил season of lush early-summer grazing; Yudakhin/encyclopedia https://el-sozduk.kg/at-kara-til-bolgondo/. Literal tongue-color retained with explanatory grazing.",
-    "manas-2010:p0637:b001:l042": "Кызгалдак poppy; plant color red, not invented blood.",
-    "manas-2010:p0635:b001:l033": "Каран калган conventional wretched/doomed curse applied to formidable gun; contextual formidable rendering, not positive appraisal of weapon ethics."
+    "manas-2010:p0637:b001:l042": "Кызгалдак poppy; plant color red, not invented blood."
   },
   "alignment_check": {
     "checked_by": "Codex",
     "method": "All 125 source/English pairs read; corrected 637:l013–014 clause allocation. All three PDF pages visually compared. One formula unresolved, separately preserved and not counted.",
     "independent_specialist_review": false
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p0635:b001:l002"
-      ],
-      "raw": "Түбү кылым кырымы,",
-      "status": "unresolved",
-      "note": "Yudakhin кырым II establishes excellent workmanship in gun descriptions: https://el-sozduk.kg/кырым/ (direct HTTP retrieved after web tool failed). Its parallel reads түбү Кытай кырымы, but this PDF visibly has кылым. The remaining phrase is unresolved; no silent Кытай substitution or invented Crimean origin. Comparative study https://arch.kyrlibnet.kg/uploads/TALGUAITALIEVA2013.pdf PDF124 repeats our wording without explaining it."
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

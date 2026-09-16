@@ -168,6 +168,7 @@
     "semetey-1-2013:p0155:b003:l009",
     "semetey-1-2013:p0155:b003:l010",
     "semetey-1-2013:p0155:b003:l011",
+    "semetey-1-2013:p0155:b003:l012",
     "semetey-1-2013:p0155:b003:l013",
     "semetey-1-2013:p0155:b003:l014",
     "semetey-1-2013:p0155:b003:l015",
@@ -299,11 +300,6 @@
       "id": "semetey-1-2013:p0155:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printer signature20–1018/20*, not narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0155:b003:l012",
-      "kind": "unresolved_source",
-      "reason": "Караңгы жайдак көчү бар: precise dark/bareback caravan or figurative threat sense and attachment to Umotoy unclear. Whole verse withheld instead of invented destitution, illiteracy or armed reprisal."
     }
   ],
   "notes": {
@@ -357,9 +353,11 @@
     "semetey-1-2013:p0154:b004:l031": "Only hero of nest image retained, not all sons generalized. Next Manas’s companion/equal may appose same death.",
     "semetey-1-2013:p0154:b004:l034": "Muzburchak and Khan Kokcho interpreted separate deaths, earlier1624:24 likewise; no single hyphenated name invented.",
     "semetey-1-2013:p0154:b004:l035": "Indented36 joined, all who encountered Beijing died source hyperbole despite survivor speaker retained. Visually indented continuation grouped into one provisional verse; exact physical evidence retained.",
+    "semetey-1-2013:p0154:b004:l038": " Visually indented continuation grouped into one provisional verse; exact physical evidence retained.",
     "semetey-1-2013:p0155:b003:l001": "Teeth jutting from horse corpses, not dragon fangs, corpse mountain2 literal epic scale.",
     "semetey-1-2013:p0155:b003:l005": "All males orphaned after women widowed, printed universal retained without demographic correction.",
     "semetey-1-2013:p0155:b003:l009": "Primary Yudakhin акта III4 https://el-sozduk.kg/акта/ exact таруусун таштай актаган means husks millet together with stones; not grain as hard as stones or agricultural skill praise. Applied Umotoy in source though elsewhere Kokcho formula.",
+    "semetey-1-2013:p0155:b003:l012": "Караңгы жайдак көчү бар: precise dark/bareback caravan or figurative threat sense and attachment to Umotoy unclear. Whole verse withheld instead of invented destitution, illiteracy or armed reprisal. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0155:b003:l013": "Quoted Umotoy vengeance for father Kokcho taken under escort and killed; first-person my father belongs quote, not Bakai’s actual father.",
     "semetey-1-2013:p0155:b003:l015": "Кул slave derogatory epithet retained without historical status assertion.",
     "semetey-1-2013:p0155:b003:l017": "Visually indented18 joined as one verse. Repeated denial of residence22 preserved. Visually indented continuation grouped into one provisional verse; exact physical evidence retained.",
@@ -375,6 +373,7 @@
     "semetey-1-2013:p0155:b005:l002": "Каяшаяк interpreted variant каяшаак one who defies/answers back, supported surrounding punitive conquest; spelling retained raw.",
     "semetey-1-2013:p0155:b005:l007": "Days crumpled, throne toppled8, river-garden burned9, branch broken11–12 all separate metaphors retained.",
     "semetey-1-2013:p0155:b005:l010": "Сырттан mighty wild beast/hero epithet, not a new named person.",
+    "semetey-1-2013:p0155:b005:l011": " Visually indented continuation grouped into one provisional verse; exact physical evidence retained.",
     "semetey-1-2013:p0155:b005:l016": "Narrator calls Kanykei ill-intentioned, not silently shifted into neutral description or project endorsement.",
     "semetey-1-2013:p0155:b005:l017": "Shouts splitting stones/heads, flames eyes/mouth epic grief imagery, no added physical victims.",
     "semetey-1-2013:p0155:b005:l019": "Mustache then beard torn separately, no deduplication of repeated line.",
@@ -382,43 +381,9 @@
     "semetey-1-2013:p0155:b005:l030": "Чолпон morning star setting, not Sun or actual astronomical event.",
     "semetey-1-2013:p0155:b005:l032": "Аякташа at adjoining feet, retain physical burial proximity image instead of merely next to him; exact positioning merits specialist review.",
     "semetey-1-2013:p0155:b005:l036": "Күрмөмөк knot/tie life metaphor retained, not invented physical strangulation.",
-    "semetey-1-2013:p0155:b005:l039": "Жиним anger/fury here, not possession diagnosis.",
-    "semetey-1-2013:p0154:b004:l038": " Visually indented continuation grouped into one provisional verse; exact physical evidence retained.",
-    "semetey-1-2013:p0155:b005:l011": " Visually indented continuation grouped into one provisional verse; exact physical evidence retained."
+    "semetey-1-2013:p0155:b005:l039": "Жиним anger/fury here, not possession diagnosis."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0155:b003:l012"
-      ],
-      "raw": [
-        "Êàðà¢ãû æàéäàê êº÷¿ áàð,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0155:b003:l012",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 155,
-          "block": 3,
-          "line_in_block": 12,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 299.3397,
-            "xMax": 238.536,
-            "yMax": 312.5277
-          },
-          "raw": "Êàðà¢ãû æàéäàê êº÷¿ áàð,",
-          "text": "Караңгы жайдак көчү бар,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Караңгы жайдак көчү бар: precise dark/bareback caravan or figurative threat sense and attachment to Umotoy unclear. Whole verse withheld instead of invented destitution, illiteracy or armed reprisal.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -443,11 +408,12 @@
     "scope": "Every included narrative row on printed pages 153–155 was compared with its exact Kyrgyz source row; one lexical error was corrected without changing source IDs, exclusions, or row count."
   },
   "counts": {
-    "english_verse_rows": 227,
-    "english_words": 1407,
+    "english_verse_rows": 228,
+    "english_words": 1414,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 228,
     "wrapped_verse_groups": 6,
-    "unresolved_source_rows": 1
-  }
+    "unresolved_source_rows": 0
+  },
+  "source_joiners": {}
 }

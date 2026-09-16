@@ -136,6 +136,7 @@
     "semetey-1-2013:p0418:b004:l014",
     "semetey-1-2013:p0418:b004:l015",
     "semetey-1-2013:p0418:b004:l016",
+    "semetey-1-2013:p0418:b004:l017",
     "semetey-1-2013:p0418:b004:l018",
     "semetey-1-2013:p0418:b004:l019",
     "semetey-1-2013:p0418:b004:l020",
@@ -160,6 +161,7 @@
     "semetey-1-2013:p0418:b004:l039",
     "semetey-1-2013:p0419:b003:l001",
     "semetey-1-2013:p0419:b003:l002",
+    "semetey-1-2013:p0419:b003:l003",
     "semetey-1-2013:p0419:b003:l004",
     "semetey-1-2013:p0419:b003:l005",
     "semetey-1-2013:p0419:b003:l006",
@@ -181,6 +183,7 @@
     "semetey-1-2013:p0419:b003:l022",
     "semetey-1-2013:p0419:b003:l023",
     "semetey-1-2013:p0419:b003:l024",
+    "semetey-1-2013:p0419:b003:l025",
     "semetey-1-2013:p0419:b003:l026",
     "semetey-1-2013:p0419:b003:l027",
     "semetey-1-2013:p0419:b003:l028",
@@ -272,11 +275,6 @@
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0418:b004:l017",
-      "kind": "unresolved_source",
-      "reason": "Карабчысын калдайткан: карабчы garment/headgear term unresolved; no guessed object or omission."
-    },
-    {
       "id": "semetey-1-2013:p0419:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
@@ -290,16 +288,6 @@
       "id": "semetey-1-2013:p0419:b006:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title, folio or printing signature, not narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0419:b003:l003",
-      "kind": "unresolved_source",
-      "reason": "Ар белгисин жайланган: exact ар/эр and mutilation meaning uncertain in hostile monk depiction; no guessed castration asserted."
-    },
-    {
-      "id": "semetey-1-2013:p0419:b003:l025",
-      "kind": "unresolved_source",
-      "reason": "Жээк тартып чуркурап: жээк тарт action/direction unclear in marching army; no invented riverbank route."
     }
   ],
   "notes": {
@@ -327,6 +315,7 @@
     "semetey-1-2013:p0417:b005:l036": "Conditional self-curse scatter gathered goods/flee Talas preserved, not stated completed dispersal or suicide.",
     "semetey-1-2013:p0418:b003:l001": "Primary төшөгүн бас exact defile another's marital bed; conditional adultery repudiation, not actual adultery narrated.",
     "semetey-1-2013:p0418:b003:l004": "Primary жаздыгын бас exact defile marital bed with literal pillow image retained; repeated rhetorical question not removed.",
+    "semetey-1-2013:p0418:b003:l005": "Жанымдан side/body in parallel with blow to crown above; no unprinted God subject or confirmed literal injury. Conditional question retained.",
     "semetey-1-2013:p0418:b003:l006": "Kanykei held as mother and companion in loyalty/respect, not romantic partner asserted.",
     "semetey-1-2013:p0418:b003:l009": "Бусурман = Muslim positive here, not misread modern Russian infidel pejorative.",
     "semetey-1-2013:p0418:b003:l013": "Кыябы opportunity/right moment, no courier or hidden cipher added.",
@@ -343,15 +332,19 @@
     "semetey-1-2013:p0418:b004:l009": "Primary тоз II fine dust, source burned image retained with next ground/dust parallel; not tinder fungus senseI.",
     "semetey-1-2013:p0418:b004:l011": "Дүңкүлдөк booming drum, no artillery cannon invented.",
     "semetey-1-2013:p0418:b004:l015": "Beaded plume/coral-stone adornment distinct items, not all gemstones collapsed.",
+    "semetey-1-2013:p0418:b004:l016": "Primary Tumenbaeva PDF4 explicitly identifies луңтуң as Chinese local headman/district or military governor and quotes this exact beaded-plume/coral stanza (Semetey I78). Rendered governor khan, not invented place Lungtung. Genitive/title construction awkward in source; rank kept general. https://nbisu.moy.su/_ld/10/1088_Tumenbaeva_J.A..pdf",
+    "semetey-1-2013:p0418:b004:l017": "Карабчысын калдайткан: карабчы garment/headgear term unresolved; no guessed object or omission. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0418:b004:l019": "Primary беренжи textile/garment type, retained berenzhi garment; not speculative rice or armor sense.",
     "semetey-1-2013:p0418:b004:l021": "Күрмө sleeveless vest; strong troops stand separately, repeated peoples not merged.",
     "semetey-1-2013:p0418:b004:l023": "Primary Yudakhin exact таза3 = best, quoting таш сайынган калмактын тазасын сойгон жери бар; ташI5 and таш сайынган explicitly refer to officials whose hats have a ball/button indicating rank. Not ethnic purity or unspecified gem adornment. Image418 already individually inspected; revised source/English pairs reread.",
+    "semetey-1-2013:p0418:b004:l024": "Primary Yudakhin exact таза3 = best, quoting таш сайынган калмактын тазасын сойгон жери бар; ташI5 and таш сайынган explicitly refer to officials whose hats have a ball/button indicating rank. Not ethnic purity or unspecified gem adornment. Image418 already individually inspected; revised source/English pairs reread.",
     "semetey-1-2013:p0418:b004:l025": "Primary торчон mail-clad and mythic канжаркол dagger-handed; iron ropes source military depiction.",
     "semetey-1-2013:p0418:b004:l028": "Human noses/ears amulets explicit violent source detail, no additional procedures.",
     "semetey-1-2013:p0418:b004:l031": "Adal/aram permitted/forbidden within narrator's religious framing, not objective description of Solon customs.",
     "semetey-1-2013:p0418:b004:l033": "Ox aging/human death and equal division deceased livestock source claims retained without modern ethnographic endorsement.",
     "semetey-1-2013:p0418:b004:l038": "No trousers/no squatting to piss hostile source depiction retained, not sanitized or presented as researched cultural fact.",
     "semetey-1-2013:p0419:b003:l001": "Untamed horses and unfamiliarity with women source monk depiction; all narrative claims not independent ethnographic facts.",
+    "semetey-1-2013:p0419:b003:l003": "Ар белгисин жайланган: exact ар/эр and mutilation meaning uncertain in hostile monk depiction; no guessed castration asserted. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0419:b003:l004": "Bronze idol and claim it is God represented as source perspective; no identification of actual doctrine.",
     "semetey-1-2013:p0419:b003:l008": "Primary илек I immeasurable multitude, not fixed 100,000 count; army of monks source depiction.",
     "semetey-1-2013:p0419:b003:l009": "Impenetrable armor epic claim, not modern product safety claim.",
@@ -361,6 +354,7 @@
     "semetey-1-2013:p0419:b003:l019": "Sky clear/ground obscured contrast and no blade/no person repetitions retained.",
     "semetey-1-2013:p0419:b003:l021": "Primary тоз II fine dust; seething mass amid earth/dust army imagery, not tinder.",
     "semetey-1-2013:p0419:b003:l023": "Spearheads then human heads clash, literal source parallel retained; not silently replacing with horses.",
+    "semetey-1-2013:p0419:b003:l025": "Жээк тартып чуркурап: жээк тарт action/direction unclear in marching army; no invented riverbank route. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0419:b003:l027": "Reeds/flood/ants/worms imagery emphasizes vast host; each command to look retained.",
     "semetey-1-2013:p0419:b003:l029": "Embers striking in haze and bullets unerring distinct images, no modern weapon mechanism invented.",
     "semetey-1-2013:p0419:b003:l031": "Giant no horse can carry, followed footman with battle-axe; no extra monster species guessed.",
@@ -376,106 +370,9 @@
     "semetey-1-2013:p0419:b005:l032": "Primary тиште2 work ornament by biting, same as416; six months here distinct from seven years earlier, not silent duration correction.",
     "semetey-1-2013:p0419:b005:l034": "Double mail with lark-eye rings primary; same repeated armor formula as416.",
     "semetey-1-2013:p0419:b005:l035": "Primary келеме II / келеме бото type of outer garment in expensive kele cloth, not camel calf or sash invented.",
-    "semetey-1-2013:p0419:b005:l036": "Ak-olpok named white padded armor; source continues420. No modern bulletproof guarantee.",
-    "semetey-1-2013:p0418:b003:l005": "Жанымдан side/body in parallel with blow to crown above; no unprinted God subject or confirmed literal injury. Conditional question retained.",
-    "semetey-1-2013:p0418:b004:l016": "Primary Tumenbaeva PDF4 explicitly identifies луңтуң as Chinese local headman/district or military governor and quotes this exact beaded-plume/coral stanza (Semetey I78). Rendered governor khan, not invented place Lungtung. Genitive/title construction awkward in source; rank kept general. https://nbisu.moy.su/_ld/10/1088_Tumenbaeva_J.A..pdf",
-    "semetey-1-2013:p0418:b004:l024": "Primary Yudakhin exact таза3 = best, quoting таш сайынган калмактын тазасын сойгон жери бар; ташI5 and таш сайынган explicitly refer to officials whose hats have a ball/button indicating rank. Not ethnic purity or unspecified gem adornment. Image418 already individually inspected; revised source/English pairs reread."
+    "semetey-1-2013:p0419:b005:l036": "Ak-olpok named white padded armor; source continues420. No modern bulletproof guarantee."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0418:b004:l017"
-      ],
-      "raw": [
-        "Êàðàá÷ûñûí* êàëäàéòêàí"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0418:b004:l017",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 418,
-          "block": 4,
-          "line_in_block": 17,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 370.3797,
-            "xMax": 458.7396,
-            "yMax": 383.5677
-          },
-          "raw": "Êàðàá÷ûñûí* êàëäàéòêàí",
-          "text": "Карабчысын* калдайткан",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Карабчысын калдайткан: карабчы garment/headgear term unresolved; no guessed object or omission.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0419:b003:l003"
-      ],
-      "raw": [
-        "Àð áåëãèñèí æàéëàíãàí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0419:b003:l003",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 419,
-          "block": 3,
-          "line_in_block": 3,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 171.6597,
-            "xMax": 226.4484,
-            "yMax": 184.8477
-          },
-          "raw": "Àð áåëãèñèí æàéëàíãàí,",
-          "text": "Ар белгисин жайланган,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Ар белгисин жайланган: exact ар/эр and mutilation meaning uncertain in hostile monk depiction; no guessed castration asserted.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0419:b003:l025"
-      ],
-      "raw": [
-        "Æýýê òàðòûï ÷óðêóðàï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0419:b003:l025",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 419,
-          "block": 3,
-          "line_in_block": 25,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 483.8997,
-            "xMax": 222.6288,
-            "yMax": 497.0877
-          },
-          "raw": "Æýýê òàðòûï ÷óðêóðàï,",
-          "text": "Жээк тартып чуркурап,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Жээк тартып чуркурап: жээк тарт action/direction unclear in marching army; no invented riverbank route.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -498,5 +395,6 @@
     "rows": 229,
     "status": "draft; no independent specialist review",
     "details": "Audited every included narrative row against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned; no row changes were required."
-  }
+  },
+  "source_joiners": {}
 }

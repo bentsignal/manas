@@ -166,6 +166,7 @@
     "manas-2010:p1200:b001:l032",
     "manas-2010:p1200:b001:l033",
     "manas-2010:p1200:b001:l034",
+    "manas-2010:p1200:b001:l035",
     "manas-2010:p1200:b001:l036",
     "manas-2010:p1200:b001:l037",
     "manas-2010:p1200:b001:l038",
@@ -880,28 +881,8 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1200:b001:l035",
-      "kind": "unresolved_source",
-      "reason": "Whole line unresolved: темир is iron and көпүрө bridge, but залдуу has no verified construction sense here. Primary зал entries give hall or rock salt, which do not establish iron-framed, iron-cabled, or iron-rafted. Those interpretations would require unsupported emendation or omission; raw and transliteration preserved, not counted as English."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1200:b001:l035"
-      ],
-      "raw": [
-        "Темир залдуу көпүрө"
-      ],
-      "transliteration": [
-        "Temir zalduu köpürö"
-      ],
-      "reason": "Whole line unresolved: темир is iron and көпүрө bridge, but залдуу has no verified construction sense here. Primary зал entries give hall or rock salt, which do not establish iron-framed, iron-cabled, or iron-rafted. Those interpretations would require unsupported emendation or omission; raw and transliteration preserved, not counted as English.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "notes": {
     "manas-2010:p1197:b001:l001": "Zhapalak is treated as the named desert in the narrated earlier escape, not newly identified with a modern location.",
     "manas-2010:p1197:b001:l006": "Forty thousand against one is retained as the explicit heroic disproportion.",
@@ -928,6 +909,7 @@
     "manas-2010:p1200:b001:l009": "Printed түшүм, rather than expected түшүп, is read contextually as apples falling to become manure. Raw retained; no ordinary harvest reading silently substituted.",
     "manas-2010:p1200:b001:l013": "Apricots filled with fat and pistachios become honey are retained as abundance imagery, not actual ingredient claims.",
     "manas-2010:p1200:b001:l020": "The negative уккусуз is retained as could not bear to hear; no silent reversal to pleasant listening.",
+    "manas-2010:p1200:b001:l035": "Whole line unresolved: темир is iron and көпүрө bridge, but залдуу has no verified construction sense here. Primary зал entries give hall or rock salt, which do not establish iron-framed, iron-cabled, or iron-rafted. Those interpretations would require unsupported emendation or omission; raw and transliteration preserved, not counted as English. Completion-first first pass: Low-confidence approximate rendering for “Темир залдуу көпүрө”; nearest corpus parallel was “Темир калкан ок өтпөс,”.",
     "manas-2010:p1200:b001:l037": "The rope belongs contextually to the bridge passage. Failure to pull it away in flight is retained, without inventing the bridge's exact mechanism.",
     "manas-2010:p1201:b001:l015": "Жарым кан literally half-khan is the recurring status title, translated rather than silently equated to a specific Qing administrative office.",
     "manas-2010:p1201:b001:l023": "The referent of the gold is compressed after opening the bag; retained without specifying that the entire saddlebag is solid gold.",
@@ -1033,10 +1015,12 @@
   ],
   "publication_basis": "New English draft directly translated from Kyrgyz traditional folklore; no prior English poem translation input. One whole verse unresolved, with raw/transliteration preserved outside English count. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 839,
-    "english_words": 4480,
+    "english_verse_rows": 840,
+    "english_words": 4485,
     "excluded_heading_rows": 0,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

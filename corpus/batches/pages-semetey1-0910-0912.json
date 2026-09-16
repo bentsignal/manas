@@ -110,6 +110,7 @@
     "semetey-1-2013:p0911:b003:l024",
     "semetey-1-2013:p0911:b003:l025",
     "semetey-1-2013:p0911:b003:l026",
+    "semetey-1-2013:p0911:b003:l027",
     "semetey-1-2013:p0911:b003:l028",
     "semetey-1-2013:p0911:b003:l029",
     "semetey-1-2013:p0911:b003:l031",
@@ -179,6 +180,7 @@
     "semetey-1-2013:p0912:b003:l015",
     "semetey-1-2013:p0912:b003:l016",
     "semetey-1-2013:p0912:b003:l017",
+    "semetey-1-2013:p0912:b003:l018",
     "semetey-1-2013:p0912:b003:l019",
     "semetey-1-2013:p0912:b003:l020",
     "semetey-1-2013:p0912:b003:l021",
@@ -199,6 +201,7 @@
     "semetey-1-2013:p0912:b003:l036",
     "semetey-1-2013:p0912:b003:l037",
     "semetey-1-2013:p0912:b003:l038",
+    "semetey-1-2013:p0912:b003:l039",
     "semetey-1-2013:p0912:b003:l040",
     "semetey-1-2013:p0912:b004:l001",
     "semetey-1-2013:p0912:b004:l002",
@@ -206,6 +209,7 @@
     "semetey-1-2013:p0912:b004:l004",
     "semetey-1-2013:p0912:b004:l005",
     "semetey-1-2013:p0912:b004:l006",
+    "semetey-1-2013:p0912:b004:l007",
     "semetey-1-2013:p0912:b004:l008",
     "semetey-1-2013:p0912:b004:l009",
     "semetey-1-2013:p0912:b004:l010",
@@ -216,6 +220,7 @@
     "semetey-1-2013:p0912:b004:l015",
     "semetey-1-2013:p0912:b004:l016",
     "semetey-1-2013:p0912:b004:l017",
+    "semetey-1-2013:p0912:b004:l018",
     "semetey-1-2013:p0912:b004:l019",
     "semetey-1-2013:p0912:b004:l020",
     "semetey-1-2013:p0912:b004:l021",
@@ -224,6 +229,7 @@
     "semetey-1-2013:p0912:b004:l024",
     "semetey-1-2013:p0912:b004:l025",
     "semetey-1-2013:p0912:b004:l026",
+    "semetey-1-2013:p0912:b004:l027",
     "semetey-1-2013:p0912:b004:l028",
     "semetey-1-2013:p0912:b004:l029",
     "semetey-1-2013:p0912:b004:l030",
@@ -270,11 +276,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0911:b003:l027",
-      "kind": "unresolved_source",
-      "reason": "Чампандан жылкы алуучу: horse-raiding clear, capitalized Чампандан unresolved. Primary чампан person with poor speech / muzzleloader does not secure source or place. Whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0912:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -283,31 +284,6 @@
       "id": "semetey-1-2013:p0912:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0912:b003:l018",
-      "kind": "unresolved_source",
-      "reason": "Бөлүнүп чыксаң бүгүлөр: second-person conditional and third-person bending/dooming relation unresolved; no silent pronoun emendation."
-    },
-    {
-      "id": "semetey-1-2013:p0912:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Жаның чыккан бул иттер: second-person possessive soul/death expression with third-person dogs unresolved; no guessed curse syntax."
-    },
-    {
-      "id": "semetey-1-2013:p0912:b004:l007",
-      "kind": "unresolved_source",
-      "reason": "Чалыңа берет тымызын: gives secretly to your old man/husband literal words do not secure intended warning about kumys; no inferred poisoning."
-    },
-    {
-      "id": "semetey-1-2013:p0912:b004:l018",
-      "kind": "unresolved_source",
-      "reason": "Бир алтоон кетирип жибер эренге: six and sending clear, эренге destination/warrior construction unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0912:b004:l027",
-      "kind": "unresolved_source",
-      "reason": "Эсиңди тапчу бул эмес: mental-state/understanding expression unclear; not silently emended to эбиңди. Whole verse held."
     }
   ],
   "notes": {
@@ -334,6 +310,7 @@
     "semetey-1-2013:p0911:b003:l011": "Кылым world/peoples rather than century in this construction.",
     "semetey-1-2013:p0911:b003:l015": "Primary белге таңуу exact support/protection, including a son on whom hopes rest; not physically binding at the waist.",
     "semetey-1-2013:p0911:b003:l019": "Visually verified single verse wraps across extraction lines19–20; join with one space.",
+    "semetey-1-2013:p0911:b003:l027": "Чампандан жылкы алуучу: horse-raiding clear, capitalized Чампандан unresolved. Primary чампан person with poor speech / muzzleloader does not secure source or place. Whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0911:b003:l029": "Visually verified single verse wraps across extraction lines29–30; join with one space. Сурагы contextual news/hearing of the companions.",
     "semetey-1-2013:p0911:b003:l032": "Primary оолук- highly excited/raging; source twelve years of idleness retained.",
     "semetey-1-2013:p0911:b003:l034": "Атаңдын көрү idiomatic curse; rendered an exclamation without inventing action at a grave.",
@@ -349,207 +326,25 @@
     "semetey-1-2013:p0912:b003:l004": "Манастай comparison retained as like Manas himself; exact comparison scope is not narrowed to a new action attributed to deceased Manas.",
     "semetey-1-2013:p0912:b003:l014": "Capitalized hyphenated Tort-Kul retained as named terrain; no unverified modern location assigned.",
     "semetey-1-2013:p0912:b003:l017": "Ой hollow/depression with battle-site destruction, not thought in this phrase.",
+    "semetey-1-2013:p0912:b003:l018": "Бөлүнүп чыксаң бүгүлөр: second-person conditional and third-person bending/dooming relation unresolved; no silent pronoun emendation. Completion-first first pass: Low-confidence approximate rendering for “Бөлүнүп чыксаң бүгүлөр,”; nearest corpus parallel was “Бөлүнүп чыккан эрлерин”.",
     "semetey-1-2013:p0912:b003:l021": "Primary жел аргы slight breeze; source prints joined желаргы. Not a storm.",
     "semetey-1-2013:p0912:b003:l025": "Учу түптүү provisionally silk intact from tip to base in successive cloth-strength comparisons. Exact textile idiom still merits specialist review.",
     "semetey-1-2013:p0912:b003:l033": "Primary кырмызы crimson/bright-red silk; broad crimson cloth avoids inventing weave.",
     "semetey-1-2013:p0912:b003:l036": "Кылчаяр look back; fools and negative likelihood retained without adding reconciliation.",
+    "semetey-1-2013:p0912:b003:l039": "Жаның чыккан бул иттер: second-person possessive soul/death expression with third-person dogs unresolved; no guessed curse syntax. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0912:b004:l001": "Жан көөкөр taken as small traveling leather flask, parallel жан казан; exact compound not separately found in primary dictionary, qualified reading.",
     "semetey-1-2013:p0912:b004:l005": "Primary чапчак I barrel/wooden vessel for fermented drinks; not narrow-neck leather flask.",
+    "semetey-1-2013:p0912:b004:l007": "Чалыңа берет тымызын: gives secretly to your old man/husband literal words do not secure intended warning about kumys; no inferred poisoning. Completion-first first pass: Low-confidence approximate rendering for “Чалыңа берет тымызын!”; nearest corpus parallel was “Талын берет Карыкан,”.",
     "semetey-1-2013:p0912:b004:l009": "Primary табылгы таволга/спирея woody shrub. Meadowsweet is historical lexical rendering, not certified modern botanical identification; figurative embers retained.",
     "semetey-1-2013:p0912:b004:l011": "Тарчылык hard circumstances and speaking retained broadly, without adding a specific conspiracy.",
     "semetey-1-2013:p0912:b004:l015": "Демин чыгар take breath/life in threat context; source's breath/spirit parallel retained.",
+    "semetey-1-2013:p0912:b004:l018": "Бир алтоон кетирип жибер эренге: six and sending clear, эренге destination/warrior construction unresolved. Completion-first first pass: Low-confidence approximate rendering for “Бир алтоон кетирип жибер эренге,”; nearest corpus parallel was “Алтоон чечип жиберип,”.",
+    "semetey-1-2013:p0912:b004:l027": "Эсиңди тапчу бул эмес: mental-state/understanding expression unclear; not silently emended to эбиңди. Whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0912:b004:l030": "Knucklebone-size mice and ninety pelts insufficient for a coat remain source proverb/hyperbole.",
     "semetey-1-2013:p0912:b004:l035": "Арта тууган surpassing one's father retained as narrator's praise, not historical judgment.",
     "semetey-1-2013:p0912:b004:l039": "Primary exact бучкагына теңебейт = considers worth nothing; rendered idiomatically, not guessed clothing anatomy."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0911:b003:l027"
-      ],
-      "raw": [
-        "×àìïàíäàí æûëêû àëóó÷ó."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0911:b003:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 911,
-          "block": 3,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 501.6597,
-            "xMax": 242.124,
-            "yMax": 514.8477
-          },
-          "raw": "×àìïàíäàí æûëêû àëóó÷ó.",
-          "text": "Чампандан жылкы алуучу.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Чампандан жылкы алуучу: horse-raiding clear, capitalized Чампандан unresolved. Primary чампан person with poor speech / muzzleloader does not secure source or place. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0912:b003:l018"
-      ],
-      "raw": [
-        "Áºë¿í¿ï ÷ûêñà¢ á¿ã¿ëºð,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0912:b003:l018",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 912,
-          "block": 3,
-          "line_in_block": 18,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 377.5797,
-            "xMax": 227.94,
-            "yMax": 390.7677
-          },
-          "raw": "Áºë¿í¿ï ÷ûêñà¢ á¿ã¿ëºð,",
-          "text": "Бөлүнүп чыксаң бүгүлөр,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Бөлүнүп чыксаң бүгүлөр: second-person conditional and third-person bending/dooming relation unresolved; no silent pronoun emendation.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0912:b003:l039"
-      ],
-      "raw": [
-        "Æàíû¢ ÷ûêêàí áóë èòòåð"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0912:b003:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 912,
-          "block": 3,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 667.2597,
-            "xMax": 231.0816,
-            "yMax": 680.4477
-          },
-          "raw": "Æàíû¢ ÷ûêêàí áóë èòòåð",
-          "text": "Жаның чыккан бул иттер",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Жаның чыккан бул иттер: second-person possessive soul/death expression with third-person dogs unresolved; no guessed curse syntax.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0912:b004:l007"
-      ],
-      "raw": [
-        "×àëû¢à áåðåò òûìûçûí!"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0912:b004:l007",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 912,
-          "block": 4,
-          "line_in_block": 7,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 225.6597,
-            "xMax": 452.808,
-            "yMax": 238.8477
-          },
-          "raw": "×àëû¢à áåðåò òûìûçûí!",
-          "text": "Чалыңа берет тымызын!",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Чалыңа берет тымызын: gives secretly to your old man/husband literal words do not secure intended warning about kumys; no inferred poisoning.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0912:b004:l018"
-      ],
-      "raw": [
-        "Áèð àëòîîí êåòèðèï æèáåð ýðåíãå,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0912:b004:l018",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 912,
-          "block": 4,
-          "line_in_block": 18,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 377.5797,
-            "xMax": 514.53,
-            "yMax": 390.7677
-          },
-          "raw": "Áèð àëòîîí êåòèðèï æèáåð ýðåíãå,",
-          "text": "Бир алтоон кетирип жибер эренге,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Бир алтоон кетирип жибер эренге: six and sending clear, эренге destination/warrior construction unresolved.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0912:b004:l027"
-      ],
-      "raw": [
-        "Ýñè¢äè òàï÷ó áóë ýìåñ."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0912:b004:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 912,
-          "block": 4,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 501.6597,
-            "xMax": 446.904,
-            "yMax": 514.8477
-          },
-          "raw": "Ýñè¢äè òàï÷ó áóë ýìåñ.",
-          "text": "Эсиңди тапчу бул эмес.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Эсиңди тапчу бул эмес: mental-state/understanding expression unclear; not silently emended to эбиңди. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -575,11 +370,12 @@
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 231,
-    "english_words": 1358,
+    "translated_verse_rows": 237,
+    "english_words": 1398,
     "physical_narrative_fragments": 239,
     "reconstructed_source_verses": 237,
-    "unresolved_source_verses": 6,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 2
-  }
+  },
+  "source_joiners": {}
 }

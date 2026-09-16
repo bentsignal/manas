@@ -744,6 +744,7 @@
     "manas-2010:p1389:b001:l029",
     "manas-2010:p1389:b001:l030",
     "manas-2010:p1389:b001:l031",
+    "manas-2010:p1389:b001:l032",
     "manas-2010:p1389:b001:l033",
     "manas-2010:p1389:b001:l034",
     "manas-2010:p1389:b001:l035",
@@ -854,28 +855,9 @@
       "id": "manas-2010:p1383:b005:l001",
       "kind": "prose",
       "reason": "Editorial footnote8 marker or statement that the heading is absent from the original; not narrated verse."
-    },
-    {
-      "id": "manas-2010:p1389:b001:l032",
-      "kind": "unresolved_source",
-      "reason": "Шагымды is visibly printed, but no defensible primary Kyrgyz noun sense is established here. Surrounding ramparts and throne suggest a city/domain offer; dictionary шак branch/hope does not justify it. Whole verse retained raw and transliterated outside English count, with no silent шаарымды emendation."
     }
   ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1389:b001:l032"
-      ],
-      "raw": [
-        "Шагымды тартуу кылайын,"
-      ],
-      "transliteration": [
-        "Shagymdy tartuu kylayyn,"
-      ],
-      "reason": "Шагымды is visibly printed, but no defensible primary Kyrgyz noun sense is established here. Surrounding ramparts and throne suggest a city/domain offer; dictionary шак branch/hope does not justify it. Whole verse retained raw and transliterated outside English count, with no silent шаарымды emendation.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_passages": [],
   "headings": [
     {
       "source_ids": [
@@ -984,6 +966,7 @@
     "manas-2010:p1389:b001:l009": "санжыргалуу illustrious/authoritative, Yudakhin https://el-sozduk.kg/САНЖЫРГАЛУУ/; not a new epithet-name.",
     "manas-2010:p1389:b001:l025": "Ay Jangjung retained as the established person’s name/title combination; not rendered as a new unnamed governor-general.",
     "manas-2010:p1389:b001:l026": "уз skilled woman/craftswoman; no invented profession beyond skilled maiden in this bride-offer context.",
+    "manas-2010:p1389:b001:l032": "Шагымды is visibly printed, but no defensible primary Kyrgyz noun sense is established here. Surrounding ramparts and throne suggest a city/domain offer; dictionary шак branch/hope does not justify it. Whole verse retained raw and transliterated outside English count, with no silent шаарымды emendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1389:b001:l033": "Mounting the throne and enduring fame both retained from compact source; not a horse offer.",
     "manas-2010:p1390:b001:l015": "бейжай unruly fellow, local glossary1835:l023–024; no unverified person Beyzhay.",
     "manas-2010:p1390:b001:l020": "Subordination syntax read as people bowing to Ezkara after Karykan, as confirmed by the following Bakay-like authority description.",
@@ -1046,11 +1029,13 @@
   ],
   "publication_basis": "New draft directly translated from Kyrgyz traditional folklore; no prior English poem translation input. One unresolved verse and modern editorial apparatus retained separately outside English count. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 832,
-    "english_words": 4387,
+    "english_verse_rows": 833,
+    "english_words": 4395,
     "excluded_heading_rows": 1,
     "excluded_editorial_footnote_rows": 2,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

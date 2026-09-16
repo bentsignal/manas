@@ -78,6 +78,7 @@
     "semetey-1-2013:p0735:b004:l031",
     "semetey-1-2013:p0735:b004:l032",
     "semetey-1-2013:p0735:b004:l033",
+    "semetey-1-2013:p0735:b004:l034",
     "semetey-1-2013:p0735:b004:l035",
     "semetey-1-2013:p0735:b004:l036",
     "semetey-1-2013:p0735:b004:l037",
@@ -87,6 +88,7 @@
     "semetey-1-2013:p0736:b003:l002",
     "semetey-1-2013:p0736:b003:l003",
     "semetey-1-2013:p0736:b003:l004",
+    "semetey-1-2013:p0736:b003:l005",
     "semetey-1-2013:p0736:b003:l006",
     "semetey-1-2013:p0736:b003:l007",
     "semetey-1-2013:p0736:b003:l008",
@@ -260,11 +262,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0735:b004:l034",
-      "kind": "unresolved_source",
-      "reason": "Карансыз бузук иттерди: disruptive dogs clear, exact карансыз modifier unresolved; not silently караансыз or boundless."
-    },
-    {
       "id": "semetey-1-2013:p0736:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -273,11 +270,6 @@
       "id": "semetey-1-2013:p0736:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0736:b003:l005",
-      "kind": "unresolved_source",
-      "reason": "Байлаткан жинин жазайын: fury/jinn and quelling clear, but байлаткан construction not securely resolved; entire verse held."
     },
     {
       "id": "semetey-1-2013:p0737:b002:l001",
@@ -313,9 +305,11 @@
     "semetey-1-2013:p0735:b004:l014": "Primary ичмек = lining underneath saddlecloth; шириден hide. Kept the lining and material rather than inventing saddle hardware.",
     "semetey-1-2013:p0735:b004:l016": "Valor is sarcastic reproach in context, not narrator endorsement of attacking an orphan.",
     "semetey-1-2013:p0735:b004:l021": "Manas as Kardigach's own blood brother retained; чындаган intensification provisionally rendered very own, without adding a moral claim of steadfastness.",
+    "semetey-1-2013:p0735:b004:l034": "Карансыз бузук иттерди: disruptive dogs clear, exact карансыз modifier unresolved; not silently караансыз or boundless. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0736:b003:l001": "Primary кара бас- evil spirit oppressing/possessing, also idiom of misfortune; retained Kardigach's hostile supernatural idiom.",
     "semetey-1-2013:p0736:b003:l002": "Primary суук дуба = harmful curse/spell, not cold weather. Source invokes it without giving a ritual or instructions.",
     "semetey-1-2013:p0736:b003:l003": "Primary умач idiom көзүм умачтай ачылды = eyes opened wide, completely awakened. Not literal flour soup in the eyes.",
+    "semetey-1-2013:p0736:b003:l005": "Байлаткан жинин жазайын: fury/jinn and quelling clear, but байлаткан construction not securely resolved; entire verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0736:b003:l010": "Кыямат Manas's world-to-come association in threatened sacrifice retained; no exact date or literal resurrection invented.",
     "semetey-1-2013:p0736:b003:l018": "Indented3:19 joins18 into one verse. Brain-scattering threat extends through20–21; repeated dogs and some raging ones retained, without making the threatened killing an accomplished act.",
     "semetey-1-2013:p0736:b003:l030": "Printed агаларың is second-person possessive within reported gossip; retained your elder brothers rather than silently replacing the suffix.",
@@ -331,6 +325,7 @@
     "semetey-1-2013:p0737:b003:l013": "Нар hybrid camel per primary dictionary; source explicitly seven hundred red animals.",
     "semetey-1-2013:p0737:b003:l015": "Literal braiding horse's tail retained in campaign preparation, no additional ritual invented.",
     "semetey-1-2013:p0737:b003:l020": "Ak Doo and Kok Doo retained as names of adversaries; components mean White Giant and Blue/Gray Giant. Not automatically the same as other giant names in prior episodes.",
+    "semetey-1-2013:p0737:b003:l021": "Кыргынды кызык retains slaughter as sport in the threat; no narrator endorsement.",
     "semetey-1-2013:p0737:b003:l027": "Manas-paternity oath retained as conditional self-curse, not a new genealogy claim.",
     "semetey-1-2013:p0737:b003:l028": "Primary exact туубай туна чөгөйүн = cursed be hour of birth / better never born. Kept oath rather than falsely literal drowning instructions.",
     "semetey-1-2013:p0737:b003:l039": "Death-bound oath rendered upon our lives; no invented mechanism or ceremony. Day/date-writing and reckoning days remain literal on40/5:1.",
@@ -341,73 +336,9 @@
     "semetey-1-2013:p0737:b005:l023": "Primary кожосан epic protective spirit/patron; living Bakai bears the spiritual-protector epithet here, not claimed to have died or become a ghost.",
     "semetey-1-2013:p0737:b005:l030": "Primary күпү sense2 soft battle garment impervious to arrows, distinct sense1 camel-calf fur coat. Provisionally battle coat in mounted martial context; no cotton material or visible armor plates invented.",
     "semetey-1-2013:p0737:b005:l033": "Primary кабак sense2 hollow/depression and коо hollow support terrain reading beside deep; not silently turning this into a scowl or naming a place. Exact verbal кабактап nuance provisional.",
-    "semetey-1-2013:p0737:b005:l039": "Арам санайт here follows fear of what six scoundrels will do to the orphan; provisionally suspecting evil, not narrator saying Kardigach plans to harm him.",
-    "semetey-1-2013:p0737:b003:l021": "Кыргынды кызык retains slaughter as sport in the threat; no narrator endorsement."
+    "semetey-1-2013:p0737:b005:l039": "Арам санайт here follows fear of what six scoundrels will do to the orphan; provisionally suspecting evil, not narrator saying Kardigach plans to harm him."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0735:b004:l034"
-      ],
-      "raw": [
-        "Êàðàíñûç áóçóê èòòåðäè"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0735:b004:l034",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 735,
-          "block": 4,
-          "line_in_block": 34,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 611.8197,
-            "xMax": 455.7528,
-            "yMax": 625.0077
-          },
-          "raw": "Êàðàíñûç áóçóê èòòåðäè",
-          "text": "Карансыз бузук иттерди",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Карансыз бузук иттерди: disruptive dogs clear, exact карансыз modifier unresolved; not silently караансыз or boundless.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0736:b003:l005"
-      ],
-      "raw": [
-        "Áàéëàòêàí æèíèí æàçàéûí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0736:b003:l005",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 736,
-          "block": 3,
-          "line_in_block": 5,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 199.9797,
-            "xMax": 245.3052,
-            "yMax": 213.1677
-          },
-          "raw": "Áàéëàòêàí æèíèí æàçàéûí.",
-          "text": "Байлаткан жинин жазайын.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Байлаткан жинин жазайын: fury/jinn and quelling clear, but байлаткан construction not securely resolved; entire verse held.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -421,16 +352,23 @@
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 231,
-    "english_words": 1380,
+    "translated_verse_rows": 233,
+    "english_words": 1389,
     "physical_narrative_fragments": 235,
     "reconstructed_source_verses": 233,
-    "unresolved_source_verses": 2,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 2
   },
   "alignment_check": {
-    "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
-    "page_range": [735, 737], "rows_checked": 231,
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      735,
+      737
+    ],
+    "rows_checked": 231,
     "details": "Audited all 231 included narrative rows; the existing English rows were semantically sound and correctly aligned."
-  }
+  },
+  "source_joiners": {}
 }

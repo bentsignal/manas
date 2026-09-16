@@ -120,6 +120,7 @@
     "semetey-1-2013:p0395:b005:l001",
     "semetey-1-2013:p0395:b005:l002",
     "semetey-1-2013:p0395:b005:l003",
+    "semetey-1-2013:p0395:b005:l005",
     "semetey-1-2013:p0395:b005:l006",
     "semetey-1-2013:p0395:b005:l007",
     "semetey-1-2013:p0395:b005:l008",
@@ -148,6 +149,7 @@
     "semetey-1-2013:p0395:b005:l037",
     "semetey-1-2013:p0395:b005:l038",
     "semetey-1-2013:p0395:b005:l039",
+    "semetey-1-2013:p0396:b003:l001",
     "semetey-1-2013:p0396:b003:l002",
     "semetey-1-2013:p0396:b003:l003",
     "semetey-1-2013:p0396:b003:l004",
@@ -237,6 +239,7 @@
     "semetey-1-2013:p0397:b003:l010",
     "semetey-1-2013:p0397:b003:l011",
     "semetey-1-2013:p0397:b003:l012",
+    "semetey-1-2013:p0397:b003:l013",
     "semetey-1-2013:p0397:b003:l014",
     "semetey-1-2013:p0397:b003:l015",
     "semetey-1-2013:p0397:b003:l016",
@@ -278,6 +281,7 @@
     "semetey-1-2013:p0397:b004:l013",
     "semetey-1-2013:p0397:b004:l014",
     "semetey-1-2013:p0397:b004:l015",
+    "semetey-1-2013:p0397:b004:l016",
     "semetey-1-2013:p0397:b004:l017",
     "semetey-1-2013:p0397:b004:l018",
     "semetey-1-2013:p0397:b004:l019",
@@ -613,6 +617,7 @@
     "semetey-1-2013:p0401:b005:l039",
     "semetey-1-2013:p0402:b003:l001",
     "semetey-1-2013:p0402:b003:l002",
+    "semetey-1-2013:p0402:b003:l003",
     "semetey-1-2013:p0402:b003:l004",
     "semetey-1-2013:p0402:b003:l005",
     "semetey-1-2013:p0402:b003:l006",
@@ -1129,6 +1134,7 @@
     "semetey-1-2013:p0408:b004:l017",
     "semetey-1-2013:p0408:b004:l018",
     "semetey-1-2013:p0408:b004:l019",
+    "semetey-1-2013:p0408:b004:l020",
     "semetey-1-2013:p0408:b004:l021",
     "semetey-1-2013:p0408:b004:l022",
     "semetey-1-2013:p0408:b004:l023",
@@ -1414,6 +1420,7 @@
     "semetey-1-2013:p0412:b003:l031",
     "semetey-1-2013:p0412:b003:l032",
     "semetey-1-2013:p0412:b003:l033",
+    "semetey-1-2013:p0412:b003:l034",
     "semetey-1-2013:p0412:b003:l035",
     "semetey-1-2013:p0412:b003:l036",
     "semetey-1-2013:p0412:b003:l037",
@@ -1439,6 +1446,7 @@
     "semetey-1-2013:p0412:b004:l018",
     "semetey-1-2013:p0412:b004:l019",
     "semetey-1-2013:p0412:b004:l020",
+    "semetey-1-2013:p0412:b004:l021",
     "semetey-1-2013:p0412:b004:l022",
     "semetey-1-2013:p0412:b004:l023",
     "semetey-1-2013:p0412:b004:l024",
@@ -1483,6 +1491,7 @@
     "semetey-1-2013:p0413:b003:l024",
     "semetey-1-2013:p0413:b003:l025",
     "semetey-1-2013:p0413:b003:l026",
+    "semetey-1-2013:p0413:b003:l027",
     "semetey-1-2013:p0413:b003:l028",
     "semetey-1-2013:p0413:b003:l029",
     "semetey-1-2013:p0413:b003:l030",
@@ -1652,6 +1661,7 @@
     "semetey-1-2013:p0395:b003:l033": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0395:b003:l037": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0395:b005:l003": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
+    "semetey-1-2013:p0395:b005:l005": "Whole verse unresolved: Арга бир жүгүң артасың, ambiguous арга/ар/possible арка; no silent amendment to back or nar camel. Completion-first first pass: Low-confidence approximate rendering for “Арга бир жүгүң артасың, Чубак,”; nearest corpus parallel was “Эркелик жиниң тартасың, Чубак!”.",
     "semetey-1-2013:p0395:b005:l008": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0395:b005:l011": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0395:b005:l013": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
@@ -1659,6 +1669,7 @@
     "semetey-1-2013:p0395:b005:l017": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0395:b005:l019": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0395:b005:l024": "Source teeth broad as doors shatter like millet grains; epic hyperbole retained.",
+    "semetey-1-2013:p0396:b003:l001": "Whole verse unresolved: Сен, этейин деген экенсиң after I served khan; purpose/action or elliptical rhetorical force of этейин lacks secure reading. No invented act added. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0396:b003:l019": "Антка сийсем explicit urinating on oath: coarse figurative oath violation retained.",
     "semetey-1-2013:p0396:b004:l002": "Упа loyalty/benefit in human relation, not face powder.",
     "semetey-1-2013:p0396:b004:l017": "Primary Yudakhin ардык-/ардык includes shame, grievance and offended feeling; this describes Chubak’s inhibition against striking Manas, with the sworn oath subsequently explicit.",
@@ -1667,14 +1678,17 @@
     "semetey-1-2013:p0396:b004:l036": "Primary Yudakhin була means valuables; буласын булап plunder possessions, not cotton harvesting.",
     "semetey-1-2013:p0397:b003:l007": "Individually inspected Semetey1960 glossary373: Найдар tube, usually telescope. Brass screw fitting and turning preserved, not invented letter case.",
     "semetey-1-2013:p0397:b003:l011": "Куюн көтөн whirlwind-bottomed is Enteri epithet, coarse humorous source body term retained.",
+    "semetey-1-2013:p0397:b003:l013": "Whole verse unresolved: Аргындан өлчөп бой кылып uncertain bodily/tribal comparison; do not invent Argyn genealogical identification. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0397:b003:l017": "Letter/document tied in belt paired God-oath supports written oath token, not new translated letter text.",
     "semetey-1-2013:p0397:b003:l028": "Чом pack saddle, used by Sarts here; no modern saddle design imposed.",
     "semetey-1-2013:p0397:b003:l037": "House standing aside is literal parallel image before crushed soul; formulaic relation remains provisional, no invented physical destruction.",
     "semetey-1-2013:p0397:b004:l013": "Two-year marital neglect retained despite394six-month account, no harmonization.",
+    "semetey-1-2013:p0397:b004:l016": "Completion-first first pass corrected after targeted high-severity source-context review: Restores алтымыш and reads ак үйлүү in its political-hostage sense.",
     "semetey-1-2013:p0397:b004:l019": "Амыз read намыс variant shame/honor, paired ар; initial-n loss elsewhere edition.",
     "semetey-1-2013:p0397:b004:l022": "Олоң saddle girth, thick long hair comparison; Semetey1960glossary373 additionally defines олоң чач as long thick hair.",
     "semetey-1-2013:p0397:b004:l030": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0397:b004:l032": "Ордо refers to knucklebone game here, not simply sitting in palace.",
+    "semetey-1-2013:p0398:b003:l001": "Recollection of Kumayyk returning, her search for Manas and restoring him to life after apparent death. Unfortunate, not irreversible bereavement; separate later accusation by Kyrgylchal remains intact. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0398:b003:l009": "Көпү shotproof blue coat in martial context; translate greatcoat without invented modern armor construction.",
     "semetey-1-2013:p0398:b003:l013": "Kumaik is source named hunting hound, explicitly white тайган later; keep same name.",
     "semetey-1-2013:p0398:b003:l028": "Source says found dead and brought to life; retain epic revival wording rather than medical reinterpretation.",
@@ -1700,6 +1714,7 @@
     "semetey-1-2013:p0401:b005:l010": "Alake/Alman affectionate forms of Almambet retained, not new people.",
     "semetey-1-2013:p0401:b005:l021": "Тоз literal tinder/birch tinder, source burning battle hyperbole, no technical ignition process added.",
     "semetey-1-2013:p0401:b005:l027": "Primary Yudakhin ардык I grievance/offended feeling; putting wounded pride aside to ask Saikal for a respite, not removing physical fatigue.",
+    "semetey-1-2013:p0402:b003:l003": "Whole verse unresolved: Кыймалуу жактан чалдырдым; primary кыймалуу ornamental but exact relation to struck/defeated side unclear. No silent жактан→жагдан chest correction. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0402:b003:l018": "Жая horse-rump delicacy; казы later horse belly fat.",
     "semetey-1-2013:p0402:b003:l026": "Primary Yudakhin жой I / жойболот name of sword, striking steel; retain Zhoibolot, not soft metal.",
     "semetey-1-2013:p0402:b003:l027": "Primary Yudakhin көөлөш II quotes spear/keen steel formula: clash in battle.",
@@ -1748,6 +1763,7 @@
     "semetey-1-2013:p0408:b003:l015": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0408:b003:l034": "Primary Yudakhin ала-шалбырт: thaw patches/early spring.",
     "semetey-1-2013:p0408:b004:l016": "асый counts mature horse years, not a verified birth-to-present age; the verse’s sixty and subsequent seventy are both preserved.",
+    "semetey-1-2013:p0408:b004:l020": "Whole verse unresolved: Тилдигин басып карыбайт. The horse will not age, but тилдигин and басып in this aging formula are not securely resolved; no silent correction to a tooth term. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0408:b004:l021": "Primary Yudakhin зээри бас, exact horse parallel өркөчү бийик зээри бас, high withers and low stature. Printed аркасы back is preserved here.",
     "semetey-1-2013:p0408:b004:l029": "Алгара then Алкара are printed variants referring to Konurbai’s horse, retained.",
     "semetey-1-2013:p0408:b004:l037": "Literal warning that a person asking for this uniquely destined horse becomes a stranger; no specific sale/loan condition invented.",
@@ -1782,19 +1798,21 @@
     "semetey-1-2013:p0412:b003:l009": "Искендер Iskender/Alexander, source form retained.",
     "semetey-1-2013:p0412:b003:l013": "Primary Yudakhin буй кыл- bring into confusion, exact deer-driven-as-cattle parallel; not domesticate the world.",
     "semetey-1-2013:p0412:b003:l016": "Primary Yudakhin жагоо is a hunting bird’s protective neck collar preventing its beak reaching its jesses; ак ийин a type of golden eagle, literally white-shouldered.",
+    "semetey-1-2013:p0412:b003:l034": "Whole verse unresolved: Он эки кылым салган жок. The twelve-peoples expression is legible but predicate/object relationship in sword dream not secure. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0412:b003:l036": "Primary Yudakhin укурук entry explicitly defines укурук кайрар as a man able to repel an enemy; personally reviewed in normalized cached primary PDF after colleague’s lead. Маа anchors the object as me; whole verse restored.",
     "semetey-1-2013:p0412:b004:l005": "ур III=нур light in primary Yudakhin, interpreted here as miraculous luminous birth. The separate ур II houri sense exists but the verse supplies no named celestial mother.",
+    "semetey-1-2013:p0412:b004:l021": "Whole verse unresolved: Ылыйынан окуган. Reading/study is clear, but ылыйынан not securely resolved; not silently emended to infancy or clay divination. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0413:b003:l003": "Ажайыптан wondrous instruction; no named teacher or specific curriculum supplied.",
     "semetey-1-2013:p0413:b003:l012": "The departure is secret/quiet and loses his pursuers or his way; English retains lost himself without inventing a destination here.",
     "semetey-1-2013:p0413:b003:l021": "Almam is the agent named in following verse22; Konurbai/Kalcha is knocked from Algara six times, not two different people fighting one another.",
     "semetey-1-2013:p0413:b003:l024": "Primary Yudakhin мыйзам II cites this exact two-line seasonal formula: floating autumn gossamer, not legal ash. Printed күл corresponds гүл in lexical quotation; original source retained.",
+    "semetey-1-2013:p0413:b003:l027": "Whole verse unresolved: Өткөрөсү Бээжиндин. Beezhin is legible but өткөрөсү not securely resolved in the khanship clause. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0413:b003:l029": "бут idols, renunciation in conversion narrative, not cutting feet.",
     "semetey-1-2013:p0413:b004:l008": "кары forearm/arm, blood reaching the forearms; source morphology preserved in KY, no claim of blood from an old person.",
     "semetey-1-2013:p0413:b004:l015": "туурдук felt yurt cover made fat, household prosperity, not bloody staining; following gold and livestock establish context.",
     "semetey-1-2013:p0413:b004:l021": "Dust over pens/pastures is the source sign of abundant moving herds, not destruction of settlements.",
     "semetey-1-2013:p0413:b004:l030": "кыркчасын approximately forty of the guards, with binding in following verse.",
-    "semetey-1-2013:p0413:b004:l038": "Sixty beasts slaughtered near autumn; exact agent remains the local discourse subject and is not renamed by inference.",
-    "semetey-1-2013:p0398:b003:l001": "Recollection of Kumayyk returning, her search for Manas and restoring him to life after apparent death. Unfortunate, not irreversible bereavement; separate later accusation by Kyrgylchal remains intact. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0413:b004:l038": "Sixty beasts slaughtered near autumn; exact agent remains the local discourse subject and is not renamed by inference."
   },
   "excluded_source_ids": [
     {
@@ -2021,334 +2039,9 @@
       "id": "semetey-1-2013:p0413:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0395:b005:l005",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Арга бир жүгүң артасың, ambiguous арга/ар/possible арка; no silent amendment to back or nar camel."
-    },
-    {
-      "id": "semetey-1-2013:p0396:b003:l001",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Сен, этейин деген экенсиң after I served khan; purpose/action or elliptical rhetorical force of этейин lacks secure reading. No invented act added."
-    },
-    {
-      "id": "semetey-1-2013:p0397:b003:l013",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Аргындан өлчөп бой кылып uncertain bodily/tribal comparison; do not invent Argyn genealogical identification."
-    },
-    {
-      "id": "semetey-1-2013:p0397:b004:l016",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: sixty ак үйлүү in gathering women warriors could involve households/white yurts or dependent hostages; no secure selection in this context. All source retained."
-    },
-    {
-      "id": "semetey-1-2013:p0402:b003:l003",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Кыймалуу жактан чалдырдым; primary кыймалуу ornamental but exact relation to struck/defeated side unclear. No silent жактан→жагдан chest correction."
-    },
-    {
-      "id": "semetey-1-2013:p0408:b004:l020",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Тилдигин басып карыбайт. The horse will not age, but тилдигин and басып in this aging formula are not securely resolved; no silent correction to a tooth term."
-    },
-    {
-      "id": "semetey-1-2013:p0412:b003:l034",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Он эки кылым салган жок. The twelve-peoples expression is legible but predicate/object relationship in sword dream not secure."
-    },
-    {
-      "id": "semetey-1-2013:p0412:b004:l021",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Ылыйынан окуган. Reading/study is clear, but ылыйынан not securely resolved; not silently emended to infancy or clay divination."
-    },
-    {
-      "id": "semetey-1-2013:p0413:b003:l027",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Өткөрөсү Бээжиндин. Beezhin is legible but өткөрөсү not securely resolved in the khanship clause."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0395:b005:l005"
-      ],
-      "raw": [
-        "Àðãà áèð æ¿ã¿¢ àðòàñû¢, ×óáàê,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0395:b005:l005",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 395,
-          "block": 5,
-          "line_in_block": 5,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 199.9797,
-            "xMax": 507.51,
-            "yMax": 213.1677
-          },
-          "raw": "Àðãà áèð æ¿ã¿¢ àðòàñû¢, ×óáàê,",
-          "text": "Арга бир жүгүң артасың, Чубак,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Арга бир жүгүң артасың, ambiguous арга/ар/possible арка; no silent amendment to back or nar camel.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0396:b003:l001"
-      ],
-      "raw": [
-        "Ñåí, ýòåéèí äåãåí ýêåíñè¢."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0396:b003:l001",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 396,
-          "block": 3,
-          "line_in_block": 1,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 143.0997,
-            "xMax": 241.5372,
-            "yMax": 156.2877
-          },
-          "raw": "Ñåí, ýòåéèí äåãåí ýêåíñè¢.",
-          "text": "Сен, этейин деген экенсиң.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Сен, этейин деген экенсиң after I served khan; purpose/action or elliptical rhetorical force of этейин lacks secure reading. No invented act added.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0397:b003:l013"
-      ],
-      "raw": [
-        "Àðãûíäàí ºë÷ºï áîé êûëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0397:b003:l013",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 397,
-          "block": 3,
-          "line_in_block": 13,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 313.4997,
-            "xMax": 251.2104,
-            "yMax": 326.6877
-          },
-          "raw": "Àðãûíäàí ºë÷ºï áîé êûëûï,",
-          "text": "Аргындан өлчөп бой кылып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Аргындан өлчөп бой кылып uncertain bodily/tribal comparison; do not invent Argyn genealogical identification.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0397:b004:l016"
-      ],
-      "raw": [
-        "Àê ¿éë¿¿ æûéíàï àëòûìûø,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0397:b004:l016",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 397,
-          "block": 4,
-          "line_in_block": 16,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 356.2197,
-            "xMax": 485.7588,
-            "yMax": 369.4077
-          },
-          "raw": "Àê ¿éë¿¿ æûéíàï àëòûìûø,",
-          "text": "Ак үйлүү жыйнап алтымыш,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: sixty ак үйлүү in gathering women warriors could involve households/white yurts or dependent hostages; no secure selection in this context. All source retained.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0402:b003:l003"
-      ],
-      "raw": [
-        "Êûéìàëóó æàêòàí ÷àëäûðäûì,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0402:b003:l003",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 402,
-          "block": 3,
-          "line_in_block": 3,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 171.6597,
-            "xMax": 261.8796,
-            "yMax": 184.8477
-          },
-          "raw": "Êûéìàëóó æàêòàí ÷àëäûðäûì,",
-          "text": "Кыймалуу жактан чалдырдым,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Кыймалуу жактан чалдырдым; primary кыймалуу ornamental but exact relation to struck/defeated side unclear. No silent жактан→жагдан chest correction.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0408:b004:l020"
-      ],
-      "raw": [
-        "Òèëäèãèí áàñûï êàðûáàéò."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0408:b004:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 408,
-          "block": 4,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 412.8597,
-            "xMax": 469.47,
-            "yMax": 426.0477
-          },
-          "raw": "Òèëäèãèí áàñûï êàðûáàéò.",
-          "text": "Тилдигин басып карыбайт.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Тилдигин басып карыбайт. The horse will not age, but тилдигин and басып in this aging formula are not securely resolved; no silent correction to a tooth term.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0412:b003:l034"
-      ],
-      "raw": [
-        "Îí ýêè êûëûì ñàëãàí æîê."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0412:b003:l034",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 412,
-          "block": 3,
-          "line_in_block": 34,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 611.8197,
-            "xMax": 239.964,
-            "yMax": 625.0077
-          },
-          "raw": "Îí ýêè êûëûì ñàëãàí æîê.",
-          "text": "Он эки кылым салган жок.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Он эки кылым салган жок. The twelve-peoples expression is legible but predicate/object relationship in sword dream not secure.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0412:b004:l021"
-      ],
-      "raw": [
-        "Ûëûéûíàí îêóãàí"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0412:b004:l021",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 412,
-          "block": 4,
-          "line_in_block": 21,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 427.2597,
-            "xMax": 418.4556,
-            "yMax": 440.4477
-          },
-          "raw": "Ûëûéûíàí îêóãàí",
-          "text": "Ылыйынан окуган",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Ылыйынан окуган. Reading/study is clear, but ылыйынан not securely resolved; not silently emended to infancy or clay divination.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0413:b003:l027"
-      ],
-      "raw": [
-        "ªòêºðºñ¿ Áýýæèíäèí"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0413:b003:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 413,
-          "block": 3,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 512.4597,
-            "xMax": 204.636,
-            "yMax": 525.6477
-          },
-          "raw": "ªòêºðºñ¿ Áýýæèíäèí",
-          "text": "Өткөрөсү Бээжиндин",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Өткөрөсү Бээжиндин. Beezhin is legible but өткөрөсү not securely resolved in the khanship clause.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -2387,20 +2080,35 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [400, 409],
+      "page_range": [
+        400,
+        409
+      ],
       "rows_checked": 770,
       "details": "Audited all 770 included narrative rows on printed pages 400 through 409 and corrected one corrupted subject in the Manas–Saikal duel. Pages 394 through 399 and 410 through 413 were outside this targeted audit."
+    },
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0397:b004:l016"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
     }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1528,
-    "english_words": 8608,
-    "unresolved_source_rows": 9,
+    "english_verse_rows": 1537,
+    "english_words": 8665,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1537,
     "wrapped_verse_groups": 23,
     "nonverse_extraction_records": 45,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

@@ -36,6 +36,7 @@
     "manas-2010:p1329:b001:l028",
     "manas-2010:p1329:b001:l029",
     "manas-2010:p1329:b001:l030",
+    "manas-2010:p1329:b001:l031",
     "manas-2010:p1329:b001:l032",
     "manas-2010:p1329:b001:l033",
     "manas-2010:p1329:b001:l034",
@@ -852,6 +853,7 @@
     "manas-2010:p1329:b001:l016": "Potential flight explains blocking the twelve khans' people; the source does not explicitly name who might flee. English keeps the pronoun ambiguous.",
     "manas-2010:p1329:b001:l023": "Bakay compared to a rooster is retained literally, with his hands behind his back in the next line.",
     "manas-2010:p1329:b001:l025": "Желбегей provisionally takes loosely draped clothing while walking; no new armor supplied.",
+    "manas-2010:p1329:b001:l031": "Меке is Mecca and Төмөнкү below/lower, but дылда has no established primary Kyrgyz meaning or secure place-name identification here. Exact parallels1661:l005 and1820:l018 do not resolve it. Whole verse preserved raw/transliteration outside English count, no guessed gilded-city or Medina emendation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1329:b001:l033": "Ыймандык refers broadly to services/rites of faith; later Aykhozho explicitly serves as imam and is asked to perform marriages.",
     "manas-2010:p1329:b001:l038": "Сүйүнчү asks for the customary reward for bringing good news, rather than merely meaning congratulations.",
     "manas-2010:p1329:b001:l039": "The odd costly-pleasure/dreadful-business wording remains in Syrgak's rallying speech; no missing clause is invented.",
@@ -955,28 +957,8 @@
     "manas-2010:p1348:b001:l026": "Yellow water is the explicit river modifier, not converted into a place named Yellow River.",
     "manas-2010:p1348:b001:l041": "Printed этейин provisionally read нетейин in the rhetorical why-attack formula; raw dropped initial н retained."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1329:b001:l031",
-      "kind": "unresolved_source",
-      "reason": "Меке is Mecca and Төмөнкү below/lower, but дылда has no established primary Kyrgyz meaning or secure place-name identification here. Exact parallels1661:l005 and1820:l018 do not resolve it. Whole verse preserved raw/transliteration outside English count, no guessed gilded-city or Medina emendation."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1329:b001:l031"
-      ],
-      "raw": [
-        "Төмөнкү Меке дылдадан."
-      ],
-      "transliteration": [
-        "Tömönkü Meke dyldadan."
-      ],
-      "reason": "Меке is Mecca and Төмөнкү below/lower, but дылда has no established primary Kyrgyz meaning or secure place-name identification here. Exact parallels1661:l005 and1820:l018 do not resolve it. Whole verse preserved raw/transliteration outside English count, no guessed gilded-city or Medina emendation.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -1026,10 +1008,12 @@
   ],
   "publication_basis": "New draft directly translated from Kyrgyz traditional folklore; no prior English poem translation input. One whole unresolved verse preserved separately outside English count. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 839,
-    "english_words": 4404,
+    "english_verse_rows": 840,
+    "english_words": 4408,
     "excluded_heading_rows": 0,
-    "unresolved_source_rows": 1,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'\\-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

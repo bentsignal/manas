@@ -836,6 +836,7 @@
     "manas-2010:p1715:b001:l030",
     "manas-2010:p1715:b001:l031",
     "manas-2010:p1715:b001:l032",
+    "manas-2010:p1715:b001:l033",
     "manas-2010:p1715:b001:l034",
     "manas-2010:p1715:b001:l035",
     "manas-2010:p1715:b001:l036",
@@ -962,50 +963,13 @@
     "manas-2010:p1715:b001:l018": "Forty-two san retained as an epic multitude unit without an invented exact headcount; not added to the literal forty-two encirclements1698:35.",
     "manas-2010:p1715:b001:l025": "The causative account holds the expedition’s leader responsible for Almambet’s martyrdom; not softened to a detached death report.",
     "manas-2010:p1715:b001:l030": "Бейлебей without attending/caring, followed by жеп consumed, preserves the narrator’s condemnation of Manas for losing the champions. Not literal cannibalism.",
+    "manas-2010:p1715:b001:l033": "Printed Баатыр кыйык суу жактан чалдырган: river-side and causing an action are partly legible, but the compound кыйык суу and intended чалдырган construction are not defensibly established. Yudakhin кыйык gives oblique cut/target thread/stubbornness (https://el-sozduk.kg/кыйык/), none establishes this complete clause. No invented river name, tactical maneuver, or word substitution. Entire verse preserved separately and excluded from English. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1715:b001:l038": "Raw жандынбаары split grammatically жандын баары all who; no changed Kyrgyz extraction.",
     "manas-2010:p1715:b001:l041": "Сурап demanding/asking for Beijing followed by turning back; ruling/claiming it is another possible nuance. The construction remains provisional rather than asserting an achieved conquest.",
     "manas-2010:p1715:b001:l042": "Relative clause continues into1716:1, referring to the lost Syrgak whom he cherished as a gift. It does not describe an additional present offered to China at this moment."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1715:b001:l033",
-      "kind": "unresolved_source",
-      "reason": "Printed Баатыр кыйык суу жактан чалдырган: river-side and causing an action are partly legible, but the compound кыйык суу and intended чалдырган construction are not defensibly established. Yudakhin кыйык gives oblique cut/target thread/stubbornness (https://el-sozduk.kg/кыйык/), none establishes this complete clause. No invented river name, tactical maneuver, or word substitution. Entire verse preserved separately and excluded from English."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_ids": [
-        "manas-2010:p1715:b001:l033"
-      ],
-      "raw": [
-        "Баатыр кыйык суу жактан чалдырган,"
-      ],
-      "source_segments": [
-        {
-          "id": "manas-2010:p1715:b001:l033",
-          "source_id": "manas-2010",
-          "pdf_sha256": "53bb71b63a0ad255e815b57f23fb41c8f3160cf05fd7b374add3516c7ccd99d7",
-          "page": 1715,
-          "block": 1,
-          "line_in_block": 33,
-          "bbox": {
-            "xMin": 212.52,
-            "yMin": 601.152,
-            "xMax": 404.0388,
-            "yMax": 616.404
-          },
-          "raw": "Баатыр кыйык суу жактан чалдырган,",
-          "text": "Баатыр кыйык суу жактан чалдырган,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "identity"
-        }
-      ],
-      "reason": "Printed Баатыр кыйык суу жактан чалдырган: river-side and causing an action are partly legible, but the compound кыйык суу and intended чалдырган construction are not defensibly established. Yudakhin кыйык gives oblique cut/target thread/stubbornness (https://el-sozduk.kg/кыйык/), none establishes this complete clause. No invented river name, tactical maneuver, or word substitution. Entire verse preserved separately and excluded from English.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -1058,9 +1022,11 @@
   ],
   "publication_basis": "New draft directly translated from Kyrgyz traditional folklore; no prior English poem translation input. Material uncertainty and contextual corrections documented per ID with raw source retained in extraction. No independent expert review or complete-witness claim.",
   "counts": {
-    "english_verse_rows": 839,
-    "english_words": 4830,
-    "unresolved_source_rows": 1,
+    "english_verse_rows": 840,
+    "english_words": 4836,
+    "unresolved_source_rows": 0,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

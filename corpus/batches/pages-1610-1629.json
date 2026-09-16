@@ -747,6 +747,7 @@
     "manas-2010:p1627:b001:l022",
     "manas-2010:p1627:b001:l023",
     "manas-2010:p1627:b001:l024",
+    "manas-2010:p1627:b001:l025",
     "manas-2010:p1627:b001:l026",
     "manas-2010:p1627:b001:l027",
     "manas-2010:p1627:b001:l028",
@@ -927,6 +928,7 @@
     "manas-2010:p1627:b001:l010": "It-Ölbös proper epic locality retained without modern coordinates. Forty-day desert11/20 both preserved.",
     "manas-2010:p1627:b001:l012": "Swan’s wings burning in desert heat retained literally as epic description.",
     "manas-2010:p1627:b001:l014": "Knucklebone mountain, saddlecloth hollow15, plow furrow16 retain each size/image.",
+    "manas-2010:p1627:b001:l025": "Completion-first first pass corrected after targeted high-severity source-context review: Retains жөлөнүп ‘leaning’ rather than copying the жөнөлүп parallel.",
     "manas-2010:p1627:b001:l038": "Илек countless multitude, Yudakhin https://el-sozduk.kg/илек/ explicitly says literal100000 not known in Kyrgyz usage. No100000 headcount. Dagger-Hands martial category described1498–1499 and Yudakhin https://el-sozduk.kg/канжа/.",
     "manas-2010:p1628:b001:l013": "Holding Sarala in check supported reins explicitly held/drawn24–25. Not dismounting or leaving horse tethered.",
     "manas-2010:p1628:b001:l015": "Жайла weather magic, actual hail/rain ensuing; not ordinary summer pasture.",
@@ -939,13 +941,7 @@
     "manas-2010:p1629:b001:l031": "Strength to whip literal compressed courage/riding image; exact object relation remains qualified.",
     "manas-2010:p1629:b001:l042": "Dust obscuring sight continues1630; no ending supplied at batch boundary."
   },
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1627:b001:l025",
-      "kind": "unresolved_source",
-      "reason": "Уй күрөң тартып remains uninterpreted as a full phrase. Yudakhin күрөң brown and уй cattle do not establish the idiom in wounded-hero context. Same-edition1116:42 also excluded; no speculative gait or color change counted. https://el-sozduk.kg/күрөң/. All source words visibly present; no missing-print claim."
-    }
-  ],
+  "excluded_source_ids": [],
   "headings": [],
   "lexical_sources": [
     "sources/extracted/manas-2010.lines.jsonl (edition glossary1833–1844 and cited narrative parallels)",
@@ -1002,11 +998,22 @@
   "alignment_check": {
     "checked_by": "Same Codex translation worker",
     "method": "All840 ordered Kyrgyz/draft pairs read in three280-row groups; truncated1611:1–18 reread separately. Material corrections reread at source positions. Same-agent review only; no independent specialist review.",
-    "independent_review": false
+    "independent_review": false,
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "manas-2010:p1627:b001:l025"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "counts": {
-    "translated_verse_rows": 839,
-    "english_words": 4297,
+    "translated_verse_rows": 840,
+    "english_words": 4302,
     "per_page": [
       {
         "page": 1610,
@@ -1111,18 +1118,7 @@
     ],
     "word_count_method": "Unicode alphabetic tokens: [^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
   },
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p1627:b001:l025"
-      ],
-      "raw": "Уй күрөң тартып жөлөнүп,",
-      "transliteration_only": "Uy küröng tartyp zhölönüp,",
-      "partial_english_not_counted": "Cow-brown, turning/drawing, leaning for support (unaccepted literal gloss).",
-      "note": "Уй күрөң тартып remains uninterpreted as a full phrase. Yudakhin күрөң brown and уй cattle do not establish the idiom in wounded-hero context. Same-edition1116:42 also excluded; no speculative gait or color change counted. https://el-sozduk.kg/күрөң/. All source words visibly present; no missing-print claim.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p1627:b001:l024",
-      "before_source_id": "manas-2010:p1627:b001:l026"
-    }
-  ]
+  "unresolved_passages": [],
+  "source_groups": {},
+  "source_joiners": {}
 }

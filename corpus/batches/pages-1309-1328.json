@@ -48,6 +48,7 @@
     "manas-2010:p1309:b001:l041",
     "manas-2010:p1309:b001:l042",
     "manas-2010:p1310:b001:l001",
+    "manas-2010:p1310:b001:l002",
     "manas-2010:p1310:b001:l003",
     "manas-2010:p1310:b001:l004",
     "manas-2010:p1310:b001:l005",
@@ -322,6 +323,7 @@
     "manas-2010:p1316:b001:l022",
     "manas-2010:p1316:b001:l023",
     "manas-2010:p1316:b001:l024",
+    "manas-2010:p1316:b001:l025",
     "manas-2010:p1316:b001:l026",
     "manas-2010:p1316:b001:l027",
     "manas-2010:p1316:b001:l028",
@@ -618,6 +620,7 @@
     "manas-2010:p1323:b001:l025",
     "manas-2010:p1323:b001:l026",
     "manas-2010:p1323:b001:l027",
+    "manas-2010:p1323:b001:l028",
     "manas-2010:p1323:b001:l029",
     "manas-2010:p1323:b001:l030",
     "manas-2010:p1323:b001:l031",
@@ -840,10 +843,8 @@
     "manas-2010:p1309:b001:l016": "болжош appointed sign/time, exact dawn formula in Yudakhin https://el-sozduk.kg/болжош/.",
     "manas-2010:p1309:b001:l025": "бурку kind/type: seventy different languages, edition1836:16 and Yudakhin https://el-sozduk.kg/бурку/. Seventy retained.",
     "manas-2010:p1309:b001:l036": "сан epic multitude unit rendered vast host/army, no exact census invented; twelve explicitly retained where printed.",
-    "manas-2010:p1316:b001:l017": "сан epic multitude unit rendered vast host/army, no exact census invented; twelve explicitly retained where printed.",
-    "manas-2010:p1316:b001:l019": "сан epic multitude unit rendered vast host/army, no exact census invented; twelve explicitly retained where printed.",
-    "manas-2010:p1322:b001:l027": "сан epic multitude unit rendered vast host/army, no exact census invented; twelve explicitly retained where printed.",
     "manas-2010:p1310:b001:l001": "окто I = нокто halter, Yudakhin https://el-sozduk.kg/окто/. күдөрү soft suede https://el-sozduk.kg/күдөрү/. каттырып provisionally fastened/stiffened, 1969 катыр strengthen/do thoroughly https://el-sozduk.kg/катыр/. Halter confirmed again1324:12–13; not bulletproof suede. Exact fastening nuance qualified.",
+    "manas-2010:p1310:b001:l002": "Printed Ок жайылып кетпеске is readable but meaning in horse-cover/halter context remains unresolved. ок bullet/arrow and жайылып spreading give no verified coherent reading; possible от grazing emendation unproved, not imposed. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1310:b001:l003": "абайы precious cloth, 1969 https://el-sozduk.kg/абайы/; cover on Akkula. Preceding printed Ок phrase unresolved separately, not silently changed to от grazing.",
     "manas-2010:p1310:b001:l013": "Printed Ajybay retained despite Ajy already departing1310:12 and Bakay appearing1310:15; no silent substitution of Bakay.",
     "manas-2010:p1310:b001:l024": "Ajybay construed as addressee of Bakay’s following appeal. Printed name/case is awkward; no change to source.",
@@ -853,7 +854,6 @@
     "manas-2010:p1311:b001:l013": "көөнү келсе if he had his way, subject ambiguous between Kongurbay and Syrgak; question of Syrgak’s wounds retained without forcing an actor.",
     "manas-2010:p1311:b001:l036": "Die a thousand rather than once retained exactly, despite unusual proverbial logic. Following fear is army fleeing home and plundering Talas, not an inserted new battle.",
     "manas-2010:p1311:b001:l038": "Printed огой retained as Ogoy ethnonym; possible defective ногой not silently repaired.",
-    "manas-2010:p1316:b001:l029": "Printed огой retained as Ogoy ethnonym; possible defective ногой not silently repaired.",
     "manas-2010:p1312:b001:l011": "Sheep-like parting flesh and hare-like straightening back1312:12 retained as horse-motion imagery; exact conformation nuance qualified.",
     "manas-2010:p1313:b001:l001": "Manas running on foot retained after preceding saddle/saddlecloth line; narrative inconsistency not silently repaired.",
     "manas-2010:p1313:b001:l021": "Бай proper father-name, not wealthy man: Manas encyclopedia БАЙ explicitly father of Bakay, including Karalaev variant, https://el-sozduk.kg/бай/.",
@@ -867,7 +867,11 @@
     "manas-2010:p1315:b001:l014": "Себеп and Медет medicine designations rendered Remedy and Aid, preserving distinct names. Epic cure narrative, no identified drugs or botanical claims.",
     "manas-2010:p1315:b001:l028": "калча I.1–2 grim appearance, Kongurbay epithet, Yudakhin https://el-sozduk.kg/калча/. Grim-faced also1324:34, not ethnic mountain-Tajik designation in this context.",
     "manas-2010:p1315:b001:l035": "Printed sea sucking Syrgak down preserved as qualified literal metaphor after poisoned wound; no actual sea journey invented or source emendation claimed.",
+    "manas-2010:p1316:b001:l017": "сан epic multitude unit rendered vast host/army, no exact census invented; twelve explicitly retained where printed.",
+    "manas-2010:p1316:b001:l019": "сан epic multitude unit rendered vast host/army, no exact census invented; twelve explicitly retained where printed.",
     "manas-2010:p1316:b001:l020": "Омбуткандан домбутуп contextually throwing into complete confusion; Yudakhin омбудан домбу кылып башын айлантып жиберди exact confusion formula https://el-sozduk.kg/омбу/. Printed expanded/variant form retained; no floundering gait substituted. кембайла next line take under escort, https://el-sozduk.kg/кембайла/.",
+    "manas-2010:p1316:b001:l025": "кургуштап lacks verified lexical meaning after dictionary and source-glossary checks. Driving them here is clear, but browbeating/threatening would be unverified context-only substitution. Entire verse preserved separately. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "manas-2010:p1316:b001:l029": "Printed огой retained as Ogoy ethnonym; possible defective ногой not silently repaired.",
     "manas-2010:p1316:b001:l034": "чалгырт malice, exact eyes/strike formula Yudakhin https://el-sozduk.kg/чалгырт/.",
     "manas-2010:p1316:b001:l042": "Bakay proposes falsely attributing his letter to Manas; following captured treasures, women and enthronement are dictated claims, not independently narrated victories.",
     "manas-2010:p1317:b001:l007": "агача fair-faced young wife, exact келин/кыз formula Yudakhin https://el-sozduk.kg/агача/; үптө manage/put in order, exact unmanageable booty formula https://el-sozduk.kg/үптө/. Women taken as spoils retained, no euphemistic consent invented.",
@@ -883,8 +887,10 @@
     "manas-2010:p1322:b001:l003": "жин stomach contents/guts, not spirits; hyperbolic spilled-blood/guts parallel retained.",
     "manas-2010:p1322:b001:l015": "Forty and thirty both retained as printed, no summation or harmonization.",
     "manas-2010:p1322:b001:l025": "Horse jerking as though his rider had died retained as simile, repeated1327:2, not declaration of rider’s death.",
+    "manas-2010:p1322:b001:l027": "сан epic multitude unit rendered vast host/army, no exact census invented; twelve explicitly retained where printed.",
     "manas-2010:p1322:b001:l039": "Precious rocky path literal кымбат, provisionally valuable for defense beside fortress/safety description; no different adjective silently substituted.",
     "manas-2010:p1323:b001:l005": "өң II = өңкөй all/only, Yudakhin https://el-sozduk.kg/өң/; all Muslims, not appearance/color.",
+    "manas-2010:p1323:b001:l028": "Чобуркайлар unverified noun in pecking curse; чобур means ordinary horse/nag but does not establish this form as a bird species. No invented species or opaque non-name transliteration accepted. Completion-first first pass: Low-confidence approximate rendering for “Чобуркайлар чокусун!”; nearest corpus parallel was “Сагызган көзүн чокусун.”.",
     "manas-2010:p1323:b001:l035": "Cloud made into a road retains exact printed metaphor, provisionally high brought low; no silently reconstructed steel/dung proverb.",
     "manas-2010:p1323:b001:l037": "аккаңкы broad-pommeled Mongol-type saddle, Yudakhin/1969 https://el-sozduk.kg/каңкы/. Also1325:13 with birchwood sides; ordinary saddle gloss rather than unverified proper name.",
     "manas-2010:p1324:b001:l012": "окоро түйгөн rounded knots, edition1841:31 and1969 https://el-sozduk.kg/окоро/. окто I = нокто halter, Yudakhin https://el-sozduk.kg/окто/; repeated1324:13, no OCR emendation required.",
@@ -969,21 +975,6 @@
       "id": "manas-2010:p1327:b005:l001",
       "kind": "prose",
       "reason": "Editorial footnote marker/text, visually at page foot; not narrated verse."
-    },
-    {
-      "id": "manas-2010:p1310:b001:l002",
-      "kind": "unresolved_source",
-      "reason": "Printed Ок жайылып кетпеске is readable but meaning in horse-cover/halter context remains unresolved. ок bullet/arrow and жайылып spreading give no verified coherent reading; possible от grazing emendation unproved, not imposed."
-    },
-    {
-      "id": "manas-2010:p1316:b001:l025",
-      "kind": "unresolved_source",
-      "reason": "кургуштап lacks verified lexical meaning after dictionary and source-glossary checks. Driving them here is clear, but browbeating/threatening would be unverified context-only substitution. Entire verse preserved separately."
-    },
-    {
-      "id": "manas-2010:p1323:b001:l028",
-      "kind": "unresolved_source",
-      "reason": "Чобуркайлар unverified noun in pecking curse; чобур means ordinary horse/nag but does not establish this form as a bird species. No invented species or opaque non-name transliteration accepted."
     }
   ],
   "unresolved_source": [
@@ -1232,5 +1223,7 @@
     "source_words": 2652,
     "english_words": 4516,
     "all_source_verse_words": 2660
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

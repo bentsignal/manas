@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-15",
+  "question": "How much of old inventory 966/current 145 is already present in the 89,355-row released Seytek corpus, and do the 3,154 printed continuation rows duplicate released Seytek?",
+  "conclusion": {
+    "old_966_begins_inside_released_seytek": true,
+    "printed_continuation_has_episode_scale_duplication_with_released_seytek": false,
+    "all_3154_rows_are_additional_witness_positions": true,
+    "warning": "Additional witness positions may reuse formulaic wording; they are not all globally unique strings."
+  },
+  "inputs": {
+    "released_seytek": {
+      "source": "sources/extracted/seytek-2012.lines.jsonl",
+      "batch_glob": "corpus/batches/pages-seytek-*.json",
+      "included_distinct_source_ids": 89355
+    },
+    "printed_continuation": {
+      "source": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+      "batch_glob": "corpus/batches/pages-continuation-*.json",
+      "included_distinct_source_ids": 3154,
+      "first_id": "seytek-1991-continuation:p0315:b001:l001",
+      "last_id": "seytek-1991-continuation:p0348:b002:l024"
+    }
+  },
+  "boundary": {
+    "old_966_current_145_first_line": "Айза сынып жоголсо,",
+    "exact_released_match_id": "seytek-2012:p1148:b002:l017",
+    "released_endpoint_id": "seytek-2012:p1165:b003:l034",
+    "released_endpoint_text": "Сан кара күткөн бай болуп.",
+    "included_edition_rows_anchor_through_endpoint": 1409,
+    "printed_boundary": {
+      "core_ending_printed_page": 314,
+      "continuation_start_printed_page": 315,
+      "headings": ["КЕНЕН", "КЕНЕНДИН ТӨРӨЛҮШҮ"]
+    },
+    "unmatched_catalogue_anchors": [
+      "Букара чаар кабылан",
+      "Бу кайранатаң арбагы",
+      "Жаткан жери мына ушул"
+    ]
+  },
+  "exact_overlap": {
+    "normalization": "Unicode NFC, lowercase, punctuation removed, whitespace collapsed, Kyrgyz ң/ө/ү flattened to н/о/у for OCR tolerance",
+    "continuation_positions_with_an_individual_line_found_in_core": 415,
+    "distinct_shared_normalized_lines": 361,
+    "consecutive_window_matches": {
+      "2": 52,
+      "3": 3,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
+    },
+    "longest_exact_run": {
+      "lines": 4,
+      "released_start": "seytek-2012:p0512:b002:l003",
+      "continuation_start": "seytek-1991-continuation:p0331:b002:l018",
+      "type": "stock sleep formula"
+    }
+  },
+  "fuzzy_overlap": {
+    "method": "Five-line windows; candidates retrieved by shared normalized tokens, then joined character strings ranked with Python difflib.SequenceMatcher (autojunk disabled)",
+    "strongest_similarity": 0.9903,
+    "strongest_released_start": "seytek-2012:p0718:b003:l028",
+    "strongest_continuation_start": "seytek-1991-continuation:p0345:b006:l002",
+    "interpretation": "Stock battle formula with OCR variation; related versions recur at multiple released locations, so it is not an episode-boundary duplicate.",
+    "second_similarity": 0.9854,
+    "next_non_battle_similarity": 0.8704,
+    "next_non_battle_type": "stock sleep formula"
+  },
+  "coverage_accounting": {
+    "old_966_catalogue_lines": 6186,
+    "old_967_catalogue_lines": 9000,
+    "catalogue_total": 15186,
+    "exact_released_edition_rows_from_old_966_anchor": 1409,
+    "provisional_unique_continuation_target": 13777,
+    "recovered_printed_continuation_rows": 3154,
+    "provisional_missing_unique_rows": 10623,
+    "uncorrected_raw_difference": 12032,
+    "certification": "The 13,777 and 10,623 figures assume one manuscript line per edition row. They are planning estimates, not certified counts; full scans are required."
+  },
+  "assets": [
+    {
+      "inventory": 145,
+      "url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-145-Seitek-Saiakba-Karalaev.pdf",
+      "sha256": "3dfed3b53d3fe153c16b4b25de26b150dba281056e8d704e7dad972020ea43d2"
+    },
+    {
+      "inventory": 146,
+      "url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-146-Seitek-Saiakba-Karalaev.pdf",
+      "sha256": "6c4e8d0ac8bb63d138a323413d98109399751feed6f719f8f1a95764216c217c"
+    },
+    {
+      "path": "sources/raw/manas-aki-candidate.pdf",
+      "sha256": "68bc80c49971f65cf755f6ef4d49e22396d9ca913b53b1f18aace29563f74178"
+    }
+  ],
+  "actions": {
+    "external_messages_sent": false,
+    "corpus_modified": false,
+    "release_modified": false
+  }
+}

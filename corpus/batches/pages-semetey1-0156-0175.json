@@ -72,6 +72,7 @@
     "semetey-1-2013:p0156:b004:l025",
     "semetey-1-2013:p0156:b004:l026",
     "semetey-1-2013:p0156:b004:l027",
+    "semetey-1-2013:p0156:b004:l028",
     "semetey-1-2013:p0156:b004:l029",
     "semetey-1-2013:p0156:b004:l030",
     "semetey-1-2013:p0156:b004:l031",
@@ -246,6 +247,7 @@
     "semetey-1-2013:p0159:b003:l007",
     "semetey-1-2013:p0159:b003:l008",
     "semetey-1-2013:p0159:b003:l009",
+    "semetey-1-2013:p0159:b003:l010",
     "semetey-1-2013:p0159:b003:l011",
     "semetey-1-2013:p0159:b003:l012",
     "semetey-1-2013:p0159:b003:l013",
@@ -358,6 +360,7 @@
     "semetey-1-2013:p0160:b004:l006",
     "semetey-1-2013:p0160:b004:l007",
     "semetey-1-2013:p0160:b004:l008",
+    "semetey-1-2013:p0160:b004:l009",
     "semetey-1-2013:p0160:b004:l011",
     "semetey-1-2013:p0160:b004:l012",
     "semetey-1-2013:p0160:b004:l013",
@@ -652,6 +655,7 @@
     "semetey-1-2013:p0164:b003:l033",
     "semetey-1-2013:p0164:b003:l034",
     "semetey-1-2013:p0164:b003:l035",
+    "semetey-1-2013:p0164:b003:l036",
     "semetey-1-2013:p0164:b003:l037",
     "semetey-1-2013:p0164:b003:l038",
     "semetey-1-2013:p0164:b003:l039",
@@ -1526,6 +1530,7 @@
     "semetey-1-2013:p0175:b004:l033",
     "semetey-1-2013:p0175:b004:l034",
     "semetey-1-2013:p0175:b004:l035",
+    "semetey-1-2013:p0175:b004:l036",
     "semetey-1-2013:p0175:b004:l037",
     "semetey-1-2013:p0175:b004:l038",
     "semetey-1-2013:p0175:b004:l039"
@@ -1550,6 +1555,10 @@
     "semetey-1-2013:p0160:b003:l031": [
       "semetey-1-2013:p0160:b003:l031",
       "semetey-1-2013:p0160:b003:l032"
+    ],
+    "semetey-1-2013:p0160:b004:l009": [
+      "semetey-1-2013:p0160:b004:l009",
+      "semetey-1-2013:p0160:b004:l010"
     ],
     "semetey-1-2013:p0160:b004:l019": [
       "semetey-1-2013:p0160:b004:l019",
@@ -1667,6 +1676,7 @@
     "semetey-1-2013:p0156:b004:l016": "Narrator explicitly says he does not know if true; retain this uncertainty before supernatural appearance.",
     "semetey-1-2013:p0156:b004:l021": "White turban size compared to cauldron, not white cauldron substituted for turban.",
     "semetey-1-2013:p0156:b004:l025": "Printed басалбай unable to quiet tears, retained despite saint's ensuing reassurance.",
+    "semetey-1-2013:p0156:b004:l028": "Whole verse provisionally unresolved: Буулумуң булап оңолот. Буулум expensive cloth/clothing Yudakhin https://el-sozduk.kg/буулум/; була may spread/bloom or plunder https://el-sozduk.kg/була/. Exact fabric/fortune/child referent and verb connection not yet resolved; no fabricated full-English verse. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0157:b003:l020": "Бири азыр олуям one now my saint, referent between elder Bakai and vanished dervish uncertain; literal distinction retained.",
     "semetey-1-2013:p0157:b003:l027": "Twig-cutting rite literal, not circumcision. Exact four-line ritual quotation in Yudakhin аяк https://el-sozduk.kg/аяк/ matches source: twig cut, boy steps over dog bowl and sword edge, rites before handing boy over. https://el-sozduk.kg/чыбык/ explains oath/transfer twig; /аттат/ explains sword-edge rite. Attempt to fetch alternate Kyrgyz editorial glossary failed; not used as viewed evidence.",
     "semetey-1-2013:p0157:b003:l028": "Ит аягын кечирип step over dog's bowl per exact primary Yudakhin аяк formula, not pass through bowl or over animal's leg.",
@@ -1685,6 +1695,7 @@
     "semetey-1-2013:p0158:b004:l032": "Six heavenly blades retain magical refusal to return to sheath without drinking blood.",
     "semetey-1-2013:p0158:b004:l037": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0158:b004:l039": "Канчыгың female dog/bitch self-description retained as literary insult, no sanitizing.",
+    "semetey-1-2013:p0159:b003:l010": "Whole verse unresolved: Кылычтын кылдуу мыктуусу. Кылдуу dictionary hairy/stringed does not resolve specific sword-quality term; no unsupported hair-fine edge/pattern speculation inserted. Raw text preserved for later specialist reading. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0159:b003:l012": "Both Bakai and Almambet swords explicitly named Жойкума in list; preserve duplicate name, not harmonize to another recension.",
     "semetey-1-2013:p0159:b003:l016": "Кыңкай аягы provisionally bent tip/end of sword, Yudakhin кыңкай tilt/crook https://el-sozduk.kg/кыңкай/; exact blade descriptor uncertain.",
     "semetey-1-2013:p0159:b003:l019": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
@@ -1701,10 +1712,12 @@
     "semetey-1-2013:p0160:b003:l026": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0160:b003:l031": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0160:b004:l006": "Керденге бүткөн bestowed by fate, exact Yudakhin https://el-sozduk.kg/керден/, not proud parent or literal neck.",
+    "semetey-1-2013:p0160:b004:l009": "Whole wrapped verse unresolved: Кесек иттер Таластан бузду сартымды. Сартымды possessive Sart/other lexical possibility unresolved; do not silently emend to салтымды custom or шартымды circumstances. Both exact source fragments retained. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0160:b004:l019": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0160:b004:l029": "Hair made wool and noble woman made slave are degradation metaphors retained. Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0160:b004:l038": "Sloping forehead bone retained literally; following тайкы scant life forms rhyme/fortune contrast, no invented cranial diagnosis. Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0161:b003:l005": "Ruin exceeds joy by spear length, printed comparison retained.",
+    "semetey-1-2013:p0161:b003:l013": "Explicit prolonged lament over Manas's death, fleeing with the orphan at thirty-two, with narrator repeatedly naming her widow and mourner. Self-abasing shade retained in note. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0161:b003:l017": "Kanykei explicitly thirty-two at flight, retained without reconciling other ages elsewhere.",
     "semetey-1-2013:p0161:b003:l028": "Ар уруудан all kinds/types of dresses, not different human clans; short-to-neck image retained as grief expression.",
     "semetey-1-2013:p0161:b003:l035": "Өлбөй regretful not dying with sultan rendered rhetorical wish/regret; not a completed death or new method. Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
@@ -1741,6 +1754,7 @@
     "semetey-1-2013:p0164:b003:l011": "Аман-Жол proper route name retained, not simply safe road.",
     "semetey-1-2013:p0164:b003:l016": "Ээр белдей saddle-waist silhouette retained.",
     "semetey-1-2013:p0164:b003:l034": "Чайдоо variant of чайдоос, Yudakhin water kettle for tea; source golden kettles and cheap tea contrast retained.",
+    "semetey-1-2013:p0164:b003:l036": "Whole verse excluded pending reading of Кыйратып бузган көчү бар. Literal wrecking/destroying plus migration/caravan does not establish who ruined whose movement; no speculative political conquest substituted. Completion-first first pass: Low-confidence approximate rendering for “Кыйратып бузган көчү бар,”; nearest corpus parallel was “Кыйратып бузуп, өч алдык.”.",
     "semetey-1-2013:p0164:b004:l001": "Канкор bloodthirsty epithet retained despite affectionate Bakai portrayal.",
     "semetey-1-2013:p0164:b004:l002": "Суусар marten, not otter or beaver.",
     "semetey-1-2013:p0164:b004:l004": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
@@ -1859,7 +1873,9 @@
     "semetey-1-2013:p0172:b004:l014": "Мурап in horse-tending service list rendered steward provisionally. Main dictionary water-distributor sense does not establish this epic household duty; explicit ат багар retained.",
     "semetey-1-2013:p0172:b004:l020": "Fat lamb/sweet head self-endearment in young Kanykei recollection retained, not food list.",
     "semetey-1-2013:p0172:b004:l029": "Телегейи тең all-around fortunate/prosperous epithet, not land literally flat.",
+    "semetey-1-2013:p0173:b003:l003": "Present widowed speaker recalls her name carved on trees during girlhood. Unfortunate preserves current self-deprecation without labeling her former girlhood morally shameless or already bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0173:b003:l005": "Теңиз балаң ocean-like child mighty/abundant endearment, no child named Tengiz introduced.",
+    "semetey-1-2013:p0173:b003:l007": "Kanykey recalls childhood outings and golden throne before marriage. Unfortunate is retrospective self-deprecation; bereaved would misleadingly date widowhood to those outings. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0173:b003:l018": "Forty-year and eighty-year submerged carpet colorfastness retained as epic object praise.",
     "semetey-1-2013:p0173:b003:l022": "Weft silk and gold; warp fine costly material not specifically identified silk again.",
     "semetey-1-2013:p0173:b004:l005": "Printed Белек gift, not Бөлөк separate. Corrected initial place-apart emendation to gift of Ken-Kolchuk; recipient unspecified by source.",
@@ -1875,6 +1891,7 @@
     "semetey-1-2013:p0174:b003:l037": "Жеңкетай gifts from groom to bride elder female kin who arrange marriage, Yudakhin жеңкетайлык; bridal go-betweens contextual English, not child brides or bribes.",
     "semetey-1-2013:p0174:b003:l038": "Exact Yudakhin төшөк талашуу example тогуз хан төшөк талашып токсон күн кызык көргөн жер identifies wedding ransom game, father/groom relative playfully detained for gifts. Rendered wedding ransom game, not nine khans fighting over bride/bed.",
     "semetey-1-2013:p0174:b004:l001": "Буттаган Yudakhin бутта- I weighed in poods, exact буттаган алтын ... жеңгетай parallel. Pood historical unit retained without arithmetic estimate.",
+    "semetey-1-2013:p0174:b004:l004": "Kanykey recalls her wedding guests, prizes and festivities, contrasting them with present loss. Retrospective self-deprecation, not a moral accusation or widowhood at the wedding. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0174:b004:l007": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0174:b004:l010": "Ирик castrated ram/wether, not wild argali.",
     "semetey-1-2013:p0174:b004:l011": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
@@ -1891,10 +1908,7 @@
     "semetey-1-2013:p0175:b004:l010": "Water washing occurs before omen of renewed spring despite dried lake; narrative retained without filling missing water source.",
     "semetey-1-2013:p0175:b004:l016": "Кутпа I north, exact local Yudakhin кутпа жак северная сторона, север; independently read after parent lead. Distinct from кыбыла/qibla.",
     "semetey-1-2013:p0175:b004:l026": "Literary conditional wish to die together if omen fails retained, no added action or method.",
-    "semetey-1-2013:p0161:b003:l013": "Explicit prolonged lament over Manas's death, fleeing with the orphan at thirty-two, with narrator repeatedly naming her widow and mourner. Self-abasing shade retained in note. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0173:b003:l003": "Present widowed speaker recalls her name carved on trees during girlhood. Unfortunate preserves current self-deprecation without labeling her former girlhood morally shameless or already bereaved. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0173:b003:l007": "Kanykey recalls childhood outings and golden throne before marriage. Unfortunate is retrospective self-deprecation; bereaved would misleadingly date widowhood to those outings. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
-    "semetey-1-2013:p0174:b004:l004": "Kanykey recalls her wedding guests, prizes and festivities, contrasting them with present loss. Retrospective self-deprecation, not a moral accusation or widowhood at the wedding. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0175:b004:l036": "Whole verse withheld: Убагер honorific before төрөм unresolved in primary lexical aids. Do not silently omit adjective or invent great/merciful/divine. Other parts mean my lord, support me but not counted as complete English verse. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved."
   },
   "excluded_source_ids": [
     {
@@ -2116,216 +2130,9 @@
       "id": "semetey-1-2013:p0175:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0156:b004:l028",
-      "kind": "unresolved_source",
-      "reason": "Whole verse provisionally unresolved: Буулумуң булап оңолот. Буулум expensive cloth/clothing Yudakhin https://el-sozduk.kg/буулум/; була may spread/bloom or plunder https://el-sozduk.kg/була/. Exact fabric/fortune/child referent and verb connection not yet resolved; no fabricated full-English verse."
-    },
-    {
-      "id": "semetey-1-2013:p0159:b003:l010",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Кылычтын кылдуу мыктуусу. Кылдуу dictionary hairy/stringed does not resolve specific sword-quality term; no unsupported hair-fine edge/pattern speculation inserted. Raw text preserved for later specialist reading."
-    },
-    {
-      "id": "semetey-1-2013:p0160:b004:l009",
-      "kind": "unresolved_source",
-      "reason": "Whole wrapped verse unresolved: Кесек иттер Таластан бузду сартымды. Сартымды possessive Sart/other lexical possibility unresolved; do not silently emend to салтымды custom or шартымды circumstances. Both exact source fragments retained."
-    },
-    {
-      "id": "semetey-1-2013:p0160:b004:l010",
-      "kind": "unresolved_source",
-      "reason": "Whole wrapped verse unresolved: Кесек иттер Таластан бузду сартымды. Сартымды possessive Sart/other lexical possibility unresolved; do not silently emend to салтымды custom or шартымды circumstances. Both exact source fragments retained."
-    },
-    {
-      "id": "semetey-1-2013:p0164:b003:l036",
-      "kind": "unresolved_source",
-      "reason": "Whole verse excluded pending reading of Кыйратып бузган көчү бар. Literal wrecking/destroying plus migration/caravan does not establish who ruined whose movement; no speculative political conquest substituted."
-    },
-    {
-      "id": "semetey-1-2013:p0175:b004:l036",
-      "kind": "unresolved_source",
-      "reason": "Whole verse withheld: Убагер honorific before төрөм unresolved in primary lexical aids. Do not silently omit adjective or invent great/merciful/divine. Other parts mean my lord, support me but not counted as complete English verse."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0156:b004:l028"
-      ],
-      "raw": [
-        "Áóóëóìó¢ áóëàï î¢îëîò,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0156:b004:l028",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 156,
-          "block": 4,
-          "line_in_block": 28,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 526.6197,
-            "xMax": 450.0204,
-            "yMax": 539.8077
-          },
-          "raw": "Áóóëóìó¢ áóëàï î¢îëîò,",
-          "text": "Буулумуң булап оңолот,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse provisionally unresolved: Буулумуң булап оңолот. Буулум expensive cloth/clothing Yudakhin https://el-sozduk.kg/буулум/; була may spread/bloom or plunder https://el-sozduk.kg/була/. Exact fabric/fortune/child referent and verb connection not yet resolved; no fabricated full-English verse.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0159:b003:l010"
-      ],
-      "raw": [
-        "Êûëû÷òûí êûëäóó ìûêòóóñó –"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0159:b003:l010",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 159,
-          "block": 3,
-          "line_in_block": 10,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 271.0197,
-            "xMax": 267.5604,
-            "yMax": 284.2077
-          },
-          "raw": "Êûëû÷òûí êûëäóó ìûêòóóñó –",
-          "text": "Кылычтын кылдуу мыктуусу –",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Кылычтын кылдуу мыктуусу. Кылдуу dictionary hairy/stringed does not resolve specific sword-quality term; no unsupported hair-fine edge/pattern speculation inserted. Raw text preserved for later specialist reading.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0160:b004:l009",
-        "semetey-1-2013:p0160:b004:l010"
-      ],
-      "raw": [
-        "Êåñåê èòòåð Òàëàñòàí áóçäó",
-        "ñàðòûìäû,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0160:b004:l009",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 160,
-          "block": 4,
-          "line_in_block": 9,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 256.8597,
-            "xMax": 472.488,
-            "yMax": 270.0477
-          },
-          "raw": "Êåñåê èòòåð Òàëàñòàí áóçäó",
-          "text": "Кесек иттер Таластан бузду",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        },
-        {
-          "id": "semetey-1-2013:p0160:b004:l010",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 160,
-          "block": 4,
-          "line_in_block": 10,
-          "bbox": {
-            "xMin": 452.16,
-            "yMin": 271.0197,
-            "xMax": 516.084,
-            "yMax": 284.2077
-          },
-          "raw": "ñàðòûìäû,",
-          "text": "сартымды,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole wrapped verse unresolved: Кесек иттер Таластан бузду сартымды. Сартымды possessive Sart/other lexical possibility unresolved; do not silently emend to салтымды custom or шартымды circumstances. Both exact source fragments retained.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0164:b003:l036"
-      ],
-      "raw": [
-        "Êûéðàòûï áóçãàí êº÷¿ áàð,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0164:b003:l036",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 164,
-          "block": 3,
-          "line_in_block": 36,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 640.1397,
-            "xMax": 240.6864,
-            "yMax": 653.3277
-          },
-          "raw": "Êûéðàòûï áóçãàí êº÷¿ áàð,",
-          "text": "Кыйратып бузган көчү бар,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse excluded pending reading of Кыйратып бузган көчү бар. Literal wrecking/destroying plus migration/caravan does not establish who ruined whose movement; no speculative political conquest substituted.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0175:b004:l036"
-      ],
-      "raw": [
-        "Óáàãåð òºðºì, êîëäî!» – äåï,–"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0175:b004:l036",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 175,
-          "block": 4,
-          "line_in_block": 36,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 640.1397,
-            "xMax": 484.9932,
-            "yMax": 653.3277
-          },
-          "raw": "Óáàãåð òºðºì, êîëäî!» – äåï,–",
-          "text": "Убагер төрөм, колдо!» – деп,–",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse withheld: Убагер honorific before төрөм unresolved in primary lexical aids. Do not silently omit adjective or invent great/merciful/divine. Other parts mean my lord, support me but not counted as complete English verse.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -2374,13 +2181,14 @@
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1523,
-    "english_words": 8977,
-    "unresolved_source_rows": 5,
+    "english_verse_rows": 1528,
+    "english_words": 9004,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1528,
     "wrapped_verse_groups": 31,
     "nonverse_extraction_records": 44,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

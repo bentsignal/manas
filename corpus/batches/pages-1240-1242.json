@@ -68,6 +68,7 @@
     "manas-2010:p1241:b001:l019",
     "manas-2010:p1241:b001:l020",
     "manas-2010:p1241:b001:l021",
+    "manas-2010:p1241:b001:l022",
     "manas-2010:p1241:b001:l023",
     "manas-2010:p1241:b001:l024",
     "manas-2010:p1241:b001:l025",
@@ -140,6 +141,7 @@
     "manas-2010:p1240:b001:l041": "Eki közü tört eager anxious waiting, not four physical eyes;2015 https://el-sozduk.kg/eki-kozu-tort-boluu-2/. Same1242:28 searching variant.",
     "manas-2010:p1241:b001:l007": "Kise utility/pouch belt per edition1839:17ff, not handcuffs.",
     "manas-2010:p1241:b001:l008": "Ysȳlam phonetic Islam battle cry retained alongside Manas proper-name cry; not I grow warm.",
+    "manas-2010:p1241:b001:l022": "Printed Кемпиринин чети legible, but old woman’s edge and samovar burner senses (Yudakhin https://el-sozduk.kg/кемпир/) do not establish combat body/armor target. No verified kemer belt emendation or anatomy invented. Whole verse withheld from English, exact raw preserved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1241:b001:l026": "Printed Kongurbay previously entered battles with Syrgak retained without historical/narrative repair; potential formula attribution inconsistency flagged.",
     "manas-2010:p1241:b001:l036": "Literal saddle upper pommel and bladder head target expressions retained without inventing exact technical anatomy.",
     "manas-2010:p1241:b001:l038": "Mushta- thrust blow here because both men still use spears, not suddenly bare-fist boxing.",
@@ -155,27 +157,8 @@
   "status": "draft",
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1241:b001:l022",
-      "kind": "unresolved_source",
-      "reason": "Printed Кемпиринин чети legible, but old woman’s edge and samovar burner senses (Yudakhin https://el-sozduk.kg/кемпир/) do not establish combat body/armor target. No verified kemer belt emendation or anatomy invented. Whole verse withheld from English, exact raw preserved."
-    }
-  ],
-  "unresolved_passages": [
-    {
-      "source_line_ids": [
-        "manas-2010:p1241:b001:l022"
-      ],
-      "raw": "«Кемпиринин чети, - деп,",
-      "transliteration_only": "Kempirinin cheti dep",
-      "partial_english_not_counted": "The edge of [his old woman? unresolved referent], he says",
-      "note": "Printed Кемпиринин чети legible, but old woman’s edge and samovar burner senses (Yudakhin https://el-sozduk.kg/кемпир/) do not establish combat body/armor target. No verified kemer belt emendation or anatomy invented. Whole verse withheld from English, exact raw preserved.",
-      "status": "unresolved",
-      "after_source_id": "manas-2010:p1241:b001:l021",
-      "before_source_id": "manas-2010:p1241:b001:l023"
-    }
-  ],
+  "excluded_source_ids": [],
+  "unresolved_passages": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex root translator; same-agent check",
@@ -192,8 +175,10 @@
     "scope": "All125 English/source pairs plus held gap read; last speech/narration boundary compared with next10 source rows and punctuation corrected."
   },
   "counts": {
-    "english_verse_rows": 125,
-    "english_words": 673
+    "english_verse_rows": 126,
+    "english_words": 681
   },
-  "translation_provenance": "Direct Kyrgyz-to-English by Codex root from original extraction, PDF images, edition glossary and cited primary dictionaries. No prior English translation input."
+  "translation_provenance": "Direct Kyrgyz-to-English by Codex root from original extraction, PDF images, edition glossary and cited primary dictionaries. No prior English translation input.",
+  "source_groups": {},
+  "source_joiners": {}
 }

@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-15",
+  "scope": "All 38 high-severity rows from GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+  "corrections": [
+    {
+      "id": "manas-2010:p1116:b001:l042",
+      "en": "He set off on the dun-bay horse,",
+      "note": "Уй күрөң is a dun/ox-brown horse color here; тартып жөнөлүп describes setting off."
+    },
+    {
+      "id": "manas-2010:p1255:b001:l033",
+      "en": "Struck from the vulnerable flank,",
+      "note": "Restores the battle formula; кыймалуу refers to an exposed/vulnerable side."
+    },
+    {
+      "id": "manas-2010:p1303:b001:l026",
+      "en": "“Struck from the vulnerable flank,",
+      "note": "Restores the opening quotation and battle formula."
+    },
+    {
+      "id": "manas-2010:p1627:b001:l025",
+      "en": "Leaning upon the dun-bay horse,",
+      "note": "Retains жөлөнүп ‘leaning’ rather than copying the жөнөлүп parallel."
+    },
+    {
+      "id": "manas-2010:p1683:b001:l031",
+      "en": "Struck from the vulnerable flank,",
+      "note": "Restores the repeated battle formula."
+    },
+    {
+      "id": "manas-2010:p1739:b001:l018",
+      "en": "Struck from the vulnerable flank,",
+      "note": "Restores the repeated battle formula."
+    },
+    {
+      "id": "semetey-1-2013:p0033:b003:l019",
+      "en": "Scarcely had forty days passed,",
+      "note": "Context is the early period of Kanykei’s widowhood; preserves кырк."
+    },
+    {
+      "id": "semetey-1-2013:p0180:b004:l013",
+      "en": "Back then, when black ice lay in great sheets,",
+      "note": "Renders кечээ and the image калдайлуу кара муз rather than repeating ‘ice’."
+    },
+    {
+      "id": "semetey-1-2013:p0184:b003:l035",
+      "en": "That Bukhara lying yonder—",
+      "note": "Restores the named place and demonstrative sense; жылма баскан remains textually uncertain."
+    },
+    {
+      "id": "semetey-1-2013:p0241:b005:l025",
+      "en": "The Muslim who gathered the forty companions at his death.",
+      "note": "Restores кырк чоро and the death setting."
+    },
+    {
+      "id": "semetey-1-2013:p0271:b003:l014",
+      "en": "“Take your mother eighty times over, wrestler!”",
+      "note": "Preserves the insulting imperative and сексен; idiom remains coarse and uncertain."
+    },
+    {
+      "id": "semetey-1-2013:p0272:b003:l025",
+      "en": "When the turn of the eight khans came,",
+      "note": "Preserves сегиз кан; чарчысы is read contextually as a turn/occasion."
+    },
+    {
+      "id": "semetey-1-2013:p0297:b005:l026",
+      "en": "I mourn for the white palace,",
+      "note": "Restores муңкаганым as the object of lament."
+    },
+    {
+      "id": "semetey-1-2013:p0297:b005:l036",
+      "en": "When black ice lay in great sheets,",
+      "note": "Repairs the tautological first pass."
+    },
+    {
+      "id": "semetey-1-2013:p0319:b004:l016",
+      "en": "Its broad crupper flaring,",
+      "note": "The surrounding lines describe the horse Maaniker; карабжы is treated as horse tack, not a gaze."
+    },
+    {
+      "id": "semetey-1-2013:p0370:b004:l019",
+      "en": "I mourn for the white palace,",
+      "note": "Restores the lament construction."
+    },
+    {
+      "id": "semetey-1-2013:p0392:b004:l033",
+      "en": "Scraping the horse’s fetlock,",
+      "note": "Literal best-effort rendering of ат томук + сыдырып."
+    },
+    {
+      "id": "semetey-1-2013:p0397:b004:l016",
+      "en": "Gathering sixty households as hostages,",
+      "note": "Restores алтымыш and reads ак үйлүү in its political-hostage sense."
+    },
+    {
+      "id": "semetey-1-2013:p0440:b003:l022",
+      "en": "How can I saddle him, dividing the gear into ten?",
+      "note": "Restores он бөлүп and the horse-tack verb токунам; syntax remains uncertain."
+    },
+    {
+      "id": "semetey-1-2013:p0491:b003:l013",
+      "en": "One prince’s attendant,",
+      "note": "Removes the invented insult; боочу is an uncertain occupational/retainer term."
+    },
+    {
+      "id": "semetey-1-2013:p0505:b003:l008",
+      "en": "Poor soul, on fourteen camels,",
+      "note": "Restores он төрт төөгө; the line is syntactically dependent on its surrounding passage."
+    },
+    {
+      "id": "semetey-1-2013:p0511:b004:l003",
+      "en": "Hero, I was the bridegroom who came that once.",
+      "note": "Preserves баатыр, күйө, and бир келген; speaker/idiom merits later specialist review."
+    },
+    {
+      "id": "semetey-1-2013:p0514:b004:l021",
+      "en": "For sixty—and forty sheep—",
+      "note": "Restores both numerals and retains the line’s continuation into the purchased dagger."
+    },
+    {
+      "id": "semetey-1-2013:p0532:b003:l019",
+      "en": "After waiting a full six days,",
+      "note": "Restores алты күн; аа is treated as emphatic/interjectional noise."
+    },
+    {
+      "id": "semetey-1-2013:p0559:b003:l020",
+      "en": "Propping him upon the dun-bay horse,",
+      "note": "Uses causative жөлөнтүп and the horse-color phrase."
+    },
+    {
+      "id": "semetey-1-2013:p0609:b005:l024",
+      "en": "Its young to Manas",
+      "note": "Restores Manas; the phrase continues syntactically into the following sacrifice line."
+    },
+    {
+      "id": "semetey-1-2013:p0610:b003:l029",
+      "en": "My child Kanykei began the turmoil,",
+      "note": "Restores Kanykei and дүмөк ‘turmoil’."
+    },
+    {
+      "id": "semetey-1-2013:p0623:b004:l025",
+      "en": "Struck from the vulnerable flank,",
+      "note": "Restores the repeated battle formula."
+    },
+    {
+      "id": "semetey-1-2013:p0660:b003:l013",
+      "en": "May God now strike all sixty,",
+      "note": "Restores алтымыш and the optative curse."
+    },
+    {
+      "id": "semetey-1-2013:p0675:b003:l020",
+      "en": "To a pass six months’ journey away,",
+      "note": "Restores алты айчылык and кезең ‘pass’."
+    },
+    {
+      "id": "semetey-1-2013:p0677:b004:l023",
+      "en": "He ranged them through five or six summer pastures.",
+      "note": "Restores both numerals and жай ‘summer pasture’."
+    },
+    {
+      "id": "semetey-1-2013:p0689:b005:l020",
+      "en": "My doubled, trailing fringes,",
+      "note": "жырымы is treated as a slit/fringe rather than a song; exact costume term remains uncertain."
+    },
+    {
+      "id": "semetey-1-2013:p0759:b003:l022",
+      "en": "The cutting rite she performed for me,",
+      "note": "Here кыркып is the verb ‘cut,’ not the numeral forty."
+    },
+    {
+      "id": "semetey-1-2013:p0774:b004:l031",
+      "en": "The standard-winner raised his banner,",
+      "note": "Restores the туу/standard wordplay and removes the birthday hallucination."
+    },
+    {
+      "id": "semetey-1-2013:p0776:b004:l015",
+      "en": "You let it be struck from the flank,",
+      "note": "Context refers to possessions; preserves the causative second-person verb."
+    },
+    {
+      "id": "semetey-1-2013:p0777:b004:l003",
+      "en": "You let it be struck in a treacherous place,",
+      "note": "Distinguishes кыялы жерде from the similar flank formula."
+    },
+    {
+      "id": "semetey-1-2013:p0827:b005:l029",
+      "en": "I mourn for the white palace,",
+      "note": "Restores the lament construction."
+    },
+    {
+      "id": "semetey-1-2013:p0849:b005:l032",
+      "en": "Alöökö with six thousand champions",
+      "note": "Restores both the number and participant; the phrase continues into the next line."
+    }
+  ]
+}

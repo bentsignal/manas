@@ -244,6 +244,7 @@
     "manas-2010:p1182:b001:l027",
     "manas-2010:p1182:b001:l028",
     "manas-2010:p1182:b001:l029",
+    "manas-2010:p1182:b001:l030",
     "manas-2010:p1182:b001:l031",
     "manas-2010:p1182:b001:l032",
     "manas-2010:p1182:b001:l033",
@@ -861,6 +862,7 @@
     "manas-2010:p1180:b001:l041": "Six days beating Malgun retained despite compressed immediate battle sequence.",
     "manas-2010:p1181:b001:l020": "Syrgak not equal to head read as unable to counterbalance the head on the horse; contextual physical interpretation, not moral comparison.",
     "manas-2010:p1182:b001:l013": "Roads scattering/opening military-route parallel retained; exact чачабыз construction is awkward, no invention of a specific gate destruction.",
+    "manas-2010:p1182:b001:l030": "Readable Алты айчылык берерге has unresolved syntax/meaning: six months of travel/extent plus to give does not establish a coherent relation to the executioner Chinese on the following line. No speculative береки/берки correction. Entire verse preserved separately; literal gloss is not accepted as English translation. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1182:b001:l040": "кызыталак abusive curse rendered bastard; fool is contextual force of rashly attacking Beijing, not a separate lexical word. Source negative retained.",
     "manas-2010:p1183:b001:l018": "Forty spearmen and forty-one beings both preserved; no arithmetic reconciliation with other guardian spirits.",
     "manas-2010:p1183:b001:l031": "1183:31–38 parenthesized narrator skepticism is printed verse, retained in verse count; not discarded as an editorial note.",
@@ -914,13 +916,7 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1182:b001:l030",
-      "kind": "unresolved_source",
-      "reason": "Readable Алты айчылык берерге has unresolved syntax/meaning: six months of travel/extent plus to give does not establish a coherent relation to the executioner Chinese on the following line. No speculative береки/берки correction. Entire verse preserved separately; literal gloss is not accepted as English translation."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_source": [
     {
       "id": "manas-2010:p1182:b001:l030",
@@ -1051,5 +1047,7 @@
     "source_words": 2710,
     "english_words": 4466,
     "all_source_verse_words": 2713
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

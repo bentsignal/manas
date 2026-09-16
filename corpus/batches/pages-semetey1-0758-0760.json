@@ -25,6 +25,7 @@
     "semetey-1-2013:p0758:b003:l017",
     "semetey-1-2013:p0758:b003:l018",
     "semetey-1-2013:p0758:b003:l019",
+    "semetey-1-2013:p0758:b003:l020",
     "semetey-1-2013:p0758:b003:l021",
     "semetey-1-2013:p0758:b003:l022",
     "semetey-1-2013:p0758:b003:l023",
@@ -84,6 +85,7 @@
     "semetey-1-2013:p0758:b004:l038",
     "semetey-1-2013:p0758:b004:l039",
     "semetey-1-2013:p0759:b003:l001",
+    "semetey-1-2013:p0759:b003:l002",
     "semetey-1-2013:p0759:b003:l004",
     "semetey-1-2013:p0759:b003:l005",
     "semetey-1-2013:p0759:b003:l006",
@@ -102,6 +104,7 @@
     "semetey-1-2013:p0759:b003:l019",
     "semetey-1-2013:p0759:b003:l020",
     "semetey-1-2013:p0759:b003:l021",
+    "semetey-1-2013:p0759:b003:l022",
     "semetey-1-2013:p0759:b003:l023",
     "semetey-1-2013:p0759:b003:l024",
     "semetey-1-2013:p0759:b003:l025",
@@ -112,6 +115,7 @@
     "semetey-1-2013:p0759:b003:l030",
     "semetey-1-2013:p0759:b003:l031",
     "semetey-1-2013:p0759:b003:l032",
+    "semetey-1-2013:p0759:b003:l033",
     "semetey-1-2013:p0759:b003:l034",
     "semetey-1-2013:p0759:b003:l035",
     "semetey-1-2013:p0759:b003:l036",
@@ -200,6 +204,7 @@
     "semetey-1-2013:p0760:b004:l003",
     "semetey-1-2013:p0760:b004:l004",
     "semetey-1-2013:p0760:b004:l005",
+    "semetey-1-2013:p0760:b004:l006",
     "semetey-1-2013:p0760:b004:l007",
     "semetey-1-2013:p0760:b004:l008",
     "semetey-1-2013:p0760:b004:l009",
@@ -221,6 +226,7 @@
     "semetey-1-2013:p0760:b004:l025",
     "semetey-1-2013:p0760:b004:l026",
     "semetey-1-2013:p0760:b004:l027",
+    "semetey-1-2013:p0760:b004:l028",
     "semetey-1-2013:p0760:b004:l029",
     "semetey-1-2013:p0760:b004:l030",
     "semetey-1-2013:p0760:b004:l031",
@@ -234,6 +240,10 @@
     "semetey-1-2013:p0760:b004:l039"
   ],
   "source_groups": {
+    "semetey-1-2013:p0759:b003:l002": [
+      "semetey-1-2013:p0759:b003:l002",
+      "semetey-1-2013:p0759:b003:l003"
+    ],
     "semetey-1-2013:p0760:b003:l019": [
       "semetey-1-2013:p0760:b003:l019",
       "semetey-1-2013:p0760:b003:l020"
@@ -244,6 +254,7 @@
     "semetey-1-2013:p0758:b003:l009": "Coordinator read primaryкун ан horse inthirdyear; preserves age without confused secondyear/yearling.",
     "semetey-1-2013:p0758:b003:l012": "кайранdear retained ironic narrator formula despiteKobosh cruelty.",
     "semetey-1-2013:p0758:b003:l015": "касап I butcher primary read; causative сойдурду andкасапты construed compelled butcher, bareэчки goatobject. Differentкасапwrath sense notassumed.",
+    "semetey-1-2013:p0758:b003:l020": "көлпөйүп exact lexical reading not found. Related pompous/stately verbs insufficient for asserting in pomp. Wholeverse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0758:b003:l032": "Yudakhin exact он эки бирге кол берген = follower of12ishans/spiritualguides, pious. No supernatural12protectors.",
     "semetey-1-2013:p0758:b004:l005": "Source explicitly addressesAbyke despite preceding angeratKobosh; no nameharmonization.",
     "semetey-1-2013:p0758:b004:l008": "Primaryчөлтүшүр- devastate/wreakhavoc; contextplunderingdividedwealth. No drawinglots.",
@@ -252,11 +263,14 @@
     "semetey-1-2013:p0758:b004:l026": "Source callsChyiyrdy mother, retained although genealogygrandmother.",
     "semetey-1-2013:p0758:b004:l030": "каракүң slavery/lowstatuscontext; not racialskinclaim.",
     "semetey-1-2013:p0758:b004:l038": "Sarcastic reproach retained.",
+    "semetey-1-2013:p0759:b003:l002": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs. Completion-first first pass: Low-confidence approximate rendering for “Энемдин кундактагы баласын бөлө чаапсың.”; nearest corpus parallel was “Энемдин эр тандаарын билиптир.”.",
     "semetey-1-2013:p0759:b003:l018": "Source child/age phrase restored to its own verse.",
     "semetey-1-2013:p0759:b003:l019": "Source someone inflicts suffering and reportedthought in own verse.",
     "semetey-1-2013:p0759:b003:l021": "Personally readYudakhinаяк exactритual кыркыпбердимчыбыгын/итаягынкечирип/кылычтынмизинаттатып; twigcuttingadoption/oath ritual, notcircumcision. PossessivefirstpersonEnglish speakerSemetey.",
+    "semetey-1-2013:p0759:b003:l022": "Completion-first first pass corrected after targeted high-severity source-context review: Here кыркып is the verb ‘cut,’ not the numeral forty.",
     "semetey-1-2013:p0759:b003:l023": "Primaryаякexact ritual step over dogbowl.",
     "semetey-1-2013:p0759:b003:l024": "Primaryаякexact ritual step across swordedge.",
+    "semetey-1-2013:p0759:b003:l033": "Тегеренип биздин ал syntactic/lexicalsequenceunclear; wholeheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0759:b004:l004": "календерwanderingdervish; glossaryasteriskretainedinrawomittedEN.",
     "semetey-1-2013:p0759:b004:l014": "Personally readYudakhinасый countedadultyears startingfifthyear. Sixtiethadultyear not sixtyyearsbirthage. MasculineEnglish refershorseTaitoru notKanykei.",
     "semetey-1-2013:p0759:b004:l021": "No halfcoinofgoods retained; refusalprizemoney repeatednextline.",
@@ -267,12 +281,14 @@
     "semetey-1-2013:p0760:b003:l032": "YudakhinкирIIexactкөңүлдүнкири sorrow/grievance supports troublingword.",
     "semetey-1-2013:p0760:b003:l034": "YudakhinкыйырI3own/nativepeople; firstpersonmy retainedinsidequotedreportedaccount.",
     "semetey-1-2013:p0760:b004:l004": "SameprimaryкирII sorrow/grievance, notliteralfilth.",
+    "semetey-1-2013:p0760:b004:l006": "Атайы келдим буудан деп noblehorse referent andquotationpurposeunclear; wholeheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0760:b004:l012": "Kumaiykhoundpropername; name retained followingdogdescription.",
     "semetey-1-2013:p0760:b004:l019": "Primary Yudakhin кулаалы forestbuzzard/kite; source кулалы singlea variant retainedraw, notvulture. Narrative foster-hatching myth retained.",
     "semetey-1-2013:p0760:b004:l020": "Source God subject/fatherrecipient kept in own line; nextsuppliesbrought.",
     "semetey-1-2013:p0760:b004:l021": "Source encounter/favoredmeeting causative construed divinebringing; repeatedfathername retained.",
     "semetey-1-2013:p0760:b004:l022": "Personally readYudakhinтээк4 exactfalconquotation ironclaws coppermetalplatejoiningjesses; notbeakorunidentifiedrod.",
     "semetey-1-2013:p0760:b004:l026": "Personally reinspectedSemetey1960gloss372: Көк шал бут identifieshuntingbirdprowesswithтемгил-темгилlegmarkings,specificallyAkshumkar. Supports speckledlegs; generalYudakhinbootmeaningnotapplied.",
+    "semetey-1-2013:p0760:b004:l028": "Көнөктөй жемден артпаган feedingamount/exceeded/leftover scopeunclear; no inventedneverfull. Wholeheld. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0760:b004:l029": "Source negativesшукшурбас kept despitefalconpraise; no silentpositiveemendation.",
     "semetey-1-2013:p0760:b004:l031": "Sameexplicitnegativekept, possible elliptical boast not expanded."
   },
@@ -306,252 +322,9 @@
       "id": "semetey-1-2013:p0760:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0758:b003:l020",
-      "kind": "unresolved_source",
-      "reason": "көлпөйүп exact lexical reading not found. Related pompous/stately verbs insufficient for asserting in pomp. Wholeverse held."
-    },
-    {
-      "id": "semetey-1-2013:p0759:b003:l002",
-      "kind": "unresolved_source",
-      "reason": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs."
-    },
-    {
-      "id": "semetey-1-2013:p0759:b003:l003",
-      "kind": "unresolved_source",
-      "reason": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs."
-    },
-    {
-      "id": "semetey-1-2013:p0759:b003:l022",
-      "kind": "unresolved_source",
-      "reason": "Кыркып берген ырымын literalcutritual differsprimaryаякquote кылып бердимырымын; no silentemendation. Wholeheld."
-    },
-    {
-      "id": "semetey-1-2013:p0759:b003:l033",
-      "kind": "unresolved_source",
-      "reason": "Тегеренип биздин ал syntactic/lexicalsequenceunclear; wholeheld."
-    },
-    {
-      "id": "semetey-1-2013:p0760:b004:l006",
-      "kind": "unresolved_source",
-      "reason": "Атайы келдим буудан деп noblehorse referent andquotationpurposeunclear; wholeheld."
-    },
-    {
-      "id": "semetey-1-2013:p0760:b004:l028",
-      "kind": "unresolved_source",
-      "reason": "Көнөктөй жемден артпаган feedingamount/exceeded/leftover scopeunclear; no inventedneverfull. Wholeheld."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0758:b003:l020"
-      ],
-      "raw": [
-        "Êºëïºé¿ï Êºáºø æàòêàíäà,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0758:b003:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 758,
-          "block": 3,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 412.8597,
-            "xMax": 240.654,
-            "yMax": 426.0477
-          },
-          "raw": "Êºëïºé¿ï Êºáºø æàòêàíäà,",
-          "text": "Көлпөйүп Көбөш жатканда,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "көлпөйүп exact lexical reading not found. Related pompous/stately verbs insufficient for asserting in pomp. Wholeverse held.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0759:b003:l002",
-        "semetey-1-2013:p0759:b003:l003"
-      ],
-      "raw": [
-        "Ýíåìäèí êóíäàêòàãû áàëàñûí",
-        "áºëº ÷ààïñû¢."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0759:b003:l002",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 759,
-          "block": 3,
-          "line_in_block": 2,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 157.2597,
-            "xMax": 257.2224,
-            "yMax": 170.4477
-          },
-          "raw": "Ýíåìäèí êóíäàêòàãû áàëàñûí",
-          "text": "Энемдин кундактагы баласын",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        },
-        {
-          "id": "semetey-1-2013:p0759:b003:l003",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 759,
-          "block": 3,
-          "line_in_block": 3,
-          "bbox": {
-            "xMin": 204.48,
-            "yMin": 171.6597,
-            "xMax": 287.6652,
-            "yMax": 184.8477
-          },
-          "raw": "áºëº ÷ààïñû¢.",
-          "text": "бөлө чаапсың.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "бөлө чаапсың in swaddled-child clause not securely resolved. Neither fatal splitting nor striking away from mother established; both physical fragments held together. Coordinator concurs.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0759:b003:l022"
-      ],
-      "raw": [
-        "Êûðêûï áåðãåí ûðûìûí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0759:b003:l022",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 759,
-          "block": 3,
-          "line_in_block": 22,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 441.4197,
-            "xMax": 233.2944,
-            "yMax": 454.6077
-          },
-          "raw": "Êûðêûï áåðãåí ûðûìûí,",
-          "text": "Кыркып берген ырымын,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Кыркып берген ырымын literalcutritual differsprimaryаякquote кылып бердимырымын; no silentemendation. Wholeheld.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0759:b003:l033"
-      ],
-      "raw": [
-        "Òåãåðåíèï áèçäèí àë"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0759:b003:l033",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 759,
-          "block": 3,
-          "line_in_block": 33,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 597.6597,
-            "xMax": 203.8776,
-            "yMax": 610.8477
-          },
-          "raw": "Òåãåðåíèï áèçäèí àë",
-          "text": "Тегеренип биздин ал",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Тегеренип биздин ал syntactic/lexicalsequenceunclear; wholeheld.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0760:b004:l006"
-      ],
-      "raw": [
-        "Àòàéû êåëäèì áóóäàí äåï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0760:b004:l006",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 760,
-          "block": 4,
-          "line_in_block": 6,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 214.1397,
-            "xMax": 467.34,
-            "yMax": 227.3277
-          },
-          "raw": "Àòàéû êåëäèì áóóäàí äåï,",
-          "text": "Атайы келдим буудан деп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Атайы келдим буудан деп noblehorse referent andquotationpurposeunclear; wholeheld.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0760:b004:l028"
-      ],
-      "raw": [
-        "Êºíºêòºé æåìäåí àðòïàãàí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0760:b004:l028",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 760,
-          "block": 4,
-          "line_in_block": 28,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 526.6197,
-            "xMax": 473.244,
-            "yMax": 539.8077
-          },
-          "raw": "Êºíºêòºé æåìäåí àðòïàãàí,",
-          "text": "Көнөктөй жемден артпаган,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Көнөктөй жемден артпаган feedingamount/exceeded/leftover scopeunclear; no inventedneverfull. Wholeheld.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -573,7 +346,10 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [760, 760],
+      "page_range": [
+        760,
+        760
+      ],
       "rows_checked": 75,
       "details": "Audited all 75 included narrative rows on printed page 760; the existing English rows were semantically sound and correctly aligned. Pages 758 and 759 were outside this targeted audit."
     },
@@ -581,22 +357,37 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex QA",
       "date": "2026-09-15",
-      "page_range": [758, 759],
+      "page_range": [
+        758,
+        759
+      ],
       "rows_checked": 151,
       "status": "draft; no independent specialist review",
       "details": "Audited the first 151 English rows in this combined batch, covering printed pages 758 and 759 only, against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 758 row 15 and page 759 row 49; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Page 760 was outside this QA pass and retains its separate targeted audit."
+    },
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0759:b003:l022"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
     }
   },
   "publication_basis": "Coordinator direct model Kyrgyz-to-English translation, reviewed and revised by translation worker against original Kyrgyz and every page image. No MT API or external English poem translation used. Kyrgyz/Russian lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "After included757:4:39; first758:3:1 completes Argyn tribute sentence. Last760:4:39 included. Next761 separately assigned.",
   "counts": {
-    "english_verse_rows": 226,
-    "english_words": 1266,
-    "unresolved_source_rows": 6,
+    "english_verse_rows": 232,
+    "english_words": 1301,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 232,
     "wrapped_verse_groups": 1,
     "nonverse_extraction_records": 6,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

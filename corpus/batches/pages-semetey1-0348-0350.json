@@ -77,6 +77,7 @@
     "semetey-1-2013:p0348:b004:l031",
     "semetey-1-2013:p0348:b004:l032",
     "semetey-1-2013:p0348:b004:l033",
+    "semetey-1-2013:p0348:b004:l034",
     "semetey-1-2013:p0348:b004:l035",
     "semetey-1-2013:p0348:b004:l036",
     "semetey-1-2013:p0348:b004:l037",
@@ -111,6 +112,7 @@
     "semetey-1-2013:p0349:b003:l027",
     "semetey-1-2013:p0349:b003:l028",
     "semetey-1-2013:p0349:b003:l029",
+    "semetey-1-2013:p0349:b003:l030",
     "semetey-1-2013:p0349:b003:l031",
     "semetey-1-2013:p0349:b003:l032",
     "semetey-1-2013:p0349:b003:l033",
@@ -145,6 +147,7 @@
     "semetey-1-2013:p0349:b004:l023",
     "semetey-1-2013:p0349:b004:l024",
     "semetey-1-2013:p0349:b004:l025",
+    "semetey-1-2013:p0349:b004:l026",
     "semetey-1-2013:p0349:b004:l027",
     "semetey-1-2013:p0349:b004:l029",
     "semetey-1-2013:p0349:b004:l030",
@@ -196,6 +199,7 @@
     "semetey-1-2013:p0350:b003:l039",
     "semetey-1-2013:p0350:b004:l001",
     "semetey-1-2013:p0350:b004:l002",
+    "semetey-1-2013:p0350:b004:l003",
     "semetey-1-2013:p0350:b004:l004",
     "semetey-1-2013:p0350:b004:l006",
     "semetey-1-2013:p0350:b004:l008",
@@ -265,11 +269,6 @@
       "reason": "Visually confirmed decorative title or folio, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0348:b004:l034",
-      "kind": "unresolved_source",
-      "reason": "Эл санаган аз болуп: relation of people, counting and scarcity remains unclear; no guessed dying population or lack of sympathy supplied."
-    },
-    {
       "id": "semetey-1-2013:p0349:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title or folio, not narrative verse."
@@ -280,16 +279,6 @@
       "reason": "Visually confirmed decorative title or folio, not narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0349:b003:l030",
-      "kind": "unresolved_source",
-      "reason": "Этене тайтаң, эсер күң: opening insult Этене unresolved; whole verse held rather than partially translated or silently emended."
-    },
-    {
-      "id": "semetey-1-2013:p0349:b004:l026",
-      "kind": "unresolved_source",
-      "reason": "Өлгөндө катын болгомун: literal death clause versus hardship idiom in account of becoming his wife unresolved. No posthumous marriage or unsupported reconciliation invented."
-    },
-    {
       "id": "semetey-1-2013:p0350:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title or folio, not narrative verse."
@@ -298,11 +287,6 @@
       "id": "semetey-1-2013:p0350:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative title or folio, not narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0350:b004:l003",
-      "kind": "unresolved_source",
-      "reason": "Мунун ити да кою оңбойт: кою relation unresolved; no unsupported sheep or omission of the word."
     }
   ],
   "notes": {
@@ -320,14 +304,18 @@
     "semetey-1-2013:p0348:b004:l020": "Алман tribute/levy; young mare slaughtered. Каз ы rib/belly fat food, not a guessed sausage preparation.",
     "semetey-1-2013:p0348:b004:l023": "Тишим менен ордуруп cut/strip with teeth in feeding sequence; exact agent detail retained without invented utensils.",
     "semetey-1-2013:p0348:b004:l026": "No elbow rest, no brief sleep, day/night repetitions all preserved separately.",
+    "semetey-1-2013:p0348:b004:l034": "Эл санаган аз болуп: relation of people, counting and scarcity remains unclear; no guessed dying population or lack of sympathy supplied. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0348:b004:l035": "Fanged beasts enemies of hound; no new particular predator introduced here.",
     "semetey-1-2013:p0348:b004:l037": "Кез traditional ell measure; primary1960glossary372 gives0.71m. No guessed pit depth/width or conversion; forty source retained.",
     "semetey-1-2013:p0349:b003:l001": "Forty hunters clause continues from348 final verse, no duplication invented.",
     "semetey-1-2013:p0349:b003:l012": "Blazing ember metaphor for wild pup; literal saxaul coals occur later.",
     "semetey-1-2013:p0349:b003:l015": "Steel collar chewed apart source hyperbole retained, not ordinary leather collar replacement.",
+    "semetey-1-2013:p0349:b003:l016": "Kanykey recounts protecting the puppy Kumayyk and being struck by the living Manas. Self-abasing misfortune in past marriage, not widowhood at that time. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0349:b003:l021": "Two fingerbreadths tail burned, not two fingers amputated; mother blames herself22 in speech.",
     "semetey-1-2013:p0349:b003:l025": "Nose compared leather flask, hyperbolic description not anatomical diagnosis.",
     "semetey-1-2013:p0349:b003:l026": "Күйөөлөп bridegroom visiting custom, no invented wedding consummation.",
+    "semetey-1-2013:p0349:b003:l030": "Этене тайтаң, эсер күң: opening insult Этене unresolved; whole verse held rather than partially translated or silently emended. Completion-first first pass: Low-confidence approximate rendering for “«Этене тайтаң, эсер күң”; nearest corpus parallel was “Эдене тайтаң* жан элең!”.",
+    "semetey-1-2013:p0349:b003:l033": "Уручу Кудай урду: past assertion God has struck her, not an imperative wish. Corrected after pair review; speaker accusation retained.",
     "semetey-1-2013:p0349:b003:l036": "Primary күйпүл exact күйпүл күчүк poor/wretched pup, not an invented bird species.",
     "semetey-1-2013:p0349:b003:l038": "Physical abuse under arm, ribs injured next; no euphemistic reprimand replacing assault.",
     "semetey-1-2013:p0349:b004:l002": "Twelve ribs then specifically two broken: both source numbers retained, not harmonized.",
@@ -338,10 +326,12 @@
     "semetey-1-2013:p0349:b004:l017": "Primary жазайыл II exact marriage passage figurative misfortune, not a falconet hung on neck.",
     "semetey-1-2013:p0349:b004:l023": "Primary салбар neglected wife. Six months retained distinct from recovery duration; no unprinted duration arithmetic.",
     "semetey-1-2013:p0349:b004:l024": "Bulletproof coat literal epic claim; no modern ballistic guarantee.",
+    "semetey-1-2013:p0349:b004:l026": "Өлгөндө катын болгомун: literal death clause versus hardship idiom in account of becoming his wife unresolved. No posthumous marriage or unsupported reconciliation invented. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0349:b004:l027": "Indented physical line28 completes same verse; join source fragments with space, not count as separate verse.",
     "semetey-1-2013:p0349:b004:l029": "No tongue means unable to speak in surrounding account of wise dog, not literal tongue removal.",
     "semetey-1-2013:p0349:b004:l035": "Six days without food versus sixty days howling; both numbers and repeated Kumaik retained.",
     "semetey-1-2013:p0349:b004:l037": "Place father washed funerary context, not arbitrary bathing scene; no extra ritual instructions.",
+    "semetey-1-2013:p0350:b003:l009": "Restored after exact primary Yudakhin headword менде = бенде, mortal/person (with Kanchoro example). Менде is a noun here, not first-person locative me. Карап турбаган = did not stand indifferent, also exact Manas mourning formula in жамагат entry. Original gap was uncertainty over pronoun/reference; source text unchanged. Individually inspected page350 and reread restored pair.",
     "semetey-1-2013:p0350:b003:l011": "Bakai named weeping on seeing hound; preceding менде verse restored from primary noun meaning mortal/person.",
     "semetey-1-2013:p0350:b003:l016": "Six villains source moral epithet, no invented individual names beyond Abyke.",
     "semetey-1-2013:p0350:b003:l021": "Repeated -гандыр inference rendered must have, not eyewitness certainty.",
@@ -350,6 +340,7 @@
     "semetey-1-2013:p0350:b003:l035": "Mottled red beating image, source violence without added wound detail.",
     "semetey-1-2013:p0350:b003:l038": "People moving uphill then downhill seasonal migration directions, no unprinted season specified.",
     "semetey-1-2013:p0350:b004:l002": "Primary Yudakhin жашы sense3 exact кубаты мындай кетсин...жашыган өпкө бергендир = spoiled lungs fed to hero's dog. Not tender fresh lungs or poison substance invented.",
+    "semetey-1-2013:p0350:b004:l003": "Мунун ити да кою оңбойт: кою relation unresolved; no unsupported sheep or omission of the word. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0350:b004:l004": "Indented5 and7 complete preceding physical verse; both groups accounted.",
     "semetey-1-2013:p0350:b004:l013": "Bran piercing lungs source claim retained, not endorsement of physiology or feeding advice.",
     "semetey-1-2013:p0350:b004:l015": "Primary дүпөйүл = түпөйүл anxiety/distress; same term31 anxious suffering, not respiratory diagnosis.",
@@ -358,137 +349,9 @@
     "semetey-1-2013:p0350:b004:l024": "Hound calls Manas my friend and son my orphan; anthropomorphic speech retained.",
     "semetey-1-2013:p0350:b004:l026": "Жетим кул orphan lad/dependent in affectionate context, not fabricated enslavement event.",
     "semetey-1-2013:p0350:b004:l030": "Brow clearing/anxiety easing repeated wish, not already completed recovery.",
-    "semetey-1-2013:p0350:b004:l039": "Кезеңче little mountain pass; departure continues351.",
-    "semetey-1-2013:p0349:b003:l033": "Уручу Кудай урду: past assertion God has struck her, not an imperative wish. Corrected after pair review; speaker accusation retained.",
-    "semetey-1-2013:p0350:b003:l009": "Restored after exact primary Yudakhin headword менде = бенде, mortal/person (with Kanchoro example). Менде is a noun here, not first-person locative me. Карап турбаган = did not stand indifferent, also exact Manas mourning formula in жамагат entry. Original gap was uncertainty over pronoun/reference; source text unchanged. Individually inspected page350 and reread restored pair.",
-    "semetey-1-2013:p0349:b003:l016": "Kanykey recounts protecting the puppy Kumayyk and being struck by the living Manas. Self-abasing misfortune in past marriage, not widowhood at that time. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0350:b004:l039": "Кезеңче little mountain pass; departure continues351."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0348:b004:l034"
-      ],
-      "raw": [
-        "Ýë ñàíàãàí àç áîëóï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0348:b004:l034",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 348,
-          "block": 4,
-          "line_in_block": 34,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 611.8197,
-            "xMax": 429.504,
-            "yMax": 625.0077
-          },
-          "raw": "Ýë ñàíàãàí àç áîëóï,",
-          "text": "Эл санаган аз болуп,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Эл санаган аз болуп: relation of people, counting and scarcity remains unclear; no guessed dying population or lack of sympathy supplied.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0349:b003:l030"
-      ],
-      "raw": [
-        "«Ýòåíå òàéòà¢, ýñåð ê¿¢"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0349:b003:l030",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 349,
-          "block": 3,
-          "line_in_block": 30,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 554.9397,
-            "xMax": 222.7296,
-            "yMax": 568.1277
-          },
-          "raw": "«Ýòåíå òàéòà¢, ýñåð ê¿¢",
-          "text": "«Этене тайтаң, эсер күң",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Этене тайтаң, эсер күң: opening insult Этене unresolved; whole verse held rather than partially translated or silently emended.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0349:b004:l026"
-      ],
-      "raw": [
-        "ªëãºíäº êàòûí áîëãîìóí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0349:b004:l026",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 349,
-          "block": 4,
-          "line_in_block": 26,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 498.2997,
-            "xMax": 460.932,
-            "yMax": 511.4877
-          },
-          "raw": "ªëãºíäº êàòûí áîëãîìóí.",
-          "text": "Өлгөндө катын болгомун.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Өлгөндө катын болгомун: literal death clause versus hardship idiom in account of becoming his wife unresolved. No posthumous marriage or unsupported reconciliation invented.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0350:b004:l003"
-      ],
-      "raw": [
-        "Ìóíóí èòè äà êîþ î¢áîéò – äåï,–"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0350:b004:l003",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 350,
-          "block": 4,
-          "line_in_block": 3,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 171.6597,
-            "xMax": 509.9016,
-            "yMax": 184.8477
-          },
-          "raw": "Ìóíóí èòè äà êîþ î¢áîéò – äåï,–",
-          "text": "Мунун ити да кою оңбойт – деп,–",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Мунун ити да кою оңбойт: кою relation unresolved; no unsupported sheep or omission of the word.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -515,9 +378,13 @@
       "method": "source-English row semantic audit",
       "checked_by": "Codex",
       "date": "2026-09-15",
-      "page_range": [348, 349],
+      "page_range": [
+        348,
+        349
+      ],
       "rows_checked": 152,
       "details": "Audited all 152 included narrative rows on printed pages 348 through 349 and corrected one direct-address error. Page 350 was outside this targeted audit entry."
     }
-  }
+  },
+  "source_joiners": {}
 }

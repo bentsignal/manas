@@ -256,6 +256,7 @@
     "manas-2010:p1116:b001:l039",
     "manas-2010:p1116:b001:l040",
     "manas-2010:p1116:b001:l041",
+    "manas-2010:p1116:b001:l042",
     "manas-2010:p1117:b001:l001",
     "manas-2010:p1117:b001:l002",
     "manas-2010:p1117:b001:l003",
@@ -855,15 +856,16 @@
     "manas-2010:p1112:b001:l033": "зубун troop/detachment, exact зубун-зубун бөлүнүп formula in Yudakhin https://el-sozduk.kg/зубун/; local glossary1838:5.",
     "manas-2010:p1113:b001:l036": "жекеII.2 wide leather war belt, Yudakhin exact жекени белге курчанган formula. https://el-sozduk.kg/жеке/; not boots or sword here.",
     "manas-2010:p1113:b001:l037": "сан epic multitude unit rendered vast host, explicit seven/six preserved; no invented exact census.",
-    "manas-2010:p1116:b001:l009": "сан epic multitude unit rendered vast host, explicit seven/six preserved; no invented exact census.",
     "manas-2010:p1114:b001:l011": "өлө сала qualified as desperately/rushing to rescue; literal die-and-immediately would conflict with ensuing remounting, but no raw correction.",
     "manas-2010:p1114:b001:l016": "эсен unharmed/safely retained after blow that nearly killed him; no attempt to harmonize narrative exaggeration.",
     "manas-2010:p1114:b001:l037": "Өлбөгөн жерде калыштым literal stayed where I had not died is awkward; retained as qualified endurance assertion, not silently emended to a different verb.",
     "manas-2010:p1115:b001:l003": "теңиз жан dear/precious soul; деңиз mother epithet generous at1115:15. Exact Yudakhin теңизI.2 https://el-sozduk.kg/теңиз/",
     "manas-2010:p1115:b001:l010": "иргилтип provisionally surging in routed-crowd image; dictionary exact headword chiefly of brimming tears, so extended motion sense remains qualified. https://el-sozduk.kg/иргилт/",
     "manas-2010:p1116:b001:l001": "мойно2 persist/stubbornly resist, Yudakhin https://el-sozduk.kg/мойно/; Kongurbay attempts to stop retreat.",
+    "manas-2010:p1116:b001:l009": "сан epic multitude unit rendered vast host, explicit seven/six preserved; no invented exact census.",
     "manas-2010:p1116:b001:l016": "калдай historical governor rank, English gloss. https://el-sozduk.kg/калдай/",
     "manas-2010:p1116:b001:l028": "Gabriel holding robe hem retained as narrator’s retrospective conjecture, not an objective historical claim; uncertainty бейм and ойлоном preserved.",
+    "manas-2010:p1116:b001:l042": "Completion-first first pass corrected after targeted high-severity source-context review: Уй күрөң is a dun/ox-brown horse color here; тартып жөнөлүп describes setting off.",
     "manas-2010:p1117:b001:l001": "Goat-sized head description attached to Sarala from surrounding subject; could describe wounded rider, qualified subject assignment.",
     "manas-2010:p1117:b001:l022": "Parting from horses read as seven enemies unhorsed, while rider’s own saddle/foot slips1117:27–28; subject is not explicit.",
     "manas-2010:p1118:b001:l014": "кыбала3 skillfully make; Yudakhin quotes exact steel/red-tuft/polished-spear pair https://el-sozduk.kg/кыбала/",
@@ -908,13 +910,7 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1116:b001:l042",
-      "kind": "unresolved_source",
-      "reason": "Уй күрөң тартып phrase unresolved: dictionary күрөң brown and уй cattle do not establish this horse-motion/color formula. Literal ox-brown draft not accepted as full translation; no speculative gait or color change inserted."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_source": [
     {
       "id": "manas-2010:p1116:b001:l042",
@@ -1008,7 +1004,18 @@
     "date": "2026-09-14",
     "rows": 839,
     "status": "draft; no independent specialist review",
-    "details": "All840source/draft pairs read in five consecutive168-row sections. Final lexical and line-order corrections applied.839English rows retained; one unresolved phrase removed from English count and preserved separately. Direct Kyrgyz draft, no prior English project input. Repetitions, numbers and narrative inconsistencies preserved; material uncertainties noted."
+    "details": "All840source/draft pairs read in five consecutive168-row sections. Final lexical and line-order corrections applied.839English rows retained; one unresolved phrase removed from English count and preserved separately. Direct Kyrgyz draft, no prior English project input. Repetitions, numbers and narrative inconsistencies preserved; material uncertainties noted.",
+    "gap_first_pass_high_severity_qa_2026_09_15": {
+      "method": "targeted source-English semantic review",
+      "checked_by": "Codex Sol low translation worker",
+      "date": "2026-09-15",
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "manas-2010:p1116:b001:l042"
+      ],
+      "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
+      "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    }
   },
   "coverage": {
     "pdf_pages": [
@@ -1047,5 +1054,7 @@
     "source_words": 2660,
     "english_words": 4585,
     "all_source_verse_words": 2664
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

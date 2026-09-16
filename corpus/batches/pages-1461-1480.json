@@ -250,6 +250,7 @@
     "manas-2010:p1466:b001:l033",
     "manas-2010:p1466:b001:l034",
     "manas-2010:p1466:b001:l035",
+    "manas-2010:p1466:b001:l036",
     "manas-2010:p1466:b001:l037",
     "manas-2010:p1466:b001:l038",
     "manas-2010:p1466:b001:l039",
@@ -489,6 +490,7 @@
     "manas-2010:p1472:b001:l021",
     "manas-2010:p1472:b001:l022",
     "manas-2010:p1472:b001:l023",
+    "manas-2010:p1472:b001:l024",
     "manas-2010:p1472:b001:l025",
     "manas-2010:p1472:b001:l026",
     "manas-2010:p1472:b001:l027",
@@ -870,6 +872,7 @@
     "manas-2010:p1465:b001:l034": "умачтай көзү ачыл exact idiom fully awake/clear-eyed, Yudakhin https://el-sozduk.kg/умач/. Also1467:28 and1473:36; no literal flour applied to eyes.",
     "manas-2010:p1466:b001:l010": "Printed эл people retained despite unusual wounded-rider context; no silent change to ал condition/state. Following unconsciousness translated separately.",
     "manas-2010:p1466:b001:l027": "Horse explicitly has wings on its flanks; literal epic attribute retained, not recast as merely swift movement.",
+    "manas-2010:p1466:b001:l036": "Канча боор not verified as a harness term. боор dictionary gives liver/belly/slope but not initial draft straps. чап олоң belly-girth clear. Whole line withheld pending lexical/source reconciliation. Completion-first first pass: Low-confidence approximate rendering for “Канча боор, чап олоң”; nearest corpus parallel was “Канча болсо сан колду”.",
     "manas-2010:p1467:b001:l003": "Explicit survival retained alongside metaphorical dead soul revived1467:26; forty days and three meals a day retained without chronology repair.",
     "manas-2010:p1467:b001:l031": "календер mendicant religious wanderer, functional English guise; no invented affiliation.1467:36 girth-like twisted black hair describes lords’ hairstyle.",
     "manas-2010:p1468:b001:l032": "чыңыроо signaling wind instrument, Yudakhin/2015 https://el-sozduk.kg/чыңыроо/. Qualified sounded horns reading of чыккан; not generic cries or silently invented bird species.",
@@ -885,6 +888,7 @@
     "manas-2010:p1471:b001:l030": "Command ranks fifty, ten, thousand and hundred translated in printed order, all numerical distinctions retained.",
     "manas-2010:p1472:b001:l010": "кабылдап wound worsening/festering from immediate grave-illness context; blue steel rust1472:12 is injured warrior metaphor, not literal rust treatment.",
     "manas-2010:p1472:b001:l019": "Causative reproach addresses Ajybay’s failure to guard Manas; no claim he deliberately commissioned Kongurbay’s attack.",
+    "manas-2010:p1472:b001:l024": "Printed жактан side in a formula resembling кыймалуу жагдан ornamented iron-covered chest1255:33/1303:26. Causative чалдырган and whole phrase unresolved. Cannot silently change source or invent coffin for living wounded Manas. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "manas-2010:p1472:b001:l033": "Medicine name Медет Aid, and1473:30 Себеп Remedy, translated names in this epic treatment narrative; no identification with a modern drug.",
     "manas-2010:p1473:b001:l015": "кымбат literally dear/costly; hard-won rocky passage is a qualified contextual rendering with ensuing flood/army obstacles, not a verified whole-phrase dictionary equivalence.",
     "manas-2010:p1473:b001:l026": "Printed чок rendered embers, Yudakhin чокII burning coals https://el-sozduk.kg/чок/; abrupt metaphor for faithless world retained. No silent чок→жок correction or unsupported dismissal interjection.",
@@ -910,18 +914,7 @@
   },
   "headings": [],
   "prose_passages": [],
-  "excluded_source_ids": [
-    {
-      "id": "manas-2010:p1466:b001:l036",
-      "kind": "unresolved_source",
-      "reason": "Канча боор not verified as a harness term. боор dictionary gives liver/belly/slope but not initial draft straps. чап олоң belly-girth clear. Whole line withheld pending lexical/source reconciliation."
-    },
-    {
-      "id": "manas-2010:p1472:b001:l024",
-      "kind": "unresolved_source",
-      "reason": "Printed жактан side in a formula resembling кыймалуу жагдан ornamented iron-covered chest1255:33/1303:26. Causative чалдырган and whole phrase unresolved. Cannot silently change source or invent coffin for living wounded Manas."
-    }
-  ],
+  "excluded_source_ids": [],
   "unresolved_source": [
     {
       "id": "manas-2010:p1466:b001:l036",
@@ -1126,5 +1119,7 @@
     "source_words": 2623,
     "english_words": 4287,
     "all_source_verse_words": 2630
-  }
+  },
+  "source_groups": {},
+  "source_joiners": {}
 }

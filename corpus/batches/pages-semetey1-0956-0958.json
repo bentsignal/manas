@@ -31,6 +31,7 @@
     "semetey-1-2013:p0956:b006:l009",
     "semetey-1-2013:p0956:b006:l010",
     "semetey-1-2013:p0956:b006:l011",
+    "semetey-1-2013:p0956:b006:l012",
     "semetey-1-2013:p0956:b006:l013",
     "semetey-1-2013:p0956:b006:l014",
     "semetey-1-2013:p0956:b006:l015",
@@ -38,6 +39,7 @@
     "semetey-1-2013:p0956:b006:l017",
     "semetey-1-2013:p0956:b006:l018",
     "semetey-1-2013:p0956:b006:l019",
+    "semetey-1-2013:p0956:b006:l020",
     "semetey-1-2013:p0956:b006:l021",
     "semetey-1-2013:p0956:b006:l022",
     "semetey-1-2013:p0956:b006:l023",
@@ -73,7 +75,10 @@
     "semetey-1-2013:p0956:b007:l026",
     "semetey-1-2013:p0956:b007:l027",
     "semetey-1-2013:p0957:b003:l001",
+    "semetey-1-2013:p0957:b003:l002",
+    "semetey-1-2013:p0957:b003:l003",
     "semetey-1-2013:p0957:b003:l004",
+    "semetey-1-2013:p0957:b003:l005",
     "semetey-1-2013:p0957:b003:l006",
     "semetey-1-2013:p0957:b003:l007",
     "semetey-1-2013:p0957:b003:l008",
@@ -161,6 +166,7 @@
     "semetey-1-2013:p0958:b003:l013",
     "semetey-1-2013:p0958:b003:l014",
     "semetey-1-2013:p0958:b003:l015",
+    "semetey-1-2013:p0958:b003:l016",
     "semetey-1-2013:p0958:b003:l017",
     "semetey-1-2013:p0958:b003:l018",
     "semetey-1-2013:p0958:b003:l019",
@@ -210,6 +216,7 @@
     "semetey-1-2013:p0958:b004:l024",
     "semetey-1-2013:p0958:b004:l025",
     "semetey-1-2013:p0958:b004:l026",
+    "semetey-1-2013:p0958:b004:l027",
     "semetey-1-2013:p0958:b004:l028",
     "semetey-1-2013:p0958:b004:l029",
     "semetey-1-2013:p0958:b004:l030",
@@ -251,16 +258,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0956:b006:l012",
-      "kind": "unresolved_source",
-      "reason": "Коштоп кийип суусар бөрк: marten-fur cap clear, paired or doubled wearing relation unresolved."
-    },
-    {
-      "id": "semetey-1-2013:p0956:b006:l020",
-      "kind": "unresolved_source",
-      "reason": "Талталаңдап жаткан чагы экен: exact талталаңдап not secured; nearby dictionary forms insufficient to infer lounging or flourishing."
-    },
-    {
       "id": "semetey-1-2013:p0957:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -271,21 +268,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0957:b003:l002",
-      "kind": "unresolved_source",
-      "reason": "Атынын оозу алактай: horse mouth comparison unclear; алак does not secure palm-sized and is not silently emended to алакан."
-    },
-    {
-      "id": "semetey-1-2013:p0957:b003:l003",
-      "kind": "unresolved_source",
-      "reason": "Айбандын түркү мында экен: exact түркү predicate unclear; dictionary fur garment and nearby түрк fat do not secure finest animal."
-    },
-    {
-      "id": "semetey-1-2013:p0957:b003:l005",
-      "kind": "unresolved_source",
-      "reason": "Жыгачтын түркү мында экен: exact түркү predicate unclear; no invented finest timber."
-    },
-    {
       "id": "semetey-1-2013:p0958:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -294,25 +276,17 @@
       "id": "semetey-1-2013:p0958:b005:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0958:b003:l016",
-      "kind": "unresolved_source",
-      "reason": "Ала күлдүү көйнөгүм: dress clear, күлдүү modifier unresolved; not silently emended to гүлдүү flowered."
-    },
-    {
-      "id": "semetey-1-2013:p0958:b004:l027",
-      "kind": "unresolved_source",
-      "reason": "Жыл* ооздуктан баланы: exact жыл footnoted modifier and bridle-child construction unresolved; 1960 glossary page371 did not resolve it."
     }
   ],
   "notes": {
-    "semetey-1-2013:p0956:b003:l007": "Yudakhin орой I explicitly ancestral spirit, with deceased father-in-law honor example; not орой II rude or an unsupported dignity/face sense.",
     "semetey-1-2013:p0956:b003:l005": "Twelve spiritual guides follows explicit source number; кол берген pledge formula retained.",
+    "semetey-1-2013:p0956:b003:l007": "Yudakhin орой I explicitly ancestral spirit, with deceased father-in-law honor example; not орой II rude or an unsupported dignity/face sense.",
     "semetey-1-2013:p0956:b006:l005": "Tappat retained as printed surah name; no unsupported modern numbering added.",
     "semetey-1-2013:p0956:b006:l008": "Ой тартып rendered drawing toward lowlands in camping context; qualified geographical reading.",
+    "semetey-1-2013:p0956:b006:l012": "Коштоп кийип суусар бөрк: marten-fur cap clear, paired or doubled wearing relation unresolved. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0956:b006:l014": "Кошоктошуп means joined together here in celebration, not кошок lamentation.",
     "semetey-1-2013:p0956:b006:l017": "Кундуз is otter in primary Yudakhin, not beaver. Entire pelts split lengthwise follows source.",
+    "semetey-1-2013:p0956:b006:l020": "Талталаңдап жаткан чагы экен: exact талталаңдап not secured; nearby dictionary forms insufficient to infer lounging or flourishing. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0956:b006:l025": "Trouble question retained amid prosperity rather than harmonized away.",
     "semetey-1-2013:p0956:b006:l026": "Келенкер hair ornament per1960 glossary372; primary broad-hip epithet retained.",
     "semetey-1-2013:p0956:b007:l001": "Yudakhin айча бел exact red-silk-dress poetic example gives slender waist.",
@@ -320,6 +294,9 @@
     "semetey-1-2013:p0956:b007:l016": "Source black cap/blue lynx colors retained, not harmonized.",
     "semetey-1-2013:p0956:b007:l018": "Кара көк human epithet fearlessness, as in primary earlier259/402 review; qualified context of men.",
     "semetey-1-2013:p0956:b007:l024": "Yudakhin exact калбыр өпкө жез билек enduring swift horse epithet; literal sieve lungs/copper forelegs retained.",
+    "semetey-1-2013:p0957:b003:l002": "Атынын оозу алактай: horse mouth comparison unclear; алак does not secure palm-sized and is not silently emended to алакан. Айбандын түркү мында экен: exact түркү predicate unclear; dictionary fur garment and nearby түрк fat do not secure finest animal. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0957:b003:l003": "Атынын оозу алактай: horse mouth comparison unclear; алак does not secure palm-sized and is not silently emended to алакан. Айбандын түркү мында экен: exact түркү predicate unclear; dictionary fur garment and nearby түрк fat do not secure finest animal. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
+    "semetey-1-2013:p0957:b003:l005": "Жыгачтын түркү мында экен: exact түркү predicate unclear; no invented finest timber. Completion-first first pass: Low-confidence approximate rendering for “Жыгачтын түркү мында экен.”; nearest corpus parallel was “Кыргыздын журту мында жок.”.",
     "semetey-1-2013:p0957:b003:l009": "Улама knowledgeable informants and ула learn as primary691 restoration; not invented written manuscript.",
     "semetey-1-2013:p0957:b003:l012": "Source image confirms physical lines12+13 form one wrapped verse; colors retained despite later dark/red roan contrast.",
     "semetey-1-2013:p0957:b003:l030": "Түмөн rendered innumerable context, not certified literal ten thousand.",
@@ -335,6 +312,7 @@
     "semetey-1-2013:p0957:b004:l017": "Улама/ула primary knowledgeable informants and learning formula.",
     "semetey-1-2013:p0957:b004:l026": "Following Chinese/Manchu takeover speculation remains Aichurok questions, not asserted historical account; changed horse colors not silently harmonized.",
     "semetey-1-2013:p0958:b003:l007": "Бел байла support/reliance idiom supported by primary белге таңуу, not invented literal girdle.",
+    "semetey-1-2013:p0958:b003:l016": "Ала күлдүү көйнөгүм: dress clear, күлдүү modifier unresolved; not silently emended to гүлдүү flowered. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0958:b003:l019": "Captive/booty wife and feared marriage kept explicitly; no invented consent.",
     "semetey-1-2013:p0958:b003:l024": "Салаңда droop/dangle or hesitate in primary; qualified faltering flight in troubled context, no added wings anatomy.",
     "semetey-1-2013:p0958:b003:l025": "Bar-Kol retained toponym without unsupported modern geographic identification.",
@@ -348,229 +326,12 @@
     "semetey-1-2013:p0958:b004:l020": "Миң сан immense host, no invented exact million warriors.",
     "semetey-1-2013:p0958:b004:l023": "Source snatching action has no stated object; English does not invent Semetey as prey of his protector.",
     "semetey-1-2013:p0958:b004:l026": "Narrow-eyed beautiful figure not assigned unsupported gender or identity.",
+    "semetey-1-2013:p0958:b004:l027": "Жыл* ооздуктан баланы: exact жыл footnoted modifier and bridle-child construction unresolved; 1960 glossary page371 did not resolve it. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0958:b004:l035": "Right shoulder explicitly source, not broadened to both shoulders.",
     "semetey-1-2013:p0958:b004:l036": "Жини кармоо rendered fury seizing him in wrath context rather than unsupported clinical madness.",
     "semetey-1-2013:p0958:b004:l037": "Eighteen thousand worlds retained religious cosmological formula, not physical measured count."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0956:b006:l012"
-      ],
-      "raw": [
-        "Êîøòîï êèéèï ñóóñàð áºðê"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0956:b006:l012",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 956,
-          "block": 6,
-          "line_in_block": 12,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 469.7397,
-            "xMax": 236.976,
-            "yMax": 482.9277
-          },
-          "raw": "Êîøòîï êèéèï ñóóñàð áºðê",
-          "text": "Коштоп кийип суусар бөрк",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Коштоп кийип суусар бөрк: marten-fur cap clear, paired or doubled wearing relation unresolved.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0956:b006:l020"
-      ],
-      "raw": [
-        "Òàëòàëà¢äàï æàòêàí ÷àãû ýêåí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0956:b006:l020",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 956,
-          "block": 6,
-          "line_in_block": 20,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 583.2597,
-            "xMax": 267.078,
-            "yMax": 596.4477
-          },
-          "raw": "Òàëòàëà¢äàï æàòêàí ÷àãû ýêåí.",
-          "text": "Талталаңдап жаткан чагы экен.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Талталаңдап жаткан чагы экен: exact талталаңдап not secured; nearby dictionary forms insufficient to infer lounging or flourishing.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0957:b003:l002"
-      ],
-      "raw": [
-        "Àòûíûí îîçó àëàêòàé"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0957:b003:l002",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 957,
-          "block": 3,
-          "line_in_block": 2,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 157.2597,
-            "xMax": 209.1504,
-            "yMax": 170.4477
-          },
-          "raw": "Àòûíûí îîçó àëàêòàé",
-          "text": "Атынын оозу алактай",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Атынын оозу алактай: horse mouth comparison unclear; алак does not secure palm-sized and is not silently emended to алакан.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0957:b003:l003"
-      ],
-      "raw": [
-        "Àéáàíäûí ò¿ðê¿ ìûíäà ýêåí,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0957:b003:l003",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 957,
-          "block": 3,
-          "line_in_block": 3,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 171.6597,
-            "xMax": 257.2848,
-            "yMax": 184.8477
-          },
-          "raw": "Àéáàíäûí ò¿ðê¿ ìûíäà ýêåí,",
-          "text": "Айбандын түркү мында экен,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Айбандын түркү мында экен: exact түркү predicate unclear; dictionary fur garment and nearby түрк fat do not secure finest animal.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0957:b003:l005"
-      ],
-      "raw": [
-        "Æûãà÷òûí ò¿ðê¿ ìûíäà ýêåí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0957:b003:l005",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 957,
-          "block": 3,
-          "line_in_block": 5,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 199.9797,
-            "xMax": 261.588,
-            "yMax": 213.1677
-          },
-          "raw": "Æûãà÷òûí ò¿ðê¿ ìûíäà ýêåí.",
-          "text": "Жыгачтын түркү мында экен.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Жыгачтын түркү мында экен: exact түркү predicate unclear; no invented finest timber.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0958:b003:l016"
-      ],
-      "raw": [
-        "Àëà ê¿ëä¿¿ êºéíºã¿ì,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0958:b003:l016",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 958,
-          "block": 3,
-          "line_in_block": 16,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 356.2197,
-            "xMax": 209.2872,
-            "yMax": 369.4077
-          },
-          "raw": "Àëà ê¿ëä¿¿ êºéíºã¿ì,",
-          "text": "Ала күлдүү көйнөгүм,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Ала күлдүү көйнөгүм: dress clear, күлдүү modifier unresolved; not silently emended to гүлдүү flowered.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0958:b004:l027"
-      ],
-      "raw": [
-        "Æûë* îîçäóêòàí áàëàíû"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0958:b004:l027",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 958,
-          "block": 4,
-          "line_in_block": 27,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 512.4597,
-            "xMax": 452.7888,
-            "yMax": 525.6477
-          },
-          "raw": "Æûë* îîçäóêòàí áàëàíû",
-          "text": "Жыл* ооздуктан баланы",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Жыл* ооздуктан баланы: exact жыл footnoted modifier and bridle-child construction unresolved; 1960 glossary page371 did not resolve it.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -584,11 +345,11 @@
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 216,
-    "english_words": 1173,
+    "translated_verse_rows": 223,
+    "english_words": 1209,
     "physical_narrative_fragments": 224,
     "reconstructed_source_verses": 223,
-    "unresolved_source_verses": 7,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 1
   },
   "alignment_check": {
@@ -598,5 +359,6 @@
     "rows": 216,
     "status": "draft; no independent specialist review",
     "details": "Compared every extracted narrative row directly with its matching English row across pages 0956-0958. The existing translation was semantically aligned and required no row changes; preserved one English line per source ID and the original row order."
-  }
+  },
+  "source_joiners": {}
 }

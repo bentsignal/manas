@@ -1,0 +1,378 @@
+{
+  "date": "2026-09-15",
+  "released_physical_source_rows": 78616,
+  "released_grouped_rows": 78615,
+  "reported_totals": [
+    {
+      "lines": 83830,
+      "evidence": "Manas Encyclopedia vol. 2 p. 291; visually confirmed",
+      "deficit_from_released_rows": 5214
+    },
+    {
+      "lines": 84513,
+      "evidence": "coherent four-part 500,553 allocation",
+      "deficit_from_released_rows": 5897
+    },
+    {
+      "lines": 84830,
+      "evidence": "national-corpus/KazNU allocation and derivatives",
+      "deficit_from_released_rows": 6214
+    }
+  ],
+  "defensible_deficit_range": [
+    5214,
+    6214
+  ],
+  "sequence": [
+    {
+      "old_inventory": 911,
+      "current_inventory": 90,
+      "title": "\"Манас\". Манастын бала чагы",
+      "pages": 294,
+      "lines": 5082,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D0%B1%D0%B0%D0%BB%D0%B0-%D1%87%D0%B0%D0%B3%D1%8BJ/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-90Manas-Manastyn-bala-chagy.pdf"
+    },
+    {
+      "old_inventory": 912,
+      "current_inventory": 91,
+      "title": "\"Манас\". Манастын уруштары",
+      "pages": 198,
+      "lines": 5250,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D1%83%D1%80%D1%83%D1%88%D1%82%D0%B0%D1%80%D1%8B/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-91-Manas-Manastyn-urushtary-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 913,
+      "current_inventory": 92,
+      "title": "\"Манас\". Манастын жигитчилик чагы",
+      "pages": 152,
+      "lines": 4256,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D0%B6%D0%B8%D0%B3%D0%B8%D1%82%D1%87%D0%B8%D0%BB%D0%B8%D0%BA-%D1%87%D0%B0%D0%B3%D1%8BC/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-92-Manas-Manastyn-zhigitchilik-chagy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 914,
+      "current_inventory": 93,
+      "title": "\"Манас\". Манастын жигитчилик чагы (уландысы)",
+      "pages": 153,
+      "lines": 4000,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D0%B6%D0%B8%D0%B3%D0%B8%D1%82%D1%87%D0%B8%D0%BB%D0%B8%D0%BA-%D1%87%D0%B0%D0%B3%D1%8B-%D1%83%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D1%81%D1%8B/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-93-Manas-Manastyn-zhigitchilik-chagy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 915,
+      "current_inventory": 94,
+      "title": "\"Манас\". Манастын жигитчилик чагы уландысы)",
+      "pages": 191,
+      "lines": 5900,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D0%B6%D0%B8%D0%B3%D0%B8%D1%82%D1%87%D0%B8%D0%BB%D0%B8%D0%BA-%D1%87%D0%B0%D0%B3%D1%8B-%D1%83%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D1%81%D1%8BX/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-94-Manas-Manastyn-zhigitchilik-chagy-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 916,
+      "current_inventory": 95,
+      "title": "\"Манас\". Манастын жигитчилик чагы (уландысы)",
+      "pages": 167,
+      "lines": 5244,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D0%B6%D0%B8%D0%B3%D0%B8%D1%82%D1%87%D0%B8%D0%BB%D0%B8%D0%BA-%D1%87%D0%B0%D0%B3%D1%8B-%D1%83%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D1%81%D1%8Bw/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-95-Manas-Manastyn-zhigitchilik-chagy-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 917,
+      "current_inventory": 96,
+      "title": "\"Манас\". Манастын жигитчилик чагы (уландысы)",
+      "pages": 176,
+      "lines": 5808,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D0%B6%D0%B8%D0%B3%D0%B8%D1%82%D1%87%D0%B8%D0%BB%D0%B8%D0%BA-%D1%87%D0%B0%D0%B3%D1%8B-%D1%83%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D1%81%D1%8Bs/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-96-Manas-Manastyn-zhigitchilik-chagy-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 918,
+      "current_inventory": 97,
+      "title": "Манас. Манастын жигитчилик чагы(уландысы)",
+      "pages": 157,
+      "lines": 4024,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%BD-%D0%B6%D0%B8%D0%B3%D0%B8%D1%82%D1%87%D0%B8%D0%BB%D0%B8%D0%BA-%D1%87%D0%B0%D0%B3%D1%8B-%D1%83%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D1%81%D1%8Bh/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-97-Manas-Manastyn-zhigitchilik-chagy-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 919,
+      "current_inventory": 98,
+      "title": "\"Манас\". Чоң казат",
+      "pages": 342,
+      "lines": 10602,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%A7%D0%BE%D2%A3-%D0%BA%D0%B0%D0%B7%D0%B0%D1%82V/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-98-Manas-Chon-kazat-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 920,
+      "current_inventory": 99,
+      "title": "\"Манас\". Чоң казат",
+      "pages": 358,
+      "lines": 11000,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%A7%D0%BE%D2%A3-%D0%BA%D0%B0%D0%B7%D0%B0%D1%82F/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-99-Manas-Chon-kazat-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 921,
+      "current_inventory": 100,
+      "title": "\"Манас\". Чоң казат",
+      "pages": 300,
+      "lines": 9600,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%A7%D0%BE%D2%A3-%D0%BA%D0%B0%D0%B7%D0%B0%D1%82p/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-100-Manas-Chon-kazat-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 922,
+      "current_inventory": 101,
+      "title": "\"Манас\". Чоң казат",
+      "pages": 311,
+      "lines": 9641,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%A7%D0%BE%D2%A3-%D0%BA%D0%B0%D0%B7%D0%B0%D1%82l/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-101-Manas-Chon-kazat-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 923,
+      "current_inventory": 102,
+      "title": "\"Манас\". Чоң казат",
+      "pages": 160,
+      "lines": 4960,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%A7%D0%BE%D2%A3-%D0%BA%D0%B0%D0%B7%D0%B0%D1%82Q/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-102-Manas-Chon-kazat-ulandysy-Siakbai-Karalaev.pdf"
+    },
+    {
+      "old_inventory": 924,
+      "current_inventory": 103,
+      "title": "\"Манас\"- Манастын өлүмү. \"Семетей\"",
+      "pages": 100,
+      "lines": 2300,
+      "catalogue_url": "https://manuscript.bizdin.kg/%D1%80%D1%83%D0%BA%D0%BE%D0%BF%D0%B8%D1%81%D1%8C/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81-%D0%A7%D0%BE%D2%A3-%D0%BA%D0%B0%D0%B7%D0%B0%D1%82wM/",
+      "sample_url": "https://manuscript.bizdin.kg/static/media/pdf/Obrazets-103-Manas-Chon-kazat-ulandysy-Siakbai-Karalaev.pdf"
+    }
+  ],
+  "catalogue_sum_911_923": {
+    "pages": 2959,
+    "lines": 85367
+  },
+  "catalogue_sum_911_924": {
+    "pages": 3059,
+    "lines": 87667
+  },
+  "boundary_warning": "Old 924/current 103 is explicitly mixed Manas death and Semetey; its 2,300 lines cannot be assigned wholly to Manas.",
+  "full_public_scan": {
+    "old_inventory": 911,
+    "current_inventory": 90,
+    "url": "https://manuscript.bizdin.kg/static/media/pdf/90Manas-Manastyn-bala-chagy.pdf",
+    "bytes": 122640613,
+    "pdf_pages": 302,
+    "catalogue_pages": 294,
+    "sha256": "abe0b9bd1dfdcac97d6c3b2a32f30f7efaafc12850dd283e4f71ffe98709c013",
+    "visual_identity": "Sampled interior pages are handwritten Latin-script Kyrgyz; PDF 150 shows manuscript leaf 145.",
+    "novelty_status": "Not yet collated; opening narrative is represented in 2010, so the scan cannot be counted as new lines without alignment."
+  },
+  "path_search": {
+    "generated_variants_checked": 695,
+    "directories": [
+      "/static/media/pdf",
+      "/media/pdf",
+      "/static/media/manuscripts",
+      "/media/manuscripts",
+      "/uploads/manuscripts"
+    ],
+    "result": "Only the exceptional current-90 filename without Obrazets resolved to a full manuscript. No full current 91-103 asset found."
+  },
+  "catalogue_samples": [
+    {
+      "current_inventory": 90,
+      "pdf_pages": 5,
+      "bytes": 3519689,
+      "sha256": "3d13bce144b306a3002f14b55ca57b59a1c4f906a8a2e611ae4704126f41ee17"
+    },
+    {
+      "current_inventory": 91,
+      "pdf_pages": 5,
+      "bytes": 3193476,
+      "sha256": "73db21f69f69c2a46978cbaa1492105d74312c5c3b590b3affab480b3e2265d6"
+    },
+    {
+      "current_inventory": 92,
+      "pdf_pages": 5,
+      "bytes": 3383707,
+      "sha256": "20ad72715501e9b31d2baccb00683137c881706a8bb2c1b5825d74d79edd0561"
+    },
+    {
+      "current_inventory": 93,
+      "pdf_pages": 5,
+      "bytes": 3200516,
+      "sha256": "3e948c8978b9fa431f684bd605389a465639433f04d8f47403c24a98a4ddc870"
+    },
+    {
+      "current_inventory": 94,
+      "pdf_pages": 5,
+      "bytes": 3147955,
+      "sha256": "db02a5641c8e1df21231e0a8f4b3593fc878b57fd6e132a9e662249137acef14"
+    },
+    {
+      "current_inventory": 95,
+      "pdf_pages": 5,
+      "bytes": 3682344,
+      "sha256": "7259d42d32942449a9e6338c40dc155a65b9807cdc974e47f6e2fdcde3905791"
+    },
+    {
+      "current_inventory": 96,
+      "pdf_pages": 5,
+      "bytes": 3746498,
+      "sha256": "22aea61303dd9d54167dab48a86b920c6b8983d5226b68df1e5363774cce8c74"
+    },
+    {
+      "current_inventory": 97,
+      "pdf_pages": 5,
+      "bytes": 3840504,
+      "sha256": "79fe04db53f7ad54ba9dfcaabf54e76a1e3615a8d477bdb0638df92f0b34b705"
+    },
+    {
+      "current_inventory": 98,
+      "pdf_pages": 5,
+      "bytes": 2965075,
+      "sha256": "2b1e4dce8d3ba6aa541d26db2f0c4a01cf0488f3bc40aaeeb75220512b46d06e"
+    },
+    {
+      "current_inventory": 99,
+      "pdf_pages": 5,
+      "bytes": 3065049,
+      "sha256": "6a1d39e2cfa0a72ff534cda1b5dae65d696dd465efde039a242ae7e53b796c20"
+    },
+    {
+      "current_inventory": 100,
+      "pdf_pages": 5,
+      "bytes": 3280247,
+      "sha256": "3a2b4110e98fec14dc961d89faa0beb3d196622a57382e7f6d41ad7c1e19cf4c"
+    },
+    {
+      "current_inventory": 101,
+      "pdf_pages": 5,
+      "bytes": 3454078,
+      "sha256": "c20c3290a225c256c0e8b687a7939718a9af94f485c222f3da9a4c41c1349664"
+    },
+    {
+      "current_inventory": 102,
+      "pdf_pages": 5,
+      "bytes": 3868818,
+      "sha256": "6aa8d3f0671ec371b854e7438eb8df182feb3156e78b7aced80a6372077b0ffa"
+    },
+    {
+      "current_inventory": 103,
+      "pdf_pages": 5,
+      "bytes": 4464840,
+      "sha256": "721a6bcc8917a83b0ccc3039351190ca89918b60c2dd29864665a4401fbfdc11"
+    }
+  ],
+  "numeric_url_rejections": [
+    {
+      "numeric_name": "90.pdf",
+      "bytes": 3886767,
+      "sha256": "2f9407297142d7fdadaa191244fe151a7396c208893662be9f454fd913b6e560",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "91.pdf",
+      "bytes": 3226677,
+      "sha256": "b62d0c7d384b4937a7fe10be370de5af672ede2418bf234e2a0fbaf83f771376",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "92.pdf",
+      "bytes": 13436018,
+      "sha256": "ec696d53b2b5e7dc9a590482930ce2c33995238c65a29d29d61cc85665af73fc",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "93.pdf",
+      "bytes": 3973282,
+      "sha256": "f94158a78f379d47de95e3efcd8ddbc917fe9be76fd7886459604d4f655e2936",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "94.pdf",
+      "bytes": 52811798,
+      "sha256": "a414fef2dba3370f3ea249b3523ca552a15cf3cbfc0c2f5226e03c961a7cb0c9",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "95.pdf",
+      "bytes": 1412760,
+      "sha256": "ddfdf2a9e9e0346194933525bdb443f6185321b0ba3766bb1e91424babd946e6",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "96.pdf",
+      "bytes": 32671276,
+      "sha256": "9a47a3e4d5c3c62ce9ad5ee304876d42910b964a088e1cf645f89681e2baee04",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "97.pdf",
+      "bytes": 7210310,
+      "sha256": "40b8b93fa94146dfe57c896f06a17c0634c300a3c52d71afc1c3a6742d4924e2",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "98.pdf",
+      "bytes": 30562986,
+      "sha256": "25ff4855da41487ceb012a210ab9594fceefd7d5f7ab900c42069102299e6596",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "99.pdf",
+      "bytes": 31934465,
+      "sha256": "38dd52816c288d27fbda26b42afc79d02411ed578c321e38ae4c656993766de5",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "100.pdf",
+      "bytes": 9307185,
+      "sha256": "798f5549e4e9f9aeac81756409c473d361f2c9f2777ca182f0509930fe1eda55",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "101.pdf",
+      "bytes": 3161049,
+      "sha256": "a7b985d5ebe9e25eb815c74f9997090d5d5d31732a3591d55e3dac9a30ebedb6",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "102.pdf",
+      "bytes": 9115589,
+      "sha256": "745597921b044b876c4b22520db76c63be37aaa4987b00c9bb27990809ccd08a",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    },
+    {
+      "numeric_name": "103.pdf",
+      "bytes": 8542116,
+      "sha256": "03951fbfe2ba8414d3e7b57c49c4474f5e01f883159a7d33db5198f156e8a0b9",
+      "decision": "rejected unrelated Arabic-script collection/shelfmark collision"
+    }
+  ],
+  "edited_publications": [
+    {
+      "year": 1984,
+      "book": 1,
+      "url": "https://cdn-1.aki.kg/st_bilimlib/3/ceb2b3937fd8a8a2741dbbe008a15fef2bb812bc.pdf",
+      "bytes": 55254046,
+      "pdf_pages": 248,
+      "sha256": "8823051caa548206f6887d4f49e28003c97f8e38f52ccad2e8d4e1073bda6915",
+      "assessment": "Edited selection; editorial statement admits omission of literal repetitions and ideologically unsuitable matter."
+    },
+    {
+      "year": 1986,
+      "book": 2,
+      "url": "https://cdn-1.aki.kg/st_bilimlib/4/2a0b0eaaeb2e39f9c326828b021d8367e16d9754.pdf",
+      "bytes": 47481576,
+      "pdf_pages": 265,
+      "sha256": "29386691ae348541f1fed0f2b5bc0ed033eca8369448d7c6f70d9820a7444ff1",
+      "assessment": "Edited selection; checked endpoint passage is present in the 2010 witness."
+    }
+  ],
+  "assessment": "The catalogue core sum 85,367 exceeds all published Manas totals, so it is not an additive edition crosswalk. The 5,214-6,214 difference from released rows likely consists of editorial omissions, overlap, lineation differences, or boundary shifts and cannot be padded or localized from totals alone. No demonstrably novel omitted passage was established in the older edited books."
+}

@@ -175,6 +175,7 @@
     "semetey-1-2013:p0462:b003:l012",
     "semetey-1-2013:p0462:b003:l013",
     "semetey-1-2013:p0462:b003:l014",
+    "semetey-1-2013:p0462:b003:l015",
     "semetey-1-2013:p0462:b003:l016",
     "semetey-1-2013:p0462:b003:l017",
     "semetey-1-2013:p0462:b003:l018",
@@ -389,6 +390,7 @@
     "semetey-1-2013:p0464:b004:l035",
     "semetey-1-2013:p0464:b004:l036",
     "semetey-1-2013:p0464:b004:l037",
+    "semetey-1-2013:p0464:b004:l038",
     "semetey-1-2013:p0464:b004:l039",
     "semetey-1-2013:p0465:b003:l001",
     "semetey-1-2013:p0465:b003:l002",
@@ -703,6 +705,7 @@
     "semetey-1-2013:p0468:b004:l038",
     "semetey-1-2013:p0468:b004:l039",
     "semetey-1-2013:p0469:b003:l001",
+    "semetey-1-2013:p0469:b003:l002",
     "semetey-1-2013:p0469:b003:l003",
     "semetey-1-2013:p0469:b003:l004",
     "semetey-1-2013:p0469:b003:l005",
@@ -892,6 +895,7 @@
     "semetey-1-2013:p0471:b003:l036",
     "semetey-1-2013:p0471:b003:l037",
     "semetey-1-2013:p0471:b003:l038",
+    "semetey-1-2013:p0471:b003:l039",
     "semetey-1-2013:p0471:b004:l001",
     "semetey-1-2013:p0471:b004:l002",
     "semetey-1-2013:p0471:b004:l003",
@@ -953,6 +957,7 @@
     "semetey-1-2013:p0472:b003:l020",
     "semetey-1-2013:p0472:b003:l021",
     "semetey-1-2013:p0472:b003:l022",
+    "semetey-1-2013:p0472:b003:l023",
     "semetey-1-2013:p0472:b003:l024",
     "semetey-1-2013:p0472:b003:l025",
     "semetey-1-2013:p0472:b003:l026",
@@ -1192,6 +1197,7 @@
     "semetey-1-2013:p0475:b003:l027",
     "semetey-1-2013:p0475:b003:l028",
     "semetey-1-2013:p0475:b003:l029",
+    "semetey-1-2013:p0475:b003:l030",
     "semetey-1-2013:p0475:b003:l031",
     "semetey-1-2013:p0475:b003:l032",
     "semetey-1-2013:p0475:b003:l033",
@@ -1275,6 +1281,7 @@
     "semetey-1-2013:p0476:b003:l033",
     "semetey-1-2013:p0476:b003:l034",
     "semetey-1-2013:p0476:b003:l035",
+    "semetey-1-2013:p0476:b003:l036",
     "semetey-1-2013:p0476:b003:l037",
     "semetey-1-2013:p0476:b003:l038",
     "semetey-1-2013:p0476:b003:l039",
@@ -1373,6 +1380,7 @@
     "semetey-1-2013:p0477:b004:l016",
     "semetey-1-2013:p0477:b004:l017",
     "semetey-1-2013:p0477:b004:l018",
+    "semetey-1-2013:p0477:b004:l019",
     "semetey-1-2013:p0477:b004:l020",
     "semetey-1-2013:p0477:b004:l021",
     "semetey-1-2013:p0477:b004:l022",
@@ -1631,6 +1639,7 @@
     "semetey-1-2013:p0461:b004:l021": "Honor covered/restored interpreted in conspirators’ triumphal appeal after poisoning Manas; not a narrator’s endorsement.",
     "semetey-1-2013:p0462:b003:l002": "Жетигинен treated as personal Zhetigin in the named fighters’ discourse, not age seven or the number seven.",
     "semetey-1-2013:p0462:b003:l006": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
+    "semetey-1-2013:p0462:b003:l015": "Whole verse unresolved: Карабчы кийген калмактын. Kalmyks wearing an item карабчы is legible, but the garment/equipment term is not securely identified; no generic clothing replacement. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0462:b003:l028": "Чолок applied to the lion is short-tailed in this guardian-spirit imagery, not automatically a human amputation.",
     "semetey-1-2013:p0462:b003:l038": "Primary Yudakhin майла- exact майлаган буудай өңдөнгөн: ruddy, glossy-faced; oiled-wheat image retained, not literal oil application.",
     "semetey-1-2013:p0462:b003:l039": "көздөнүп seeming/appearing, not a claim that mist is physically in the eyes.",
@@ -1665,6 +1674,7 @@
     "semetey-1-2013:p0464:b004:l020": "Primary Semetey1960 glossary374 individually reinspected this batch: теке жоомарт excellent strong/enduring racehorse, not goat.",
     "semetey-1-2013:p0464:b004:l024": "Primary Yudakhin алат күн exclamation of grief/astonishment; printed joined алаткүн, not personal name.",
     "semetey-1-2013:p0464:b004:l036": "сезгенген дарт fearsome disease in poison comparison; no specific diagnosis supplied.",
+    "semetey-1-2013:p0464:b004:l038": "Whole verse unresolved: Бу дүнүйө упакер. This world is clear, but упакер lacks secure lexical resolution; no silent substitution of faithless based merely on the formula. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0465:b003:l007": "Төлгөчү Кара treated as diviner named Kara, an epithet/name distinct from Akzholtoi proper name.",
     "semetey-1-2013:p0465:b003:l029": "Printed Алдап is cunning/deceiving; retained as cunning martial service rather than silently emended to leading the army.",
     "semetey-1-2013:p0465:b003:l033": "Primary Yudakhin чампан I speaker of unintelligible/poorly understood language; primary Manas2010 glossary1843:29 independently states тили түшүнүксүз. Not a proper Champan place or the homonymous muzzle-loading gun.",
@@ -1695,6 +1705,7 @@
     "semetey-1-2013:p0467:b003:l022": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
     "semetey-1-2013:p0467:b003:l024": "Primary Yudakhin тындым кыл- kill/do away with, exact poisoned-food example; not generic quietness.",
     "semetey-1-2013:p0467:b003:l031": "Reviving the dead soul/extinguished fire is heroic rescue imagery repeated in Kanykei’s narrative; no separate medical diagnosis supplied.",
+    "semetey-1-2013:p0467:b003:l037": "Present widowed storyteller explicitly says she has told the tale and asks Semetey to listen before recounting past rescues. Bereaved applies to the present speaker, not the living Manas in the embedded narrative. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json.",
     "semetey-1-2013:p0467:b005:l001": "Primary Yudakhin жобо- sense2 grieve; mother addresses the orphan not to grieve in her distressing retrospective tale.",
     "semetey-1-2013:p0467:b005:l006": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
     "semetey-1-2013:p0467:b005:l007": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
@@ -1712,6 +1723,7 @@
     "semetey-1-2013:p0468:b004:l025": "Бучкагына теңебей belittling comparison: treating the enemy champions as beneath him, not measuring physical height.",
     "semetey-1-2013:p0468:b004:l038": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
     "semetey-1-2013:p0468:b004:l039": "Father catches crosswise in the yurt doorway because of his bulk; English word order across38–39 adjusted for grammar.",
+    "semetey-1-2013:p0469:b003:l002": "Whole verse unresolved: Өлүп-кечип молдосу. Mortal effort/daring is clear, but молдосу and the grammatical agent in Akayar’s carrying Manas are not securely resolved; no deletion of the cleric term. Completion-first first pass: Low-confidence approximate rendering for “Өлүп-кечип молдосу,”; nearest corpus parallel was “Өлүп-өчүп жоголуп,”.",
     "semetey-1-2013:p0469:b003:l004": "Yurt trembling like a fur cap as huge Manas is carried through, source simile retained rather than substituting a size comparison.",
     "semetey-1-2013:p0469:b003:l008": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
     "semetey-1-2013:p0469:b003:l009": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
@@ -1744,6 +1756,7 @@
     "semetey-1-2013:p0471:b003:l018": "Primary Yudakhin алапайын таба албай unable to collect oneself.",
     "semetey-1-2013:p0471:b003:l027": "Ochogor is a firearm, twelve charges explicit; not an extra marksman named Ochogor. Primary Yudakhin дүрмөт gun charge and очогор firearm usage.",
     "semetey-1-2013:p0471:b003:l032": "Source switches between firearms and arrow: golden-eared lacquered arrow retained without technological harmonization.",
+    "semetey-1-2013:p0471:b003:l039": "Whole verse unresolved: Кара кылчу огой жок. No one to rely on likely frame; огой lacks secure lexical/ethnonym identification; not silently corrected to Nogoi or translated as kin. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0471:b004:l013": "Breast torn away by shot is explicit source injury, retained.",
     "semetey-1-2013:p0471:b004:l016": "Sweat streaming down to lower legs is contextual image, not an actual river.",
     "semetey-1-2013:p0471:b004:l027": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
@@ -1754,6 +1767,7 @@
     "semetey-1-2013:p0472:b003:l017": "Kaiypchy retained as the source mountain attribution; no external geographical identification.",
     "semetey-1-2013:p0472:b003:l019": "Primary Yudakhin борчук rocky pinnacle/projection, not horse Akborchuk here.",
     "semetey-1-2013:p0472:b003:l020": "өлгөндө difficulty to death’s threshold, not nursing a corpse.",
+    "semetey-1-2013:p0472:b003:l023": "Whole verse unresolved: Калдай башым туу кылып. Making head/self a banner clear, калдай not securely interpreted in first-person Kanykei clause. Prior governor simile withdrawn rather than asserting ungrounded office analogy. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0472:b003:l028": "болот steel, жабылат contextual corrosive poison effect; not a modern chemical specification.",
     "semetey-1-2013:p0472:b003:l039": "Kozhosan epithet retained with Manas; protecting spirits do not change explicit mortality threat.",
     "semetey-1-2013:p0472:b004:l004": "Leather/rawhide-lined interior belongs to poison preparation/storage context; no invented ingredient quantity or medically actionable preparation added.",
@@ -1790,6 +1804,7 @@
     "semetey-1-2013:p0474:b004:l026": "Коңкулбоз horse Konkulboz consistently transliterated.",
     "semetey-1-2013:p0474:b004:l038": "тилчи messenger/informant who could carry word; causal wording preserved, not a new profession.",
     "semetey-1-2013:p0475:b003:l001": "Forty rope-length dungeon is explicit epic measure, no metric conversion.",
+    "semetey-1-2013:p0475:b003:l030": "Whole verse unresolved: Кара-кырлап бакалап; ridge travel context clear, бакалап not securely identified despite glossary marker, not filled by generic travel. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0475:b003:l036": "бурма чидер twisted hobbles, not golden drill; primary чидер.",
     "semetey-1-2013:p0475:b003:l037": "Primary Yudakhin баймакта- put hobbles just above hooves; exact saddling/unsaddling quotation.",
     "semetey-1-2013:p0475:b005:l001": "Primary Yudakhin алп уйку heroic deep sleep; duration many days and nights explicit source, not ordinary nap.",
@@ -1801,6 +1816,7 @@
     "semetey-1-2013:p0475:b005:l029": "сом калай solid tin with iron doors; material combination retained, not architectural correction.",
     "semetey-1-2013:p0475:b005:l039": "жин-бери demonic/supernatural guards with human-body amulets; seven explicit.",
     "semetey-1-2013:p0476:b003:l030": "долоно hawthorn shaft, not generic hardwood.",
+    "semetey-1-2013:p0476:b003:l036": "Whole verse unresolved: Калың огой, көп кыргыз. Ogoi uncertain; no silent normalization Nogoi. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0476:b004:l001": "Primary Manas Encyclopedia vol1 https://api.libraryiksu.kg/elibrary/books/Manas%20enciklopedia%20T7189.pdf PDF209–210 БАРАҢ ethnonym, Arabic/Persian fereng/parangi from Frank, Europeans in Muslim East; exact Karalaev маңдайында бараң бар enemy formula. Personally read source entry. Franks historical epic ethnonym, not modern French nationality, distinct following gun entry. Not supported by prior misattributed Yudakhin claim.",
     "semetey-1-2013:p0476:b004:l002": "Visually confirmed indented continuation joined as one verse; all exact original fragments retained in source_groups.",
     "semetey-1-2013:p0476:b004:l009": "Primary Yudakhin бейпай доо unpayable/insatiable claim, not simply physical illness.",
@@ -1818,6 +1834,7 @@
     "semetey-1-2013:p0477:b003:l038": "Same Ayar/Akayar person; raw shortening retained; restored line-local order38–39.",
     "semetey-1-2013:p0477:b004:l003": "Printed Өчкөн in heard/seen account likely өткөн passed events; qualified contextual translation all that happened, raw unchanged.",
     "semetey-1-2013:p0477:b004:l009": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
+    "semetey-1-2013:p0477:b004:l019": "Whole verse unresolved: Колтук кагат, араң жан. Barely alive clear; колтук кагат motion/physical condition idiom not securely resolved. Completion-first first pass: Low-confidence approximate rendering for “Колтук кагат, араң жан.”; nearest corpus parallel was “Колтук ачкан арамдар.”.",
     "semetey-1-2013:p0477:b004:l027": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
     "semetey-1-2013:p0477:b004:l028": "Same-agent full source/English pair review: restored local source-line content/order or corrected English phrasing, no source mutation.",
     "semetey-1-2013:p0477:b004:l032": "Ker-toru belongs to Akayar; previous Kanykei/Ak-kula narrative not silently substituted.",
@@ -1849,8 +1866,7 @@
     "semetey-1-2013:p0479:b004:l014": "Printed Караңкүн as lament; primary Yudakhin каран күн day of misery/cursed life; joined assimilation qualified as463:4:21, no invented personal name.",
     "semetey-1-2013:p0479:b004:l023": "Kept local source order23–24: Manas then men claiming kinship.",
     "semetey-1-2013:p0479:b004:l025": "тел кулун fed foal, as470:4:23; source animal eating does not mean eating Semetey.",
-    "semetey-1-2013:p0479:b004:l030": "чык этпес poison leaving him unable to speak, epic descriptive not a named chemical.",
-    "semetey-1-2013:p0467:b003:l037": "Present widowed storyteller explicitly says she has told the tale and asks Semetey to listen before recounting past rescues. Bereaved applies to the present speaker, not the living Manas in the embedded narrative. Primary Yudakhin бет: кара бет sense 1 disgraced/publicly humiliated; sense 2 historically disgraced/unfortunate widow or bereaved bride, with an example also used by a wife reproached by her husband; sense 3 shameless/dishonest. The senses overlap: bereaved/unfortunate rendering does not erase the self-abasing association of shame. No complexion interpretation. Sources: sources/raw/yudakhin-2015.pdf; research/YUDAKHIN-LEXICAL-SOURCE.json."
+    "semetey-1-2013:p0479:b004:l030": "чык этпес poison leaving him unable to speak, epic descriptive not a named chemical."
   },
   "excluded_source_ids": [
     {
@@ -2072,298 +2088,9 @@
       "id": "semetey-1-2013:p0479:b005:l001",
       "kind": "heading",
       "reason": "Decorative printed page folio, not a narrative verse."
-    },
-    {
-      "id": "semetey-1-2013:p0462:b003:l015",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Карабчы кийген калмактын. Kalmyks wearing an item карабчы is legible, but the garment/equipment term is not securely identified; no generic clothing replacement."
-    },
-    {
-      "id": "semetey-1-2013:p0464:b004:l038",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Бу дүнүйө упакер. This world is clear, but упакер lacks secure lexical resolution; no silent substitution of faithless based merely on the formula."
-    },
-    {
-      "id": "semetey-1-2013:p0469:b003:l002",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Өлүп-кечип молдосу. Mortal effort/daring is clear, but молдосу and the grammatical agent in Akayar’s carrying Manas are not securely resolved; no deletion of the cleric term."
-    },
-    {
-      "id": "semetey-1-2013:p0471:b003:l039",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Кара кылчу огой жок. No one to rely on likely frame; огой lacks secure lexical/ethnonym identification; not silently corrected to Nogoi or translated as kin."
-    },
-    {
-      "id": "semetey-1-2013:p0472:b003:l023",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Калдай башым туу кылып. Making head/self a banner clear, калдай not securely interpreted in first-person Kanykei clause. Prior governor simile withdrawn rather than asserting ungrounded office analogy."
-    },
-    {
-      "id": "semetey-1-2013:p0475:b003:l030",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Кара-кырлап бакалап; ridge travel context clear, бакалап not securely identified despite glossary marker, not filled by generic travel."
-    },
-    {
-      "id": "semetey-1-2013:p0476:b003:l036",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Калың огой, көп кыргыз. Ogoi uncertain; no silent normalization Nogoi."
-    },
-    {
-      "id": "semetey-1-2013:p0477:b004:l019",
-      "kind": "unresolved_source",
-      "reason": "Whole verse unresolved: Колтук кагат, араң жан. Barely alive clear; колтук кагат motion/physical condition idiom not securely resolved."
     }
   ],
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0462:b003:l015"
-      ],
-      "raw": [
-        "Êàðàá÷û êèéãåí êàëìàêòûí"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0462:b003:l015",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 462,
-          "block": 3,
-          "line_in_block": 15,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 342.0597,
-            "xMax": 243.0612,
-            "yMax": 355.2477
-          },
-          "raw": "Êàðàá÷û êèéãåí êàëìàêòûí",
-          "text": "Карабчы кийген калмактын",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Карабчы кийген калмактын. Kalmyks wearing an item карабчы is legible, but the garment/equipment term is not securely identified; no generic clothing replacement.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0464:b004:l038"
-      ],
-      "raw": [
-        "Áó ä¿í¿éº óïàêåð*,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0464:b004:l038",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 464,
-          "block": 4,
-          "line_in_block": 38,
-          "bbox": {
-            "xMin": 307.44,
-            "yMin": 668.6997,
-            "xMax": 423.618,
-            "yMax": 681.8877
-          },
-          "raw": "Áó ä¿í¿éº óïàêåð*,",
-          "text": "Бу дүнүйө упакер*,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Бу дүнүйө упакер. This world is clear, but упакер lacks secure lexical resolution; no silent substitution of faithless based merely on the formula.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0469:b003:l002"
-      ],
-      "raw": [
-        "ªë¿ï-êå÷èï ìîëäîñó,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0469:b003:l002",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 469,
-          "block": 3,
-          "line_in_block": 2,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 157.2597,
-            "xMax": 204.0192,
-            "yMax": 170.4477
-          },
-          "raw": "ªë¿ï-êå÷èï ìîëäîñó,",
-          "text": "Өлүп-кечип молдосу,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Өлүп-кечип молдосу. Mortal effort/daring is clear, but молдосу and the grammatical agent in Akayar’s carrying Manas are not securely resolved; no deletion of the cleric term.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0471:b003:l039"
-      ],
-      "raw": [
-        "Êàðà êûë÷ó îãîé æîê."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0471:b003:l039",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 471,
-          "block": 3,
-          "line_in_block": 39,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 682.8597,
-            "xMax": 212.1276,
-            "yMax": 696.0477
-          },
-          "raw": "Êàðà êûë÷ó îãîé æîê.",
-          "text": "Кара кылчу огой жок.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Кара кылчу огой жок. No one to rely on likely frame; огой lacks secure lexical/ethnonym identification; not silently corrected to Nogoi or translated as kin.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0472:b003:l023"
-      ],
-      "raw": [
-        "Êàëäàé áàøûì òóó êûëûï,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0472:b003:l023",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 472,
-          "block": 3,
-          "line_in_block": 23,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 455.5797,
-            "xMax": 237.9216,
-            "yMax": 468.7677
-          },
-          "raw": "Êàëäàé áàøûì òóó êûëûï,",
-          "text": "Калдай башым туу кылып,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Калдай башым туу кылып. Making head/self a banner clear, калдай not securely interpreted in first-person Kanykei clause. Prior governor simile withdrawn rather than asserting ungrounded office analogy.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0475:b003:l030"
-      ],
-      "raw": [
-        "Êàðà-êûðëàï áàêàëàï*,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0475:b003:l030",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 475,
-          "block": 3,
-          "line_in_block": 30,
-          "bbox": {
-            "xMin": 79.44,
-            "yMin": 554.9397,
-            "xMax": 216.684,
-            "yMax": 568.1277
-          },
-          "raw": "Êàðà-êûðëàï áàêàëàï*,",
-          "text": "Кара-кырлап бакалап*,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Кара-кырлап бакалап; ridge travel context clear, бакалап not securely identified despite glossary marker, not filled by generic travel.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0476:b003:l036"
-      ],
-      "raw": [
-        "Êàëû¢ îãîé, êºï êûðãûç"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0476:b003:l036",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 476,
-          "block": 3,
-          "line_in_block": 36,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 640.1397,
-            "xMax": 225.8376,
-            "yMax": 653.3277
-          },
-          "raw": "Êàëû¢ îãîé, êºï êûðãûç",
-          "text": "Калың огой, көп кыргыз",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Калың огой, көп кыргыз. Ogoi uncertain; no silent normalization Nogoi.",
-      "status": "unresolved-source-not-English-translation"
-    },
-    {
-      "source_ids": [
-        "semetey-1-2013:p0477:b004:l019"
-      ],
-      "raw": [
-        "Êîëòóê êàãàò, àðà¢ æàí."
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0477:b004:l019",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 477,
-          "block": 4,
-          "line_in_block": 19,
-          "bbox": {
-            "xMin": 310.32,
-            "yMin": 398.6997,
-            "xMax": 456.4428,
-            "yMax": 411.8877
-          },
-          "raw": "Êîëòóê êàãàò, àðà¢ æàí.",
-          "text": "Колтук кагат, араң жан.",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Whole verse unresolved: Колтук кагат, араң жан. Barely alive clear; колтук кагат motion/physical condition idiom not securely resolved.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "headings": [],
   "prose_passages": [],
   "transcription_check": {
@@ -2401,13 +2128,14 @@
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
-    "english_verse_rows": 1540,
-    "english_words": 8587,
-    "unresolved_source_rows": 8,
+    "english_verse_rows": 1548,
+    "english_words": 8632,
+    "unresolved_source_rows": 0,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1548,
     "wrapped_verse_groups": 12,
     "nonverse_extraction_records": 44,
     "word_count_pattern": "[^\\W\\d_]+(?:[’'-][^\\W\\d_]+)*"
-  }
+  },
+  "source_joiners": {}
 }

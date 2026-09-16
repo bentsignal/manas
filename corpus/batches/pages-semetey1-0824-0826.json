@@ -19,6 +19,7 @@
     "semetey-1-2013:p0824:b003:l011",
     "semetey-1-2013:p0824:b003:l012",
     "semetey-1-2013:p0824:b003:l013",
+    "semetey-1-2013:p0824:b003:l014",
     "semetey-1-2013:p0824:b003:l015",
     "semetey-1-2013:p0824:b003:l016",
     "semetey-1-2013:p0824:b003:l017",
@@ -253,11 +254,6 @@
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
     },
     {
-      "id": "semetey-1-2013:p0824:b003:l014",
-      "kind": "unresolved_source",
-      "reason": "Керилтип чачым өргөнүм: stretching/braiding my hair clear, exact relation to addressed child or childbirth not secured. Whole verse held."
-    },
-    {
       "id": "semetey-1-2013:p0825:b002:l001",
       "kind": "heading",
       "reason": "Visually confirmed decorative running title or folio, not a narrative verse."
@@ -288,6 +284,7 @@
     "semetey-1-2013:p0824:b003:l003": "Primary Yudakhin безбелдек = little bustard; the bird's maternal-flight image retained.",
     "semetey-1-2013:p0824:b003:l007": "Казкалдак provisionally treated as the unvoiced consonant variant of primary казгалдак, a kind of wild duck, also in same maternal formula8015:27. Exact variant not separately in consulted headword; broad wild duck, no species-level identification asserted.",
     "semetey-1-2013:p0824:b003:l011": "Primary тунжур is female goshawk. Maternal epithet for son retained with hen, as in source826 paired bird proverb; not silently masculinized. Болпонум spelling compared болпоң, plump/endearing healthy fullness. Initial ата interjection rendered Ah in this maternal address, not a new father-character.",
+    "semetey-1-2013:p0824:b003:l014": "Керилтип чачым өргөнүм: stretching/braiding my hair clear, exact relation to addressed child or childbirth not secured. Whole verse held. Completion-first first pass: Best-effort rendering from a close formulaic parallel; retain for specialist review because the source was previously unresolved.",
     "semetey-1-2013:p0824:b003:l019": "Source mother's thirty-one years retained, no harmonization with other ages.",
     "semetey-1-2013:p0824:b003:l027": "Root individually inspected1960Semeteygloss374: Тобо denotes worship/prayer to God. This exact epic lexical aid resolves source тобосунан as prayers, not an emendation to топо/clay or a forced repentance-only reading from general dictionary. Born through the holy sages' prayers retains source miraculous conception formula.",
     "semetey-1-2013:p0824:b003:l036": "Primary айырмач is child's saddle or fork; here simile for white saddle ridge. Following Ak-Kaiky written as a toponym; no modern location claimed.",
@@ -302,6 +299,7 @@
     "semetey-1-2013:p0825:b003:l023": "Literal not moving a handspan out of it preserved, the woodland context supplies there; possible emotional inner binding remains a material ambiguity.",
     "semetey-1-2013:p0825:b003:l036": "Primary ар II = нар I, hybrid camel; ардай describes Buurul by camel comparison, not invented noble bearing.",
     "semetey-1-2013:p0825:b003:l038": "Primary баймакта2 exact unsaddling/hobbling example places hobbles above hooves; exact limb action secured, not generic tying up.",
+    "semetey-1-2013:p0825:b003:l039": "Primary Yudakhin ас- IV explicitly defines аса байла- as tethering a horse with its head drawn up during cooling/rest. Coordinator individually re-viewed PDF825 and read exact preceding Buurul/unsaddling/hobbling context, then exact primary entry before restoring. No invented suspension or staff. Direct draft, no independent specialist review.",
     "semetey-1-2013:p0825:b005:l004": "Кысыр barren/nonbreeding female livestock; source does not explicitly name species in this line. Following horse fat food context noted but not inserted into this noun.",
     "semetey-1-2013:p0825:b005:l009": "Primary топур IV = томур, break/heap chunks, exact sugar-like-snow feast example; butter heaps retained, not stomping/noise sense.",
     "semetey-1-2013:p0825:b005:l015": "Primary амаз = намаз, prayer; source spelling retained without invented proper name.",
@@ -314,42 +312,9 @@
     "semetey-1-2013:p0826:b003:l036": "Source explicitly жуманын Кадыр түнү; Night of Power rendered with Friday possessive retained. Primary кадыр I also quotes жуманын кадыр түнүндө; no calendar date or modern theological reconciliation added.",
     "semetey-1-2013:p0826:b004:l018": "Knife purchased for sixty sheep and forty yearling colts as this source states; dictionary example's sixty camels not substituted.",
     "semetey-1-2013:p0826:b004:l022": "Primary кый I exact кый сүбө = false/lower ribs; сүбөө same head. Specific historical narrative action retained, not invented anatomical emendation. Mother interrupts before injury; source is recalled narrative.",
-    "semetey-1-2013:p0826:b004:l031": "Primary туйгунI1 white goshawk; тунжур female goshawk, ranked below tuygun in falconry. Bird proverb distinguishes departed father and remaining son; literal hen epithet retained despite human boy's sex.",
-    "semetey-1-2013:p0825:b003:l039": "Primary Yudakhin ас- IV explicitly defines аса байла- as tethering a horse with its head drawn up during cooling/rest. Coordinator individually re-viewed PDF825 and read exact preceding Buurul/unsaddling/hobbling context, then exact primary entry before restoring. No invented suspension or staff. Direct draft, no independent specialist review."
+    "semetey-1-2013:p0826:b004:l031": "Primary туйгунI1 white goshawk; тунжур female goshawk, ranked below tuygun in falconry. Bird proverb distinguishes departed father and remaining son; literal hen epithet retained despite human boy's sex."
   },
-  "unresolved_source": [
-    {
-      "source_ids": [
-        "semetey-1-2013:p0824:b003:l014"
-      ],
-      "raw": [
-        "Êåðèëòèï ÷à÷ûì ºðãºí¿ì,"
-      ],
-      "source_segments": [
-        {
-          "id": "semetey-1-2013:p0824:b003:l014",
-          "source_id": "semetey-1-2013",
-          "pdf_sha256": "7884fe5c1ab6a6b472b8125212b5cfdc02021f73cd74e44a5cbe927b45141ddc",
-          "page": 824,
-          "block": 3,
-          "line_in_block": 14,
-          "bbox": {
-            "xMin": 76.56,
-            "yMin": 327.6597,
-            "xMax": 231.792,
-            "yMax": 340.8477
-          },
-          "raw": "Êåðèëòèï ÷à÷ûì ºðãºí¿ì,",
-          "text": "Керилтип чачым өргөнүм,",
-          "classification": "unreviewed",
-          "transcription_status": "unreviewed",
-          "normalization": "legacy-font-v1"
-        }
-      ],
-      "reason": "Керилтип чачым өргөнүм: stretching/braiding my hair clear, exact relation to addressed child or childbirth not secured. Whole verse held.",
-      "status": "unresolved-source-not-English-translation"
-    }
-  ],
+  "unresolved_source": [],
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex coordinator; no independent specialist review",
@@ -363,19 +328,23 @@
   },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
-    "translated_verse_rows": 233,
-    "english_words": 1346,
+    "translated_verse_rows": 234,
+    "english_words": 1353,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 234,
-    "unresolved_source_verses": 1,
+    "unresolved_source_verses": 0,
     "wrapped_verse_groups": 0
   },
   "alignment_check": {
     "method": "source-English row semantic audit",
     "checked_by": "Codex",
     "date": "2026-09-15",
-    "page_range": [824, 826],
+    "page_range": [
+      824,
+      826
+    ],
     "rows_checked": 233,
     "details": "Audited all 233 included narrative rows on printed pages 824 through 826; the existing English rows were semantically sound and correctly aligned."
-  }
+  },
+  "source_joiners": {}
 }

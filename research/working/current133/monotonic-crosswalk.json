@@ -1,0 +1,39 @@
+{
+  "inventory": 133,
+  "old_inventory": 954,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/133.pdf",
+    "sha256": "c276b5bb9f9e4a45ceaf79726e4eee0b0cf062b1c30407cda33740dce1840b4d",
+    "pdf_pages": 103,
+    "catalogue_pages": 101,
+    "catalogue_narrative_count": 3500,
+    "known_duplicate_scan": "the opening photographed leaf is present twice in different crops"
+  },
+  "first_secure_released_boundary": {
+    "manuscript_folio": 35,
+    "id": "seytek-2012:p0025:b003:l001",
+    "ordinal": 295924,
+    "text": "А ны мындай таштайлы,",
+    "significance": "This is both the first released seytek-2012 line and an exact ordered manuscript folio-35 anchor."
+  },
+  "released_envelope_through_next_secure_inventory_boundary": {
+    "first_ordinal": 295924,
+    "last_ordinal": 306258,
+    "last_id": "seytek-2012:p0161:b002:l040",
+    "last_text": "Чындаган зор бел экен,",
+    "next_inventory_first_ordinal": 306259,
+    "inclusive_lines": 10335,
+    "english_whitespace_words": 54873,
+    "english_regex_tokens": 54773,
+    "scope": "combined editorial envelope for the released remainder of current 133 plus current 134; no defensible internal 133/134 division is established"
+  },
+  "completion_result": {
+    "catalogue_lines": 3500,
+    "standalone_released_span_lines": null,
+    "standalone_count_discrepancy": null,
+    "secure_unique_untranslated_lines_minimum": 1,
+    "secure_unique_untranslated_lines_exact": null,
+    "secure_untranslated_physical_segment": "manuscript folios 1-34",
+    "interpretation": "The released Seytek witness begins at the exact manuscript folio-35 anchor. Therefore the preceding folios 1-34 are securely outside that witness. Their exact narrative-line count requires diplomatic transcription and cannot be inferred from the 3,500-line whole-item total."
+  }
+}

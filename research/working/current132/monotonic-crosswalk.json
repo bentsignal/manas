@@ -1,0 +1,47 @@
+{
+  "inventory": 132,
+  "old_inventory": 953,
+  "episode": "Semetey: continuation of Semetey's death",
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/132.pdf",
+    "sha256": "ac6083d95fc662b730e76c12c8530f8a51cd6b2d50f3065c90402a628113e7fb",
+    "pdf_pages": 209,
+    "narrative_pdf_pages": [3, 206],
+    "narrative_image_count": 204,
+    "title_leaf_reported_pages": 203,
+    "catalogue_narrative_count": 7714,
+    "title_leaf_count": 7714,
+    "closing_leaf_count": 7714,
+    "closing_leaf_pdf_page": 208
+  },
+  "released_witness_envelope": {
+    "source_id": "semetey-2-2013",
+    "first_secure_opening_folio_anchor_id": "semetey-2-2013:p1322:b003:l016",
+    "first_ordinal": 288461,
+    "first_anchor": "Кечээ кабарыңда бар бекен,",
+    "opening_support": [
+      {"ordinal": 288469, "text": "Айып болду ак тайган"},
+      {"ordinal": 288471, "text": "Кайып болду ак тайган."}
+    ],
+    "last_id": "semetey-2-2013:p1418:b004:l035",
+    "last_ordinal": 295923,
+    "last_text": "Мөрөйдү алган Карадөө.",
+    "inclusive_lines": 7463,
+    "english_whitespace_words": 42321,
+    "english_regex_tokens": 42393,
+    "status": "outer editorial envelope; opening is earliest secure first-folio sequence and closing is the exact manuscript/printed-witness terminal"
+  },
+  "source_transition": {
+    "last_semetey_ordinal": 295923,
+    "first_seytek_ordinal": 295924,
+    "first_seytek_id": "seytek-2012:p0025:b003:l001",
+    "interpretation": "The current-132 terminal coincides with the end of semetey-2-2013; the release switches witnesses at the next ordinal."
+  },
+  "completion_result": {
+    "catalogue_lines": 7714,
+    "released_outer_envelope_lines": 7463,
+    "catalogue_minus_outer_envelope": 251,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The 251-position shortfall is unresolved lineation or variant evidence, not a count of demonstrated omissions. Both physical ends are directly represented, and no specific untranslated line or segment is securely identified."
+  }
+}

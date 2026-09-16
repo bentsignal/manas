@@ -106,5 +106,28 @@
       ],
       "assessed_at": "2026-09-15"
     }
+  },
+  {
+    "id": "sayakbay-ms-current146",
+    "catalogue_url": "https://manuscript.bizdin.kg/manuscripts/146",
+    "download_url": "https://manuscript.bizdin.kg/static/media/pdf/web-146-Seitek-Saiakba-Karalaev.pdf",
+    "path": "sources/raw/manuscript-full-91-146/146.pdf",
+    "bytes": 131467767,
+    "sha256": "f13de4f4bc48f2da4eb502e29e9b2b340648255ef7769b069e86d24c617319a4",
+    "retrieved_at": "2026-09-15T00:00:00-04:00",
+    "completeness": "complete-manuscript-scan-transcription-in-progress",
+    "rights": "traditional oral verse manuscript; publication basis documented; scan/reproduction rights unverified",
+    "edition": "Sayakbay Karalaev manuscript, current inventory 146 / old inventory 967; photographed folios through 631.",
+    "coverage": "Complete 252-image scan; line-level transcription and overlap reconciliation in progress.",
+    "publication_basis": {
+      "type": "traditional_folklore",
+      "scope": "Underlying traditional epic verse on individually inspected manuscript pages. Excludes catalogue metadata, folios, binding, layout, and images. Not a clearance of the scan reproduction.",
+      "rationale": "Manas is traditional oral folklore; Article 8 excludes works of folk creativity from copyright. Application to the underlying verse is an editorial assessment, not legal advice or permission from the archive.",
+      "evidence": [
+        "https://www.wipo.int/wipolex/en/legislation/details/22616",
+        "https://zakon.kg/law/zakon-kr-ob-avtorskom-prave-i-smezhnyh-pravah/"
+      ],
+      "assessed_at": "2026-09-15"
+    }
   }
 ]

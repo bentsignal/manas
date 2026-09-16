@@ -1,15 +1,15 @@
 {
-  "version": "53b1eb50174156b7",
+  "version": "0f1f215c74297869",
   "target": 500553,
-  "released": 388432,
-  "englishWords": 2044578,
+  "released": 388533,
+  "englishWords": 2045206,
   "reviewed": 0,
   "complete": false,
   "perPart": {
     "manas": 78689,
     "semetey": 217234,
     "seytek": 89355,
-    "continuations": 3154
+    "continuations": 3255
   },
   "sourceGaps": 7,
   "chunkSize": 256,
@@ -1531,7 +1531,7 @@
     "e0b95a2481693532238f0fd990faa06220577ec147e547ab2f690ba3ae3fece0",
     "bc86a63eae3eec43cdccc99d549a75ba9e1b02a48bb16bf4711d46d876f87151",
     "491a431b2442623b0468057fdfa9f1c4295f98430f648040bec08a9e58b94460",
-    "1e0faeebf119513f18d9152fdd9327e13f1c65de20ac141950937ed97d8fe1ee"
+    "12ed9ef6fce858e4790b4a80e835cb484190b58fa018b34e0b6636aaead948ae"
   ],
   "chapters": [
     {

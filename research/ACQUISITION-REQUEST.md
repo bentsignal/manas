@@ -2,6 +2,8 @@
 
 Prepared 15 September 2026. **Not sent.** This packet requests the source material needed to continue the line-accounted English translation. It does not claim that the translation or its 500,553-line source reconciliation is complete.
 
+> **Acquisition update, 15 September 2026:** the hidden lowercase `web-` file convention subsequently yielded complete public scans for 54 of current inventories 91–146, including both continuation units 145 and 146. Only current 113 / old 934 and current 114 / old 935 remain unavailable in that range. The request text below is retained as a routing and reconciliation packet, but any message sent now must narrow the scan request to those two units and emphasize the still-needed official counting protocol and notebook-to-edition crosswalk. See `SAYAKBAY-FULL-SCAN-URL-AUDIT-2026-09-15.md`.
+
 ## Intended recipients
 
 - Ch. Aitmatov Institute of Language and Literature, National Academy of Sciences of the Kyrgyz Republic: Manuscript Fund and Manas/Folklore Department.

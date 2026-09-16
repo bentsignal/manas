@@ -1,7 +1,7 @@
 {
   "format": "manas-release-shards-v1",
-  "rows": 388849,
-  "sha256": "0f7faf5f4c331829ef94fbea25fc6f8d14f87b897b476ece50f033e0826fe2d1",
+  "rows": 388946,
+  "sha256": "41f8670a8a3b596ea30a52550bb98030f966b14936305eb5953f8d73dace38a9",
   "chunks": [
     {
       "file": "8a40285986e0c5d5dcbc669fac65f86484e8d1144bd03575204a0202efa2a539.jsonl",
@@ -1556,8 +1556,8 @@
       "rows": 1000
     },
     {
-      "file": "282f4fc699c4f468d5c2018efea1f0c3de77a8a3e201e5d02dc847348204206a.jsonl",
-      "rows": 849
+      "file": "91de252d6f1edb22c47b9e07a9ee9237559c1cd8ab33a111ce198d5a2902c4d0.jsonl",
+      "rows": 946
     }
   ]
 }

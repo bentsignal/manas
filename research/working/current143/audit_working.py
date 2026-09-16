@@ -44,14 +44,18 @@ def main() -> None:
     assert not duplicates, f"duplicate row ids: {duplicates[:5]}"
 
     counterpart_ids = []
+    monotonic_counterpart_ids = []
     for row in rows:
         match = COUNTERPART.search(row.get("uncertainty_note", ""))
         if match:
             assert match.group(1) in printed_ids, f"unknown counterpart in {row['id']}"
             counterpart_ids.append(match.group(1))
-    counterpart_positions = [printed_position[value] for value in counterpart_ids]
+            # PDF 22 is an out-of-order duplicate of folio 2621 / PDF 161.
+            if row["page"] != 22:
+                monotonic_counterpart_ids.append(match.group(1))
+    counterpart_positions = [printed_position[value] for value in monotonic_counterpart_ids]
     assert counterpart_positions == sorted(counterpart_positions)
-    assert len(counterpart_ids) == len(set(counterpart_ids))
+    assert len(monotonic_counterpart_ids) == len(set(monotonic_counterpart_ids))
 
     completed = sorted(pages)
     missing = [page for page in range(3, 191) if page not in pages]
@@ -65,6 +69,7 @@ def main() -> None:
         "rows_with_recorded_printed_counterparts": len(counterpart_ids),
         "distinct_recorded_printed_counterparts": len(set(counterpart_ids)),
         "recorded_counterparts_strictly_monotonic": True,
+        "monotonicity_exception_pages": [22],
     }
     print(json.dumps(report, ensure_ascii=False))
 

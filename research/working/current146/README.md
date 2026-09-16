@@ -1,11 +1,11 @@
-# Current inventory 146: reviewed PDF pages 5–69
+# Current inventory 146: reviewed PDF pages 5–72
 
 Source: `sources/raw/manuscript-full-91-146/146.pdf`  
 SHA-256: `f13de4f4bc48f2da4eb502e29e9b2b340648255ef7769b069e86d24c617319a4`
 
-All sixty-five PDF pages were rendered at high resolution and inspected as page images. They are manuscript folios 388–452 and all contain verse; there are no cover, blank, or wholly non-verse pages in this range. Folio numbers are page furniture and are recorded on each verse row rather than emitted as verse.
+All sixty-eight PDF pages were rendered at high resolution and inspected as page images. They are manuscript folios 388–455 and all contain verse; there are no cover, blank, or wholly non-verse pages in this range. Folio numbers are page furniture and are recorded on each verse row rather than emitted as verse.
 
-The JSONL preserves one row for each verse baseline counted in reading order. This is deliberately a completion-first pass: pages 5–69 have received line-by-line review and translation. The reviewed counts corrected page 5 from 37 to 36 baselines and page 6 from 39 to 33. Uncertain readings are preserved with explicit notes instead of being silently normalized or omitted. Pages 27, 39, 42, and 60 received independent Astra-low audits after cross-witness evidence exposed substantial errors in the initial Sol-low passes.
+The JSONL preserves one row for each verse baseline counted in reading order. This is deliberately a completion-first pass: pages 5–72 have received line-by-line review and translation. The reviewed counts corrected page 5 from 37 to 36 baselines and page 6 from 39 to 33. Uncertain readings are preserved with explicit notes instead of being silently normalized or omitted. Pages 27, 39, 42, and 60 received independent Astra-low audits after cross-witness evidence exposed substantial errors in the initial Sol-low passes.
 
 | PDF page | folio | visible verse rows | page disposition |
 |---:|---:|---:|---|
@@ -74,6 +74,9 @@ The JSONL preserves one row for each verse baseline counted in reading order. Th
 | 67 | 450 | 35 | verse; reviewed; 23 secure printed counterparts excluded from duplicate release counting |
 | 68 | 451 | 34 | verse; reviewed; 11 secure printed counterparts excluded from duplicate release counting |
 | 69 | 452 | 36 | verse; reviewed; 14 secure printed counterparts excluded from duplicate release counting |
-| **Total** | | **2,198** | |
+| 70 | 453 | 36 | verse; reviewed |
+| 71 | 454 | 35 | verse; reviewed; 16 secure printed counterparts excluded from duplicate release counting |
+| 72 | 455 | 35 | verse; reviewed; 32 secure printed counterparts excluded from duplicate release counting |
+| **Total** | | **2,304** | |
 
-Rendered working images are kept outside the repository under `/tmp`. Reviewed verse rows through page 69 are included in the draft release corpus, except manuscript counterparts already represented by released printed witnesses.
+Rendered working images are kept outside the repository under `/tmp`. Reviewed verse rows through page 72 are included in the draft release corpus, except manuscript counterparts already represented by released printed witnesses.

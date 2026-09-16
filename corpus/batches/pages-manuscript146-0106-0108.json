@@ -1,0 +1,339 @@
+{
+  "part": "continuations",
+  "status": "draft",
+  "extraction": "sources/extracted/sayakbay-ms-current146.lines.jsonl",
+  "source_url": "https://manuscript.bizdin.kg/static/media/pdf/web-146-Seitek-Saiakba-Karalaev.pdf",
+  "english": "corpus/batches/pages-manuscript146-0106-0108.en.txt",
+  "source_ids": [
+    "sayakbay-ms-current146:pdf106:l001",
+    "sayakbay-ms-current146:pdf106:l002",
+    "sayakbay-ms-current146:pdf106:l003",
+    "sayakbay-ms-current146:pdf106:l004",
+    "sayakbay-ms-current146:pdf106:l005",
+    "sayakbay-ms-current146:pdf106:l006",
+    "sayakbay-ms-current146:pdf106:l007",
+    "sayakbay-ms-current146:pdf106:l008",
+    "sayakbay-ms-current146:pdf106:l009",
+    "sayakbay-ms-current146:pdf106:l010",
+    "sayakbay-ms-current146:pdf106:l011",
+    "sayakbay-ms-current146:pdf106:l012",
+    "sayakbay-ms-current146:pdf106:l013",
+    "sayakbay-ms-current146:pdf106:l014",
+    "sayakbay-ms-current146:pdf106:l015",
+    "sayakbay-ms-current146:pdf106:l016",
+    "sayakbay-ms-current146:pdf106:l017",
+    "sayakbay-ms-current146:pdf106:l018",
+    "sayakbay-ms-current146:pdf106:l019",
+    "sayakbay-ms-current146:pdf106:l020",
+    "sayakbay-ms-current146:pdf106:l021",
+    "sayakbay-ms-current146:pdf106:l022",
+    "sayakbay-ms-current146:pdf106:l023",
+    "sayakbay-ms-current146:pdf106:l024",
+    "sayakbay-ms-current146:pdf106:l025",
+    "sayakbay-ms-current146:pdf106:l026",
+    "sayakbay-ms-current146:pdf106:l027",
+    "sayakbay-ms-current146:pdf106:l028",
+    "sayakbay-ms-current146:pdf106:l029",
+    "sayakbay-ms-current146:pdf106:l030",
+    "sayakbay-ms-current146:pdf106:l031",
+    "sayakbay-ms-current146:pdf106:l032",
+    "sayakbay-ms-current146:pdf106:l033",
+    "sayakbay-ms-current146:pdf106:l034",
+    "sayakbay-ms-current146:pdf106:l035",
+    "sayakbay-ms-current146:pdf106:l036",
+    "sayakbay-ms-current146:pdf106:l037",
+    "sayakbay-ms-current146:pdf107:l001",
+    "sayakbay-ms-current146:pdf107:l002",
+    "sayakbay-ms-current146:pdf107:l003",
+    "sayakbay-ms-current146:pdf107:l004",
+    "sayakbay-ms-current146:pdf107:l005",
+    "sayakbay-ms-current146:pdf107:l006",
+    "sayakbay-ms-current146:pdf107:l016",
+    "sayakbay-ms-current146:pdf107:l017",
+    "sayakbay-ms-current146:pdf107:l018",
+    "sayakbay-ms-current146:pdf107:l019",
+    "sayakbay-ms-current146:pdf107:l020",
+    "sayakbay-ms-current146:pdf107:l021",
+    "sayakbay-ms-current146:pdf107:l031",
+    "sayakbay-ms-current146:pdf107:l032",
+    "sayakbay-ms-current146:pdf107:l033",
+    "sayakbay-ms-current146:pdf107:l034",
+    "sayakbay-ms-current146:pdf107:l035",
+    "sayakbay-ms-current146:pdf107:l036",
+    "sayakbay-ms-current146:pdf107:l037",
+    "sayakbay-ms-current146:pdf108:l001",
+    "sayakbay-ms-current146:pdf108:l002",
+    "sayakbay-ms-current146:pdf108:l003",
+    "sayakbay-ms-current146:pdf108:l004",
+    "sayakbay-ms-current146:pdf108:l005",
+    "sayakbay-ms-current146:pdf108:l006",
+    "sayakbay-ms-current146:pdf108:l007",
+    "sayakbay-ms-current146:pdf108:l015",
+    "sayakbay-ms-current146:pdf108:l016",
+    "sayakbay-ms-current146:pdf108:l017",
+    "sayakbay-ms-current146:pdf108:l018",
+    "sayakbay-ms-current146:pdf108:l019",
+    "sayakbay-ms-current146:pdf108:l020",
+    "sayakbay-ms-current146:pdf108:l021",
+    "sayakbay-ms-current146:pdf108:l022",
+    "sayakbay-ms-current146:pdf108:l023",
+    "sayakbay-ms-current146:pdf108:l024",
+    "sayakbay-ms-current146:pdf108:l025",
+    "sayakbay-ms-current146:pdf108:l026",
+    "sayakbay-ms-current146:pdf108:l027",
+    "sayakbay-ms-current146:pdf108:l028",
+    "sayakbay-ms-current146:pdf108:l029",
+    "sayakbay-ms-current146:pdf108:l030",
+    "sayakbay-ms-current146:pdf108:l031",
+    "sayakbay-ms-current146:pdf108:l032",
+    "sayakbay-ms-current146:pdf108:l033",
+    "sayakbay-ms-current146:pdf108:l034"
+  ],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "sayakbay-ms-current146:pdf107:l007",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l010; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l010"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l008",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l011; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l011"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l009",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l012; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l012"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l010",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l013; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l013"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l011",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l014; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l014"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l012",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l015; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l015"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l013",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l016; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l016"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l014",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l017; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l017"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l015",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l018; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l018"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l022",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l019; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l019"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l023",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l020; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l020"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l024",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l021; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l021"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l025",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l022; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l022"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l026",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l023; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l023"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l027",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l024; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l024"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l028",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l025; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l025"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l029",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l026; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l026"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf107:l030",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l027; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l027"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l008",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l028; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l028"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l009",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l029; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l029"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l010",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l030; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l030"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l011",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0333:b006:l031; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0333:b006:l031"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l012",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0334:b001:l001; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0334:b001:l001"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l013",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0334:b001:l002; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0334:b001:l002"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l014",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0334:b001:l003; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0334:b001:l003"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l035",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0334:b001:l004; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0334:b001:l004"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf108:l036",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0334:b001:l005; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0334:b001:l005"
+    }
+  ],
+  "notes": {
+    "sayakbay-ms-current146:pdf106:l001": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l002": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l003": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l004": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l005": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l006": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l007": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l008": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l009": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l010": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l011": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l012": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l013": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l014": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l015": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l016": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l017": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l018": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l019": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l020": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l021": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l022": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l023": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l024": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l025": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l026": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l027": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l028": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l029": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l030": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l031": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l032": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l033": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l034": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l035": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l036": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf106:l037": "Provisional direct reading of difficult cursive; printed witness did not provide a secure sustained ordered counterpart.",
+    "sayakbay-ms-current146:pdf107:l001": "The final word is provisionally жабуусун; the compressed middle strokes could conceal a different possessive ending. The object continues the preceding page.",
+    "sayakbay-ms-current146:pdf107:l002": "The initial consonant of Паана and the final ң of бараның are not fully distinct; retain this reading rather than regularizing to баана.",
+    "sayakbay-ms-current146:pdf107:l004": "Алда is the apparent written form of the divine name; not silently expanded to Алла. The connected лд strokes remain uncertain.",
+    "sayakbay-ms-current146:pdf107:l005": "The ending of карааның may instead be караанын; the second-person possessive and hence the English pronoun are provisional.",
+    "sayakbay-ms-current146:pdf107:l006": "The last word is difficult: provisionally кырааның, an epithet for champions; кыраалын is another possible letter sequence. The English renders the provisional epithet.",
+    "sayakbay-ms-current146:pdf107:l017": "The final word appears авам, including manuscript в; авасы is possible from the ending. The first-person shift is retained provisionally. A pencil underline and small cross do not erase the verse.",
+    "sayakbay-ms-current146:pdf107:l019": "The adjective before кылыч is provisionally Кыяндуу; its joined middle letters are difficult, possibly Кыяптуу. Formidable is a tentative contextual rendering.",
+    "sayakbay-ms-current146:pdf107:l021": "The first word looks Заар; каар would be idiomatic but is not substituted for the visible initial. The English takes заар as fierceness or venom.",
+    "sayakbay-ms-current146:pdf107:l031": "The adjective looks оңкон, but that positive meaning conflicts with the following ominous lines. A negative form may have been intended; no invisible negative syllable is supplied. English follows the provisional visible reading.",
+    "sayakbay-ms-current146:pdf107:l034": "The final word appears авам, matching l017, but the possessive ending and the resulting change of voice are uncertain. Manuscript в is retained rather than modernized to б.",
+    "sayakbay-ms-current146:pdf107:l035": "The word дүйнөгө has compressed medial strokes; the reading and its interpretation as the afterlife are provisional. The subject is left implicit as in the manuscript.",
+    "sayakbay-ms-current146:pdf108:l002": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l004": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l005": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l007": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l015": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l016": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l017": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l018": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l019": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l020": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l021": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l022": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l024": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l025": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l027": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l028": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l030": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l031": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l032": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division.",
+    "sayakbay-ms-current146:pdf108:l034": "Provisional manuscript reading: ambiguous cursive letterforms, archaic vocabulary, or uncertain word division."
+  },
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-16",
+    "pdf_pages": [
+      106,
+      107,
+      108
+    ],
+    "details": "Rendered manuscript inventory 146 PDF pages 106-108 at high resolution and counted 37, 37, 36 baselines. Exact ordered witness audits mapped 27 rows to already released printed-continuation counterparts; those physical rows remain in the crosswalk but are excluded from duplicate release counting."
+  },
+  "after_id": "sayakbay-ms-current146:pdf105:l037"
+}

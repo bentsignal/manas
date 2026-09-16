@@ -6,8 +6,8 @@ SHA = "f13de4f4bc48f2da4eb502e29e9b2b340648255ef7769b069e86d24c617319a4"
 
 # Counts made from the 300-dpi render, page by page. Faint and overwritten strokes
 # were counted as part of a line when they occupy the same baseline.
-COUNTS = {5: 36, 6: 33, 7: 32, 8: 32, 9: 32, 10: 33, 11: 32, 12: 31,
-          13: 34, 14: 29, 15: 29, 16: 31, 17: 31, 18: 38, 19: 36, 20: 34}
+COUNTS = {5: 36, 6: 33, 7: 32, 8: 32, 9: 32, 10: 33, 11: 32, 12: 32,
+          13: 31, 14: 29, 15: 29, 16: 31, 17: 31, 18: 38, 19: 36, 20: 34}
 
 # Readable anchors are retained; bracketed ellipses mean that the remainder of
 # that same physical line was not deciphered. Lines without a safe reading are

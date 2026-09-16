@@ -1,0 +1,177 @@
+{
+  "manuscript": "research/working/current146/page-011.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 32,
+  "lines_with_candidates": 1,
+  "exact_match_lines": 0,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l001",
+      "manuscript_text": "Кутпа жагы Кор дайра,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l002",
+      "manuscript_text": "Лоб дайраны жердеген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l003",
+      "manuscript_text": "Урушу койчубу эл деген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l004",
+      "manuscript_text": "Эч жан назар салбаган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l005",
+      "manuscript_text": "Эч бир жандар барбаган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l006",
+      "manuscript_text": "Ошо жерди жердеген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l007",
+      "manuscript_text": "Жерин жандар көрбөгөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l008",
+      "manuscript_text": "Торудай тоодон жыгылган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l009",
+      "manuscript_text": "Күндө жүргөн кишинин,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l010",
+      "manuscript_text": "Күн ырысы кыйылган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l011",
+      "manuscript_text": "Жолон адам барбаган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l012",
+      "manuscript_text": "Жолон аман калбаган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l013",
+      "manuscript_text": "Оруну Кенен жери бек,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l014",
+      "manuscript_text": "Боорунан жомок мындай деп:",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l015",
+      "manuscript_text": "Киши сындуу жоо киши,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l016",
+      "manuscript_text": "Айда аркасы тоо киши,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l017",
+      "manuscript_text": "Кайдан тоңоз жердеген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l018",
+      "manuscript_text": "Каптан барган жалгыз жан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l019",
+      "manuscript_text": "Өлбөй тирүү келбеген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l020",
+      "manuscript_text": "Жараткандан адам күчүүсү,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l021",
+      "manuscript_text": "Тирүү адам барбаган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l022",
+      "manuscript_text": "Жойгут каны Сурамбек,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l023",
+      "manuscript_text": "Аны чаап бир тартты,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l024",
+      "manuscript_text": "Бет каратып бир кайтты,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l025",
+      "manuscript_text": "Аман алып тооздон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l026",
+      "manuscript_text": "Берендиги билинген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l027",
+      "manuscript_text": "Көкжал Кенен төрөдөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l028",
+      "manuscript_text": "Кадимкидей камынган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l029",
+      "manuscript_text": "Каймана аты табылган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l030",
+      "manuscript_text": "Кере кабарында бир бекен,",
+      "matches": [
+        {
+          "index": 1079,
+          "id": "seytek-1991-continuation:p0326:b001:l017",
+          "text": "Кабарында бар бекен,",
+          "score": 0.8421
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l031",
+      "manuscript_text": "Тоого минип найза алган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf011:l032",
+      "manuscript_text": "Үйдө чокмор байланган,",
+      "matches": []
+    }
+  ]
+}

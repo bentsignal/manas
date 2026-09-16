@@ -1,0 +1,170 @@
+{
+  "manuscript": "research/working/current146/page-012.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 32,
+  "lines_with_candidates": 0,
+  "exact_match_lines": 0,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l001",
+      "manuscript_text": "Күнчүк жүргөн бир чапкан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l002",
+      "manuscript_text": "Бет каратып бир кайткан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l003",
+      "manuscript_text": "Күнчүктү чаап үйдө алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l004",
+      "manuscript_text": "Көрдү бузуп ордо алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l005",
+      "manuscript_text": "Жүк артууга миң алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l006",
+      "manuscript_text": "Алга жүрүүгө дүйнө алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l007",
+      "manuscript_text": "Ойлок өз бото көз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l008",
+      "manuscript_text": "Ойдогон кара көз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l009",
+      "manuscript_text": "Кырмызы көйнөк айтабы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l010",
+      "manuscript_text": "Кыстандарын үздү алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l011",
+      "manuscript_text": "Бейпай салып бүркүргөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l012",
+      "manuscript_text": "Бет каратып бир кайткан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l013",
+      "manuscript_text": "Шердин шер жени билинип,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l014",
+      "manuscript_text": "Басып душман калалбай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l015",
+      "manuscript_text": "Казына берер түк калбай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l016",
+      "manuscript_text": "Муну көргөндөр жандан түшүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l017",
+      "manuscript_text": "Бу кара жолтой Кенен деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l018",
+      "manuscript_text": "Бу канкор шердин уулу деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l019",
+      "manuscript_text": "Бу укумунан түңүлүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l020",
+      "manuscript_text": "Бу ураатынан жараатты,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l021",
+      "manuscript_text": "Бу маңдайынан кыйкышты,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l022",
+      "manuscript_text": "Бу байкасаң Кенен укмуштуу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l023",
+      "manuscript_text": "Бу кез болуп адам барбайт деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l024",
+      "manuscript_text": "Буга кез болгон туруп калбайт деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l025",
+      "manuscript_text": "Муну салышкан кайтан жыгылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l026",
+      "manuscript_text": "Боо бербешин чама келбейт деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l027",
+      "manuscript_text": "Мунун оң жагында орус журту,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l028",
+      "manuscript_text": "Бул ойлонгон экен Кенен деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l029",
+      "manuscript_text": "Мунун каруусу Кытай заары күч,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l030",
+      "manuscript_text": "Буга кармашсаң жаның белен деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l031",
+      "manuscript_text": "Ойлогон экен орус журт,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf012:l032",
+      "manuscript_text": "Маңдайында бараң бар,",
+      "matches": []
+    }
+  ]
+}

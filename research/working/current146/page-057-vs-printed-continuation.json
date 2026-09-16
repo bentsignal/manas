@@ -1,0 +1,218 @@
+{
+  "manuscript": "research/working/current146/page-057.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 36,
+  "lines_with_candidates": 4,
+  "exact_match_lines": 2,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l001",
+      "manuscript_text": "Ошол улуу дейт кыргыздан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l002",
+      "manuscript_text": "Ачу айт чапса ураба,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l003",
+      "manuscript_text": "Туулду дейт кыргыздан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l004",
+      "manuscript_text": "Топтой сайса бору алган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l005",
+      "manuscript_text": "Түнкүсү бузуп жол салган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l006",
+      "manuscript_text": "Турбай журтка кол салган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l007",
+      "manuscript_text": "Бир түшүнүк дейт кыргыздан.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l008",
+      "manuscript_text": "Бет алып балбан барыптыр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l009",
+      "manuscript_text": "Беттешкенден далай жан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l010",
+      "manuscript_text": "Кайрылгыс жайын көрүптүр.",
+      "matches": [
+        {
+          "index": 2875,
+          "id": "seytek-1991-continuation:p0345:b002:l027",
+          "text": "Кайрылгыз жайын көрбөсүн,",
+          "score": 0.7727
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l011",
+      "manuscript_text": "Качанга калбай канча жан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l012",
+      "manuscript_text": "Каза болуп олтур.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l013",
+      "manuscript_text": "Караса мушкул ушундай.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l014",
+      "manuscript_text": "Ошентип турган кыргыздан",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l015",
+      "manuscript_text": "Чамасы чарчап билгиле,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l016",
+      "manuscript_text": "Чаркын чаптап жүргүздү,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l017",
+      "manuscript_text": "Саркалуунун айлына,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l018",
+      "manuscript_text": "Чабын чаптап келгиле,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l019",
+      "manuscript_text": "Бузулуп Бээжин улуу журт,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l020",
+      "manuscript_text": "Койчунун көрсөң тонун көр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l021",
+      "manuscript_text": "Баатырлары башкача,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l022",
+      "manuscript_text": "Бардык эр оңолгон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l023",
+      "manuscript_text": "Баш билбеген жаманды,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l024",
+      "manuscript_text": "Кайра келип жайына,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l025",
+      "manuscript_text": "Аттанып эли жоолошкон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l026",
+      "manuscript_text": "Бээжиликтер Чын Теңир,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l027",
+      "manuscript_text": "Абийри болот, заары күч,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l028",
+      "manuscript_text": "Ал аскер тоодой калың бар.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l029",
+      "manuscript_text": "Оолукмасы кармаса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l030",
+      "manuscript_text": "Он сегиз миң ааламды",
+      "matches": [
+        {
+          "index": 1763,
+          "id": "seytek-1991-continuation:p0334:b001:l008",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l031",
+      "manuscript_text": "Ойрон кылчу алы бар.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l032",
+      "manuscript_text": "Журтка болот короочун,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l033",
+      "manuscript_text": "Каардуу жинин кармаса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l034",
+      "manuscript_text": "Он сегиз миң ааламды",
+      "matches": [
+        {
+          "index": 1763,
+          "id": "seytek-1991-continuation:p0334:b001:l008",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l035",
+      "manuscript_text": "Ажыдаардай оп тартып,",
+      "matches": [
+        {
+          "index": 2130,
+          "id": "seytek-1991-continuation:p0337:b003:l030",
+          "text": "Ажыдаардай айкырып,",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf057:l036",
+      "manuscript_text": "Айбан дүйнө жоолошуп.",
+      "matches": []
+    }
+  ]
+}

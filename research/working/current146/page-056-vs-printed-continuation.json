@@ -1,0 +1,206 @@
+{
+  "manuscript": "research/working/current146/page-056.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 35,
+  "lines_with_candidates": 3,
+  "exact_match_lines": 1,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l001",
+      "manuscript_text": "Көзүн деген дары тийип,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l002",
+      "manuscript_text": "Какандын журту олтуруп.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l003",
+      "manuscript_text": "Циншинин жазаа мүшкүлү,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l004",
+      "manuscript_text": "Карууга колго бериптир.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l005",
+      "manuscript_text": "Каары катуу болуптур,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l006",
+      "manuscript_text": "Бул кыргыздын кылганы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l007",
+      "manuscript_text": "Кырк уруу кытай Какандын,",
+      "matches": [
+        {
+          "index": 487,
+          "id": "seytek-1991-continuation:p0320:b001:l020",
+          "text": "Кырда кытай каканчын",
+          "score": 0.7692
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l008",
+      "manuscript_text": "Бөрөкмүн Бээжиндин,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l009",
+      "manuscript_text": "Кырк уруу кытай көп журттун,",
+      "matches": [
+        {
+          "index": 1048,
+          "id": "seytek-1991-continuation:p0325:b005:l028",
+          "text": "Кырк уруу кытай түмөн журт",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l010",
+      "manuscript_text": "Бийлигине тийишкен.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l011",
+      "manuscript_text": "Кудайры кылмыштууларга,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l012",
+      "manuscript_text": "Унутпаган иш болгон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l013",
+      "manuscript_text": "Урушкан деген колдойлор,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l014",
+      "manuscript_text": "Сан түмөн түз болгон.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l015",
+      "manuscript_text": "Баатыры болот болушкан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l016",
+      "manuscript_text": "Басташкан каны төгүлгөн.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l017",
+      "manuscript_text": "Жалгыз да өлгөн, жан да өлгөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l018",
+      "manuscript_text": "Жандары жок мал өлгөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l019",
+      "manuscript_text": "Эбегейсиз иш кылган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l020",
+      "manuscript_text": "Эркектерден коркподуң,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l021",
+      "manuscript_text": "Өмүрүн казып түз кылган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l022",
+      "manuscript_text": "Унутулгус иш кылган.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l023",
+      "manuscript_text": "Эртүүлөрдү кырк кылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l024",
+      "manuscript_text": "Эрендин кыркып түп кылган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l025",
+      "manuscript_text": "Бул кыргыздын кылгысы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l026",
+      "manuscript_text": "Унутулбайт бузулуп.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l027",
+      "manuscript_text": "Бекер тентүү эл эмес,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l028",
+      "manuscript_text": "Кыялы тептез заардай күч,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l029",
+      "manuscript_text": "Бу кыстаган кыргыз жөн эмес.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l030",
+      "manuscript_text": "Кабар алдым кыргыздан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l031",
+      "manuscript_text": "Кыргыздан Бекен кан чыгып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l032",
+      "manuscript_text": "Кайратынан жан чыгып,",
+      "matches": [
+        {
+          "index": 693,
+          "id": "seytek-1991-continuation:p0322:b001:l028",
+          "text": "Кайратынан жан чыгып,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l033",
+      "manuscript_text": "Минген тулпар өзү эр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l034",
+      "manuscript_text": "Аларды бекем кылбат жер,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf056:l035",
+      "manuscript_text": "Кылганда жок ушул эл,",
+      "matches": []
+    }
+  ]
+}

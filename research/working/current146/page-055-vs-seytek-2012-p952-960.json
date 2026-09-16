@@ -1,0 +1,199 @@
+{
+  "manuscript": "research/working/current146/page-055.reviewed.jsonl",
+  "witness": "/tmp/seytek-2012-p952-960.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 35,
+  "lines_with_candidates": 2,
+  "exact_match_lines": 0,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l001",
+      "manuscript_text": "Суранып ишин тойбогон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l002",
+      "manuscript_text": "Караңгыда айдаса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l003",
+      "manuscript_text": "Кабылан сыйдуу жойлогон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l004",
+      "manuscript_text": "Ташка терек тоодо өскөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l005",
+      "manuscript_text": "Жаалданып чайкап баш кескен,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l006",
+      "manuscript_text": "Ак кайнактын улугу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l007",
+      "manuscript_text": "Айтылуу Манас туулду,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l008",
+      "manuscript_text": "Алоотур Какан калганы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l009",
+      "manuscript_text": "Баш түрөр шумдук баланы.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l010",
+      "manuscript_text": "Түгөтүптүр кебин да,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l011",
+      "manuscript_text": "Түз кылган экен Бээжинди.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l012",
+      "manuscript_text": "Каарына жан турбай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l013",
+      "manuscript_text": "Кара жандан түңүлүп,",
+      "matches": [
+        {
+          "index": 41,
+          "id": "seytek-2012:p0952:b003:l001",
+          "text": "Калк жанынан түңүлүп,",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l014",
+      "manuscript_text": "Какан эли дүрбөптүр.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l015",
+      "manuscript_text": "Акылмандар курулуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l016",
+      "manuscript_text": "Окумуштан эректер,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l017",
+      "manuscript_text": "Өмүр-жандан түңүлүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l018",
+      "manuscript_text": "Кытайдагы Бээжиндин,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l019",
+      "manuscript_text": "Оозго кыйуу жанчылар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l020",
+      "manuscript_text": "Отко салчу бакшылар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l021",
+      "manuscript_text": "Айласы жетик ырчылар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l022",
+      "manuscript_text": "Буйла, байкы болушту,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l023",
+      "manuscript_text": "Айла тапчу мыктылар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l024",
+      "manuscript_text": "Күчтүүлөрдөн күчтүүлөр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l025",
+      "manuscript_text": "Айла тапчу ар түрлөр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l026",
+      "manuscript_text": "Баары коркуп болушту.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l027",
+      "manuscript_text": "Ураасы менен алты ата,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l028",
+      "manuscript_text": "Айры атадан беркини,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l029",
+      "manuscript_text": "Үч куруган кыргыз союптур.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l030",
+      "manuscript_text": "Бул орношкон Каканга,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l031",
+      "manuscript_text": "Сөз билгенден карасак,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l032",
+      "manuscript_text": "Сурап буруп келишип,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l033",
+      "manuscript_text": "Үй түтүнгө бир казан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l034",
+      "manuscript_text": "Оокат кыл деп бериптир.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf055:l035",
+      "manuscript_text": "Каарына чыдабай,",
+      "matches": [
+        {
+          "index": 712,
+          "id": "seytek-2012:p0960:b003:l014",
+          "text": "Кайратына чыдабай",
+          "score": 0.8667
+        }
+      ]
+    }
+  ]
+}

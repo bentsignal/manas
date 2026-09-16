@@ -115,5 +115,13 @@
       1381
     ],
     "details": "Rendered Semetey volume 2 PDF page 1381 at 1200-pixel scale and visually checked both columns, reading order, running furniture, and any footnote marker. All 78 narrative verse positions are included; only nonverse page furniture is excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit and direct retranslation",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [1381, 1381],
+    "rows_checked": 78,
+    "details": "Audited all 78 included narrative rows on printed/PDF page 1381 against their exact Kyrgyz source rows in source-ID order; corrected semantic and row-local alignment errors where required while preserving one source row per English row."
   }
 }

@@ -119,5 +119,13 @@
       1417
     ],
     "details": "Rendered Semetey volume 2 PDF page 1417 at 1200-pixel scale and visually checked both printed columns and block structure. All 77 narrative positions are present in reading order, with 4 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit and full retranslation",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [1417, 1417],
+    "rows_checked": 77,
+    "details": "Audited all 77 included narrative rows on printed page 1417 against their exact Kyrgyz source rows and replaced the pervasive machine-nonsense draft with a direct row-aligned English translation."
   }
 }

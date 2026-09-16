@@ -115,5 +115,17 @@
       1335
     ],
     "details": "Rendered Semetey volume 2 PDF page 1335 at 1200-pixel scale and visually checked all narrative and page-furniture blocks. All 78 narrative positions are present in reading order, with 3 nonverse positions explicitly excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit and full retranslation",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      1335,
+      1335
+    ],
+    "rows_checked": 78,
+    "status": "draft/no independent specialist review",
+    "details": "Fully retranslated every included narrative row directly from the exact Kyrgyz source text, preserving one English row per source ID and retaining all existing exclusions and provenance. No independent specialist review."
   }
 }

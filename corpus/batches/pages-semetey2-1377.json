@@ -120,5 +120,13 @@
       1377
     ],
     "details": "Rendered Semetey volume 2 PDF page 1377 at 1200-pixel scale and visually checked both columns, reading order, running furniture, and any footnote marker. All 78 narrative verse positions are included; only nonverse page furniture is excluded. No independent manuscript collation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [1377, 1377],
+    "rows_checked": 78,
+    "details": "Audited all 78 included narrative rows on printed page 1377 against their exact Kyrgyz source rows; corrected one lexical error where бил (elephant) had been rendered as sable pelts."
   }
 }

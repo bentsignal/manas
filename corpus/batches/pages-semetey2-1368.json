@@ -107,6 +107,7 @@
   "notes": {
     "semetey-2-2013:p1368:b003:l001": "Heroic epithets, lament and insult formulas, kinship rhetoric, women’s ceremonial language, weapon terminology, geographic names, and several elliptical constructions are context-sensitive; line-preserving best-effort draft without independent specialist review."
   },
+  "alignment_check": {"method":"source-English row semantic audit and full retranslation","checked_by":"Codex","date":"2026-09-15","page_range":[1368,1368],"rows_checked":78,"status":"draft/no independent specialist review","details":"All 78 included verse rows were audited against the exact Kyrgyz extraction and fully retranslated in one-row alignment; no independent specialist review."},
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex",

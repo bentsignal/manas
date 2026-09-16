@@ -107,6 +107,7 @@
   "notes": {
     "semetey-2-2013:p1360:b003:l001": "Compact heroic diction, ethnonyms, proper names, epithets, and culturally specific terms remain uncertain in places; direct line-preserving draft with no independent specialist review."
   },
+  "alignment_check": {"method":"source-English row semantic audit and full retranslation","checked_by":"Codex","date":"2026-09-15","page_range":[1360,1360],"rows_checked":78,"status":"draft/no independent specialist review","details":"All 78 included verse rows were audited against the exact Kyrgyz extraction and fully retranslated in one-row alignment; no independent specialist review."},
   "transcription_check": {
     "method": "visual-pdf-comparison",
     "checked_by": "Codex",

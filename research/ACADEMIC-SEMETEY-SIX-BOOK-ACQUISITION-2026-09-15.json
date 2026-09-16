@@ -1,0 +1,65 @@
+{
+  "search_date": "2026-09-15",
+  "target": {
+    "title": "Семетей: Баатырдык эпос. Манас эпосунун экинчи бөлүгү",
+    "variant": "Саякбай Каралаевдин варианты боюнча",
+    "prepared_by": "Айнек Жайнакова",
+    "general_editor": "Абдылдажан Акматалиев",
+    "publisher": "Турар",
+    "books": [
+      {"book": 1, "year": 2015, "pages": 556},
+      {"book": 2, "year": 2017, "pages": 496},
+      {"book": 3, "year": 2017, "pages": 612},
+      {"book": 4, "year": 2017, "pages": 540},
+      {"book": 5, "year": 2017, "pages": 608},
+      {"book": 6, "year": 2017, "pages": 576}
+    ]
+  },
+  "acquisitions": [],
+  "new_hashes": [],
+  "status": "No publicly downloadable scan located",
+  "strongest_route": {
+    "institution": "Scientific Library of B. Osmonov Jalal-Abad State University",
+    "holding": "One physical copy of each 2017 book 2–6 in АХЛ",
+    "catalog_url": "https://jasulib.org.kg/wp-content/uploads/2023/12/%D0%B7%D0%B0-%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C-2023.pdf",
+    "classification": "821.51 / С 30"
+  },
+  "corroboration": [
+    {
+      "url": "https://kruia.gov.kg/news/show/manas-eposu-boyuncha-chykkan-kitepterdin-tizmesi/ky",
+      "evidence": "National Academy bibliography confirms the set and pagination."
+    },
+    {
+      "url": "https://naskr.kg/ky/2017/03/09/manas-eposunun-akademiyalyk-alyt-toktomu-zhakryk-kordu/",
+      "evidence": "Publication announcement confirms six volumes, more than 200,000 lines, editors, and print run of 1,000."
+    }
+  ],
+  "rejections": [
+    {
+      "url": "https://jasulib.org.kg/?p=3686",
+      "reason": "255-page Jusup Mamai edition, not the target."
+    },
+    {
+      "url": "https://ci.nii.ac.jp/ncid/BB18896798",
+      "reason": "2013 two-volume edition; ISBNs 9789967152397 and 9789967152328; not the 2015/2017 six-book set."
+    },
+    {
+      "description": "Existing 2013 downloadable Semetey PDFs",
+      "reason": "1,432 and 1,424 pages; pagination and edition structure do not match."
+    },
+    {
+      "description": "Internet Archive title hit manas-roman-epopeya-kyrgyz",
+      "reason": "2026 derivative publication, not the target academic edition."
+    }
+  ],
+  "search_surfaces": [
+    "general web exact-title and filename variants",
+    "Kyrgyz National Academy",
+    "JASU WordPress archive and uploads",
+    "Internet Archive metadata and Advanced Search",
+    "Telegram public web index",
+    "CiNii and library catalogues",
+    "Kyrgyz institutional repositories"
+  ],
+  "contacted_institutions": false
+}

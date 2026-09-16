@@ -25,8 +25,9 @@ for batch_path in args.batch:
     english = (root / batch['english']).read_text().splitlines()
     assert len(english) == len(batch['source_ids']), (
         f'{batch_path}: source/English row-count mismatch')
-    base_is_semantic = method == 'same-agent source-English row comparison' or method.startswith(
-        'source-English row semantic audit'
+    base_is_semantic = (
+        method == 'same-agent source-English row comparison'
+        or ('source-' in method and 'semantic' in method)
     )
     top_review_rows = review.get('rows', review.get('rows_checked'))
     is_full_review = base_is_semantic and top_review_rows == len(english)

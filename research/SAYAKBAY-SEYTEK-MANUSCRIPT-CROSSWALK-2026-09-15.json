@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-15",
+  "sequence": [
+    {
+      "old_inventory": 954,
+      "current_inventory": 133,
+      "part": 1,
+      "recording_year": 1940,
+      "pages": 101,
+      "lines": 3500,
+      "encyclopedia_pagination": "101 pages"
+    },
+    {
+      "old_inventory": 955,
+      "current_inventory": 134,
+      "part": 2,
+      "recording_year": 1940,
+      "pages": null,
+      "lines": 6480,
+      "encyclopedia_pagination": "pp. 102-216 (115)"
+    },
+    {
+      "old_inventory": 956,
+      "current_inventory": 135,
+      "part": 3,
+      "recording_year": 1940,
+      "pages": 372,
+      "lines": 10833,
+      "encyclopedia_pagination": "372 pages"
+    },
+    {
+      "old_inventory": 957,
+      "current_inventory": 136,
+      "part": 4,
+      "recording_year": 1940,
+      "pages": 267,
+      "lines": 10839,
+      "encyclopedia_pagination": "267 pages"
+    },
+    {
+      "old_inventory": 958,
+      "current_inventory": 137,
+      "part": 5,
+      "recording_year": 1940,
+      "pages": null,
+      "lines": 12306,
+      "encyclopedia_pagination": "pp. 953-1225 (273)"
+    },
+    {
+      "old_inventory": 959,
+      "current_inventory": 138,
+      "part": 6,
+      "recording_year": 1940,
+      "pages": null,
+      "lines": 5326,
+      "encyclopedia_pagination": "pp. 1223-1427 (205)"
+    },
+    {
+      "old_inventory": 960,
+      "current_inventory": 139,
+      "part": 7,
+      "recording_year": 1943,
+      "pages": null,
+      "lines": 8179,
+      "first_line": "Чыңаалаган душмандын",
+      "encyclopedia_pagination": "pp. 1683-2022 (340)"
+    },
+    {
+      "old_inventory": 961,
+      "current_inventory": 140,
+      "part": 8,
+      "recording_year": 1945,
+      "pages": null,
+      "lines": null,
+      "encyclopedia_pagination": "pp. 2023-2200 (178)"
+    },
+    {
+      "old_inventory": 962,
+      "current_inventory": 141,
+      "part": 9,
+      "recording_year": 1945,
+      "pages": null,
+      "lines": null,
+      "encyclopedia_pagination": "pp. 2201-2320 (120)"
+    },
+    {
+      "old_inventory": 963,
+      "current_inventory": 142,
+      "part": 10,
+      "recording_year": null,
+      "pages": null,
+      "lines": null,
+      "encyclopedia_pagination": "pp. 2321-2462 (142)"
+    },
+    {
+      "old_inventory": 964,
+      "current_inventory": 143,
+      "part": 11,
+      "recording_year": 1945,
+      "transfer_year": 1946,
+      "pages": null,
+      "lines": 6827,
+      "first_line": "Колтукташып басышып",
+      "last_line": "Билгичтиги ушундай",
+      "encyclopedia_pagination": "pp. 2463-2650 (188)"
+    },
+    {
+      "old_inventory": 965,
+      "current_inventory": 144,
+      "episode": "Сейтек менен Акжолтойдун перинин кыздарына үйлөнүшү (уландысы)",
+      "recording_year": 1946,
+      "pages": 190,
+      "lines": 6092,
+      "first_line": "Кара жерге кан тамса",
+      "last_line": "Мүшкүл жаңжал кылышып",
+      "encyclopedia_pagination": "190 pages"
+    },
+    {
+      "old_inventory": 966,
+      "current_inventory": 145,
+      "episode": "Сейтек",
+      "recording_year": 1946,
+      "pages": null,
+      "lines": 6186,
+      "first_line": "Айза сынып жоголсо",
+      "last_line": "Букара чаар кабылан",
+      "encyclopedia_pagination": "pp. 191-387 (197)"
+    }
+  ],
+  "known_line_sum_954_966": 76568,
+  "adjacent_unit": {
+    "old_inventory": 967,
+    "current_inventory": 146,
+    "recording_year": 1947,
+    "lines": 9000,
+    "first_line": "Бу кайранатаң арбагы",
+    "last_line": "Жаткан жери мына ушул"
+  },
+  "known_sum_including_967": 85568,
+  "assessment": "Old 954-966 has 76,568 publicly catalogued lines and three blank line fields, 8,129 below the 84,697 core edition target. Including old 967 yields 85,568, 871 above target before blank fields. Catalogue units therefore cannot yet be equated directly with the edited core. No complete public scans or transcriptions were found.",
+  "duplicate_status": "No unit in 954-967 is labelled a duplicate or copy in the online catalogue; ditto marks in author fields continue Sayakbay Karalaev.",
+  "core_seytek_target_lines": 84697,
+  "continuations_target_lines": 15186,
+  "coherent_total_breakdown": {
+    "manas": 84513,
+    "semetey": 316157,
+    "seytek_core": 84697,
+    "continuations": 15186,
+    "total": 500553
+  },
+  "unresolved_against_core_target_954_966": 8129,
+  "excess_over_core_target_including_967": 871,
+  "encyclopedia_page_units": 2688,
+  "pagination_caution": "Bibliographic ranges are not proven continuous foliation: parts V-VI overlap by three page numbers and VI-VII have a gap.",
+  "kaznu_reclassification": {
+    "kaznu": {
+      "manas": 84830,
+      "semetey": 218787,
+      "seytek": 196936,
+      "total": 500553
+    },
+    "comparison_basis": {
+      "manas": 84513,
+      "semetey": 316157,
+      "seytek_plus_continuations": 99883
+    },
+    "deltas": {
+      "manas": 317,
+      "semetey": -97370,
+      "seytek_vs_core_plus_continuations": 97053
+    },
+    "assessment": "The deltas sum to zero and show a near-exact transfer from Semetey to the KazNU Seytek category, with continuations absorbed. 196,936 is therefore a reclassification total, not evidence of an additional core manuscript target."
+  },
+  "public_samples": [
+    {
+      "current_inventory": 133,
+      "pdf_pages": 5,
+      "bytes": 2129581,
+      "sha256": "5940ccd4d9ba15d0f8cb1af849c7dae5959ffd82ec47747b0f7e17e4059ca376"
+    },
+    {
+      "current_inventory": 134,
+      "pdf_pages": 5,
+      "bytes": 3655598,
+      "sha256": "46af2b776ccd1fdb4337339c017f4073e94d8d3c71b17c812e8900c994ec9bc5"
+    },
+    {
+      "current_inventory": 135,
+      "pdf_pages": 5,
+      "bytes": 3612537,
+      "sha256": "f658a1193757013cb6cf9c75dca6faf9cce50d2064fc17ebcdf74849c85a0b3a"
+    },
+    {
+      "current_inventory": 136,
+      "pdf_pages": 5,
+      "bytes": 4134805,
+      "sha256": "f523ac8f6bb2256f0f8e328f31ea1defebea750d1c3cc1253c16f6c284933738"
+    },
+    {
+      "current_inventory": 137,
+      "pdf_pages": 5,
+      "bytes": 4633500,
+      "sha256": "779a8e762c1f9624825c976970bfe01212fc22d2b8349dcf5b38fcbccee52a1f"
+    },
+    {
+      "current_inventory": 138,
+      "pdf_pages": 5,
+      "bytes": 3916024,
+      "sha256": "488c263037b47d452ba97b1db7693fd80dfc14b45a60ae5efdbea281eda18e61"
+    },
+    {
+      "current_inventory": 139,
+      "pdf_pages": 5,
+      "bytes": 3858374,
+      "sha256": "8726ab1f83770822c13e9f947471c69254a2a2f2d4b78492ca72e224e124ff78"
+    },
+    {
+      "current_inventory": 140,
+      "pdf_pages": 5,
+      "bytes": 1705422,
+      "sha256": "08cef05243bb41ee9f4b25a8211ce71dbc0a7b7b0af3d8fb8a9acce12fa95c46"
+    },
+    {
+      "current_inventory": 141,
+      "pdf_pages": 5,
+      "bytes": 1875695,
+      "sha256": "69643da892546b17c82089be2413463997f9b95755714155185c647159b9e400"
+    },
+    {
+      "current_inventory": 142,
+      "pdf_pages": 5,
+      "bytes": 3884394,
+      "sha256": "889ae6b11bfa63b7b5937c12fef170759cc8267dad9972346c90f84edcf4ea98"
+    },
+    {
+      "current_inventory": 143,
+      "pdf_pages": 5,
+      "bytes": 3976660,
+      "sha256": "faece27fb4aec9ea97015c914cfd518ac18aee5160b1181998474bdc0ddbd62e"
+    },
+    {
+      "current_inventory": 144,
+      "pdf_pages": 5,
+      "bytes": 3770002,
+      "sha256": "eecaa53385ddbd6a21823b8a814f9712bb8ff9430791cd02e4f9abf9a86a3ab6"
+    },
+    {
+      "current_inventory": 145,
+      "pdf_pages": 5,
+      "bytes": 2367038,
+      "sha256": "3dfed3b53d3fe153c16b4b25de26b150dba281056e8d704e7dad972020ea43d2"
+    }
+  ],
+  "full_scan_search": {
+    "variant_probes": 325,
+    "directories": [
+      "/static/media/pdf",
+      "/media/pdf",
+      "/static/media/manuscripts",
+      "/media/manuscripts",
+      "/uploads/manuscripts"
+    ],
+    "filename_variants": [
+      "without Obrazets-",
+      "Full-/Original- prefixes",
+      "-full/-original suffixes"
+    ],
+    "result": "All 404; no public full scan located. Site HTML, sitemap, bundled JavaScript and ViewerJS expose no IIIF, API or asset manifest.",
+    "numeric_pdf_rejection": "133.pdf-145.pdf are unrelated Arabic-script books; see research/manuscript-numeric-collision-audit.json.",
+    "wayback": "Sample captures only; no full manuscript asset found.",
+    "internet_archive": "No manuscript sequence. manas-trilogy-sayakbay-karalaev-ky contains edited-volume PDFs only."
+  },
+  "official_access_route": {
+    "organization": "National Academy Manuscript Fund",
+    "request_scope": "Complete color TIFF/PDF and inventory foliation/line-count sheets for old 954-966 plus boundary-check 967, current 133-146",
+    "address": "265a Chuy Avenue, Bishkek 720071",
+    "catalogue_phone": "+996 (312) 64-63-58",
+    "institute_phones": [
+      "+996 700 000 235",
+      "+996 (312) 39-20-23"
+    ],
+    "email": "melis.a.-50@mail.ru",
+    "fund_head": "A. Isaeva",
+    "official_url": "https://kruia.gov.kg/content_list/show/62/ru",
+    "contacted": false
+  }
+}

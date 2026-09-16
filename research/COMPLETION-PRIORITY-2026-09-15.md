@@ -1,10 +1,10 @@
 # Completion priority after component-count reconciliation
 
-Prepared 15 September 2026. This note changes the acquisition priority; it does not claim that the 500,553-line source is complete.
+Prepared 15 September 2026 and corrected after manuscript-level checks. This note sets acquisition priority; it does not claim that the 500,553-line source is complete.
 
-## Newly verified component table
+## Secure total, unresolved part boundaries
 
-Tashpolot Sadykov and Bakyt Sharshembaev, “«Манас» эпосунун улуттук корпусун түзүү жөнүндө,” prints a manuscript-fund table for major variants. Its Sayakbay row is:
+The institutionally repeated target remains **500,553 lines**. Tashpolot Sadykov and Bakyt Sharshembaev, “«Манас» эпосунун улуттук корпусун түзүү жөнүндө,” prints this Sayakbay row on PDF page 155:
 
 | Part | Reported lines |
 | --- | ---: |
@@ -13,35 +13,48 @@ Tashpolot Sadykov and Bakyt Sharshembaev, “«Манас» эпосунун у�
 | Seytek | 196,936 |
 | **Total** | **500,553** |
 
-The table appears on PDF page 155 of the conference volume hosted by KazNU:
+Source: <https://www.kaznu.kz/content/files/news/folder23214/%D0%91%D0%BE%D0%BB%D0%B0%D1%82%D0%B1%D0%B5%D0%BA%20%D0%9C..pdf>, PDF page 155; web-extracted lines 8446–8451.
 
-- https://www.kaznu.kz/content/files/news/folder23214/%D0%91%D0%BE%D0%BB%D0%B0%D1%82%D0%B1%D0%B5%D0%BA%20%D0%9C..pdf
-- Web-extracted source lines 8446–8451 contain the heading and Sayakbay row.
+This table must **not** be treated as a literal acquisition allocation. The next page says the corpus project loaded the previously published Sayakbay editions: *Manas* books I–II (1984/1986), *Semetey* books I–II (1987/1989), and *Seytek* (1991). It does not explain its part boundaries or assign its counts to archival inventories.
 
-The following page says the national-corpus work used previously published Sayakbay texts: *Manas* books I–II (1984/1986), *Semetey* books I–II (1987/1989), and *Seytek* (1991). It does not say that those publications contain all manuscript-fund lines.
+The widely repeated four-part archival breakdown is incompatible:
 
-## Exact reconciliation with the acquired corpus
+| Part | Reported lines |
+| --- | ---: |
+| Manas | 84,513 |
+| Semetey | 316,157 |
+| Seytek | 84,697 |
+| Kenen, Alymsaryk, Kulansaryk | 15,186 |
+| **Total** | **500,553** |
 
-| Part | Reported | Acquired/released | Unacquired |
-| --- | ---: | ---: | ---: |
-| Manas | 84,830 | 78,616 | 6,214 |
-| Semetey | 218,787 | 216,333 | 2,454 |
-| Seytek, including currently separated continuations | 196,936 | 89,355 + 3,154 = 92,509 | 104,427 |
-| **Total** | **500,553** | **387,458** | **113,095** |
+The Manas Encyclopedia independently assigns *Semetey* old inventories 925–953 and calls them 316,157 lines. The acquired 2013 *Seytek* edition expressly states that Sayakbay's recorded *Seytek* is 84,697 lines. These facts make it unsafe to call the project's entire deficit “missing Seytek.”
 
-The three deficits sum exactly to the project's known 113,095-line shortfall. This makes the 84,830 / 218,787 / 196,936 table the strongest current working breakdown of the 500,553 target. It remains a published secondary table, not the requested archival notebook-to-line crosswalk.
+## Why the earlier Seytek allocation was rejected
 
-## Acquisition consequence
+The public manuscript catalogue currently supplies line counts for old *Semetey* inventories 927–953 totaling **198,100** lines. Old 925 has 203 pages but no online line count; old 926 is not cleanly identified in the catalogue. Those two units cannot plausibly supply the **118,057** lines needed to reach 316,157. The archive total therefore uses a broader or different counting scope than the simple catalogue fields.
 
-The missing corpus is overwhelmingly **Seytek material: 104,427 of 113,095 lines (92.3%)**. The public 1,172-page 2012/2013 *Seytek* witness and the acquired abridged continuation account for only 92,509 lines together. A similarly sized 2018 two-volume printing may be valuable for textual checking, but page count alone cannot establish that it contains the missing 104,427 lines.
+For *Seytek*, known catalogue counts for old 954–966 total **76,568**. Including old 967's 9,000 lines gives **85,568**, close to the edition's reported 84,697 and far below 196,936. The three blank online counts in old 961–963 cannot plausibly add roughly 111,000 lines across their reported page span.
 
-Priority order is therefore:
+These checks show that the 218,787 / 196,936 table uses different boundaries, includes additional material, or contains a classification/counting error. Its arithmetic agreement with the project's 113,095-line deficit is not evidence that the missing text is all *Seytek*.
 
-1. Obtain full scans or transcriptions of the complete Sayakbay *Seytek* manuscript sequence and identify every inventory unit counted in the 196,936-line figure.
-2. Obtain the archival counting protocol and notebook-to-edition crosswalk.
-3. Resolve the smaller 6,214-line *Manas* and 2,454-line *Semetey* deficits against manuscripts and later academic editions.
-4. Continue treating the six-volume *Semetey* and 2018 two-volume *Seytek* editions as candidate witnesses, not automatic proof of missing-line coverage.
+## Current measurable coverage
 
-## Conflicting published breakdowns
+| Released section | Source rows |
+| --- | ---: |
+| Manas | 78,616 |
+| Semetey | 216,333 |
+| Seytek | 89,355 |
+| Kenen, Alymsaryk, Kulansaryk witness | 3,154 |
+| **Total** | **387,458** |
 
-Other project research records incompatible allocations that also claim or sum to 500,553. They must remain documented until an archival crosswalk explains whether they count different part boundaries, variants, performances, or editorial lineation. The exact reconciliation above makes this table operationally useful, but does not erase those conflicts.
+The site is therefore **113,095 rows short of the 500,553 target**, but source rows from modern editions are not automatically identical to archival verse-line counts. The total deficit is operationally useful; its division among parts is not yet certified.
+
+## Completion-first acquisition order
+
+1. Reconcile old *Semetey* inventories 925–953 against the 316,157-line archival claim and the 216,333 released rows. Locate full manuscript scans or a transcription of material absent from the 2013 edition.
+2. Obtain the archive's notebook-to-line crosswalk and counting protocol for the complete 500,553-line total, including alternate takes, copies, repeated performances, prose, and continuation boundaries.
+3. Locate the complete Kenen–Alymsaryk–Kulansaryk manuscripts rather than relying on the abridged 3,154-row printed witness.
+4. Reconcile the smaller *Manas* shortfall and any edition-versus-archive lineation differences.
+5. Treat the six-volume 2015/2017 *Semetey* and two-volume 2018 *Seytek* editions as candidate witnesses until page/line comparison proves whether either adds source text.
+
+Translation-quality issues remain registered in batch notes and `corpus/source-gaps.json`. They are deferred until every obtainable source position has at least a first-pass English rendering.

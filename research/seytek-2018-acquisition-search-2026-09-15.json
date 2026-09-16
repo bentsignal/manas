@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-15",
+  "target": {
+    "title": "Классикалык изилдөөлөр жана тексттер: Саякбай Каралаев: Сейтек",
+    "publisher": "Полиграфбумресурсы",
+    "year": 2018,
+    "isbn13": "9789967127784",
+    "isbn10": "9967127783",
+    "volumes": [{"volume": 1, "pages": 614}, {"volume": 2, "pages": 578}],
+    "oshsu_call_number": "82.3(2=Ки)кыр К 47",
+    "oclc": "1124979819",
+    "lc_classification": "PL44.9.S45 K37 2018"
+  },
+  "acquisition": null,
+  "strongest_access_route": {
+    "institution": "Columbia University Libraries / ReCAP",
+    "catalog_id": "14338080",
+    "catalog_url": "https://clio.columbia.edu/catalog/14338080",
+    "metadata_json_url": "https://clio.columbia.edu/catalog/14338080.json",
+    "marc_url": "https://clio.columbia.edu/catalog/14338080.marc",
+    "scan_url": "https://valet.cul.columbia.edu/recap_scan/14338080",
+    "ill_url": "https://valet.cul.columbia.edu/ill_scan/14338080",
+    "location": "Offsite",
+    "status": "Available",
+    "holdings": "v.1-2",
+    "call_number": "PL44.9.S45 K37 2018g",
+    "holdings_uuid": "306963dc-bc48-55e6-9909-b2b40c345a0b",
+    "items": [
+      {"volume": 1, "barcode": "CU28032993", "uuid": "d32fb117-92f8-521b-91fd-6cf80fb45d87"},
+      {"volume": 2, "barcode": "CU28032985", "uuid": "bec2086e-afc4-5cfc-bffb-3d7652c1f3a4"}
+    ],
+    "campus_scan_url": "https://valet.cul.columbia.edu/campus_scan/14338080",
+    "loan_url": "https://valet.cul.columbia.edu/recap_loan/14338080",
+    "authentication": "All Valet endpoints redirect unauthenticated visitors to sign-in; direct requests require an active UNI and borrowing privileges.",
+    "public_researcher_route": "Request physical v.1 and v.2 through a home library's ILL service using OCLC 1124979819, call number, and volume barcodes; alternatively seek staff-mediated onsite access.",
+    "edd_policy": {
+      "url": "https://library.columbia.edu/bts/recap/edd.html",
+      "scope": "article or book chapter, up to 10% of a work",
+      "page_range_required": true,
+      "normal_resolution_dpi": 300,
+      "download_retention_days": 14
+    }
+  },
+  "digital_identifiers": {
+    "open_library": "OL44252180M",
+    "google_books": "z90kywEACAAJ",
+    "google_books_access": "noview; not embeddable; no PDF or EPUB"
+  },
+  "relationship_to_2013": {
+    "2013_pages": 1172,
+    "2013_stated_verse_lines": 84697,
+    "2018_total_pages": 1192,
+    "volume_boundary_evidence": "2013 page 615 opens a new named Sarybay episode immediately after 2018 volume 1's cataloged 614-page extent.",
+    "pagination_model": "2018 v.1 = 2013 pp.1-614; 2018 v.2 = 2013 pp.615-1172 (558 pages) plus 20 pages of new volume preliminaries; 614 + 558 + 20 = 1192.",
+    "assessment": "Moderate-to-high confidence that the 2018 set republishes/splits the 2013 core text; exact textual identity remains unproved without inspecting 2018 scans.",
+    "evidence_for_additional_poetic_lines": null,
+    "estimated_new_poetic_lines": 0,
+    "estimated_new_poetic_lines_qualification": "Working hypothesis only, based on pagination and section-boundary evidence.",
+    "missing_line_claim_note": "The reported 104,427 missing Seytek lines exceeds the 2013 edition's statement of 84,697 lines for Karalaev's recorded Seytek and requires source-accounting review; extracted source rows and printed verse lines are not necessarily equivalent."
+  },
+  "existing_evidence": [
+    {
+      "path": "sources/raw/oshsu-seytek-2018-holdings.pdf",
+      "sha256": "3aa1e010ac2b9e0af44652ef64b977252d738f49e7befcf76d02ef288621b683",
+      "role": "bibliographic and historical holdings evidence"
+    },
+    {
+      "path": "sources/raw/seytek-2012.pdf",
+      "sha256": "786eb36c1863f3e6c5330bb98d5d1656ab2e566bc53e16128a4f982928ebee2f",
+      "role": "distinct Turar 2013 edition; not accepted as the 2018 target"
+    }
+  ],
+  "searches": [
+    {"service": "Internet Archive advancedsearch", "queries": ["isbn:9789967127784", "title:Сейтек AND year:2018", "title:Seytek AND year:2018", "creator:Каралаев AND title:Сейтек"], "result": "0 records"},
+    {"service": "Open Library", "result": "metadata only", "url": "https://openlibrary.org/books/OL44252180M"},
+    {"service": "Google Books View API", "result": "metadata only; noview; not embeddable; no PDF or EPUB", "id": "z90kywEACAAJ"},
+    {"service": "HathiTrust", "result": "automated discovery query returned HTTP 403; no holding established"},
+    {"service": "Library of Congress digitized books", "result": "0 copies"},
+    {"service": "Crossref", "query": "9789967127784", "result": "0 works"},
+    {"service": "Telegram public web indexes", "result": "known Semetey files only; no target Seytek scan"},
+    {"service": "WordPress/media-index web search", "result": "no candidate"},
+    {"service": "NEB.KG and KYRLIBNET/open archive", "result": "related scholarship and older media only; no target record or file"},
+    {"service": "general web exact ISBN/title/page/publisher variants", "result": "catalog and bibliography records only"}
+  ],
+  "downloads": [],
+  "conclusion": "No public full scan located. Columbia/ReCAP has a currently available complete v.1-2 set and is the strongest physical-access route. Its scan service is limited to a chapter/article up to 10% and requires authenticated eligibility. Pagination and an exact section-boundary match provide moderate-to-high confidence that this is a two-volume repackaging of the 2013 text, with no current evidence of additional poetic lines."
+}

@@ -20,7 +20,9 @@ def read_jsonl(path: Path) -> list[dict]:
 
 
 def main() -> None:
-    printed_ids = {row["id"] for row in read_jsonl(PRINTED)}
+    printed_rows = read_jsonl(PRINTED)
+    printed_ids = {row["id"] for row in printed_rows}
+    printed_position = {row["id"]: index for index, row in enumerate(printed_rows)}
     pages: dict[int, list[dict]] = {}
     for path in sorted(WORK.glob("page-*.reviewed.jsonl")):
         rows = read_jsonl(path)
@@ -47,6 +49,9 @@ def main() -> None:
         if match:
             assert match.group(1) in printed_ids, f"unknown counterpart in {row['id']}"
             counterpart_ids.append(match.group(1))
+    counterpart_positions = [printed_position[value] for value in counterpart_ids]
+    assert counterpart_positions == sorted(counterpart_positions)
+    assert len(counterpart_ids) == len(set(counterpart_ids))
 
     completed = sorted(pages)
     missing = [page for page in range(3, 191) if page not in pages]
@@ -59,6 +64,7 @@ def main() -> None:
         "english_words": sum(len(WORDS.findall(row["en"])) for row in rows),
         "rows_with_recorded_printed_counterparts": len(counterpart_ids),
         "distinct_recorded_printed_counterparts": len(set(counterpart_ids)),
+        "recorded_counterparts_strictly_monotonic": True,
     }
     print(json.dumps(report, ensure_ascii=False))
 

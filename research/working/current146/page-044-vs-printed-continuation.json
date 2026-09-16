@@ -1,0 +1,201 @@
+{
+  "manuscript": "research/working/current146/page-044.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 34,
+  "lines_with_candidates": 3,
+  "exact_match_lines": 0,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l001",
+      "manuscript_text": "Бу бегимден коргуча,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l002",
+      "manuscript_text": "Жан жайрошпой турабы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l003",
+      "manuscript_text": "Жаман дийсинби тийерби,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l004",
+      "manuscript_text": "Колун билкороп эгер курса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l005",
+      "manuscript_text": "Кадыша берсе калбаса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l006",
+      "manuscript_text": "Кармаш кылбай тынчырбы.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l007",
+      "manuscript_text": "Хан буйругу калчылап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l008",
+      "manuscript_text": "Кол жыйнабай турабы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l009",
+      "manuscript_text": "Бизде да кабары бар эми бар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l010",
+      "manuscript_text": "Индистандан кол алса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l011",
+      "manuscript_text": "Курактан мурдун үзүп алса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l012",
+      "manuscript_text": "Санасынан санга бой тура,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l013",
+      "manuscript_text": "Сан казына үйүндөй,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l014",
+      "manuscript_text": "Сары алтын мүлккө толтура,",
+      "matches": [
+        {
+          "index": 840,
+          "id": "seytek-1991-continuation:p0323:b003:l025",
+          "text": "Сары алтын мүлккө толтурат.",
+          "score": 0.9778
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l015",
+      "manuscript_text": "Дүнүйөсүнөн жан болсо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l016",
+      "manuscript_text": "Калганы бир калдыр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l017",
+      "manuscript_text": "Күй дүйнө май болсо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l018",
+      "manuscript_text": "Өзгө журттун хан болсо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l019",
+      "manuscript_text": "Бир очоктой мондун жан болсо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l020",
+      "manuscript_text": "Ой ойлонбой турабы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l021",
+      "manuscript_text": "Артын белин бүкүп албай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l022",
+      "manuscript_text": "Ага күүнүн күлүк албай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l023",
+      "manuscript_text": "Туулбай тура тек койбой,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l024",
+      "manuscript_text": "Бир алсыз адам бек койбой,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l025",
+      "manuscript_text": "Баатырлуу хан конбойбу.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l026",
+      "manuscript_text": "Ат ээринен эр болсо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l027",
+      "manuscript_text": "Эр эшигин бир болсо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l028",
+      "manuscript_text": "Эл ордуна калбайбы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l029",
+      "manuscript_text": "Кайын журт казынадан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l030",
+      "manuscript_text": "Оң аламын дебейби.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l031",
+      "manuscript_text": "Ошо боюн ич жердин,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l032",
+      "manuscript_text": "Дүйне алам дебейби,",
+      "matches": [
+        {
+          "index": 1170,
+          "id": "seytek-1991-continuation:p0327:b001:l009",
+          "text": "Өчүн алам дебейби?!",
+          "score": 0.8387
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l033",
+      "manuscript_text": "Коңдайлардан тайкалаш,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf044:l034",
+      "manuscript_text": "Хан атам канкор Манастан.",
+      "matches": [
+        {
+          "index": 1168,
+          "id": "seytek-1991-continuation:p0327:b001:l007",
+          "text": "Кан атам канкор Манастын",
+          "score": 0.9048
+        }
+      ]
+    }
+  ]
+}

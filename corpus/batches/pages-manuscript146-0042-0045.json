@@ -1,0 +1,463 @@
+{
+  "part": "continuations",
+  "status": "draft",
+  "extraction": "sources/extracted/sayakbay-ms-current146.lines.jsonl",
+  "source_url": "https://manuscript.bizdin.kg/static/media/pdf/web-146-Seitek-Saiakba-Karalaev.pdf",
+  "english": "corpus/batches/pages-manuscript146-0042-0045.en.txt",
+  "source_ids": [
+    "sayakbay-ms-current146:pdf042:l001",
+    "sayakbay-ms-current146:pdf042:l002",
+    "sayakbay-ms-current146:pdf042:l003",
+    "sayakbay-ms-current146:pdf042:l004",
+    "sayakbay-ms-current146:pdf042:l005",
+    "sayakbay-ms-current146:pdf042:l006",
+    "sayakbay-ms-current146:pdf042:l007",
+    "sayakbay-ms-current146:pdf042:l008",
+    "sayakbay-ms-current146:pdf042:l009",
+    "sayakbay-ms-current146:pdf042:l010",
+    "sayakbay-ms-current146:pdf042:l024",
+    "sayakbay-ms-current146:pdf042:l025",
+    "sayakbay-ms-current146:pdf042:l026",
+    "sayakbay-ms-current146:pdf042:l027",
+    "sayakbay-ms-current146:pdf042:l028",
+    "sayakbay-ms-current146:pdf042:l029",
+    "sayakbay-ms-current146:pdf042:l030",
+    "sayakbay-ms-current146:pdf042:l031",
+    "sayakbay-ms-current146:pdf042:l032",
+    "sayakbay-ms-current146:pdf042:l033",
+    "sayakbay-ms-current146:pdf043:l001",
+    "sayakbay-ms-current146:pdf043:l002",
+    "sayakbay-ms-current146:pdf043:l003",
+    "sayakbay-ms-current146:pdf043:l004",
+    "sayakbay-ms-current146:pdf043:l008",
+    "sayakbay-ms-current146:pdf043:l009",
+    "sayakbay-ms-current146:pdf043:l010",
+    "sayakbay-ms-current146:pdf043:l011",
+    "sayakbay-ms-current146:pdf043:l012",
+    "sayakbay-ms-current146:pdf043:l013",
+    "sayakbay-ms-current146:pdf043:l014",
+    "sayakbay-ms-current146:pdf043:l015",
+    "sayakbay-ms-current146:pdf043:l016",
+    "sayakbay-ms-current146:pdf043:l017",
+    "sayakbay-ms-current146:pdf043:l018",
+    "sayakbay-ms-current146:pdf043:l019",
+    "sayakbay-ms-current146:pdf043:l020",
+    "sayakbay-ms-current146:pdf043:l021",
+    "sayakbay-ms-current146:pdf044:l003",
+    "sayakbay-ms-current146:pdf044:l004",
+    "sayakbay-ms-current146:pdf044:l005",
+    "sayakbay-ms-current146:pdf044:l007",
+    "sayakbay-ms-current146:pdf044:l008",
+    "sayakbay-ms-current146:pdf044:l009",
+    "sayakbay-ms-current146:pdf044:l010",
+    "sayakbay-ms-current146:pdf044:l011",
+    "sayakbay-ms-current146:pdf044:l012",
+    "sayakbay-ms-current146:pdf044:l013",
+    "sayakbay-ms-current146:pdf044:l014",
+    "sayakbay-ms-current146:pdf044:l015",
+    "sayakbay-ms-current146:pdf044:l016",
+    "sayakbay-ms-current146:pdf044:l017",
+    "sayakbay-ms-current146:pdf044:l018",
+    "sayakbay-ms-current146:pdf044:l019",
+    "sayakbay-ms-current146:pdf044:l020",
+    "sayakbay-ms-current146:pdf044:l021",
+    "sayakbay-ms-current146:pdf044:l022",
+    "sayakbay-ms-current146:pdf044:l023",
+    "sayakbay-ms-current146:pdf044:l024",
+    "sayakbay-ms-current146:pdf044:l025",
+    "sayakbay-ms-current146:pdf044:l026",
+    "sayakbay-ms-current146:pdf044:l027",
+    "sayakbay-ms-current146:pdf044:l028",
+    "sayakbay-ms-current146:pdf044:l029",
+    "sayakbay-ms-current146:pdf044:l030",
+    "sayakbay-ms-current146:pdf044:l031",
+    "sayakbay-ms-current146:pdf044:l032",
+    "sayakbay-ms-current146:pdf044:l033",
+    "sayakbay-ms-current146:pdf045:l002",
+    "sayakbay-ms-current146:pdf045:l003",
+    "sayakbay-ms-current146:pdf045:l004",
+    "sayakbay-ms-current146:pdf045:l005",
+    "sayakbay-ms-current146:pdf045:l006",
+    "sayakbay-ms-current146:pdf045:l007",
+    "sayakbay-ms-current146:pdf045:l008",
+    "sayakbay-ms-current146:pdf045:l009",
+    "sayakbay-ms-current146:pdf045:l011",
+    "sayakbay-ms-current146:pdf045:l012",
+    "sayakbay-ms-current146:pdf045:l013",
+    "sayakbay-ms-current146:pdf045:l024",
+    "sayakbay-ms-current146:pdf045:l025",
+    "sayakbay-ms-current146:pdf045:l026",
+    "sayakbay-ms-current146:pdf045:l027",
+    "sayakbay-ms-current146:pdf045:l028",
+    "sayakbay-ms-current146:pdf045:l029",
+    "sayakbay-ms-current146:pdf045:l030",
+    "sayakbay-ms-current146:pdf045:l031"
+  ],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "sayakbay-ms-current146:pdf042:l011",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b002:l021; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b002:l021"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l012",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b003:l001; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b003:l001"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l013",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l001; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l001"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l014",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l002; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l002"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l015",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l003; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l003"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l016",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l004; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l004"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l017",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l005; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l005"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l018",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l006; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l006"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l019",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l007; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l007"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l020",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l008; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l008"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l021",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l009; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l009"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l022",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l010; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l010"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf042:l023",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l011; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l011"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l005",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l014; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l014"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l006",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l015; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l015"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l007",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l016; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l016"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l022",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l018; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l018"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l023",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l019; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l019"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l024",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l020; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l020"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l025",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l021; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l021"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l026",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l022; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l022"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l027",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l023; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l023"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l028",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l024; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l024"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l029",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l025; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l025"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l030",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l026; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l026"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l031",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0326:b004:l027; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0326:b004:l027"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l032",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l001; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l001"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf043:l033",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l002; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l002"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf044:l001",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l003; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l003"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf044:l002",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l004; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l004"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf044:l006",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l005; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l005"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf044:l034",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l007; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l007"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l001",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l008; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l008"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l010",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l011; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l011"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l014",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l012; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l012"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l015",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l013; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l013"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l016",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l014; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l014"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l017",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l015; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l015"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l018",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l016; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l016"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l019",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l017; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l017"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l020",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l018; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l018"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l021",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l019; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l019"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l022",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l020; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l020"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l023",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l021; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l021"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l032",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l022; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l022"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf045:l033",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0327:b001:l023; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0327:b001:l023"
+    }
+  ],
+  "notes": {
+    "sayakbay-ms-current146:pdf042:l001": "Opening reads approximately Колодонго ысак жаныбыз; relation and second word unresolved.",
+    "sayakbay-ms-current146:pdf042:l002": "Object depends on preceding page; conditional is first-person plural, not second-person singular.",
+    "sayakbay-ms-current146:pdf042:l006": "Final case ending on кыргыздан remains slightly uncertain.",
+    "sayakbay-ms-current146:pdf042:l007": "Эрдемсиген is a provisional visual reading; final clause belongs with following lines.",
+    "sayakbay-ms-current146:pdf042:l008": "көзөлдүн is likely, but the letter sequence needs specialist review.",
+    "sayakbay-ms-current146:pdf042:l009": "Opening word tentatively Чогулган; do not regard as secure transcription.",
+    "sayakbay-ms-current146:pdf042:l010": "Чекене appears written; literal sense of this adjective in the phrase is uncertain.",
+    "sayakbay-ms-current146:pdf042:l024": "Tentative reading of both Кайратты and көрбөсөк; final verb could have another vowel.",
+    "sayakbay-ms-current146:pdf042:l025": "Looks Чын Теңир rather than the draft’s personal name Чын Темир. Берен улук and relation to next line remain provisional.",
+    "sayakbay-ms-current146:pdf042:l026": "Pronoun is provisional from previous line; may mean taking divine power as support.",
+    "sayakbay-ms-current146:pdf042:l027": "бүт кылып is visible; the construction continues into the next lines.",
+    "sayakbay-ms-current146:pdf042:l028": "A rubbed-out phrase after Азоосун is not recoverable. Remaining words tentatively миңге үй кылып; this translation is conjectural, not a secure reading.",
+    "sayakbay-ms-current146:pdf042:l029": "Кайратты and syntax uncertain; ending билбесек is more likely than draft билбесең.",
+    "sayakbay-ms-current146:pdf042:l031": "The middle and final phrase tentatively кирсе чак түшүп; requires review.",
+    "sayakbay-ms-current146:pdf042:l032": "чейин сүрбөсөк is provisional but visually preferable to draft чалып арбасаң.",
+    "sayakbay-ms-current146:pdf042:l033": "First word and noun remain uncertain; best visual reading Жаңгырткан отун өчүрүп.",
+    "sayakbay-ms-current146:pdf043:l001": "The first word is pale; read provisionally as Жакшылардан.",
+    "sayakbay-ms-current146:pdf043:l002": "Several pale letters in башынан and the final verbal noun require later review.",
+    "sayakbay-ms-current146:pdf043:l003": "Completion-first reading; the middle and final words are faint.",
+    "sayakbay-ms-current146:pdf043:l008": "Very pale completion-first reading; элим and the final verb are especially uncertain.",
+    "sayakbay-ms-current146:pdf043:l009": "The verb phrase after Ала-Тоо is pale and provisional.",
+    "sayakbay-ms-current146:pdf043:l010": "The final word appears to be the variant кайтадан.",
+    "sayakbay-ms-current146:pdf043:l011": "Completion-first reading; the first noun and final verb need later comparison.",
+    "sayakbay-ms-current146:pdf043:l012": "The opening phrase and final verb are readable only provisionally.",
+    "sayakbay-ms-current146:pdf043:l013": "The second half of the baseline is pale; көзүң басылган is provisional.",
+    "sayakbay-ms-current146:pdf043:l014": "Completion-first reading; аркабыз жай болгон is clearer than the opening word.",
+    "sayakbay-ms-current146:pdf043:l015": "Both the adjective and middle noun are uncertain completion-first readings.",
+    "sayakbay-ms-current146:pdf043:l016": "The opening participle is pale but the rest of the line is clear.",
+    "sayakbay-ms-current146:pdf043:l017": "Confirmed by the printed continuation counterpart.",
+    "sayakbay-ms-current146:pdf043:l018": "Short pale baseline; the participle is provisional.",
+    "sayakbay-ms-current146:pdf043:l019": "The middle word is provisionally read зоолу and the idiom remains uncertain.",
+    "sayakbay-ms-current146:pdf043:l020": "The nouns are readable, but the exact construction is provisional.",
+    "sayakbay-ms-current146:pdf043:l021": "The first verb is pale and read provisionally as Бейлебей.",
+    "sayakbay-ms-current146:pdf044:l003": "The second predicate is uncertain.",
+    "sayakbay-ms-current146:pdf044:l004": "Several letters in the opening phrase are ambiguous; completion-first reading.",
+    "sayakbay-ms-current146:pdf044:l005": "The first word appears to be the dative form of кадыша.",
+    "sayakbay-ms-current146:pdf044:l007": "The last word may have a different initial consonant.",
+    "sayakbay-ms-current146:pdf044:l009": "The final two short words are crowded and uncertain.",
+    "sayakbay-ms-current146:pdf044:l011": "The source wording is uncertain, especially Курактан and үзүп.",
+    "sayakbay-ms-current146:pdf044:l012": "Literal reading is uncertain; translated from the apparent sense.",
+    "sayakbay-ms-current146:pdf044:l013": "The last word is uncertain.",
+    "sayakbay-ms-current146:pdf044:l015": "The line is legible but its connection to the next line is uncertain.",
+    "sayakbay-ms-current146:pdf044:l016": "The final word may be an inflected verbal form.",
+    "sayakbay-ms-current146:pdf044:l017": "The first two words are uncertain; completion-first interpretation.",
+    "sayakbay-ms-current146:pdf044:l019": "The middle wording is hard to resolve; translated cautiously.",
+    "sayakbay-ms-current146:pdf044:l021": "The opening word may instead be a personal name or body-part term.",
+    "sayakbay-ms-current146:pdf044:l022": "The middle word is uncertain.",
+    "sayakbay-ms-current146:pdf044:l023": "The opening verb and idiomatic sense are uncertain.",
+    "sayakbay-ms-current146:pdf044:l025": "The verb may be конбойбу.",
+    "sayakbay-ms-current146:pdf044:l026": "The manuscript looks like Ат ээринен; translated idiomatically.",
+    "sayakbay-ms-current146:pdf044:l027": "The last word and idiomatic sense are uncertain.",
+    "sayakbay-ms-current146:pdf044:l030": "The adjective/adverb before аламын is uncertain.",
+    "sayakbay-ms-current146:pdf044:l031": "Several case endings are uncertain.",
+    "sayakbay-ms-current146:pdf044:l033": "The ethnonym and final verb are uncertain.",
+    "sayakbay-ms-current146:pdf045:l002": "The first two words are difficult; English follows the apparent sense.",
+    "sayakbay-ms-current146:pdf045:l003": "The last word may be a closely related form.",
+    "sayakbay-ms-current146:pdf045:l004": "Syntax is compressed and the last word is faint.",
+    "sayakbay-ms-current146:pdf045:l005": "The proper name is read as Суургулган; compare adjacent leaves.",
+    "sayakbay-ms-current146:pdf045:l006": "The middle verb is faint but fits the visible letter forms.",
+    "sayakbay-ms-current146:pdf045:l007": "The opening noun is especially uncertain.",
+    "sayakbay-ms-current146:pdf045:l008": "The ending is pale; English is provisional.",
+    "sayakbay-ms-current146:pdf045:l009": "The first word may be a related participial form.",
+    "sayakbay-ms-current146:pdf045:l011": "Several letters are indistinct; translation follows the apparent imperative sense.",
+    "sayakbay-ms-current146:pdf045:l012": "Оюн тартып is legible but idiomatic force is uncertain.",
+    "sayakbay-ms-current146:pdf045:l013": "Proper name spelling should be checked against adjacent leaves.",
+    "sayakbay-ms-current146:pdf045:l024": "The two proper names are clear enough but spelling awaits comparison.",
+    "sayakbay-ms-current146:pdf045:l025": "The initial word could be another related verbal form.",
+    "sayakbay-ms-current146:pdf045:l026": "The ethnonym or place-derived form is uncertain.",
+    "sayakbay-ms-current146:pdf045:l027": "This line is difficult; raw reading and English are provisional.",
+    "sayakbay-ms-current146:pdf045:l028": "The manuscript may omit or alter a suffix in көндүрүп.",
+    "sayakbay-ms-current146:pdf045:l029": "The first word is uncertain but resembles караан.",
+    "sayakbay-ms-current146:pdf045:l030": "The first word is unclear and may be a different adjective.",
+    "sayakbay-ms-current146:pdf045:l031": "Reading is plausible but pale."
+  },
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-16",
+    "pdf_pages": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "details": "Rendered manuscript inventory 146 PDF pages 42-45 at high resolution and counted 33, 33, 34, and 33 baselines. Page 42 received an independent Astra-low audit after ordered cross-witness evidence exposed substantial Sol-low errors. Forty-six rows form secure ordered counterparts across released printed-continuation rows p0326:b002:l021 through p0327:b001:l023; physical manuscript repetitions and insertions remain translated and counted."
+  },
+  "after_id": "sayakbay-ms-current146:pdf041:l031"
+}

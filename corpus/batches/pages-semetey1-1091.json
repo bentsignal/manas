@@ -122,5 +122,12 @@
       1091
     ],
     "details": "Compared both printed columns against the 1400-pixel Poppler rendering; all 68 narrative positions are present in left-column-then-right-column order. Nonverse positions are explicitly excluded."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 68,
+    "details": "Audited all 68 narrative rows against the extracted Kyrgyz source; corrected a neighboring-row displacement while preserving strict row alignment."
   }
 }

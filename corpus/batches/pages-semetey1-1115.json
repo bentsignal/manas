@@ -120,5 +120,13 @@
       1115
     ],
     "details": "Compared rendered PDF page 1115 directly with extracted positions; all 78 narrative lines appear in order and all listed layout elements are nonverse."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every extracted narrative row directly with its matching English row. The existing translation was semantically aligned and required no row changes; preserved one English line per source ID and the original row order."
   }
 }

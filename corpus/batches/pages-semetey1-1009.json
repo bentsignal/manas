@@ -118,5 +118,12 @@
       1009
     ],
     "details": "Compared all four printed verse columns against original-resolution rendering; all 66 narrative lines present and ordered, with running title, section title, printer signature, and folio excluded."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 66,
+    "details": "Audited all 66 narrative rows against the extracted Kyrgyz source; the existing English rows were semantically sound and correctly aligned."
   }
 }

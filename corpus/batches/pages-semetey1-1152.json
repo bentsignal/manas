@@ -116,5 +116,6 @@
       1152
     ],
     "details": "Compared both printed columns against the 1400-pixel Poppler rendering; all 77 narrative positions are present in left-column-then-right-column order. Nonverse positions are explicitly excluded."
-  }
+  },
+  "alignment_check": {"method": "source-English row semantic audit", "checked_by": "Codex QA", "date": "2026-09-15", "rows": 77, "status": "draft; no independent specialist review", "details": "Compared every English row with its exact extracted Kyrgyz source ID; corrected clear lexical errors and neighboring-row displacement while preserving one English row per source row."}
 }

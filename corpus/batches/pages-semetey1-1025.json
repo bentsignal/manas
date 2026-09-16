@@ -175,5 +175,12 @@
       1025
     ],
     "details": "Compared both printed verse columns against original-resolution rendering; 63 translated narrative positions and fifteen explicitly withheld positions are present and ordered, with running title, column-break signature, and folio excluded."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 63,
+    "details": "Audited all 63 narrative rows against the extracted Kyrgyz source; corrected a neighboring-row displacement while preserving strict row alignment."
   }
 }

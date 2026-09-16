@@ -111,5 +111,12 @@
       1028
     ],
     "details": "Compared all four printed narrative blocks against original-resolution rendering; all 68 narrative positions are present and ordered around the centered two-line section title, with running title, section title, and folio excluded."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 68,
+    "details": "Audited all 68 narrative rows against the extracted Kyrgyz source; the existing English rows were semantically sound and correctly aligned."
   }
 }

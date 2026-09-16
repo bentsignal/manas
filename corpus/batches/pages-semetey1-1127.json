@@ -115,5 +115,12 @@
       1127
     ],
     "details": "Compared the correct rendered Semetey PDF page 1127 directly against extracted source positions; all 78 narrative lines are present in reading order, including the split narrative blocks on page 1129, and every listed exclusion is a nonverse layout element."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "details": "Audited all 78 narrative rows against the extracted Kyrgyz source; the existing English rows were semantically sound and correctly aligned."
   }
 }

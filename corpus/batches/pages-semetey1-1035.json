@@ -116,5 +116,13 @@
       1035
     ],
     "details": "Compared both printed verse columns against original-resolution rendering; all 78 narrative positions are present and ordered, with running title, column-break signature, and folio excluded."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every extracted narrative row directly with its matching English row. Corrected a neighboring-row phrase displacement while preserving one English line per source ID and the original row order."
   }
 }

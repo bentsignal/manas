@@ -120,5 +120,13 @@
       1065
     ],
     "details": "Compared both printed verse columns against original-resolution rendering; all 77 narrative positions are present and ordered, with website watermark, running title, printer signature, and folio excluded."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex QA",
+    "date": "2026-09-15",
+    "rows": 77,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row with its exact extracted Kyrgyz source ID; found the existing strong draft semantically aligned and preserved one English row per source row."
   }
 }

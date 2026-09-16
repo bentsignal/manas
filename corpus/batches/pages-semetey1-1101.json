@@ -116,5 +116,12 @@
       1101
     ],
     "details": "Compared rendered PDF page 1101 directly with the extracted page layout; all 78 narrative positions are present in reading order and every listed watermark, running title, section heading, printer signature, or folio exclusion is nonverse."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "details": "Audited all 78 narrative rows against the extracted Kyrgyz source; the existing English rows were semantically sound and correctly aligned."
   }
 }

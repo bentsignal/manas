@@ -114,5 +114,12 @@
       1070
     ],
     "details": "Compared all four printed verse blocks against original-resolution rendering; all 66 narrative positions are present and ordered, with website watermark, running title, two-line section heading, and folio excluded."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 66,
+    "details": "Audited all 66 narrative rows against the extracted Kyrgyz source; corrected an invented proper name and a neighboring-row displacement while preserving strict row alignment."
   }
 }

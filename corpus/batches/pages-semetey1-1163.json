@@ -121,5 +121,13 @@
       1163
     ],
     "details": "Compared the supplied page-1163.png directly with extracted rows in left-column-then-right-column order; all 78 narrative positions are included exactly once and 4 nonverse positions are explicitly excluded."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every extracted narrative row directly with its matching English row. The existing translation was semantically aligned and required no row changes; preserved one English line per source ID and the original row order."
   }
 }

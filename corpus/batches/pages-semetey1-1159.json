@@ -115,5 +115,6 @@
       1159
     ],
     "details": "Compared the supplied page-1159.png directly with extracted rows in column order; all 78 narrative positions are included exactly once and 3 nonverse positions are explicitly excluded."
-  }
+  },
+  "alignment_check": {"method": "source-English row semantic audit", "checked_by": "Codex QA", "date": "2026-09-15", "rows": 78, "status": "draft; no independent specialist review", "details": "Compared every English row with its exact extracted Kyrgyz source ID; found the existing strong draft semantically aligned and preserved one English row per source row."}
 }

@@ -115,5 +115,13 @@
       1086
     ],
     "details": "Compared the printed page at original rendered resolution against the extracted source positions; all 66 narrative positions are present and ordered, and the listed watermark, running-title, heading, printer-signature, or folio positions are excluded as applicable."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 66,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every extracted narrative row directly with its matching English row. Corrected a neighboring-row phrase displacement while preserving one English line per source ID and the original row order."
   }
 }

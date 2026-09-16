@@ -113,5 +113,13 @@
       990
     ],
     "details": "Compared all four printed verse columns against original-resolution rendering; all 66 narrative source positions present and ordered, with the running title, section heading, and folio excluded."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 66,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every extracted narrative row directly with its matching English row. Corrected neighboring-row phrase displacement while preserving one English line per source ID and the original row order."
   }
 }

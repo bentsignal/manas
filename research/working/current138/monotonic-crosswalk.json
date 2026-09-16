@@ -1,0 +1,57 @@
+{
+  "inventory": 138,
+  "old_inventory": 959,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/138.pdf",
+    "sha256": "c65d805e5d8e8d6fce26f796b920f317e683dfbcc1493e7a856ba98db6f84ab4",
+    "pdf_pages": 211,
+    "narrative_pdf_images": [3, 209],
+    "narrative_image_count": 207,
+    "folio_range": [1223, 1427],
+    "folio_count": 205,
+    "catalogue_narrative_count": 5326,
+    "title_leaf_count": 5326,
+    "closing_leaf_count": 5326,
+    "note": "The 207 narrative images exceed the 205-folio range by two; the duplicated/extra photographs do not alter the independently repeated line total."
+  },
+  "boundaries": {
+    "opening": {
+      "id": "seytek-2012:p0996:b002:l037",
+      "ordinal": 372251,
+      "text": "Өчкөн оттор жагылып,"
+    },
+    "closing": {
+      "id": "seytek-2012:p0644:b003:l011",
+      "ordinal": 344121,
+      "text": "Теги муңайсаң боло мен үчүн.",
+      "nearby_terminal_leaf_anchor": {
+        "id": "seytek-2012:p0644:b002:l038",
+        "ordinal": 344097,
+        "text": "Айбатың артык, заарың күч"
+      }
+    },
+    "next_inventory_opening": {
+      "inventory": 139,
+      "id": "seytek-2012:p0644:b003:l012",
+      "ordinal": 344122,
+      "text": "Чыңаалаган душмандын"
+    }
+  },
+  "released_witness_envelope": {
+    "source_id": "seytek-2012",
+    "lower_ordinal": 344121,
+    "upper_ordinal": 372251,
+    "inclusive_lines": 28131,
+    "english_whitespace_words": 144444,
+    "english_regex_tokens": 144293,
+    "manuscript_direction": "opening 372251 -> closing 344121",
+    "status": "smallest monotonic printed envelope containing both exact endpoints; not a continuous manuscript-order counterpart span"
+  },
+  "completion_result": {
+    "catalogue_lines": 5326,
+    "endpoint_envelope_lines": 28131,
+    "catalogue_minus_envelope": -22805,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The released endpoints reverse physical order, proving editorial rearrangement or interleaving. The envelope excess cannot measure omissions, and no unique untranslated segment is established."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "inventory": 136,
+  "old_inventory": 957,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/136.pdf",
+    "sha256": "e4cb6a800e709685f3d06036f838470bcf4d1b85d5301bea20114d31bd118bc7",
+    "pdf_pages": 282,
+    "narrative_pdf_pages": [4, 281],
+    "folios": [663, 952],
+    "narrative_folios": 290,
+    "catalogue_narrative_count": 10839,
+    "title_leaf_reported_pages": 289
+  },
+  "released_witness_envelope": {
+    "source_id": "seytek-2012",
+    "first_secure_first_folio_anchor_id": "seytek-2012:p0298:b003:l013",
+    "first_ordinal": 317181,
+    "first_anchor": "Айрылдым эки ботомон,",
+    "last_ordinal": 355929,
+    "last_id": "seytek-2012:p0792:b002:l027",
+    "last_text": "Эл кыдырган жарчыбыз.",
+    "next_inventory_first_ordinal": 355930,
+    "next_inventory_first_text": "Баатыр шер Манас баласы,",
+    "inclusive_lines": 38749,
+    "english_whitespace_words": 197319,
+    "english_regex_tokens": 196982,
+    "status": "outer editorial envelope; opening is earliest secure first-folio anchor"
+  },
+  "completion_result": {
+    "catalogue_lines": 10839,
+    "released_outer_envelope_lines": 38749,
+    "catalogue_minus_outer_envelope": -27910,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The printed edition heavily interleaves or rearranges source material between the boundary anchors. The outer envelope is coverage evidence, not a one-to-one manuscript transcription or a missing-line measure."
+  }
+}

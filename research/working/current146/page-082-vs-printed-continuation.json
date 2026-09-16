@@ -1,0 +1,244 @@
+{
+  "manuscript": "research/working/current146/page-082.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 35,
+  "lines_with_candidates": 5,
+  "exact_match_lines": 1,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l001",
+      "manuscript_text": "Кулжундаган куучурлар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l002",
+      "manuscript_text": "Жер майлаган кесирет,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l003",
+      "manuscript_text": "Жеткилең сайды чоң дүмөн.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l004",
+      "manuscript_text": "Колу каптап турган жер,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l005",
+      "manuscript_text": "Уруу түмөн кол болуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l006",
+      "manuscript_text": "Жер тумандан козголуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l007",
+      "manuscript_text": "Каптаган түмөн кол алып,",
+      "matches": [
+        {
+          "index": 1458,
+          "id": "seytek-1991-continuation:p0330:b003:l048",
+          "text": "Калкынан түмөн кол алып,",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l008",
+      "manuscript_text": "Көк темирдей куралып,",
+      "matches": [
+        {
+          "index": 1459,
+          "id": "seytek-1991-continuation:p0330:b003:l049",
+          "text": "Көк темирдей куралып,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l009",
+      "manuscript_text": "Коргон жандан түңүлүп,",
+      "matches": [
+        {
+          "index": 1200,
+          "id": "seytek-1991-continuation:p0327:b001:l039",
+          "text": "Көргөн жандан түңүлүп,",
+          "score": 0.8947
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l010",
+      "manuscript_text": "Журт бүлдүрүп, калк чайкап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l011",
+      "manuscript_text": "Каары кара билинип,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l012",
+      "manuscript_text": "Акылы бар адамзат,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l013",
+      "manuscript_text": "Кара жандан түңүлүп,",
+      "matches": [
+        {
+          "index": 2556,
+          "id": "seytek-1991-continuation:p0342:b001:l011",
+          "text": "Кара жандан түңүлгөн,",
+          "score": 0.8571
+        },
+        {
+          "index": 2665,
+          "id": "seytek-1991-continuation:p0343:b001:l021",
+          "text": "Кымбат жандан түңүлүп,",
+          "score": 0.8333
+        },
+        {
+          "index": 1200,
+          "id": "seytek-1991-continuation:p0327:b001:l039",
+          "text": "Көргөн жандан түңүлүп,",
+          "score": 0.8333
+        },
+        {
+          "index": 1005,
+          "id": "seytek-1991-continuation:p0325:b001:l042",
+          "text": "Чарпышпай жандан түңүлүп,",
+          "score": 0.8205
+        },
+        {
+          "index": 29,
+          "id": "seytek-1991-continuation:p0315:b002:l028",
+          "text": "Кыл көрбөй жандан түңүлүп,",
+          "score": 0.7692
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l014",
+      "manuscript_text": "Бууга курт алыптыр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l015",
+      "manuscript_text": "Акылын алып биле албай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l016",
+      "manuscript_text": "Суу кылган так болуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l017",
+      "manuscript_text": "Калк көбөйүп, чуу кылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l018",
+      "manuscript_text": "Бууга курт алыптыр.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l019",
+      "manuscript_text": "Адамзат билбес бир азап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l020",
+      "manuscript_text": "Чууга кирип алыптыр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l021",
+      "manuscript_text": "Күбүр-шыбыр чоң ушак,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l022",
+      "manuscript_text": "Бууга кирип алыптыр.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l023",
+      "manuscript_text": "Бу кара жолтой калыңдардын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l024",
+      "manuscript_text": "Ачык айтар эрки жок.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l025",
+      "manuscript_text": "Күбүр-шыбыр кеп кылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l026",
+      "manuscript_text": "Көк асаба туу алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l027",
+      "manuscript_text": "Жер жүзүнө чуу салып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l028",
+      "manuscript_text": "Көөдөн турган кезинде,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l029",
+      "manuscript_text": "Калк бүлдүрүп, журт кырып,",
+      "matches": [
+        {
+          "index": 302,
+          "id": "seytek-1991-continuation:p0318:b003:l024",
+          "text": "Эл бүлдүрүп, журт Кыйнап,",
+          "score": 0.7805
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l030",
+      "manuscript_text": "Ай-ааламга чыр баштап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l031",
+      "manuscript_text": "Тозоктун төрүн бузуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l032",
+      "manuscript_text": "Эмей турган кезинде,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l033",
+      "manuscript_text": "Кабылганды жазасын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l034",
+      "manuscript_text": "Чатышкандан сазасын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf082:l035",
+      "manuscript_text": "Бере турган кезинде.",
+      "matches": []
+    }
+  ]
+}

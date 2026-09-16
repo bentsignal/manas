@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-15",
+  "result": {
+    "complete_manuscript_witnesses_found": true,
+    "count": 2,
+    "pdf_pages": 452,
+    "bytes": 203698873,
+    "catalogue_lines_acquired": 15186,
+    "provisional_missing_positions": 10623,
+    "provisional_missing_positions_certified": false
+  },
+  "discovery_rule": {
+    "directory": "https://manuscript.bizdin.kg/static/media/pdf/",
+    "sample_prefix": "Obrazets-",
+    "full_prefix": "web-",
+    "case_sensitive": true
+  },
+  "scans": [
+    {
+      "current": 145,
+      "old": 966,
+      "url": "https://manuscript.bizdin.kg/static/media/pdf/web-145-Seitek-Saiakba-Karalaev.pdf",
+      "path": "sources/raw/manuscript-full-91-146/145.pdf",
+      "pages": 200,
+      "bytes": 72231106,
+      "sha256": "70a939883646a0893194f7a67db9f8b4b58bfa978bcf94fa595190f0e28ece92",
+      "catalogue_physical_pages": "191-387",
+      "visual_anchor": "PDF page 198 shows handwritten folio 386",
+      "valid_eof": true,
+      "text_layer": false
+    },
+    {
+      "current": 146,
+      "old": 967,
+      "url": "https://manuscript.bizdin.kg/static/media/pdf/web-146-Seitek-Saiakba-Karalaev.pdf",
+      "path": "sources/raw/manuscript-full-91-146/146.pdf",
+      "pages": 252,
+      "bytes": 131467767,
+      "sha256": "f13de4f4bc48f2da4eb502e29e9b2b340648255ef7769b069e86d24c617319a4",
+      "visual_anchor": "PDF page 250 shows handwritten folio 631 and proves inclusion of cited folio 401",
+      "valid_eof": true,
+      "text_layer": false
+    }
+  ],
+  "first_transcription_ranges": [
+    {
+      "inventory": 146,
+      "pdf_pages": "1-10",
+      "purpose": "First safe post-core unit and alignment seed against the abridged print continuation",
+      "evidence": "Five-page sample opens Бу кайран атаң арбагы, absent verbatim from released Seytek and extracted 1991 continuation",
+      "novel_relative_to_released_core": true,
+      "novel_relative_to_print_continuation_certified": false
+    },
+    {
+      "inventory": 146,
+      "handwritten_folio": 401,
+      "purpose": "Locate encyclopedia-cited twins-birth passage and establish episode map"
+    },
+    {
+      "inventory": 146,
+      "range": "final ten text pages through handwritten folio 631",
+      "purpose": "Establish manuscript ending and compare against printed prose synopsis"
+    }
+  ],
+  "feasibility": {
+    "source": "high-resolution color photographs of cursive Kyrgyz Cyrillic handwriting",
+    "pdftotext": "form feeds only",
+    "initial_tesseract": "mostly unusable",
+    "recommended": "reviewed handwriting recognition or assisted manual transcription with inventory/PDF-page/folio/line provenance"
+  },
+  "additional_editions": [
+    {
+      "name": "Seytek 1960",
+      "url": "https://new.bizdin.kg/kniga/seytek-1960-g",
+      "path": "sources/raw/continuation-source-hunt/seytek-1960-bizdin.pdf",
+      "pages": 262,
+      "bytes": 4095788,
+      "sha256": "af7a17e9484a29c2001736a790ddc3cf110cfe58e62ac7e731d495844f856067",
+      "continuation_rows_added": 0
+    },
+    {
+      "name": "2026 IA Kyrgyz-Latin/Turkish Seytek",
+      "url": "https://archive.org/details/manas-semetey-seytek-karalaev-kirgizca-turkce",
+      "path": "sources/raw/continuation-source-hunt/ia-2026-seytek-karalaev-djvu.txt",
+      "reported_verses": 89327,
+      "bytes": 5338010,
+      "sha256": "a79bd8505c99e6800b65a685d1b8778fa0dbf552bfb6cd0a3f39873db1ec1a06",
+      "terminal_line": "San kara kütkön bay bolup.",
+      "continuation_rows_added": 0
+    }
+  ],
+  "corpus_or_release_modified": false,
+  "external_request_submitted": false
+}

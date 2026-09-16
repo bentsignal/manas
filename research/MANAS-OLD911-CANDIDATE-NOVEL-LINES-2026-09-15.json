@@ -1,0 +1,49 @@
+{
+  "date": "2026-09-15",
+  "source_id": "manas-ms-old911-current90",
+  "source_pdf": "sources/raw/manas-ms-old911-current90-full.pdf",
+  "source_url": "https://manuscript.bizdin.kg/static/media/pdf/90Manas-Manastyn-bala-chagy.pdf",
+  "source_sha256": "abe0b9bd1dfdcac97d6c3b2a32f30f7efaafc12850dd283e4f71ffe98709c013",
+  "pdf_pages": 302,
+  "manuscript_foliation": {
+    "first_leaf": 1,
+    "first_leaf_pdf_page": 6,
+    "last_leaf": 294,
+    "last_leaf_pdf_page": 299,
+    "mapping": "manuscript_leaf = pdf_page - 5 for continuous leaves 1-294"
+  },
+  "ocr_checkpoint": "research/working/manas-old911/tesseract-checkpoint-2026-09-15.json",
+  "ocr_pages_complete": 302,
+  "ocr_quality": "discovery-only; not adequate for diplomatic transcription",
+  "alignment_anchors": [
+    {
+      "manuscript_leaf": 1,
+      "pdf_page": 6,
+      "rendered_image": "/tmp/manas-old911/images/page-006.jpg",
+      "printed_source_page": 16,
+      "printed_source_start_id": "manas-2010:p0016:b003:l001",
+      "status": "visually-aligned",
+      "details": "Heading and opening genealogy align in sequence: Түп атасы Түгөл кан; түбүнөн Кыдыр даарыган; Башкы атасы баары кан; Башынан Кыдыр даарыган; Түнөп өткөн жерине; Түптүү мазар орногон; Муну түбүнөн кудай оңдогон."
+    },
+    {
+      "manuscript_leaf": 294,
+      "pdf_page": 299,
+      "rendered_image": "/tmp/manas-old911/images/page-299.jpg",
+      "printed_source_page": 144,
+      "printed_source_start_id": "manas-2010:p0144:b002:l023",
+      "printed_source_end_id": "manas-2010:p0144:b002:l039",
+      "released_ordinal_start": 6153,
+      "released_ordinal_end": 6169,
+      "status": "visually-aligned",
+      "details": "Distinctive endpoint sequence aligns: Бул Алтай сага жер эмес; Бул Ошпур сага эл эмес; Ошпурдун тилин сен алсаң; Кызыл-тазыл кырмызы; Кыргагын тартсам бөлүнбөйт; Калмактан койчу Ошпуруң; Кыргыздан тийсе колуна; Кылчаяр арам көрүнбөйт; Жашыл ала тал жибек; Жан-жанын тытсам бөлүнбөйт; Жакын көргөн Ошпуруң; Жаңжуң келсе жамандап; Жан коёр адам көрүнбөйт; Жылкысын айтат: «Мөрүн» — деп."
+    }
+  ],
+  "candidate_novel_verses": [],
+  "candidate_count": 0,
+  "decision": "No line may be counted as novel until directly read from the manuscript image and shown absent from the complete 2010 source after orthographic normalization and contextual alignment.",
+  "remaining_work": {
+    "pages_requiring_diplomatic_review": 292,
+    "next_pdf_page": 7,
+    "note": "Baseline OCR completed all pages and both narrative boundaries align to the received 2010 sequence. Interior leaves 2-293 still require image-grounded diplomatic collation; unreliable OCR cannot prove absence of internal variants or omitted lines."
+  }
+}

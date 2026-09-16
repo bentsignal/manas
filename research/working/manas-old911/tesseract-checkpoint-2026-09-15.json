@@ -1,0 +1,2427 @@
+{
+  "date": "2026-09-15",
+  "source_id": "manas-ms-old911-current90",
+  "source_sha256": "abe0b9bd1dfdcac97d6c3b2a32f30f7efaafc12850dd283e4f71ffe98709c013",
+  "pdf_pages_expected": 302,
+  "pdf_pages_ocr_complete": 302,
+  "ocr_engine": "tesseract 5 eng psm6 baseline",
+  "warning": "Historical handwritten Latin-script Kyrgyz is outside this OCR model's reliable domain. Text is discovery-only and cannot establish novel verses without image review.",
+  "pages": [
+    {
+      "pdf_page": 1,
+      "image": "/tmp/manas-old911/images/page-001.jpg",
+      "ocr_text": "— p—— S———— ey - —— S\nSty J ¥\nS ; \\\n\ne : ‘\ne 0 N |\ni X LA 5 [ATARLALE,\n&y M AL Gy .\n‘~s.;: s ¢ \" P :\nP “_‘ ‘\\ ' ¢ /. /\\\n",
+      "ocr_sha256": "a0c782232ea498668b5387b285568288d2379966f6102abbc05f32113ea9fcc6",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 2,
+      "image": "/tmp/manas-old911/images/page-002.jpg",
+      "ocr_text": ". . N\n-\n\nKopacacl ¢ .\n\n| T |\n13 e 29 corypo-\n\n: 5082 emparl,\n~ NN o\n",
+      "ocr_sha256": "1ead2fdbf1cf4c95256003c9405565e7b1f205a8c150c85f04e7e4db8cb2f3f4",
+      "nonblank_lines": 7,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 3,
+      "image": "/tmp/manas-old911/images/page-003.jpg",
+      "ocr_text": "5 \\/ LIS 77 25 7 Y v B N\\\n\ng A e WM?WW/?%\\\n\nW by oL /7 Lr Cgpany.\n\n' il L 7). forre.\nNom% 627 31/ A7 > iy,\nS b I g,\n\nN s 12 iy i\n\n55 I 8 T g tpios\n1 1 .x\"—;.‘u oAy | .//)/ 4\n\n'ov‘f . ; X\n",
+      "ocr_sha256": "e449a2a9dc64d515dd03e6621f73f2e99b5cd2f64e4c4a088e8822e4e9ff44f4",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 4,
+      "image": "/tmp/manas-old911/images/page-004.jpg",
+      "ocr_text": "NSRS © G PR L e P :\n\nJif% Tr‘ \" i »;4 L ﬁ’//@;‘/i‘//)}' o _K_____‘_r_‘.‘?_}\n\ne Y % Ry\n\nS g\ne ) & 2 ZZ”?W%--;’/— 7. ¢\na‘i@’z < L% z,___w,.. CF E iy 4\n",
+      "ocr_sha256": "a4e7431c8b5c8084dca11fd63883f4d37c0a060e6cf38dce410b4ec117b9254a",
+      "nonblank_lines": 6,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 5,
+      "image": "/tmp/manas-old911/images/page-005.jpg",
+      "ocr_text": "",
+      "ocr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "nonblank_lines": 0,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 6,
+      "image": "/tmp/manas-old911/images/page-006.jpg",
+      "ocr_text": "S (I i :\n'i e . /?/*/// 72, |\ni ffé/;///f/f FIDE P s |\nB Vo s Karlow |\n‘,% %f% /%?Z?f&/?/z/};%w = |\nNS e //y,,/// |\no7/ 74 /mﬂ”/f/ LI srnz, |\nd clam wrge g Lk, |\n& /;;/f/j/’d’///// [/42/ z{f’/ﬁlﬂ’///;\nB g vy et\nP 4{»//7%%/7/;%/7 /{’/”//Qf// PR 5 )\n¥ 14/77%/&// g\n,zzW//W ko\n",
+      "ocr_sha256": "2a5a4f503ebb259e06dfe84c4428a04a40799ec14d3869292dd0bc1d5841c800",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 7,
+      "image": "/tmp/manas-old911/images/page-007.jpg",
+      "ocr_text": ";’ ‘/ | /g ‘N\\\\:\\;\nz%/d///;/ len Wi ,\n%{;ﬁf GO Ie 2 g,\ng}a Dola 77413/@ Paakbe\nf////é”f/’ /’[/7/// ;7//\"/?59//, /\nb ? 7 &{/ ?/}W ﬂ\"//‘//i”/%/f\"‘\niﬂ?‘z—i.,, e\nT L\nS Gl 90r Wi G,\nel\ne s Guder\n2 ///7/// V4 /7 55\n5 Q ridgar 2o /f/é’/{/ﬁ///f\"?f 2\nu’ﬁ//{/f/ﬂ// gape vef Sty |\n. U bty éyfm Hered, - |\ngy g’ 17 f\n; C)f?’éf%% wadyp Gl\n",
+      "ocr_sha256": "7f703c53fc00af3bbbeff439b7758e51450285937aae830ac328759cf7ad463b",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 8,
+      "image": "/tmp/manas-old911/images/page-008.jpg",
+      "ocr_text": "'. W zi vy g Crp S Zrzy,\naza tgsy L0t le\n: i&y //ﬁfffz?%‘// /’yf//%f’ &\nL iy v G sty\nJ/ﬁ/ﬁ///f/// A ”,9%;)- G |\nLU B g % rpge |\nL miiiter Ay 7\nS sy ik 2007 |\n Lir ey qerqeni? - |\n£ é)ﬂfﬁ%ﬂ Vo7 /}///1}{7[///[[’/// k\ne\n Ps@jrapl g ;//7' - 4\n| 7%/&7/& : (/y/;v 277 @ |\n",
+      "ocr_sha256": "eceac0f2464a61303c9ecba34e877a6eb0c40643b9e8cd67e2e7aecd5b94f252",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 9,
+      "image": "/tmp/manas-old911/images/page-009.jpg",
+      "ocr_text": "3 yf;//;//'/fm/%f M5,\no ///'ﬂf//ﬂ/ ﬂfymn/‘%'\nVo 7y gy Vi\n! ﬂ///////// /’Zﬁﬁf SO rizs,\nS T e gy et\nS W;zz//t////@ byrat\n: 776%7%/ ?Z’Wéﬁ ‘werite\nD G Gy ety\n. e\nD2y purivirr friecty .\nL Jaley S SO\nDAy ph e Sk\ney /ﬁ/é/if// PR F 2 G\nL) v ke 2555 |\nGty savtrr F2RIFE\nL gt saprr Latr aPIE\n=5 G bafive SH/GE NE -\n",
+      "ocr_sha256": "576656fb0e0a640ea3f73c91149c755f9379b945f838f8f795df40045923d371",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 10,
+      "image": "/tmp/manas-old911/images/page-010.jpg",
+      "ocr_text": "7. %g//// ///4/1’27/7 éJ‘ZZf//f/.,/f/V{’/ \"\n\n; 2 @ree [y & s\n\n74 ym%ééxf Dl ot\n\nL /i;/d///fff// lzzss Vi 2\n\n.y %%ff;ﬂ %Z%%&/ﬂ?a\n\nT By g g\n\nY gy Wk 757\n\nG e COP //77 ‘\n\nI Jrfr i g RF i\nL Zawmi gz Gy tedySyr :\n\n- s /m{ ﬂ’éﬂ//’ﬂé\n\nL ek vty Szp a4 967\n\nN\n) R e\n",
+      "ocr_sha256": "b2c1393ccc6d14ddde6cf97372b6267ecfd0ec7abdb96c35ede6e59f5dc2af61",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 11,
+      "image": "/tmp/manas-old911/images/page-011.jpg",
+      "ocr_text": "- /M/ iz /’y@) e 57\n;,—/Wf”ﬂ/ﬂ{//f? /f/{/,,{//) ;\n| s v Suwin) ,@,7/%7/\n@ gt ey A 2527\n\n. %/y//'/;//’ 1/1”7//////‘}//@'7\n\nL L2ty ey J8 w0k\nL3 /Wé,yﬂwﬁ//% vy &//%/ 2pz.\nSl v grtgenat\nAy Jprr G700 557\nj wZ/%///ﬁ/ Anaher gy 5\n Clzpp ey e\n2 getmae fonk MY Ay\n\n2 @Z///& G 9% g pot' iy .\nB Ge tt drde\no o v\nP2 2 S s\n\ne e ,fée//;«/ prrgpe?, :\ni el\n",
+      "ocr_sha256": "fb4b92d986a80ecdb2ce1206fd74ccd829801d2551d7a3fc92fc9322f3802195",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 12,
+      "image": "/tmp/manas-old911/images/page-012.jpg",
+      "ocr_text": "& Gy T Fer bl 2ty\n%//;// z'mé»v/f//‘ .\nL Ll rhiy frrpnige\nT fry e pede -\n Cutrsmiby  gusire\n* ,4”%7””;’” /»?//////\nVi 0G0 i G\n. 2HLar L0 g @/JW/,\nL 7/7/42’ :\nL dorrripsp oty Vi i\n5 ? - ,-%V/f/q/// PRl 7t S yz/ﬁﬂ\ns\nL Sy /g/y/ st gii,\nL Pupar %//yfzf quetr ey ot\n| -%i:-iifw/y/f% oo |\n",
+      "ocr_sha256": "ef884cf37ecac364145c5011400540e531696b2f0778db6ac921d103d599ae7f",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 13,
+      "image": "/tmp/manas-old911/images/page-013.jpg",
+      "ocr_text": "e Jur S\n\n& éf//ﬁifé;a- FI2 D202 P 50 Kl T\n\n| 7 ey ﬂy/ﬂ?/’“/ﬁv ’\n\n\\ Zadpme werier gedig of\n\ns %wy/ Jlpe bes?\n\nP S /7 P\n\no= L e 2 Sl\nks ﬁ///////z‘ L lper V2 55 LF B\n\nB G by é/?’%////)y/////p\n\nvy %///é; tires? S7 -\n2ty pyer e\ne ///&Jffé// WG Forb G\nL ZlpL gt st\n\n| Sk paroe 27\n| @ aigy paer S\n\".. i;ofﬂé’m %//Mn/z%ﬂ ///f// :\n",
+      "ocr_sha256": "fadfff61398bb31a5a976dc00f093d809868aecf9adf12cb7ee80eedecc12a98",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 14,
+      "image": "/tmp/manas-old911/images/page-014.jpg",
+      "ocr_text": "o e '*\n\n;. %/ﬁ//”// PBAY Janysaty\n\nﬁfﬂé////f?f 4/7//2’3 ;\n\no s\n\no ey '\n\nit e e '\n\nB o oz\n\n| iy s e\n\nB o e \"\n\nR\n\ne ”\n\n- Coyngpar Gy 2\n\nN it b e\n\ne ol\ne e\n\n| e\n\nO s, *\ni e |\nby éae gl\n",
+      "ocr_sha256": "7a7328e3806057a1ffbd5ab164f69b91cae43779889737fc405d668fb022e04d",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 15,
+      "image": "/tmp/manas-old911/images/page-015.jpg",
+      "ocr_text": "5 7 /ﬁﬁﬂf 4/@7///’43////2 £\n\n! N Biw jurse At 2,\n\ney 2t sirer,\n\n? A 07 247 é////}// Vi\n\n Seieige yit Sty '\n\no /?% i\n\nf i 257 Ypoar it\n\n%,;;g;e.afﬂgﬁz,yw fGF e Gl\n\n| Pz g ot Tl\n\n2 f;t;//////& /;zw yffx/zz;c??////fﬂ/\n\ng PPl i\n\n? {////// //Zf%f%ﬂﬂ//y /\ns %;j% sy g S\n\nS ZM\n(B »j&%ﬁ&///fk 7z /«{’iﬁ/\n\nL I 2y i R sy 2F\n| B2l\n",
+      "ocr_sha256": "d0c1597c08f2630d4243acb02b90d0f32aaa8e0a4383288a6d5ba3fef822b436",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 16,
+      "image": "/tmp/manas-old911/images/page-016.jpg",
+      "ocr_text": "i Glap2sotr sop ey 017007\nGaie73 g0t ool\n///%///////w 2y\n\n: : 72270 '/l///z“iy/ &Gy\ni A e\n\nGt oy Sutbens,\n\nS Gt 1277 Joriuct,\n\ns Jalire (‘/////‘i:/y\n\ngy /%f// LY :\n\n- ar fidy e ////2///}%; ,\n\n- Jay gatire Doty\n\n4 'WMW Vit\n\n-\n\n: yZ/%Wy//JW e\n\ni W/;///M/////@g/mﬁ'\n\nel gr b AT |\n\n| Hl f ety Pl\n\n- Bear gy 20T CEge\n\n| Spr salh Y\n\n8 Qe gty st\n",
+      "ocr_sha256": "32c50be90fa1a1e4a7ecd585e7d25cf967355f9890d4b61b5115b5e9578f6d17",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 17,
+      "image": "/tmp/manas-old911/images/page-017.jpg",
+      "ocr_text": "w a7 é’/;%?/:%» vz\n‘ o /é/y% Py #Vyers\n2wy fords #EY purihy\nDl 2% Sorpars\nD b\n\no : %/ b GLE S S *\nLy ry gty\n\n% = gé’%/;%/ Gope 225\ne e A S\n| Tt did 2 27\n\nl | Wfake dort AR GF\ney oo abese\n\n‘  Gplmitly fore g GiE\ni\n@ Faprrin\n|y Ly Srve 7,\n.\n",
+      "ocr_sha256": "46d7d4111591db4292bb6a0d769e4101e8a89e024949f7e60a1c9b62a464d546",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 18,
+      "image": "/tmp/manas-old911/images/page-018.jpg",
+      "ocr_text": ",! L cnp IV SpShrf R\n; ’ 7 vy /ﬁ/fﬂ?/\n; fwf/fﬁfygn /y/‘zfﬁ,ﬁ lone\nN b2 gz ////z‘/w/\n: 3 PG Gy wrar ///ﬁ’%fg//\n| & lpr byiry & Tty\ne BT 6?27 GLIE\n| e\nL RO OD Cepa Srpan fariis -\n| w somesoty i A e\nL Wtletln s,\n| [ /% fary b 2780\n| /Wz////é///;? Pl\n| etregar s o\n= APy Sy P e - ;\n: mfé M;ﬂ//i/ /%Z”/’\ne /Wwff/ s i\nL0 R\n& vl pov C7”\n",
+      "ocr_sha256": "82f4c0a712d0dd654bb29e476298843df1eb9099e53d17b1363db50cf61d2fc6",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 19,
+      "image": "/tmp/manas-old911/images/page-019.jpg",
+      "ocr_text": "i U G20 Vriyn-ce\n3 Gz siring iy par o |\nW oo VL i\nN\n1 D7 LY So e b s\nf &%,é?fﬁ/@ wey 7%’/’/«/74,\no S a7 2y Sty ///}///[fzﬁr\nDy it der\n{ R /W/ i\n. ’ Z//,f// V7l ///f'ﬂfz/,\ni 2y ey [/\n’. - Gpr i 20w 8§ »f/,\ng Ciplp P2y P SE\nl : f%&ﬁﬁ//’/ ;é/@‘///y\ni JW&;V/%Q)Z? S Sew 925\ng ey\ne ?MJ%/W///%WZQ{ :\ni ,*Z/% wy P b’ ‘\n| iy e\ne e e\ni 4%%//.%%[// drpt\n",
+      "ocr_sha256": "f3dd9a4ab0d2bde0453e0b87d955e28a683c8a165968deb9d5ed763f66d9c861",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 20,
+      "image": "/tmp/manas-old911/images/page-020.jpg",
+      "ocr_text": ".\n/W/W/MW b2 56 )\n\nI ﬁ%/&f///.m%ﬁ VA i\n\n{ //}} é\"/’[y’/////z; e\n\nB 0 pp g\n\n; ety b2y Sy by ot\n Getrrgarich poreowr\n\n‘{ [led izl /%%//74/&, S\n\ne é?//%‘/é/fmﬂ’”ff%/w\n\nf 'gﬂ/fyz///// 4\n\n= P 15 FLye2ip i s - :\n| \"\"’i//%i y//’%/ Y 4 ,\n//% Voo z’ﬂ/gz GEF\n\n| I sy paare\n\ne gt At pi g\n: : Y 2 /Z,,W/%/ Y\n\n| gy i g2 ey\n\no P ger Jup i S\n\n| g gt e\n",
+      "ocr_sha256": "6283d6092488e8b5f18b35ca3792ee446e98fe3af414fa41f3e8b63a88f8cab5",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 21,
+      "image": "/tmp/manas-old911/images/page-021.jpg",
+      "ocr_text": "3%’ , (A% t/)b-;’( L /‘3267@,9/(&\n\nE 0024y Kotz dre o :\n*Mmyw R\n\n\";\" Gere ole Za/ i s\n\n;fugiﬁ X s oreeole 7 AL AL 20\n\n%‘ ,W , ;%7% i ﬂy—z)@fm/a/o ‘\n\nB 00 o lgen konl exen .\n\n%“\"? 0 S (o o xga |\nS e ot oo oGl sy con _\n\n@l 2 gz (b ] ,\nM%MZM : -\ne e\n. g o e i :\n",
+      "ocr_sha256": "4a311b351eed731eaf94d9c4bdf7185431bc6ea955aaf4ba3d4078503a83ecd8",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 22,
+      "image": "/tmp/manas-old911/images/page-022.jpg",
+      "ocr_text": ".':-@‘%.’b 2//75/’ Lo [/‘/74(// [f‘/ _\nzfgz%lff (&7 / balpree tal .\ng,,égw 04/&91« 2 g [(/U teolf\n4,? P /;7'151’ CaatseAdsn.\n- %Z; e Sarnar frgnolp\nb 1S = s\n';‘;ﬁ@d/_ncotlnmt CoUR ke Fo7 0 &// ,\n;\"”gé-é’/%i (/bé? Bl e ,é/ ﬁff/’”‘?' |\nB Co) vcns oniils)\nN oo fal 9 éZﬁ/L : t\n@l ooyl\nAT\nM%goa il gelar '\nL U ede Hogeligor adim 97%%\nL 2ge garaan 7w e o e\n0%7 kel Sogsh §r3,\nB e e I\n",
+      "ocr_sha256": "3c32e815003b9f20dee27421c40f527d7e7f2130a6a931b26e581fbb4f757ed8",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 23,
+      "image": "/tmp/manas-old911/images/page-023.jpg",
+      "ocr_text": "Y ///7 o\n= /2/5/7(4 b sl s\nL. Y gin 5.\n: s AEI76 50\nB oo Yuns, Vel e\n: ﬂ(/ J o et C e rorr &,\n\n- A fee Ao Qf (e 5o 2\ni o e e oy i\ne il\n\n’5 R Y ZJ 7/%@(1K ZﬁZ@C/y Sura bz\ne %Z ©Lgglin JLowinay\ns galyam Foalndop,\nA\nS 'y olAtes > Sllogan spodi z/,//'/\n",
+      "ocr_sha256": "3e0cc8b1dde996e4fae2caf2010b2ea17f3ab7f2d3a8366cce20a17dfe8ad87a",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 24,
+      "image": "/tmp/manas-old911/images/page-024.jpg",
+      "ocr_text": "B, Ccoleee; Cay £ =\nIﬁéﬂgf Cetes Gon Lried,\nv@ . Er e /{?fz& w Ca &//?77;\n/'-M. c?{g/f z29 S /;7/ o,\no) (Trrpo o llen S\nol v, Sus Myss, |\nB atianntad\n?’3 % AL orrgoe Aoy,\n. 9ol %ﬂé@% Qlrsearp\ni VY /@ZZZ /%z ¢\no oo Gyl\ncaoal ez Bp s a1t B\nI O lilviay Gurol Yglrymcl, -\noﬁf o ;7”7% gl\nB o cotay Jusendd. B\nf”l?\";, wehitfo %wc/ﬁ/ vHe e\nC Gdriansy %ﬂ:dﬁ/ 2\n",
+      "ocr_sha256": "9e58d8c23ac6a6911f46171f4671d392ecd48033242f9dfae71e35a6bffeb1bc",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 25,
+      "image": "/tmp/manas-old911/images/page-025.jpg",
+      "ocr_text": "L 7 g 2 Ja 7/ G ’\nd,é{hg{/rfﬁ/@‘pm&dﬁh G gsgn., _\n«ZW 5(;;¢1/Lﬂ/' LalAE G E\n- %é/z'“”z/f Cogpue G6eat: A0,\n\n: ‘”WVL/& B e ot\n\ne e _\n\n‘ Mx £ P sorpy -G aarss olss\n\nW& Mol o gandt Akt :\n,_%z ity G A\n2/ d/;c(.’/(% azzafg A -\n\n& (Loairy A &g Z At\n\n/Cﬂzg/v Gar (il Gar\n",
+      "ocr_sha256": "c5d6c5f1825cefa14385c609818484e890ccf175288a9e205b7b983b64eff7c7",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 26,
+      "image": "/tmp/manas-old911/images/page-026.jpg",
+      "ocr_text": "\"' 0l Jees e Hlosi g\n55&{[64;;1 e e TR\ng)fa(c/;‘y“ olavee C\"fya Coce\n' 20’#&&&;11( (g ’& [fﬂ 1o XA L\nZh ﬁ;ﬂé%c{?,{m g [(/;4[*/} 7[}}]5 /\noo GoloK ACorlo\n. Wo gf/ 5 x Al KE ﬁg{/aé-z_\n. W @ZZZM g,Z}fe h e\n%hgﬂ’? 6 bt £\net L kb Ot 7 5/@2 ol |\n. G pléc 9/£wz//f,//7¢, G s\n%7,» &%w-é/; %@.ii,éf/gl Fty %\nBl cviivm Golilt Rolimddal.\n- ﬂ/ém e Rk LI\no &%ﬂy‘/p;l? Jols (o (ALA b n\noalipr aguw% /c«&/?ywﬂ/f .\nol zﬁﬂ/%wlz f Py pr L E\nL [1,%0%/% ketiy L& ”{f e\n",
+      "ocr_sha256": "3bb0fc9d1eda9cc5acfbad3e77b4184f7743af70519bc080f83d7c41f8ca88cf",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 27,
+      "image": "/tmp/manas-old911/images/page-027.jpg",
+      "ocr_text": "/ A K\nA [/;7 I// ; = > o R e\nG- 156701{44 f/ﬂt 7//)r A Gl by :\n= Wwﬂc;/f/) Gotogan oAb\n' Chpyi \" Weter daldaly\nR\nBl K ol e,\nB e (ple AN Y ZZ\nB o4 D ir A ar £t ce pT L\nfé M(/ < /7, ’/ %ﬂ(\\K.{(?/\n¢ A iy e A {./)/ / /\nL Qaliceitzole grle b e\n5 ﬁ Ot pi fooe D vy FE {437/’2\"\"1”15\n",
+      "ocr_sha256": "8d7e79e229107fe59bf8f992b450adc64683dceee426b44abc68f6e4195937b8",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 28,
+      "image": "/tmp/manas-old911/images/page-028.jpg",
+      "ocr_text": "{p&//W 4 W////’/ WHs mary |\nA ¢/ﬂéf BTG pris e, ;\n\nS e sre sy fo Ry ;\n\" /?%’W/ par  Jozyger\nB Gy s fupg g\n. »3;;7%2?///////// St |\nS 9y /%/% PEGF 212 ] ;\n;fw 5/7%/%/// %?7// :\n\ng ‘ﬁ’”/”é/’f g7 W Jbl o s\n/%/////Z% 97455 &7 ,\ne\ni\nP Rty Wiigw\nO Baas oo\n5 »%ﬁ;ﬂgﬁf V7 i\no oo\nR -\nL @oll gt 7 7 :\n| e .\n\nB v o e\ng ey\n",
+      "ocr_sha256": "0dd4b518cf07cda923fb05f06b55b05b58f2cb989cd40693248681f1f32390d2",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 29,
+      "image": "/tmp/manas-old911/images/page-029.jpg",
+      "ocr_text": "g %% ;i/;/; /ﬁ: ////////z/\n\n. e At\n\n- iy\n\nN e by g\n-‘ o v CW 2GR PG\nst Py g gors2\n. @z v e\n1\\ 4//5 5 o\nX ‘ -'%W%‘%/ 'éfjﬂﬁ%\n\n\\ ppaerrer %\ni /?f//%’/ 0’/75 oY 1l\ne : 4 A\nLl L\n\n’%,ia{_;,W{””” & s il\n",
+      "ocr_sha256": "37c1f750bd38e4168ffcfbb27423b8f08dcdcdf9f969b03fc0e9d967143e8c19",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 30,
+      "image": "/tmp/manas-old911/images/page-030.jpg",
+      "ocr_text": ". . . e i\nN o S iy\ngf?/’ff%ﬂ/ s\nB i s |\n| e Gy\nE £ s e |\nT ’j Pl parrr\ne 2ot 27\ns F 0o 22 |\nE PR2és grogy sz ‘\n- -\nTNE e (L e '\n.§ 2 % 2y iy\n»gg,%: %44%//7 ot 2, :\n& o 2 g P08 QT J7F\n& ‘«? // tr 202527 ol\n> ;g\" 7 2t Cows Fp -\nL Dy i o0 0 o\nL epr e Crndngy g =\ne\n.' “a‘% e |\n",
+      "ocr_sha256": "43cb09ce097ce99760515fcdcf6d0a94aba837b30d3cc8cb3cf790a3734be52e",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 31,
+      "image": "/tmp/manas-old911/images/page-031.jpg",
+      "ocr_text": "| i gare gy oty olere ,\n; JClpe e P2e [2/lry,\nb Gy oz Py Jp o\n= yg///'/f/%f//.// S22 P20,\n= 724 /%ﬁ/ i\n| L Fap i P s Gt\nL G g onte\n\\ L T ot e sy\ni 4 G 2577 /z?//fr//f/& 47,\nL i vefpe g\nL cogoiuy e |\nbl ;/5///&////%/ VA i\nL gy sy e 277\ne 7/?& 2Py ////j/;/%¢ 2\ne W G2 SIS\n< | : ﬁﬂ%/ /%?Z et ///Z’% i 724\nB G b S Gf £z ,\nel L G e sags LTS\n",
+      "ocr_sha256": "2811fff8abcfebfcd3b033485e873e99cea8003e50a233ee584eb02d0db18103",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 32,
+      "image": "/tmp/manas-old911/images/page-032.jpg",
+      "ocr_text": "S5 g ik puy g |\n/@/Z’/fj/f/ Yj/ ///4////{\n: 2y R g b,\ne ﬂé’/&/// Py 2E gt/ R\n- é’ﬂ/ﬂaﬁ V7 prri\n. tape yg}é///‘%;éé//y/@/\nS i werer oA\n%?%/%///@ 1prd /L -\nT ~%M&¢’/ﬂ/f// V=7 2%\n- /&///'//g'«‘///%/ //%7/%%\nS s e Y far FE\nz Lpp o wrrir 2 % :\n. TR gawi torsrsle\n& /Zg Y e\nL s /é%wzjf//& ;\nB ?Z/Z Zgﬁy/ Z2/%7\nN 0\nBo /@ﬂ%& G By 57\ne e\n",
+      "ocr_sha256": "cbbcc8325c7735131373ac49d77db6e036da537877fdca62fcc93da460b9390d",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 33,
+      "image": "/tmp/manas-old911/images/page-033.jpg",
+      "ocr_text": "& 28\nG g0 Ly b7l\nD g i sy o) .\nLD D s y Iy F\nGr2?s fr i F /’4'///7/\n: %/‘/ﬁ/ FOLE2 Gt\nVo //é‘/f/ P PG 5% -\ne ///fg///{.;? g\nU frivy 4y F\nCloy PRg” A GY\n| CO ey feily\npo %/ﬂ?;\" %élw// gk 57\ne\nB Gy P 47l\nEreoss YRG5 ar S #olsy 7\no ;7;////%44/ &/Zﬂf;/f/%\n_ Tt gur sty 747\n£ /%'Z////’Z/J/%/ Vi\n57%74/% 7/72{)‘?/9\nL L far 2l\nB mﬂéfwwﬂﬂ s\n",
+      "ocr_sha256": "d63735165a417363c8a6e57142f98244510b9624349e70f4f814c4ec33b1ba5e",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 34,
+      "image": "/tmp/manas-old911/images/page-034.jpg",
+      "ocr_text": "¢ Jlger gl cup it s\ni A\n; /é%//% Jry Bgsiee .\n- I reors wgrye\nL By yle 2ar gy\nB oprpr Gl 4 ‘\nOy 74P fhrd i |\n- Fatlrogs dnty 22577\no Y G sy oy gri /Py\n5 /ﬂﬁﬂ/@[/y e L d\n: Vi 4 Vi s e\nG PRIy R Ry\n' Cttr i 2ty EpH S\nby //////Z// o#2mz? /////MM\nt //7%%7%0 afpirpar\n. el sy ,\nE - //}7/%/////4 Y s\n",
+      "ocr_sha256": "3e1edb0632c20629339c206ca5b02f736f92105814a494654883f4a0bd2d6f1d",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 35,
+      "image": "/tmp/manas-old911/images/page-035.jpg",
+      "ocr_text": "FL P p oy apiermss\n%///{’f/%//////;(z Z///Z{//ﬁ?\n' Gor/ gt parcy 7//247/23@9\nDAl Frrgar\nB Gy i e\nL v e o\n(G SNy pars NP\n' P rrenz Gl Y2 G\n. W ?////K%//%%ﬂ%/yﬁ\n5 ' C?Zf/ZZﬂ WZZ/ yzzz;fw/% oo VY,\nV& %//Z/ﬂ/ oy\nDty G gt ¥ |\n: (08 42/ PRy SUFE\nL G mar FELHED nge e\ni i MWl it o\n",
+      "ocr_sha256": "8b8a0de67b902af7a588b881dc2f8ece627fe013837a8054cd2e962ce3b3500d",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 36,
+      "image": "/tmp/manas-old911/images/page-036.jpg",
+      "ocr_text": "z /%/////23/” Lt iy\n. %%//// gl forts //%g? 7\n///7%%/// 4 //’7{70\nGAF /207 62200 5 5\no e %ﬂéf%é///ﬁf/@\nLoy ﬁ/g% %4///7/\n| DRG0ty siraty Siv\n Swreror ol gt\n£ ﬂ%%’//féM U757\n. DI Pariz 64 Su2\no %%mé// Wt /Z/f 7\nA\nYW doppe Sols\n- Jdny drity g S\ni' L PR e A\n",
+      "ocr_sha256": "fcabc75ce5926a877a6651f5fe80977b5131947e06fae94556581bd5a9742692",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 37,
+      "image": "/tmp/manas-old911/images/page-037.jpg",
+      "ocr_text": "E - V4 7 é;’,// s\n77 o s /7/;»?,/ potier\n’ ZL frenity jréze -\nS Ceor il pitgprs\n| D VP Gy i i e AP Gy\n' Gty iy v 7\ney Pg gy fader sz,\n'; ﬂf&Z////% JGIT iy 27 £\nT {5k grtarily fizis 2\nL ez gy Frh o 222,\n=% (% 27 27 b5 gl\nL Gepaw [l iyt 2\n3 /&//p‘%;«// i\nL W oty oy PG\ng /m////f/zx/\n%M///éf oz Fpp 2t\n- GFgar G S e, :\nN Gi# 2 /7////7,;5? ;\n",
+      "ocr_sha256": "8ffcd6b3135d14ad49717f8f58620808c7d87c79f9c246f9b469f53c271832bd",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 38,
+      "image": "/tmp/manas-old911/images/page-038.jpg",
+      "ocr_text": "| %d’////ﬁ/t/{;’? gw/v///?/»\n: @2 »//7;/ 2%z chty,\n. /%2 22700 %ffy///)\n: e VR i,\nP2 J77 577 pew s izrz\nN S e\n; I P w2y 75 v 70 e\n2 %f}Zﬁ%/// yﬁéﬁ gtz :\n‘~ Ly 2y 2 Frp e v er2\nyZ 9;4%5;/;/ e\n; /M//// Gty Japy V7 .\n- prw f;’)}// SPop 207\nsy Coow prre\nE 7 WHYT G I SrS 2 f2\n; ﬁ{;%Z%f/)/%’ﬂZ L2 oy tre -\nk G gayaraiy /i///f” 2 ¥\n",
+      "ocr_sha256": "6901084e03e968aabd641a1fd7e551fca5e4f5c132135103a9505fe053177fe9",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 39,
+      "image": "/tmp/manas-old911/images/page-039.jpg",
+      "ocr_text": "N\n: Wéﬂ// ;%4/;// Y\nBT (G darry fme s\nR iy g\nMy fr LB sy g\nv /ZZW/m 2~ St P\n| PGr P b trws fais\n_ /?//Z/ Y 4 2 p g2 -\n//// sy S E\ne ;/Z; A V. dd =\nX AUy Pz YL =\noW o /Z’//zz\nAy iy gl 5P\nFir ey s Ve\nT /%// %W//M}//fif/jﬁj/ﬁ\"\nT Gt 454/7////%?52%\nL e b |\n| e S P e\n, 272000 s Sy g\n- Pegrpe a2y /7//#” .\n",
+      "ocr_sha256": "df45721ea7144b44be61ea01c7fb4f29a4586d0de3590ebd81e750c4bc4b3754",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 40,
+      "image": "/tmp/manas-old911/images/page-040.jpg",
+      "ocr_text": "O 0 b e\n; 4 :%7/'?’727 7 i Yy Oy o\n\n: ZZ?&’/ /////W Vs\n\n~ TRy 97570 #00 63505\n\nL Trr e poons\n\nS Paratoy Sy Sawad\n\nEe /% JZ@// gl\n\nS I ay #rw e\n\nFhLS Sz f222 A\n\nL PGty eSS gy |\n; Y7 J 772 Ve\n\n| Gy g gem pr L 27\nL Jpy, daaser Leg s Gy\n\nL gt gy Y\n\noy Zf S lontsy %/; //7/7\n\nA 7e /Z////g/// V24 ///::/'/\n\nL i L2y e -\n\ni e\n",
+      "ocr_sha256": "c433d0b7f0185eb4fabd433b5f22506eec7bb0baf6820be97346b280770cda1a",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 41,
+      "image": "/tmp/manas-old911/images/page-041.jpg",
+      "ocr_text": "/W.é‘./ﬁ%’ A1 987 9 amei/on\n%/}f//z/ /jf méq e S 2 /by\n: 2‘1 /é/?/'ff/; ;?//Z’///f//\n1 70760 T2/ 2025\niﬂ%’j ;;7; //W//é//fm// V4\nT F 2w\nE 7%/ Uy grp g ansn\n, ﬂ{;’ﬂ DI ?  Janaly\n: fé&/g/ﬂ Gy S\nL e T\n- 4 //%,/f//,?ﬁ b\n- Ggring gy ar it\n Drersf e E\ni g\ng o v\nL qupt oty e\ngt e ity\ns 7 ded i\nR e\n| Gog oy Snerise\nke\n",
+      "ocr_sha256": "5a505d76dd7af16ae5393b29b31e0a27733d38d1ac7f62c72ab4b5320a35cc7d",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 42,
+      "image": "/tmp/manas-old911/images/page-042.jpg",
+      "ocr_text": "7528 pprisy oL\n‘ JETy 7477 Forgiis\nLot (60 et s g\noz il Sl\ng Jotrts s %%;/ iz Zyo\nGy 2 éro %/&//////\n; r/@p %//// p282.77 prtez ”\nL Wl g gyate\n| //ZW/// T2 P2 s P\n| BP Oy P IS\nPrass KL pyens\n. Dpwrpate 12050 |\no gor S0y e\nE 2 2 s ie oo\n",
+      "ocr_sha256": "a52a49806efab24aa155465d80ce83d4afa4be21752002d37093cec91a514bf2",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 43,
+      "image": "/tmp/manas-old911/images/page-043.jpg",
+      "ocr_text": "' S oo poe Tl P\n\ne %«;ﬁ///‘//zz///y 2z =i 5\n\n& Qﬁf% Y B0 b\n\n,f_f;'ﬁ\" - i S P G S\n\nL P o os s st\n\ne ’Wi/ﬂ‘?/ & et :\n\nL e i\n\nﬁh%ﬂ/ﬁ /77//77?/ ST ez t‘\n\nB :\n\nR e\n\nL *\n. e B\ns\nB eo o o B\n",
+      "ocr_sha256": "1b59ae1528a6e36d4a9831795638f47b0e9aae863ebd20d5dd8418acfaa48fa2",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 44,
+      "image": "/tmp/manas-old911/images/page-044.jpg",
+      "ocr_text": "b PRavaier gz Vo =\ni ﬂ/f/ﬂ 27 Ff pag 5\n| ey iiony\n. —:§ yzy/zy/f/%/ Ptz ///////zmzﬁgy/?/ B\n;FKM%//Q sy S0 P %\n Wlg proer sy ‘ -\n?7 s // Zgmy 2 F 22 &\ni L e pacie ‘\n| 1207 cen joratadz\n02 gungor S pr/75 e\n‘//f%/ﬂ’f s | R‘E\ni |\n@t gz v &\n\"f 2 ity rgp oo .\ns et A\nSR ;ﬁuWﬁt\\ At Lt =\n",
+      "ocr_sha256": "92f634d1821dc76846b382eccd85f2edbdca52bb352a04e63af9bdbb465f96a1",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 45,
+      "image": "/tmp/manas-old911/images/page-045.jpg",
+      "ocr_text": "e .’/'////74%7// APE fapipe &\nSO 16757 foptirrrt : =\ne /7/ G 7Y Hin F\np- /W @y G2t garasas\nY 2o Jte% - =\n‘rﬂ%f/&//// G A2 2 ke |\nL oo 20 g e Sy E\nE’%M&& //775F B\nSt 2tz =\n| G i |\n| B ot w Pt : :\n guparanth gy s sy e\n| e (et 2 =\nSty 22757 &\n*/WfZ%%M% g\nR g\nDuore e wrie -\n",
+      "ocr_sha256": "2b563e72e1255a1d544debabed4accd1b4833d90bb83e7601b532fd873b55a48",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 46,
+      "image": "/tmp/manas-old911/images/page-046.jpg",
+      "ocr_text": "Ferac w3 hpter\nT g /y Gy\n7/7 S LR frrrte Fir\n/g//%%%f&& S B2\n| Gt et por %\nG gty B G e i sk\n| e2t P2 lry s i//f///’?\n- : /7 Jratiay epede\n. gazer %%//;7&”\nGap s g2t 0oy 208 7v7\nHe0 p7l0t 2%\nL %Z%//Z ﬂ///ﬁ/f///;/\nor 7 ;é///z e oy\n; //%g/i;}/ﬁ ié//&/?/z? ‘ |\n. Plyvp /%ﬂyﬂ/// &\nk2 %MZ /%Z& g %\nL a1y sopen\n",
+      "ocr_sha256": "c29a28c27dc7a6693e58e04aedf9bea21bfa29aa03a814a88e62e6138398813e",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 47,
+      "image": "/tmp/manas-old911/images/page-047.jpg",
+      "ocr_text": "%¢” 96 284 pam s 2\nGty s s\n| i 4 i\n/%74 e\ne Y ,\n. /%,z/%/i//%ﬂ/ #2 Bopes\nel et\n/w;&% 72 S22\n., J# P57 § el ddd\nL JUIG [0 T v B S\n: /WWMJM;& Jo22 7\netk / Y fP\n: ;ZZ/%:;%& ;Z:%z//f .\n' o@iz By & [l g\n| P g 2 e prr e , ‘ :\nAl e\ny/fﬁ%/// Y\n| jore wrrmE /2’;7/;//@ ;\n",
+      "ocr_sha256": "93110535b6a02f96854853b9af90ecff2ab11577ea3f31aab112cda197cc5dc5",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 48,
+      "image": "/tmp/manas-old911/images/page-048.jpg",
+      "ocr_text": "P 2522 Lrr //{/‘\nClrler 272 ey,\nG Gyoyor cter e\nszt sk 22 pry :\nS /g/z/%«%\n/7% V7 Fop 22\n: o1 i /4///&‘% é///y .\n//4/&/@ BTG Sl P2 ;\n| garesmririegy wil\nLufepss Vs\nI22ls go7 2% /ge P/\n‘ wty 70 2 gpral :\nb o\n",
+      "ocr_sha256": "e92a2f8a5c4b29c02c3bcf33f6e9d9234a37e03f907c0037ad40299dd225f63a",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 49,
+      "image": "/tmp/manas-old911/images/page-049.jpg",
+      "ocr_text": "/ﬂb//ﬂ{?’/ ,/ﬂ;%//zj,a/ﬂ P\n- P20% fover &ty :\n7 Lnabyiy #22 atp\nT Ly s fy 2 p e\nPy 2oz 4205w o\ni\nGy 27 L S S e\n%ﬂ% NP & PEG ‘\no 70t Y Gy AR G o o\n/f/%/ B b prevecrere\n| oty pao\nA s\nVi L 7 A\nY @//ﬁlﬁ /W‘//%@M/ﬁz\n- gy gl A2 Y\n- GRrY v 527 ‘f/;\n: 7'/%@'2 prwr 2\n\\ Guirar Sl A e |\nL ots gy /;7/%\ns 7\nL I s g B j// ’\n",
+      "ocr_sha256": "957f0eacbafb9dbb7c3a50b4e39c5e657604831c766e67f5a02a174e489387b6",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 50,
+      "image": "/tmp/manas-old911/images/page-050.jpg",
+      "ocr_text": ": g\ns 277250 i iy\nKo20 vy wrrlye v\nGRS 7 givgrsr”\nJY jore 207yl g\nL s pirped f e Kertage\n~ M/ﬂ‘//ﬁ%‘ Flw e\nN i\n@S S o 27\nUy garpar £V GG\nS Loty 5z lais e ,\n2 é%, P25 Sl gt ,\n| PR PP P\nG gerp grp sl\nN\n3 ;I///M/AW p207 00 65750\nT\n",
+      "ocr_sha256": "ed6a2c2632596f72de79bd309dae27ad5bb82efaba1f79e163030e270ca68da2",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 51,
+      "image": "/tmp/manas-old911/images/page-051.jpg",
+      "ocr_text": "E L Tz Py Far F g e =\nLoty Cearss 5\nL PPlrper Coab puzeas\nL 2 e #b G0 =\nL s vy vy\nL I PO0E grrpns e :\nPt gy\ns - R\nL e i S s b\n| alse b\nU stk =\n| Sl porvae 2 -\nL g s =\nb e o B\ne e\n-w/*/ 57, L e .\n- g e :;\n| Jatagige fetrap dimpage\nRS e\n/,Qii“* mﬁ AT\n",
+      "ocr_sha256": "79e3a65ead7d58b2b21caca59d50927cc3330fc8c6d2b364280ca07d7e54f122",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 52,
+      "image": "/tmp/manas-old911/images/page-052.jpg",
+      "ocr_text": "B e i e =\nL it A >\ne P L : =\nN =\n| G pr Y s oL . ‘\n'«%‘272//&//9/////2%/ =\n\n papre g L\nAR S g i)\n\n| Farprs Warge v g5 it\n/WW G o S T s e g\ney o\nsl i N =\n",
+      "ocr_sha256": "077b2ca373cf70fda7306c723ddaa07c16dc16c593ec847b3badf7d2abe03ddf",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 53,
+      "image": "/tmp/manas-old911/images/page-053.jpg",
+      "ocr_text": "FReF 2Dl friyy Fmw\nJPL70 g3 250 P g i\n: sy G Pz % G it\nf%%%%/% Pt st ]\nL ety o Pir\n; 2y ;{fq/z?%ﬂ ozrnrer\n, 9?@’////2&9@/% g\nQ’//;//Z%/'z gz\n| PaW o g il\nG i o s ‘\n| sy froge s G\nJriar S50t s e\nIR gl S B2\n| Py e gt e\nPSP ?//%///,% b .\n| JApragsty Fonirser\no S ki\nSRty PRV\n",
+      "ocr_sha256": "55139f0ea48f2d3157dfe93ed0c96dd2997a969f4237aa01cdb19bbd4f43e4d0",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 54,
+      "image": "/tmp/manas-old911/images/page-054.jpg",
+      "ocr_text": "S 7 -\ngl g 7 Hap S\nFrrsomw gote /ity i\nL e B Siwat\nJppalge et\nL Buprpai W2y Pamgars\n- A7y AHLE S S\n; V //y) HFF T\ne 27sm 127 e 2\n- GRS 2 CF S Frar LS\no BRIIIDZ Jla7 feode /5P ;\nL Wt Feseerprrite\n. ‘ %%Mm p220 %%/;/% =\nO P\nFazerer sy 2y AGer s\ni e 4\n",
+      "ocr_sha256": "8e2b64e697745cdf9f77c3cf6a4374723a43caff91f56e567a1dd520a9873d90",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 55,
+      "image": "/tmp/manas-old911/images/page-055.jpg",
+      "ocr_text": "B2 7S /f//zféﬂﬁf/z;;/\n3 2 Frigr #2075 garsree :\n: L2008 L0 Foy 427 FFYsn Aot\n| Dvlarinter parrs it/\n: s /é/‘fg///;\n) SRP g plvr S Sy\nLWL /M/// Pl s /y/m//y\n; - ﬁ%‘/’/?//?'///// Lot s 7677 - g\n: Lttt g 0% doy tap e\nL Jar gutrey APTSTIT\n- ///Z// S S el 7\n| Jmegegrie pe s i |\nb= ///’7%/ foah 5P e s\nb et bt gy 7 2” ‘\nR L /////////2:\n'i,' - / S LS ;,4/?/»”/4/\n",
+      "ocr_sha256": "002d14c9c032bdc6a49fb0ea21c57c363eff1388c247dc976502064cd9c33c60",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 56,
+      "image": "/tmp/manas-old911/images/page-056.jpg",
+      "ocr_text": "& D0 8ar sry ais\n2P 8y Sy gt sy '\ni e\nCOO57 Fy 7220072 g goe\ni N\nDI 200 A s\nA% & Aty é¢’7///\nS el g ge By F\n. 5 s S St\n£ //4%;/ T gen e\nL Fr dne Ppep\n- /f% ey Zyy/ﬂ//\n: O 4 pr? S hF 5P ;\n4 B Y e %¢¢/ /%/z/ﬂz/ '\n3 %'Wﬂ/@ o {\nL Do gopp A5 2\ni diiid il '\nL Uty s s R\n",
+      "ocr_sha256": "6991a35ff53591deaa6e521165cd134e7e7397907d1ad140ff3271d9b9dd9d7b",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 57,
+      "image": "/tmp/manas-old911/images/page-057.jpg",
+      "ocr_text": "i e\n\n%(iz (7;?@%1/;% Sesis wek,\n\ne e,\n\n- 4 AN« ‘na \" :\n\nB o\n\n- 6laydc WQZJ clf%/ét |\n\n- O Galelar futugNu nagday alph\n\nb o 'sz/mﬂa/czzga/é /d?'/w(o?ﬂﬁ’(_ :\n\n! Sé‘j Ak ZOV[QVZ Yée | |\n\n. éy Lo % W;{; a:;/;ma(( :\n\n- : Ll o i Y ‘\n\ng;ﬁl;zcéazé& %ﬂaéfm\n\n- daladan & W\n\nP %mﬁgma@w &J//Z wud |\n\ngm& @%4/% Z&@ZK/ o8\nBy B\no . o e\n",
+      "ocr_sha256": "fc0d16f846ab49a7b1b12ea4b35abff4ab1480def14b400ec1b4d4f6e2d79753",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 58,
+      "image": "/tmp/manas-old911/images/page-058.jpg",
+      "ocr_text": "R ool s gilay B\n- 'T?* AL a1 o%/ 0[6?9 f”/ \"4,',4/; &\n. ?’éﬂ&w‘ & A OVhs m/ﬂé;‘)f/k/;/ F?\n=g C”/ﬂ\"Z@‘/‘Z(’//”( ;4«74//; E\nTR 7 o E 5 =y\n. Zf;gA /Zmﬁ?& o F\n& e L\nA ‘“ff,”‘isé?f%’:\\. Uias Cabel e o =\nAy gofu Gagiles. 8\n elin Gy Uggacba\ne\n",
+      "ocr_sha256": "e282df2c40f777f883ec696ed5a769f78f0f3d8db2fff019777638f86fdc046b",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 59,
+      "image": "/tmp/manas-old911/images/page-059.jpg",
+      "ocr_text": "= 57\n/ ey Yiios Q 5\n-\nOL;‘ 'ja/fch.m, 4/71/'4/ 7\nR 7 A\ni\n/@Q/;/za Ky LZ(;@‘COCQ Loy a)%\n3 1% ra M Liceee\ne Zw&a‘km?fﬁczg ZCM/%%(\nit LY 0(0/&' o chd.\n,’ %%M%g/%ﬂ{/ %A/nﬁ//j\n96 celake  Galg asc |\né&gﬁi% ,,',zgiti/;;g b\nB e e\ne @qum G as\n",
+      "ocr_sha256": "a24b0a2ce737ee682fda810c52585f4fad615e6dcabf3d1dfec0eb47695829d3",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 60,
+      "image": "/tmp/manas-old911/images/page-060.jpg",
+      "ocr_text": "Ve oo Dt T\nSe @[ﬁ:a( 5Z Zja/«;{i{\\fzkzdiész :\n-C\"‘[‘éé' R R A\nAcC Q/I/M 9Zc /(‘L( &L\\gé}Q 29 ;\n%M@‘Léua(au £+ 220‘??2“ |\nol Golboi e yom /géﬁ“o( ;(5 Zie\n, (](,/K/?%Z/Laéﬁu 92l goieloly\n%z l}@i Elte o&/ :\n6 b Ce ol a Kﬂk/’\n. ﬂ@/’{w %64202&{ Zf/z;zé{( ;\n55 4 ¢ ' /g)-*c B A z o\ngl L\n: 4 , o )\nL\n§ T T B\n",
+      "ocr_sha256": "aed71a518f596923e6acd9c11d0d396472fc564798481419564cc568a9a09a49",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 61,
+      "image": "/tmp/manas-old911/images/page-061.jpg",
+      "ocr_text": ". * .,;42/{9 7< 8,;/;1?@(%/%&7/)\nS B gercge Ly by\nLMM',Z;/& ”75 0:%0;5&%(;\nQ@Zzgﬁ (s, azf’;moy |\n, W o 9y o ols <\n: %'5&% %[f{%fild{dﬁ%« s\n& &ZE&&/S N a2’ gcw M e a =\nB oy Coe gl\nB e Olge dye i\no 2 Rl A=\nN Ll o) g5k glticn 8\nN focaprs %‘m plo Igm\n",
+      "ocr_sha256": "df8fbd97fcd230269c09d87cd5674af7d025ed0db5bae5381cc4579e64643c82",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 62,
+      "image": "/tmp/manas-old911/images/page-062.jpg",
+      "ocr_text": "9 éﬁl[ci/a Polroe e, ST 57 =\n- Y 0‘7\"/%”%?5/ %Ezi; 5&2;9 '\n- a7' A fee Fro. p(m'/zwfﬁ\nMﬂ/j%t Gy prrripesi G\n?/VZ’ aAa Heee Loricer G,\nb ia/mfé{@ 2%@ % /;w@ '.\n3 ‘% z% QZW Crrees oy =\ng o \", ; 72 > -~\nR\n",
+      "ocr_sha256": "fa0a342c3fceab9828c70ac1dd0c1d901b23051d049e3143a54184e5ceda81a6",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 63,
+      "image": "/tmp/manas-old911/images/page-063.jpg",
+      "ocr_text": ". ‘ , 55 e ,\n\n!“ o s 's//x//az Aitreee f ey\n: <2 V%) e\nby 9b205/alny g&%!\nParbsroc uful Luwres 9y R\n&MWMOL@% Sog 0% aj?é’\na ' v an paly b\nC%Zmz /aZ’ZZZ;@ Ctree £ e\n\nGrfes\n£ @i%{ peloe @%\n",
+      "ocr_sha256": "df99190fd3ccfcfed70f5d1cc81b43b523ac9b3b24b75e5059d42b04707fe441",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 64,
+      "image": "/tmp/manas-old911/images/page-064.jpg",
+      "ocr_text": "?\\');f W?W?—l &‘wyn '% 772'/% = A:\n| o\n(8 perd (,/\"L/r—ﬂ//t 7’[&4 Zm//ngz ﬁég;z\n\n4 f gfn@mm@z Z,&{ﬂ !\n\nb e Ll ol ne,\n\na0, T4y Laloav ¢ =\n\no é@% Cujruoju el emes\ni\ne\nL Pl apolalols” g o S\n. Iehe @%’7\" o A -\n\"\" | Gty L E\n",
+      "ocr_sha256": "e7542e8284bfa7aaf01d5e55636fcb42e1cb2beb935e4f2a3ca9b1340b897e38",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 65,
+      "image": "/tmp/manas-old911/images/page-065.jpg",
+      "ocr_text": "- ?Z”//g”[msu %@Z Ko tolu : =\ng %0/(“0? 7 ’74;%&& & [1/' {é[ 24 47.9\n(E?ﬂc/[ 0‘/47 ; _/,57/94»1 Gore ,Z'{Q/:\nW Bry flE 7y y/ﬂ%/ﬁﬂyﬂ/%éfﬁ/\n;Z/‘Z’}QM;?W Lestey? :\nM@%ﬁa/'ZW/W‘ :\nHeopvipi gMﬂﬁ//féZ Lo =\n7g. 2o o f 7 traey ;\nD i et =\nLgprts jide fud o 2\no7 4o Lo A\n",
+      "ocr_sha256": "c034962af915a1bbffed29bd83208bc4547675bcd199a5c82cb3288bb519b270",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 66,
+      "image": "/tmp/manas-old911/images/page-066.jpg",
+      "ocr_text": "W e St £, :\nCline gl Jiliy 0/ st j\nQs 007 v Safonie\n460 geliyo Yl ot i\n200 o el frger iy\n& ey 4\noy | :\nVg0 te dion. ezt : -\n\"‘c’*:\"?% 4\n",
+      "ocr_sha256": "44682a839bcdd06591c097a8cdc707315673c4c2e589f046133966083de433a8",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 67,
+      "image": "/tmp/manas-old911/images/page-067.jpg",
+      "ocr_text": "E W SO S sty\n\n| s e ;\n\nb G TSyl Kepreries,\n\nL Tpody, Vg lyof b s |\n\n2 Wﬂ v Kol e datiy\n\n; 9 4 b’%o /{4/% Jree s Lz p s :\nBt '%‘77/-‘\"/‘”/ ’%'W”&/ 3\nks\ne |\ngy el £\n_ ,{%@W s ety =\np o | PR e\n\ni ‘f:: A PO e S s\n",
+      "ocr_sha256": "384cd52952101f1e1fdcf4657f28f2b880bb83e0b4a4e827da0e38accb4848c2",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 68,
+      "image": "/tmp/manas-old911/images/page-068.jpg",
+      "ocr_text": "LS., |\n\n,, S Corin. vofys of,, ;\n\ncC. ‘veyec\n\nPrei o :\n\niz(,.a%’g/zxia AZ,% ﬂ/pzaéz/ :\n\nRooe ;4% W/yﬂ%m\n\nB g iy “\n\nY ttrnief gooctsy £5 Lo/ ag\n\nJueoleg? Sefte’ 9954’@3/\n\niééﬁ ,9/?/6 | | \"\n\nA\n",
+      "ocr_sha256": "7e573ef8bdde11c5ae1287d232adc9dfb4f5c1a7c43eece1cc4c3bf7cca8be26",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 69,
+      "image": "/tmp/manas-old911/images/page-069.jpg",
+      "ocr_text": "\" T —\ni_ < Grn Ty e parge\n\nAN Y 2 i a\n\n- Jry goser PGP e\n\n| @ gy rperie,\n\n; @f/\"//’// fer e gor f%///\n\nol ol /4//@ bzt ogo\n\nGl flwn =\n\n| Jlresser e i =\n: Z// N s\nO s |\nGt 07 GG £\ni s b |\nL Jane ey Ay\no Vi b 3\nB 2y ;/M“_\niy gy 7\nT, S }/4/47 g7 J%’ﬁ”?‘a e\n«»M/ﬂéﬂ% 22 % .\n",
+      "ocr_sha256": "7412527facbd68cda463b751581ad770d841bae46ce486bdc013973409d83975",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 70,
+      "image": "/tmp/manas-old911/images/page-070.jpg",
+      "ocr_text": "“ogr Hpiss C28 e -\n\nB i ey |\n\n, e |\n; TGV gizy s sy\n\nGGG fuagge fgnss |\n\nBty Soree 227\nPy eniy gt\n\n» Cnrvy Fozler /6700 50f g\nN Ll X 3\n= Gte g0ty pars vy 5\nL é’/{//%//’/ $e9t f2y =5\nSy g b\nL Jegyray gt 2ok sy R\n gpprarpmatiy o\nL il abpes RL0 {'\nB L i ST S5 “;..\ni iR =\noy e frp '\nSl . o 2\n",
+      "ocr_sha256": "089c5dff878b14e79ef172f0d3ad71be86674c87c85b9c2b1de46c32976a2917",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 71,
+      "image": "/tmp/manas-old911/images/page-071.jpg",
+      "ocr_text": "! E %;—-:-——-_.w; = =\n\n3 bl Sy, /47// 22 3\n\n9 g f/éq}//z o Sy - |\n\nY e /// s 70 |\nsd S h el\n\n= éy; %é/’%///f’?/@f%\n\n= Y Ay o et B\n\nL i parect B\n\ns < 4 /7/‘”///77%/'/&/ b\n\n:Q e ﬂ/\"//;/ z?’ / 7{//&”{’/&7/ v f A ‘Ar\n\n__ v {‘“:‘; i %’%//rf/ /; Z’/f 2/; ///’//'//f/ =\n\net .\n",
+      "ocr_sha256": "d14d6626105f966119bece81911ef0ebc58c9a7131f12d04c58a340aa84f12bb",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 72,
+      "image": "/tmp/manas-old911/images/page-072.jpg",
+      "ocr_text": "A 2\n/4/52////[»// W%///&,\nFEER% forpr MY o) =\n: ///’/f’/f///ﬁﬁ///?// Cof 200%%\n2, S L\nJO252 L2 K 4/;44/\n/%f%// /%f/////ﬂ/@r/%\n/f’/;/f 7% i &\n7 %//ﬂ %/7///7// %\nN L 3\nape/tdn 47 p0Ia\n_ S woren G2\n4 /7/////7/44/% yﬁ/ymf//w// 2\nN i s\nGt g peietiie ;\nGar 177 GO pp pre\n @F e 2% =\n§ iy 3\nL e e . &\no A &Wé’///é” w2ty E -\ne B =\nU e i //% sy i\nT it S M\n",
+      "ocr_sha256": "ad8200662f4323f5e99a06eecb68348ef5e435d513531061e78f9857bb01e49a",
+      "nonblank_lines": 23,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 73,
+      "image": "/tmp/manas-old911/images/page-073.jpg",
+      "ocr_text": "Gy | SRS ==\nL , 5 —m—\n, e ?%7/@;, i‘;ﬁﬁ o -\nGt 16l o0 s %\ng WA}M”’WM : :\n2gs > M7 2%\nel\n2rir Jus v\n2/ 42 fif #\n4 “//'//////7 ;}/m\n7990 P & Jrof\ni gutty 94 44 =\nE i /ey /47/?;;// =\nF T f;/w/\"/”’ :\n— L oo d0 Viwon) b7/ |\n3 Juny g 4 gt/\nk. /%%%g%” %ij.z/@ ;\n- ////’/f”/’//m;/%\nA </ i 7 «M/;/; =\n",
+      "ocr_sha256": "8672d33bd0b2406f956c6211d49c5cce4c2cfdc9e4c67f14d55132d8b1b541e2",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 74,
+      "image": "/tmp/manas-old911/images/page-074.jpg",
+      "ocr_text": "4 B B\n. LR :\nVe ?é///%// Lt S 2oy G =3\n™ - g by vy watak 22 E\n8 JIH g by S wes st |\"~”_\n— Dike) WPy fords g =\nN Str il er aegge =\ng E GprSsy Jv/ée %/W/ﬁﬁ 3t o\n3 Py 2w faesy sty |\nL gt Vet e i\nL Gaieton dppece 3\nL. S Gavib Py Gy jeree 2\n8 Gyt SIYH &\n- aw/row il G §\nE\nE - i At |i\nl'./%/m’/;/Zf sy |-\n",
+      "ocr_sha256": "0f58c33688ac4475baf29c253e6d3846331dcd0825a13a26010d2717544f6eb9",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 75,
+      "image": "/tmp/manas-old911/images/page-075.jpg",
+      "ocr_text": "P —\nPP Ao /’/Zﬂ/é/ - ‘\nGu/ rdre sy g =\nAPty By 2T gaw\n: AT g (st S ivat 2/\n&5 z’///mf Loy Wz\nwenty 4y 5yt gl\nVil & gutrpe\ngally moit @7% s\nO il v} 1y b\nb Jiln 7€ :\nR %/ Joloy W27\nL gy e -\nJuthy 1670 19 ;\no 2 Sl g GEEre 5\noo ‘ | %\n",
+      "ocr_sha256": "e3ab0472bae232bc1f5186d9680d7c116c64104183498ac6b1077a2bc24e747f",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 76,
+      "image": "/tmp/manas-old911/images/page-076.jpg",
+      "ocr_text": "%9 /f/ ﬂé///// /gz;;/&//” ¥\nP UGw bnire fysbogen\nPRI 74 Lo/ bz cpon |\nGG é/ %/ VA té//&¢¢/& :\nL wieny) faspar o i\n/////A’W V7 g/ I07 pe2 155672 |\nV4 e '///Z«/ QW/JM/\nV374 payer o Y €\n%fﬂ/f/ﬂ@ﬁ 2/ Gspe 5\n~ Sbrow 2/l 2 e : x\n- SPIy APYP G gree |\nJumty? Ky sser :\ni ZZ% p vy\nJityy b O C\n, %%///z/ G\nD oy e a5 %0\noty W S 2\n£ : JW/;/,) Jy%% /ﬂ//ﬂéﬁ/{’\n| - aptor G Yl _\n",
+      "ocr_sha256": "020ee2de94e498d7403a0779c72d28a046457a68a01af81c98774d11347db48a",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 77,
+      "image": "/tmp/manas-old911/images/page-077.jpg",
+      "ocr_text": "a |\n////W{{///J/ ﬂ%/gy/// S\nTPLSLY 7 PUSF S besey - :\nChm Mz cenriy %fﬁ;}///@ |\nCO7 gaganaty /o k\n- JSares 1y Gty\né”ﬁ/?/&’/gfﬂ e 2/ |\nL =\nY sty gor S B\n/? //Z/M% Va4\ntrgiby sol BAG0e :\nG Gocfbrr NG\nsl grRltye XHI” vz -\ns WYl Wy/%ﬂ/fw%ﬂ/ 4\no 0 e sy S\n= , %JZZ//”? o/ lor b 607 :\n",
+      "ocr_sha256": "9aeb5440e0a9f31aad3f6cf82c75816fab48fc1fc37ca603c36dfe7912f81ebd",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 78,
+      "image": "/tmp/manas-old911/images/page-078.jpg",
+      "ocr_text": "% ﬂ/ﬂz%’z b ”’@Wz %‘;\n\ne e ﬂ%f/// =\nFOLP tlom e B\nL &\naner 22 gizy fo gl : B\nwienty by /gcymity &5 £\nGprporevior :\nA werw A0 /J%//”M/aﬂtquzf‘f =\nL Lt & QUNy S5 =\n. 2 S 47//%'%\n2 18 s 7 G P /////fﬁﬂ/&déy/}{- .\nVi 24 fﬂf//; et oty garew #2¢ e\nWanion pan i b, 7 aaterr 607 E\nA et gty . =\nL ort jurr 62t 7\nw ayrey” W i s\niy W vty W d ik ;\nB ; . ‘ 1\n",
+      "ocr_sha256": "d9444bd43b6caa49b74e8bdcdbcb3c0244cd67e016f926dc8835e081fea4a0dc",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 79,
+      "image": "/tmp/manas-old911/images/page-079.jpg",
+      "ocr_text": "| 7 =\nS )02 PR P tlnr G2y R\nV4 /%//24/2// Crir 672 A\nWy Cipip Py g e o\n¥ a4 224 ﬂf/?w L =\nFLw I ompes aalomak\nety by ale htiyare Loy bive =\nFar bogape Gor azz 2\nS13 PG 0P Jor Juriletow &\nL 3\no paredsy i =\nSagin 950 /507 ot g G fre\nJaatite gan I V595 602\nJafon wmoien Fo 2% |\n_ e age 9087 PG\n. AWy . ?f% s\nY4 M7 M 15\n%//ZMM%K/// ﬁ@”/%/ AT -\n, %/& o by 44 //Wg%wz/ﬁy ::\ngty o VT B\n",
+      "ocr_sha256": "cac2bd9ea688b6c68b69468b17e50dae7188ee05fdf73a881a41e4c10a06d367",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 80,
+      "image": "/tmp/manas-old911/images/page-080.jpg",
+      "ocr_text": "/‘7%7 70 78P PotsoirSp i\ns sar GrE 7o iy S\nB2 [E77 ) G =\nVe y/ﬁﬁ@fﬂ?&/zﬁg 3\nP2y ailtbgype jert Gunriice\nWhrya myg ey bty 4 |\nKvgge syor &89 Oy :\nNy e\nW FHG7 mener g4 87 b =\nW s Loinm o gty =\n¢;{f/ Wy Vb oy andly - =\nN s e VI\naoihy iy WGt\ni MW Yt i |\nJr pp s mAf vz =2\nN Y =\nFaggithr 1y VO ;\nL L -\nE %%%@/M awy\n",
+      "ocr_sha256": "d3c283fff71a5e998c819a672ed9a8e693cfb30a46b52f5c3d6988eec7dc8eac",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 81,
+      "image": "/tmp/manas-old911/images/page-081.jpg",
+      "ocr_text": "j\";—-&“—“‘ =\nW iy sy st =2\nragpory vt ge Sywraty |\niy [ate by jur7 e =\nFaggan lin 8y yy7 A\ntrtamaty foir 1y e |\nSy ar W«W///Z/ﬂ et =\n21w gah srcpe Joen g\nety G T 2\nA Vi //% =5\ni gerky & =\n- ptay K8 7/&/&@/4 |\n- wum Wiy v beregge |\nL %/Z’Z/ﬂlﬂ/& 8\ne iokiend\nL o/ e g\n07 /W%’% V.73 VU e Ll 5\n",
+      "ocr_sha256": "28f34e89d592887f093bc8f9e3e6055bd2af418d7d1a86d0e893bfa45ae87cb9",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 82,
+      "image": "/tmp/manas-old911/images/page-082.jpg",
+      "ocr_text": "vy Wlry dagye gegpy e\nV2 2y 90f g crrare :\nLW BT o go Wﬂ)//‘? g”\nWAV Jy 7o gyl - - B\nGplrpr gréer 29 P& |\nY N e £\nJooetty . gare gatrepivre =\nPAUNUY yy%/%ﬂm v#y =\n%/g/ﬁ 3 /MZ// *%\ngiis 0y G/ W F 3\ngamedye gy %ﬁﬁ%f ‘ {\n- Jars by ry Jelyor V5\nguy /W’ quty #r1ré =\n aniby ety 0 99774 . =\n' ¢WWWWWM%W/M -\nN e /‘f‘[ . s\ney T §\nwpprty T\n- gypg o ¢ ¥\n",
+      "ocr_sha256": "dc2e5404ef60ffd8c7663b80aad89e8d55d227b67dad12b7bf1094f302dfae40",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 83,
+      "image": "/tmp/manas-old911/images/page-083.jpg",
+      "ocr_text": "é’ 75 %\n17309 o I Jubt sy X\n7//5*{%74//%;/7 Segl 2/ >\nV7272227 by JSettiy ‘;4-\niy ey Uiea =\nClgow /18708 4y\n\n’ VY Jpens /ij/ gfﬂ%f :\n/7//% V&4 /ﬁ%ﬁ?‘ |2\n| somty /vy 7/&%; I;\nN i P £\nW, (é//;/////' /%/ZW/' %/M\n: bt /ﬁ%ﬂf%/z‘/’ﬁhf/ﬁy/ 2\ngaipomns Joby o7 O\no %%W’%///? o =\nN !\no pafe par B\ne Y Y g\n ulptds ST 5\n",
+      "ocr_sha256": "3d7b8d3b293afae258430d76865c7295c0ea77f22d54254bcb9ba9ad3920f710",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 84,
+      "image": "/tmp/manas-old911/images/page-084.jpg",
+      "ocr_text": "YIr S22 Suy/ s :\nby 2t Ly wiatse ,\n(T tly s Fappy puseare .\nQtfspee gun'y Vryoms\n: Gy Wy S5 SuY) Y@ Hre |\nN %741 Gawéé g Qurit %\nWb 247 Jlyryar e\nQ) Wbwer P be efz‘//% a§\nFury dhgurge ditgmns- -\n' Qé/ﬂ///ﬂ// Pl s >\nGytyenyrr Ay &35°\n' trany 00 Gf o Gy X7 G\nRSt W9 S I\nare mendlyy sy I8\n.. vyt Je/ p Gaafttiry\nR ‘%///ﬂf% 1l Hogy O =\nL Sty g7 /ﬂﬁ/y//\ng o R\n",
+      "ocr_sha256": "7c664195759f1bfc9e94568d25276f4902dd99aa4d75b1e63b293aa6d09d61aa",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 85,
+      "image": "/tmp/manas-old911/images/page-085.jpg",
+      "ocr_text": "—_—\n\nN JO @y/ ap \\ x |\n%/MW/%W;%JW? WZ»/%‘ :'.:f,’i\n\nZé«“ﬁ/’é‘/fi K/’//f w7 patsr\n\n1Yy 92252 Wit =\n: ij ///// Jrr i gt vt %\nW % polbatt - =\nL oty K AR\nd %%;//%/y\n1 gy g%\nSarpty g o=\nety 4/ F\nBN s grteg Y 5\npaiep sy N\nL ety e T\n",
+      "ocr_sha256": "30ea0201851d6b7451c6906e1e42d599db753fe06bf7c7d3b474a53cedca6735",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 86,
+      "image": "/tmp/manas-old911/images/page-086.jpg",
+      "ocr_text": "; V%/J/Mz/ 92)/%’74///,7%‘/?/ .\nS S i e S\nYy i e oty\n& G A gadeny\n1oy 1R il G iy\nGt Porg? gatiersey\ni gy Zer 7%//4;%@ :\n- iy Ry %k/a/%f\nSN bl P o A |\ney e G 7\nE 2 aid a1 rr e EsE\nL gevily re Vi\n. oo\ne //&//’% Z;I{Z'fz«//\nT ST =2\n",
+      "ocr_sha256": "62c31a2eb5f811a485e41ab5d5e6a1f00e3ad023322c4d03b5d4cc1dd0b38eca",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 87,
+      "image": "/tmp/manas-old911/images/page-087.jpg",
+      "ocr_text": "N A Sty G s :\ni //; Z//; w2 //i///fﬁ;f _\n' wr gy 2y Al =\n' @//k/ﬁgj z ‘/K?i// V\no jarsfor by Sy :\nYty vzSpar gy S\n; ///Z Vi ny// 7 st :\nGy 2l g7 g e :\n2 199) 8 Ao vy 60 e £\n725 94fp 467 Y7 -\nfunge Jir7 Jony At\n- Qyﬂﬁ/ﬂ%{/ é’f/f?zz//;% %\n= i %'/ Vi & s -\nE- Mﬂﬁé//;/’g’/} Y 7\nL ik 270 Wk o =\nit gy °\n- e’y V4 z/%%//f\nT /22@//4/// . ==\nL Taptr ey go7 2 2 R\nL e oy T G\n",
+      "ocr_sha256": "7e67ec67042ad4f748daf1954c371e8673ed0beba84c430285dd9786791371e9",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 88,
+      "image": "/tmp/manas-old911/images/page-088.jpg",
+      "ocr_text": "| Jozpar ity gt 5\n. W mpye S e 3\n' Mff\"’ Pokppyy FRHF 52 »\nS s dpp g\nS g oy F J8 7w PSS _\nPIITLIp P 79I e B\n- Pk s /z/%@y =\n paf gar sy dp s b\n2 g pasier % /2/\"/////’%//%//?? Lo 0T 3\nO bty\n//ﬁ&z/% sty &IPS\ne 35 Nr/4 /g/m/% WW/\nLy e prel 0 -\n- T V74 mfﬁ/y =\ni P i’\n",
+      "ocr_sha256": "f79a833f3fd5c3820a4566fdcbb29fc5e646caa13cfe3872f4c1d1eea9865d83",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 89,
+      "image": "/tmp/manas-old911/images/page-089.jpg",
+      "ocr_text": "J 5w, ‘;@—\"‘*‘\"‘-«\nprou ;”Z/Z%ffm% = =\n////4'/ 27 - //%?W// :\n\nF o ‘\n7 7'// A ykf?}?f// e ==\n\ng\n\nik ’@f/i}/a/%ﬁf% e\n\n; ﬂ;f”///‘// /’//M//{//f %\n\n: Gy ya?par ger :\n\n> iy oy //’% :\n\nvy ol v B\n\nb ey s -\nT ,%f///z /z/?%/ /// ////3’/‘/7 :\n\nSl ~:\n\n: amgirl 9o /z%;/ff/ .\n\n] fﬁ'%f/%/ﬁ/ %/” s -\n\n£ Spoo\n\ns o oty 7077 -\n\n=\n",
+      "ocr_sha256": "5b590d92ec623f04d606da9b25f58e7c4e3f6eb1bb06ecb124ee55a1d6a02582",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 90,
+      "image": "/tmp/manas-old911/images/page-090.jpg",
+      "ocr_text": "- //’%/?? L %7 Jrr P fé\n[//?6/4’/3%2/ gy fop o 3\n7//4//// farts gz He2ob\n: ?j/ Vg /M/%Z/ G 7#0k - =\nTty vy st L\n7 Gaptiminy PNy &t\nALy Ayt /:'9%//%7&&\nGG 2tre 4\nVA /7%&%\nN il LIt P i gty =\nOppp 55 85 7O 7 3\nZ/Wﬂ// 7y 44 &% bk _\noy i Vi 2\n%ﬂ//}/%/ﬁ Jfhay irey Ve >\nN i\nG g e\nGG TrF grtpor oI |\nL i fen” f%//f;’/ 2722 :\n| AR\n- gpppgeny VT -\n",
+      "ocr_sha256": "ff871ac9ea65a796605c09c7abee50d1f566ad9ec2f75cc20024b5438b275b12",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 91,
+      "image": "/tmp/manas-old911/images/page-091.jpg",
+      "ocr_text": "LLS 17 P2 — i\ni v S\nLEEL ﬂk@f ;Z;Z/Z;’f // 7 =\ns /ﬂf// i /;{/ Ao :\nS/ gasmedn [ gors\ng0 /?/d//////ef ‘\n16ty G gerged sz\n- agsiand Ay Lo v\nS dpare LS y” ,\nSR HLp7 Q7 127G &\nA A 5\ne 4 kd zyywﬁjm/ -\n< Ay Sagni /W/z//{f |\n.y 7/4’/,47 JH PR3 .\nE g////;///f Jarge e -*\nLy %% %g// Y ki |\n- e 9 Sy LS ,\nL el fy s sl\n-0 ﬂ//%/& P id s\nL W o N B\nL oe Y %W‘%W LRAERY :\n",
+      "ocr_sha256": "67464c8270045ea9920c8d2657fe7f1ca4d401c13fad5f77e6185b22f512a4b9",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 92,
+      "image": "/tmp/manas-old911/images/page-092.jpg",
+      "ocr_text": "‘ PH I K27 J6 20004 fodid sy\ngater foy oy Jirviee ;\nY 4 /@;{ /zzémzk//é/y |\ng putsay J5196% /%///77’\n- e VI //z/// %)‘/ :\nLt %///z/ 0 b e g\neI 9 S\ney )\ni e s 8\n, Z’%ﬁ i %/W% f\"é/’/ S\nL sy Jui ST |\ns Yoyt 107 e\nL gy T\nL g |\nRt B\no ,;'W//M%/%ﬂ/é /'%/1/ 3\n: V%M A kdrn o\n- Ry T Lk ;\n",
+      "ocr_sha256": "b9016507793ecbf0110444482a94461f90f5efaef3a73296e7c9a5a00d6234ca",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 93,
+      "image": "/tmp/manas-old911/images/page-093.jpg",
+      "ocr_text": "//Mé/’l/ VI i e\n\nE v ceptiv 4oy —\n\ng e £hids\n\nfr G yn g ¢ Cagt;\n\no i -1\nE Creau |\ngty Yoy 4 e\n/4 gur M////’/ L\nS e e\n\no 177 /ﬂ/f il t\n: o) Z iyl ‘\n- ﬂ%/'fi/ o g »\n/Z// Aol Gurv /”/ '\n\nL LT e e\n",
+      "ocr_sha256": "729db7843b4db250ac14bf4cfae6429b4fd4febb7d84cb0c7e488cd0da9ddf41",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 94,
+      "image": "/tmp/manas-old911/images/page-094.jpg",
+      "ocr_text": "Ay 170 Boras //z;{x/ 5\nL 10l i) Ryres s i |\n: ﬂﬂ/ﬁ? v /zz/)/d/ Y %M//w;/ ;\né’//iyﬂ///& i/l/ﬁ//}?’/ ger |\nGt Ay b/ 97 28 S »\n/I//Mmﬂ’ﬁ 0’/7’67///&%4?/\nTy bV gy (n\ngy % W gan oren\n=5 q}/’%ﬁ/& s MZ/ Qtsy :\n2 //%//mw ey achy ' :\nN L L Wi :\n- /Zy'ga/yﬂm/m\nP Kl P 4\n: ag S0/ Paon #pp0b Gualy el 5\ne rwgaty feF |\nb bt e\nL pu Ay sty vy alts\ni =\nB e 8\n",
+      "ocr_sha256": "6a1603d59d083d34c9397783157bd2a03deac84b25502f075ae0a751483e56ff",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 95,
+      "image": "/tmp/manas-old911/images/page-095.jpg",
+      "ocr_text": "Y g fovgy z ‘_\\ |\nE 7 5 fr s s Yol\ng/ g vk\ne . |\nWP VE fa o fensr\nS o iz\n' - gl .\n/W//ﬂ/// /;/[}///zﬂﬂ//\n: 74 //é///// il e =~\n7 /W%g/ zﬂf/’-' —\n- %/// 7 /%Z///% /7//??/‘ %//{// :\nE fay ,Z/%@W//ff |\nb v, '\nf”///”’j /s many % 1\nE oy Lo T\ns/ i g9 |\n%?é/ %7/ Zﬂ/ﬂm\nol o payy ;.\n",
+      "ocr_sha256": "6ddb21b47f97e5327dfefef53def2759c2f09805c9d1756c36eade4b84e2408e",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 96,
+      "image": "/tmp/manas-old911/images/page-096.jpg",
+      "ocr_text": "Z/Zf é; 4/72 @/ Voray |\n///7ﬂ//// ////4/ e\noy i\nJetrD gy 2 Aohe\nblslye o am A s\nﬁ%/f W/ Y W2\nfﬂ/ Doy Coay G x\n7 i |\nP Y\na7 /% & Vi 2\noty @7 7/;/4@ |\ndoerjmr /a/’// ¢ %’éfzﬂ\nSy boprr 17 g 5275\n| f/ﬁ/%ﬁ% Ju2 557\n",
+      "ocr_sha256": "f6676153ff5e3b3ee2bcf09eba1f19fd8542a0141429e45a38708c3148d81346",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 97,
+      "image": "/tmp/manas-old911/images/page-097.jpg",
+      "ocr_text": "i \\\nSINeGE167 4000654 »\nSULE 12/ 9% /{/f//ﬁ/ﬁ L g0 - ’\nBy lbgwr gty e ;29///2//;\nPNl Canglye g 5o tap0s\nJoy gave W g/?/ o0 gt\n12ty //é//?/gj brly?\n- pptwipay /mfy by boky”\nY1y g5 L2027 //z//?ﬂ/%ﬂ e\nGy LYy 9k 7%’ .\nayan %/é/ J}Wi’ ZZ} :\n27 W/ 2 4,\nE %///;//f;,//; %&WCIZ :\n% /Jf?z/] Va2 /f// (4 ’\n///%/75/& Sow 17 4\n5, api /}W /96 sarv :\nWWZ MJ/M W%f -\n4 4 / ot\nL g :\nL Al mogu e\ni St iy 7y |\ne R 3=\n",
+      "ocr_sha256": "a7d59f9b45741b2ac8cfc3c4edd2136e509de222057c8d5581f14e7b77a49065",
+      "nonblank_lines": 22,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 98,
+      "image": "/tmp/manas-old911/images/page-098.jpg",
+      "ocr_text": "%\n4 G ey iy par\n) g Al 2’///)’/%&'/’?//1/;;\n& Y apbe -\n.i' Dby /Z/éf) Getrwaly\nk- YBPE J2017 Y7 Gyl\n- SU Jate Ny vy by oty\nGy Fra Ly g e ge\nVL R e\n% ;{'M/j/l/ff/ /M//ﬂ/{?\nv//f%\"/”‘;*//%/%ﬁ” |\nAfY Fogep 10777 |\nL sy il ey\n. S pupp AT\n3 LA S\nb ) wugr 2\n£ - wp bty SN I / 4\nCooraz gppe” 4 7 iy 8PS\n| ! VL& i 9777\n@l jro M////// Z/[ //ﬂﬂﬂ///ﬁ; y\ne g¢ ’Z/Z’ %QZ @ﬁ/% ZZ? Yy /ZZ 2\nA ¢/M g w7 Wﬂ%fw e\n. e gappe ot !\n| e .\n",
+      "ocr_sha256": "939d4f486fe3126956ce8e7820f72663d5fe2ccaa86bb2c184e8abe60471fc82",
+      "nonblank_lines": 24,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 99,
+      "image": "/tmp/manas-old911/images/page-099.jpg",
+      "ocr_text": "T wirt /// 7 %’” oWy |\n- g i\ney gty . Zp//f’/ . s\n/é # M?’//ZZW 2 z%,r//z////z/ s\n& i sy dee b |\n0 447 9w gatiw vl ‘\nE //fﬂf%/ ALy WO Pt g2\n£ /{//%7%////////%/ Y |\nL v Y e e it\ne |\n& gl ”%Z”/’f’\ne /’//%/M/Z %‘f%f?\nL e Y ki |\n| R\n| (el |\n3 %:;;—f‘:.;j;!z‘-Z/’%JW VL i 1\n",
+      "ocr_sha256": "7bf55a8c89d6d3254abc7a987aa3f4ae7eb528ecac95112554ea289fd4f5ec1f",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 100,
+      "image": "/tmp/manas-old911/images/page-100.jpg",
+      "ocr_text": "Sy 14l ygxw o }\nQO ey \"\n- iy 00 Y hrs W itt gty o ;\ns pa\n\n,' Gorot? 774 ///g;;,/ %5/?42 1\nE Y ity L0 g8 b dtly\n\n- SrLby” Lol ///2’///7‘/ 1\n- SO0/ G1r vy 1y E0 1\n- Gk gy gédE BgbE\n\n- reriy VEf Sy garén iy 4 i\nL pieptinr A vhrrizy :\nT A ///%/%7 VAL\n\n- oo NI Gol 7\n\n= L JH0 %J//Z/f/ :\n\nB pser vy T |\n\n-3 Jéfwgf pap 9 7 V4 |\n& . /)5%4’” MG i\ng .o /W//'//”{%////ﬂ%/z; 3 '\ney s\n. e Bl vt |\n",
+      "ocr_sha256": "9c7a0152a0d0de13260615f13b95c2bd0a4eb1c7fccce655f65676ff2eaa2e7e",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 101,
+      "image": "/tmp/manas-old911/images/page-101.jpg",
+      "ocr_text": "- v TR\n\ni 700 2 |\nb gottpm sfn domsy, i §\no % gy 1\n\"/f/Wﬁ/ VYA L it ;\n;; M //%/'/gc gatyer wr” \\\nS gy e R |\nA A ’;\n2 gt P? G Y\n;Zsi?///m Yy 292 SV\not %@ZWZ’” |\n- Wi/wf g/ e /‘/;/ e ‘\n\n* if’;;;;j/%%zéﬁ%;%f ‘}\nB ‘\n",
+      "ocr_sha256": "bf1943bed728cb9dd9657aa6c580b484c405473b107a464ab520238f9b19bfe7",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 102,
+      "image": "/tmp/manas-old911/images/page-102.jpg",
+      "ocr_text": "3 WL /l?/ y bW iss\n& oy 4 %2 aszs i\n%ZZ 9 G pev Hed ot\nE v 1o g i\nf /4// éyf - fz’;”[’% .\nA S 7\n& Ay %g/% cor. ﬂg v\na2 25 /W w# &\n- oA ?WW/Z/’ZW%”\ne V) 2 el /g/'.”’”‘f’”\n= if;/ i Wﬁx/x// T\n% o7 JZ,;Z/% |\nF i) ' |\n- %ﬁW/ZZZZ/ﬁ%?éé/&\ng Sk el\nL L s\n| ;. ; M?/%// int! Wi /,:;/; /o;// : g‘\n",
+      "ocr_sha256": "f40e9379a2019f99631375b36f8314adcb983b173b563c15db93556dd55a0796",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 103,
+      "image": "/tmp/manas-old911/images/page-103.jpg",
+      "ocr_text": ". e o\ne 90147 by Hivasdly.\n= wany yy//y i Z; /jﬁ %f\nel Al hs |\nb s\n\n:{Zg/z@ 74 /m?/ &\n\n70y’ //:z//(?// Hiz/ e\n\n= i Ry\ne fy WW///’%/ ' :\nP 5%”/; M/Zf i\n\nJipp fRI0F !\n\" M?Mﬂ/gf Jolf yé‘; f \\\nSasHimit iy Ay fadé > |\nT Gz ‘Mifﬁﬁ d/yq%/!jf ’\no8y 278 e S g\nO /JM%%//M\n\ng o 7\n\n[ %/ZZ/ /d%/éz/f””% ’\nv 200 1957\no mff/;/ //@‘7% Z\n\nL ey T e\n",
+      "ocr_sha256": "d7a750821377534fa2936905b57a8e6e83f012fbb42c285dc8f17e0160f83541",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 104,
+      "image": "/tmp/manas-old911/images/page-104.jpg",
+      "ocr_text": "il 0 srpow '\n- s = e\nP gﬂ/ < ;/ éf// f///%j// |\nQ%// /”J[\"/ﬂééwm |\nE 0y 92/ 1 |\n- %f ik /ZWZ//[/ .\nE g\nE //i/g s LSl :\nP ' /izzm ﬁ% /Z%Zf? - )1\nA T ?’m |\n- 2 by 977 |\n- % o J/z///f/ / Z/ /z/ZZZ/W% ‘l |\n: i//%///,[/l// Wgzy/ W/W///@ :\n%///// SR VOIS it\n- Py’ ///ﬁ /ﬂffe////&r \"-\n/ﬁ\"/;/ﬂ/m’/ /ﬂ/&&yxz;/mmm i\nb g7 et ‘\n2 _‘v:_.;“.:'_,f ,\n",
+      "ocr_sha256": "c63389c03932dd9084f43094bbba9beda406074f4514fae2213caa114cf807ff",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 105,
+      "image": "/tmp/manas-old911/images/page-105.jpg",
+      "ocr_text": "!' V4 ——\n\n3 o e\nAt o b2t pogar ber\njf/ﬂz &3y P ¥ iy\nV724 ﬂ?f//%,,, Hiyinge\ni o {7,4 ity S brren\n« gy 7’/’///0’4&%’% oty\nB : Z&//z/ ﬂf/ffwa 7\n\nR Loy By try7 ‘e//fg/ym\n. Q 7 Vi fﬂzﬁﬁé’/gy/ﬂf///&\n\n:  Erémaz Cow (Fw JATEX\nWl bty b A |\n= f@/{@/d’/@” g L0507 7 |\n. : LFroese ;4”/;& 2/\nA i ////jyﬁ//&\n Lodlosey SpOF S\n: (473 6776 XOEY Vs\n: (4777 /Wﬂ’/fﬁi/[/iﬁ //ﬁfu,’f//fﬁ@\nS/t /7””/ papar\ni Sty sty )\n3 _esel - Lre” e8e7] G nr\n",
+      "ocr_sha256": "9b5a5f428ea4cb21da292a5261d91750314e4d01dd6d44fda47cdf2bc2ef5c58",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 106,
+      "image": "/tmp/manas-old911/images/page-106.jpg",
+      "ocr_text": "& ooy =\noy\n. G0 ga /fw,fw s\n- So //; /jZZ 220 s % b\ng éﬁz 7//?5 //%//f% |\n- ~ZZ e\nP %/f e\n: °¢/Z/ /?/7//747/ Sk 4/3/ /74' ‘\ne o fdf/‘/é’///// /My)?'z\n4 Groitye e W 7Era %\nE 72 7 by S 2\ng | Corilege 2% G\nE GO g1 %%/ﬂ s\n= v e s\n& 57 7 g SerF //7?% iy\nP %J//ZIJ/Z// 15 W52 :\nTy 0% ARk e\no %7%7 2 /;// ?ZZZ '\ni e Z %ij/ fi/ém/_ﬁ/%\n",
+      "ocr_sha256": "e17ecdddc28bf1393eac0d76406c90a805e5d6555433d6abaa211f15de9d6906",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 107,
+      "image": "/tmp/manas-old911/images/page-107.jpg",
+      "ocr_text": "R s o\n- Pty &9,\n2‘7 U o Y 4\n//j@\" Fs gl ey\n.- reeLgemey /ZW%/) V%2\n//Z////ﬁéfﬁ// %///// /%Zﬁ,/”,\nks % / ///// Ly /dﬁsz//M\n\n. e f/méyzm%m\nP égyﬂ% S onas gom < |\nP77 Q0@ ntn gy Cope)\n- Wl Gty v W/\n47 WJ ////27///42,\nL Sewtr 5 20075 /%I/M%///f/(\n22 /7//// /b3 % ‘\no G5 2 T /Wﬁ%/w//ﬂ/‘///(\n. foreggn o Vo ke |\nF ) PPy e (Al YA\nD g 47\nA pts ooy for PRI,\n\no /M///ﬂ// 7K & kil duley\ne ,,;4;//,/&%/45 pude, A\n*M L /f/d/ Uit /{{”7\\\n",
+      "ocr_sha256": "29374190bc176e769b83a10bb96abd468dbcf06ac54ceb156edc00095a9ddf17",
+      "nonblank_lines": 22,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 108,
+      "image": "/tmp/manas-old911/images/page-108.jpg",
+      "ocr_text": "! 2, S\n£ %Wf&&, oa%“‘“z;f/‘% > g\n}é‘/ O(,éék()@‘a‘& %;\nF 2 P v : e 9,6< 4\n? oL e ff‘/ﬂ @ﬂ(iﬁzg\n] égﬂ.ﬁﬂjm .\n| sl o “C oo |\nqu Ao, %ﬂﬂt %z”f 75, G\ngf/g ‘FQ/’Q/‘:% %”; Fyele\n- o b oy Ay\nt ! %%m beli's (lpds ‘\n2 s e et\n| a%’g 27/ b s = 3\n,f;”f‘ig ’ : : Yt W/ o f? é /\nf i i\n",
+      "ocr_sha256": "1e76f93554b22cd3597ff3081773648b7679abff51670be3f5309a17a3d3f760",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 109,
+      "image": "/tmp/manas-old911/images/page-109.jpg",
+      "ocr_text": ": Jg[a{aiﬁzv fe\\ef“no&’/” |\n,’ Koo K% ZK//ﬂ/ 13\ng ?f;é:: = 0yv‘/Zif *\nR el\nB\n: % w2t CChyysinola\n; cat & #2),\ney %M 5%& ;W%Y/Z: |\n, A W Llen Mﬂ/ atl Al pd\n1 W&L@(@ ol ool\n%é/z/é' ~f0o&@ 7 Aoz gal\n} oo )\n5 Z/LM% Lppin FLANL v\ni@ - i LA |\n",
+      "ocr_sha256": "0ba1ea73dce9028d1cc741f6cb6dc8ee3bedabe5bdbd2071c4a5d4b4bae86942",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 110,
+      "image": "/tmp/manas-old911/images/page-110.jpg",
+      "ocr_text": "3 KLt sy, o ﬂ/a(i 45*5“// 73\nB o 7 gope s |\n2 or ) . =\nz ol 9o Sali o) es\n:E. Z/ % mc',;Zg ‘é}\"na&' 1\nf; : SOl Dofonn %/(}//‘Zgé?’-) Sali ky\n£ %%/ = §@7€, ,?5’//5% 3/14//\nA N S\n- Quifin &olgos fbroetye |\n3 gla/mﬂ?ﬂu / Jﬂ/& i !\nR |\ne e {co ’C//M MJ/% g ‘\nL T e gomeypl |\n",
+      "ocr_sha256": "1300dc1d5ec5ea5233bb87f13af0556b93c25a7126f653d710be7eaa882bf59e",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 111,
+      "image": "/tmp/manas-old911/images/page-111.jpg",
+      "ocr_text": "R & Oty Ll # 106\not S |\n& D oone ) 2 slea\ng%[(’ &z ol e Rtz q\nB o v faacay\nb omlae gul gty R\nL Jangor Auwlt Coyogto\nR M\nL G crofeqrd [riandls K8rosy, |\nL S goosm fetigs ﬂy«%%f%\nR Cag g %,Z \\\nEReE 2 plolinl  ednde\nE o ocaggc o o |\nB e oyela\n",
+      "ocr_sha256": "1fa68df01ff57bbeaf8c4ceeb59cc9d42f5de9ca86dbc1f864fffe5563adb28e",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 112,
+      "image": "/tmp/manas-old911/images/page-112.jpg",
+      "ocr_text": "L oanals, legply e j{;m@ :\nB ol ol vt 0 ‘\nZW»;:Z e ()(Qk 65@55/1 7 ‘\nb sl s rl Lloviol, {\n%ﬂé%{ MMan e ex Cérrsn i\n. %é./&t{én Lweay a éiwé;&/; '\nb dilldiAage Cry Rantag. oyl\ne Dewe %ZZ;W ;WM |\ng %X e '94/'*/4@; /e%/nﬂa’k f\nb g@%w ;ﬂ/ﬂ@/%a AL o Fole o |\nP oy gall\n- éﬁlg dns g2l P\no % e fgfw ‘Q/’M/ﬂ’?” b\n",
+      "ocr_sha256": "4c0f37bd857ff10fab3b7448aa49f1aaec923f04775924805f1f553d28a68e9f",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 113,
+      "image": "/tmp/manas-old911/images/page-113.jpg",
+      "ocr_text": "@ .‘%ﬂsz Ece, ﬂﬂ/L% Tl -\n& Uanasy W%Z&y ; %// L\\ 3\nb lsa L, %5 v i\n\nE 7eme Loppm by\n\n: gl dypien Sobeds i\n\nL o usnar Ser ogaC ;\n\n4 9t emes \"Gplidc i\n\nP o e ot e\n: e AL\ne s\n\\ dten e 2 0\nPl\n| S s e |\n",
+      "ocr_sha256": "fe1db4c96914c46b8155c8eef056b3215444883aa905f5c309d70298be456e82",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 114,
+      "image": "/tmp/manas-old911/images/page-114.jpg",
+      "ocr_text": "P\nLal i\n4 larnay ep o4y\nAy Adlomts, o0 500 8\n| sl AR ey\nB o, s %\n.i : S Lotk b ppe |\n5 (/&zqéuﬁw ? L e, £ :\nL W /},Jﬂc Zo/gff% /i?’ Hlow pere\n@/«/7&/ emes ol Manag\nL O o p Lolok Coy Cayon/|\nWﬁﬂ adaen wlo £y 's\nL ol\n",
+      "ocr_sha256": "c6c50a47dcc04366174dc3834bb836a484d4471f1eeee573135442237045f954",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 115,
+      "image": "/tmp/manas-old911/images/page-115.jpg",
+      "ocr_text": "'/éé&mpm 2 : - T ‘\n£ W“MML(%ZW;%% Faiety,\n) 2D L%Z 8 e \\\n! J)/szﬂr;%f AL %ﬂo;;é/pt .\n: %WM E2 10 crir 2%5//& {% {\nEonkice wor gﬂ%/é\n?/WW 7€ Liera (ﬁﬁzﬁfzm\nj’ S Gt %ﬂzfﬂfa ;%/@ |\n| 454(’/25%@/1 gﬂ//y/ Ll aniol ar\n‘ -24//7///2 cé ol et /7 Zw///gp\n= @%ﬂ?{ MANAS  AetpeT I\nF %MM&/A %ﬂ%/{ ‘\nE Zalcasiran k/% Co ‘\nE o &fym 2 Moen Gl 2\nS o v )\nF doleurdg ol e :\n8 o\n",
+      "ocr_sha256": "e8940de67fb003a10c058c8ee0bccead515031082a32e629102b378ae49e0076",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 116,
+      "image": "/tmp/manas-old911/images/page-116.jpg",
+      "ocr_text": "L / /?/—’Z/Lﬁlé' Ca e\n’ 9 - ; &2 )\nQJK\"KU'Z/L.M Cleti v ot S\n=AY, Al 2\n¢ ? ,//wtz/aa A a\n%éé ﬁaa‘ucégfg Bacy ol\n! c‘@[ﬁ Lrrg @L)'L%‘ggcmn :\nb Lurcli, Jese dagdads .\n1 ﬁmﬂyﬂyﬁg» ng%ézm\nE . )\n’v o e : 7,@,,‘_,'\ne 1 e sﬁcwm |\n",
+      "ocr_sha256": "78fca60747460358dfa7c0a0a8c55f671d008d0e285c281a66ed3f97d2096572",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 117,
+      "image": "/tmp/manas-old911/images/page-117.jpg",
+      "ocr_text": "r \"W/p’%' . i i :\nR\n\n;; éi/’ W% et el 3\n) geegt Mupar G '\ne\n\n£ : Z\"I/éo I%p; T2\n\n4 o Aﬁv/l/ L\n\n) %p—p:ﬂamu/m /Or/;s;a' @ﬂ(/zf%ﬂ/u\n\nL Aol L migere , Gerisole 1\n3 /@%M 34%%7{24%&&/%;- f\n_ . clo O W Eop e |\nL 0 ghaligp tegge Lalbut )\n%W% AL |\n",
+      "ocr_sha256": "9fd055f92d4e979e7b62842880e037ed5a683159ae5d441373faad8037049de3",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 118,
+      "image": "/tmp/manas-old911/images/page-118.jpg",
+      "ocr_text": "M(p’ Z28 Z«% ;%:Z;ZZ |\n;’,f/;/j\"gm@‘ ﬂ:%/ V504 i b\ni_ 7 ’0)(@/( fi /7(40/? B?QW Gl\n. JA/&WL(%Z%J g%ﬂ 4 G\nb lolon, 40, 00007, 8\nL ol . K{Wég 27, OtV |\ne iy\ng UL ag GAEY Ug,s ;\nL Qyp g ot e 1\nL S e 1\n£ Ouceriole, sl 00 1\n",
+      "ocr_sha256": "f1001b0cd607dfe797e0261396948173c0123101ebfd1c90729330885b24ac4d",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 119,
+      "image": "/tmp/manas-old911/images/page-119.jpg",
+      "ocr_text": "E S My {4{‘//‘; s,\n\nAT\n\nb T\n\nL joe\nol Upnogds 7Y Cacdy |\noz\n\nY uswotAs @fﬁﬂﬂ%{\n\nTR A\no %%M %’%%”ﬁ‘f i\n\nngg/y N/ EIIE |\nS T )\n",
+      "ocr_sha256": "81a74d81cfffafc07c952eb53c96e09b6c65d8d902caec1291f390edbd69c892",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 120,
+      "image": "/tmp/manas-old911/images/page-120.jpg",
+      "ocr_text": "B T\n@\\%Z( : P / Ll 770570 b\nB Tt Caretg |\nB Forran CHLy Yiramiss |\nW Jiliccoy Galion Lagis i, iR\n‘ %ﬁ«/:gﬁu ﬁ{%/{,‘fxﬁ P {/zmw,/ |\n, %mm%;fwé \"g |\n: %g” B\nsel ‘\ni @gﬂ;%yf bl by, { ]\n",
+      "ocr_sha256": "377ace08bbc5f70c2374e6dcb3d299d21f74e6bab612f570bf81e82ef4332617",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 121,
+      "image": "/tmp/manas-old911/images/page-121.jpg",
+      "ocr_text": "et =\ni @M@“f%g@hﬁéﬂﬂm % -\n2 A\n\nE A . e\ng s o car ||\n& 7@?”@%;\nB o 2 it .\n\n- 2744 {\noo s |\nQWM“ @Z%a,z&// i\nki [owe Coor Wfééfwiiz{\" i ]\n",
+      "ocr_sha256": "26f4aa18d32112deb895d44e63be85a7d0de96a2813d625aede9b498776e026b",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 122,
+      "image": "/tmp/manas-old911/images/page-122.jpg",
+      "ocr_text": "' Z;a?;b Eze T ”\n\nf@m%};ﬁ?%@ '\n\néz;@‘/aa“ﬂf “‘%% ‘\nd 9,60 =t |\ni~ %ngﬂaﬁif éaff o\ni A %%7/%27&% v oAs 1\n; e’ A \" Agsnels\ns Y\nL Foul o 5ﬂ7lﬂ;7’%”{/. B\nL Yo 3 %@”ﬁ\"% .\nL e o if\n% WM WMIZ/Q };/f/e 3\n",
+      "ocr_sha256": "f7dbb53d0f7c68131d4ca490670bd641f9d9f592cbdd8a17683b8bef12116bac",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 123,
+      "image": "/tmp/manas-old911/images/page-123.jpg",
+      "ocr_text": "TRt\nq rgutn Al W(Z :/ o =,\n| gM;Z AfFg e W’Wé% |\ng )\n%&4, Lo baltan Cog Foypp0. |\n| ity oy e\np i - B\n",
+      "ocr_sha256": "545ecd204ab718346efde95d25537dc503361109925c67f579da90ac3f19b415",
+      "nonblank_lines": 7,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 124,
+      "image": "/tmp/manas-old911/images/page-124.jpg",
+      "ocr_text": "’ Ll i & Hepe ¢ 119 |\nF Yuly CRy1 4 4 Ca ray S\nR Yoo Goriyer\nL hlcslr sipde apnlip\n\ni ! C 7\n\nL Hen iitley A Sy & b |\nf %{/éf{g Z%@ %Z//ZC’}‘@&/ I\n; ! ! / ?\ne szgﬁ ifz olala, |\n: f’e %%’?,Zl @Zgr/ ? |\n",
+      "ocr_sha256": "5af864de875f4fa99f3f79fef2709a4e18fb1cb54b4551199a614158cbfd458d",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 125,
+      "image": "/tmp/manas-old911/images/page-125.jpg",
+      "ocr_text": "e R /2o\n5}(,'5% lln @5%676“ ¢\nez A Co tr i ]\n%j(,‘é/ea&Ly Gop az%;/z “\nTG Blan Jipse .. .\n- Sfwctts oniieolny Colondi |\n91%% Wellow bre b tore |\nLotlonclown Gt 0ty gso |\n| .Q/izﬁ/é epraley sifaley |\n= %p ﬂ//,ﬂlﬁg g Ay %ﬂg/ﬂtt{,\n. Jagldya. gapsdle~ |\no Lenin lAiFRL\n%&y/md% (o iio/&n b |\nCos e sy o\n%ﬁm@z f%Z/f/ |\nW i\n",
+      "ocr_sha256": "a1406e9da2360c731c3e2c74bc11520d8657488b105dd034366ad29abaa62e81",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 126,
+      "image": "/tmp/manas-old911/images/page-126.jpg",
+      "ocr_text": "R o G\nJLZ 74: s ﬁ?ﬁ:},&? 57 |\nL A e ég(‘/{% ‘ éé%# %\n7 ol '@CKZ{I/”&”' /&f;ﬁ z-;ﬁ—z‘\no\nL ‘\nb ol olﬂfa/{%/’ ooy\n. , I o\nL 0 9 g |\nQo Lt z{s@%m\nb @% L olfn by Yo CalExns\n: C%WzZ Cloe Manas oloynigoy\nﬂﬂf'%%cm Ao Jepp |\n. azosip 0?7‘““‘ 4\n- Lol f o atlaiesndon 1,\n",
+      "ocr_sha256": "0e93f5a655d679f7ae0754a0144f557c55f035f9c73c167c35b8b024b84b9bd9",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 127,
+      "image": "/tmp/manas-old911/images/page-127.jpg",
+      "ocr_text": "| ‘7{”‘@02/ /f i ?‘%a\n%W%ﬂﬂ - 'flfam\n) Otre (7 siti\nMa%/'% LQ/MQ/@”’%/?ZZ‘Z;@//' b\n177 %ﬁi e 1\n| Calaldy~ 5l 1\n",
+      "ocr_sha256": "eb5c1a875d2b8970007e18284ed28ef040a3abcfe809f5b28ae5bb93d0fb03dc",
+      "nonblank_lines": 6,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 128,
+      "image": "/tmp/manas-old911/images/page-128.jpg",
+      "ocr_text": ". R\nﬁgﬂt{g o iﬁ! ZZZ/M/\nv L, B\nWL e\n./Z( 7 L0F0 Ltegoly .\nfﬁM/ kegl,\n; g/_;g dé/m%%%ﬁ ’\n; 2clasha) o slpl pals dec,\nil ol bala Gats oAy 4~\ngﬁ_%%égm%w Vigitasee .\nbl oy voree. 8\nL Jomdan £ala Fadalloy\n; O{AAW ars 2’5/7414-// E l'\n",
+      "ocr_sha256": "6ec7deefd9299ea3bb98d463ab0e68d291f26e40abd2250149c2959426665ae2",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 129,
+      "image": "/tmp/manas-old911/images/page-129.jpg",
+      "ocr_text": "' WM 7 ﬂ{/‘/ﬂ“}ﬂtu > or !\n. Citata.\nB e\ns o lo, ¢ Cahbesn |\nf %Kq/&%ﬂ 7/‘(0(/%//4, :\nL G o Ol g o '\n' 0(7 Qua @.{dm/) \"\nE W%/ﬁ% g /”/L%ce/w/ i\"\nW/« ~%%;é7 Gl fasl e i\n3 &M&% ,%;Z/ﬁ% |\n",
+      "ocr_sha256": "e133e563cdf1e0c9c66af57b703863141c5302d4730408fe96c4c58ae17f5ec1",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 130,
+      "image": "/tmp/manas-old911/images/page-130.jpg",
+      "ocr_text": "Cfo@,zém ¢ a e ,;7{ 2y\nLaec argactn A A 2z g 7\nD2 cg ot e g ou ree.\nAt galuy %[Zn v i\n%Wﬁ” gm/%’& G- 5 S\n Onplpe Gola r2Aepld\ns , f//a }Wk@mfa’ﬁ }\nk. W M@ﬂ/wé |\ng@; 8 06% Mw//&y/z Jalyrace ‘ ‘\n- ttnolan G-ala 914/%{55/ l |\n",
+      "ocr_sha256": "f6a1c3383b5abaeff20f1a256a8e90d574220b9b9440177128b8a4533b812729",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 131,
+      "image": "/tmp/manas-old911/images/page-131.jpg",
+      "ocr_text": "Q0 ke o, B,\n(o s s 27|\ng/zde/é;f{zz ZZZZ 2lyanc. |\nelold Gove <08 / ;)& !\ntbo e ¢ gég;wa' '\nj /?% Caloe cudass, o\nimileg 2ol Coy Lfen 3\nAo s Ansidoseyan Cobabaray )\nL B wamas g oty §\nt Wf% Gate émﬂ{?/ k1\n",
+      "ocr_sha256": "e5ec2931ad8148a15994a60171598bc644ae38ca2707aa20e27b6c7401430185",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 132,
+      "image": "/tmp/manas-old911/images/page-132.jpg",
+      "ocr_text": "3 2%/‘?;5 7/«%;1,'4:/ 2 Z/Z” .\nB e,\ngl #)5 4 4, o A\n! 2 - / 1\nL Sl G {\nB s Jora el |\ntc 7 &C%ﬂc c:aa( ’.c%%a,/g,\nL o e heped\no Zéz o rlcan, gl R\ns % C:(Zﬂ {;;:JZLL/ e\ne iy\n",
+      "ocr_sha256": "52eb347a5c78ba063ae995eec63f47d5f7d77dc1eb89458dc1159aa6882e8ed3",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 133,
+      "image": "/tmp/manas-old911/images/page-133.jpg",
+      "ocr_text": "P conddus.. Lt Lrig et erany\n; @M &?,4?75 &4}'4//; oy , N\né Z[ 4 9»//L /ﬂ/ L,’}l,/zéd(( B {y/: :;/ ¥/; 5 . i\n' e ( Vs 5 {\nR . o b L cnn o\n‘ ‘Z/[fu 7[&1/ /KZLZQ/@ ;71/(2401[:{4{ éjz(&;%/\n; /ng% ? /Qﬁ/{;fﬂ% Coy Ltec\nE feeo iy ooy Rk 3\n3 garar %?477 7l s\nL Caloclupd ralyec,\no g g\nE b il i |\nb pead g oty 5\nW o oilore Laveotdl % i\n",
+      "ocr_sha256": "ce8a4f5a3feff37efd19d725c4fe9514ec464550db789014f6d40a6719b7fdaa",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 134,
+      "image": "/tmp/manas-old911/images/page-134.jpg",
+      "ocr_text": "P Aec éj’z‘/f G o Aicrar &y\n\n= P Loty :\nP U nni ) g, |\n| iy Chee  Cloc, \\\n\n: ) il / 4\n\n| ) « Mgty b5y ks r\n) L7y %(’pr ds Jo ¢ 7 4!\n4 /p@@ ﬁ% Mzu;“( /('?//\n\nP o Aty e\nE g’zﬁ% G ar on'edy\n\n= Poelsinili goms Gtsyac\nW(xﬂ/ﬂ @ ele &‘géﬂ g gﬂ%ét ;\n",
+      "ocr_sha256": "868dca46ec9d57f5d125aaac5837ba16e38ff35d84f002c2c834498ac0800caa",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 135,
+      "image": "/tmp/manas-old911/images/page-135.jpg",
+      "ocr_text": "P ovoncee o7, D\nOZ% Gtrrsy ) Ceg . a({j' o |\nb 9ol ,” ol gges\né Fee o, 4 éii%a/¢ﬂz %\nR oo i\nB ey “aar, \"\n! ¥ Az 2)\"4/%7/ SeC ey i\n{/f?ma’% = 2ol\nI Siens\nbz LOC « kgt > (3\n",
+      "ocr_sha256": "7edbac3afeb21df42a05c5972c822841a68cb25f1c0747bc0069a54faf53763f",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 136,
+      "image": "/tmp/manas-old911/images/page-136.jpg",
+      "ocr_text": "%,%0@ e %\nRl ot ¢ ge /(;4%/ 4\n,t Dt i é‘ drg ec e\n{ (;{ : 7 Of 2t 2/%i%}( /\" ‘}’Z//O i\ni ?éx L?(/IOZZK if“&%é( ‘fjc/ C/} 1\nL Hanas ooy o) o i\nL G ea guylls, Fatinds.\ne\nB { adL g&(é Al euag ‘Léfa/q‘ |\nN |\nb oo Ll atote ete Al\nS R |\n",
+      "ocr_sha256": "47e01196ade5592190e812edeca8f472a16fced0aa4da43eec503d70ba465645",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 137,
+      "image": "/tmp/manas-old911/images/page-137.jpg",
+      "ocr_text": "2. % dew Foo Loty ‘\n\n§ Z yd . i\n\ni § 7 &?% € aplo,\n¢ S ¥ S :\n' 29 6% Z;z i s :\noo Db\n§ : Cjocam At g anole Soxclege. 3\n- é o Egenaldn tule € |\nE L sinad i\n; ke Jatly 544 .\nf , g “ M/@«{ Ears & //a/j ¥\n\n/ . Ve s i\n\nT Loarecoe e A Ees i@t pé%ew i .,\n",
+      "ocr_sha256": "50d36cbe2f85f0d726892b4fb6d0c9fab3f570b7db445b5208fdc60ae9f83205",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 138,
+      "image": "/tmp/manas-old911/images/page-138.jpg",
+      "ocr_text": "2 5 s (G5 My /%%\nf 5 Logis ‘//ﬂt @\n_' (Qﬂ ¢ Manacs,, ﬂ;/f/&(”(’{ b\nb 522/ s e /:_/tMa((, ;\n., LT e\n) 7 ] 5 / f\n-\n- NS As Lol {\n:Z&f/ 7L A 4;[7[452'/( 7(/ X\nZﬂf/ Ao\ni%é A o SEnierie\n7 Oliy  trlosg ;\n= 2 enge. dora, ot |\nb e it |\nL Lec 5@/&@ gac YLy '\n",
+      "ocr_sha256": "9f2a8f19f3180891663781efd480c6e5cbe07dcc3782622c646a1015ef7e8c65",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 139,
+      "image": "/tmp/manas-old911/images/page-139.jpg",
+      "ocr_text": "S ﬂ%zz(j% 5 e —\nY O o Ses s /3y\n( : v/ 0([ ) c/y %ﬁ , B\no A g :\n; v Y L e N e 20\n§ A At A oA 27 g%\"ﬁ:oé i\n) Z&m& .z G den i :\nl a. na Jo8 oy s Kelot sy A 1\n; &(// i PN, : o g\n< by €l cdnole {\n1 0{/[ Kons i ~ dun\nL ele ninsw 2 e '\n- jwn ede oo §\nAL a g gr e |\n2 Wmm &y, AEA 2r b |\nR 7o\n| en LR e ]\n",
+      "ocr_sha256": "83381888629822e2c5901bed1fde177d0448b955d0b3764b8767692fe12f5137",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 140,
+      "image": "/tmp/manas-old911/images/page-140.jpg",
+      "ocr_text": "] : e\n‘77 /L’L’,/ﬁL L}a/k e /‘ cad A\n‘ ‘J/{&Z  ‘7¢ : é L€t e \"=\n7 i 8% e s '\ne ki Wi\n@ C 1z R\nE /7/%(/%//52@551 ?;M@ s )\n) CLULO. i, 7 % ,/ {\n' 5/;;{4%2 o/s ! Susiases.\ne ey\nL Sasalngs @royrilotic . 4\nb Cocigon Juenen Qovsyan\nfe:&uz oy penen [ Hkéypac H\nL Loy piy e Galonnc,\nLl ety Sl ans,\nB 4 gl\n",
+      "ocr_sha256": "885e8c569ce57563a926606b70980a997f34ff67445dfd28d97487b3e5d95b34",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 141,
+      "image": "/tmp/manas-old911/images/page-141.jpg",
+      "ocr_text": "q&tﬂc‘ C /% .\n./ P N 7 v\ne 9 @75;7'0& i Ctoe\n. e\nT e o ok gk,\n7 Lj_[)[¢;é e /J’Q. Ji@/' t.’//f { 4 2\nB il car e, B\nE A . 5 13\n. z/éz %L&ZM Sk QA Oe !\n| R8Cpie opy Alppiar,\n; ‘%&‘Z : Cfp;}@,ziﬁw _?Z‘j‘{é,}:”z “/ i »\\{t\nL et %‘6‘&%' b S\nb poeoy A Loty e\nl’W Z\"Mza,z Aa Safdc el 2\nE R el S R T . o\n",
+      "ocr_sha256": "4be0d2c945d819ed157d99fe32aaa8964dfb2d0a12caaf1e1916782e46b4de79",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 142,
+      "image": "/tmp/manas-old911/images/page-142.jpg",
+      "ocr_text": "U' / Y 7 Qfo{/Za(( f),%é ; )\n. ?/d' o*-u(/,ﬁzz )4(7(; 1227 ffe,z @@7;;L\nT R |\nE Sortra o g tFo e |48\nb oy Wiﬂf@ o pote. M\nv_&ﬂ(gm /s 3/@7, foploles 42/,, I3\nb Gar cainS iy et %‘ 3\nb Gl boggces\nSN oAdatre £z {/éz;;— i\nL e e G |\n",
+      "ocr_sha256": "611b9c120da367ba167e9c7639375829596ab1ee2531fbe6562436dce26688a7",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 143,
+      "image": "/tmp/manas-old911/images/page-143.jpg",
+      "ocr_text": "p;c{:?d G5 fom, e\n\no 7 s G “’54‘1- L /27 '\nE rfesfe Feirenp . ‘\n, i i mhdf;fgm . |\nE/ 6’!11/( '&L/Z (’/ ;;/L,(g?/é/}//{(t 5 V,‘\n3 Mg\"[ﬂ‘/ o O Jaban. b\niy o D g g r g\nM7 éﬂ(/‘l@& b soClg,\nM ke L 14\nL0 sl ot Botla e\n;;,4,;% fow 9004 ng‘g{{“@%; 1\n\n| * jom th Lo Al 1\n",
+      "ocr_sha256": "d861a9739c7e21a0f5db650150ba6dfcc0625d59483a98f7e2843823341df050",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 144,
+      "image": "/tmp/manas-old911/images/page-144.jpg",
+      "ocr_text": ": /,/(g[} ol a, /73 cp0q. W\nb 2\n-2 e Vi ) <\n2 53¢ o ARl !\nP ,f@//é;gp/ﬂ e 576\nE. Lhrlu {p@%ﬂ / i\no ?/2¢ 2 _[; A 4@2”4\"“ a\ng Wﬂ&& ;ﬁ | L8g7 ?/’7 | ;\n",
+      "ocr_sha256": "a444f0da6c79f8751f04def824fc7c32f073e79e9c9fe23088522a81c89db72f",
+      "nonblank_lines": 8,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 145,
+      "image": "/tmp/manas-old911/images/page-145.jpg",
+      "ocr_text": "I L (o, 4, o\n\nF Kegydy ;Zm erbin |\nF - ofa Z,wac%;{' T 3\nb Wit et g 5, :\nL i oo wlee 4,\n\nf U’é/ﬂ/ Uf/ﬂ(‘h7ﬂm J\"a@ 7,4( @Z\n\nb oy 2 - , 7 !\nR e R\n19%449 Copety Gagsbts 1\nL sl Callar Guag g b\nTS\n",
+      "ocr_sha256": "7aacac6cf9392111d11b170b3a3984e8fa293318a64150a1007d9a95793fdab6",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 146,
+      "image": "/tmp/manas-old911/images/page-146.jpg",
+      "ocr_text": "f‘ Wﬁéﬁﬂu ALy 1Y/ ‘\n: %Mﬂf@”’%/ﬁmo |\np WG V298 1o/t 13\n Whopeyip G0 et ‘\nfati i np iy oyl\nWy tve soear gimpy \\\nU gopv Sijin f\nWotey votye i t\n& Gorasan oty sy |\n\n1 s g/;/ﬁﬂ/ /////Jﬂ X ‘\n8 aviliy tgtorc cor ffz} |\n| |\nA Lo VIV\nL 22y watiw G477 '\nB fevorigy ot 7T |\nW e P ;\n",
+      "ocr_sha256": "b895b591348cb2bb3e717270bfe1ec8a54b4a2e4b6025e827115dc882390a4fd",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 147,
+      "image": "/tmp/manas-old911/images/page-147.jpg",
+      "ocr_text": "B iy, a1\nW oy ZZ iy W\nB O\nE ZZ”; Grn e '\nB oty Yapsr g\nA '1\n| & o us k\n\nE 4w vepee Jupy o |\n\nil f\ne i\n\nW e\n\nT h\n\nil i\n\nB wnei ‘f\n\nL v\n\nN e\n\n& s, ind\n\ne w3\n\nT —\n",
+      "ocr_sha256": "46e75271fbcdd942effeaad99b4e0c3c84e2c2a02b8f270e8c07fdd77b157d2a",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 148,
+      "image": "/tmp/manas-old911/images/page-148.jpg",
+      "ocr_text": "T\nW ey W 122 ‘\n) ‘f f v pavis 97 2o %iy//;z/// -\n3 ’QM” wgsey 7 G GuiGh s ' |\nB ot it (8222 gy frrsy g |\n§ /%///z?// ;%%’/ﬂ///%iy’ % |\nB @ Geprapy byrtis |\n3 l’%/ & /\"/ PGH fs- '\n. Ty\nB D e gy 0t ik\n§ 2w oz st |\no Ty g i\nB sy o s i\nsl\nSy gt S il\ni\n- &\n",
+      "ocr_sha256": "5cb511e0ff623797f94e1c83445d8286c4e49708d531e67d39c4600641a3b8dc",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 149,
+      "image": "/tmp/manas-old911/images/page-149.jpg",
+      "ocr_text": "b b gy % e\n_ T T oz\nF 0 Y 27\n- )% 7\"/”/%/%///%/;7\nL TG ity i o o\n- Gardidlynr  grassssp\n. B S,\n& /;/ fgj’/%ﬁ Jz;///(aéw///‘é;»/ ///4'%7/7’:\n' 5 r phige [P\ne Jg/ﬁf;///;;m oty wve _ |\n- D bwleve v o\nN ,ﬁmwiwfwé i\ne //&/g VY /W/% i\nS LY P HG I ?\nb 2 g W 4G i ‘g\nR sy\n;‘ 7,4;:4 % ?’/’ 5/@/%' ///f//ﬁ?ﬂ \"\n",
+      "ocr_sha256": "602f1e87b30f6518701689782c56707351bdbf5d98bd03f2eec3977543548d9f",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 150,
+      "image": "/tmp/manas-old911/images/page-150.jpg",
+      "ocr_text": "it //f/’( % /6/;/ GO0y\n\n: W e\n\nL 7 e iy\n\nL THVD i by\n\nb - ﬂé/f?k//w/% Vi\n\nL Jayilgrer Joim\n\n3 %// S gt gkt Wik\n\n| Gldirey) dimgen R\n| Jwa idige gt i\no i e |\n;‘{??'?%/ﬂ/w// gt ve i i\n| ol oy 0t ST\n",
+      "ocr_sha256": "5cee92557a0e2e26162822231a1205b6a70d5ffef31718bca0b10938cbf6a187",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 151,
+      "image": "/tmp/manas-old911/images/page-151.jpg",
+      "ocr_text": "L2t i e\n| AR @279,\nF e g L &\nL 9ermiy o 7G5\nﬂ//)’/ /& 7, f % %WJ\nP 7 YT e -\nP W z 7’/2%/// 2, :\n/ﬂw/ e G\no 7 %f%%///%’ /Zy y i\nY T %7%@////%\nDT e\n?W I rune wit g\nJ/v‘%’”/ 4 /%%éﬂ %MJ/Z/, |\nb vy i\nb\n",
+      "ocr_sha256": "6aa1d1462d2785324acf27e80f8c2e3de8f83136fa78d4be0898b6c5a691d085",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 152,
+      "image": "/tmp/manas-old911/images/page-152.jpg",
+      "ocr_text": "/5\nl?‘”/m?ﬁ//,{// ///?zmym,,' %\n/2&/////7¢/¢ /{//7;) oz 7\n/’?/// z f/////é o727,\nGV Pors frm Sy lrran\n/7//4////// CEDaY gronre\noy #y ///2}”//77/%)/?%/%1/2\nG Frther sty\n7 ,%’7'/4%/&%4@\nS S0 ol e\nMty i\n2 galy 9t j2sr 5\n///7/// 7 Z’%W/W\nr 1priy goiwae epene\nS oty B G P\n- grdorite SY7 s 227\nW Y %ﬁz};\n",
+      "ocr_sha256": "9b533845bc36cbce0e372df9081f06e0cdd7a88e9fec8bb9a9b33ed258875286",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 153,
+      "image": "/tmp/manas-old911/images/page-153.jpg",
+      "ocr_text": "i i Jetrrar Py <\n\n% /5// ” O vty J%PW%/\n\nGpr 7o Y P2 2t22k\n\n; A [?7;”7747 //%/y‘z/? o\n\n- e Zio/f“z//\nf}\"&f//ﬂ?f/ %%/I/ Yoty\n\nL Sovr /?/ﬁ'///y A et or\n\nL WPy gent ////4*;'/%0;\n\ne A\n\nB L\n\nL SPtger Y fo vty\n\nL Ay /&{?’/%%@f“‘/’%ﬂ” e\n\nL drt Ry gl $2 e v\n\n& (p» //7% % %/ Mg%\n\n' (&7 27 7 242 . b\n\nLy gl Y 8\n\nL&) vy\ne\n",
+      "ocr_sha256": "0f54ed2fbdb59a47c51fc05f824c48cec1fd06d6294d5060a1f00d795528fde5",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 154,
+      "image": "/tmp/manas-old911/images/page-154.jpg",
+      "ocr_text": "Cee syl ; 2 DA\nf Al ge H ot sy\n\n& ﬂ 4 /M/#y 'y\n\n| [fﬁm‘/ﬁ/ Y 2296ty %\nS 2007 piy rng\n%///{f//ﬂ(ﬂ 244/ 0y\n\n;: 79’ 7 Js008% & jutpe\n\n; /7/ 4 gl furgs/ iy\n\n- Py gy /// FILPo1 jags2 gt\nS ppPIy 8 87 723\n\n£ S s et\n\n- oy St Hp252 08 gpane\ni dds\no 21 Jpr 707\n\nS S P fo S ety #PA\n\nL g iy\n\nLo o sy fY i fird\n;_f‘.; W,@,/// g5 4 &7 f//\n",
+      "ocr_sha256": "2c5e53e236f3c42b486f568f9f8d2e1936bfb217e8a6a3993c11efc4ec254b11",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 155,
+      "image": "/tmp/manas-old911/images/page-155.jpg",
+      "ocr_text": "Y //_,;«‘A Vo T\nP 7 %”é/ﬂ%&f/{; B Gy nrn\n, Dor A2F gosets )\n3 AN BD7 L iny Setvew\n| Jate gumry mer i\net aly e\n%%/& Iy 2055/ w bt 9755/605\n\nL gy gy tere” ’\nF Cty/ yarezy %////}/\n- geftey Ay pirr ¥\n- Ay //¢ Y Jptr g .\nGt gy P *\n- reprmit wATF '\no gty YT f\n@5/474?/%% Z%Z’;ﬂ’ # .\nbty YT\n",
+      "ocr_sha256": "41a0c73e3fe786bc2d831f97ad3fbc979f48d246e2928506aa82b823fd012ee0",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 156,
+      "image": "/tmp/manas-old911/images/page-156.jpg",
+      "ocr_text": "; ?f/g// Nor boamey p, s AL \\\n\n. ///%ﬂé% 7% v6%7 g4y Vios 797\n\n3 W2t jtsry;\nP51 e -\n\ni /a//iﬁﬂ/ /@‘/70 e\n\nb Yo s 2Lger Fore\n\n; %%'dyfz/ﬁ'/ @2 #2280 PYfar vt\n\n= f/ V.l /7?/& ¢/ /%m g\n\n- sy\n\nE e fo7% Y 7/%\n\n/g/%/%% e ,\n\n) A :\n\nN L %//f 4 j\n\nNl |\n\nE 'é///m gy W99 |\n\nL o sy B TR\n\nT i A O T\n",
+      "ocr_sha256": "fdbc7a852bb355503ed17cb28c3239d9378736baca20e82abb2e397b9d4de806",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 157,
+      "image": "/tmp/manas-old911/images/page-157.jpg",
+      "ocr_text": "Lo/ ?/”/Mz Zf ganéy\n: B bty 7905 0 0pz\n' » 70%2 topat\n7 CF GIS177\nPRECHRIG a0t &/\nM 7y b? /zé//,;;,\nL S gprguey gybein\nL sy pipeon iy e -\nF ‘ /m ot sy guf sa/sars\nE ' f/&'ﬁ/ /7' I oy sy\nE VG s yf///// 77\n. Yoy al Lt\nF Guter N Ay i\n3 //%MW/ S e\n7 Jupnt Y D\not do g P\n: Gt Y //ﬁz Y\n",
+      "ocr_sha256": "8fbbcb2de82ff47f91f31b72f7cbb44a5cefa6fbf00bfb692a9ad5f1ca871549",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 158,
+      "image": "/tmp/manas-old911/images/page-158.jpg",
+      "ocr_text": "\\ 2ok g, S AT .\nb i,\n\nB T o\n\n:\" /ﬁﬂ/f////)/ﬂ///uf%%,w\n\n| Ve\n\n] . G bept 2% //% o\n\nTG Gy s\n\no fg@f/f% &2 Ay Sz .\nL ///éﬂﬁ/ﬂ/ﬁ/ylﬁ/\n¢ %{75’ P @S gl fro Zager tew,\ns ?/%/e?f/ S o5 DAy fnttan R\n- b Loy s g\n. erarjynr dhwt )\n Foowarse e B %4#/ f\nN e e //f//&fﬁfxif/f”fw Tz\ni ooy s T g’\nL ot B\nL Do w7\n",
+      "ocr_sha256": "859be2099661bbcebb1783df1d1a3106f6cfba4401c23d010a11df1b2a794127",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 159,
+      "image": "/tmp/manas-old911/images/page-159.jpg",
+      "ocr_text": "& 2200y vird “\n\n2 %ﬁ 27 g5tk Zﬁ %f/ Virsp 2\n\n.‘ Forg o i sp 25 |\nA 8 o e\n\n3 T @ty & ps e\n\n4 % 7774 J////¢& s g\n\n‘ VERY gyt vy\n\nb ﬂf/;/%/ﬁféﬁ Julppione\n\ns awaz Grr St 7\n\n:j r/?’ 7 tr877 //f///y/ gatr Sary\n\nL sty st 2 b 67\n\nt e vpap\n\nE Ly Eegiip VO\n\nS Zyﬁyﬁ/ymﬁz ERH75 > |\n\nR 1P A5 R P E\n\nR\n",
+      "ocr_sha256": "a912763107410f2ae294510c2bc4b457456b5d3ce537ebd7c3bf3a533cf0efff",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 160,
+      "image": "/tmp/manas-old911/images/page-160.jpg",
+      "ocr_text": "| 2rzy /// 2\n\n! V2 T EC b\n\nIS e e\n\n' AWy sz b 9y\n\n‘— ,YQ%MQ//Q/ F ity o\n\nTV GG W57 by gt\n\nL G gy getivan\nTP s i 70 5\n\nSy e Sy G Pone s ;\n\n- Z@&/ﬁ%ﬁé/fW@\n\n7 %%z/ S/ G\n\nf é%//%/j%%  frt0r e\n\noIt %M/Jg/&’%//g;\n\n. G wby (P gtV I\n\n Foriegey 2l /%w?w% j\n\nL sy gy 1V\n\nb s s 7% 22\n",
+      "ocr_sha256": "27ec3363f867ae36e4d0fa5bcd636b7ce45163e610a4c00e45ebd2a438e36cad",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 161,
+      "image": "/tmp/manas-old911/images/page-161.jpg",
+      "ocr_text": "%2/%/ Sty /QZZ/Z/M | ‘\n\n| T 87 s\n\nL 2 S oy w26 Fob\n\n72’/??//;/? 2295y wan or- i\n\nil e sy :.\n\n. Q}ﬂf /%/;/% /%‘ %J/ Y\nN X '\n\nL fapge the g b Lyt |\nE g gl oy 7G|\n\n. G wer? Vi %W/.///\n\n. earer S0P 7Y //f//’/ !‘\nY gurer gr7” %7”./%/ o :\n. E / W b g 267 gyl ’ l\n\nB JM%’? Z/ﬂﬁw o ]\n",
+      "ocr_sha256": "083c6d5c584c39c9a491ac2209bb331767e32b1c0532877f7c6d8f62759fa040",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 162,
+      "image": "/tmp/manas-old911/images/page-162.jpg",
+      "ocr_text": "e =\nA oty\n. i |\nE . il %’ e ’\nB % gy |\n\n-y vy by |\n. Sopt SE% 2 74/ & il g\n\ny f*%ﬂﬂ/ /}Z/// ﬂ/ﬁ://w “‘\n\ng N Ak ‘\ng GBI Z % et 1 P ‘\n| M |\n",
+      "ocr_sha256": "8dc1bea91b7c7cc644738be4a40508b2df8c8ee37d8aec7e40779a51fc9ab7bb",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 163,
+      "image": "/tmp/manas-old911/images/page-163.jpg",
+      "ocr_text": "; A ﬁ%m bor /D1\ni oy g i\nB iy, )7 x\n[ 7 i g P |\nQS e\n% By Jy 12V gt pukon\nL b pusse Yoot Sl\ny////% G /{4//%//// f\nk- Guastmarin gayé76 '\ni Lpross 9 vl df #LF\n1 e Spradur arorfes oz |\nE cooerom? conrbpbs |\nb ey\nb o e |\nO A\nL (Lagud\nS i |\n",
+      "ocr_sha256": "f4c15dd9a6b7337edd43b9ceee0fc9648dfaaa75d02c67ddf29e1782e3730261",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 164,
+      "image": "/tmp/manas-old911/images/page-164.jpg",
+      "ocr_text": "4 f’? J0t8/%0 /57\n\nL tn Car ¢ fsp b\no Shré Lo e 1’{%&[9 '\nP s Sl L |\ni J * Lot i %; 74@/ 9.4\nZ/”f;/ ¢ Spé {///,7/%- f/;// ‘\nfuniay\n. : / / /\n\n- gwpwier zZ//Z e\nF //z//% jertse 4o P :\nAt\ne Lo purerat\n\n- patén oo o il Ylesie k\n| e\nE B ey s L\nA P\n\nT O\n",
+      "ocr_sha256": "cfb332c91354aa666b43b71e0b173e2c8710b93428e0223aeb3d7b8ece2ec43f",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 165,
+      "image": "/tmp/manas-old911/images/page-165.jpg",
+      "ocr_text": "R0y 207 frgsp \"y Hop ‘\n' ﬁ// A s\n\n3 'y /w?z/ﬁ%//j;z :\n\noty 67 sroudl\n\nWY A L 4 .\n. /%;ﬁ/% vy dopese\nZ /Z/ il iida\n\nk /%/// U&%W %f 17/ﬂ\n\nb Y ooty Gy ©FF |\ni G 188y 9PN ? i\n\\ Cijoot arsy £yt f\nE ﬂ/m% V244 //é%ﬂ?/z ‘\n- jilgedo) O % sy\n’;?%”W//’WW”///// |\nL o/ sy Foe 7 :\n",
+      "ocr_sha256": "3c7cee37a1c28ab46433c5a7238b0a5a9e5ee05f6a69af724f72af17ea720213",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 166,
+      "image": "/tmp/manas-old911/images/page-166.jpg",
+      "ocr_text": "J oo ifaor 4, % i iy\n,‘ %7 Bretyiin /d/ﬂ/fig, |\nb [Z 'y '\n] //’//J;/i// ﬁg::: el il\ni . Y Sy Aoy Gy - .\nb @y gt dyiae |\nL Jer aror wirfor 204y I\nL Gw ety o y//f/////; |\nL/ cyperat ey ine / ;\nL e jowty o7 0P i\nOl  fa gtb s | t\no é’/W%W@//’/W e\nb v A\ne sy NOPETT :\nS e e I\n",
+      "ocr_sha256": "38849851a9f6b272597e335f2fc4327ca68f16f9f3a64c98ef5755a6b4a49be1",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 167,
+      "image": "/tmp/manas-old911/images/page-167.jpg",
+      "ocr_text": "et ot |\nP sy\n| Z‘g’y/ Wty Gl\nkA St\n3 e f o0ty 070 dop o\nb g ot prg o |\n-~ 4 ZrLL gutlys Wt .\n: L fupare Va5 Sa/raré o\nE P et yf/'ﬂ//// g E4/507 ik\n- Ay 700\" Iy e i\nb Lo plrap2lamt ih\nS %%%W////m M'/wa/f/’ﬂ - l\\t\nN i 4 //i‘%ﬂ /%/;//;//// i L\nk7 y%//ﬂi/f/ /%‘W// o )\noy 1 ST :\n-y HETE\nvw Gl\n",
+      "ocr_sha256": "96503fdf2b6dd4978f1d86d7d4d3bc85cceec2e2cca7f162c6fa82840a422abd",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 168,
+      "image": "/tmp/manas-old911/images/page-168.jpg",
+      "ocr_text": "W e iy o -\n& 7 vy 7 Seree \\\nL oy o 4 |\n77 ey |\nZfﬁ” 2f Py #wegif o\nkA *\n-f/ﬂ/ﬁﬂ by 9 #2/9%\nb vy 10 e I\nP V7 %?//W% i\n~ /p//f/&ﬂ/ J/z/// /g/’m//c’/ A\nE gy W47 ;’.t\nb f%& PP |\nNt 902 157 PN |\nL Jwayty ! $1\ng s |\n",
+      "ocr_sha256": "711eaaec4baaca8ee8cfbae266d80e01b45f8300aae54ca7e96203ff0da9c023",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 169,
+      "image": "/tmp/manas-old911/images/page-169.jpg",
+      "ocr_text": "e A s\n§0 7 g 75000 \\\n1 /ﬁt‘/y{zé////ﬂ// vty ‘\n:' @70y 1t Gov 5ot i\n: 3—’}?&7%’/?//77 g gy metgmr {\n& Sty 7 9% e A\nR i s prr ad\n{;{//// é@é SR 3y 1\nA |\n‘ .eiz;%ﬂ/wﬁw s g ik\nA |\no s Z%M@W ' ;\nb oy T i\ns !\n. T i\nf”%ﬂ/ W ]\n",
+      "ocr_sha256": "5c2644d8ca0aef0ebb3a3539adeac1957e1ff67d155291ea1103d368edc78281",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 170,
+      "image": "/tmp/manas-old911/images/page-170.jpg",
+      "ocr_text": "Y47 7% 204 Bgsr jur '\n\ni f//f Yl %;///%/f/? .\n\nb o7y /f/ﬂ/iﬁ For#\n\nL aly 2 % iy\n\n%ﬁ// S S i\n\n2 L2 5777 272872272 f/{/ﬂézm% i A\n\n%ﬁmfg/ ////79 lorbomit 2l i\n\nL el gy mﬁ//ﬂ/ |\n\nN //4”‘7’// ; ' .\n\nL spadis 900 W\n& i\n",
+      "ocr_sha256": "bc98648abda7de5f549de2ecbe439a1a66d7d50b20a75ce235a28008cf96fda2",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 171,
+      "image": "/tmp/manas-old911/images/page-171.jpg",
+      "ocr_text": "b5 o e\n..., ™\nR fo2pe ttrey g\nL S / 27 ottt |\nL 2 by 7 gef Gliin\n: SIIAITEY S s\nL s ge, o T2o |\nooz\n;M% i = il\nﬁj%/% gty [ V2 i\nE M pathocbe priet e i\nE iy 09 2 t\nel e |\ngy B ‘ .‘ &\nM*% /W//f;/% L \\“\n",
+      "ocr_sha256": "46046cf24bec55bf126a1b8005e8d69180a66904166f3b3127c2c9f1d586dfe8",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 172,
+      "image": "/tmp/manas-old911/images/page-172.jpg",
+      "ocr_text": "L 2 /2 e G0y |\n' 4/’0// Juthom 2 o\n. Z 7 ?/éf;{/p 2 ’g”ﬁ/(yﬁ\n. / vafe (2Lie a\n3 Z%Wéﬂ% i i\n%’/g// S v gy 7o\nE - ey e g\n1 Z/ /é//ﬁ?/”/{//,wzfﬂmf\nG %W ' / / ﬁﬁ/i/?, )\ns MZ/{” plos batlbotl i\n| %ﬂé oo 27 o }\n",
+      "ocr_sha256": "e14db14603589594c3fbed7a22ea9eb7e5140a78bfc6f0d43ea285ae23b1f1ef",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 173,
+      "image": "/tmp/manas-old911/images/page-173.jpg",
+      "ocr_text": "b 5 Cojinsy Wome .\ni (4 / :\n[ VW&/&W{ /%/w””/f?/ o ‘\n‘ 2 prvav s T\n| RS\n‘ Lﬁi//p /%9'/’7/‘ V774 /{//kg}z'\nA by fitett\n3 v Fage jer Foder |\n\n- Gl g s fetly\n| o ity sy\n_ %/ 2‘/&/}7 /%%J/ng //M Jplorap 647 i\n& AP0t W/m’z- Vi Y 8 \"\n%/ Lt PP zit\n- volent fuf p/° |\n- wiwe pH bty 4%y q'\n- ;% Hogpil 6 094% Via\n\nE f/;/;@%' iy Gty g |\nb Gy |\n",
+      "ocr_sha256": "f5cf1c11cde3fa4863fa3c26c904161c052ad12e977e9384dc55d2703a24736a",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 174,
+      "image": "/tmp/manas-old911/images/page-174.jpg",
+      "ocr_text": "b 2t i gy g )\nsl o\nYYT %7 thproge '\nymam‘%/; M%,W\nf% /k//’/ 4//;////;/‘/ ot\nvbr2p s e %/Wﬁ/f '-:\nL S A 4 ey 9 A\nG P frran g oty \"\n3 S22 o é%/dé/ &t i}\néh Gy A EY /j?/ g\no %f%yaw ;/2//// 767 4ot e\ni» 7@{/7?'¢/ e |\nN L .\nE yZ/iy/Zé /M%WM’ e ‘*\nL Qapparstr ity 197\n% o Avagir VT {\\\nS D gaime {\nE- iMZ/M 4 %/W}/{ don 's‘.\n",
+      "ocr_sha256": "9a12e3aad810b0f14fe6f68502c05b97cafb5581ddad14d861fe1a711068f2f3",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 175,
+      "image": "/tmp/manas-old911/images/page-175.jpg",
+      "ocr_text": "L st 7%7\\\nb o o,\ni //,%,Z y: e -\n%}/ Ay Feras i\n’ ¢ z %& Zrze |\nA s\n- e |\nL SaGeper man gy “ |\n///} o 77/ pr 7 |\ng poiye v |\n7 e Jlpcy an 9 27 $728 it\nF dyss vty 4 {\nE frg i 4 gyt 17 B o\n® 157y o pe 4P s i\nE N parye s/ 2\nP A 7 4 fZ vrf ?’7% /{//7/'4% i\nb e A S |\n. iyt oo, %’1\n",
+      "ocr_sha256": "ded3ff7556f4ffb54166ec4ce3971f8e4d96a2564e753dac2f7de9ede931af83",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 176,
+      "image": "/tmp/manas-old911/images/page-176.jpg",
+      "ocr_text": "QX217 70 v, \\\nL L for Frr %0 o2 & L ‘\n| vy WG Bl Gl Bl fpp\nYy dcce Pop cwiphe\nL Sulpin gryr oy pernl |\ne 4 par covom fipp -\\\nH oy b7 YT ay part? E\nL o dafpyn prsrryrn\n7 Dyary E5/07 g%/” i\nb |\noty g oy 218\n- prpussen f97 © %{Z/ 1\nL resei iy G ety N\n§ ooy iyl\n8 s G T I\nbz ity )\n",
+      "ocr_sha256": "213e83c4ae180ccf4d86bd13cee8007b9e482ca186391340fd72ff0bf57f4454",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 177,
+      "image": "/tmp/manas-old911/images/page-177.jpg",
+      "ocr_text": "R - T\n. %///Z& o Sy Gt\ngl dd / »t7, ?//% s \\\nHan /@g p 24 7 /%;/'/'\nb o ¥ L M%y/% ‘\n20yt “ W/;Z//” '\nR et |\nE s @i ’\ng PSP et i\n' 7ty Sy 't\n- 7 ””/J/Z o /'ﬁ‘/ﬁ?j;w\no DIy %Z/ il A E\ng v » o A0 909 I\nk- %W/WW Lo i\nL e et G Al\n§ %// v W77 J/'M}K// i\n& U cge |\no e Mo Y 7 - I\n",
+      "ocr_sha256": "602a3b69917346552d63645c9a82ad3910c6c7e1eeb2fe642c90e96fb397b29b",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 178,
+      "image": "/tmp/manas-old911/images/page-178.jpg",
+      "ocr_text": "wre 97957 gy-‘/}i}:\\mm\nWW; e /%é !\nY o |\n] - 2 B8 ”ﬁ 4\n- ?/7/////;& /é?//[?///;// 1‘\n-fﬁ%/ff S f/g%m/ 3\n;%M///%sz&ﬁ ﬁ%;,‘z/, i\nw/\" s i\ni Z o/ dry a7 V7 i\nI ‘eips Wit 2|\nZ%’%%ﬂf/ phhal i\n..‘ h Qﬁ/tf”/ %;W///W Sz 1\ne )\n",
+      "ocr_sha256": "bef2c903a465e2eb2340200597848e4b415e88c53101249f3ee06e6358357aa0",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 179,
+      "image": "/tmp/manas-old911/images/page-179.jpg",
+      "ocr_text": "Golvos 06047 poppif I\nfeyo7 < ;’f‘lffﬁ 27 \"\nU el T : ,\nST Gef N | ‘\nB 7 s '\n HYfsenn 1 [ - B\n%//4/ ST o7 Patman al, 'k\ne M el |\nAU I SPYY Y,\n\n{f%f/” % %Z%@/ e 3§‘]\nS ey fUY /”f’g ) '2: ‘\nY Gow b a7 J7 7{ S }.\ng o Z%f i\\\n. %«/m e e, A\n§ gamdar 77 7\n",
+      "ocr_sha256": "8d6fe3432818e22078dc1dd1008f77619870b9d09adfd31998d99f8b45237fa1",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 180,
+      "image": "/tmp/manas-old911/images/page-180.jpg",
+      "ocr_text": "Y gy FP syl amy: ‘*\nE LS ene ;Wf/g%p WWW’/ . :\nB @y g7 //%//M//Myyp ]\n& Pidlibrone 4iF Yareso L\nS Ly by gy el B\n54% ,Zé’///)/é’ Farsnss \\ ‘\n- W Gwyge grtrat T\nB crparay s gyl 1\nN P 14\ne~ '/7%%7/ \\'1‘{“\n|\nAT |\nUS|\n~%/&WJ/X//W ’”// | ‘\n| Z{fg/wj dair |\nit\n",
+      "ocr_sha256": "2c559b73f28590a2e15a61c8fa61b76a21b8e568a70948b7a8e8dac582416dcc",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 181,
+      "image": "/tmp/manas-old911/images/page-181.jpg",
+      "ocr_text": "& 210707 Grop i gy, \\\n& rrar /// 7% /57;% J\nG FEW6 g /(v////ﬁf%) :\nE g///? LU mridy witay ; '\n: Db ot e 28 f;//z/%p t\nL oo Fyup Gy 1\n- e SAGF 5/4/4/74'” A i\nL & ity ;fZ?WWM W\nL Son gy Ey e PP :\nL M //Z%% s 5 W/\"/ﬂm@ i\nb et ik\ne | |\nbt ||\nY Y g M/ 7 ////M/? S\no/t Y \" G\noy '%75/7;” W/éﬂ/zrf % ‘\nw ZZ/&’ M%/?ﬁ/ﬁ/ﬁ L f'»] f\no o R Y S\n",
+      "ocr_sha256": "3c525f5e14602ca608d128b79846eb0f0d774841bc3f9dff68ef9272cb51c7eb",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 182,
+      "image": "/tmp/manas-old911/images/page-182.jpg",
+      "ocr_text": "Z Farpze A ‘\n‘.. . ;/j G F 2B fhrges, ‘!\n/}2;” Z/@;f/ %Z;Zﬁ?ém ‘ 1;\nA |\n\n§ N = P\nZ/j/// /% //%f/w Hys 47 i ‘\nL o Wws wort” %&/?/70 } i\ni iy |\nI |\nil vz,\ngz, B\nTR |\n",
+      "ocr_sha256": "bb5accab6bb8333c8533eeb7227d235472d49cb4acff1b930a8a6b0c4c611748",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 183,
+      "image": "/tmp/manas-old911/images/page-183.jpg",
+      "ocr_text": "3 &2/% %& //% /ﬁ : i\n, é/%yﬁ f7¢w/i {/7/79ﬂ /\nv ”/%Z A bt 1\nﬁf/é//ﬁ/////z / ﬁ//gﬂ/j /2/;” > ':\n2 2 4 Jrbg Ve K\nb @t 9’%??2’ 1e 4o /22 | il 3\n- /WM/ WY / qHr i\n. k. | .Myff J/'Z///é’/?%/m ; ‘\nE %@{ZZ/ WZ ?’Zf/zﬂf; 7 \\:\n.y s Gy B # M\nL e s 1, 7 2\nL v it %/;;‘%// |\nA /f”’/& gyt Vo e l'\n",
+      "ocr_sha256": "26a94f9ff3e68bc60342f5d96bac0d7120b08a8cd17cc6875fe621872de4b48d",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 184,
+      "image": "/tmp/manas-old911/images/page-184.jpg",
+      "ocr_text": "Qlone sy 20 ntiren oy W\n\n& Wiy pifeay iy 54 1 3\n\nL Y Wy e 4\n\nb caogm) e |\nY sy\nZZ/W/ WZZ’ i 1\ne R |\n- Wissgf W”%W;; ;;} |\n\nS DGy b YR Y|\nL A |\nL oty 47 2% : ' ‘\nel\ne\n",
+      "ocr_sha256": "ccf992ab275317e03170c584dae46dd6bf64726ba1db897c20564832a98de85c",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 185,
+      "image": "/tmp/manas-old911/images/page-185.jpg",
+      "ocr_text": ":. %.\nA /% W\ne f/ﬁé/’”f//ﬁ/ %, | S\n(74 ity megree |\nW eSw dywn /ZZM b\n- lanas, Moy Wpuee\nN ¥\ne |\n\nL wrorge w\ns Uity i o taeage i '\nL vt %‘W% {\n\nL ovoatmn ? |\nY giseay ) 7% /%f )t\nN Gadloiern? i\nol T e - t{:’\n",
+      "ocr_sha256": "f9651c034be65680e58f7e0a24eff61c421f25cc620d978089634404b28cf553",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 186,
+      "image": "/tmp/manas-old911/images/page-186.jpg",
+      "ocr_text": "W =\nF o ﬂ; Sl \\\nr e ‘5'7 ‘\n. Lyanae '\n1 '/j g eee |\n% 47/ 57’ cHrray Lt st B\nwtrrr oyt o i\nT 1l\n| VF 77 /7//ﬂ~,///é/a/é :\nR |\nb o gy\nLy g pre 57 4|\ne 1\no v a7y b\nY e\n|\n",
+      "ocr_sha256": "0c0093c8533d4bc48d03641c1421748f89a50719411e5f256a9199c39bc79a6e",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 187,
+      "image": "/tmp/manas-old911/images/page-187.jpg",
+      "ocr_text": "3 el 2 “\nS Yy e apire |\nf_: /}@/%Z/& Barrnne ﬁ{’yg //Z//Ké%p_ l' |\n\n gefirar Juo ptrgtige |\n\ng//gﬁ V2 4 /7'/%7?/ A i\nL i mipivsion e\nb %/ﬂ//ﬁ////// 7///4J//¢ o l i\n0 Grpsw purs %;/M \\ B\ng b Gaper I |\n- gatbr fﬁ” 4 / i1\nby %;/éﬂ b er L /;; o ' oS {‘ I\n& e 70 iy\n| A )\n- »2Gr vy Y s | |\n",
+      "ocr_sha256": "beac23274f3c8f08e29c36858ce42666819a0b97a6fa23755b2b8fa9d896871b",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 188,
+      "image": "/tmp/manas-old911/images/page-188.jpg",
+      "ocr_text": "| \\;P“‘\n\n‘ ‘:.v'/ e////////g/ Flrr Jp 4 5 q\nRooe vt gy oy, |\nL jare/yaer g Far e ‘\nqf/%,/é ////é//’ &//éﬂ 2% l\nSt TLR (31 Ginr oty |\n\n§ ww /4/%7' varbe fir |\nB 7 prgands i)\n2y 107 g7 4 0797 102 4\ne gty 1L |\n80960 s by Jn i\nb 19 Hjt It\n;&z}///y/% Y% ;/////// 7 ; t‘\n-l gl p# P it\n\nGutny fo gan R T Aittl\nB e Il\n",
+      "ocr_sha256": "0db128caf4ef4ff1effe01fe44d613209b95f3d3500e68d24966692be76c9f66",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 189,
+      "image": "/tmp/manas-old911/images/page-189.jpg",
+      "ocr_text": ",; e . b v ‘\n/ ;f/////rm Wit q\nW e ptess, |\n‘ 4 {//// G LAY Ry [k, it . ; ~\nW/ #///f///W// Yl 27 ‘\nk- /W/ Tt 07 &r |\nL iy W//,/!%%’/ St 1l \"\nL Tt ety farese\niyt for f qa i\ng 4{///7’/ JHX e [\nV2 e%;z f? o i}\n:??//////MW//%”; S in 20 ;;s‘\n- upy Wﬁ ; /;Z |\n‘“”y % : ﬂ/%;é;/_,% ,W'/MW ,.‘ '\ng A5/ M\nT eyt )\n‘ Vi Ve L 1) ..\n",
+      "ocr_sha256": "b6ec5d8138b6b52165be58c210279d19ce23c45b7aacb5b4e6990cbd1df3b3d9",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 190,
+      "image": "/tmp/manas-old911/images/page-190.jpg",
+      "ocr_text": "r E\\\ne ey sy §\nG | 4\n\n, /% //? 2’//&%% (aw SpSy (! i\nN W i i d\n’;.\\“—.—//Mf %4// ///Z%////Z/ ; ’;\n\n| %7 ////J.///%//%/? i\n\n! % 7y S /@%W ¢ 1\n\n. i\ns |\n\nB o Iy\n",
+      "ocr_sha256": "e1f841e41f08db57c85f50ce60853aa09f59194b28518c5d42c3154b250fc191",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 191,
+      "image": "/tmp/manas-old911/images/page-191.jpg",
+      "ocr_text": "T/ \\_—/‘P‘_‘\\\n\nB w1r Ly segy 1\n///2’///(?' WAt 2f i, ' '\n%W/ f{//;;//;ﬂlf/ﬂafv\nL sy PR 2 e\nS rttgpr viver of drd .\nb glntinmle gyt\n& W iy aF A b H\nL Gatorye o 5t -\n& iy ty et 05 |\ng g i\n- S oo //f/” o |\nE vy f 7 i\ngy 4 an? il\ne\n\nN Z%/ﬁﬁﬂ )2\n",
+      "ocr_sha256": "48afb4acedcfaf6aa309c502be1f6053a78bcea03a5974708d9f76a402281d32",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 192,
+      "image": "/tmp/manas-old911/images/page-192.jpg",
+      "ocr_text": "e peatusey s‘\nB o S b7 e i\nL Paprar Ve ey | &\n| M”/” MWM/ i i ‘\n| ;”;z f%‘ %?//W '. .c\nWWZ /ZZW/// k7 e~ ¥\n4 ¥\ni %// % }\nQs ol |\n§ i | |\nL pulor” oo | |\net |\nb T agw;ﬁ %ﬁ/ﬁ b | |\n& 77 o 7 i\n",
+      "ocr_sha256": "599e679a0fb7a4ad43df1d6f734d4b6ed39b7010a942d20365303d3c77a95540",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 193,
+      "image": "/tmp/manas-old911/images/page-193.jpg",
+      "ocr_text": ") it |\n., % /7/%7//%/ ZWM t ’\nR i sty {\not b ¥\n\n‘ A }_'/W& f%%/é/gyp '.' ‘\n\ne fustilh ’\n\ni oot |\n\ng 7, 25 for i\n\n% wide 1O |\nSl fy 4471 |\n£ iy iy g1t\nb w? B\n",
+      "ocr_sha256": "e627bf41177e4e6aa5b2d816260f1897fd5469946a067db5dbf01d9b36011abf",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 194,
+      "image": "/tmp/manas-old911/images/page-194.jpg",
+      "ocr_text": "Verl)” \" e ‘\n‘ -;’.v‘ | LS 727 ity ‘(\nby ey PP 57 Do | &\n& s2iitr S 0o v Sty ‘ '\nL W avler g Wk 5\nS it gypp go00p Gt gt |\nk- %Z’W%Z// /% (e ik\niy AownsFp e o\n~ Sppy sy S A ¥\nLty b, 1 pudle t\nB St derl i\no o %M Y 2 i\nW i (OT It\ne |\n",
+      "ocr_sha256": "0f0107bfd8bf2df02f31090f900b4ab14137755a0e02a9d514dcc9c64bf887e4",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 195,
+      "image": "/tmp/manas-old911/images/page-195.jpg",
+      "ocr_text": "-\nQuery 1) 1ery .\n\nB i e gy 0 |\n\nA ey |\n\n” Jursay o Colty Vot |\ne gy\n\n= yanr 2y fesity\n\nL Ly S oy Y |\nE /%if@%éﬂf elpts |\n\nL Dnaty i o S\n\nS g S0 S W/; | |\n! ? %ZZ’%//% /M.ﬁ///;/ l§ |\n.\nR o Sa]\nS =\n",
+      "ocr_sha256": "b4984762950a992f40f5e2716a4342e0ff23cdbf39b186ec8b44937bcc428da0",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 196,
+      "image": "/tmp/manas-old911/images/page-196.jpg",
+      "ocr_text": "._j;, /W/?//y/ P .ﬁ/‘/g\\ ~—— 3 . :\n: ;;%7///‘;/4’ //QZ;(//”? B\nA eddr @7%7/ '\no V7. /;/%/& #. K% '\ney\ni % e VK 2/ 7 ]\n;.f%/ Y | §\nR vuiisitr o 1 ol\nR i < sor |\n;;;Zx;//////// by Lo |\nE ‘rempty It |\ni i/ /ﬂ Vil |\nst o g4 Wby ]}\ne w i\n%W/ W/j/%f/””\" (4}\n",
+      "ocr_sha256": "f74b8d579d28c69ea4485a9510b35813c1db49ec116cfdb4d986c7c024703a32",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 197,
+      "image": "/tmp/manas-old911/images/page-197.jpg",
+      "ocr_text": "S s/l Ay L :\n! , 7 \"\nb r?y f //’”//; ZZ% \\\nLt gects wnpusegs !\nf /7 é/ by Iy dnpss \"\ng bty offrasfen |\nb 1yt nppotp oy 1\n7 whts poril iy 1\nb 0 T iners\nY %7/ iy |\nk.. %Z/W% o W %WM%%//’//% | ‘\nL e Y V s )\nLt it MY wweebhly\nX ey |\n",
+      "ocr_sha256": "c6ce92d2b616f8fb3ed5c4e175bb6ce7527324d52eec070b36afdd59d514e2e2",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 198,
+      "image": "/tmp/manas-old911/images/page-198.jpg",
+      "ocr_text": "r 1IF ™~\n1,_';_' Vi W%ﬁ///// /%/7/% 7% {\nB oy vty v |\nSt Moz MW}L ¥l\nb st Jourtel {\nlgpresb 14 7627 |\n¢ ST v e\n",
+      "ocr_sha256": "24dc069a616762ee72c4daf01fc7d843ba5e775c231d4aa7f13881f687460a32",
+      "nonblank_lines": 7,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 199,
+      "image": "/tmp/manas-old911/images/page-199.jpg",
+      "ocr_text": "gty /iy : /fy\\ :\n//?i{// {/;‘%7/ A5 g\nR ik Von i S\n/;/ s /4//1'4%5 £ /é /7/”/?//22. {\nb %”é’/% %M//%” s |§\nR4 0;,;7 G vt fgor 235 |\\\n4272 c/// s /%/é/;? : : ;\nariry i |\ns 4 /Yl WW% bl\nVil o V4 Z/W/ﬂ/ a5l\nE 7. il i i Kl\nY bty (17 /é’//@w é; Vi a i |\ni ol |\n‘W%/é gt /4% i1\ney pe | ‘i\n",
+      "ocr_sha256": "520c155e5aa63faa67902b4f041b3eba42ca95ab4199840496207756e91ef4f5",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 200,
+      "image": "/tmp/manas-old911/images/page-200.jpg",
+      "ocr_text": "Glegitor (firag trtyy, t\nLiapsnrle 10/ 7y7 finly Aot q\nfﬂm’%’” o anasy. /;ﬁ/% |\no v ?Zj;y/?&%/ 1\n004 vy 10 v |\nB i\niy dagy gov i\n/ arep qotper fuptire i\nooyt f179 wtlmiby {\noy f197 L it}\nv o 24 z’é/ il S iF\nf%ﬁ//’ briv 1, ;a‘t;\ngty 171 I i |\ni s Y i\n'; _3» f// we / 4 //ﬁf; / 1\n",
+      "ocr_sha256": "c156c0734265e5d94abffa817992b76834378f129961865e3d980048a2f3abff",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 201,
+      "image": "/tmp/manas-old911/images/page-201.jpg",
+      "ocr_text": "i/ Lo\ngﬁ’/zm;m by ¢ epor, \\\nP v 10 g |\n_ A Z/;z 7\nL apirer Fg” Z |\nL wmr VL X /M//W%\n1 G i Jusmdy |\nB 2o pproern Gty : |\ni S rppnthopr BPHTY ‘\nb cvdyorge 077 |\nAR |\nY4 7 pubpat P\n- ety Z/% pilsy H0? m;/% o ””””3\nLy 14w\nE o 9097 R\nB m G\n",
+      "ocr_sha256": "db80a876f7d5f2176ba16e2a6c04cb5cb3bf893684debce28d4ae509ea39fbcc",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 202,
+      "image": "/tmp/manas-old911/images/page-202.jpg",
+      "ocr_text": "G/ mener oy, o =\n1: pretry /f//%/ 4 g m\n; gfmfw%?/”% x\ni 4 MWM/WWW///\n3 ﬁ////ﬁ 4 /Z f%j;f//%\n1 L é//z 7 7%/ ‘\nG 4y 1y oo gt\nE v I 4\nE- %ﬁ%/ ZMZ if%)ﬂ/ ;71//;”//////& G |\nko Wt 4 athane\nE %}7& ?4/%% Ay\nL Gie' abioe, 7 v |\n| T qu/rie? 490 7y 97 ‘\ni Pans el\nF g pp 07 Hlgne i\n",
+      "ocr_sha256": "0eb7375d86104d860e1db8be6df95b2805050076516c9ddb941f823bcbdd94af",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 203,
+      "image": "/tmp/manas-old911/images/page-203.jpg",
+      "ocr_text": "%ﬂ///’ /@/d%‘;hw\n77 Wty For 667 1, @ 7\nL oSS 94%’ contr KZ/%W |\n-/ %/// //////%/7/% Lok /\ndefus v toen 4’/5%‘;{;/ 7 \"\nHegip s alt? A i\nspin COURR Jmat op 2 |\nRl V2 =\nL */ﬂ;f/;// 1 hty st o fan 0034\ne Y \\\nL gy /%/Wﬂf%;mﬂ// Tan\n- a9 a5 it o0\nb iy 7 iy Y |\nN we 1y i7\" ‘\nT\n",
+      "ocr_sha256": "e746c0f1375763ea5bb280b53804ab15cee4aa33efc8743fc71a35e5e8109500",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 204,
+      "image": "/tmp/manas-old911/images/page-204.jpg",
+      "ocr_text": "' 2N D W G M%JQ\\ . \\ .\nF e @t ~\n3 priter e (e sy \\\nE . T ’i\n5': Z4 //ﬁ/ﬂ%;/ﬂ/ Koplp att2t !\nB 11y yeryy vane J ‘\n%Myf%/ﬁ% {7’/@/@%, | |\nk7 ao vy G Yuryontip ’\nSty @ Gupty 4l i\n& oy Yo i\nL Syr YR /W//;/mé//: 1\nYN L Vi i\nL gyl Y brr00 4> it\nL Hevérsbv Vi sgprmon 107 §\nL et 0G L0 wirl\nL a0 st ‘»\nb oy @ Y\nE - o 7™ o #7740\nL degiry? ayr Zf/f/// ‘-\nAR\n",
+      "ocr_sha256": "373da728cf096872fd7abb529e581dbfd4fa72d48ab22633829f59af4e3f9014",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 205,
+      "image": "/tmp/manas-old911/images/page-205.jpg",
+      "ocr_text": "f?“ﬁ/?/%q/z// A\n2 /Z;/” ’ z,m’%/f ’i}” W ‘1\nS/ 56 4 7 %/{_&/75' !\n; iy 10 ‘\n//;;ym/m;x 4;//;//’/ # ‘\n. )/ A e wr /000 | ¥\n// & %/&///;/ e\nY 740 / Pl 5 7\nRy~ s :\n: Z W%///« iV\n- /ﬂﬂ V7 it L a\nY g v 1 WW?/'*'W”/”\" -\"'\ni ::}—fé/@{/ /%//m/ %/W////w/ ' 1\nS ;';,:-*—'-.WW%M e A\ni o qatthr wltf\nS A |\n",
+      "ocr_sha256": "2d2f8021844464e33ba40f5b6bb86108f5dc109f6852546139baa7ea159234e8",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 206,
+      "image": "/tmp/manas-old911/images/page-206.jpg",
+      "ocr_text": "N /4 ———\n3 Y@ Sp/4 —L\n\n%ﬂ/ <o g ‘\nY s\n\n4 %ZZZ/Z% /.{7,/ Aol\n\nR VY L e ‘.-\n\n;.;ﬂ _, %%&W /;///;; /% Yl '5\n\n_ : j; W W %////% /5//’/ i‘i\n\nE 14 pobar //,/////4//,,,,, |\n\nB: o @7%% i\n\nA bt ap 1 1\n\n[ e Ao’ %%f/ﬂ’f ‘\n",
+      "ocr_sha256": "7757135b3fb5d6897de7bd52ef0237584757bbd9acbf489003d98b4a4531cea5",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 207,
+      "image": "/tmp/manas-old911/images/page-207.jpg",
+      "ocr_text": "R !\n%fﬁW el 579 27 ¥\ne b\nA\n3 P ey pilhorr I\n\n. Yy it W7 \\\n\n| %‘ff i 987 ]\nS/ i monyelly\n- § sy i\nA ?;fW%M%/ G il \\\nY s el\nletgye 117\" -\n",
+      "ocr_sha256": "5738d6acf18dff0410a05bc260c04b8d9b880e0f83f475f3d1bfcffceeae48fb",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 208,
+      "image": "/tmp/manas-old911/images/page-208.jpg",
+      "ocr_text": "P/ 7/%/ WY &/, “\nK 1 i |\n/;/;W/&W A&t per Loty s (|\nL0 har swrvay Su/nis E M\nA A\nbt i /50 A\n& in it ot 7” §\n\n& ey\n\n,%M /Kﬁf;;\"’/f// % ﬁéfw(yﬂ- i\n\nX st 7 ;\n\n%@'?/%% sae Y //é,»p// Lt R\n",
+      "ocr_sha256": "02ff8f0e52d1086e3b3173a7406f88fb9288dc944ec3a43b8b71f460969e7792",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 209,
+      "image": "/tmp/manas-old911/images/page-209.jpg",
+      "ocr_text": "£ /?}Z%@//f e - 3\n7;;7?// e\n7 Z%/ff’/;/;{/f M@%Zp/ \\\\:71\n2 b S 1/ s o !\n=WwwwaW i\nP s %% / /Zm |\n\n. WW ” e 1S\n\n| . He# 707/ A ‘\n\n¢ :%; %Mw Lol ;’;:/;ﬂ/v V2\ns 3\n",
+      "ocr_sha256": "10389fa6853c27150f69add33a72a2c8355b624e769e52d9e01b87f70ad0d7bb",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 210,
+      "image": "/tmp/manas-old911/images/page-210.jpg",
+      "ocr_text": "810 70q0 79 0pm I\nM Zﬁ////d’/ﬂ/f?& S & Y7 |\n4 W1 v agév e 2y quih oy,\nY 14 4///7(70 W/f///ﬂé//% i1\ngz 1 jory\ne A |\nR Mopas o |\nby s bria? Y |4\nY Daqnpe sk TIP |\n§ e whmts L\nettt i M | |\n% *%/ZZ%@/W%\n¥ 7w y97, e\n",
+      "ocr_sha256": "a65e79597a65a83a0268faa2160fe410c2a6ef18eb4b175fe00181b9e79e7280",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 211,
+      "image": "/tmp/manas-old911/images/page-211.jpg",
+      "ocr_text": "26T\nB s vre GF finats arr pyoth. \\\no g i T .'\n- W/ﬂ /;f o 006 .'\nY iy |\n| % / 9 /”’Z%/ﬁ 2t |\n- w 44 P77 |\n;\\%Z/ %ZZ/ e |\nf}-ﬁWWM (oY /é”/”% }“\nl WW I e\nb, o\n- gat man SV ! //MM\" 77 .\n7 ,/;@Z);f'//” A\n& e Y e |\n& cwiyis M\n",
+      "ocr_sha256": "2a2e96695778ecc418edc0518b19bc08f81f0ff45f1686b428d740a0b7bf28ac",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 212,
+      "image": "/tmp/manas-old911/images/page-212.jpg",
+      "ocr_text": "o 2 B\nik N5 0 Kot\nW par 00 @ wty N\n- gqar Cagp 907006 7 |\n: ,%/%fzm/m /m/ew br/rss \\\nb O e ﬂz/ wrese .\nki e s\nTJ/;Z///M % 79/ Z;Z%’ 1\nT *\n- S W%f/;// 9 7277 |\n- Sy 7/ %/@/f// 74 [M’{” )\nB v 1oty\net e |\n‘ “Wm” /WMZZ /Z%i i\nN 4 A8 & pr\n' ji ”7 f//’ g\nGy Y\n| N\n",
+      "ocr_sha256": "c888f98f82d3719bed258001010410e3583a4fe925e5ef754e65586d2d207e72",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 213,
+      "image": "/tmp/manas-old911/images/page-213.jpg",
+      "ocr_text": "P .\nw////ﬂW//?/' Vi y// iMJ/O) 1\nD el |\nLy coivr, a8 gorf |\n7 ity YL Sy e ~.‘\nL ﬂﬁ/7%%f7 %/7/;&\n\n&y rtrege g Yo\" !\n| L Z%”{W ;\n\né/;/y Ve |}\n\ni L\n\ns \"f’f/af |\n| ’f Z/ WZ/ %% ﬁ/;@%} 4\\\n\nb T\n",
+      "ocr_sha256": "49a09fb7f65b35c2412c56a3b864f28a030ac0f609ea80f6a89c59c751ca041e",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 214,
+      "image": "/tmp/manas-old911/images/page-214.jpg",
+      "ocr_text": "r 2 N\nB prty 7y v fy 999y \\\nf”/ o7 /‘fc%y; »&%;?/W 1\n\n| -/d &z SOl Py My Eis g ‘\n\n: W 7 0’77//2/ [5// s ;/k/z,\n\nB ity oty 270 5 on b\n\n§ s comr iy\nA |\ns S | |\né&///fﬂ o 1k\ni\n-‘.3’/ ‘- /ﬂ/’ WW Wﬁ / 5 §E |\n\nZm z/f%///' w4\n\nTy iy O :\nColliq o W”/” e “\n",
+      "ocr_sha256": "8aa808667695011963bc0d996c7e8ce6401fb0c721ec54dedef3c662b8cd286b",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 215,
+      "image": "/tmp/manas-old911/images/page-215.jpg",
+      "ocr_text": ". TR\nPty 75w ot gons,\nLl %4/4’;// ganimbots \\\ns & ﬂ% iz .\n(ﬂ/ﬂ/m;% %:fﬁfﬁ/ é/ﬁmw/%% \\\n'ﬂwféﬂf ¢ %Z Gyl - ||\nst Y?/%*/V /%/Zf/f// 2 ,/\n1 Y P LAY\n%/?Z %/% 7/ e |\nC s b3t wralt 9 sty | |\ns 7|\n4[/;””% 3 %/-fa@/l/\noy 2 ;\n",
+      "ocr_sha256": "c6015a0ab77574634ed18d2a42939a0a64e5b52ee8cc308c73df6265f624b373",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 216,
+      "image": "/tmp/manas-old911/images/page-216.jpg",
+      "ocr_text": "g oot sgos sy &\nBt lorets Kooy\nMlolotigg fsn Lolam ey\n\nDol oot Lomeprene\n\nbeposorn 47 +2f\n\nGelells poliriar™?”\n",
+      "ocr_sha256": "220bee467f8ee8648df6ce7ec95134d21f7bd434362d960d95981344ef01ad17",
+      "nonblank_lines": 6,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 217,
+      "image": "/tmp/manas-old911/images/page-217.jpg",
+      "ocr_text": "WW‘Q\"\" dof fogago\nWWVM‘/’M%\n\noy pltif e ofemarn)\n\nB Cony ptondpr Legira |\n| ey\n\\H by Ko rger\n\nP\\ Ww% '\n\nN |Booy Lo 400500,\n",
+      "ocr_sha256": "50a79847db916eea7b3fdb422c5de73a536e6841dc0bfa741e3f839a513d945b",
+      "nonblank_lines": 8,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 218,
+      "image": "/tmp/manas-old911/images/page-218.jpg",
+      "ocr_text": "e by foogrgre .\nLEWﬁWWM\nliz. ooy bt\nf fe fimsaigp Yo P\n",
+      "ocr_sha256": "ed43c3827e267922715bf8b5fbbdd6b3406df3e7eec46e8e59029cf1c49c2569",
+      "nonblank_lines": 4,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 219,
+      "image": "/tmp/manas-old911/images/page-219.jpg",
+      "ocr_text": "b ,{f; prge Goliolod =\n/- ;\nVoo Lotso Foeottyy\ne sepp 9\nT o ./WW\nByt 00/t _—\n",
+      "ocr_sha256": "1785ebd0aea03e5256ecf321d5181bfcad532bd9ab1554d716debd9ca2d54bee",
+      "nonblank_lines": 6,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 220,
+      "image": "/tmp/manas-old911/images/page-220.jpg",
+      "ocr_text": ",f’?'f\" 5 etares eongary, AN '\nplitep Sogus 445 ‘,l\n. 5\n",
+      "ocr_sha256": "bdd443446cb39eae170ade6ce5a71971e22337a6a2b922d01c9d57b9e44eb143",
+      "nonblank_lines": 3,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 221,
+      "image": "/tmp/manas-old911/images/page-221.jpg",
+      "ocr_text": "Mo ﬁ/'j}/df'»fhu{&fby |\nM af/nwywu/W |\ns £20ipe |\ns e o :\nﬁbé\" o d g iler oA 1202 |\net\n",
+      "ocr_sha256": "e72878c1a96291815e979136df243ab0bc7d6dc529641d58d7e3cb99fb23d86d",
+      "nonblank_lines": 6,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 222,
+      "image": "/tmp/manas-old911/images/page-222.jpg",
+      "ocr_text": ", 2\nke\ndown Ho50 41 6754477\n- otagiy foe i R 3\n+ 2 ,‘};-“ i e ,» }\n‘ ;‘ﬁ : E £ < I%%;)E‘;Z;:ﬁ\"&%' (\". V\"\"- 3 i 'qi P . . ‘;\n",
+      "ocr_sha256": "15169ff42c7b637c66d05c0bc3d4aaec89e69d12e77a99c276f4fd4b3ed3907d",
+      "nonblank_lines": 6,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 223,
+      "image": "/tmp/manas-old911/images/page-223.jpg",
+      "ocr_text": "r 215\nho§ Ma«/ Ye Syasly\nHovat gorts ey sy\nWocyrvsoj sty 74\n10/ o206 Cogeliy?\nL e : \\ : .\nL Algoldy 9577 '\n| lceiws e o997 ‘\n",
+      "ocr_sha256": "1c03c753fc1ad4ca1be350c34ed80c578712745568c60cd664479df3e6a6de58",
+      "nonblank_lines": 8,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 224,
+      "image": "/tmp/manas-old911/images/page-224.jpg",
+      "ocr_text": "Uprgsory 9 977\ns o3 trecyfocs\noo\noo\n¥ e\nT SRR S ) 8P\nﬂz%@% R\n",
+      "ocr_sha256": "fd81ce8986dee72804e9dfad73e1b25471c642124a346f8421c5147607b71fd1",
+      "nonblank_lines": 7,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 225,
+      "image": "/tmp/manas-old911/images/page-225.jpg",
+      "ocr_text": "3 ‘,‘. 7l “'/\\\ngl pntss\ne ’\ne P\nBodasie s 07y gy\n3 il S oS P g\n",
+      "ocr_sha256": "545e844f880fd312598fcdfc1dd8a3a52783ca5be39efe52a1f508397cd853b2",
+      "nonblank_lines": 6,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 226,
+      "image": "/tmp/manas-old911/images/page-226.jpg",
+      "ocr_text": "fiys #ovgeeolss fo\n3 Hg diege\nL et\noguyp ooy bag'gay 4%\nN ngfospniogsoyr\n",
+      "ocr_sha256": "c7563f6661eb9333ba87ad0e1507466494af5713d1dce8ea995fd3a768f522bd",
+      "nonblank_lines": 5,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 227,
+      "image": "/tmp/manas-old911/images/page-227.jpg",
+      "ocr_text": "Y pporspmaLigm VR\n* WMWM\nﬁ/ﬁa Hsgon furedfun/\nSagupyor ljds S\n-j,“:/W”’/MW 5 '\nNiligens a0\nfey i\n",
+      "ocr_sha256": "0ac159af3cedeec16ad083bd795a26fd3da8129e2be8e7df8cecfb8dc01a7edf",
+      "nonblank_lines": 7,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 228,
+      "image": "/tmp/manas-old911/images/page-228.jpg",
+      "ocr_text": "b Lossuty o m/ sy “\n' MZZZ %Z/% bvatbor- .\nY S oy jurtv e f\n\nL ety B Y\nR\nF ﬁ@/ﬁ%%ﬁﬁ%% . //f/,‘ i\nB ey PO ; |\n& Ll\ni ,E;i;'Wﬁyﬂ%ﬂfzé///éﬂ\n§ Jrr g %/Zz v/ ‘ |\nB\n",
+      "ocr_sha256": "aff6a18adc0f676ea9eec05ecf0394b88c879eb65fec203ec19a41ee4a746a25",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 229,
+      "image": "/tmp/manas-old911/images/page-229.jpg",
+      "ocr_text": "1 g’ /Z 7%7& /9///75% s\nF o Fr dppe iy |\nY S e 2 |\nb anlomvln afp'nitpdy\nE gurd pusse 4y 4 ran\n\nL gy O Z Agless\n\noS Syl vl Sy G\nY il ot\nE oy G,\n| A 2/ WW%W WZ/ ;’ {\nR MR |\no O e e &\n| R\n\n& e\n",
+      "ocr_sha256": "135d9d5e2616d36a8635364fb0d19f33b8ab356fde3e45644c617725ed951f8d",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 230,
+      "image": "/tmp/manas-old911/images/page-230.jpg",
+      "ocr_text": "Vo /?%”’W%/f%‘ »\n| C%,;/'M/& VK /%/M\nF e ##// i é'///?%\nE oy gorat g gyl\nB oo puwse 477\nE g 0/ W s % .\nRl i\nB /%Z//’/;%Z;Z/; ‘\n'f f;:/%ywﬁ%/ A W _\n",
+      "ocr_sha256": "99c9866e600f3ebed6a56f2c4d89f5ebf5e3d59d37487e27af87eeb498099bc0",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 231,
+      "image": "/tmp/manas-old911/images/page-231.jpg",
+      "ocr_text": "F ' Mé\n\n| \" W o c'/%”/% 2 4\n\ng /%&'/ﬂ@ 4\n\nB “’% 4 ”%/WZ e |\n//M 010 Jae\n\ne i\n\nA .\n3 7 /Z?/? oot\nP Lo / Wi%% ‘\n. Lo i P ‘\n- 7@;%%%7# f\n; ;,%/7///////;7% ;\nrE .\n& . o Y |\n",
+      "ocr_sha256": "becf1bf40833e80eade8eb1d0b27faf2ffa006b052aa891f0eefb52804c05fc4",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 232,
+      "image": "/tmp/manas-old911/images/page-232.jpg",
+      "ocr_text": "' // g2 *‘Z\\ZZ g\nE s berip\n| & /Z/szv//@g /ﬁ?}//{; |\n| b ;67//‘//@ e\nA ;\ns 2op 9 oy\n| -t /%’ 0y /%/WMW/% |\n& e\nE W}Z i i\n| 7 Jor Y g 1\n;~W¢//M N i A %%:/77’ 7.\n- i L\n",
+      "ocr_sha256": "c99ae4d47cb038f02530bcf8d7679ec457ad68fee336aefade79b38ea5e42413",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 233,
+      "image": "/tmp/manas-old911/images/page-233.jpg",
+      "ocr_text": "o e =\n4 y7ror & b, !\n%‘ Y N 2fe &g /ljm E\n- %Mﬂ/lﬁ /W//// s { 4\nT Py\nR\nE geatiyr A7 S gar\nE wann? grApr” ‘\ne G / w9 2l o\nF 77 oot e\n4 O S0 /M//// ,\nL e\n. prb\nL a1 Yot\n| S ;\n4 7 ,, ‘W@@/Zi@/ # V&\n",
+      "ocr_sha256": "a2edf0a662480d973735c0b12e01f9a4eb06219eef2d68f54cd0dcf44898c845",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 234,
+      "image": "/tmp/manas-old911/images/page-234.jpg",
+      "ocr_text": "}%ZW%Z% it &\nP 70ss LN\n4 /Wf/% by '\n- 1 ‘\n- ?%é/ # @&(Z %M% : i\no '\nL L vt\n- % 4 Vi 2\n| oy ow\n| & //// wsrge | M”? ot\niy gl 8\n- %”Z/WM |\no WZ/ W Y v -7\np //// VU W//ﬁ- |\n",
+      "ocr_sha256": "c8806e65b756bce652749182fefa37f416301664bb5c1b55fa4060283eaef339",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 235,
+      "image": "/tmp/manas-old911/images/page-235.jpg",
+      "ocr_text": ". iy iyl =\no ey byt ‘\nX : % M/%/ %«/W,// //ZM/%\n| 3 %M%ZZ%/ /s |\n5 Vi /fz//”/élﬁ;”(%/’W i.\nP o gisdnl v \"\n= 2 oy B |\n9 yw 47 \"\ngy 91 oy\ne i\no w7 o9 |\n- = o 1, Dok\n. 1 L\n",
+      "ocr_sha256": "c307340b653419707715cdf9616020748e15cd194677458e119fe69313e91092",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 236,
+      "image": "/tmp/manas-old911/images/page-236.jpg",
+      "ocr_text": "§ g dyposy |\n' 7 A /4. W 2P\n- ///M/;ZZ///M/ wph Rl\nLy 07 ot\n| N el\n. ‘ - /%//M///% 4 (4 S\nB el\n- ) ////% WJWM/?/ ¥\n] . QW/WW o M/ZZ /{/ ?\n",
+      "ocr_sha256": "7d0c0725c9b260b3426ed41673e060bb840e1a776d23f6b6b46d991a50629fe6",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 237,
+      "image": "/tmp/manas-old911/images/page-237.jpg",
+      "ocr_text": "B oy Vs desku :\n: Ggst 3 or o (Y gy\niy (o ol oy i iy\ns i\n\n& am\n. %¢¢/¢//I%WM\n\n;; ?%//// grI? -\nE %%/ V4 ”Z% /Z;«ng/-\n\n. N 7V\nf%{;%” o ol\n",
+      "ocr_sha256": "6b58cc279212ef4ba1473e6bf1ec70ef7a45a4ffa06a70bfdbde9561753e0a89",
+      "nonblank_lines": 10,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 238,
+      "image": "/tmp/manas-old911/images/page-238.jpg",
+      "ocr_text": "', /%//?W@/ Zéj%\n\n4 7 %/%% .\n\nP Y\n\nG s\n\n' Lo I\n\n- %M% WZ//M 4\n\nE s o o\n\nR /48 ‘% WZZ /////;/\n> b v i A p057 Y\n",
+      "ocr_sha256": "2daf84c6d597b5a389086b2f85d62ef4e779e0d506c2d22b9b7ab4464b1ed98d",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 239,
+      "image": "/tmp/manas-old911/images/page-239.jpg",
+      "ocr_text": "; ;.‘ W L %> -\ni V& %ZZ% |\n3 a/ fist WZ}W\n\ne Y A $\n\no o ;/ %’”f\ns g7 | |\n;e %Z.ﬂ/mﬂ ool b\ne d:: MM//WW KWM/ 4 \" {\n5 e g 3\n",
+      "ocr_sha256": "930df7bf41a6e249833f9c5750cdcbbd3fef8fdf715c7a5787b9588d306ff830",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 240,
+      "image": "/tmp/manas-old911/images/page-240.jpg",
+      "ocr_text": "b Jiem dotr slipme 4\ne f’?’%///%\nS Captt Gardory,\nL fornp Ve gily dele\n2 N idia\nb Owperer W’{Z/%? >\n‘ WW/% Vi //’%\nL Gh e P\n3 S % WZ i\no ki\ni ﬂ/% ponf 0,\n",
+      "ocr_sha256": "0f07f1b9a98fb73a696e55635e05e9da3475602f7384094011867ba2f587e007",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 241,
+      "image": "/tmp/manas-old911/images/page-241.jpg",
+      "ocr_text": "f// 7?7 %77 Wrvsew %g\n& 77 St }\noo e WW/%' |\nLy ey %Z L «\n| %%’Z/&'\ng ety\nE Wpar 4y iy\ni D\nVi AZZ%MZZZW;\ne 7 G,\ne Ay\ne A plr\n",
+      "ocr_sha256": "9a50a549c5e99722726f372d0ffee55b698904c242dbb430fe7c317007ebdd6b",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 242,
+      "image": "/tmp/manas-old911/images/page-242.jpg",
+      "ocr_text": "r 2\n%%/7 W%W/gv%/%/m 1\n JREaPany W s sy\nLy e frtage =\nS Py raor Moy S |\ng 7~ o\no 3 //%/W% ZM gty\no Luvgar g U Y\nL fgats famn s\nSR e ey’ I\nvyt V2 i\nE /%///”/W AP\nY VT\n-\n",
+      "ocr_sha256": "a683bd33d834540d68eafd2da64d985c81535e5957ad45f7eff3673488eb2621",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 243,
+      "image": "/tmp/manas-old911/images/page-243.jpg",
+      "ocr_text": "g A2t Lrpame :\nL g g gty\nL e gerrsp copmnts\nL oy )7 4o\n- Jusor ot Wiy\nL qphragyrel gatiny”\n9#7;%#/ VL Zq%\n| Jurty Wiy\n- Gu W//y’ /M///W\nJacpor b/ 70 W////W/«g/'\nN /M/Z’/” .\n- oty i\n| iczjq M/Z;M/ﬂ;ﬂ;%\n",
+      "ocr_sha256": "b5e6fd10f736b8e0f50671606e0afbbd0ddb6523e2c72d31249a16655866f887",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 244,
+      "image": "/tmp/manas-old911/images/page-244.jpg",
+      "ocr_text": "L o e,\nWW”%/W/ w7y /M/KZW\ng jeveer 047 gty s\n7 %/MW%W S\n* il\ns 4 St\n/Z7 P Lk\nGiyme 277 Vi\ni 1900090 PV\no o sr0tw 7\ngsxsg 14 77///J¢/W/¢/\ni W//W///p/ S0\nL Lo\n7 b7 //////ﬂ%//ﬁ/\n",
+      "ocr_sha256": "7a94b6ee4da28366fc9b066b5e84b9a59846eb24a3be1421aca90551e9c36822",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 245,
+      "image": "/tmp/manas-old911/images/page-245.jpg",
+      "ocr_text": "R Guyrr 2y ot\nb purmegarsy WMZZZ ‘\ne @f/%/% S/ Yoty :\nA &\nNN el '\n| 2 i ZLuid\nN ///z/ §2 s AR |\niy sar 121,\nN i L Z;ﬁ/f ‘\nb vt 9P\n8 v 197 J%ﬂ |\nB /‘@// 4 M/Z%, ‘\nR g N 4\nR e d ikl\n",
+      "ocr_sha256": "f8936fef913ecf9a4f3ad10df7598d7e73d69dac7207376dab50460e8b5ee203",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 246,
+      "image": "/tmp/manas-old911/images/page-246.jpg",
+      "ocr_text": "W7o CLEBHS Sty Al\nLy WV 18 tumaty\n3 i%?/%/ﬂ/% whAY Juttorar\nL gy 1 AP Ay\n- gor PoJ oy /5%y\nE Lolty Y wssy mahwor:\n£ \"y W?Zz il i\no Jor 957 10 ok ie\ni, 7 ”’;/Z?/’ //é/ Z” Ve\no el v Mf/’ V4 2{;;26\n| Dlarirym\nL vy A\n",
+      "ocr_sha256": "16e98cdb1f7eaeef50de73644a7a8e121bc83cb8971f1cb41121522c4963313c",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 247,
+      "image": "/tmp/manas-old911/images/page-247.jpg",
+      "ocr_text": "-\n\n| fﬁﬂ/’ /W/m&\n%& ZZ//’W g sy\ns 4\nqmwy X0l g y///y//\nL /%//ﬂ/f@ f;{ L7877\n-y 0oy\n”‘7% %M‘ L S07Y\n@”W %% /4 %ﬁh\nVot\n- Jatw gy A\n- gyt me 9L\n\nL Capay trtrvy W/W%\nSy qaw H) s e\n\nL gyt 0T\nG Ganrm 1, e\n\nI %/W// Gl 42/// .\n",
+      "ocr_sha256": "b42f332b84b8787e8827cec9af85ebbe1390865dd5e49897508b1aeb6f9e035e",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 248,
+      "image": "/tmp/manas-old911/images/page-248.jpg",
+      "ocr_text": "L fypprae Gersy KR gere\n%/’ e\nsl G 4>\ne 7%///////\no 0% b bz [P\n- Wpnipe jO567 xa\nL darp wrer e 7Ty\n- Gupmay 45007 crawily\n- quin gty 14700\nki %M;f\n- g %”Z’j/ sprimtle\nity o T,\no garer Y\nagsr P 4\n",
+      "ocr_sha256": "9090b9177a382b7fa5e73c4d090ac68064340b44dd1e203d73b23f6bc3763dec",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 249,
+      "image": "/tmp/manas-old911/images/page-249.jpg",
+      "ocr_text": "é/%ﬂé@z/ﬂw SLbeé, \"\nel iy\n| G gty Kfirer foy s ky |\n3 /éz/?‘; N Gt !\n@/Z/;Z st |\n4 /wa oy |\nL Doy e g ¥\n/W/%M»m W//M' ,_\nY R Ly g 5\n\" sapry dotl T\nS HPLFSS V7 i v\n/ 09y ﬁ%y/ﬁmy;/ i\nE g A\nR A worse. Ls 8\n rabery @ g ;\n",
+      "ocr_sha256": "daf0b9ecfecc274109eaf991f43d337490245318675d4facf466e1329f6f22c6",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 250,
+      "image": "/tmp/manas-old911/images/page-250.jpg",
+      "ocr_text": "L Jprer Gilse farem ’\ng Sorw f//;%;; ;//é' ‘}\ng “/%/M/M[‘}% 7, /Zi;ﬁ% :\nQW&M%/// sy wl\n%%’% dr fridly lofpnis\nWy COLEP E JoR sy e\nY iy SIS I I\nO i LA |\n\n/gi/%%w pery F ’]\n- (Bprge 7507 s iR\nE za oA/ Yy /ﬁ/%%”/éﬁ/f%/ {\n74 Wfdy/ 240 907 d\ng ooy Juls vf/wﬁ; M@W@ ‘\nE i SR Wi /0 !\n7 il a\n;_: W /M ﬂ% /lm’//y///l.\n",
+      "ocr_sha256": "65f092bdf4b3718810cd4f382aec624c872a026ab664177f7ccf46ffd8e1afd5",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 251,
+      "image": "/tmp/manas-old911/images/page-251.jpg",
+      "ocr_text": "w142 ity |\nR |\n. Y 7 AP 1 |\n@ W//f/f/ﬁé} Z//ZZJ% |\nL ety yr G |1\nto1erie iy 6 %/% il\n- Gb 0387 50/ 00 GO0 o ’\\'\n- Sty sy *'\nE Gty wirttge 747 7\n| G\nP v*\"\"\"‘;‘fi_,» j/ 77 1ok 4 :\n",
+      "ocr_sha256": "d0e252d128d195c1859983ad601f3264e536fc23cbc91787794b7f67f7401302",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 252,
+      "image": "/tmp/manas-old911/images/page-252.jpg",
+      "ocr_text": "Lylesn sty £, g\n/ZXZW 7 J,””é 45 Gogi ol\nb 00§ G Y g e\no Wy ey\n~§Z/y%z¢w/f/ gyf grzf/ﬁ’)\nﬁ/ ‘/72’/ Z%f/ 2’5/\ne\nW%/Z//W& 4y WZ\nTR\nRy e e\n\nL dragr Wi JE\nE -/ ﬁ%ﬁ Vot\nN A\nw1\n\nL e YU v,\nR g f Wl i\n{;’Z{% W% Z@'gff\n*'f-’T vﬁﬁ/ym ‘\n",
+      "ocr_sha256": "95ad03f45eaacb7dd434a9a7e249d5e8ea825cbf505bb9005947cacd9524c1cc",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 253,
+      "image": "/tmp/manas-old911/images/page-253.jpg",
+      "ocr_text": "4 ZZ %ZZ%MZ‘ v falns\nN ML N (éé\n%ﬁf%/ﬂ/ﬂ; %& 7\n7 ,/\nWL\no P ,\nE ?;;/37{/; W/Z /W\nN L psd O\noy wahpo? % (2 /\n‘Z%W?Z¢ 5/@4 Y\nN L 7\nN L\n",
+      "ocr_sha256": "b2141d5a59bb46e79bd2595386e6adaa727b75a3f3526c92b489f589d5f8eda0",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 254,
+      "image": "/tmp/manas-old911/images/page-254.jpg",
+      "ocr_text": ". = %@,/Z// % %/Zm;;\nF Pate 225 by W27y ¢Z\nB\n. A 72/ FE Sty\nE /%ygﬁfiéfé 74 /7/;/\n*r %%Zngﬂh 3\n& vy G /Z/MW/W\nR e e\n| N\nN it\nC e ‘f?/ﬁﬁ//?ﬂ%émﬁﬂf”\"\n. L\ne 78 Gore %fw A\n- “ %%fzzf/{;ﬁ(@\noy | 3 e o\n",
+      "ocr_sha256": "d5a980d1a1b7afa5f07ce228ec22c2eeae5d9f5f78cda3221b7c0b66dcc54df9",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 255,
+      "image": "/tmp/manas-old911/images/page-255.jpg",
+      "ocr_text": "| %if%%%; .\n| 3 §%3§%W\n’ ’7 ff/;//:' j/ JZ;’%/&\n: ; r %Z;%%Z g\n‘ | Z/ %%% |\na, j%/j% %f @ZJJ/Z/ 7\n\nZj‘%’f ZZ% Y @Z/g”/\n\n~ fi?;;gf?g\n24 //Z;%\n",
+      "ocr_sha256": "92058eda4e178b948b1b420fe2b28a5ccb81394d2ee739a030e16ff849472ac1",
+      "nonblank_lines": 9,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 256,
+      "image": "/tmp/manas-old911/images/page-256.jpg",
+      "ocr_text": "R i\nZ/Wé/f”/ 7 ;;Zé/%//\n) foede A\n%W/%/ (R g0 W oz,\n\n- 207 Myg&/ L\n\nTy oy o\n| iy ot 7 G\nN A G o Feadt\nIy Y gt\nL g i\n%{Zf/ 7 ,Z?/f//”ﬁ/’f”\nF %ggﬂ%ﬂé&?}%\nE /%/ j;;//?/ |\nL7\n",
+      "ocr_sha256": "7e1c31aeef58041bcdb2d2b8f99572d39c95af26f5e0ca039329e9b652dd241a",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 257,
+      "image": "/tmp/manas-old911/images/page-257.jpg",
+      "ocr_text": "& \\A_%% 2_;\\_ S\n% e R 7774 3\n\nB 7 //% {””Z”fé%/@ !\nY Ly PG g s\n| N e\n\nk. Py i’ selog #3007\nW o ooy jervge\nE 7~ o -7M%fwx/z« ]\n%,&Z///;///& ,%Z/W% ‘\n\nF g/é w2 O POGFT i\ng%é%”fw e\nK T sae 1557\n= e é) '/%’_”/”Zﬁg/ e d\nb T 99 s 47 |\n",
+      "ocr_sha256": "fe1d55c0298f7b6e6aef1398cc2ef8770e7399632bf6deec5cfea288cf260064",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 258,
+      "image": "/tmp/manas-old911/images/page-258.jpg",
+      "ocr_text": "N A Crn g,\nE 3 /MJ’/ /Wy}v /‘%zfm¢ '\nE 3 %%z/& e RN,\nW\n¥ o %Z%/%W/}%fg\nk- v L Y &\nb Cutroir G s\nY S s [evie\n5 ///MZ #F. ZZ? ”%\"Zf/’%\n| A\n§ Troiy\nN i ar\n- ”fZ////% o $V7 WZX’; A\n. o 227 :\n. /%, st\no /W” APIRT. 4t l\n& e 22,/% %ZZM o F75 |\n",
+      "ocr_sha256": "dd7c254df976a94ff129760301f13042b583af5ebc84063a04dcd906668ac0c2",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 259,
+      "image": "/tmp/manas-old911/images/page-259.jpg",
+      "ocr_text": "N i J?% @/ Gren \\\n- L |\n' 3 GHlr Potper J Lo [\nN A 1\n¥ //7/7 /s /WZ\nE g f\n- fi/f/ o7 Vaattsin\n. bu g Jer/\n; wp s 7477 an\nB %7/ %ﬂ /ﬁ%\nY G iaer o 1 hrpe-\nY jualiet oot 57 Via\n. R /%//W%f’\nT 5/‘&%//}/ g ”/Z/Z\nV oy\nN BT i\n) guai g, vy\n| O\n",
+      "ocr_sha256": "009c1655136f955163ff035a88f8d3de3f4ae1cb390cdbd6d7ece05bc998ffe3",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 260,
+      "image": "/tmp/manas-old911/images/page-260.jpg",
+      "ocr_text": " Alyws # 7y 22N\nS i b b St\n: A .\ni %/7”//” /;% '/fy%@’ |\n| % Z//%ﬂ J%ﬂf%\nN A\n\n27\nv / 43\ng % Ve 4\n¢ Yy /s w0 GG\ni w295 14 %\n- ’%Z b2 PN\n; %Z////i//% MZ /%%ZWZ”\nVe\n",
+      "ocr_sha256": "2e0f39ec05ba37223163829abfef9b0b813702868d11519ea63508b9ee95d67c",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 261,
+      "image": "/tmp/manas-old911/images/page-261.jpg",
+      "ocr_text": "W o,\n%ﬁ /f///fg ;{Z/’Z%\n\nE Jopw Wy /7%//\n\n;ﬁ/ ey ugq%//\n\n4 j// MR A% foy e\n\nb Dps fhAe M%yyw :\n\nY LA i f?f///j)\n\n. grtw Jumy fow 2\noL B s it\n;//% ZZ/M \" %{%/Z; =\n\nE. % 4 /Wf%///;?\nN s/ i %’jﬁ%\n\nP %M% 77 ¥ ‘\nf < 77, L vk\nW\n\nL 7 1\n",
+      "ocr_sha256": "87492562ac5f146c973ad70543425fb19f0562856fcfa107e9f02ab26d0e5eb2",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 262,
+      "image": "/tmp/manas-old911/images/page-262.jpg",
+      "ocr_text": "Z /%/ 27 ? 2, .\n3 %% gy\nDA 2%/ o\nB2y S S yﬁ/,:;?;\n\nL ) YUl Bp gaps\n\nk- - /fé& /27 Fé7%\n\nL gy petmge #af 70\nZ%/M//W%/J%/w‘/ ZZ%;\n\nL ol Tew Il el\n\nb L e ke G\n-y G V Z4 /&/;7\n) Sy b i\nN i\n",
+      "ocr_sha256": "aee30ba08e4d4c3103a0458957d85574f1d4ec8f2963c28c327fb9cd4347868b",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 263,
+      "image": "/tmp/manas-old911/images/page-263.jpg",
+      "ocr_text": "S22 S :\n' stz D¢ e\nVi A il o .\nP ik\n. g Civlie\n- P2 257 o\n\ng o A\n\n§ Gumen éﬂ% S/ 5 672\n\nb 7 e\n\nL T L\nE - W%W/%/’Wé’/%\n4 A %ﬁ/éﬁ Y7 %/Zﬁ 22\n\n%_- &//ffw /zz///;%;%/\n\n1 agyams i4 'J’Mﬂ/ﬂ’//g\no/l Zz/m\n\nL =27 i\n\nE 7 ZZ/; 90720 7%\n\n%‘: | L/ //%% ;%W;a e\n",
+      "ocr_sha256": "d865005b2f1910f09d4ea48a6c79b5518995eb0fb326d3e43e3f5f9da2d7971c",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 264,
+      "image": "/tmp/manas-old911/images/page-264.jpg",
+      "ocr_text": "r . fmlm:\nr //W%%‘% £y 257 S\ns 2 dap oy\n Hia L\n4 7;7?54/ i e\n| %z%\nE o Z%é G i\nN Ly\n| == / /ﬂ/ ST IO\nN R 7{@/‘;///, ar 7 17 / | |\nSR mm@%f%@%/ putt”\n. 77 s\n- ke /W]\n",
+      "ocr_sha256": "f95195c0f29ae7f1dd132b632f04b959be02cc520107e7ddb100dd9af568ee92",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 265,
+      "image": "/tmp/manas-old911/images/page-265.jpg",
+      "ocr_text": "B o vy VW@L \\'1\nL W il @pnysy !\nL JurnT ¥ oty ;fﬂ/ﬂ&%mé& ]\nz /Z/; L1y oyt\n4 w%?%w %ﬁm’\n. OB bk ity |\nW Y %?WW;'\nL G,\ne Yy PP SZ fw g4\n@ ;;/ Y\n//%/ 7L fapioeen\n- gy 1, oy $ep s\nL Tt P e 10\n& i T Y i\nB % G L sy el |\n§ 2 iy\ns /M 797 v ;//i//&' \" A Y4 ‘\no T Y |\nL\n",
+      "ocr_sha256": "9d503af1d92fef30d179c29a555861f0b57a3bc3b0d941d8e792df3ac33c1115",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 266,
+      "image": "/tmp/manas-old911/images/page-266.jpg",
+      "ocr_text": "5 3 < Hrigd i 05 o\na1 o iy, rr WL '\nR 7 4 A s :\nY e 7y\ni 3 A /e\ns e %p//fm@”/ .\nN L Gy 90 rir\nb wptivr parmiye Vef\ng 8 gy gt Wy %\n%% 77244 ;g//g}g/ ‘\n. il kd\nN 2z 2\nB bt WY s A |\n”l,f;%j/ /% s pr L\nO -, 7, oo f? v, |\n. oy 10 e\nN 7 s 947 4 st\n. vy gatper VY |\n",
+      "ocr_sha256": "914398a939e71b7d97a4f77ff0c645dc73a52a97dcfc821182fabfb44d30d916",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 267,
+      "image": "/tmp/manas-old911/images/page-267.jpg",
+      "ocr_text": "b oy S\nR\nP /%%WM” 7 ‘m»f;@%;&\nE Mﬁ/éy//é e,\né%%’%f/ ' %Zzﬁ”’ 07\nB 9 oo\nE 7754/%// fﬂ%/j Jis ot\nF i Bl\n= 07 a2 /@'/MW%\nb Tl\ns o WZ//WWM,W\n; oy Jo &\no7t /%{f,f//% i\n4, /Wf%\n2 %%/%%%;%m\nkg 7\n",
+      "ocr_sha256": "4217be5a7dcfe096064b285dc04e7de906cde72f709847be1bc113e0d064408d",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 268,
+      "image": "/tmp/manas-old911/images/page-268.jpg",
+      "ocr_text": "& s Aetder UT N\nL R Ay\n3 Ges ey Z/’//WW /g 4\n- ol L. |\nL o &t e\ng e ///Zﬂﬂ?’”’/@%\nE Crp i\nsl e\ng 02 40¢ 24 L @8 Ev el\ngty AP o2 YT\n- Y s A Y e\nWﬁ% A\n| ol\no %M%%Z/ s\nL Dy T e\n\n= i’f' f“‘\n",
+      "ocr_sha256": "4a819ecb103647d31e43d8e9bf568f08aedf4e2009a7ee4cff88767261e91b10",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 269,
+      "image": "/tmp/manas-old911/images/page-269.jpg",
+      "ocr_text": "F. Py\n; Fups wff S f¢Z£4/7’W >\ni &WW/?/Z/ ‘ |\n/,é/w/%/ s i\nW%%M/ig/;{;\n0 Uity oot !\n25 G0 ’ZZ%M////%;;\nE e i Goproct\nF - /M% i i\ng oo AL e\nE kit iy a7\n£ 4, it\n",
+      "ocr_sha256": "3e96d6cd569c1c57650a3a0d2d8d1062273d2d768d72c7279392fa242479f39d",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 270,
+      "image": "/tmp/manas-old911/images/page-270.jpg",
+      "ocr_text": "| & //@m@ A V}\nL g Py Seme o |\né’/%ﬂ @%’f/} 3\n. T g7 fie e,\nRN WZZ%Z l\n GH gl 17 st dpymenp\nL P 2sre e Zapas o |\nL Yy mwtse 927 %W/Z' l\nN . W aiis\n2 g LG\nel By ST\nel |\nst A\ne 11 5\n2,,-’:%%;7% %}{ |\nL b e |\n\n| /{}W//WJ S :\n",
+      "ocr_sha256": "ec81320591b295d28fbb79866ace4b144bc0a59cab745d6c130e38650d519205",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 271,
+      "image": "/tmp/manas-old911/images/page-271.jpg",
+      "ocr_text": "| kd %/ = =\nP &z f%/w?fg;’% . ‘\nF Yz JM7%f7fﬁﬁM\n|ty e v\nE /ﬁﬂﬂ////%%”” i\nE if/mzy//;%ff “ |\nE G S\n3 %%fWW?/% | ‘//C;%g\ng 27 i\ne 7 i, AN\ne 'W/WW’ \"%VW\nN 7 it 270\nE 4 g ot 47 744\n. pog e\nL HE 4///%@/7%‘/% el\n2 WW/WW% 2\n",
+      "ocr_sha256": "fe02bb5c96ed7e734719041e8ad177a6843badb8ad6e9872079cc54c52c1f1cb",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 272,
+      "image": "/tmp/manas-old911/images/page-272.jpg",
+      "ocr_text": "b 21 G ﬁ/%«,ﬁ\nb T ourdy povciy\n%,%g/% s\nE 77 S A s\n\n| zf%% Z%/Zf;ﬂf\n7 Ends Y e\nb iy :\nG5t g it o\n3 7 /;’///M //;/M/;/%;\n\nk. / %m/%// 16\ne b2 277 o pd\n",
+      "ocr_sha256": "a668744afc684f9e8ef7b8510d85542959e30428a67e50780abd6549918d9d81",
+      "nonblank_lines": 11,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 273,
+      "image": "/tmp/manas-old911/images/page-273.jpg",
+      "ocr_text": "3 75@//// s G s\nﬂz// &,/}/;;%% M?”ﬂ/fz\n- 2 e &Zg 94\nE ”Z//W%Z\"‘””%%\n| e e\n%ﬂ 5%5 Z/Q%Z%ﬂ\no SF N 7 i\n- ?‘Z/%%%\nb ?Z?f%i’%%’%\n?/M/%%fmﬂ;\nF T ?w% o\no %W gl ST Fhsart”\nE %Z%Zf,{,’é’%f/‘yj /\n> - Lo //W//“j/ 2\n",
+      "ocr_sha256": "927b9e8755374b7bd6de4d9e982b2086e6ed24c88b03cb09ffba5ec52f986745",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 274,
+      "image": "/tmp/manas-old911/images/page-274.jpg",
+      "ocr_text": "s 7 é’% e ‘]\n- W% /%/QW/%¢/h :\nR i,\n= gy 7% W?/%M%/W Yo\ne %%ﬂﬁfmy%zé S _\nN A g i\nL il (S\n- Hpa i |\n Faas T Jalw Jerde |\not 7 /ﬁ/ W/ﬁ/ S\nek %Z/ jo\nE /f;/%/%/%/ #\nN T\ng Y e\n",
+      "ocr_sha256": "d0b828b7043f6d5b6800d1e641cb4f9265d99f3f3512cf39a4c9a2ec4b53e5e1",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 275,
+      "image": "/tmp/manas-old911/images/page-275.jpg",
+      "ocr_text": "P 77 LY 4\nP /%%ZZZ Wiy |\nE v Jeglegon e gy e\nL e v,\n3 %%/WM% 99\"\nN\n. A i\n- . f% W/;%% SU AT <\n\" F 9 144 /W//é' %ﬁ///p% ,\nS S/ o Vi 277 %\ngant V8 2, 6% 7 9 |\nA ?M%/M JZ% /Z’ f;ﬁ/pf\nZMZ%W plot -\n",
+      "ocr_sha256": "489a7698547180f0188540a6b3830a72c02783be0c2db9e2612e1cce421062a8",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 276,
+      "image": "/tmp/manas-old911/images/page-276.jpg",
+      "ocr_text": ": Wmﬁ%@;@% |\nWy fal g b\n2’/?[7 /d/f%_;; 2/ Z/%m\ne - . 2/ 87 762075\né%/% % ;Z;%\n- i z\n3 %%f/f%/wg 2/\n- Fsrry 97/ 17/7z\nE //;;d’f’ V74 Zﬁ ﬁ/////%ﬁ\n4 7}%%/%/%/\nN il My\nL pa st\n- twr ”Z/f” A\n/;;/J/M%/ e %/%-\n) a2 I e\n'74/ s @ZZZ//W/’”\nL 2\n",
+      "ocr_sha256": "eadd65f475b10f11a54b35ec624155f2370f47bd704d37aa12bebf2407a79de6",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 277,
+      "image": "/tmp/manas-old911/images/page-277.jpg",
+      "ocr_text": "b oo e\n;/ (?/Z%%;;Wﬁ%% \\1\nfr 2 |\n. P\nE oy w7 62K s\nE w7 ////ZW\n7 aa //2/%%//%\nit 1P 180y\nA wbpe\n2z 4{//&//'/7/ \"y\ng o7 1117 7 Yoyl 17\nE S il it #?’,\nf vz gs 09527\nE »7/\\\"/%//7/17/ Vi V /4\ne\n",
+      "ocr_sha256": "e72edcfdf1afa25218a61154a4f73e5c6497cf3e5642bfbc26d58d48d67c8500",
+      "nonblank_lines": 15,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 278,
+      "image": "/tmp/manas-old911/images/page-278.jpg",
+      "ocr_text": "; 5:; @5 5% sy 5, p B\nF o W%% b e\noz vy ﬁ”/’/’ﬁ'/dzzg :\n= 7@?’/&/ & %/W% e bp 0,\n& 2L Lrmey o9\nO F2Ger »%&f %fg/\nL T D o Mredy\nL S //’%%W ol\n- qrEgegstn FpE /{Z; ,\nE 5%? /y;;/ aply o\niy it W g P,\nL Culw dwvas 088 e\nN /M/W% Lkt\ne ] S\nNl B\nk- Hand e o\n- %’%{M% Ut ;\n",
+      "ocr_sha256": "8fd7ffbea076c10e50728f0af0d0646fcb203e01e4ae10153f894e71f9196198",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 279,
+      "image": "/tmp/manas-old911/images/page-279.jpg",
+      "ocr_text": ", :' ; %%/ f%{; Jg/ﬁj\\;% |\n/{M&Z 7 /; e\nb Cos w/{;f S e |\nE\n- (Pmewiny & -\nTy j e Gy\nR iy £\nLAyt Fer Petzr /f// /o\n- /ng/M gak Fam e\nA 7%&% /Wm/d/\nN TiA g///ﬂ ooy\no %f ////M%*// |\n— 9t\nL sl\ne v 97 il £ /W/\ne Y\nR o\n",
+      "ocr_sha256": "296c5ab70367c25a4442e6216d554bfaf122913e349dbba31f9a4516d06d4f75",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 280,
+      "image": "/tmp/manas-old911/images/page-280.jpg",
+      "ocr_text": "| 5 250r 1 el\n: 7 oy\nE %y 42, ﬁé\n| W/%%% - '\n; qarway /ﬁf{’fm/\n: ?@/ % f%fthf/ 7/&%& 3\nb iy fg/wziyp%%%&\nST I 7%?25/4@\n. e s L\n3 St G Aent\nik o S\n2 Jo287 S 1ty et 7\n, s it .\n| iy 77 Fare s\n. | /@WJMZ‘/” M/Z/Z/fﬁ\ng oo Ll\nE w7, it\nE L s 4 s Vo%7\nE 77 e\n",
+      "ocr_sha256": "57185000885f949b6f310c2b1b804a961e3249680046ced30e34869d94433142",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 281,
+      "image": "/tmp/manas-old911/images/page-281.jpg",
+      "ocr_text": "Q///VW/ %2 : Z/“f\nE 7. ///mﬁ/f(y’ G Z‘WQ\n3 b 7 Cany /f?;/\n3 e s o, TECE bsy 4z\n- @ //%Z? G Z 3\n4 I8 Vaiperay -\nF GLU favinne y/z,/fzr/ﬂ\n3 Hogrre £ Tt Grpardy:\nb Putw coar gréees\nE Paaglwt ofrdd L\ny(% Gt ComEneSss\nE - Eoley A 4 VAV\nD S A\nL s /M;ffg’\nSty g S In P\n. ¢ /;/WM i gt P\n. yan §27\nT J/ﬁ% U i\nL el T\nE oy 0 / '\ng o s HFre\n",
+      "ocr_sha256": "31ef94989081cb6a3851b9a6efe072f5182c07b426a4ba2f5d7807513c56dc1b",
+      "nonblank_lines": 21,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 282,
+      "image": "/tmp/manas-old911/images/page-282.jpg",
+      "ocr_text": "D 97l 7\nE Gorw pap byl\ni 7 Z4 e\n\n2 4 condy 772\nA v ////Z i //;/}\nE aptasin s\nk. Z/%ﬁ///’ 277 ?%/;ZJ/&/; ey\nE Jemo LS Y7\ng W%’Z/'Zﬁf e\n- /¥ by éf// A\n\n.‘ é? e ' A i\n\n- T oy v\nE 20 p 9 0 0\nE /& S Zﬂ ////W V4\n\nE yasn\n\nE %/,// b st\n\nFE i ///’//zd/ -\n\nW L fa/ 3¢\n",
+      "ocr_sha256": "c6cc0ef49da3a12856196ef9a2cb991fc8df1552cd3c9c05b9463edeb58c636f",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 283,
+      "image": "/tmp/manas-old911/images/page-283.jpg",
+      "ocr_text": "3 iﬁ//@” A %ﬁ?’%f —=\n] 7, e 22\nE ?;7/ /ZZ%%Z/ Z/;%/m |\ng g ZZ/Z o\n%Mﬁ/ /;ﬂ/”'\n,%%M/Wm e\nE it e i i\nk- y 7 e £©7. st\n/Zl/%/ w /ﬂ/ Vi s\nE a1 2l \\ d5prr\nE 0 v ak 2% :\ne _ ?%/%/%”% ”‘i‘i\n= i 12,\n. | //l/ﬂ/‘;///@///)\n",
+      "ocr_sha256": "bc9068e26df2ceee0310b0ad8982ceb70a995c0f05e0d9a3e5aed271463b617f",
+      "nonblank_lines": 14,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 284,
+      "image": "/tmp/manas-old911/images/page-284.jpg",
+      "ocr_text": "%5 o\nFawia /W Z 2y |\n7 z/igf/f’;’%/’%\nA fa%f 72 %Zﬁ? >\n/M/m/ Vo it So' ]\nE ﬂ;é?f#/ par i\n3 V. Ly SR ikl o\n% 298\" 97 /gé%mf/”\n- Ay A 2%/%//%2; :\n% %/W%/¢ o\ne A £ %\nP Cika\no 7% gt/ g aL\n- % o /4 fyradt\n\n| i 2\n\n| o frir Y\n",
+      "ocr_sha256": "8134e4950446b0f5014d384299e24c9a15d91847a9b79eee816ae176cb332384",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 285,
+      "image": "/tmp/manas-old911/images/page-285.jpg",
+      "ocr_text": "W ey, PR\n\n_ o 280\n\nL ey L e\n\n| & f/%//ﬁ/@% 5/ w7y \\\n\n3 & M%ﬂ ik\ne é% oty 7;’ ;;g ol encg\n\n. & setese %/ %,\n\nE %’/&ffy Pr S g Sa £\n. Y Srtr mi/ //26//;\n\nL //% G 955\nc%//@ oy o7 ;M;///%\n\n2 iy (0 Gogsea *>\n4 ey v B\nR e\n2 A PPN it /é; ?/ '\nO At\n- fﬂ ; p /. 9 o % //f//j ) ) »\nE 7 ////”%//4 e 99y 7\n",
+      "ocr_sha256": "a17968291ac587bc12480284726571621824c98574dfd663f0bfdbb245395ca9",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 286,
+      "image": "/tmp/manas-old911/images/page-286.jpg",
+      "ocr_text": "Sent7w dupwy, Jijz; \"é/f’ﬂkf//;\n\n; cre g/ et A\n\no ocf/%é’/gﬁ ”Z;Zv s\n\n3 ;ﬁg’éf SLGS o wtnrs\n\nLew F2ts 2 Sppmr\n\n? gase or ”@/&//féi/z;\n\n3 //%’//// FY pyrrabiar\n\nSty PRINNIFIT For Ferin\n\n3 LSew Pan s L8\n\n3 S G #r Reppocs\n\n3 Y7 i 4 s Gy\n\nI ppan S (205 55277\n\nLo/ S T27 p 7\n\n3 %/ e APy AT\n\nTET L iy 7 G20\n\nA ot\n\n////ZMZZ;/; %zj ,;”//;;WZ\"\n0 T\n\nR oy\n\n% . R S LR e S S\n",
+      "ocr_sha256": "9c795f5fcdf0e798cae743bb68cd3202b525813c2d4f3b455749426b172194f9",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 287,
+      "image": "/tmp/manas-old911/images/page-287.jpg",
+      "ocr_text": "E ..\nv ot gy\nL tlmayrs £ sias |\nWX s\no NG fPY s Py :\nO it\n3 %//4/ $ o s\n. it iy pn\nb /_W///& S %% Jangr\n4 % %/Wf i Z{;Z” g !\nL gt at\n3 'é////%a/% e %2%/. ]\nL B iy s\n: 2\nWﬂ//gf Y7 i\nE Sabas %;pf//z %///}///\ne oo 77 |\nN o\n=4 . e\n",
+      "ocr_sha256": "0ee4068ebf756eb4d36673cff192686567dfce3e1b4523597085cb83689d2f7c",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 288,
+      "image": "/tmp/manas-old911/images/page-288.jpg",
+      "ocr_text": "7 W 257\nB . iy e fé/ﬁfg/@%\n2t v b2/ A\n7 e (73 i\n=2 VZ WW7 %}/ / 27872\n. /5/ Ve sy\nL w f0/) e\n3 pi g ar §Z (s\nE garrre i\nE o VA ud\n\nF /% A A W/W/f/’//z\nE Z/ﬂf o fo Y %\n",
+      "ocr_sha256": "fd19090f8bd3bea96b88b0e7d7c2605ca767539414beb04add2d40dd93794193",
+      "nonblank_lines": 12,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 289,
+      "image": "/tmp/manas-old911/images/page-289.jpg",
+      "ocr_text": "7%4/@ e ' 7\ns\nE ‘/;// e ﬁf% @ Z&\\y /\n%0 i\no 5 Zis\nYicr\n| Kre P A\n} & Y 4\n%/Mﬁ %;{5 Lo\nI s 27/ ,;é/%/%/\n- Cﬂ/%%’%/”/ 4 M/ é‘; rrate\n| 1 i ¥ il e\nGaogy FHY Yoot\nE S 7\nE ;/ il §O7 //////;l\nf Ayl it\nj:] | /M /////Zé M//Z/ ‘;;7 s\n",
+      "ocr_sha256": "936f552c0fceeb4cbbb916d30c5b9af5560eb0552e08cb8a6d6dbebf603abfdc",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 290,
+      "image": "/tmp/manas-old911/images/page-290.jpg",
+      "ocr_text": "oo, =\n22 4 Yeary \"\nE Viaei |\n- W aras owosdy '\niz o\n\n= y/ o ﬂ{ﬂ W” ;( //?'- i\n%/%W%%/” piech\n\n3 24\n\n- S Gior %y ///Z 57/% |\njé{”/%’%‘/ i %/WZ%W‘ ’ l\n- o S 0T\n\nE o el p7 a ;\n. S Mzﬂ/y/@iﬂ% J N7 ‘\n2 B 0 .%Z'///M »\niy gorge 1o 1%\nW/&Mﬂ% /%m//l?/ e ‘\n",
+      "ocr_sha256": "f424dbbcae1db0956dccb6960ffa30949b9c6816b6c91cbbbc9958e5d8183d04",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 291,
+      "image": "/tmp/manas-old911/images/page-291.jpg",
+      "ocr_text": "& A g f%\nB V?//M Yip ﬁm/é% 79% i\n¥ /#%*/2 S50 yz/f// o .'\ncfﬂ /ﬂ/ L4 yé//Z/%\nR 0w 700y e\nﬂ7ﬁm o352 2omge\nY Twarsie 4 y%«/w//y/% i\n. G frzay for & s\nL 02 faty ot dareon\ne e i\n| N %W// w4 ;i%” G\nL G5\ne S\n. f %%/%/VZ/; ,%M%f ”fo/yn;o\nY i\nE e W G g\nL o™ 5% o AT\n¥ myr *\n",
+      "ocr_sha256": "688c187418782e98b36d044dc278af8b0ad74dcc6047e137965b08f2354a7740",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 292,
+      "image": "/tmp/manas-old911/images/page-292.jpg",
+      "ocr_text": "w Fotsp y\nw7 ey,\n7 %ﬁ/ g 7 W@ﬂ%\n' u e ﬁéﬁp&\"//@/&p\n: G g s ,%/W/Z vée,\nE Gt 7t o\n% ¥ 15 Fapraa ot\n[ N 4 673\nR Lz\nN e o5 A\nb Nkt Sy, 55\nE gant Y vy @t\n§ L Ll enen V7.4 %?//\nL g\n| 2\nF y //’%/M////\n",
+      "ocr_sha256": "d25b1c8c493f7a226928c8901454837d7aafa218fb4f7beb5b332a1f1cd32f22",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 293,
+      "image": "/tmp/manas-old911/images/page-293.jpg",
+      "ocr_text": "e i Bt\n\nF o o it\n\nB o e s\n\n} éwimz;fé;f W% 7\nE Doras % - Zogip\ni £y\nF e\nE @Zf z -\nE TG\nE (%M&/¢Wﬂf&;ﬂ/)\n4 &'fiZ&/‘W Wﬂ?; o .\n%W%f%’%\n£ %”/WW\n",
+      "ocr_sha256": "2840331bb6b22e0d99a2140a75cea3129aa59905508b77e1054da31b3b4dbe5f",
+      "nonblank_lines": 13,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 294,
+      "image": "/tmp/manas-old911/images/page-294.jpg",
+      "ocr_text": "L A9 Swpnttor g\n- Db %%ﬂw Yo’ :\n%@/Zm iridl\n; @l Z W% Gl :\n: ﬁ% ?ﬂ%g@ﬂ% %ﬂf\nay by Gafs 22/ >\n] %& e Pt s\ni Gargor Hamwsyiéy\n3 7%%!;// 72 i\n3 V& ///?7 /ﬁ/ﬁ//\n- lr gl W/«”\"/ﬂ}/”d// x\n0\n= ; %7%4%%%2? ¥\nL Gt\nE - %f W %/m ulomé ‘\n= WW”% i /ZM/ cepi\ng o |\n",
+      "ocr_sha256": "3b522e0f00647ecec42da4c85be7c9f3109131fb31d5652d77ee3cc49ee724c3",
+      "nonblank_lines": 17,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 295,
+      "image": "/tmp/manas-old911/images/page-295.jpg",
+      "ocr_text": "[//i%;é//%/% iRl ‘\n\n_ [bsp 7\n\n| ?‘%% 14515 rore\n\n: 720 1 gt ,}% :\n: /f/ﬁ @ /W <\no @/f@f%‘? :\n\nE ¢ Py ey\nP ;//Zf - //%” %%/%\n\n3 I/‘//////MZ e o\n\n| T\nP o~ Zy ke pesns\n\n] 1 %ﬂ/} 5 /W)\n\n’ ;ézz// /Z/Z%%//ZZM\n\n3 /Mf/;%/ ?Z/ZY'M%;Z?\n4 ?/%Z/;’/%%M% A\n\n| oo\n",
+      "ocr_sha256": "349905d24c681df008d7f93937e12586980337daf15778b433e239d23ca23344",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 296,
+      "image": "/tmp/manas-old911/images/page-296.jpg",
+      "ocr_text": "R on 2\n; %/%@gﬁ~ .\n. 22 Py 7\n\n3 yﬁé%w 7 ”@4@ Lh5 !\n- /Z%Z/M S 47\n\nB e\n\nE ey “iye E\nR o\n\n74, ki ) g/;; ;é;ﬁ/ !\n2 4 4 P il e //7%,%8\n%J%M&ﬁ%ﬁf {\nE V& L4 /%;ﬂy{/% 7> %\n- Dby\ne\nE /i) ﬂgyf% el\nZ%?;%/M CFIREST .\n",
+      "ocr_sha256": "da72de07c7b384186a217d23bf1a2705c6fe9a9d2f8ab3a43f47f674377d99d2",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 297,
+      "image": "/tmp/manas-old911/images/page-297.jpg",
+      "ocr_text": ". ... Mﬁ\n‘?‘}WZZ% ig/f/%wﬁf 5\ni d\nL 00 09 v\n| o qar 2y de |\n4 AR B 2\nWH AT #9705 W;\nf AU th 1507 PY AP :\nW pmiisga $7RY #Z T\n. GO L A\nL W e\nF 5 #9)7 2 #iite\nb i 7¢¢ i\ng LHE W% //MW\nV7 Zsdd Sty w Py Y\nL Mﬁ%ﬂ/ L |\n",
+      "ocr_sha256": "54269432f8c6f6978be17004f3e0b4a6338dcbf12f8c73bb0ee7e6f2a057f7dd",
+      "nonblank_lines": 16,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 298,
+      "image": "/tmp/manas-old911/images/page-298.jpg",
+      "ocr_text": ". 7 e G g wmatizg,\n@t 24, 7 G fators- d\nE ﬁg//f Yéroresy. |\nQv [ty 7.\n. {ﬁ VR LR L ‘\n% AW%& %/¢/% W/ 72\ne /& f/f’/ Wﬁ&'ﬁ«/fg—\nB o g O e\n/MW Yoy 708 O87 7775\nE° 7Z L v YV i\nk2 % el i foa et\nE. /Z/W i S A\ne ST\nAy Y ikt /et\n- Dby 107 e\n. - %@75’///””/ '/p///r%%//i/ |\ng - Sy Z Gatowes 727 |\no B T stl |\no e %f Vil [////’ //7 e\n. it 4\n",
+      "ocr_sha256": "f30d3eb049ed3b1e4497369d1e37d6147314f73ea7d91c035413f275df112031",
+      "nonblank_lines": 20,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 299,
+      "image": "/tmp/manas-old911/images/page-299.jpg",
+      "ocr_text": "L g — ?f: - =\n} &% 2y %M/WWy ~—-—\n3 =5 W% ,/Zm //5”;76/%-\nﬁ/ ] ,4%/% Z}’%’/ %/r‘”/é/\n‘ e 7 %f/‘// o\n' /jf Wﬁ///‘/ S < JZ\n: oor Sz 2t g %\n9. § 7 V4 P ed .\n, /%5/ QZ' //7 WW% ,\ny/z?}% /WMMW;\n74”///;7 EII7 /dgx%//; 75\n‘ 9 427 7 e 5 i\n2 S WM/@ fﬂé&\n7o /Mi” /Z//Zf%f it\no ey %\nG Jug 87 ”w/;,’/f%%\n75/%”’”@ -\n_ kb mé ”f”’ P e\n%Xﬁ%d\n",
+      "ocr_sha256": "d887b7aba9de31f4cefc48cfeed3652bbfd25622c82eebd4f6bdff0897a396a4",
+      "nonblank_lines": 19,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 300,
+      "image": "/tmp/manas-old911/images/page-300.jpg",
+      "ocr_text": "- T\n= - “ £ U_,,L,m;.' » ——\n~ e 7 ;“' T — - -\no o T Eoer SRl ¥ T Sy\ne o\ne -\nLRSI S B ;\ni N SN S e\ne T “g.ﬁﬁriég§7l,-,‘. :\nSas e di Yiae N =\ne LIS N R e e P LN R sritwerge\n- o o N Ry B aRES SRES A R\nAL R M 1,;.«311{11_\\{:?_:‘?.-~5:<(_‘;;\\7,‘_~j>\\,;,\\ S &\no - RS N im:§~~, s\n.\"‘Q?“!-t 0 S e w o 5\nRO 5 ¥ R Bt S A T 5\nR i . L2 N S P ot\nPR U R Lo\n",
+      "ocr_sha256": "620007988edfc4aed2b3fdd7d6f9434c837062ff28f68d2eda0b99b5e05aef5f",
+      "nonblank_lines": 18,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 301,
+      "image": "/tmp/manas-old911/images/page-301.jpg",
+      "ocr_text": "L S S PR R )\n»v, -\n",
+      "ocr_sha256": "3cbd91a932ee8758ec859e7cffc3fdb4cc7c506aebad6d07a765f440f0bb0560",
+      "nonblank_lines": 2,
+      "status": "unreviewed-machine-ocr"
+    },
+    {
+      "pdf_page": 302,
+      "image": "/tmp/manas-old911/images/page-302.jpg",
+      "ocr_text": "*\n# ¥\nAN\n\\ b 3\n| )\nN\n:\n{\n3\n!\ni\\\n5 L]\n- |\nS R 8\noic -l e -\n{ ?\n| {4\nN\n- }/\nL\n5 i\nY o - N - e\n",
+      "ocr_sha256": "e1781fd71a549561d7b543d22c07cdd5836cce2566c617a24b305b7e972aad71",
+      "nonblank_lines": 22,
+      "status": "unreviewed-machine-ocr"
+    }
+  ]
+}

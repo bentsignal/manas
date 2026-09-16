@@ -1,0 +1,404 @@
+{
+  "manuscript": "research/working/current146/page-076.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.7,
+  "readable_manuscript_lines": 34,
+  "lines_with_candidates": 26,
+  "exact_match_lines": 17,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l001",
+      "manuscript_text": "Калың элдин баары айтып,",
+      "matches": [
+        {
+          "index": 1390,
+          "id": "seytek-1991-continuation:p0330:b001:l030",
+          "text": "Калың элдин баары айтып,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l002",
+      "manuscript_text": "Калмактай сөздү салды эле.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l003",
+      "manuscript_text": "Калк чогултуп чуу кылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l004",
+      "manuscript_text": "Чатакташып, чырдашып,",
+      "matches": [
+        {
+          "index": 2096,
+          "id": "seytek-1991-continuation:p0337:b001:l046",
+          "text": "Чатакташпай, чырдашпай,",
+          "score": 0.8421
+        },
+        {
+          "index": 1247,
+          "id": "seytek-1991-continuation:p0327:b002:l037",
+          "text": "Чатакташпай чырдашпай,",
+          "score": 0.8421
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l005",
+      "manuscript_text": "Тоодой Кенен салды эле,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l006",
+      "manuscript_text": "Чың Теңирдин колунан,",
+      "matches": [
+        {
+          "index": 1391,
+          "id": "seytek-1991-continuation:p0330:b001:l031",
+          "text": "Чыңтеңирдин колунан,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l007",
+      "manuscript_text": "Курчаган темир торунан,",
+      "matches": [
+        {
+          "index": 1392,
+          "id": "seytek-1991-continuation:p0330:b001:l032",
+          "text": "Курчаган темир`торунан,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l008",
+      "manuscript_text": "Кан төгүүчү огунан,",
+      "matches": [
+        {
+          "index": 1393,
+          "id": "seytek-1991-continuation:p0330:b001:l033",
+          "text": "Кан төгүүчү огунан,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l009",
+      "manuscript_text": "Күйгөн кызыл чогунан,",
+      "matches": [
+        {
+          "index": 1394,
+          "id": "seytek-1991-continuation:p0330:b001:l034",
+          "text": "Күйгөн кызыл чогунан",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l010",
+      "manuscript_text": "Эл атасы Жел жетпес,",
+      "matches": [
+        {
+          "index": 1395,
+          "id": "seytek-1991-continuation:p0330:b001:l035",
+          "text": "Эл атасы Желжетпес",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l011",
+      "manuscript_text": "Өлүмдөн араң алды эми.",
+      "matches": [
+        {
+          "index": 1396,
+          "id": "seytek-1991-continuation:p0330:b001:l036",
+          "text": "Өлүмдөн араң алды эми!",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l012",
+      "manuscript_text": "Кудай бетин көргөзбө,",
+      "matches": [
+        {
+          "index": 1397,
+          "id": "seytek-1991-continuation:p0330:b001:l037",
+          "text": "Кудай бетин көргөзбө,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l013",
+      "manuscript_text": "Эл өөдөгө тартарда,",
+      "matches": [
+        {
+          "index": 1398,
+          "id": "seytek-1991-continuation:p0330:b001:l038",
+          "text": "Эл өөдөгө тартарда,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l014",
+      "manuscript_text": "Ат кара тил мезгилде,",
+      "matches": [
+        {
+          "index": 1399,
+          "id": "seytek-1991-continuation:p0330:b001:l039",
+          "text": "Ат кара тил мезгилде,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l015",
+      "manuscript_text": "Оолукпай Теңир турабы,",
+      "matches": [
+        {
+          "index": 1400,
+          "id": "seytek-1991-continuation:p0330:b001:l040",
+          "text": "Оолукпай Теңир турабы,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l016",
+      "manuscript_text": "Дүйнөгө чыр салбай,",
+      "matches": [
+        {
+          "index": 1401,
+          "id": "seytek-1991-continuation:p0330:b001:l041",
+          "text": "Дүнүйөгө чыр салбай,",
+          "score": 0.9091
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l017",
+      "manuscript_text": "Какан каны Чың Теңир,",
+      "matches": [
+        {
+          "index": 1402,
+          "id": "seytek-1991-continuation:p0330:b001:l042",
+          "text": "Какаӊ каны Чыңтеңир",
+          "score": 0.9412
+        },
+        {
+          "index": 2774,
+          "id": "seytek-1991-continuation:p0344:b001:l032",
+          "text": "Берен каның Чыңтеңир",
+          "score": 0.7429
+        },
+        {
+          "index": 1045,
+          "id": "seytek-1991-continuation:p0325:b005:l025",
+          "text": "Бээжин каны Чыңтеңир",
+          "score": 0.7429
+        },
+        {
+          "index": 3106,
+          "id": "seytek-1991-continuation:p0347:b006:l015",
+          "text": "Муну укканда Чыңтеңир:",
+          "score": 0.7222
+        },
+        {
+          "index": 1202,
+          "id": "seytek-1991-continuation:p0327:b001:l041",
+          "text": "Чынмачын кандын Чыңтеңир",
+          "score": 0.7179
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l018",
+      "manuscript_text": "Муну тынч жатып кудай урабы.",
+      "matches": [
+        {
+          "index": 1403,
+          "id": "seytek-1991-continuation:p0330:b001:l043",
+          "text": "Муну тынч жатып кудай урабы.",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l019",
+      "manuscript_text": "Чың Теңирдин колунда,",
+      "matches": [
+        {
+          "index": 1391,
+          "id": "seytek-1991-continuation:p0330:b001:l031",
+          "text": "Чыңтеңирдин колунан,",
+          "score": 0.9444
+        },
+        {
+          "index": 2935,
+          "id": "seytek-1991-continuation:p0345:b006:l044",
+          "text": "Чыңтеңирди сураба,",
+          "score": 0.7059
+        },
+        {
+          "index": 3058,
+          "id": "seytek-1991-continuation:p0347:b001:l019",
+          "text": "Чыңтеңир жөө калганда",
+          "score": 0.7027
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l020",
+      "manuscript_text": "Балбандыктан жаралып,",
+      "matches": [
+        {
+          "index": 2823,
+          "id": "seytek-1991-continuation:p0344:b003:l031",
+          "text": "Бет алганын жаралап,",
+          "score": 0.7222
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l021",
+      "manuscript_text": "Дүйнөгө келген бир,",
+      "matches": [
+        {
+          "index": 818,
+          "id": "seytek-1991-continuation:p0323:b003:l003",
+          "text": "Элдешүүгө келгенбиз.",
+          "score": 0.7059
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l022",
+      "manuscript_text": "Ай караңгы кезинде,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l023",
+      "manuscript_text": "Жаздай аткан мерген бар,",
+      "matches": [
+        {
+          "index": 2373,
+          "id": "seytek-1991-continuation:p0340:b001:l026",
+          "text": "Жеазбай аткан мерген кул,",
+          "score": 0.7805
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l024",
+      "manuscript_text": "Асманда татар алты бар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l025",
+      "manuscript_text": "Кара жоортой какандын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l026",
+      "manuscript_text": "Кара курттай эли бар.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l027",
+      "manuscript_text": "Түгөнгүс жакшам кеби бар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l028",
+      "manuscript_text": "Бүткүл акыл ойлоду,",
+      "matches": [
+        {
+          "index": 1404,
+          "id": "seytek-1991-continuation:p0330:b001:l044",
+          "text": "Бүткүл акыл ойлоду,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l029",
+      "manuscript_text": "Падышасы Чың Теңир,",
+      "matches": [
+        {
+          "index": 1579,
+          "id": "seytek-1991-continuation:p0332:b001:l022",
+          "text": "Бадыша Чыңтеңирге",
+          "score": 0.8125
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l030",
+      "manuscript_text": "Он сегиз миң ааламга,",
+      "matches": [
+        {
+          "index": 1405,
+          "id": "seytek-1991-continuation:p0330:b001:l045",
+          "text": "Он сегиз миң ааламга",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l031",
+      "manuscript_text": "Түк курсагы тойбоду.",
+      "matches": [
+        {
+          "index": 1406,
+          "id": "seytek-1991-continuation:p0330:b001:l046",
+          "text": "Түк курсагы тойбоду.",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l032",
+      "manuscript_text": "Ааламга падиша болом деп,",
+      "matches": [
+        {
+          "index": 1407,
+          "id": "seytek-1991-continuation:p0330:b001:l047",
+          "text": "Ааламга бадыша болом деп,",
+          "score": 0.9048
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l033",
+      "manuscript_text": "Кылт эткенди соо койбой,",
+      "matches": [
+        {
+          "index": 1408,
+          "id": "seytek-1991-continuation:p0330:b001:l048",
+          "text": "Кылт эткенди соо койбой",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf076:l034",
+      "manuscript_text": "Кыргын кылып соём деп,",
+      "matches": [
+        {
+          "index": 1409,
+          "id": "seytek-1991-continuation:p0330:b001:l049",
+          "text": "Кыргын кылып соём деп,",
+          "score": 1.0
+        }
+      ]
+    }
+  ]
+}

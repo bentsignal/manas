@@ -1,0 +1,182 @@
+{
+  "manuscript": "research/working/current146/page-078.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 33,
+  "lines_with_candidates": 1,
+  "exact_match_lines": 0,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l001",
+      "manuscript_text": "Оолука тажаал оюн бак.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l002",
+      "manuscript_text": "Мунун ар шайтандын карт бак,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l003",
+      "manuscript_text": "Желдеттери жети сан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l004",
+      "manuscript_text": "Алты доочу алты сан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l005",
+      "manuscript_text": "Ал ичинде жеке өзү,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l006",
+      "manuscript_text": "Биташка кот койгон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l007",
+      "manuscript_text": "Ордунда падыша туурду деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l008",
+      "manuscript_text": "Чын Теңир деп ат койгон.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l009",
+      "manuscript_text": "Балбаны бар, эри бар,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l010",
+      "manuscript_text": "Ааламда жетер алы бар.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l011",
+      "manuscript_text": "Падышанын кудай эмес,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l012",
+      "manuscript_text": "Буйругу Кудай Тааладай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l013",
+      "manuscript_text": "Эч бир жерде жуда эмес.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l014",
+      "manuscript_text": "Башта күнүн-түн көрүп,",
+      "matches": [
+        {
+          "index": 1736,
+          "id": "seytek-1991-continuation:p0333:b006:l012",
+          "text": "Башта күнү түш көргөн",
+          "score": 0.7778
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l015",
+      "manuscript_text": "Оолугуп жини кармаптыр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l016",
+      "manuscript_text": "Оңго-солго элчисин,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l017",
+      "manuscript_text": "Түп кыргызга айдаптыр.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l018",
+      "manuscript_text": "Элчисинен тил алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l019",
+      "manuscript_text": "Кара баскан доочуздун,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l020",
+      "manuscript_text": "Кан ичкен карышкыр.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l021",
+      "manuscript_text": "Калкынын баарын бүлдүрүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l022",
+      "manuscript_text": "Калың миңин салыптыр.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l023",
+      "manuscript_text": "Уук да экен, кан да экен,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l024",
+      "manuscript_text": "Каары ачуу жан экен.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l025",
+      "manuscript_text": "Айбаты кыйын, күчү көп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l026",
+      "manuscript_text": "Ай-ааламды колго алып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l027",
+      "manuscript_text": "Билемин деген жан экен.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l028",
+      "manuscript_text": "Кабылганды кайсатып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l029",
+      "manuscript_text": "Кез болгонду кемирип,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l030",
+      "manuscript_text": "Ай-ааламга беттеген,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l031",
+      "manuscript_text": "Кайнап эргени,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l032",
+      "manuscript_text": "Кабан серпип калганы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf078:l033",
+      "manuscript_text": "Каарындай өрттөгөн.",
+      "matches": []
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "manuscript": "research/working/current146/page-077.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 32,
+  "lines_with_candidates": 3,
+  "exact_match_lines": 0,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l001",
+      "manuscript_text": "Жадап салып койгондо,",
+      "matches": [
+        {
+          "index": 1411,
+          "id": "seytek-1991-continuation:p0330:b003:l001",
+          "text": "Жадаал салып койгонду",
+          "score": 0.8649
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l002",
+      "manuscript_text": "Өлтүрбөдөн жүгүрсөк,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l003",
+      "manuscript_text": "Как букасын тили деп.",
+      "matches": [
+        {
+          "index": 1413,
+          "id": "seytek-1991-continuation:p0330:b003:l003",
+          "text": "Как куйкасын тилем деп,",
+          "score": 0.8333
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l004",
+      "manuscript_text": "Мына ошондо Чыңтеңир",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l005",
+      "manuscript_text": "Кабарга салган мунара,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l006",
+      "manuscript_text": "Мунаранын сураба,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l007",
+      "manuscript_text": "Кара тажаал жардыган,",
+      "matches": [
+        {
+          "index": 2471,
+          "id": "seytek-1991-continuation:p0341:b001:l025",
+          "text": "Кара тажаал огунан,",
+          "score": 0.7647
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l008",
+      "manuscript_text": "Түптөсө моюн кандарган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l009",
+      "manuscript_text": "Кезек-кезек кандарды,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l010",
+      "manuscript_text": "Каарын төгүп олтурган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l011",
+      "manuscript_text": "Тегереги кеңдеме,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l012",
+      "manuscript_text": "Чымка кумдан төктүргөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l013",
+      "manuscript_text": "Мунаранын чепке,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l014",
+      "manuscript_text": "Дүңгүрөп казылган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l015",
+      "manuscript_text": "Бирин койбой жыйдырган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l016",
+      "manuscript_text": "Таманын чокон күйдүргөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l017",
+      "manuscript_text": "Балбандары дөөлөттүү,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l018",
+      "manuscript_text": "Бирин койбой жыйдырган.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l019",
+      "manuscript_text": "Кыргыз жан жаман түшүнүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l020",
+      "manuscript_text": "Караган пенде багынган.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l021",
+      "manuscript_text": "Хан алдында желдеттер",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l022",
+      "manuscript_text": "Адамдын мурду, кулагын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l023",
+      "manuscript_text": "Тилдер кылып тагынган.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l024",
+      "manuscript_text": "Бу Бээжин коргондо",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l025",
+      "manuscript_text": "Бет алган пенде багынган.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l026",
+      "manuscript_text": "Калмак берендин,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l027",
+      "manuscript_text": "Чамгарагын салбайган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l028",
+      "manuscript_text": "Бейишин башын илдирген.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l029",
+      "manuscript_text": "Беттен барган адамды,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l030",
+      "manuscript_text": "Мына минтип буйруган.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l031",
+      "manuscript_text": "Кеңдемесин ортосу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf077:l032",
+      "manuscript_text": "Тегереги чынар бак.",
+      "matches": []
+    }
+  ]
+}

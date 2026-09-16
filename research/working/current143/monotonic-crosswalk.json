@@ -1,50 +1,17 @@
 {
   "inventory": 143,
   "old_inventory": 964,
-  "manuscript": {
-    "path": "sources/raw/manuscript-full-91-146/143.pdf",
-    "sha256": "db22e2a5274260d0d1a06f22082ce535758ff594af9dc4843a57782d50547221",
-    "pdf_pages": 192,
-    "narrative_pdf_pages": [3, 190],
-    "folios": [2463, 2650],
-    "physical_count": 6827,
-    "count_basis": "title-leaf total and manuscript leaf tallies"
-  },
-  "released_witness": {
-    "source_id": "seytek-2012",
-    "first_id": "seytek-2012:p1005:b002:l007",
-    "last_id": "seytek-2012:p1090:b003:l007",
-    "first_ordinal": 372941,
-    "last_ordinal": 379743,
-    "inclusive_lines": 6803,
-    "english_whitespace_words": 36782,
-    "english_regex_tokens": 36740
-  },
-  "secure_boundary_blocks": [
-    {
-      "manuscript_pdf_page": 3,
-      "folio": 2463,
-      "physical_lines": 35,
-      "release_ordinals": [372941, 372975],
-      "status": "secure sequential mapping",
-      "opening": "Колтукташып басышып,"
-    },
-    {
-      "manuscript_pdf_page": 190,
-      "folio": 2650,
-      "physical_lines": 39,
-      "release_ordinals": [379705, 379743],
-      "status": "secure sequential mapping",
-      "closing": "Билгичтиги ушундай."
-    }
-  ],
-  "monotonic_episode_map": {
-    "manuscript_folios": [2463, 2650],
-    "release_ordinals": [372941, 379743],
-    "status": "secure continuous episode-level mapping with exact sequential boundary leaves",
-    "secure_released_lines": 6803,
-    "unresolved_physical_count_surplus": 24,
-    "secure_unique_untranslated_lines": 0,
-    "interpretation": "The 24-count surplus cannot be assigned to absent text without a diplomatic interior-line transcription. It may be copyist/catalogue arithmetic, split-versus-joined lineation, repetition omitted by the editor, or actual editorial omission."
-  }
+  "source": "sources/raw/manuscript-full-91-146/143.pdf",
+  "sha256": "db22e2a5274260d0d1a06f22082ce535758ff594af9dc4843a57782d50547221",
+  "status": "superseded compact endpoint audit; full diplomatic first pass complete",
+  "scanned_text_rows": 6859,
+  "duplicate_scan_rows": 31,
+  "canonical_physical_text_rows": 6828,
+  "catalogue_line_tally": 6827,
+  "catalogue_difference": 1,
+  "secure_printed_overlaps": 4535,
+  "unreadable_rows": 1,
+  "released_manuscript_rows": 2292,
+  "full_evidence": "research/working/current143/release-overlap-map.json",
+  "note": "The earlier 6,803-line episode envelope was not a line-by-line collation. This file now records the completed direct pass; pair-level evidence is in release-overlap-map.json."
 }

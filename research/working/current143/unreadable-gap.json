@@ -1,0 +1,25 @@
+{
+  "id": "sayakbay-ms-current143:pdf086:l035:cut-off-baseline",
+  "kind": "damaged",
+  "status": "unresolved",
+  "source_id": "sayakbay-ms-current143",
+  "after_id": "sayakbay-ms-current143:pdf086:l034",
+  "before_id": "sayakbay-ms-current143:pdf087:l002",
+  "source_line_ids": [
+    "sayakbay-ms-current143:pdf086:l035"
+  ],
+  "evidence": "research/working/current143/page-086.reviewed.jsonl; research/working/current143/AUDIT.md",
+  "source": {
+    "url": "https://manuscript.bizdin.kg/static/media/pdf/web-143-Seitek-Saiakba-Karalaev.pdf",
+    "page": 86,
+    "sha256": "db22e2a5274260d0d1a06f22082ce535758ff594af9dc4843a57782d50547221",
+    "segments": [
+      {
+        "id": "sayakbay-ms-current143:pdf086:l035",
+        "raw": "[окулбайт: source photograph cuts through bottom baseline]",
+        "bbox": null
+      }
+    ]
+  },
+  "note": "The photograph cuts through the bottom narrative baseline. The source position is preserved, but no honest reading or English translation is claimed."
+}

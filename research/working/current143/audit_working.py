@@ -34,7 +34,7 @@ def main() -> None:
         assert all(row["source_id"] == "sayakbay-ms-current143" for row in rows)
         assert all(row["pdf_sha256"] == SHA for row in rows)
         assert [row["line_in_page"] for row in rows] == list(range(1, len(rows) + 1))
-        assert all(row["classification"] == "narrative" for row in rows)
+        assert all(row["classification"] in {"narrative", "heading"} for row in rows)
         assert all(row["text"].strip() and row["en"].strip() for row in rows)
         pages[page] = rows
 
@@ -67,7 +67,9 @@ def main() -> None:
         "page_span": [completed[0], completed[-1]] if completed else None,
         "completed_page_numbers": completed,
         "missing_pages": missing,
-        "physical_narrative_lines": len(rows),
+        "physical_text_rows": len(rows),
+        "narrative_rows": sum(row["classification"] == "narrative" for row in rows),
+        "heading_rows": sum(row["classification"] == "heading" for row in rows),
         "english_words": sum(len(WORDS.findall(row["en"])) for row in rows),
         "rows_with_recorded_printed_counterparts": len(counterpart_ids),
         "distinct_recorded_printed_counterparts": len(set(counterpart_ids)),

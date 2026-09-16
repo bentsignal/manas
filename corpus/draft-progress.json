@@ -1,6 +1,6 @@
 {
-  "saved_draft_rows": 405977,
-  "released_draft_rows": 405977,
+  "saved_draft_rows": 408269,
+  "released_draft_rows": 408269,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
@@ -62,13 +62,14 @@
     "sayakbay-ms-current133:pdf004:l033",
     "sayakbay-ms-current133:pdf004:l034",
     "sayakbay-ms-current133:pdf004:l035",
-    "sayakbay-ms-current133:pdf004:l036"
+    "sayakbay-ms-current133:pdf004:l036",
+    "sayakbay-ms-current143:pdf086:l035"
   ],
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 2149602,
-  "released_english_words": 2149604,
+  "saved_draft_english_words": 2163344,
+  "released_english_words": 2163346,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
   "saved_page_ranges_by_source": {
@@ -88,6 +89,12 @@
       [
         6,
         37
+      ]
+    ],
+    "sayakbay-ms-current143": [
+      [
+        3,
+        190
       ]
     ],
     "sayakbay-ms-current144": [

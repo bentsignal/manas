@@ -131,6 +131,29 @@
     }
   },
   {
+    "id": "sayakbay-ms-current143",
+    "catalogue_url": "https://manuscript.bizdin.kg/manuscripts/143",
+    "download_url": "https://manuscript.bizdin.kg/static/media/pdf/web-143-Seitek-Saiakba-Karalaev.pdf",
+    "path": "sources/raw/manuscript-full-91-146/143.pdf",
+    "bytes": 106894340,
+    "sha256": "db22e2a5274260d0d1a06f22082ce535758ff594af9dc4843a57782d50547221",
+    "retrieved_at": "2026-09-15T00:00:00-04:00",
+    "completeness": "complete-manuscript-scan-transcribed",
+    "rights": "traditional oral verse manuscript; publication basis documented; scan/reproduction rights unverified",
+    "edition": "Sayakbay Karalaev manuscript, current inventory 143 / old inventory 964; Seytek cycle, 1946.",
+    "coverage": "Complete 192-image scan. PDF pages 3-190 contain 6,859 scanned text positions and first-pass English; page22 is a 31-row duplicate of folio2621 on page161, leaving6,828 canonical rows. Conservative reconciliation found4,535 secure printed counterparts, one cut-off unreadable baseline, and releases2,292 manuscript rows. Expected folio2482 is absent from the scan but its episode is represented by the translated printed witness.",
+    "publication_basis": {
+      "type": "traditional_folklore",
+      "scope": "Underlying traditional epic verse on individually inspected manuscript pages. Excludes catalogue metadata, folios, binding, layout, and images. Not a clearance of the scan reproduction.",
+      "rationale": "Manas is traditional oral folklore; Article 8 excludes works of folk creativity from copyright. Application to the underlying verse is an editorial assessment, not legal advice or permission from the archive.",
+      "evidence": [
+        "https://www.wipo.int/wipolex/en/legislation/details/22616",
+        "https://zakon.kg/law/zakon-kr-ob-avtorskom-prave-i-smezhnyh-pravah/"
+      ],
+      "assessed_at": "2026-09-16"
+    }
+  },
+  {
     "id": "sayakbay-ms-current144",
     "catalogue_url": "https://manuscript.bizdin.kg/manuscripts/144",
     "download_url": "https://manuscript.bizdin.kg/static/media/pdf/web-144-Seitek-Saiakba-Karalaev.pdf",

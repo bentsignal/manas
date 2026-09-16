@@ -486,5 +486,17 @@
       419
     ],
     "evidence": "Individually inspected /tmp/semetey-root-0417.png through0419.png, left column then right; two indented wraps. All 232 reconstructed source/English positions read in two blocks of116; two revised positions reread. Three whole-verse gaps retained. Direct model draft, no independent specialist review."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      417,
+      419
+    ],
+    "rows": 229,
+    "status": "draft; no independent specialist review",
+    "details": "Audited every included narrative row against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned; no row changes were required."
   }
 }

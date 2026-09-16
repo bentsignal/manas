@@ -499,5 +499,25 @@
       350
     ],
     "evidence": "Individually inspected /tmp/semetey-root-0348.png through /tmp/semetey-root-0350.png, left column then right; five indented wraps. All 229 reconstructed source verses read against English or held-verse record in consecutive blocks of 115 and 114. Three final revised pairs reread. Four whole unresolved verses excluded from 225 translated draft verses; no independent specialist review. Restored350:3:9 reread after lexical confirmation."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      350,
+      350
+    ],
+    "rows_checked": 73,
+    "status": "draft; no independent specialist review",
+    "details": "Audited all 73 included narrative rows on printed page 0350 against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned. Pages 0348-0349 remain outside this targeted audit.",
+    "targeted_qa_0348_0349": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [348, 349],
+      "rows_checked": 152,
+      "details": "Audited all 152 included narrative rows on printed pages 348 through 349 and corrected one direct-address error. Page 350 was outside this targeted audit entry."
+    }
   }
 }

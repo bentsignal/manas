@@ -3037,11 +3037,24 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "Every physical fragment across 420–439 accounted by translated source groups, eighteen unresolved exclusions,44 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, poetic incongruities, coarse curses and numeral discrepancies retained."
+    "scope": "Every physical fragment across 420–439 accounted by translated source groups, eighteen unresolved exclusions,44 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, poetic incongruities, coarse curses and numeral discrepancies retained.",
+    "targeted_qa_0430_0439": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [430, 439],
+      "rows_checked": 769,
+      "details": "Audited all 769 included narrative rows on printed pages 430 through 439 and corrected one speaker-attribution error. Pages 420 through 429 were outside this targeted audit."
+    },
+    "targeted_qa_0420_0429": {
+      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
+      "page_range": [420, 429], "rows_checked": 762,
+      "details": "Audited all 762 included narrative rows on pages 420 through 429 and corrected one clear meaning error while preserving strict row alignment."
+    }
   },
   "counts": {
     "english_verse_rows": 1531,
-    "english_words": 8469,
+    "english_words": 8474,
     "unresolved_source_rows": 18,
     "physical_narrative_fragments": 1561,
     "reconstructed_source_verses": 1549,
@@ -3055,7 +3068,7 @@
   "word_counts": {
     "method": "Alphabetic words with internal apostrophes/hyphens; verse only, notes and nonverse matter excluded.",
     "source_words": 5078,
-    "english_words": 8469,
+    "english_words": 8474,
     "all_source_verse_words": 5137
   }
 }

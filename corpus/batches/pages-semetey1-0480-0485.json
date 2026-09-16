@@ -650,7 +650,15 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages480–485; saved tmp/translation-semetey1-0480-0485/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages480–485; saved tmp/translation-semetey1-0480-0485/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa_0480_0485": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [480, 485],
+      "rows_checked": 455,
+      "details": "Audited all 455 included narrative rows on pages 480 through 485. No English row changes were required."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; root model drafted480–482, worker independently reread their images and every source-English pair and revised; worker directly drafted483–485; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
@@ -829,7 +837,7 @@
   ],
   "counts": {
     "translated_verse_rows": 455,
-    "english_words": 2465,
+    "english_words": 2492,
     "translated_source_fragments": 462,
     "physical_narrative_fragments": 468,
     "reconstructed_source_verses": 461,
@@ -862,19 +870,19 @@
       {
         "page": 483,
         "verse_rows": 75,
-        "english_words": 415,
+        "english_words": 419,
         "source_fragments": 78
       },
       {
         "page": 484,
         "verse_rows": 78,
-        "english_words": 395,
+        "english_words": 400,
         "source_fragments": 78
       },
       {
         "page": 485,
         "verse_rows": 75,
-        "english_words": 421,
+        "english_words": 439,
         "source_fragments": 75
       }
     ],

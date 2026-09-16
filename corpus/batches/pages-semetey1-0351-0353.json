@@ -387,5 +387,17 @@
       353
     ],
     "evidence": "Individually inspected /tmp/semetey-root-0351.png through /tmp/semetey-root-0353.png, left column then right; one indented wrap. All 233 reconstructed source verses read against English or held-verse record in consecutive blocks of 117 and 116. Four final revised pairs reread. One whole unresolved verse excluded from 232 translated draft verses; no independent specialist review."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      351,
+      353
+    ],
+    "rows": 232,
+    "status": "draft; no independent specialist review",
+    "details": "Audited every included narrative row against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned; no row changes were required."
   }
 }

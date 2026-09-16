@@ -2119,7 +2119,20 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages546–565; saved tmp/translation-semetey1-0546-0565/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages546–565; saved tmp/translation-semetey1-0546-0565/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
+      "page_range": [550, 559], "rows_checked": 765,
+      "details": "Audited all 765 included narrative rows on pages 550 through 559 and corrected one clear semantic error while preserving strict row alignment. Pages 546 through 549 and 560 through 565 were outside this targeted audit."
+    },
+    "targeted_qa_0546_0549": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [546, 549],
+      "rows_checked": 304,
+      "details": "Audited all 304 included narrative rows on pages 546 through 549. No English row changes were required. Pages 550 through 565 were outside this targeted audit entry."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
@@ -2606,7 +2619,7 @@
   ],
   "counts": {
     "translated_verse_rows": 1515,
-    "english_words": 8536,
+    "english_words": 8567,
     "translated_source_fragments": 1543,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1532,
@@ -2645,31 +2658,31 @@
       {
         "page": 550,
         "verse_rows": 78,
-        "english_words": 389,
+        "english_words": 390,
         "source_fragments": 78
       },
       {
         "page": 551,
         "verse_rows": 76,
-        "english_words": 407,
+        "english_words": 408,
         "source_fragments": 78
       },
       {
         "page": 552,
         "verse_rows": 77,
-        "english_words": 383,
+        "english_words": 386,
         "source_fragments": 77
       },
       {
         "page": 553,
         "verse_rows": 76,
-        "english_words": 422,
+        "english_words": 424,
         "source_fragments": 77
       },
       {
         "page": 554,
         "verse_rows": 76,
-        "english_words": 404,
+        "english_words": 405,
         "source_fragments": 76
       },
       {
@@ -2681,31 +2694,31 @@
       {
         "page": 556,
         "verse_rows": 76,
-        "english_words": 418,
+        "english_words": 428,
         "source_fragments": 77
       },
       {
         "page": 557,
         "verse_rows": 77,
-        "english_words": 388,
+        "english_words": 390,
         "source_fragments": 77
       },
       {
         "page": 558,
         "verse_rows": 77,
-        "english_words": 422,
+        "english_words": 424,
         "source_fragments": 77
       },
       {
         "page": 559,
         "verse_rows": 75,
-        "english_words": 435,
+        "english_words": 436,
         "source_fragments": 76
       },
       {
         "page": 560,
         "verse_rows": 74,
-        "english_words": 452,
+        "english_words": 453,
         "source_fragments": 76
       },
       {
@@ -2723,19 +2736,19 @@
       {
         "page": 563,
         "verse_rows": 77,
-        "english_words": 426,
+        "english_words": 428,
         "source_fragments": 78
       },
       {
         "page": 564,
         "verse_rows": 75,
-        "english_words": 437,
+        "english_words": 438,
         "source_fragments": 76
       },
       {
         "page": 565,
         "verse_rows": 75,
-        "english_words": 404,
+        "english_words": 408,
         "source_fragments": 78
       }
     ],

@@ -740,5 +740,246 @@
       ]
     },
     "note": "Four consecutive source positions are preserved by ID, page, PDF digest, bounding box, normalization method, and raw-text digest. English is withheld because the passage identifies a participant as a child and describes intimate contact; these positions receive no translation credit."
+  },
+  {
+    "id": "sayakbay-ms-current133:opening-unresolved",
+    "kind": "meaning_unresolved",
+    "status": "unresolved",
+    "source_id": "sayakbay-ms-current133",
+    "after_id": "semetey-2-2013:p1418:b004:l035",
+    "before_id": "sayakbay-ms-current133:pdf006:l001",
+    "source_line_ids": [
+      "sayakbay-ms-current133:pdf004:l001",
+      "sayakbay-ms-current133:pdf004:l002",
+      "sayakbay-ms-current133:pdf004:l003",
+      "sayakbay-ms-current133:pdf004:l004",
+      "sayakbay-ms-current133:pdf004:l005",
+      "sayakbay-ms-current133:pdf004:l006",
+      "sayakbay-ms-current133:pdf004:l007",
+      "sayakbay-ms-current133:pdf004:l008",
+      "sayakbay-ms-current133:pdf004:l009",
+      "sayakbay-ms-current133:pdf004:l010",
+      "sayakbay-ms-current133:pdf004:l011",
+      "sayakbay-ms-current133:pdf004:l012",
+      "sayakbay-ms-current133:pdf004:l013",
+      "sayakbay-ms-current133:pdf004:l014",
+      "sayakbay-ms-current133:pdf004:l015",
+      "sayakbay-ms-current133:pdf004:l016",
+      "sayakbay-ms-current133:pdf004:l017",
+      "sayakbay-ms-current133:pdf004:l018",
+      "sayakbay-ms-current133:pdf004:l019",
+      "sayakbay-ms-current133:pdf004:l020",
+      "sayakbay-ms-current133:pdf004:l021",
+      "sayakbay-ms-current133:pdf004:l022",
+      "sayakbay-ms-current133:pdf004:l023",
+      "sayakbay-ms-current133:pdf004:l024",
+      "sayakbay-ms-current133:pdf004:l025",
+      "sayakbay-ms-current133:pdf004:l026",
+      "sayakbay-ms-current133:pdf004:l027",
+      "sayakbay-ms-current133:pdf004:l028",
+      "sayakbay-ms-current133:pdf004:l029",
+      "sayakbay-ms-current133:pdf004:l030",
+      "sayakbay-ms-current133:pdf004:l031",
+      "sayakbay-ms-current133:pdf004:l032",
+      "sayakbay-ms-current133:pdf004:l033",
+      "sayakbay-ms-current133:pdf004:l034",
+      "sayakbay-ms-current133:pdf004:l035",
+      "sayakbay-ms-current133:pdf004:l036",
+      "sayakbay-ms-current133:folio002:missing-scan"
+    ],
+    "evidence": "research/working/current133/transcription/page-004.withheld.md; research/working/current133/transcription/SCAN-MAP.md",
+    "source": {
+      "url": "https://manuscript.bizdin.kg/static/media/pdf/web-133-Seitek-1-bolum-Saiakba-Karalaev.pdf",
+      "page": 4,
+      "sha256": "c276b5bb9f9e4a45ceaf79726e4eee0b0cf062b1c30407cda33740dce1840b4d",
+      "segments": [
+        {
+          "id": "sayakbay-ms-current133:pdf004:l001",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l002",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l003",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l004",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l005",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l006",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l007",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l008",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l009",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l010",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l011",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l012",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l013",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l014",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l015",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l016",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l017",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l018",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l019",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l020",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l021",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l022",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l023",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l024",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l025",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l026",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l027",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l028",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l029",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l030",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l031",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l032",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l033",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l034",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l035",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:pdf004:l036",
+          "raw": "[?]",
+          "bbox": null
+        },
+        {
+          "id": "sayakbay-ms-current133:folio002:missing-scan",
+          "raw": "[folio 2 absent from recovered scan; narrative line count unknown]",
+          "bbox": null
+        }
+      ]
+    },
+    "note": "Thirty-six visible folio-1 baselines remain unreadable after Sol-low, Astra-low, and a bounded Astra-medium review. PDF page 5 duplicates folio 1, and folio 2 is absent from the recovered scan, so its narrative-line extent is unknown. This marker receives no translation credit and blocks completeness."
   }
 ]

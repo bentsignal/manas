@@ -30,6 +30,9 @@ test('a visible source gap is not a translated verse and prevents completion',()
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,before_id:'absent'}]));
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,evidence:''}]));
  assert.throws(()=>validateRelease(rows,target,sources,[{...gap,source_line_ids:['s:1'],source:{sha256:'abc',segments:[{id:'s:1',raw:'damaged'}]}}]));
+ const leadingRows=[rows[0],{...rows[1],id:'t:1',source_id:'t'}];
+ const leadingGap={...gap,id:'leading-gap',source_id:'t',after_id:'s:1',before_id:'t:1',source_line_ids:['t:lost'],source:{sha256:'def',segments:[{id:'t:lost',raw:'missing opening'}]}};
+ assert.equal(validateRelease(leadingRows,target,[...sources,{id:'t',sha256:'def',publication_basis:'Documented permission'}],[leadingGap]).sourceGaps,1);
 });
 
 test('withheld content has a distinct marker and never increases translated counts',()=>{

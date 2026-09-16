@@ -108,6 +108,29 @@
     }
   },
   {
+    "id": "sayakbay-ms-current133",
+    "catalogue_url": "https://manuscript.bizdin.kg/manuscripts/133",
+    "download_url": "https://manuscript.bizdin.kg/static/media/pdf/web-133-Seitek-1-bolum-Saiakba-Karalaev.pdf",
+    "path": "sources/raw/manuscript-full-91-146/133.pdf",
+    "bytes": 37416572,
+    "sha256": "c276b5bb9f9e4a45ceaf79726e4eee0b0cf062b1c30407cda33740dce1840b4d",
+    "retrieved_at": "2026-09-15T00:00:00-04:00",
+    "completeness": "complete-manuscript-scan-prefix-transcribed",
+    "rights": "traditional oral verse manuscript; publication basis documented; scan/reproduction rights unverified",
+    "edition": "Sayakbay Karalaev manuscript, current inventory 133 / old inventory 954; Seytek part I, 1940.",
+    "coverage": "Complete 103-image scan. The securely missing pre-edition prefix is PDF page 4 and pages 6-37. Pages 4 and 5 duplicate folio 1; folio 2 is absent from the recovered scan. Pages 6-37 contain 1,196 first-pass translated narrative baselines; the 36 positions on page 4 remain explicitly unresolved. PDF page 38 begins the first released printed Seytek row.",
+    "publication_basis": {
+      "type": "traditional_folklore",
+      "scope": "Underlying traditional epic verse on individually inspected manuscript pages. Excludes catalogue metadata, folios, binding, layout, and images. Not a clearance of the scan reproduction.",
+      "rationale": "Manas is traditional oral folklore; Article 8 excludes works of folk creativity from copyright. Application to the underlying verse is an editorial assessment, not legal advice or permission from the archive.",
+      "evidence": [
+        "https://www.wipo.int/wipolex/en/legislation/details/22616",
+        "https://zakon.kg/law/zakon-kr-ob-avtorskom-prave-i-smezhnyh-pravah/"
+      ],
+      "assessed_at": "2026-09-16"
+    }
+  },
+  {
     "id": "sayakbay-ms-current145",
     "catalogue_url": "https://manuscript.bizdin.kg/manuscripts/145",
     "download_url": "https://manuscript.bizdin.kg/static/media/pdf/web-145-Seitek-Saiakba-Karalaev.pdf",

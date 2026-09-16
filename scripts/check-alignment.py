@@ -44,7 +44,12 @@ for source_id, published in by_source.items():
     anchors = [index[row.get('source_line_ids', [row['id']])[0]]
                for row in rows if row['source_id'] == source_id]
     assert anchors == sorted(anchors), 'Translated source anchors are reordered'
-    region = raw[index[published[0]]:index[published[-1]]+1]
+    # Include registered leading/trailing gaps for a source even when no
+    # translated row exists on the damaged or missing opening/closing leaf.
+    gap_positions = [index[ident] for ident, (gap, _) in gap_ids.items()
+                     if gap['source_id'] == source_id and ident in index]
+    bounds = [index[published[0]], index[published[-1]], *gap_positions]
+    region = raw[min(bounds):max(bounds)+1]
     expected = []
     for r in region:
         if r['text'].strip() == 'www.bizdin.kg': continue

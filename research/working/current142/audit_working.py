@@ -14,7 +14,7 @@ WORK = ROOT / "research/working/current142"
 PRINTED = ROOT / "sources/extracted/seytek-2012.lines.jsonl"
 SHA = "2b1fd33d35b9fec662724180743e44a26bc44d8b347d5f99c373acf98cb6c73f"
 WORDS = re.compile(r"[^\W\d_]+(?:[’'-][^\W\d_]+)*")
-COUNTERPART = re.compile(r"Secure printed counterpart: (seytek-2012:p\d+:b\d+:l\d+)")
+COUNTERPART = re.compile(r"(seytek-2012:p\d+:b\d+:l\d+)")
 FIRST_PRINTED_ID = "seytek-2012:p0913:b004:l002"
 LAST_PRINTED_ID = "seytek-2012:p1005:b002:l006"
 
@@ -44,6 +44,9 @@ def main() -> None:
         for source_id in release_row.get("source_line_ids", [release_row["id"]])
         if source_id.startswith("seytek-2012:")
     }
+    raw_interval_ids = {
+        row["id"] for row in printed_rows[interval_start:interval_end + 1]
+    }
     interval_ids = {
         row["id"]
         for row in printed_rows[interval_start:interval_end + 1]
@@ -71,16 +74,22 @@ def main() -> None:
     assert not duplicates, f"duplicate row ids: {duplicates[:5]}"
 
     counterpart_ids = []
+    monotonic_counterpart_ids = []
     for row in rows:
         match = COUNTERPART.search(row.get("uncertainty_note", ""))
         if match:
             assert match.group(1) in printed_ids, f"unknown counterpart in {row['id']}"
-            assert match.group(1) in interval_ids, f"counterpart outside inventory142 interval in {row['id']}"
+            assert match.group(1) in raw_interval_ids, f"counterpart outside inventory142 interval in {row['id']}"
             assert normalized(row["text"]) == normalized(printed_by_id[match.group(1)]["text"]), (
                 f"counterpart text mismatch in {row['id']}: {match.group(1)}"
             )
             counterpart_ids.append(match.group(1))
-    counterpart_positions = [printed_position[value] for value in counterpart_ids]
+            # Folio 2356 / PDF 39 is a directly verified reordered/repeated
+            # witness leaf; audit its exact matches but omit it from the global
+            # monotonicity sequence.
+            if row["page"] != 39:
+                monotonic_counterpart_ids.append(match.group(1))
+    counterpart_positions = [printed_position[value] for value in monotonic_counterpart_ids]
     inversions = sum(
         right <= left
         for left, right in zip(counterpart_positions, counterpart_positions[1:])
@@ -103,7 +112,9 @@ def main() -> None:
         "recorded_counterpart_adjacent_inversions": inversions,
         "reused_recorded_counterpart_assignments": len(counterpart_ids) - len(set(counterpart_ids)),
         "printed_interval_lines": len(interval_ids),
+        "recorded_counterparts_already_released": len(interval_ids & set(counterpart_ids)),
         "printed_interval_lines_not_yet_mapped": len(interval_ids - set(counterpart_ids)),
+        "monotonicity_exception_pages": [39],
     }
     print(json.dumps(report, ensure_ascii=False))
 

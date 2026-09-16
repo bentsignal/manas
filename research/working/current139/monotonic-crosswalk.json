@@ -1,0 +1,40 @@
+{
+  "inventory": 139,
+  "old_inventory": 960,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/139.pdf",
+    "sha256": "81ba18f59c3e1015b7cbb8191dd8e940a29857a8fef3cb745ef0cd91ef4f6b7d",
+    "pdf_pages": 299,
+    "narrative_pdf_pages": [3, 297],
+    "bibliographic_folio_range": [1683, 2022],
+    "catalogue_narrative_count": 8179,
+    "title_leaf_page_count": 393
+  },
+  "released_witness_envelope": {
+    "source_id": "seytek-2012",
+    "first_id": "seytek-2012:p0644:b003:l012",
+    "last_id": "seytek-2012:p0910:b002:l025",
+    "first_ordinal": 344122,
+    "last_ordinal": 365364,
+    "inclusive_lines": 21243,
+    "english_whitespace_words": 108258,
+    "english_regex_tokens": 108130,
+    "status": "outer monotonic envelope, not a one-to-one manuscript span"
+  },
+  "boundaries": {
+    "opening": "Чыңаалаган душмандын",
+    "closing": "Өйдө-ылдый болуп ээликкен,",
+    "closing_basis": "folio 2022 immediately precedes current 140 folio 2023 and its exact released opening"
+  },
+  "completion_result": {
+    "catalogue_lines": 8179,
+    "released_outer_envelope_lines": 21243,
+    "catalogue_minus_outer_envelope": -13064,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The printed edition rearranges or interleaves source material inside this outer envelope. The 21,243-line envelope must not be treated as 21,243 direct manuscript counterparts, and its difference from 8,179 is not a physical-line deficit."
+  },
+  "inventory_960_page_145_anomaly": {
+    "finding": "not evidence of a separate untranslated continuation",
+    "details": "A local page 145 is structurally possible in an item whose title leaf reports 393 pages. The acquired scan and bibliography identify the item as Seytek part VII ending at folio 2022. The citation does not establish a distinct Kenen continuation boundary or any addable untranslated lines; mixed/local pagination or a citation error remains unresolved."
+  }
+}

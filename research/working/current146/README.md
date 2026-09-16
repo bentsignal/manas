@@ -3,7 +3,7 @@
 Source: `sources/raw/manuscript-full-91-146/146.pdf`  
 SHA-256: `f13de4f4bc48f2da4eb502e29e9b2b340648255ef7769b069e86d24c617319a4`
 
-All two hundred forty-eight PDF pages were rendered at high resolution and inspected as page images. Pages 5–251 contain the assigned manuscript folio sequence 388–634; page 252 is the blank outside back cover. The photographed numeral on page 251 appears to read 632 rather than the assigned 634 and remains flagged for metadata review. Folio numbers and the closing heading are page furniture rather than verse.
+All two hundred forty-eight PDF pages were rendered at high resolution and inspected as page images. Pages 5–251 contain manuscript folios beginning at 388 and ending at photographed folio 632; page 252 is the unnumbered blank outside back cover. Direct image review confirms photographed folios 630–632 on PDF pages 249–251; earlier provisional values 632–634 were corrected. Folio numbers and the closing heading are page furniture rather than verse.
 
 The JSONL preserves one row for each verse baseline counted in reading order. This is deliberately a completion-first pass: pages 5–251 have received line-by-line review and translation, and page 252 has been inspected and documented as blank. The reviewed counts corrected page 5 from 37 to 36 baselines and page 6 from 39 to 33. Uncertain readings are preserved with explicit notes instead of being silently normalized or omitted. Pages 27, 39, 42, and 60 received independent Astra-low audits after cross-witness evidence exposed substantial errors in the initial Sol-low passes.
 
@@ -253,9 +253,9 @@ The JSONL preserves one row for each verse baseline counted in reading order. Th
 | 246 | 629 | 36 | verse; reviewed |
 | 247 | 630 | 38 | verse; reviewed |
 | 248 | 631 | 35 | verse; reviewed |
-| 249 | 632 | 36 | verse; reviewed; photographed folio numeral faint/ambiguous |
-| 250 | 633 | 34 | verse; reviewed |
-| 251 | 634 | 12 | verse; reviewed; one closing heading preserved and excluded from verse counting; photographed folio appears to read 632 |
+| 249 | 630 | 36 | verse; reviewed; photographed folio confirmed |
+| 250 | 631 | 34 | verse; reviewed; photographed folio confirmed |
+| 251 | 632 | 12 | verse; reviewed; one closing heading preserved and excluded from verse counting; photographed folio confirmed |
 | 252 | — | 0 | blank outside back cover; inspected |
 | **Total** | | **8,733** | |
 

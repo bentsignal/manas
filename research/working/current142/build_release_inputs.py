@@ -5,6 +5,7 @@ from collections import defaultdict
 import json
 from pathlib import Path
 import re
+import sys
 import unicodedata
 
 
@@ -51,7 +52,18 @@ def main() -> None:
     start = printed_all_by_id[FIRST_PRINTED_ID]
     end = printed_all_by_id[LAST_PRINTED_ID]
     assert start <= end
-    printed = printed_all[start:end + 1]
+    sys.path.insert(0, str(ROOT / "scripts"))
+    from release_store import iter_release
+    released_printed_ids = {
+        source_id
+        for release_row in iter_release(ROOT)
+        for source_id in release_row.get("source_line_ids", [release_row["id"]])
+        if source_id.startswith("seytek-2012:")
+    }
+    printed = [
+        row for row in printed_all[start:end + 1]
+        if row["id"] in released_printed_ids
+    ]
     assert len(printed) == 7320
     printed_by_id = {row["id"]: row for row in printed}
     manuscript_by_id = {row["id"]: row for row in rows}

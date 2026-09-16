@@ -1,0 +1,50 @@
+{
+  "inventory": 141,
+  "old_inventory": 962,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/141.pdf",
+    "sha256": "15c45ada8a04ab9c5300823d451f8954ca69d6cbadbe051f838cf51348aadfaf",
+    "pdf_pages": 123,
+    "narrative_pdf_pages": [3, 122],
+    "folios": [2201, 2320],
+    "narrative_leaves": 120,
+    "catalogue_narrative_count": 6079,
+    "title_leaf_page_count": 119
+  },
+  "released_witness": {
+    "source_id": "seytek-2012",
+    "first_id": "seytek-2012:p0910:b002:l026",
+    "last_id": "seytek-2012:p0986:b002:l029",
+    "first_ordinal": 365365,
+    "last_ordinal": 371444,
+    "inclusive_lines": 6080,
+    "english_whitespace_words": 32177,
+    "english_regex_tokens": 32158
+  },
+  "boundaries": {
+    "opening": "Кабарга келген ат турат,",
+    "closing": "Теги жанын аябай,"
+  },
+  "secure_boundary_blocks": [
+    {
+      "manuscript_pdf_page": 3,
+      "folio": 2201,
+      "physical_lines": 50,
+      "release_ordinals": [365365, 365414],
+      "status": "secure sequential mapping"
+    },
+    {
+      "manuscript_pdf_page": 122,
+      "folio": 2320,
+      "physical_lines": 46,
+      "release_ordinals": [371399, 371444],
+      "status": "secure sequential mapping"
+    }
+  ],
+  "completion_result": {
+    "secure_released_lines": 6080,
+    "catalogue_minus_release": -1,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The released printed span has one more line than the title-leaf count. Exact sequential boundary leaves and continuous episode order show full printed representation; the one-line difference is count or lineation, not evidence of an omitted manuscript segment."
+  }
+}

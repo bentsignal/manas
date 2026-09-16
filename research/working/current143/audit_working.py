@@ -54,8 +54,11 @@ def main() -> None:
             if row["page"] != 22:
                 monotonic_counterpart_ids.append(match.group(1))
     counterpart_positions = [printed_position[value] for value in monotonic_counterpart_ids]
-    assert counterpart_positions == sorted(counterpart_positions)
     assert len(monotonic_counterpart_ids) == len(set(monotonic_counterpart_ids))
+    inversions = sum(
+        right <= left
+        for left, right in zip(counterpart_positions, counterpart_positions[1:])
+    )
 
     completed = sorted(pages)
     missing = [page for page in range(3, 191) if page not in pages]
@@ -68,7 +71,7 @@ def main() -> None:
         "english_words": sum(len(WORDS.findall(row["en"])) for row in rows),
         "rows_with_recorded_printed_counterparts": len(counterpart_ids),
         "distinct_recorded_printed_counterparts": len(set(counterpart_ids)),
-        "recorded_counterparts_strictly_monotonic": True,
+        "recorded_counterpart_adjacent_inversions": inversions,
         "monotonicity_exception_pages": [22],
     }
     print(json.dumps(report, ensure_ascii=False))

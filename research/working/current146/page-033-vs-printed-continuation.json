@@ -1,0 +1,219 @@
+{
+  "manuscript": "research/working/current146/page-033.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 35,
+  "lines_with_candidates": 4,
+  "exact_match_lines": 3,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l001",
+      "manuscript_text": "Керимче калыр чоң жагынан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l002",
+      "manuscript_text": "Укум калба деп уктум,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l003",
+      "manuscript_text": "Төрү түрлүү калктардын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l004",
+      "manuscript_text": "Аты Кенен туулуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l005",
+      "manuscript_text": "Тукум калды деп уктум.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l006",
+      "manuscript_text": "Мекен кылып Ала-Тоо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l007",
+      "manuscript_text": "Коңур калды деп уктум,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l008",
+      "manuscript_text": "Каракуманга барганда,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l009",
+      "manuscript_text": "Калтай жагынан салганда,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l010",
+      "manuscript_text": "Качып канын соо кылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l011",
+      "manuscript_text": "Калтайга доо кылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l012",
+      "manuscript_text": "Канын алды деп уктум.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l013",
+      "manuscript_text": "Оң жагынан үч жүрүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l014",
+      "manuscript_text": "Опсуз жаңжал кылды дейт,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l015",
+      "manuscript_text": "Маңдай-тескей турушуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l016",
+      "manuscript_text": "Мылтык атып, жаа тартып,",
+      "matches": [
+        {
+          "index": 2893,
+          "id": "seytek-1991-continuation:p0345:b006:l002",
+          "text": "Мылтык атып, жаа тартып,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l017",
+      "manuscript_text": "Былчылдашып урушуп,",
+      "matches": [
+        {
+          "index": 2894,
+          "id": "seytek-1991-continuation:p0345:b006:l003",
+          "text": "Былчылдашып урушуп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l018",
+      "manuscript_text": "Жазайыл чоң, жаа атып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l019",
+      "manuscript_text": "Жаман кыргыз салды дейт.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l020",
+      "manuscript_text": "Өрөткүл келип оро жүрүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l021",
+      "manuscript_text": "Жазасыз жүргөн кытайын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l022",
+      "manuscript_text": "Буйткада жайлап чаптырып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l023",
+      "manuscript_text": "Өз дүйнөсүн чачтырып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l024",
+      "manuscript_text": "Өрөткүл кайра кайтыптыр.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l025",
+      "manuscript_text": "Ал журттун мизин кайтарып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l026",
+      "manuscript_text": "Баатыры Бадыкан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l027",
+      "manuscript_text": "Бадырайган ал кытай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l028",
+      "manuscript_text": "Кайра айтар жан калбай,",
+      "matches": [
+        {
+          "index": 989,
+          "id": "seytek-1991-continuation:p0325:b001:l026",
+          "text": "Каяша айтар жан калбай,",
+          "score": 0.8947
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l029",
+      "manuscript_text": "Кара жолтой ал бүркүт,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l030",
+      "manuscript_text": "Кырган сындай түшүрүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l031",
+      "manuscript_text": "Киши бетин каралбай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l032",
+      "manuscript_text": "Башы кара, буту айры,",
+      "matches": [
+        {
+          "index": 195,
+          "id": "seytek-1991-continuation:p0317:b001:l025",
+          "text": "Башы кара, буту айры,",
+          "score": 1.0
+        },
+        {
+          "index": 2165,
+          "id": "seytek-1991-continuation:p0338:b001:l016",
+          "text": "Башы кара, буту айры,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l033",
+      "manuscript_text": "Адам жоон бөзгө албай,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l034",
+      "manuscript_text": "Каттаганды байлатып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf033:l035",
+      "manuscript_text": "Кабылан канын түшүрүп.",
+      "matches": []
+    }
+  ]
+}

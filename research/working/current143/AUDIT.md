@@ -5,7 +5,9 @@ SHA-256: `db22e2a5274260d0d1a06f22082ce535758ff594af9dc4843a57782d50547221`
 
 ## Physical extent and count
 
-The full scan has 192 PDF pages. PDF page 1 is the outside front cover, page 2 is the title/catalogue leaf, PDF pages 3–190 are the 188 consecutive photographed narrative leaves numbered 2463–2650, page 191 is the reverse/closing leaf, and page 192 is the outside back cover.
+The full scan has 192 PDF pages. PDF page 1 is the outside front cover, page 2 is the title/catalogue leaf, PDF pages 3–190 are 188 photographed narrative-leaf positions, page 191 is the reverse/closing leaf, and page 192 is the outside back cover.
+
+The scan is not a completely consecutive run of distinct leaves. PDF page 22 visibly bears folio number **2621** and is a duplicate photograph of the leaf also present at PDF page 161. Expected folio **2482** is absent between PDF pages 21 (folio 2481) and 23 (folio 2483). The diplomatic pass preserves both scanned source positions and will exclude one copy as a documented duplicate during release compilation; the absent folio requires an explicit source-gap record. This corrects the earlier compact audit's assumption that every page from 3 through 190 mapped mechanically to folios 2463 through 2650.
 
 The physical narrative count is **6,827 lines**. This is stated on the title leaf (`6827 строк`) and is supported by the manuscript's own per-leaf line tallies: for example, PDF page 3 is marked 35 and contains 35 narrative baselines; PDF page 190 is marked 39 and contains 39 narrative baselines. The average implied density is 36.31 lines across 188 narrative leaves, consistent with the scan. This audit treats 6,827 as the physical/copyist count; it does not force that total onto the edited witness's different lineation.
 

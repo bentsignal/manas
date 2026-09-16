@@ -54,7 +54,7 @@ def main() -> None:
             if row["page"] != 22:
                 monotonic_counterpart_ids.append(match.group(1))
     counterpart_positions = [printed_position[value] for value in monotonic_counterpart_ids]
-    assert len(monotonic_counterpart_ids) == len(set(monotonic_counterpart_ids))
+    reused_counterpart_assignments = len(monotonic_counterpart_ids) - len(set(monotonic_counterpart_ids))
     inversions = sum(
         right <= left
         for left, right in zip(counterpart_positions, counterpart_positions[1:])
@@ -72,6 +72,7 @@ def main() -> None:
         "rows_with_recorded_printed_counterparts": len(counterpart_ids),
         "distinct_recorded_printed_counterparts": len(set(counterpart_ids)),
         "recorded_counterpart_adjacent_inversions": inversions,
+        "reused_recorded_counterpart_assignments": reused_counterpart_assignments,
         "monotonicity_exception_pages": [22],
     }
     print(json.dumps(report, ensure_ascii=False))

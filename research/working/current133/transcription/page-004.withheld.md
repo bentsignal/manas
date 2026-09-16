@@ -1,8 +1,8 @@
 # Page 004: transcription withheld
 
-Source ID: `sayakbay-ms-current133`  
-PDF: `sources/raw/manuscript-full-91-146/133.pdf`  
-PDF page: **4 only**; duplicate page 005 was not inspected.  
+Source ID: `sayakbay-ms-current133`
+PDF: `sources/raw/manuscript-full-91-146/133.pdf`
+PDF page: **4 only**; duplicate page 005 was not inspected.
 Verified SHA-256: `c276b5bb9f9e4a45ceaf79726e4eee0b0cf062b1c30407cda33740dce1840b4d`
 
 This is a visual-review and withholding record, **not a reviewed transcription**. All 36 requested narrative positions are accounted: 10 above the horizontal rule and 26 below. Every position remains withheld. The manuscript is not being declared intrinsically unreadable: the limitation is this reader's inability to resolve enough of its historical letter forms and vocabulary to supply dependable line-level transcription and English. Recognizable fragments are retained below; they do not certify the remainder of a line.

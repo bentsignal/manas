@@ -1,0 +1,34 @@
+{
+  "inventory": 140,
+  "old_inventory": 961,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/140.pdf",
+    "sha256": "7ef8993430c266e7a896136405ddc345d828a347e5e46ebf92ea5284a893f17c",
+    "pdf_pages": 181,
+    "narrative_pdf_pages": [3, 179],
+    "folios": [2023, 2200],
+    "narrative_leaves": 178,
+    "catalogue_narrative_count": 7905,
+    "title_leaf_page_count": 177
+  },
+  "released_witness": {
+    "source_id": "seytek-2012",
+    "first_id": "seytek-2012:p0811:b002:l039",
+    "last_id": "seytek-2012:p0910:b002:l025",
+    "first_ordinal": 357460,
+    "last_ordinal": 365364,
+    "inclusive_lines": 7905,
+    "english_whitespace_words": 40996,
+    "english_regex_tokens": 40974
+  },
+  "boundaries": {
+    "opening": "Атасы Кайып бай болгон,",
+    "closing": "Өйдө-ылдый болуп ээликкен,"
+  },
+  "completion_result": {
+    "secure_released_lines": 7905,
+    "catalogue_minus_release": 0,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The title-leaf line total exactly equals the inclusive released span, with matching opening and closing sequences. The one-page title-versus-foliation discrepancy does not affect narrative line coverage."
+  }
+}

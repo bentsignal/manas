@@ -1,0 +1,48 @@
+{
+  "inventory": 134,
+  "old_inventory": 955,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/134.pdf",
+    "sha256": "517d7758719ae2beb23f5a361ee82faa12b1d7aab72aaa77cbd67089f539cbc3",
+    "pdf_pages": 220,
+    "narrative_pdf_pages": [4, 219],
+    "narrative_image_count": 216,
+    "cumulative_pagination": [102, 317],
+    "local_pagination": [1, 216],
+    "title_leaf_reported_pages": 215,
+    "catalogue_narrative_count": 6480
+  },
+  "released_witness_envelope": {
+    "source_id": "seytek-2012",
+    "first_id": "seytek-2012:p0077:b003:l001",
+    "first_ordinal": 299676,
+    "first_text": "Ашуусу бийик тоо ашам,",
+    "last_id": "seytek-2012:p0161:b002:l040",
+    "last_ordinal": 306258,
+    "last_text": "Чындаган зор бел экен,",
+    "next_inventory_first_id": "seytek-2012:p0161:b003:l001",
+    "next_inventory_first_ordinal": 306259,
+    "next_inventory_first_text": "Кечээ Жылгындынын оюнда,",
+    "inclusive_lines": 6583,
+    "english_whitespace_words": 35148,
+    "english_regex_tokens": 35088,
+    "status": "adjacent-boundary editorial envelope; terminal leaf overlaps later printed positions"
+  },
+  "terminal_leaf_evidence": {
+    "first_secure_ordered_anchor_id": "seytek-2012:p0162:b003:l023",
+    "first_secure_ordered_anchor_ordinal": 306361,
+    "anchor_lines": [
+      "Жолборс абам Күлчоро",
+      "Көп адам жолборс дээр экен"
+    ],
+    "second_anchor_ordinal": 306378,
+    "interpretation": "The physical terminal leaf maps beyond inventory 135's early opening anchor, demonstrating boundary overlap or editorial rearrangement rather than untranslated terminal text."
+  },
+  "completion_result": {
+    "catalogue_lines": 6480,
+    "released_outer_envelope_lines": 6583,
+    "catalogue_minus_outer_envelope": -103,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The printed envelope contains 103 more positions than the catalogue count, while direct terminal-leaf matches occur after the adjacent inventory opening. This is overlap/lineation evidence, not a missing-line measure."
+  }
+}

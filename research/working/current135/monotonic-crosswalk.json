@@ -1,0 +1,35 @@
+{
+  "inventory": 135,
+  "old_inventory": 956,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/135.pdf",
+    "sha256": "6450bab80b10b2e6027247afd33c3058af077268def144f88896ed03d60fd26b",
+    "pdf_pages": 350,
+    "narrative_pdf_pages": [4, 349],
+    "photographed_terminal_folio": 662,
+    "catalogue_narrative_count": 10833,
+    "title_leaf_reported_pages": 345
+  },
+  "released_witness_envelope": {
+    "source_id": "seytek-2012",
+    "first_secure_early_folio_anchor_id": "seytek-2012:p0161:b003:l001",
+    "first_ordinal": 306259,
+    "first_anchor": "Кечээ Жылгындынын оюнда,",
+    "last_ordinal": 317180,
+    "last_id": "seytek-2012:p0298:b003:l012",
+    "last_text": "Музоо багып кайгырдым.",
+    "next_inventory_first_ordinal": 317181,
+    "next_inventory_first_text": "Айрылдым эки ботомон,",
+    "inclusive_lines": 10922,
+    "english_whitespace_words": 57603,
+    "english_regex_tokens": 57458,
+    "status": "outer editorial envelope; opening is the earliest secure sampled early-folio anchor"
+  },
+  "completion_result": {
+    "catalogue_lines": 10833,
+    "released_outer_envelope_lines": 10922,
+    "catalogue_minus_outer_envelope": -89,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The printed envelope has 89 more positions than the catalogue count. The small excess is consistent with editorial lineation or interleaving and supplies no evidence of an untranslated manuscript segment."
+  }
+}

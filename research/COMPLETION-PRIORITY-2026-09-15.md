@@ -27,13 +27,13 @@ The widely repeated four-part archival breakdown is incompatible:
 | Kenen, Alymsaryk, Kulansaryk | 15,186 |
 | **Total** | **500,553** |
 
-The Manas Encyclopedia independently assigns *Semetey* old inventories 925–953 and calls them 316,157 lines. The acquired 2013 *Seytek* edition expressly states that Sayakbay's recorded *Seytek* is 84,697 lines. These facts make it unsafe to call the project's entire deficit “missing Seytek.”
+The Manas Encyclopedia assigns *Semetey* old inventories 925–953 and calls them 316,157 lines. The live catalogue makes that count physically implausible and instead points near 216,157. The acquired 2013 *Seytek* edition expressly states that Sayakbay's recorded *Seytek* is 84,697 lines. These facts make it unsafe to call the project's entire deficit “missing Seytek” or “missing Semetey.”
 
 ## Why the earlier Seytek allocation was rejected
 
-The public manuscript catalogue currently supplies line counts for old *Semetey* inventories 927–953 totaling **198,100** lines. Old 925 has 203 pages but no online line count; old 926 is not cleanly identified in the catalogue. Those two units cannot plausibly supply the **118,057** lines needed to reach 316,157. The archive total therefore uses a broader or different counting scope than the simple catalogue fields.
+The public manuscript catalogue supplies line counts for old *Semetey* inventories 927–953 totaling **198,100** lines. Old 925/current 104 and old 926/current 105 have 203 and 400 pages but no online line counts. Those two units cannot plausibly supply the **118,057** lines needed to reach 316,157; they could plausibly supply the **18,057** needed to reach 216,157. The 2013 edition's 216,333 extracted source rows independently sit near that corrected scale. No public evidence currently supports a 100,000-line *Semetey* deficit.
 
-For *Seytek*, known catalogue counts for old 954–966 total **76,568**. Including old 967's 9,000 lines gives **85,568**, close to the edition's reported 84,697 and far below 196,936. The three blank online counts in old 961–963 cannot plausibly add roughly 111,000 lines across their reported page span.
+For *Seytek*, the terminal pair old 966/current 145 (**6,186 lines**) and old 967/current 146 (**9,000 lines**) sums exactly to the independently reported **15,186-line continuation**. Removing old 966 from the core leaves 70,382 known lines in old 954–965; the three blank counts in old 961–963 need a plausible 14,315 lines to reach the 84,697-line core target. The catalogue therefore supports the normal 84,697 + 15,186 boundary far better than the 196,936 classification.
 
 These checks show that the 218,787 / 196,936 table uses different boundaries, includes additional material, or contains a classification/counting error. Its arithmetic agreement with the project's 113,095-line deficit is not evidence that the missing text is all *Seytek*.
 
@@ -51,10 +51,10 @@ The site is therefore **113,095 rows short of the 500,553 target**, but source r
 
 ## Completion-first acquisition order
 
-1. Reconcile old *Semetey* inventories 925–953 against the 316,157-line archival claim and the 216,333 released rows. Locate full manuscript scans or a transcription of material absent from the 2013 edition.
-2. Obtain the archive's notebook-to-line crosswalk and counting protocol for the complete 500,553-line total, including alternate takes, copies, repeated performances, prose, and continuation boundaries.
-3. Locate the complete Kenen–Alymsaryk–Kulansaryk manuscripts rather than relying on the abridged 3,154-row printed witness.
-4. Reconcile the smaller *Manas* shortfall and any edition-versus-archive lineation differences.
+1. Obtain complete scans or transcriptions of old 966–967/current 145–146. Their 15,186 lines are the exact Kenen–Alymsaryk–Kulansaryk witness; the released 3,154-row printing explicitly cut repetitions and weaker lines and ends in prose.
+2. Obtain the archive's notebook-to-line crosswalk and counting protocol for the aggregate 500,553 claim, including alternate takes, copies, repeated performances, prose, and section boundaries. The public component arithmetic currently leaves an unexplained 100,000-line contradiction.
+3. Verify the blank counts for old *Semetey* 925–926 and compare full old 925–953 scans against the 2013 edition. Treat approximately 216,000 lines as the evidenced scale unless manuscript comparison proves omissions.
+4. Reconcile the smaller *Manas* difference and any edition-versus-archive lineation differences.
 5. Treat the six-volume 2015/2017 *Semetey* and two-volume 2018 *Seytek* editions as candidate witnesses until page/line comparison proves whether either adds source text.
 
-Translation-quality issues remain registered in batch notes and `corpus/source-gaps.json`. They are deferred until every obtainable source position has at least a first-pass English rendering.
+Translation-quality issues remain registered in batch notes and `corpus/source-gaps.json`. Completion-first passes over the 925 semantically unresolved regions are now being prepared; explicit withheld and irrecoverably damaged regions remain registered separately.

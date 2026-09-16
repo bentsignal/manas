@@ -2038,7 +2038,10 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final1542English verses have unique canonical first-source IDs; grouped fragments and nonverse/unresolved exclusions account for every extraction record on64–83 except20watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final1542English verses have unique canonical first-source IDs; grouped fragments and nonverse/unresolved exclusions account for every extraction record on64–83 except20watermarks.",
+    "targeted_qa_0080_0083": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[80,83],"rows_checked":307,"details":"Audited all 307 included narrative rows on printed pages 80 through 83 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."},
+    "targeted_qa_0070_0079": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[70,79],"rows_checked":774,"details":"Audited all 774 included narrative rows on printed pages 70 through 79 against their exact Kyrgyz source rows; corrected one literalized epic epithet for Kanykei on page 73. Pages 64–69 and 80–83 were outside this scoped pass."},
+    "targeted_qa_0064_0069": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[64,69],"rows_checked":461,"details":"Audited all 461 included narrative rows on printed pages 64 through 69 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."}
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Dictionary and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {

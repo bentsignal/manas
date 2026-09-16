@@ -431,6 +431,17 @@
     "evidence": "Individually inspected /tmp/semetey-root-0153.png through0155.png, left column then right, six indented wraps grouped. Pair review pending.",
     "pair_review": "All228 reconstructed source/English positions individually read in source order in two blocks115+113 after all three individual page images. Six indented wraps group234physical narrative fragments; one wholly unresolved verse withheld with exact provenance, leaving227English rows. Repetitions, named deaths and negative/rhetorical constructions retained; same-agent review only."
   },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      153,
+      155
+    ],
+    "rows_checked": 227,
+    "scope": "Every included narrative row on printed pages 153–155 was compared with its exact Kyrgyz source row; one lexical error was corrected without changing source IDs, exclusions, or row count."
+  },
   "counts": {
     "english_verse_rows": 227,
     "english_words": 1407,

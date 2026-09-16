@@ -2010,7 +2010,9 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages242–261; saved tmp/translation-semetey1-0242-0261/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages242–261; saved tmp/translation-semetey1-0242-0261/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa_0250_0259": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[250,259],"rows_checked":777,"details":"Audited all 777 included narrative rows on printed pages 250 through 259 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 242–249 and 260–261 were outside this scoped pass."},
+    "targeted_qa_0242_0249": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[242,249],"rows_checked":621,"details":"Audited all 621 included narrative rows on pages 242 through 249 and corrected two clear semantic errors while preserving strict row alignment."}
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {

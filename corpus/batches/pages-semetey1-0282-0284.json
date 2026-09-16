@@ -360,5 +360,17 @@
       284
     ],
     "evidence": "Individually inspected /tmp/semetey-root-0282.png through0284.png, left column then right; indented282:3:24 joined. All233 reconstructed source/English pairs read in two blocks117+116 after lexical corrections. No whole unresolved verses in this batch; material uncertainties documented per line."
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      282,
+      284
+    ],
+    "rows": 233,
+    "status": "draft; no independent specialist review",
+    "details": "Audited every included narrative row against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned; no row changes were required."
   }
 }

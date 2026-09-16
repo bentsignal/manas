@@ -424,5 +424,6 @@
       218
     ],
     "evidence": "Individually inspected /tmp/semetey-root-0216.png through0218.png, left column then right; one indented wrap grouped. All233 reconstructed source/English positions read in two blocks117+116. Reporting formula217:3:1 restored during pair review and reread. Two whole unresolved verses excluded, all physical source evidence retained. Later217:3:29 restored from directly inspected primary glossary374; source/English pair reread. Two remaining whole gaps are216:3:28 and217:3:10 тайкуш."
-  }
+  },
+  "alignment_check": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[216,218],"rows_checked":231,"status":"draft; no independent specialist review","details":"Audited all 231 included narrative rows on printed pages 216 through 218 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Two unresolved source verses remain excluded as documented."}
 }

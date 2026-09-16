@@ -498,9 +498,20 @@
     "evidence": "Individually inspected all three rendered source page images, left column then right, eleven indented wraps grouped. Pair review pending.",
     "pair_review": "All223 reconstructed source positions and paired drafts individually read in source order after all three page images. Eleven indented wraps join234physical body fragments. Three fully unresolved verses excluded, leaving220English rows. Rechecked150:3:31 singular village and152:4:9–10 father allocation to its own source verse. All repetition retained; unresolved passages carry exact source evidence, no English placeholder counted."
   },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      150,
+      152
+    ],
+    "rows_checked": 220,
+    "scope": "Every included narrative row on printed pages 150–152 was compared with its exact Kyrgyz source row; one lexical error was corrected without changing source IDs, exclusions, or row count."
+  },
   "counts": {
     "english_verse_rows": 220,
-    "english_words": 1305,
+    "english_words": 1304,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 223,
     "wrapped_verse_groups": 11,

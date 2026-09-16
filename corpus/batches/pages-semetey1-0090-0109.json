@@ -2116,7 +2116,16 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages90–109; saved tmp/translation-semetey1-0090-0109/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages90–109; saved tmp/translation-semetey1-0090-0109/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa_0090_0099": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[90,99],"rows_checked":756,"details":"Audited all 756 included narrative rows on printed pages 90 through 99 against their exact Kyrgyz source rows; corrected two instances where the epic epithet буудан for Bakai had been rendered as a literal horse. Pages 100–109 were outside this scoped pass."},
+    "targeted_qa_0100_0109": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [100, 109],
+      "rows_checked": 763,
+      "details": "Audited all 763 included narrative rows on printed pages 100 through 109 against their exact Kyrgyz source rows; corrected eight rows for lexical meaning or neighboring-row displacement."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
@@ -2155,7 +2164,7 @@
   ],
   "counts": {
     "translated_verse_rows": 1519,
-    "english_words": 8579,
+    "english_words": 8585,
     "translated_source_fragments": 1557,
     "physical_narrative_fragments": 1558,
     "reconstructed_source_verses": 1520,
@@ -2193,7 +2202,7 @@
       {
         "page": 94,
         "verse_rows": 73,
-        "english_words": 457,
+        "english_words": 459,
         "source_fragments": 78
       },
       {
@@ -2223,13 +2232,13 @@
       {
         "page": 99,
         "verse_rows": 75,
-        "english_words": 409,
+        "english_words": 410,
         "source_fragments": 77
       },
       {
         "page": 100,
         "verse_rows": 78,
-        "english_words": 397,
+        "english_words": 398,
         "source_fragments": 78
       },
       {
@@ -2241,7 +2250,7 @@
       {
         "page": 102,
         "verse_rows": 77,
-        "english_words": 452,
+        "english_words": 453,
         "source_fragments": 78
       },
       {
@@ -2253,7 +2262,7 @@
       {
         "page": 104,
         "verse_rows": 74,
-        "english_words": 429,
+        "english_words": 430,
         "source_fragments": 78
       },
       {

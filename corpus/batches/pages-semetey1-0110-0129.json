@@ -2497,7 +2497,9 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All1517 positions and all revised pairs individually read. Every physical fragment across110–129 accounted by translated source groups, unresolved exclusions,45 nonverse headings, or20 ignored watermarks. Repetitions, curses, count/age discrepancies and poetic parenthetical lines retained."
+    "scope": "All1517 positions and all revised pairs individually read. Every physical fragment across110–129 accounted by translated source groups, unresolved exclusions,45 nonverse headings, or20 ignored watermarks. Repetitions, curses, count/age discrepancies and poetic parenthetical lines retained.",
+    "targeted_qa_0120_0129": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[120,129],"rows_checked":760,"details":"Audited all 760 included narrative rows on printed pages 120 through 129 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 110–119 were outside this scoped pass."},
+    "targeted_qa_0110_0119": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[110,119],"rows_checked":752,"details":"Audited all 752 included narrative rows on printed pages 110 through 119 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."}
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No MT API or previous published English poem used. Primary Kyrgyz/Russian dictionary entries and original Kyrgyz editorial preface used only for lexical support. Provisional translation and lineation; source witness not reconciled and no independent expert certification.",
   "counts": {

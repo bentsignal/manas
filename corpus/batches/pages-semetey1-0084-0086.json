@@ -369,5 +369,13 @@
     "evidence": "Individually inspected /tmp/semetey-root84.png, /tmp/semetey-root-0085.png, /tmp/semetey-root-0086.png; left column then right. Exact legacy glyph normalization; two indented wraps joined.",
     "pair_review": "All232 reconstructed Kyrgyz–English pairs read in order after individual page-image review. Initial reversed adjacent clauses84:30–31 and84 right3–4 corrected before freeze. Two visible indented wraps produce232verses from234physical body fragments; six running-title/folio records excluded, three watermarks automatically outside narrative."
   },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [84, 86],
+    "rows_checked": 232,
+    "details": "Audited all 232 included narrative rows on printed pages 84 through 86 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."
+  },
   "unresolved_source": []
 }

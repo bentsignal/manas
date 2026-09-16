@@ -377,6 +377,14 @@
     "evidence": "Individually inspected /tmp/semetey-root-0087.png through0089.png; left column then right; two indented wraps joined with exact evidence.",
     "pair_review": "All232 reconstructed Kyrgyz–English pairs read in source order after all three individual images. Rechecked corrected88:b003:l014 removing unsupported nearly: heart-burning/bursting source metaphor retained. Primary lexical checks resolve87 tuubay tuna curse,88 caring kerimsel,89 burku different peoples; no placeholder remains. Two wraps yield232verses from234physical body fragments. Seven nonverse running-title/folio/printer-signature records documented, watermarks excluded automatically. Subsequent primary lexical review withdrew87:b003:l001 as unresolved, leaving231 translated verses and one fully preserved unresolved source verse; no English placeholder counted."
   },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [87, 89],
+    "rows_checked": 231,
+    "details": "Audited all 231 included narrative rows on printed pages 87 through 89 against their exact Kyrgyz source rows; corrected one lexical mistranslation on page 88, where талаа (open plain/wilderness) had been rendered as plunder."
+  },
   "unresolved_source": [
     {
       "source_ids": [

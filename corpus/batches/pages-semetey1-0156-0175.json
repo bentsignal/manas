@@ -2359,7 +2359,18 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1523 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF156–175 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1523 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF156–175 except20 watermarks.",
+    "targeted_qa_2026_09_15_pages_156_159": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        156,
+        159
+      ],
+      "rows_checked": 307,
+      "scope": "Every included narrative row on printed pages 156–159 was compared with its exact Kyrgyz source row; three semantic or lexical errors were corrected without changing source IDs, exclusions, or row count."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {

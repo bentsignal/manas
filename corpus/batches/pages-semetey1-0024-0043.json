@@ -2279,7 +2279,27 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, pages24–31,32–35,36–39,40–43. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, pages24–31,32–35,36–39,40–43. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa_0030_0039": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[30,39],"rows_checked":750,"details":"Audited all 750 included narrative rows on printed pages 30 through 39 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction. Existing wholly unresolved source verses remain excluded and documented."},
+    "targeted_qa_0040_0043": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [40, 43],
+      "rows_checked": 304,
+      "details": "Audited all 304 included narrative rows on printed pages 40 through 43 against their exact Kyrgyz source rows; corrected one clear semantic error. Printed pages 24 through 39 were outside this targeted pass."
+    },
+    "targeted_qa_0020_0029": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        20,
+        29
+      ],
+      "rows_checked": 441,
+      "details": "Printed pages 20 through 23 contain no included narrative rows. Audited all 441 included narrative rows on printed pages 24 through 29 against their exact Kyrgyz source rows; corrected one lexical error, rendering кундуз as otter rather than beaver."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
@@ -2374,7 +2394,7 @@
   ],
   "counts": {
     "translated_verse_rows": 1495,
-    "english_words": 9162,
+    "english_words": 9164,
     "translated_source_fragments": 1543,
     "physical_narrative_fragments": 1546,
     "reconstructed_source_verses": 1498,
@@ -2496,7 +2516,7 @@
       {
         "page": 42,
         "verse_rows": 77,
-        "english_words": 410,
+        "english_words": 412,
         "source_fragments": 78
       },
       {

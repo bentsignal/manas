@@ -2845,7 +2845,12 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "Every physical fragment across 262–281 accounted by translated source groups, fifteen unresolved exclusions,45 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, poetic incongruities, coarse curses and numeral discrepancies retained."
+    "scope": "Every physical fragment across 262–281 accounted by translated source groups, fifteen unresolved exclusions,45 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, poetic incongruities, coarse curses and numeral discrepancies retained.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
+      "page_range": [270, 279], "rows_checked": 767,
+      "details": "Audited all 767 included narrative rows on pages 270 through 279; the existing English rows were semantically sound and correctly aligned. Pages 262 through 269 and 280 through 281 were outside this targeted audit."
+    }
   },
   "counts": {
     "english_verse_rows": 1539,

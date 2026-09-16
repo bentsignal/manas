@@ -2472,12 +2472,29 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All1521 positions and all revised pairs individually read. Every physical fragment across44–63 accounted by translated source groups, unresolved exclusions,44 nonverse headings, or20 ignored watermarks. Repetitions, curses, count/age discrepancies and poetic parenthetical lines retained."
+    "scope": "All1521 positions and all revised pairs individually read. Every physical fragment across44–63 accounted by translated source groups, unresolved exclusions,44 nonverse headings, or20 ignored watermarks. Repetitions, curses, count/age discrepancies and poetic parenthetical lines retained.",
+    "targeted_qa_0044_0049": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [44, 49],
+      "rows_checked": 451,
+      "details": "Audited all 451 included narrative rows on printed pages 44 through 49 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction. Printed pages 50 through 63 were outside this targeted pass."
+    },
+    "targeted_qa_0060_0063": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[60,63],"rows_checked":302,"details":"Audited all 302 included narrative rows on printed pages 60 through 63 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."},
+    "targeted_qa_0050_0059": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [50, 59],
+      "rows_checked": 760,
+      "details": "Audited all 760 included narrative rows on printed pages 50 through 59 against their exact Kyrgyz source rows; corrected four lexical errors, including two places where the heroic epithet буудан had been mistaken for a literal steed."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No MT API or previous published English poem used. Primary Kyrgyz/Russian dictionary entries and original Kyrgyz editorial preface used only for lexical support. Provisional translation and lineation; source witness not reconciled and no independent expert certification.",
   "counts": {
     "english_verse_rows": 1513,
-    "english_words": 9269,
+    "english_words": 9266,
     "unresolved_source_rows": 8,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1521,

@@ -3026,7 +3026,8 @@
       "page_range": [340, 347],
       "rows_checked": 604,
       "details": "Audited all 604 included narrative rows on printed pages 340 through 347 and corrected one place-name mistranslation. Pages 328 through 339 were outside this targeted audit."
-    }
+    },
+    "targeted_qa_0328_0329": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[328,329],"rows_checked":154,"details":"Audited all 154 included narrative rows on pages 328 and 329; the existing English rows were semantically sound and correctly aligned. Pages 330 through 339 were outside this pass."}
   },
   "counts": {
     "english_verse_rows": 1523,

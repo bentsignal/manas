@@ -2623,7 +2623,13 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "Every physical fragment across 196–215 accounted by translated source groups, ten unresolved exclusions,44 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, poetic incongruities, coarse curses and numeral discrepancies retained."
+    "scope": "Every physical fragment across 196–215 accounted by translated source groups, ten unresolved exclusions,44 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, poetic incongruities, coarse curses and numeral discrepancies retained.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
+      "page_range": [200, 209], "rows_checked": 770,
+      "details": "Audited all 770 included narrative rows on pages 200 through 209; the existing English rows were semantically sound and correctly aligned. Pages 196 through 199 and 210 through 215 were outside this targeted audit."
+    },
+    "targeted_qa_0210_0215": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[210,215],"rows_checked":462,"details":"Audited all 462 included narrative rows on printed pages 210 through 215 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 196–209 were outside this scoped pass."}
   },
   "counts": {
     "english_verse_rows": 1541,

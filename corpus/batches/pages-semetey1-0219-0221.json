@@ -397,5 +397,18 @@
       221
     ],
     "evidence": "Individually inspected /tmp/semetey-root-0219.png through0221.png, left column then right; three indented wraps grouped. All231 reconstructed source/English positions read in two blocks116+115. Conditional221:4:12 corrected and reread; one whole hair-oath verse withheld, all physical evidence retained."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [
+      220,
+      221
+    ],
+    "rows_checked": 155,
+    "status": "draft; no independent specialist review",
+    "details": "Audited all 155 included narrative rows on printed pages 0220 through 0221 against the extracted Kyrgyz source. The existing English was semantically sound and correctly aligned. Page 0219 remains outside this targeted audit.",
+    "targeted_qa_0219": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[219,219],"rows_checked":75,"details":"Audited all 75 included narrative rows on printed page 219 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Pages 220–221 retain their separate targeted audit metadata."}
   }
 }

@@ -2166,12 +2166,14 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final1513English verses have unique canonical first-source IDs; grouped fragments and nonverse/unresolved exclusions account for every extraction record on130–149 except20watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final1513English verses have unique canonical first-source IDs; grouped fragments and nonverse/unresolved exclusions account for every extraction record on130–149 except20watermarks.",
+    "targeted_qa_0140_0149": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[140,149],"rows_checked":758,"details":"Audited all 758 included narrative rows on printed pages 140 through 149 against their exact Kyrgyz source rows; corrected one reversed participant relation on page 140. Pages 130–139 were outside this scoped pass."},
+    "targeted_qa_0130_0139": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[130,139],"rows_checked":755,"details":"Audited all 755 included narrative rows on printed pages 130 through 139 against their exact Kyrgyz source rows; no omissions, neighboring-row displacement, or clear semantic errors required correction."}
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Dictionary and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "counts": {
     "english_verse_rows": 1513,
-    "english_words": 8664,
+    "english_words": 8666,
     "unresolved_source_rows": 1,
     "physical_narrative_fragments": 1562,
     "reconstructed_source_verses": 1514,

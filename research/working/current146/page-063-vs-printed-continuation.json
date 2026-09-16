@@ -1,0 +1,197 @@
+{
+  "manuscript": "research/working/current146/page-063.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 36,
+  "lines_with_candidates": 1,
+  "exact_match_lines": 0,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l001",
+      "manuscript_text": "Бөгөсө кубат киргенде,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l002",
+      "manuscript_text": "Адырман калбас коноктор,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l003",
+      "manuscript_text": "Кан жайлоо убак болгондо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l004",
+      "manuscript_text": "Кайрадан канча көрөм,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l005",
+      "manuscript_text": "Калтырбай журтун бөлөм.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l006",
+      "manuscript_text": "Бейишинин соём,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l007",
+      "manuscript_text": "Бир бек өлгөндөн оңолу.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l008",
+      "manuscript_text": "Казынасын өлгөндөн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l009",
+      "manuscript_text": "Көп дүйнөсүн чачамын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l010",
+      "manuscript_text": "Бузуктанса миңдебиз.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l011",
+      "manuscript_text": "Чүйгүр кыргыз тукумун,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l012",
+      "manuscript_text": "Бир бекчосун тийгебиз.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l013",
+      "manuscript_text": "Каарданын какайсак,",
+      "matches": [
+        {
+          "index": 1361,
+          "id": "seytek-1991-continuation:p0330:b001:l001",
+          "text": "Каарданып какайсаң",
+          "score": 0.8824
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l014",
+      "manuscript_text": "Айтканы ураар Чын Теңир",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l015",
+      "manuscript_text": "Бир калайман салабыз.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l016",
+      "manuscript_text": "Каарданын калкы узак,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l017",
+      "manuscript_text": "Калтырбай талап алабыз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l018",
+      "manuscript_text": "Бейишинин беребиз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l019",
+      "manuscript_text": "Бейишин көрдүн ал журттун,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l020",
+      "manuscript_text": "Берендерин өрттөөрбүз.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l021",
+      "manuscript_text": "Эрендерин, шерлерин,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l022",
+      "manuscript_text": "Өзөнгө айдап жыйабыз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l023",
+      "manuscript_text": "Откоро тажаал кыламын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l024",
+      "manuscript_text": "Баланын башка саламын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l025",
+      "manuscript_text": "Бардык элин талкалап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l026",
+      "manuscript_text": "Бир олжого канамын.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l027",
+      "manuscript_text": "Алты араз турмак жүз араз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l028",
+      "manuscript_text": "Тургаса огун ааламы.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l029",
+      "manuscript_text": "Баатыр, бурукма жинин кармаса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l030",
+      "manuscript_text": "Биринин жинин каары.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l031",
+      "manuscript_text": "Ал булдур кыргыз тукумун,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l032",
+      "manuscript_text": "Бир жебир табалы.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l033",
+      "manuscript_text": "Балакетти, мүшкүлдү,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l034",
+      "manuscript_text": "Башка-башка салабыз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l035",
+      "manuscript_text": "Маңгыттын башкы оюн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l036",
+      "manuscript_text": "Баш салсак тартып алабыз.",
+      "matches": []
+    }
+  ]
+}

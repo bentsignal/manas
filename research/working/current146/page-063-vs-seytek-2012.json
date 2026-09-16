@@ -1,0 +1,407 @@
+{
+  "manuscript": "research/working/current146/page-063.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-2012.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 36,
+  "lines_with_candidates": 13,
+  "exact_match_lines": 1,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l001",
+      "manuscript_text": "Бөгөсө кубат киргенде,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l002",
+      "manuscript_text": "Адырман калбас коноктор,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l003",
+      "manuscript_text": "Кан жайлоо убак болгондо,",
+      "matches": [
+        {
+          "index": 59026,
+          "id": "seytek-2012:p0747:b004:l032",
+          "text": "Кан жайлоо убак болгондо,",
+          "score": 1.0
+        },
+        {
+          "index": 59917,
+          "id": "seytek-2012:p0758:b003:l020",
+          "text": "Кан жайлоо убак болгондо,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l004",
+      "manuscript_text": "Кайрадан канча көрөм,",
+      "matches": [
+        {
+          "index": 58457,
+          "id": "seytek-2012:p0740:b003:l033",
+          "text": "Кайраты канча көрөмүн.",
+          "score": 0.8108
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l005",
+      "manuscript_text": "Калтырбай журтун бөлөм.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l006",
+      "manuscript_text": "Бейишинин соём,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l007",
+      "manuscript_text": "Бир бек өлгөндөн оңолу.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l008",
+      "manuscript_text": "Казынасын өлгөндөн,",
+      "matches": [
+        {
+          "index": 54726,
+          "id": "seytek-2012:p0695:b003:l004",
+          "text": "Кан абасын көргөндө,",
+          "score": 0.7647
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l009",
+      "manuscript_text": "Көп дүйнөсүн чачамын,",
+      "matches": [
+        {
+          "index": 57464,
+          "id": "seytek-2012:p0728:b003:l028",
+          "text": "Дүнүйөсүн чачкамын,",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l010",
+      "manuscript_text": "Бузуктанса миңдебиз.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l011",
+      "manuscript_text": "Чүйгүр кыргыз тукумун,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l012",
+      "manuscript_text": "Бир бекчосун тийгебиз.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l013",
+      "manuscript_text": "Каарданын какайсак,",
+      "matches": [
+        {
+          "index": 26006,
+          "id": "seytek-2012:p0337:b003:l014",
+          "text": "Каарданып какайса,",
+          "score": 0.9091
+        },
+        {
+          "index": 67415,
+          "id": "seytek-2012:p0849:b004:l036",
+          "text": "Каарланып какайса",
+          "score": 0.8485
+        },
+        {
+          "index": 51854,
+          "id": "seytek-2012:p0660:b003:l010",
+          "text": "Каарланып какайса,",
+          "score": 0.8485
+        },
+        {
+          "index": 38102,
+          "id": "seytek-2012:p0490:b003:l010",
+          "text": "Каарланып какайса,",
+          "score": 0.8485
+        },
+        {
+          "index": 36189,
+          "id": "seytek-2012:p0466:b002:l008",
+          "text": "Каарланып какайса,",
+          "score": 0.8485
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l014",
+      "manuscript_text": "Айтканы ураар Чын Теңир",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l015",
+      "manuscript_text": "Бир калайман салабыз.",
+      "matches": [
+        {
+          "index": 26570,
+          "id": "seytek-2012:p0346:b002:l039",
+          "text": "Бир калайман салууга,",
+          "score": 0.8333
+        },
+        {
+          "index": 15943,
+          "id": "seytek-2012:p0214:b003:l006",
+          "text": "Бир калайман салбасам.",
+          "score": 0.8108
+        },
+        {
+          "index": 73574,
+          "id": "seytek-2012:p0924:b003:l029",
+          "text": "Калайманды салбайбы,",
+          "score": 0.7778
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l016",
+      "manuscript_text": "Каарданын калкы узак,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l017",
+      "manuscript_text": "Калтырбай талап алабыз,",
+      "matches": [
+        {
+          "index": 40368,
+          "id": "seytek-2012:p0518:b002:l023",
+          "text": "Калтырбай талап малымды.",
+          "score": 0.8293
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l018",
+      "manuscript_text": "Бейишинин беребиз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l019",
+      "manuscript_text": "Бейишин көрдүн ал журттун,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l020",
+      "manuscript_text": "Берендерин өрттөөрбүз.",
+      "matches": [
+        {
+          "index": 52680,
+          "id": "seytek-2012:p0670:b003:l014",
+          "text": "Берендериң өрттөймүн,",
+          "score": 0.7692
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l021",
+      "manuscript_text": "Эрендерин, шерлерин,",
+      "matches": [
+        {
+          "index": 9289,
+          "id": "seytek-2012:p0132:b003:l012",
+          "text": "Берендерин шерлерин,",
+          "score": 0.9143
+        },
+        {
+          "index": 66857,
+          "id": "seytek-2012:p0843:b002:l012",
+          "text": "Эрендерим, шерлерим,",
+          "score": 0.8824
+        },
+        {
+          "index": 48656,
+          "id": "seytek-2012:p0620:b003:l022",
+          "text": "Эрендерди, шерлерди",
+          "score": 0.8824
+        },
+        {
+          "index": 39512,
+          "id": "seytek-2012:p0507:b003:l022",
+          "text": "Эрендерим шерлерим",
+          "score": 0.8824
+        },
+        {
+          "index": 39381,
+          "id": "seytek-2012:p0506:b002:l013",
+          "text": "Берендерин, эрлерин,",
+          "score": 0.8235
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l022",
+      "manuscript_text": "Өзөнгө айдап жыйабыз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l023",
+      "manuscript_text": "Откоро тажаал кыламын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l024",
+      "manuscript_text": "Баланын башка саламын,",
+      "matches": [
+        {
+          "index": 6952,
+          "id": "seytek-2012:p0103:b003:l015",
+          "text": "Балааны башка салбасам,",
+          "score": 0.8205
+        },
+        {
+          "index": 44758,
+          "id": "seytek-2012:p0572:b002:l020",
+          "text": "Балааны башка салууга,",
+          "score": 0.7895
+        },
+        {
+          "index": 79127,
+          "id": "seytek-2012:p0992:b002:l037",
+          "text": "Алда башка салганын",
+          "score": 0.7778
+        },
+        {
+          "index": 8218,
+          "id": "seytek-2012:p0119:b002:l025",
+          "text": "Алда башка салганын",
+          "score": 0.7778
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l025",
+      "manuscript_text": "Бардык элин талкалап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l026",
+      "manuscript_text": "Бир олжого канамын.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l027",
+      "manuscript_text": "Алты араз турмак жүз араз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l028",
+      "manuscript_text": "Тургаса огун ааламы.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l029",
+      "manuscript_text": "Баатыр, бурукма жинин кармаса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l030",
+      "manuscript_text": "Биринин жинин каары.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l031",
+      "manuscript_text": "Ал булдур кыргыз тукумун,",
+      "matches": [
+        {
+          "index": 75305,
+          "id": "seytek-2012:p0945:b003:l037",
+          "text": "Бул кыргыздын тукумун,",
+          "score": 0.8
+        },
+        {
+          "index": 45983,
+          "id": "seytek-2012:p0587:b002:l012",
+          "text": "Бул кыргыздын тукумун",
+          "score": 0.8
+        },
+        {
+          "index": 59496,
+          "id": "seytek-2012:p0753:b004:l009",
+          "text": "Ордолуу кыргыз тукумун",
+          "score": 0.7805
+        },
+        {
+          "index": 65793,
+          "id": "seytek-2012:p0830:b002:l017",
+          "text": "А да кыргыз тукуму,",
+          "score": 0.7778
+        },
+        {
+          "index": 67223,
+          "id": "seytek-2012:p0847:b003:l009",
+          "text": "Бу кыргыздын тукумун",
+          "score": 0.7692
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l032",
+      "manuscript_text": "Бир жебир табалы.",
+      "matches": [
+        {
+          "index": 73483,
+          "id": "seytek-2012:p0923:b004:l020",
+          "text": "Бир эсебин табалы.",
+          "score": 0.8276
+        },
+        {
+          "index": 67105,
+          "id": "seytek-2012:p0846:b002:l013",
+          "text": "Бир эсебин табалы.",
+          "score": 0.8276
+        },
+        {
+          "index": 24593,
+          "id": "seytek-2012:p0320:b002:l019",
+          "text": "Бир эсебин табалы!",
+          "score": 0.8276
+        },
+        {
+          "index": 4789,
+          "id": "seytek-2012:p0077:b002:l015",
+          "text": "Бир эсебин табалы,",
+          "score": 0.8276
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l033",
+      "manuscript_text": "Балакетти, мүшкүлдү,",
+      "matches": [
+        {
+          "index": 78960,
+          "id": "seytek-2012:p0990:b002:l034",
+          "text": "Чоң балакет мүшкүлдү",
+          "score": 0.8571
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l034",
+      "manuscript_text": "Башка-башка салабыз,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l035",
+      "manuscript_text": "Маңгыттын башкы оюн,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf063:l036",
+      "manuscript_text": "Баш салсак тартып алабыз.",
+      "matches": []
+    }
+  ]
+}

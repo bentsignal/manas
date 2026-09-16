@@ -1,0 +1,525 @@
+{
+  "manuscript": "research/working/current146/page-058.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-2012.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 35,
+  "lines_with_candidates": 10,
+  "exact_match_lines": 1,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l001",
+      "manuscript_text": "Кезиккендин ордушун,",
+      "matches": [
+        {
+          "index": 33074,
+          "id": "seytek-2012:p0427:b002:l011",
+          "text": "Кезиккенин сорупмун.",
+          "score": 0.8333
+        },
+        {
+          "index": 15697,
+          "id": "seytek-2012:p0211:b003:l007",
+          "text": "Кезиккенин со¸мун,",
+          "score": 0.7879
+        },
+        {
+          "index": 38974,
+          "id": "seytek-2012:p0501:b002:l017",
+          "text": "Кезиккенди сорормун.",
+          "score": 0.7778
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l002",
+      "manuscript_text": "Мен Чың Темир боломун.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l003",
+      "manuscript_text": "Он сегиз миң ааламды,",
+      "matches": [
+        {
+          "index": 6059,
+          "id": "seytek-2012:p0092:b003:l026",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 52867,
+          "id": "seytek-2012:p0672:b003:l037",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 53395,
+          "id": "seytek-2012:p0679:b002:l029",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 53399,
+          "id": "seytek-2012:p0679:b002:l033",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 54934,
+          "id": "seytek-2012:p0698:b002:l005",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 55002,
+          "id": "seytek-2012:p0698:b003:l033",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 55221,
+          "id": "seytek-2012:p0701:b003:l005",
+          "text": "Он сегиз миң ааламды,",
+          "score": 1.0
+        },
+        {
+          "index": 55467,
+          "id": "seytek-2012:p0704:b003:l005",
+          "text": "Он сегиз миң ааламды,",
+          "score": 1.0
+        },
+        {
+          "index": 55470,
+          "id": "seytek-2012:p0704:b003:l008",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 55928,
+          "id": "seytek-2012:p0710:b002:l012",
+          "text": "Он сегиз миң ааламды,",
+          "score": 1.0
+        },
+        {
+          "index": 56959,
+          "id": "seytek-2012:p0722:b003:l016",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 57857,
+          "id": "seytek-2012:p0733:b003:l009",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 60675,
+          "id": "seytek-2012:p0767:b003:l038",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 65081,
+          "id": "seytek-2012:p0821:b003:l004",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 66599,
+          "id": "seytek-2012:p0840:b002:l001",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 66614,
+          "id": "seytek-2012:p0840:b002:l016",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 69635,
+          "id": "seytek-2012:p0876:b003:l035",
+          "text": "Он сегиз миң ааламды,",
+          "score": 1.0
+        },
+        {
+          "index": 78202,
+          "id": "seytek-2012:p0981:b002:l016",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 80544,
+          "id": "seytek-2012:p1009:b004:l017",
+          "text": "Он сегиз миң ааламды,",
+          "score": 1.0
+        },
+        {
+          "index": 80776,
+          "id": "seytek-2012:p1012:b003:l003",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 83323,
+          "id": "seytek-2012:p1043:b004:l001",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 85274,
+          "id": "seytek-2012:p1067:b002:l019",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 86214,
+          "id": "seytek-2012:p1078:b003:l014",
+          "text": "Он сегиз миң ааламды",
+          "score": 1.0
+        },
+        {
+          "index": 92121,
+          "id": "seytek-2012:p1156:b003:l024",
+          "text": "Он сегиз миң ааламды.",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l004",
+      "manuscript_text": "Орой жыйып кармаса,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l005",
+      "manuscript_text": "Айдап жүрүп соромун.",
+      "matches": [
+        {
+          "index": 53458,
+          "id": "seytek-2012:p0680:b002:l010",
+          "text": "Айдап жүрүп соргонмун.",
+          "score": 0.9444
+        },
+        {
+          "index": 7422,
+          "id": "seytek-2012:p0109:b003:l011",
+          "text": "Айдап жүрүп сороюн.",
+          "score": 0.9091
+        },
+        {
+          "index": 87431,
+          "id": "seytek-2012:p1095:b004:l024",
+          "text": "Айдап жүрүп соргондо,",
+          "score": 0.8571
+        },
+        {
+          "index": 53401,
+          "id": "seytek-2012:p0679:b002:l035",
+          "text": "Айдап жүрүп сором – деп.",
+          "score": 0.8571
+        },
+        {
+          "index": 8315,
+          "id": "seytek-2012:p0120:b002:l040",
+          "text": "Айдап жүрүп сорбосом",
+          "score": 0.8571
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l006",
+      "manuscript_text": "Көзүм келип карг урсам,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l007",
+      "manuscript_text": "Кара тоо талкалан болбойбу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l008",
+      "manuscript_text": "Кандан буйрук кур чыкса,",
+      "matches": [
+        {
+          "index": 62543,
+          "id": "seytek-2012:p0790:b003:l015",
+          "text": "Кыздан буйрук кеп укса,",
+          "score": 0.7692
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l009",
+      "manuscript_text": "Каптоосу тапкан болбойбу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l010",
+      "manuscript_text": "Бээжинде моңгул турганда,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l011",
+      "manuscript_text": "Бир дүйнөнү сорбойбу.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l012",
+      "manuscript_text": "Каарданып какайсаң,",
+      "matches": [
+        {
+          "index": 26006,
+          "id": "seytek-2012:p0337:b003:l014",
+          "text": "Каарданып какайса,",
+          "score": 0.9697
+        },
+        {
+          "index": 60781,
+          "id": "seytek-2012:p0769:b002:l020",
+          "text": "Каарланып какайсаң,",
+          "score": 0.9412
+        },
+        {
+          "index": 18492,
+          "id": "seytek-2012:p0245:b003:l024",
+          "text": "Каарланып какайсаң,",
+          "score": 0.9412
+        },
+        {
+          "index": 6173,
+          "id": "seytek-2012:p0094:b002:l016",
+          "text": "Каарланып какайсаң,",
+          "score": 0.9412
+        },
+        {
+          "index": 4536,
+          "id": "seytek-2012:p0074:b002:l009",
+          "text": "Каарланып какайсаң",
+          "score": 0.9412
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l013",
+      "manuscript_text": "Тегеректин төрт бурчу,",
+      "matches": [
+        {
+          "index": 61028,
+          "id": "seytek-2012:p0772:b002:l019",
+          "text": "Төгөрөктүн төрт бурчу,",
+          "score": 0.7895
+        },
+        {
+          "index": 58657,
+          "id": "seytek-2012:p0743:b002:l027",
+          "text": "Төгөрөктүн төрт бурчу",
+          "score": 0.7895
+        },
+        {
+          "index": 54160,
+          "id": "seytek-2012:p0688:b003:l014",
+          "text": "Төгөрөктүн төрт бурчу",
+          "score": 0.7895
+        },
+        {
+          "index": 88476,
+          "id": "seytek-2012:p1110:b002:l040",
+          "text": "Төгөрөктүн төрт бурчун,",
+          "score": 0.7692
+        },
+        {
+          "index": 87655,
+          "id": "seytek-2012:p1099:b004:l003",
+          "text": "Төгөрөктүн төрт бурчун",
+          "score": 0.7692
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l014",
+      "manuscript_text": "Бейлегениң беш бурчу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l015",
+      "manuscript_text": "Талкан-талкан болбойбу.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l016",
+      "manuscript_text": "Мен Чың Темир болгондо,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l017",
+      "manuscript_text": "Куйкаланын кум күргөн,",
+      "matches": [
+        {
+          "index": 67015,
+          "id": "seytek-2012:p0845:b002:l005",
+          "text": "Куйкаланып кум күйөр,",
+          "score": 0.8108
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l018",
+      "manuscript_text": "Кубанганда как эмес,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l019",
+      "manuscript_text": "Ой солкулдап, тоо кулап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l020",
+      "manuscript_text": "Берендийим билген.",
+      "matches": [
+        {
+          "index": 77027,
+          "id": "seytek-2012:p0966:b003:l033",
+          "text": "Берендиги билинген,",
+          "score": 0.8485
+        },
+        {
+          "index": 72084,
+          "id": "seytek-2012:p0906:b003:l018",
+          "text": "Берендиги билинген,",
+          "score": 0.8485
+        },
+        {
+          "index": 65029,
+          "id": "seytek-2012:p0820:b003:l034",
+          "text": "Берендиги билинген.",
+          "score": 0.8485
+        },
+        {
+          "index": 58800,
+          "id": "seytek-2012:p0745:b003:l002",
+          "text": "Берендиги билинген.",
+          "score": 0.8485
+        },
+        {
+          "index": 53843,
+          "id": "seytek-2012:p0684:b003:l025",
+          "text": "Берендиги билинген,",
+          "score": 0.8485
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l021",
+      "manuscript_text": "Заман акыр болууга,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l022",
+      "manuscript_text": "Мындай келип Каканга,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l023",
+      "manuscript_text": "Берген душман албайт деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l024",
+      "manuscript_text": "Чоң бийликке чийилген.",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l025",
+      "manuscript_text": "Деп ошентип Чың Темир,",
+      "matches": [
+        {
+          "index": 92224,
+          "id": "seytek-2012:p1158:b002:l003",
+          "text": "Деп, ошентип, Чыңтеңир",
+          "score": 0.9444
+        },
+        {
+          "index": 92764,
+          "id": "seytek-2012:p1164:b003:l010",
+          "text": "Деп, ошентип чоң атам,",
+          "score": 0.8
+        },
+        {
+          "index": 87763,
+          "id": "seytek-2012:p1100:b003:l029",
+          "text": "Деп, ошентип чоң Ките",
+          "score": 0.8
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l026",
+      "manuscript_text": "Ачууланып кол жыйды,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l027",
+      "manuscript_text": "Кол жыйганда мол жыйды,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l028",
+      "manuscript_text": "Эмүү бештен ылдыйкы,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l029",
+      "manuscript_text": "Чалдан бир жан калбасын,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l030",
+      "manuscript_text": "Он сегизден оодочу,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l031",
+      "manuscript_text": "Боз баланын каттоон,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l032",
+      "manuscript_text": "Баладан бирөө калбай деп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l033",
+      "manuscript_text": "Түп көтөрө Каканды,",
+      "matches": [
+        {
+          "index": 13333,
+          "id": "seytek-2012:p0182:b003:l028",
+          "text": "Түп көтөрө ал малды",
+          "score": 0.8125
+        },
+        {
+          "index": 34268,
+          "id": "seytek-2012:p0442:b003:l021",
+          "text": "Түп көтөрө баралы.",
+          "score": 0.7742
+        },
+        {
+          "index": 34149,
+          "id": "seytek-2012:p0441:b002:l025",
+          "text": "Түп көтөрө баралы",
+          "score": 0.7742
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l034",
+      "manuscript_text": "Түгөл жыйнап алыптыр,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf058:l035",
+      "manuscript_text": "Улуу жагынан эт мүшкүл,",
+      "matches": []
+    }
+  ]
+}

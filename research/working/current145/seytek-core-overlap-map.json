@@ -1,0 +1,3974 @@
+{
+  "schema": "manas-secure-one-to-one-overlap-map-v1",
+  "manuscript_source_id": "sayakbay-ms-current145",
+  "edition_source_id": "seytek-2012",
+  "boundary": {
+    "manuscript_first_id": "sayakbay-ms-current145:pdf003:l001",
+    "manuscript_last_id": "sayakbay-ms-current145:pdf088:l019",
+    "edition_first_id": "seytek-2012:p1148:b002:l017",
+    "edition_last_id": "seytek-2012:p1165:b003:l034"
+  },
+  "mapping_count": 990,
+  "mappings": [
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l001",
+      "edition_id": "seytek-2012:p1148:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l002",
+      "edition_id": "seytek-2012:p1148:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l003",
+      "edition_id": "seytek-2012:p1148:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l004",
+      "edition_id": "seytek-2012:p1148:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l007",
+      "edition_id": "seytek-2012:p1148:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l008",
+      "edition_id": "seytek-2012:p1148:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l022",
+      "edition_id": "seytek-2012:p1148:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l023",
+      "edition_id": "seytek-2012:p1148:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l024",
+      "edition_id": "seytek-2012:p1148:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l025",
+      "edition_id": "seytek-2012:p1148:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l026",
+      "edition_id": "seytek-2012:p1148:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l027",
+      "edition_id": "seytek-2012:p1148:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l029",
+      "edition_id": "seytek-2012:p1148:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l030",
+      "edition_id": "seytek-2012:p1148:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf003:l031",
+      "edition_id": "seytek-2012:p1148:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l001",
+      "edition_id": "seytek-2012:p1148:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l002",
+      "edition_id": "seytek-2012:p1148:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l003",
+      "edition_id": "seytek-2012:p1148:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l004",
+      "edition_id": "seytek-2012:p1148:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l005",
+      "edition_id": "seytek-2012:p1148:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l006",
+      "edition_id": "seytek-2012:p1148:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l007",
+      "edition_id": "seytek-2012:p1148:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l008",
+      "edition_id": "seytek-2012:p1148:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l010",
+      "edition_id": "seytek-2012:p1148:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l011",
+      "edition_id": "seytek-2012:p1148:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l012",
+      "edition_id": "seytek-2012:p1148:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l013",
+      "edition_id": "seytek-2012:p1148:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l014",
+      "edition_id": "seytek-2012:p1148:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l015",
+      "edition_id": "seytek-2012:p1148:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l016",
+      "edition_id": "seytek-2012:p1148:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l017",
+      "edition_id": "seytek-2012:p1148:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l018",
+      "edition_id": "seytek-2012:p1148:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l019",
+      "edition_id": "seytek-2012:p1148:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l020",
+      "edition_id": "seytek-2012:p1148:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l021",
+      "edition_id": "seytek-2012:p1148:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l022",
+      "edition_id": "seytek-2012:p1148:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l023",
+      "edition_id": "seytek-2012:p1148:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l024",
+      "edition_id": "seytek-2012:p1148:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l025",
+      "edition_id": "seytek-2012:p1148:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l026",
+      "edition_id": "seytek-2012:p1148:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l027",
+      "edition_id": "seytek-2012:p1148:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l028",
+      "edition_id": "seytek-2012:p1148:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l029",
+      "edition_id": "seytek-2012:p1148:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf004:l030",
+      "edition_id": "seytek-2012:p1148:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l001",
+      "edition_id": "seytek-2012:p1148:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l002",
+      "edition_id": "seytek-2012:p1148:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l003",
+      "edition_id": "seytek-2012:p1148:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l004",
+      "edition_id": "seytek-2012:p1148:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l005",
+      "edition_id": "seytek-2012:p1148:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l006",
+      "edition_id": "seytek-2012:p1148:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l007",
+      "edition_id": "seytek-2012:p1148:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l008",
+      "edition_id": "seytek-2012:p1148:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l009",
+      "edition_id": "seytek-2012:p1148:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l010",
+      "edition_id": "seytek-2012:p1148:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l011",
+      "edition_id": "seytek-2012:p1148:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l012",
+      "edition_id": "seytek-2012:p1148:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l013",
+      "edition_id": "seytek-2012:p1148:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l014",
+      "edition_id": "seytek-2012:p1148:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l015",
+      "edition_id": "seytek-2012:p1148:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l016",
+      "edition_id": "seytek-2012:p1148:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l017",
+      "edition_id": "seytek-2012:p1148:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l018",
+      "edition_id": "seytek-2012:p1148:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l019",
+      "edition_id": "seytek-2012:p1149:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l020",
+      "edition_id": "seytek-2012:p1149:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l021",
+      "edition_id": "seytek-2012:p1149:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l022",
+      "edition_id": "seytek-2012:p1149:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l023",
+      "edition_id": "seytek-2012:p1149:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l024",
+      "edition_id": "seytek-2012:p1149:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l025",
+      "edition_id": "seytek-2012:p1149:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l026",
+      "edition_id": "seytek-2012:p1149:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l027",
+      "edition_id": "seytek-2012:p1149:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l028",
+      "edition_id": "seytek-2012:p1149:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l029",
+      "edition_id": "seytek-2012:p1149:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l030",
+      "edition_id": "seytek-2012:p1149:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf005:l031",
+      "edition_id": "seytek-2012:p1149:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l001",
+      "edition_id": "seytek-2012:p1149:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l002",
+      "edition_id": "seytek-2012:p1149:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l003",
+      "edition_id": "seytek-2012:p1149:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l005",
+      "edition_id": "seytek-2012:p1149:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l006",
+      "edition_id": "seytek-2012:p1149:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l007",
+      "edition_id": "seytek-2012:p1149:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l008",
+      "edition_id": "seytek-2012:p1149:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l009",
+      "edition_id": "seytek-2012:p1149:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l010",
+      "edition_id": "seytek-2012:p1149:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l011",
+      "edition_id": "seytek-2012:p1149:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l012",
+      "edition_id": "seytek-2012:p1149:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf006:l013",
+      "edition_id": "seytek-2012:p1149:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l024",
+      "edition_id": "seytek-2012:p1149:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l025",
+      "edition_id": "seytek-2012:p1149:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l026",
+      "edition_id": "seytek-2012:p1149:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l027",
+      "edition_id": "seytek-2012:p1149:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l028",
+      "edition_id": "seytek-2012:p1149:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l029",
+      "edition_id": "seytek-2012:p1149:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l030",
+      "edition_id": "seytek-2012:p1149:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf012:l031",
+      "edition_id": "seytek-2012:p1149:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf013:l001",
+      "edition_id": "seytek-2012:p1149:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf013:l004",
+      "edition_id": "seytek-2012:p1149:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf013:l005",
+      "edition_id": "seytek-2012:p1149:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf013:l006",
+      "edition_id": "seytek-2012:p1149:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l016",
+      "edition_id": "seytek-2012:p1149:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l017",
+      "edition_id": "seytek-2012:p1149:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l018",
+      "edition_id": "seytek-2012:p1149:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l019",
+      "edition_id": "seytek-2012:p1149:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l020",
+      "edition_id": "seytek-2012:p1149:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l021",
+      "edition_id": "seytek-2012:p1149:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l022",
+      "edition_id": "seytek-2012:p1149:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l023",
+      "edition_id": "seytek-2012:p1149:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l024",
+      "edition_id": "seytek-2012:p1149:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l025",
+      "edition_id": "seytek-2012:p1149:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l026",
+      "edition_id": "seytek-2012:p1149:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l027",
+      "edition_id": "seytek-2012:p1149:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l028",
+      "edition_id": "seytek-2012:p1149:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf014:l029",
+      "edition_id": "seytek-2012:p1149:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l001",
+      "edition_id": "seytek-2012:p1149:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l002",
+      "edition_id": "seytek-2012:p1149:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l003",
+      "edition_id": "seytek-2012:p1149:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l005",
+      "edition_id": "seytek-2012:p1149:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l018",
+      "edition_id": "seytek-2012:p1149:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l019",
+      "edition_id": "seytek-2012:p1149:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l020",
+      "edition_id": "seytek-2012:p1149:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l021",
+      "edition_id": "seytek-2012:p1149:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l022",
+      "edition_id": "seytek-2012:p1149:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l023",
+      "edition_id": "seytek-2012:p1149:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l024",
+      "edition_id": "seytek-2012:p1149:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l025",
+      "edition_id": "seytek-2012:p1149:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l026",
+      "edition_id": "seytek-2012:p1149:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l027",
+      "edition_id": "seytek-2012:p1149:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l028",
+      "edition_id": "seytek-2012:p1149:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l029",
+      "edition_id": "seytek-2012:p1149:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf015:l030",
+      "edition_id": "seytek-2012:p1149:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l001",
+      "edition_id": "seytek-2012:p1149:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l002",
+      "edition_id": "seytek-2012:p1149:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l003",
+      "edition_id": "seytek-2012:p1149:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l004",
+      "edition_id": "seytek-2012:p1149:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l005",
+      "edition_id": "seytek-2012:p1149:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l006",
+      "edition_id": "seytek-2012:p1149:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l007",
+      "edition_id": "seytek-2012:p1150:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l008",
+      "edition_id": "seytek-2012:p1150:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l009",
+      "edition_id": "seytek-2012:p1150:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l010",
+      "edition_id": "seytek-2012:p1150:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l011",
+      "edition_id": "seytek-2012:p1150:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l012",
+      "edition_id": "seytek-2012:p1150:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l013",
+      "edition_id": "seytek-2012:p1150:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l014",
+      "edition_id": "seytek-2012:p1150:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l015",
+      "edition_id": "seytek-2012:p1150:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l016",
+      "edition_id": "seytek-2012:p1150:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l017",
+      "edition_id": "seytek-2012:p1150:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l018",
+      "edition_id": "seytek-2012:p1150:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l019",
+      "edition_id": "seytek-2012:p1150:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l020",
+      "edition_id": "seytek-2012:p1150:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l021",
+      "edition_id": "seytek-2012:p1150:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l022",
+      "edition_id": "seytek-2012:p1150:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l023",
+      "edition_id": "seytek-2012:p1150:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l024",
+      "edition_id": "seytek-2012:p1150:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l025",
+      "edition_id": "seytek-2012:p1150:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l026",
+      "edition_id": "seytek-2012:p1150:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l027",
+      "edition_id": "seytek-2012:p1150:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l028",
+      "edition_id": "seytek-2012:p1150:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l029",
+      "edition_id": "seytek-2012:p1150:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l030",
+      "edition_id": "seytek-2012:p1150:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l031",
+      "edition_id": "seytek-2012:p1150:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf016:l032",
+      "edition_id": "seytek-2012:p1150:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l001",
+      "edition_id": "seytek-2012:p1150:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l002",
+      "edition_id": "seytek-2012:p1150:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l003",
+      "edition_id": "seytek-2012:p1150:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l004",
+      "edition_id": "seytek-2012:p1150:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l005",
+      "edition_id": "seytek-2012:p1150:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l006",
+      "edition_id": "seytek-2012:p1150:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l007",
+      "edition_id": "seytek-2012:p1150:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l008",
+      "edition_id": "seytek-2012:p1150:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l009",
+      "edition_id": "seytek-2012:p1150:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l010",
+      "edition_id": "seytek-2012:p1150:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l011",
+      "edition_id": "seytek-2012:p1150:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l012",
+      "edition_id": "seytek-2012:p1150:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l013",
+      "edition_id": "seytek-2012:p1150:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l014",
+      "edition_id": "seytek-2012:p1150:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l015",
+      "edition_id": "seytek-2012:p1150:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l016",
+      "edition_id": "seytek-2012:p1150:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l017",
+      "edition_id": "seytek-2012:p1150:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l018",
+      "edition_id": "seytek-2012:p1150:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l019",
+      "edition_id": "seytek-2012:p1150:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l020",
+      "edition_id": "seytek-2012:p1150:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf017:l021",
+      "edition_id": "seytek-2012:p1150:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l004",
+      "edition_id": "seytek-2012:p1150:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l005",
+      "edition_id": "seytek-2012:p1150:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l006",
+      "edition_id": "seytek-2012:p1150:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l007",
+      "edition_id": "seytek-2012:p1150:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l008",
+      "edition_id": "seytek-2012:p1150:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l009",
+      "edition_id": "seytek-2012:p1150:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l010",
+      "edition_id": "seytek-2012:p1150:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l011",
+      "edition_id": "seytek-2012:p1150:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l012",
+      "edition_id": "seytek-2012:p1150:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l013",
+      "edition_id": "seytek-2012:p1150:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l014",
+      "edition_id": "seytek-2012:p1150:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l016",
+      "edition_id": "seytek-2012:p1150:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l017",
+      "edition_id": "seytek-2012:p1150:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l018",
+      "edition_id": "seytek-2012:p1150:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l019",
+      "edition_id": "seytek-2012:p1150:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l020",
+      "edition_id": "seytek-2012:p1150:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l021",
+      "edition_id": "seytek-2012:p1150:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l022",
+      "edition_id": "seytek-2012:p1150:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l023",
+      "edition_id": "seytek-2012:p1150:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l024",
+      "edition_id": "seytek-2012:p1150:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l025",
+      "edition_id": "seytek-2012:p1150:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l026",
+      "edition_id": "seytek-2012:p1150:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l027",
+      "edition_id": "seytek-2012:p1150:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l028",
+      "edition_id": "seytek-2012:p1150:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l029",
+      "edition_id": "seytek-2012:p1150:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf018:l030",
+      "edition_id": "seytek-2012:p1150:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l001",
+      "edition_id": "seytek-2012:p1150:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l002",
+      "edition_id": "seytek-2012:p1150:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l003",
+      "edition_id": "seytek-2012:p1150:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l004",
+      "edition_id": "seytek-2012:p1150:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l005",
+      "edition_id": "seytek-2012:p1150:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l006",
+      "edition_id": "seytek-2012:p1150:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l007",
+      "edition_id": "seytek-2012:p1150:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l008",
+      "edition_id": "seytek-2012:p1151:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l009",
+      "edition_id": "seytek-2012:p1151:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l010",
+      "edition_id": "seytek-2012:p1151:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l011",
+      "edition_id": "seytek-2012:p1151:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l012",
+      "edition_id": "seytek-2012:p1151:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l013",
+      "edition_id": "seytek-2012:p1151:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l014",
+      "edition_id": "seytek-2012:p1151:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l015",
+      "edition_id": "seytek-2012:p1151:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l016",
+      "edition_id": "seytek-2012:p1151:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l017",
+      "edition_id": "seytek-2012:p1151:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l018",
+      "edition_id": "seytek-2012:p1151:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l019",
+      "edition_id": "seytek-2012:p1151:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l020",
+      "edition_id": "seytek-2012:p1151:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l021",
+      "edition_id": "seytek-2012:p1151:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l022",
+      "edition_id": "seytek-2012:p1151:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l023",
+      "edition_id": "seytek-2012:p1151:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l024",
+      "edition_id": "seytek-2012:p1151:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l025",
+      "edition_id": "seytek-2012:p1151:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l026",
+      "edition_id": "seytek-2012:p1151:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l027",
+      "edition_id": "seytek-2012:p1151:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l028",
+      "edition_id": "seytek-2012:p1151:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf019:l029",
+      "edition_id": "seytek-2012:p1151:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l001",
+      "edition_id": "seytek-2012:p1151:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l002",
+      "edition_id": "seytek-2012:p1151:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l003",
+      "edition_id": "seytek-2012:p1151:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l004",
+      "edition_id": "seytek-2012:p1151:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l005",
+      "edition_id": "seytek-2012:p1151:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l006",
+      "edition_id": "seytek-2012:p1151:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l007",
+      "edition_id": "seytek-2012:p1151:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l008",
+      "edition_id": "seytek-2012:p1151:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l009",
+      "edition_id": "seytek-2012:p1151:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l010",
+      "edition_id": "seytek-2012:p1151:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l011",
+      "edition_id": "seytek-2012:p1151:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l012",
+      "edition_id": "seytek-2012:p1151:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l013",
+      "edition_id": "seytek-2012:p1151:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l014",
+      "edition_id": "seytek-2012:p1151:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l015",
+      "edition_id": "seytek-2012:p1151:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l016",
+      "edition_id": "seytek-2012:p1151:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l017",
+      "edition_id": "seytek-2012:p1151:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l018",
+      "edition_id": "seytek-2012:p1151:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l019",
+      "edition_id": "seytek-2012:p1151:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l020",
+      "edition_id": "seytek-2012:p1151:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l021",
+      "edition_id": "seytek-2012:p1151:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l022",
+      "edition_id": "seytek-2012:p1151:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l023",
+      "edition_id": "seytek-2012:p1151:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l024",
+      "edition_id": "seytek-2012:p1151:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l025",
+      "edition_id": "seytek-2012:p1151:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l026",
+      "edition_id": "seytek-2012:p1151:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l027",
+      "edition_id": "seytek-2012:p1151:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l028",
+      "edition_id": "seytek-2012:p1151:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf020:l029",
+      "edition_id": "seytek-2012:p1151:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l001",
+      "edition_id": "seytek-2012:p1151:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l002",
+      "edition_id": "seytek-2012:p1151:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l003",
+      "edition_id": "seytek-2012:p1151:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l004",
+      "edition_id": "seytek-2012:p1151:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l005",
+      "edition_id": "seytek-2012:p1151:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l006",
+      "edition_id": "seytek-2012:p1151:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l007",
+      "edition_id": "seytek-2012:p1151:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l008",
+      "edition_id": "seytek-2012:p1151:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l009",
+      "edition_id": "seytek-2012:p1151:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l010",
+      "edition_id": "seytek-2012:p1151:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l011",
+      "edition_id": "seytek-2012:p1151:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l012",
+      "edition_id": "seytek-2012:p1151:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l013",
+      "edition_id": "seytek-2012:p1151:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l014",
+      "edition_id": "seytek-2012:p1151:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l015",
+      "edition_id": "seytek-2012:p1151:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l016",
+      "edition_id": "seytek-2012:p1151:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l017",
+      "edition_id": "seytek-2012:p1151:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l018",
+      "edition_id": "seytek-2012:p1151:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l019",
+      "edition_id": "seytek-2012:p1151:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l020",
+      "edition_id": "seytek-2012:p1151:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l021",
+      "edition_id": "seytek-2012:p1151:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l022",
+      "edition_id": "seytek-2012:p1151:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l023",
+      "edition_id": "seytek-2012:p1151:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l024",
+      "edition_id": "seytek-2012:p1151:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l025",
+      "edition_id": "seytek-2012:p1151:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l026",
+      "edition_id": "seytek-2012:p1151:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l027",
+      "edition_id": "seytek-2012:p1151:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l028",
+      "edition_id": "seytek-2012:p1151:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l029",
+      "edition_id": "seytek-2012:p1151:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l030",
+      "edition_id": "seytek-2012:p1152:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf021:l031",
+      "edition_id": "seytek-2012:p1152:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l001",
+      "edition_id": "seytek-2012:p1152:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l002",
+      "edition_id": "seytek-2012:p1152:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l003",
+      "edition_id": "seytek-2012:p1152:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l004",
+      "edition_id": "seytek-2012:p1152:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l005",
+      "edition_id": "seytek-2012:p1152:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l006",
+      "edition_id": "seytek-2012:p1152:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l007",
+      "edition_id": "seytek-2012:p1152:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l008",
+      "edition_id": "seytek-2012:p1152:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l009",
+      "edition_id": "seytek-2012:p1152:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l010",
+      "edition_id": "seytek-2012:p1152:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l011",
+      "edition_id": "seytek-2012:p1152:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l012",
+      "edition_id": "seytek-2012:p1152:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l013",
+      "edition_id": "seytek-2012:p1152:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l014",
+      "edition_id": "seytek-2012:p1152:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l015",
+      "edition_id": "seytek-2012:p1152:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l016",
+      "edition_id": "seytek-2012:p1152:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l017",
+      "edition_id": "seytek-2012:p1152:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l018",
+      "edition_id": "seytek-2012:p1152:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l019",
+      "edition_id": "seytek-2012:p1152:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l020",
+      "edition_id": "seytek-2012:p1152:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l021",
+      "edition_id": "seytek-2012:p1152:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l022",
+      "edition_id": "seytek-2012:p1152:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l023",
+      "edition_id": "seytek-2012:p1152:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l024",
+      "edition_id": "seytek-2012:p1152:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l025",
+      "edition_id": "seytek-2012:p1152:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l026",
+      "edition_id": "seytek-2012:p1152:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l027",
+      "edition_id": "seytek-2012:p1152:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l028",
+      "edition_id": "seytek-2012:p1152:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l029",
+      "edition_id": "seytek-2012:p1152:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l030",
+      "edition_id": "seytek-2012:p1152:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf022:l031",
+      "edition_id": "seytek-2012:p1152:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l001",
+      "edition_id": "seytek-2012:p1152:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l002",
+      "edition_id": "seytek-2012:p1152:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l003",
+      "edition_id": "seytek-2012:p1152:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l004",
+      "edition_id": "seytek-2012:p1152:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l005",
+      "edition_id": "seytek-2012:p1152:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l006",
+      "edition_id": "seytek-2012:p1152:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l007",
+      "edition_id": "seytek-2012:p1152:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l008",
+      "edition_id": "seytek-2012:p1152:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l009",
+      "edition_id": "seytek-2012:p1152:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l010",
+      "edition_id": "seytek-2012:p1152:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l011",
+      "edition_id": "seytek-2012:p1152:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l012",
+      "edition_id": "seytek-2012:p1152:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l013",
+      "edition_id": "seytek-2012:p1152:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l014",
+      "edition_id": "seytek-2012:p1152:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l015",
+      "edition_id": "seytek-2012:p1152:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l016",
+      "edition_id": "seytek-2012:p1152:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l017",
+      "edition_id": "seytek-2012:p1152:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l018",
+      "edition_id": "seytek-2012:p1152:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l019",
+      "edition_id": "seytek-2012:p1152:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l021",
+      "edition_id": "seytek-2012:p1152:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l022",
+      "edition_id": "seytek-2012:p1152:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l023",
+      "edition_id": "seytek-2012:p1152:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l024",
+      "edition_id": "seytek-2012:p1152:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l025",
+      "edition_id": "seytek-2012:p1152:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l026",
+      "edition_id": "seytek-2012:p1152:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l027",
+      "edition_id": "seytek-2012:p1152:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l028",
+      "edition_id": "seytek-2012:p1152:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l029",
+      "edition_id": "seytek-2012:p1152:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l030",
+      "edition_id": "seytek-2012:p1152:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf023:l031",
+      "edition_id": "seytek-2012:p1152:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l001",
+      "edition_id": "seytek-2012:p1152:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l002",
+      "edition_id": "seytek-2012:p1152:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l003",
+      "edition_id": "seytek-2012:p1152:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l004",
+      "edition_id": "seytek-2012:p1152:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l005",
+      "edition_id": "seytek-2012:p1152:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l006",
+      "edition_id": "seytek-2012:p1152:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l007",
+      "edition_id": "seytek-2012:p1152:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l008",
+      "edition_id": "seytek-2012:p1152:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l009",
+      "edition_id": "seytek-2012:p1152:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l010",
+      "edition_id": "seytek-2012:p1152:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l011",
+      "edition_id": "seytek-2012:p1152:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l012",
+      "edition_id": "seytek-2012:p1152:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l013",
+      "edition_id": "seytek-2012:p1152:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l014",
+      "edition_id": "seytek-2012:p1152:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l015",
+      "edition_id": "seytek-2012:p1152:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l016",
+      "edition_id": "seytek-2012:p1152:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l017",
+      "edition_id": "seytek-2012:p1153:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l018",
+      "edition_id": "seytek-2012:p1153:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l019",
+      "edition_id": "seytek-2012:p1153:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l026",
+      "edition_id": "seytek-2012:p1153:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l027",
+      "edition_id": "seytek-2012:p1153:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l028",
+      "edition_id": "seytek-2012:p1153:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l029",
+      "edition_id": "seytek-2012:p1153:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l030",
+      "edition_id": "seytek-2012:p1153:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf024:l031",
+      "edition_id": "seytek-2012:p1153:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l001",
+      "edition_id": "seytek-2012:p1153:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l002",
+      "edition_id": "seytek-2012:p1153:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l003",
+      "edition_id": "seytek-2012:p1153:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l004",
+      "edition_id": "seytek-2012:p1153:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l005",
+      "edition_id": "seytek-2012:p1153:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l006",
+      "edition_id": "seytek-2012:p1153:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l007",
+      "edition_id": "seytek-2012:p1153:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l008",
+      "edition_id": "seytek-2012:p1153:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l009",
+      "edition_id": "seytek-2012:p1153:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l010",
+      "edition_id": "seytek-2012:p1153:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l011",
+      "edition_id": "seytek-2012:p1153:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l012",
+      "edition_id": "seytek-2012:p1153:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l013",
+      "edition_id": "seytek-2012:p1153:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l014",
+      "edition_id": "seytek-2012:p1153:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l029",
+      "edition_id": "seytek-2012:p1153:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l030",
+      "edition_id": "seytek-2012:p1153:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf025:l031",
+      "edition_id": "seytek-2012:p1153:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l001",
+      "edition_id": "seytek-2012:p1153:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l002",
+      "edition_id": "seytek-2012:p1153:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l003",
+      "edition_id": "seytek-2012:p1153:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l004",
+      "edition_id": "seytek-2012:p1153:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l005",
+      "edition_id": "seytek-2012:p1153:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l006",
+      "edition_id": "seytek-2012:p1153:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l007",
+      "edition_id": "seytek-2012:p1153:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l008",
+      "edition_id": "seytek-2012:p1153:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l009",
+      "edition_id": "seytek-2012:p1153:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l010",
+      "edition_id": "seytek-2012:p1153:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l011",
+      "edition_id": "seytek-2012:p1153:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l012",
+      "edition_id": "seytek-2012:p1153:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l013",
+      "edition_id": "seytek-2012:p1153:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l030",
+      "edition_id": "seytek-2012:p1153:b004:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf026:l031",
+      "edition_id": "seytek-2012:p1153:b004:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf027:l005",
+      "edition_id": "seytek-2012:p1153:b004:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf028:l010",
+      "edition_id": "seytek-2012:p1153:b004:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf030:l023",
+      "edition_id": "seytek-2012:p1153:b004:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf030:l024",
+      "edition_id": "seytek-2012:p1153:b004:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf030:l026",
+      "edition_id": "seytek-2012:p1153:b004:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf030:l027",
+      "edition_id": "seytek-2012:p1153:b004:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf030:l028",
+      "edition_id": "seytek-2012:p1153:b004:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf031:l012",
+      "edition_id": "seytek-2012:p1154:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf031:l013",
+      "edition_id": "seytek-2012:p1154:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf031:l014",
+      "edition_id": "seytek-2012:p1154:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf031:l015",
+      "edition_id": "seytek-2012:p1154:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf031:l016",
+      "edition_id": "seytek-2012:p1154:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l026",
+      "edition_id": "seytek-2012:p1154:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l027",
+      "edition_id": "seytek-2012:p1154:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l028",
+      "edition_id": "seytek-2012:p1154:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l029",
+      "edition_id": "seytek-2012:p1154:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l030",
+      "edition_id": "seytek-2012:p1154:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l031",
+      "edition_id": "seytek-2012:p1154:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l032",
+      "edition_id": "seytek-2012:p1154:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf036:l033",
+      "edition_id": "seytek-2012:p1154:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l001",
+      "edition_id": "seytek-2012:p1154:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l002",
+      "edition_id": "seytek-2012:p1154:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l003",
+      "edition_id": "seytek-2012:p1154:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l004",
+      "edition_id": "seytek-2012:p1154:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l005",
+      "edition_id": "seytek-2012:p1154:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l006",
+      "edition_id": "seytek-2012:p1154:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l007",
+      "edition_id": "seytek-2012:p1154:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l008",
+      "edition_id": "seytek-2012:p1154:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l009",
+      "edition_id": "seytek-2012:p1154:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l010",
+      "edition_id": "seytek-2012:p1154:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l011",
+      "edition_id": "seytek-2012:p1154:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l012",
+      "edition_id": "seytek-2012:p1154:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l013",
+      "edition_id": "seytek-2012:p1154:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l014",
+      "edition_id": "seytek-2012:p1154:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l015",
+      "edition_id": "seytek-2012:p1154:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l016",
+      "edition_id": "seytek-2012:p1154:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l017",
+      "edition_id": "seytek-2012:p1154:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l018",
+      "edition_id": "seytek-2012:p1154:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l019",
+      "edition_id": "seytek-2012:p1154:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l020",
+      "edition_id": "seytek-2012:p1154:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l021",
+      "edition_id": "seytek-2012:p1154:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l022",
+      "edition_id": "seytek-2012:p1154:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf037:l023",
+      "edition_id": "seytek-2012:p1154:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf038:l023",
+      "edition_id": "seytek-2012:p1154:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf038:l025",
+      "edition_id": "seytek-2012:p1154:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf038:l027",
+      "edition_id": "seytek-2012:p1154:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf038:l028",
+      "edition_id": "seytek-2012:p1154:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf038:l029",
+      "edition_id": "seytek-2012:p1154:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf038:l030",
+      "edition_id": "seytek-2012:p1154:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf038:l031",
+      "edition_id": "seytek-2012:p1154:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l001",
+      "edition_id": "seytek-2012:p1154:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l002",
+      "edition_id": "seytek-2012:p1154:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l003",
+      "edition_id": "seytek-2012:p1154:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l004",
+      "edition_id": "seytek-2012:p1154:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l005",
+      "edition_id": "seytek-2012:p1154:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l006",
+      "edition_id": "seytek-2012:p1154:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l007",
+      "edition_id": "seytek-2012:p1154:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l008",
+      "edition_id": "seytek-2012:p1154:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l009",
+      "edition_id": "seytek-2012:p1154:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l010",
+      "edition_id": "seytek-2012:p1154:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l011",
+      "edition_id": "seytek-2012:p1154:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l012",
+      "edition_id": "seytek-2012:p1154:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l013",
+      "edition_id": "seytek-2012:p1154:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l014",
+      "edition_id": "seytek-2012:p1154:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l015",
+      "edition_id": "seytek-2012:p1154:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l016",
+      "edition_id": "seytek-2012:p1154:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l017",
+      "edition_id": "seytek-2012:p1154:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l018",
+      "edition_id": "seytek-2012:p1154:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l019",
+      "edition_id": "seytek-2012:p1154:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l020",
+      "edition_id": "seytek-2012:p1154:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l021",
+      "edition_id": "seytek-2012:p1155:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l022",
+      "edition_id": "seytek-2012:p1155:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l023",
+      "edition_id": "seytek-2012:p1155:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l024",
+      "edition_id": "seytek-2012:p1155:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l025",
+      "edition_id": "seytek-2012:p1155:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l026",
+      "edition_id": "seytek-2012:p1155:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l027",
+      "edition_id": "seytek-2012:p1155:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l028",
+      "edition_id": "seytek-2012:p1155:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l029",
+      "edition_id": "seytek-2012:p1155:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l030",
+      "edition_id": "seytek-2012:p1155:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l031",
+      "edition_id": "seytek-2012:p1155:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf039:l032",
+      "edition_id": "seytek-2012:p1155:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l001",
+      "edition_id": "seytek-2012:p1155:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l002",
+      "edition_id": "seytek-2012:p1155:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l003",
+      "edition_id": "seytek-2012:p1155:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l004",
+      "edition_id": "seytek-2012:p1155:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l005",
+      "edition_id": "seytek-2012:p1155:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l006",
+      "edition_id": "seytek-2012:p1155:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l007",
+      "edition_id": "seytek-2012:p1155:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l008",
+      "edition_id": "seytek-2012:p1155:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l009",
+      "edition_id": "seytek-2012:p1155:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l010",
+      "edition_id": "seytek-2012:p1155:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l011",
+      "edition_id": "seytek-2012:p1155:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l012",
+      "edition_id": "seytek-2012:p1155:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l013",
+      "edition_id": "seytek-2012:p1155:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l014",
+      "edition_id": "seytek-2012:p1155:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l015",
+      "edition_id": "seytek-2012:p1155:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l016",
+      "edition_id": "seytek-2012:p1155:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l017",
+      "edition_id": "seytek-2012:p1155:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l018",
+      "edition_id": "seytek-2012:p1155:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l019",
+      "edition_id": "seytek-2012:p1155:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l020",
+      "edition_id": "seytek-2012:p1155:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l021",
+      "edition_id": "seytek-2012:p1155:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l022",
+      "edition_id": "seytek-2012:p1155:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l023",
+      "edition_id": "seytek-2012:p1155:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l024",
+      "edition_id": "seytek-2012:p1155:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf040:l025",
+      "edition_id": "seytek-2012:p1155:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf044:l002",
+      "edition_id": "seytek-2012:p1155:b004:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf044:l003",
+      "edition_id": "seytek-2012:p1155:b004:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l002",
+      "edition_id": "seytek-2012:p1155:b004:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l003",
+      "edition_id": "seytek-2012:p1155:b004:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l004",
+      "edition_id": "seytek-2012:p1155:b004:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l005",
+      "edition_id": "seytek-2012:p1155:b004:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l006",
+      "edition_id": "seytek-2012:p1155:b004:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l007",
+      "edition_id": "seytek-2012:p1155:b004:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l008",
+      "edition_id": "seytek-2012:p1155:b004:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l009",
+      "edition_id": "seytek-2012:p1155:b004:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l010",
+      "edition_id": "seytek-2012:p1155:b004:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l011",
+      "edition_id": "seytek-2012:p1155:b004:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l012",
+      "edition_id": "seytek-2012:p1155:b004:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l013",
+      "edition_id": "seytek-2012:p1155:b004:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l014",
+      "edition_id": "seytek-2012:p1155:b004:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l015",
+      "edition_id": "seytek-2012:p1155:b004:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l016",
+      "edition_id": "seytek-2012:p1155:b004:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l017",
+      "edition_id": "seytek-2012:p1155:b004:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l018",
+      "edition_id": "seytek-2012:p1155:b004:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l019",
+      "edition_id": "seytek-2012:p1155:b004:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l020",
+      "edition_id": "seytek-2012:p1155:b004:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l021",
+      "edition_id": "seytek-2012:p1155:b004:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l022",
+      "edition_id": "seytek-2012:p1155:b004:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l023",
+      "edition_id": "seytek-2012:p1155:b004:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l024",
+      "edition_id": "seytek-2012:p1155:b004:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l025",
+      "edition_id": "seytek-2012:p1155:b004:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l026",
+      "edition_id": "seytek-2012:p1155:b004:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l027",
+      "edition_id": "seytek-2012:p1155:b004:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l028",
+      "edition_id": "seytek-2012:p1155:b004:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l029",
+      "edition_id": "seytek-2012:p1155:b004:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf047:l030",
+      "edition_id": "seytek-2012:p1155:b004:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l001",
+      "edition_id": "seytek-2012:p1155:b004:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l002",
+      "edition_id": "seytek-2012:p1155:b004:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l003",
+      "edition_id": "seytek-2012:p1155:b004:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l004",
+      "edition_id": "seytek-2012:p1156:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l005",
+      "edition_id": "seytek-2012:p1156:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l006",
+      "edition_id": "seytek-2012:p1156:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l007",
+      "edition_id": "seytek-2012:p1156:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l008",
+      "edition_id": "seytek-2012:p1156:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l009",
+      "edition_id": "seytek-2012:p1156:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l010",
+      "edition_id": "seytek-2012:p1156:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l011",
+      "edition_id": "seytek-2012:p1156:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l012",
+      "edition_id": "seytek-2012:p1156:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l013",
+      "edition_id": "seytek-2012:p1156:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l014",
+      "edition_id": "seytek-2012:p1156:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l015",
+      "edition_id": "seytek-2012:p1156:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l016",
+      "edition_id": "seytek-2012:p1156:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l017",
+      "edition_id": "seytek-2012:p1156:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l018",
+      "edition_id": "seytek-2012:p1156:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l019",
+      "edition_id": "seytek-2012:p1156:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l020",
+      "edition_id": "seytek-2012:p1156:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l021",
+      "edition_id": "seytek-2012:p1156:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l022",
+      "edition_id": "seytek-2012:p1156:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l023",
+      "edition_id": "seytek-2012:p1156:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l024",
+      "edition_id": "seytek-2012:p1156:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l025",
+      "edition_id": "seytek-2012:p1156:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l026",
+      "edition_id": "seytek-2012:p1156:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l027",
+      "edition_id": "seytek-2012:p1156:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l028",
+      "edition_id": "seytek-2012:p1156:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l029",
+      "edition_id": "seytek-2012:p1156:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf048:l030",
+      "edition_id": "seytek-2012:p1156:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l001",
+      "edition_id": "seytek-2012:p1156:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l002",
+      "edition_id": "seytek-2012:p1156:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l003",
+      "edition_id": "seytek-2012:p1156:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l004",
+      "edition_id": "seytek-2012:p1156:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l005",
+      "edition_id": "seytek-2012:p1156:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l006",
+      "edition_id": "seytek-2012:p1156:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l007",
+      "edition_id": "seytek-2012:p1156:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l008",
+      "edition_id": "seytek-2012:p1156:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l009",
+      "edition_id": "seytek-2012:p1156:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l010",
+      "edition_id": "seytek-2012:p1156:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l011",
+      "edition_id": "seytek-2012:p1156:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l012",
+      "edition_id": "seytek-2012:p1156:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l013",
+      "edition_id": "seytek-2012:p1156:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l014",
+      "edition_id": "seytek-2012:p1156:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l015",
+      "edition_id": "seytek-2012:p1156:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l016",
+      "edition_id": "seytek-2012:p1156:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l017",
+      "edition_id": "seytek-2012:p1156:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l018",
+      "edition_id": "seytek-2012:p1156:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l019",
+      "edition_id": "seytek-2012:p1156:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l020",
+      "edition_id": "seytek-2012:p1156:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l021",
+      "edition_id": "seytek-2012:p1156:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l022",
+      "edition_id": "seytek-2012:p1156:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l023",
+      "edition_id": "seytek-2012:p1156:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l024",
+      "edition_id": "seytek-2012:p1156:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l025",
+      "edition_id": "seytek-2012:p1156:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l026",
+      "edition_id": "seytek-2012:p1156:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l027",
+      "edition_id": "seytek-2012:p1156:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l028",
+      "edition_id": "seytek-2012:p1156:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l029",
+      "edition_id": "seytek-2012:p1156:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf049:l030",
+      "edition_id": "seytek-2012:p1156:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l001",
+      "edition_id": "seytek-2012:p1156:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l002",
+      "edition_id": "seytek-2012:p1156:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l003",
+      "edition_id": "seytek-2012:p1156:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l004",
+      "edition_id": "seytek-2012:p1156:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l005",
+      "edition_id": "seytek-2012:p1156:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l006",
+      "edition_id": "seytek-2012:p1156:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l007",
+      "edition_id": "seytek-2012:p1156:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l008",
+      "edition_id": "seytek-2012:p1156:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l009",
+      "edition_id": "seytek-2012:p1156:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l010",
+      "edition_id": "seytek-2012:p1156:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l011",
+      "edition_id": "seytek-2012:p1156:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l012",
+      "edition_id": "seytek-2012:p1156:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l013",
+      "edition_id": "seytek-2012:p1156:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l014",
+      "edition_id": "seytek-2012:p1156:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l015",
+      "edition_id": "seytek-2012:p1156:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l016",
+      "edition_id": "seytek-2012:p1156:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l017",
+      "edition_id": "seytek-2012:p1156:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l018",
+      "edition_id": "seytek-2012:p1156:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l019",
+      "edition_id": "seytek-2012:p1156:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l020",
+      "edition_id": "seytek-2012:p1156:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l021",
+      "edition_id": "seytek-2012:p1156:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l022",
+      "edition_id": "seytek-2012:p1157:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l023",
+      "edition_id": "seytek-2012:p1157:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l024",
+      "edition_id": "seytek-2012:p1157:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l025",
+      "edition_id": "seytek-2012:p1157:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l026",
+      "edition_id": "seytek-2012:p1157:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l027",
+      "edition_id": "seytek-2012:p1157:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l028",
+      "edition_id": "seytek-2012:p1157:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l029",
+      "edition_id": "seytek-2012:p1157:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l030",
+      "edition_id": "seytek-2012:p1157:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf050:l031",
+      "edition_id": "seytek-2012:p1157:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l016",
+      "edition_id": "seytek-2012:p1157:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l017",
+      "edition_id": "seytek-2012:p1157:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l018",
+      "edition_id": "seytek-2012:p1157:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l019",
+      "edition_id": "seytek-2012:p1157:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l020",
+      "edition_id": "seytek-2012:p1157:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l021",
+      "edition_id": "seytek-2012:p1157:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l023",
+      "edition_id": "seytek-2012:p1157:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l026",
+      "edition_id": "seytek-2012:p1157:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l027",
+      "edition_id": "seytek-2012:p1157:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l031",
+      "edition_id": "seytek-2012:p1157:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf051:l034",
+      "edition_id": "seytek-2012:p1157:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l001",
+      "edition_id": "seytek-2012:p1157:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l005",
+      "edition_id": "seytek-2012:p1157:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l009",
+      "edition_id": "seytek-2012:p1157:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l012",
+      "edition_id": "seytek-2012:p1157:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l015",
+      "edition_id": "seytek-2012:p1157:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l018",
+      "edition_id": "seytek-2012:p1157:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l025",
+      "edition_id": "seytek-2012:p1157:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf052:l026",
+      "edition_id": "seytek-2012:p1157:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l007",
+      "edition_id": "seytek-2012:p1158:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l008",
+      "edition_id": "seytek-2012:p1158:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l013",
+      "edition_id": "seytek-2012:p1158:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l014",
+      "edition_id": "seytek-2012:p1158:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l015",
+      "edition_id": "seytek-2012:p1158:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l018",
+      "edition_id": "seytek-2012:p1158:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l020",
+      "edition_id": "seytek-2012:p1158:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l023",
+      "edition_id": "seytek-2012:p1158:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l025",
+      "edition_id": "seytek-2012:p1158:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l026",
+      "edition_id": "seytek-2012:p1158:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l028",
+      "edition_id": "seytek-2012:p1158:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l031",
+      "edition_id": "seytek-2012:p1158:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf053:l032",
+      "edition_id": "seytek-2012:p1158:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l001",
+      "edition_id": "seytek-2012:p1158:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l002",
+      "edition_id": "seytek-2012:p1158:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l004",
+      "edition_id": "seytek-2012:p1158:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l005",
+      "edition_id": "seytek-2012:p1158:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l008",
+      "edition_id": "seytek-2012:p1158:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l012",
+      "edition_id": "seytek-2012:p1158:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l014",
+      "edition_id": "seytek-2012:p1158:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l015",
+      "edition_id": "seytek-2012:p1158:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l016",
+      "edition_id": "seytek-2012:p1158:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l017",
+      "edition_id": "seytek-2012:p1158:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l019",
+      "edition_id": "seytek-2012:p1158:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l020",
+      "edition_id": "seytek-2012:p1158:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l021",
+      "edition_id": "seytek-2012:p1158:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf054:l023",
+      "edition_id": "seytek-2012:p1158:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l001",
+      "edition_id": "seytek-2012:p1158:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l002",
+      "edition_id": "seytek-2012:p1158:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l003",
+      "edition_id": "seytek-2012:p1158:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l004",
+      "edition_id": "seytek-2012:p1158:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l005",
+      "edition_id": "seytek-2012:p1158:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l006",
+      "edition_id": "seytek-2012:p1158:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l007",
+      "edition_id": "seytek-2012:p1158:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l008",
+      "edition_id": "seytek-2012:p1158:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l009",
+      "edition_id": "seytek-2012:p1158:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l010",
+      "edition_id": "seytek-2012:p1158:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l011",
+      "edition_id": "seytek-2012:p1158:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l012",
+      "edition_id": "seytek-2012:p1158:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l013",
+      "edition_id": "seytek-2012:p1158:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l014",
+      "edition_id": "seytek-2012:p1158:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l015",
+      "edition_id": "seytek-2012:p1158:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l016",
+      "edition_id": "seytek-2012:p1158:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf055:l018",
+      "edition_id": "seytek-2012:p1159:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l012",
+      "edition_id": "seytek-2012:p1159:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l013",
+      "edition_id": "seytek-2012:p1159:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l014",
+      "edition_id": "seytek-2012:p1159:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l015",
+      "edition_id": "seytek-2012:p1159:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l016",
+      "edition_id": "seytek-2012:p1159:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l017",
+      "edition_id": "seytek-2012:p1159:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l018",
+      "edition_id": "seytek-2012:p1159:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l019",
+      "edition_id": "seytek-2012:p1159:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l020",
+      "edition_id": "seytek-2012:p1159:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l021",
+      "edition_id": "seytek-2012:p1159:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l022",
+      "edition_id": "seytek-2012:p1159:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l023",
+      "edition_id": "seytek-2012:p1159:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l024",
+      "edition_id": "seytek-2012:p1159:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l025",
+      "edition_id": "seytek-2012:p1159:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l026",
+      "edition_id": "seytek-2012:p1159:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l027",
+      "edition_id": "seytek-2012:p1159:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l028",
+      "edition_id": "seytek-2012:p1159:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l029",
+      "edition_id": "seytek-2012:p1159:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l030",
+      "edition_id": "seytek-2012:p1159:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l031",
+      "edition_id": "seytek-2012:p1159:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf057:l032",
+      "edition_id": "seytek-2012:p1159:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l001",
+      "edition_id": "seytek-2012:p1159:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l002",
+      "edition_id": "seytek-2012:p1159:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l003",
+      "edition_id": "seytek-2012:p1159:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l004",
+      "edition_id": "seytek-2012:p1159:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l005",
+      "edition_id": "seytek-2012:p1159:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l006",
+      "edition_id": "seytek-2012:p1159:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l007",
+      "edition_id": "seytek-2012:p1159:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l008",
+      "edition_id": "seytek-2012:p1159:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l009",
+      "edition_id": "seytek-2012:p1159:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l010",
+      "edition_id": "seytek-2012:p1159:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l011",
+      "edition_id": "seytek-2012:p1159:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l012",
+      "edition_id": "seytek-2012:p1159:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l013",
+      "edition_id": "seytek-2012:p1159:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l014",
+      "edition_id": "seytek-2012:p1159:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l015",
+      "edition_id": "seytek-2012:p1159:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l016",
+      "edition_id": "seytek-2012:p1159:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l017",
+      "edition_id": "seytek-2012:p1159:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l018",
+      "edition_id": "seytek-2012:p1159:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l019",
+      "edition_id": "seytek-2012:p1159:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l020",
+      "edition_id": "seytek-2012:p1159:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l021",
+      "edition_id": "seytek-2012:p1159:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l022",
+      "edition_id": "seytek-2012:p1159:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l023",
+      "edition_id": "seytek-2012:p1159:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l024",
+      "edition_id": "seytek-2012:p1159:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l025",
+      "edition_id": "seytek-2012:p1159:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l026",
+      "edition_id": "seytek-2012:p1159:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l027",
+      "edition_id": "seytek-2012:p1159:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l028",
+      "edition_id": "seytek-2012:p1159:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l029",
+      "edition_id": "seytek-2012:p1159:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l030",
+      "edition_id": "seytek-2012:p1159:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf058:l031",
+      "edition_id": "seytek-2012:p1159:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l002",
+      "edition_id": "seytek-2012:p1159:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l003",
+      "edition_id": "seytek-2012:p1159:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l004",
+      "edition_id": "seytek-2012:p1159:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l005",
+      "edition_id": "seytek-2012:p1159:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l006",
+      "edition_id": "seytek-2012:p1159:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l007",
+      "edition_id": "seytek-2012:p1159:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l008",
+      "edition_id": "seytek-2012:p1159:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l009",
+      "edition_id": "seytek-2012:p1159:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l010",
+      "edition_id": "seytek-2012:p1159:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l011",
+      "edition_id": "seytek-2012:p1159:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l012",
+      "edition_id": "seytek-2012:p1159:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l013",
+      "edition_id": "seytek-2012:p1159:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l014",
+      "edition_id": "seytek-2012:p1159:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l015",
+      "edition_id": "seytek-2012:p1159:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l016",
+      "edition_id": "seytek-2012:p1159:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l017",
+      "edition_id": "seytek-2012:p1159:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l018",
+      "edition_id": "seytek-2012:p1159:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l019",
+      "edition_id": "seytek-2012:p1159:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l020",
+      "edition_id": "seytek-2012:p1159:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l021",
+      "edition_id": "seytek-2012:p1159:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l022",
+      "edition_id": "seytek-2012:p1159:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l023",
+      "edition_id": "seytek-2012:p1159:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l024",
+      "edition_id": "seytek-2012:p1159:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l025",
+      "edition_id": "seytek-2012:p1159:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l026",
+      "edition_id": "seytek-2012:p1159:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l027",
+      "edition_id": "seytek-2012:p1160:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l028",
+      "edition_id": "seytek-2012:p1160:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l029",
+      "edition_id": "seytek-2012:p1160:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l030",
+      "edition_id": "seytek-2012:p1160:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf059:l031",
+      "edition_id": "seytek-2012:p1160:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l001",
+      "edition_id": "seytek-2012:p1160:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l002",
+      "edition_id": "seytek-2012:p1160:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l003",
+      "edition_id": "seytek-2012:p1160:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l004",
+      "edition_id": "seytek-2012:p1160:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l005",
+      "edition_id": "seytek-2012:p1160:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l006",
+      "edition_id": "seytek-2012:p1160:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l007",
+      "edition_id": "seytek-2012:p1160:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l008",
+      "edition_id": "seytek-2012:p1160:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l009",
+      "edition_id": "seytek-2012:p1160:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l010",
+      "edition_id": "seytek-2012:p1160:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l011",
+      "edition_id": "seytek-2012:p1160:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l012",
+      "edition_id": "seytek-2012:p1160:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l013",
+      "edition_id": "seytek-2012:p1160:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l014",
+      "edition_id": "seytek-2012:p1160:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l015",
+      "edition_id": "seytek-2012:p1160:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l016",
+      "edition_id": "seytek-2012:p1160:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l017",
+      "edition_id": "seytek-2012:p1160:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l018",
+      "edition_id": "seytek-2012:p1160:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l019",
+      "edition_id": "seytek-2012:p1160:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l020",
+      "edition_id": "seytek-2012:p1160:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l021",
+      "edition_id": "seytek-2012:p1160:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l022",
+      "edition_id": "seytek-2012:p1160:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l023",
+      "edition_id": "seytek-2012:p1160:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf060:l024",
+      "edition_id": "seytek-2012:p1160:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l001",
+      "edition_id": "seytek-2012:p1160:b002:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l002",
+      "edition_id": "seytek-2012:p1160:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l003",
+      "edition_id": "seytek-2012:p1160:b002:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l004",
+      "edition_id": "seytek-2012:p1160:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l005",
+      "edition_id": "seytek-2012:p1160:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l006",
+      "edition_id": "seytek-2012:p1160:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l007",
+      "edition_id": "seytek-2012:p1160:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l008",
+      "edition_id": "seytek-2012:p1160:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l009",
+      "edition_id": "seytek-2012:p1160:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l010",
+      "edition_id": "seytek-2012:p1160:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l011",
+      "edition_id": "seytek-2012:p1160:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l012",
+      "edition_id": "seytek-2012:p1160:b003:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l013",
+      "edition_id": "seytek-2012:p1160:b003:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l014",
+      "edition_id": "seytek-2012:p1160:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l015",
+      "edition_id": "seytek-2012:p1160:b003:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l016",
+      "edition_id": "seytek-2012:p1160:b003:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l017",
+      "edition_id": "seytek-2012:p1160:b003:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l018",
+      "edition_id": "seytek-2012:p1160:b003:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l019",
+      "edition_id": "seytek-2012:p1160:b003:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l020",
+      "edition_id": "seytek-2012:p1160:b003:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l021",
+      "edition_id": "seytek-2012:p1160:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l022",
+      "edition_id": "seytek-2012:p1160:b003:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l023",
+      "edition_id": "seytek-2012:p1160:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l024",
+      "edition_id": "seytek-2012:p1160:b003:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l025",
+      "edition_id": "seytek-2012:p1160:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l026",
+      "edition_id": "seytek-2012:p1160:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l027",
+      "edition_id": "seytek-2012:p1160:b003:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l028",
+      "edition_id": "seytek-2012:p1160:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l029",
+      "edition_id": "seytek-2012:p1160:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf061:l030",
+      "edition_id": "seytek-2012:p1160:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l001",
+      "edition_id": "seytek-2012:p1160:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l002",
+      "edition_id": "seytek-2012:p1160:b003:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l003",
+      "edition_id": "seytek-2012:p1160:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l004",
+      "edition_id": "seytek-2012:p1160:b003:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l005",
+      "edition_id": "seytek-2012:p1160:b003:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l006",
+      "edition_id": "seytek-2012:p1160:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l007",
+      "edition_id": "seytek-2012:p1160:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l008",
+      "edition_id": "seytek-2012:p1160:b003:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l009",
+      "edition_id": "seytek-2012:p1160:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l010",
+      "edition_id": "seytek-2012:p1160:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l011",
+      "edition_id": "seytek-2012:p1160:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l012",
+      "edition_id": "seytek-2012:p1160:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l013",
+      "edition_id": "seytek-2012:p1160:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l014",
+      "edition_id": "seytek-2012:p1160:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l015",
+      "edition_id": "seytek-2012:p1160:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l016",
+      "edition_id": "seytek-2012:p1160:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l017",
+      "edition_id": "seytek-2012:p1160:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l018",
+      "edition_id": "seytek-2012:p1160:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l019",
+      "edition_id": "seytek-2012:p1160:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l020",
+      "edition_id": "seytek-2012:p1160:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l021",
+      "edition_id": "seytek-2012:p1160:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l022",
+      "edition_id": "seytek-2012:p1161:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l023",
+      "edition_id": "seytek-2012:p1161:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l024",
+      "edition_id": "seytek-2012:p1161:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l025",
+      "edition_id": "seytek-2012:p1161:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l026",
+      "edition_id": "seytek-2012:p1161:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l027",
+      "edition_id": "seytek-2012:p1161:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l028",
+      "edition_id": "seytek-2012:p1161:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l029",
+      "edition_id": "seytek-2012:p1161:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l030",
+      "edition_id": "seytek-2012:p1161:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l031",
+      "edition_id": "seytek-2012:p1161:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l032",
+      "edition_id": "seytek-2012:p1161:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l033",
+      "edition_id": "seytek-2012:p1161:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l034",
+      "edition_id": "seytek-2012:p1161:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l035",
+      "edition_id": "seytek-2012:p1161:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf062:l036",
+      "edition_id": "seytek-2012:p1161:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf064:l025",
+      "edition_id": "seytek-2012:p1161:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf065:l020",
+      "edition_id": "seytek-2012:p1161:b004:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf065:l023",
+      "edition_id": "seytek-2012:p1161:b004:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf065:l024",
+      "edition_id": "seytek-2012:p1161:b004:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf065:l025",
+      "edition_id": "seytek-2012:p1161:b004:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf065:l029",
+      "edition_id": "seytek-2012:p1161:b004:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf065:l030",
+      "edition_id": "seytek-2012:p1161:b004:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf066:l005",
+      "edition_id": "seytek-2012:p1161:b004:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf066:l007",
+      "edition_id": "seytek-2012:p1161:b004:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf066:l012",
+      "edition_id": "seytek-2012:p1161:b004:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf066:l016",
+      "edition_id": "seytek-2012:p1161:b004:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf066:l017",
+      "edition_id": "seytek-2012:p1161:b004:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf066:l030",
+      "edition_id": "seytek-2012:p1162:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf066:l031",
+      "edition_id": "seytek-2012:p1162:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf067:l016",
+      "edition_id": "seytek-2012:p1162:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf067:l020",
+      "edition_id": "seytek-2012:p1162:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf067:l026",
+      "edition_id": "seytek-2012:p1162:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf067:l029",
+      "edition_id": "seytek-2012:p1162:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf067:l030",
+      "edition_id": "seytek-2012:p1162:b002:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf068:l001",
+      "edition_id": "seytek-2012:p1162:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf070:l004",
+      "edition_id": "seytek-2012:p1162:b003:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf070:l007",
+      "edition_id": "seytek-2012:p1162:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf070:l008",
+      "edition_id": "seytek-2012:p1162:b003:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf070:l009",
+      "edition_id": "seytek-2012:p1162:b003:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf070:l010",
+      "edition_id": "seytek-2012:p1162:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf070:l012",
+      "edition_id": "seytek-2012:p1162:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf072:l031",
+      "edition_id": "seytek-2012:p1162:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l001",
+      "edition_id": "seytek-2012:p1162:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l002",
+      "edition_id": "seytek-2012:p1162:b003:l030"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l003",
+      "edition_id": "seytek-2012:p1162:b003:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l004",
+      "edition_id": "seytek-2012:p1162:b003:l032"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l005",
+      "edition_id": "seytek-2012:p1162:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l006",
+      "edition_id": "seytek-2012:p1162:b003:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l007",
+      "edition_id": "seytek-2012:p1162:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l008",
+      "edition_id": "seytek-2012:p1162:b003:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l009",
+      "edition_id": "seytek-2012:p1162:b003:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l010",
+      "edition_id": "seytek-2012:p1162:b003:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l011",
+      "edition_id": "seytek-2012:p1162:b003:l039"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l012",
+      "edition_id": "seytek-2012:p1162:b003:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l013",
+      "edition_id": "seytek-2012:p1163:b002:l001"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf073:l014",
+      "edition_id": "seytek-2012:p1163:b002:l002"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l007",
+      "edition_id": "seytek-2012:p1163:b002:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l008",
+      "edition_id": "seytek-2012:p1163:b002:l004"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l009",
+      "edition_id": "seytek-2012:p1163:b002:l005"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l010",
+      "edition_id": "seytek-2012:p1163:b002:l006"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l011",
+      "edition_id": "seytek-2012:p1163:b002:l007"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l012",
+      "edition_id": "seytek-2012:p1163:b002:l008"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l013",
+      "edition_id": "seytek-2012:p1163:b002:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l014",
+      "edition_id": "seytek-2012:p1163:b002:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l015",
+      "edition_id": "seytek-2012:p1163:b002:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l016",
+      "edition_id": "seytek-2012:p1163:b002:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l017",
+      "edition_id": "seytek-2012:p1163:b002:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l018",
+      "edition_id": "seytek-2012:p1163:b002:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l019",
+      "edition_id": "seytek-2012:p1163:b002:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l020",
+      "edition_id": "seytek-2012:p1163:b002:l016"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l021",
+      "edition_id": "seytek-2012:p1163:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l022",
+      "edition_id": "seytek-2012:p1163:b002:l018"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l023",
+      "edition_id": "seytek-2012:p1163:b002:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l024",
+      "edition_id": "seytek-2012:p1163:b002:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l025",
+      "edition_id": "seytek-2012:p1163:b002:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l026",
+      "edition_id": "seytek-2012:p1163:b002:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l027",
+      "edition_id": "seytek-2012:p1163:b002:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l028",
+      "edition_id": "seytek-2012:p1163:b002:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l029",
+      "edition_id": "seytek-2012:p1163:b002:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l030",
+      "edition_id": "seytek-2012:p1163:b002:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l031",
+      "edition_id": "seytek-2012:p1163:b002:l027"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l032",
+      "edition_id": "seytek-2012:p1163:b002:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf074:l033",
+      "edition_id": "seytek-2012:p1163:b002:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l002",
+      "edition_id": "seytek-2012:p1163:b002:l031"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l007",
+      "edition_id": "seytek-2012:p1163:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l008",
+      "edition_id": "seytek-2012:p1163:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l009",
+      "edition_id": "seytek-2012:p1163:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l011",
+      "edition_id": "seytek-2012:p1163:b002:l040"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l020",
+      "edition_id": "seytek-2012:p1163:b004:l009"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l021",
+      "edition_id": "seytek-2012:p1163:b004:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l022",
+      "edition_id": "seytek-2012:p1163:b004:l011"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l024",
+      "edition_id": "seytek-2012:p1163:b004:l013"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l025",
+      "edition_id": "seytek-2012:p1163:b004:l014"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf075:l026",
+      "edition_id": "seytek-2012:p1163:b004:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l019",
+      "edition_id": "seytek-2012:p1163:b004:l019"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l021",
+      "edition_id": "seytek-2012:p1163:b004:l021"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l022",
+      "edition_id": "seytek-2012:p1163:b004:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l023",
+      "edition_id": "seytek-2012:p1163:b004:l023"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l024",
+      "edition_id": "seytek-2012:p1163:b004:l024"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l025",
+      "edition_id": "seytek-2012:p1163:b004:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l026",
+      "edition_id": "seytek-2012:p1163:b004:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf076:l028",
+      "edition_id": "seytek-2012:p1163:b004:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf077:l026",
+      "edition_id": "seytek-2012:p1163:b004:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf078:l019",
+      "edition_id": "seytek-2012:p1164:b002:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf079:l018",
+      "edition_id": "seytek-2012:p1164:b002:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf079:l022",
+      "edition_id": "seytek-2012:p1164:b002:l034"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf079:l023",
+      "edition_id": "seytek-2012:p1164:b002:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf079:l024",
+      "edition_id": "seytek-2012:p1164:b002:l036"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf079:l025",
+      "edition_id": "seytek-2012:p1164:b002:l037"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf079:l026",
+      "edition_id": "seytek-2012:p1164:b002:l038"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf079:l030",
+      "edition_id": "seytek-2012:p1164:b003:l003"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf083:l016",
+      "edition_id": "seytek-2012:p1164:b003:l012"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf083:l019",
+      "edition_id": "seytek-2012:p1164:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf083:l026",
+      "edition_id": "seytek-2012:p1164:b003:l022"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf083:l029",
+      "edition_id": "seytek-2012:p1164:b003:l025"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf083:l030",
+      "edition_id": "seytek-2012:p1164:b003:l026"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf085:l006",
+      "edition_id": "seytek-2012:p1164:b003:l035"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf085:l011",
+      "edition_id": "seytek-2012:p1165:b003:l010"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf087:l031",
+      "edition_id": "seytek-2012:p1165:b003:l015"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf088:l002",
+      "edition_id": "seytek-2012:p1165:b003:l017"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf088:l005",
+      "edition_id": "seytek-2012:p1165:b003:l020"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf088:l013",
+      "edition_id": "seytek-2012:p1165:b003:l028"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf088:l014",
+      "edition_id": "seytek-2012:p1165:b003:l029"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf088:l018",
+      "edition_id": "seytek-2012:p1165:b003:l033"
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current145:pdf088:l019",
+      "edition_id": "seytek-2012:p1165:b003:l034"
+    }
+  ]
+}

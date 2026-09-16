@@ -1,0 +1,492 @@
+{
+  "part": "continuations",
+  "status": "draft",
+  "extraction": "sources/extracted/sayakbay-ms-current146.lines.jsonl",
+  "source_url": "https://manuscript.bizdin.kg/static/media/pdf/web-146-Seitek-Saiakba-Karalaev.pdf",
+  "english": "corpus/batches/pages-manuscript146-0088-0090.en.txt",
+  "source_ids": [
+    "sayakbay-ms-current146:pdf088:l001",
+    "sayakbay-ms-current146:pdf088:l002",
+    "sayakbay-ms-current146:pdf088:l003",
+    "sayakbay-ms-current146:pdf088:l004",
+    "sayakbay-ms-current146:pdf088:l005",
+    "sayakbay-ms-current146:pdf088:l006",
+    "sayakbay-ms-current146:pdf088:l007",
+    "sayakbay-ms-current146:pdf088:l008",
+    "sayakbay-ms-current146:pdf088:l009",
+    "sayakbay-ms-current146:pdf088:l010",
+    "sayakbay-ms-current146:pdf088:l011",
+    "sayakbay-ms-current146:pdf088:l012",
+    "sayakbay-ms-current146:pdf088:l013",
+    "sayakbay-ms-current146:pdf088:l014",
+    "sayakbay-ms-current146:pdf088:l015",
+    "sayakbay-ms-current146:pdf088:l016",
+    "sayakbay-ms-current146:pdf088:l017",
+    "sayakbay-ms-current146:pdf088:l018",
+    "sayakbay-ms-current146:pdf088:l019",
+    "sayakbay-ms-current146:pdf088:l020",
+    "sayakbay-ms-current146:pdf088:l021",
+    "sayakbay-ms-current146:pdf088:l022",
+    "sayakbay-ms-current146:pdf088:l023",
+    "sayakbay-ms-current146:pdf088:l024",
+    "sayakbay-ms-current146:pdf088:l025",
+    "sayakbay-ms-current146:pdf088:l026",
+    "sayakbay-ms-current146:pdf088:l027",
+    "sayakbay-ms-current146:pdf088:l028",
+    "sayakbay-ms-current146:pdf088:l029",
+    "sayakbay-ms-current146:pdf088:l030",
+    "sayakbay-ms-current146:pdf088:l031",
+    "sayakbay-ms-current146:pdf088:l032",
+    "sayakbay-ms-current146:pdf088:l033",
+    "sayakbay-ms-current146:pdf088:l034",
+    "sayakbay-ms-current146:pdf088:l035",
+    "sayakbay-ms-current146:pdf088:l036",
+    "sayakbay-ms-current146:pdf088:l037",
+    "sayakbay-ms-current146:pdf088:l038",
+    "sayakbay-ms-current146:pdf088:l039",
+    "sayakbay-ms-current146:pdf089:l005",
+    "sayakbay-ms-current146:pdf089:l006",
+    "sayakbay-ms-current146:pdf089:l013",
+    "sayakbay-ms-current146:pdf089:l014",
+    "sayakbay-ms-current146:pdf089:l015",
+    "sayakbay-ms-current146:pdf089:l019",
+    "sayakbay-ms-current146:pdf089:l020",
+    "sayakbay-ms-current146:pdf089:l021",
+    "sayakbay-ms-current146:pdf089:l022",
+    "sayakbay-ms-current146:pdf089:l023",
+    "sayakbay-ms-current146:pdf089:l024",
+    "sayakbay-ms-current146:pdf089:l025",
+    "sayakbay-ms-current146:pdf089:l026",
+    "sayakbay-ms-current146:pdf089:l029"
+  ],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "sayakbay-ms-current146:pdf089:l001",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l023; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l023"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l002",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l024; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l024"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l003",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l025; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l025"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l004",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l026; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l026"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l007",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l027; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l027"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l008",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l028; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l028"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l009",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l029; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l029"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l010",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l030; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l030"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l011",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l031; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l031"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l012",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l032; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l032"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l016",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l033; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l033"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l017",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l034; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l034"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l018",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b002:l035; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b002:l035"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l027",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l001; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l001"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l028",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l002; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l002"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l030",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l003; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l003"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l031",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l004; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l004"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l032",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l005; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l005"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l033",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l006; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l006"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l034",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l007; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l007"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l035",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l008; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l008"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l036",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l009; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l009"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf089:l037",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l010; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l010"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l001",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l011; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l011"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l002",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l012; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l012"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l003",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l013; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l013"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l004",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l014; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l014"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l005",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l015; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l015"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l006",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l016; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l016"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l007",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l017; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l017"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l008",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l018; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l018"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l009",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l019; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l019"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l010",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l020; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l020"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l011",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l021; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l021"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l012",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l022; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l022"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l013",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l023; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l023"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l014",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l024; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l024"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l015",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l025; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l025"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l016",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l026; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l026"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l017",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l027; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l027"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l018",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l028; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l028"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l019",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l029; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l029"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l020",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l030; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l030"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l021",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l031; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l031"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l022",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l032; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l032"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l023",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l033; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l033"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l024",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l034; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l034"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l025",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l035; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l035"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l026",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l036; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l036"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l027",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l037; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l037"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l028",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l038; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l038"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l029",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l039; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l039"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l030",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l040; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l040"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l031",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l041; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l041"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l032",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l042; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l042"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l033",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l043; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l043"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l034",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l044; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l044"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l035",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l045; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l045"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l036",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l046; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l046"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l037",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l047; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l047"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf090:l038",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0331:b004:l048; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0331:b004:l048"
+    }
+  ],
+  "notes": {
+    "sayakbay-ms-current146:pdf088:l001": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l002": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l003": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l004": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l005": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l006": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l007": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l008": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l009": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l010": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l011": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l012": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l014": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l015": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l016": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l017": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l018": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l019": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l020": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l022": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l023": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l024": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l025": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l026": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l027": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l028": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l029": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l030": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l031": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l032": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l033": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l034": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l035": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l036": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l037": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l038": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf088:l039": "Provisional reading of difficult cursive; wording should receive later manuscript review.",
+    "sayakbay-ms-current146:pdf089:l005": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l006": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l013": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l014": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l019": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l020": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l021": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l022": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l026": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation.",
+    "sayakbay-ms-current146:pdf089:l029": "Provisional manuscript reading: ambiguous cursive letterforms or a material variant from the printed continuation."
+  },
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-16",
+    "pdf_pages": [
+      88,
+      89,
+      90
+    ],
+    "details": "Rendered manuscript inventory 146 PDF pages 88-90 at high resolution and counted 39, 37, and 38 baselines. Page 89 received an exact overlap audit that corrected three high-resolution manuscript readings and mapped 23 rows; page 90 is a continuous 38-row counterpart run. Those 61 physical rows remain in the source crosswalk but are excluded from duplicate release counting; page 88 and manuscript additions remain distinct."
+  },
+  "after_id": "sayakbay-ms-current146:pdf087:l015"
+}

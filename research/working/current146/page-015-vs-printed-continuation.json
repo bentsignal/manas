@@ -1,0 +1,293 @@
+{
+  "manuscript": "research/working/current146/page-015.reviewed.jsonl",
+  "witness": "sources/extracted/seytek-1991-continuation.lines.jsonl",
+  "threshold": 0.76,
+  "readable_manuscript_lines": 29,
+  "lines_with_candidates": 18,
+  "exact_match_lines": 16,
+  "candidates": [
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l001",
+      "manuscript_text": "Кубанып көргөн чунагым,",
+      "matches": [
+        {
+          "index": 1019,
+          "id": "seytek-1991-continuation:p0325:b003:l006",
+          "text": "Кубанып көргөн чунагым,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l002",
+      "manuscript_text": "Артымда булар калар деп,",
+      "matches": [
+        {
+          "index": 1020,
+          "id": "seytek-1991-continuation:p0325:b004:l001",
+          "text": "Артымда булар калар деп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l003",
+      "manuscript_text": "Медер кылып сабылып,",
+      "matches": [
+        {
+          "index": 1021,
+          "id": "seytek-1991-continuation:p0325:b005:l001",
+          "text": "Медер кылып сабылып,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l004",
+      "manuscript_text": "Көрүп койгон балдарга,",
+      "matches": [
+        {
+          "index": 1022,
+          "id": "seytek-1991-continuation:p0325:b005:l002",
+          "text": "Көрүп койгон балдарга",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l005",
+      "manuscript_text": "Мураа кылып жалынып,",
+      "matches": [
+        {
+          "index": 1023,
+          "id": "seytek-1991-continuation:p0325:b005:l003",
+          "text": "Мураа кылып жалынып,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l006",
+      "manuscript_text": "Калк дүрбөтүп, эл жыйнап,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l007",
+      "manuscript_text": "Карбайгандар сүйүнүп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l008",
+      "manuscript_text": "Кадыр, бакты, дөөлөтү,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l009",
+      "manuscript_text": "Калың журтка билинип,",
+      "matches": [
+        {
+          "index": 967,
+          "id": "seytek-1991-continuation:p0325:b001:l004",
+          "text": "Санаты журтка билинип",
+          "score": 0.8108
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l010",
+      "manuscript_text": "Мына ошондой эр Кенен,",
+      "matches": [
+        {
+          "index": 3073,
+          "id": "seytek-1991-continuation:p0347:b003:l012",
+          "text": "Мына ошондо Кененди",
+          "score": 0.8571
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l011",
+      "manuscript_text": "Төрт түлүгү белен экен,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l012",
+      "manuscript_text": "Тоюна токсон сойдуруп,",
+      "matches": [
+        {
+          "index": 1024,
+          "id": "seytek-1991-continuation:p0325:b005:l004",
+          "text": "Тоюна токсон сойдуруп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l013",
+      "manuscript_text": "Алдейлетип балдарды,",
+      "matches": [
+        {
+          "index": 1025,
+          "id": "seytek-1991-continuation:p0325:b005:l005",
+          "text": "Алдейлетип балдарды",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l014",
+      "manuscript_text": "Атын уйкаш койдуруп,",
+      "matches": [
+        {
+          "index": 1026,
+          "id": "seytek-1991-continuation:p0325:b005:l006",
+          "text": "Атын уйкаш койдуруп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l015",
+      "manuscript_text": "Дөөлөтү ашкан жан болуп,",
+      "matches": [
+        {
+          "index": 1027,
+          "id": "seytek-1991-continuation:p0325:b005:l007",
+          "text": "Дөөлөтү ашкан жан болуп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l016",
+      "manuscript_text": "Касаба мунар тоо болуп,",
+      "matches": [
+        {
+          "index": 1028,
+          "id": "seytek-1991-continuation:p0325:b005:l008",
+          "text": "Касаба мунар тоо болуп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l017",
+      "manuscript_text": "Ал экөөнүн тоюнда,",
+      "matches": [
+        {
+          "index": 1029,
+          "id": "seytek-1991-continuation:p0325:b005:l009",
+          "text": "Ал экөөнүн тоюнда",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l018",
+      "manuscript_text": "Асман жарган чуу болуп,",
+      "matches": [
+        {
+          "index": 1030,
+          "id": "seytek-1991-continuation:p0325:b005:l010",
+          "text": "Асман жарган чуу болуп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l019",
+      "manuscript_text": "Кудай бетин көргөзбө,",
+      "matches": [
+        {
+          "index": 1397,
+          "id": "seytek-1991-continuation:p0330:b001:l037",
+          "text": "Кудай бетин көргөзбө,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l020",
+      "manuscript_text": "Токтоп турган калың журт,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l021",
+      "manuscript_text": "Түгөнбөй турган мураа үй,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l022",
+      "manuscript_text": "Жер жүзүнө эл толуп,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l023",
+      "manuscript_text": "Жети күн той кылып,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l024",
+      "manuscript_text": "Ошо тойдун өзүндө,",
+      "matches": [
+        {
+          "index": 1031,
+          "id": "seytek-1991-continuation:p0325:b005:l011",
+          "text": "Ошо тойдун өзүндө",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l025",
+      "manuscript_text": "Кулак угуп, көз көргөн,",
+      "matches": [
+        {
+          "index": 1032,
+          "id": "seytek-1991-continuation:p0325:b005:l012",
+          "text": "Кулак угуп, көз көргөн,",
+          "score": 1.0
+        },
+        {
+          "index": 1108,
+          "id": "seytek-1991-continuation:p0326:b001:l046",
+          "text": "Кулак угуп, көз көргөн",
+          "score": 1.0
+        },
+        {
+          "index": 1932,
+          "id": "seytek-1991-continuation:p0335:b002:l031",
+          "text": "Кулак угуп, көз көргөн",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l026",
+      "manuscript_text": "Жандын баары чогулуп,",
+      "matches": [
+        {
+          "index": 1033,
+          "id": "seytek-1991-continuation:p0325:b005:l013",
+          "text": "Жандын баары чогулуп,",
+          "score": 1.0
+        }
+      ]
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l027",
+      "manuscript_text": "Азууларын эр кайтарган,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l028",
+      "manuscript_text": "Астынкы эрдин шаңдаткан,",
+      "matches": []
+    },
+    {
+      "manuscript_id": "sayakbay-ms-current146:pdf015:l029",
+      "manuscript_text": "Ордодогу мойнун койкоңдоткон,",
+      "matches": []
+    }
+  ]
+}

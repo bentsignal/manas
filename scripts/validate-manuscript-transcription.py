@@ -92,6 +92,20 @@ def main() -> None:
                 f"ID does not match page/line: {row['id']}"
             )
 
+        if args.require_english:
+            narrative_rows = [row for row in page_rows if row["classification"] == "narrative"]
+            if len(narrative_rows) >= 20:
+                source_forms = {row["text"].strip().casefold() for row in narrative_rows}
+                english_forms = {row["en"].strip().casefold() for row in narrative_rows}
+                assert not (
+                    len(source_forms) >= 0.8 * len(narrative_rows)
+                    and len(english_forms) <= 0.35 * len(narrative_rows)
+                ), (
+                    f"page {page}: suspicious English collapse: "
+                    f"{len(source_forms)} distinct source rows but only "
+                    f"{len(english_forms)} distinct English rows"
+                )
+
     narrative = [row for row in rows if row["classification"] == "narrative"]
     words = sum(len(re.findall(r"\b[\w’'-]+\b", row.get("en", ""), re.UNICODE)) for row in narrative)
     print(json.dumps({

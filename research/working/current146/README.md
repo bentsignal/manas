@@ -5,16 +5,16 @@ SHA-256: `f13de4f4bc48f2da4eb502e29e9b2b340648255ef7769b069e86d24c617319a4`
 
 All sixteen requested PDF pages were rendered at 300 dpi and inspected as page images. They are manuscript folios 388–403 and all contain verse; there are no cover, blank, or wholly non-verse pages in this range. Folio numbers are page furniture and are recorded on each verse row rather than emitted as verse.
 
-The JSONL preserves one row for each verse baseline counted in reading order. This is deliberately a **seed pass**: Pages 5–7 have since received line-by-line review and translation; pages 8–20 retain the seed placeholders. The reviewed counts corrected page 5 from 37 to 36 baselines and page 6 from 39 to 33. No line judged unreadable was omitted or silently guessed. These rows require a fluent Kyrgyz manuscript reader before release-corpus use.
+The JSONL preserves one row for each verse baseline counted in reading order. This is deliberately a **seed pass**: Pages 5–10 have since received line-by-line review and translation; pages 11–20 retain the seed placeholders. The reviewed counts corrected page 5 from 37 to 36 baselines and page 6 from 39 to 33. No line judged unreadable was omitted or silently guessed. These rows require a fluent Kyrgyz manuscript reader before release-corpus use.
 
 | PDF page | folio | visible verse rows | page disposition |
 |---:|---:|---:|---|
 | 5 | 388 | 36 | verse; reviewed |
 | 6 | 389 | 33 | verse; reviewed |
 | 7 | 390 | 32 | verse; reviewed |
-| 8 | 391 | 32 | verse |
-| 9 | 392 | 30 | verse |
-| 10 | 393 | 35 | verse |
+| 8 | 391 | 32 | verse; reviewed |
+| 9 | 392 | 32 | verse; reviewed |
+| 10 | 393 | 33 | verse; reviewed |
 | 11 | 394 | 32 | verse |
 | 12 | 395 | 31 | verse |
 | 13 | 396 | 34 | verse |

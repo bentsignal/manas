@@ -1,0 +1,182 @@
+{
+  "part": "continuations",
+  "status": "draft",
+  "extraction": "sources/extracted/sayakbay-ms-current146.lines.jsonl",
+  "source_url": "https://manuscript.bizdin.kg/static/media/pdf/web-146-Seitek-Saiakba-Karalaev.pdf",
+  "english": "corpus/batches/pages-manuscript146-0008-0009.en.txt",
+  "source_ids": [
+    "sayakbay-ms-current146:pdf008:l001",
+    "sayakbay-ms-current146:pdf008:l002",
+    "sayakbay-ms-current146:pdf008:l003",
+    "sayakbay-ms-current146:pdf008:l004",
+    "sayakbay-ms-current146:pdf008:l005",
+    "sayakbay-ms-current146:pdf008:l006",
+    "sayakbay-ms-current146:pdf008:l007",
+    "sayakbay-ms-current146:pdf008:l008",
+    "sayakbay-ms-current146:pdf008:l009",
+    "sayakbay-ms-current146:pdf008:l010",
+    "sayakbay-ms-current146:pdf008:l019",
+    "sayakbay-ms-current146:pdf008:l020",
+    "sayakbay-ms-current146:pdf008:l021",
+    "sayakbay-ms-current146:pdf008:l022",
+    "sayakbay-ms-current146:pdf008:l023",
+    "sayakbay-ms-current146:pdf008:l024",
+    "sayakbay-ms-current146:pdf008:l025",
+    "sayakbay-ms-current146:pdf008:l026",
+    "sayakbay-ms-current146:pdf008:l027",
+    "sayakbay-ms-current146:pdf008:l028",
+    "sayakbay-ms-current146:pdf008:l029",
+    "sayakbay-ms-current146:pdf008:l030",
+    "sayakbay-ms-current146:pdf008:l031",
+    "sayakbay-ms-current146:pdf008:l032",
+    "sayakbay-ms-current146:pdf009:l001",
+    "sayakbay-ms-current146:pdf009:l002",
+    "sayakbay-ms-current146:pdf009:l003",
+    "sayakbay-ms-current146:pdf009:l004",
+    "sayakbay-ms-current146:pdf009:l005",
+    "sayakbay-ms-current146:pdf009:l006",
+    "sayakbay-ms-current146:pdf009:l007",
+    "sayakbay-ms-current146:pdf009:l008",
+    "sayakbay-ms-current146:pdf009:l009",
+    "sayakbay-ms-current146:pdf009:l010",
+    "sayakbay-ms-current146:pdf009:l011",
+    "sayakbay-ms-current146:pdf009:l012",
+    "sayakbay-ms-current146:pdf009:l015",
+    "sayakbay-ms-current146:pdf009:l016",
+    "sayakbay-ms-current146:pdf009:l017",
+    "sayakbay-ms-current146:pdf009:l018",
+    "sayakbay-ms-current146:pdf009:l020",
+    "sayakbay-ms-current146:pdf009:l021",
+    "sayakbay-ms-current146:pdf009:l022",
+    "sayakbay-ms-current146:pdf009:l023",
+    "sayakbay-ms-current146:pdf009:l024",
+    "sayakbay-ms-current146:pdf009:l025",
+    "sayakbay-ms-current146:pdf009:l026",
+    "sayakbay-ms-current146:pdf009:l027",
+    "sayakbay-ms-current146:pdf009:l028",
+    "sayakbay-ms-current146:pdf009:l029",
+    "sayakbay-ms-current146:pdf009:l030",
+    "sayakbay-ms-current146:pdf009:l031",
+    "sayakbay-ms-current146:pdf009:l032"
+  ],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "sayakbay-ms-current146:pdf008:l011",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l011; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l011"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf008:l012",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l012; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l012"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf008:l013",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l013; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l013"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf008:l014",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l014; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l014"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf008:l015",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l015; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l015"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf008:l016",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l016; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l016"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf008:l017",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l017; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l017"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf008:l018",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l018; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l018"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf009:l013",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l019; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l019"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf009:l014",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l020; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l020"
+    },
+    {
+      "id": "sayakbay-ms-current146:pdf009:l019",
+      "kind": "overlap",
+      "reason": "Manuscript counterpart of already released printed continuation row seytek-1991-continuation:p0325:b001:l021; retained in the crosswalk and not counted twice.",
+      "counterpart_id": "seytek-1991-continuation:p0325:b001:l021"
+    }
+  ],
+  "notes": {
+    "sayakbay-ms-current146:pdf008:l001": "The final word is a letter-shape reading; it may instead be жоолугуп or another жоо- form. Completion-first direct manuscript transcription; uncertain forms and provisional English are queued for later review.",
+    "sayakbay-ms-current146:pdf008:l002": "The first word is compressed and may be a different жүр- form; журтка тең болуп is clear.",
+    "sayakbay-ms-current146:pdf008:l003": "The first and final words are plausible contextual readings of difficult cursive.",
+    "sayakbay-ms-current146:pdf008:l004": "The middle word resembles коңшусун but is not secure on letter shape alone.",
+    "sayakbay-ms-current146:pdf008:l005": "The line is visible, but the first verb and the phrase's intended sense remain provisional.",
+    "sayakbay-ms-current146:pdf008:l006": "Кыргызу is preserved as written; the final two words are faint and could contain a different auxiliary construction.",
+    "sayakbay-ms-current146:pdf008:l007": "The first word is likely Канчалык, but its ending is tightly compressed.",
+    "sayakbay-ms-current146:pdf008:l008": "Калыска is the closest visible reading, though калыс деп may be intended; English follows the apparent sense.",
+    "sayakbay-ms-current146:pdf008:l009": "All word groups are visible, but даарын бак is not lexically secure and the translation is provisional.",
+    "sayakbay-ms-current146:pdf008:l010": "Кулан appears to be a proper name; the first word could instead be a closely related form such as ортоңку.",
+    "sayakbay-ms-current146:pdf008:l021": "The first word resembles Суран but is not securely intelligible; иче тойбогон is clearer.",
+    "sayakbay-ms-current146:pdf008:l024": "Кармаша is preserved as the visible form; it may be an adverbial or a differently inflected verb.",
+    "sayakbay-ms-current146:pdf008:l025": "The final verb appears to be сомдогон, though the contextual formula may use a similar-looking verb.",
+    "sayakbay-ms-current146:pdf008:l027": "The phrase is a close letter-shape reading, but its morphology and exact idiomatic sense are uncertain.",
+    "sayakbay-ms-current146:pdf008:l028": "The first word is clear in sense but several letters are compressed; союлуп is the likeliest final reading.",
+    "sayakbay-ms-current146:pdf008:l029": "The middle and final phrase is faint; орносун таалай деп is a contextual reading.",
+    "sayakbay-ms-current146:pdf008:l030": "The line clearly includes Журт and Кененим; the syntax and final verb are read provisionally.",
+    "sayakbay-ms-current146:pdf008:l031": "The final word appears to be коюлуп; арка may carry the idiomatic sense of protector or support.",
+    "sayakbay-ms-current146:pdf008:l032": "The final baseline is fully visible, but арга конушуп is not lexically secure; English is provisional.",
+    "sayakbay-ms-current146:pdf009:l003": "Ката is the closest letter-shape reading; the phrase may contain another lexeme.",
+    "sayakbay-ms-current146:pdf009:l004": "The first word appears to be Алыс, but its inner letters are pale; the translation is provisional.",
+    "sayakbay-ms-current146:pdf009:l005": "Сан кара is visually plausible and interpreted idiomatically as the mass of common people.",
+    "sayakbay-ms-current146:pdf009:l007": "The final word is compressed and may instead be жыйналат or a related form.",
+    "sayakbay-ms-current146:pdf009:l008": "оттор and таанылып are best-effort readings of faint cursive; English follows those readings.",
+    "sayakbay-ms-current146:pdf009:l010": "The third and fourth words are difficult; талаа күлүш is a tentative letter-shape reading and the English is provisional.",
+    "sayakbay-ms-current146:pdf009:l015": "The middle word is read as бурушкан from context and letter shape; its ending is not fully secure.",
+    "sayakbay-ms-current146:pdf009:l016": "The final word resembles эрени; it may carry a different case ending.",
+    "sayakbay-ms-current146:pdf009:l017": "Жаадай and балаң are tentative readings of densely joined letters; the English is provisional.",
+    "sayakbay-ms-current146:pdf009:l018": "The line appears to read жайдары көп жан берени, but жан and берени remain lexically uncertain.",
+    "sayakbay-ms-current146:pdf009:l020": "The grammatical ending in тилекке is normalized from a compressed form; белен is visually clear.",
+    "sayakbay-ms-current146:pdf009:l021": "Баатырбыз is the closest visual reading, although the inflection is contextually awkward and may differ.",
+    "sayakbay-ms-current146:pdf009:l022": "The first word appears to be Таалайды, but several medial letters overlap.",
+    "sayakbay-ms-current146:pdf009:l025": "Каттоосундай is a letter-shape transcription of an unresolved first word; the English gives only a contextual approximation.",
+    "sayakbay-ms-current146:pdf009:l026": "The middle word could be даяр or даар; даяр is adopted as the likely formula.",
+    "sayakbay-ms-current146:pdf009:l028": "Эр бүл is unresolved and may be a single word or proper name; the remainder reads жүрсө жел тийбей.",
+    "sayakbay-ms-current146:pdf009:l029": "өзөнгө is visually plausible; the idiomatic force of доо бербей is translated provisionally.",
+    "sayakbay-ms-current146:pdf009:l030": "төбөй is the closest visual reading and may be a related verb meaning to rise or tower.",
+    "sayakbay-ms-current146:pdf009:l032": "The final two words look like күр шумкар; this metaphorical description may conceal a horse name or different formula."
+  },
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "pdf_pages": [
+      8,
+      9
+    ],
+    "details": "Rendered manuscript inventory 146 PDF pages 8-9 at high resolution, independently counted 32 baselines on each page, transcribed every position, and retained uncertainty notes. Eleven rows align as one-to-one counterparts of already released printed continuation verses and are explicitly excluded from duplicate release counting."
+  },
+  "after_id": "sayakbay-ms-current146:pdf007:l032"
+}

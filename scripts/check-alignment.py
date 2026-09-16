@@ -24,7 +24,7 @@ for path in (root/'corpus/batches').glob('*.json'):
     descriptor = json.loads(path.read_text())
     for item in descriptor.get('excluded_source_ids', []):
         assert isinstance(item, dict) and item.get('id') and item.get('reason'), 'Invalid exclusion record'
-        assert item.get('kind') in ['heading','prose','unresolved_source','content_withheld'], 'Unclassified exclusion'
+        assert item.get('kind') in ['heading','prose','overlap','unresolved_source','content_withheld'], 'Unclassified exclusion'
         exclusions[item['id']] = item
 by_source = defaultdict(list)
 for row in rows:

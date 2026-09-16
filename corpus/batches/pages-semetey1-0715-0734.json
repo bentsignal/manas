@@ -2066,7 +2066,23 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages715–734; saved tmp/translation-semetey1-0715-0734/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages715–734; saved tmp/translation-semetey1-0715-0734/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        730,
+        734
+      ],
+      "rows_checked": 376,
+      "details": "Audited pages 730 through 734 and corrected three clear semantic/alignment errors. Pages 715 through 729 were outside this targeted audit. The first corrected printed-page pair carries extraction source IDs p0729 because the page-boundary block begins before the printed-page transition.",
+      "changed_source_ids": [
+        "semetey-1-2013:p0729:b003:l039",
+        "semetey-1-2013:p0729:b005:l001",
+        "semetey-1-2013:p0734:b003:l005"
+      ]
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {

@@ -2132,7 +2132,24 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages827–846; saved tmp/translation-semetey1-0827-0846/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages827–846; saved tmp/translation-semetey1-0827-0846/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [827, 829],
+      "rows_checked": 224,
+      "details": "Audited all 224 included narrative rows on printed pages 827 through 829 and corrected one clear lexical error. Pages 830 through 846 were outside this targeted audit."
+    },
+    "targeted_qa_0840_0846": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex QA",
+      "date": "2026-09-15",
+      "page_range": [840, 846],
+      "rows_checked": 525,
+      "status": "draft; no independent specialist review",
+      "details": "Audited the final 525 English rows in this combined batch, covering printed pages 840 through 846 only, against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 845 row 61 and page 846 rows 47 and 57; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Pages 827 through 839 were outside this targeted QA pass."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
@@ -3191,7 +3208,7 @@
   ],
   "counts": {
     "translated_verse_rows": 1491,
-    "english_words": 8040,
+    "english_words": 8060,
     "translated_source_fragments": 1496,
     "physical_narrative_fragments": 1534,
     "reconstructed_source_verses": 1528,
@@ -3206,7 +3223,7 @@
       {
         "page": 827,
         "verse_rows": 76,
-        "english_words": 415,
+        "english_words": 418,
         "source_fragments": 76
       },
       {
@@ -3218,7 +3235,7 @@
       {
         "page": 829,
         "verse_rows": 75,
-        "english_words": 429,
+        "english_words": 430,
         "source_fragments": 76
       },
       {
@@ -3230,7 +3247,7 @@
       {
         "page": 831,
         "verse_rows": 71,
-        "english_words": 398,
+        "english_words": 399,
         "source_fragments": 71
       },
       {
@@ -3296,13 +3313,13 @@
       {
         "page": 842,
         "verse_rows": 77,
-        "english_words": 386,
+        "english_words": 388,
         "source_fragments": 77
       },
       {
         "page": 843,
         "verse_rows": 71,
-        "english_words": 405,
+        "english_words": 409,
         "source_fragments": 72
       },
       {
@@ -3320,7 +3337,7 @@
       {
         "page": 846,
         "verse_rows": 75,
-        "english_words": 416,
+        "english_words": 425,
         "source_fragments": 75
       }
     ],

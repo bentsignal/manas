@@ -57,7 +57,8 @@ for batch_path in args.batch:
                 page = int(match.group(1)) if match else -1
                 matching_reviews = [
                     targeted for targeted in targeted_reviews
-                    if targeted['page_range'][0] <= page <= targeted['page_range'][1]
+                    if (targeted['page_range'][0] <= page <= targeted['page_range'][1]
+                        or sid in targeted.get('changed_source_ids', []))
                 ]
                 assert matching_reviews, (
                     f'{batch_path}: changed row lies outside targeted audit: {sid}')

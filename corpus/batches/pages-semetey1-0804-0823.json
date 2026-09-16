@@ -2639,7 +2639,15 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1519 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF804–823 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1519 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF804–823 except20 watermarks.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [820, 823],
+      "rows_checked": 299,
+      "details": "Audited all 299 included narrative rows on printed pages 820 through 823 and corrected one neighboring-row displacement. Pages 804 through 819 were outside this targeted audit."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "After confirmed root803:5:38, because803:5:39 is held by coordinator. Opening804:3:1 dependent completion is also held with all source preserved. Last823:4:39 When I fled to Bukhara included, continues Kanykei lament in root824; root confirmed boundary.",

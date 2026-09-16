@@ -2981,7 +2981,18 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "Every physical fragment across 850–869 accounted by translated source groups,29 unresolved exclusions,50 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained."
+    "scope": "Every physical fragment across 850–869 accounted by translated source groups,29 unresolved exclusions,50 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        850,
+        859
+      ],
+      "rows_checked": 738,
+      "details": "Audited all 738 included narrative rows on printed pages 850 through 859 against the extracted Kyrgyz source and corrected one clear agency reversal while preserving strict row alignment. Pages 860 through 869 were outside this targeted audit."
+    }
   },
   "counts": {
     "english_verse_rows": 1502,

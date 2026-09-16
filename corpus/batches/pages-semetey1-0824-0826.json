@@ -369,5 +369,13 @@
     "reconstructed_source_verses": 234,
     "unresolved_source_verses": 1,
     "wrapped_verse_groups": 0
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "page_range": [824, 826],
+    "rows_checked": 233,
+    "details": "Audited all 233 included narrative rows on printed pages 824 through 826; the existing English rows were semantically sound and correctly aligned."
   }
 }

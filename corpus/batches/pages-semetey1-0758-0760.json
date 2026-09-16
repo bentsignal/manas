@@ -568,13 +568,30 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 226 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF758–760 except3 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 226 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF758–760 except3 watermarks.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [760, 760],
+      "rows_checked": 75,
+      "details": "Audited all 75 included narrative rows on printed page 760; the existing English rows were semantically sound and correctly aligned. Pages 758 and 759 were outside this targeted audit."
+    },
+    "targeted_qa_0758_0759": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex QA",
+      "date": "2026-09-15",
+      "page_range": [758, 759],
+      "rows_checked": 151,
+      "status": "draft; no independent specialist review",
+      "details": "Audited the first 151 English rows in this combined batch, covering printed pages 758 and 759 only, against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 758 row 15 and page 759 row 49; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Page 760 was outside this QA pass and retains its separate targeted audit."
+    }
   },
   "publication_basis": "Coordinator direct model Kyrgyz-to-English translation, reviewed and revised by translation worker against original Kyrgyz and every page image. No MT API or external English poem translation used. Kyrgyz/Russian lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "After included757:4:39; first758:3:1 completes Argyn tribute sentence. Last760:4:39 included. Next761 separately assigned.",
   "counts": {
     "english_verse_rows": 226,
-    "english_words": 1265,
+    "english_words": 1266,
     "unresolved_source_rows": 6,
     "physical_narrative_fragments": 234,
     "reconstructed_source_verses": 232,

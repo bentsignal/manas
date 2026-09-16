@@ -3863,7 +3863,15 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "Every physical fragment across 761–780 accounted by translated source groups,52 unresolved exclusions,48 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained."
+    "scope": "Every physical fragment across 761–780 accounted by translated source groups,52 unresolved exclusions,48 nonverse headings or20 ignored watermarks. All pairs and revised pairs read. Repetitions, textual incongruities, coarse curses and numeral discrepancies retained.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [761, 769],
+      "rows_checked": 679,
+      "details": "Audited all 679 included narrative rows on printed pages 761 through 769 and corrected one clear lexical-grammar error while preserving strict row alignment. Pages 770 through 780 were outside this targeted audit."
+    }
   },
   "counts": {
     "english_verse_rows": 1492,

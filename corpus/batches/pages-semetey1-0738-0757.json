@@ -2625,13 +2625,27 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1518 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF738–757 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1518 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF738–757 except20 watermarks.",
+    "targeted_qa_0750_0757": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex QA",
+      "date": "2026-09-15",
+      "page_range": [750, 757],
+      "rows_checked": 609,
+      "status": "draft; no independent specialist review",
+      "details": "Audited the final 609 English rows in this combined batch, covering printed pages 750 through 757 only, against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 751 row 56 and page 753 rows 8-10; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Pages 738 through 749 were outside this targeted QA pass."
+    },
+    "targeted_qa_0738_0739": {
+      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
+      "page_range": [738, 739], "rows_checked": 145,
+      "details": "Audited all 145 included narrative rows on pages 738 and 739; the existing English rows were semantically sound and correctly aligned. Pages 740 through 749 were outside this pass."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "After confirmed root737:5:39. First738:3:1 continues Kardygach narrative. Last757:4:39 included and continues758:3:1 Argyn weeping; next range separately assigned.",
   "counts": {
     "english_verse_rows": 1518,
-    "english_words": 8298,
+    "english_words": 8300,
     "unresolved_source_rows": 18,
     "physical_narrative_fragments": 1550,
     "reconstructed_source_verses": 1536,

@@ -1,0 +1,47 @@
+{
+  "part": "continuations",
+  "status": "draft",
+  "extraction": "sources/extracted/sayakbay-ms-current146.lines.jsonl",
+  "source_url": "https://manuscript.bizdin.kg/static/media/pdf/web-146-Seitek-Saiakba-Karalaev.pdf",
+  "english": "corpus/batches/pages-manuscript146-0251-0252.en.txt",
+  "source_ids": [
+    "sayakbay-ms-current146:pdf251:l001",
+    "sayakbay-ms-current146:pdf251:l002",
+    "sayakbay-ms-current146:pdf251:l003",
+    "sayakbay-ms-current146:pdf251:l004",
+    "sayakbay-ms-current146:pdf251:l005",
+    "sayakbay-ms-current146:pdf251:l006",
+    "sayakbay-ms-current146:pdf251:l007",
+    "sayakbay-ms-current146:pdf251:l008",
+    "sayakbay-ms-current146:pdf251:l009",
+    "sayakbay-ms-current146:pdf251:l010",
+    "sayakbay-ms-current146:pdf251:l011",
+    "sayakbay-ms-current146:pdf251:l012"
+  ],
+  "source_groups": {},
+  "excluded_source_ids": [
+    {
+      "id": "sayakbay-ms-current146:pdf251:l013",
+      "kind": "heading",
+      "reason": "Closing heading “Бүттү” (The End), preserved in the physical transcription but excluded from verse counting."
+    }
+  ],
+  "notes": {
+    "sayakbay-ms-current146:pdf251:l001": "The opening noun is a provisional reading of difficult cursive.",
+    "sayakbay-ms-current146:pdf251:l005": "The middle idiom is provisional.",
+    "sayakbay-ms-current146:pdf251:l006": "The final noun is difficult cursive and interpreted as lifespan.",
+    "sayakbay-ms-current146:pdf251:l008": "The proper name Tagasha is provisional.",
+    "sayakbay-ms-current146:pdf251:l010": "Punctuation and subject relation are provisional."
+  },
+  "transcription_check": {
+    "method": "visual-pdf-comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-16",
+    "pdf_pages": [
+      251,
+      252
+    ],
+    "details": "Rendered final manuscript inventory 146 PDF pages 251-252 at high resolution. Page 251 contains 12 narrative verse baselines plus one closing heading; the heading is preserved in extraction and excluded from verse counting. Page 252 is the blank outside back cover with zero text baselines; no row was invented."
+  },
+  "after_id": "sayakbay-ms-current146:pdf250:l034"
+}

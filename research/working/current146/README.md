@@ -1,11 +1,11 @@
-# Current inventory 146: reviewed PDF pages 5–242
+# Current inventory 146: reviewed PDF pages 5–252
 
 Source: `sources/raw/manuscript-full-91-146/146.pdf`  
 SHA-256: `f13de4f4bc48f2da4eb502e29e9b2b340648255ef7769b069e86d24c617319a4`
 
-All two hundred thirty-eight PDF pages were rendered at high resolution and inspected as page images. They are manuscript folios 388–625 and all contain verse; there are no cover, blank, or wholly non-verse pages in this range. Folio numbers are page furniture and are recorded on each verse row rather than emitted as verse.
+All two hundred forty-eight PDF pages were rendered at high resolution and inspected as page images. Pages 5–251 contain the assigned manuscript folio sequence 388–634; page 252 is the blank outside back cover. The photographed numeral on page 251 appears to read 632 rather than the assigned 634 and remains flagged for metadata review. Folio numbers and the closing heading are page furniture rather than verse.
 
-The JSONL preserves one row for each verse baseline counted in reading order. This is deliberately a completion-first pass: pages 5–242 have received line-by-line review and translation. The reviewed counts corrected page 5 from 37 to 36 baselines and page 6 from 39 to 33. Uncertain readings are preserved with explicit notes instead of being silently normalized or omitted. Pages 27, 39, 42, and 60 received independent Astra-low audits after cross-witness evidence exposed substantial errors in the initial Sol-low passes.
+The JSONL preserves one row for each verse baseline counted in reading order. This is deliberately a completion-first pass: pages 5–251 have received line-by-line review and translation, and page 252 has been inspected and documented as blank. The reviewed counts corrected page 5 from 37 to 36 baselines and page 6 from 39 to 33. Uncertain readings are preserved with explicit notes instead of being silently normalized or omitted. Pages 27, 39, 42, and 60 received independent Astra-low audits after cross-witness evidence exposed substantial errors in the initial Sol-low passes.
 
 | PDF page | folio | visible verse rows | page disposition |
 |---:|---:|---:|---|
@@ -247,6 +247,16 @@ The JSONL preserves one row for each verse baseline counted in reading order. Th
 | 240 | 623 | 36 | verse; reviewed |
 | 241 | 624 | 37 | verse; reviewed |
 | 242 | 625 | 38 | verse; reviewed |
-| **Total** | | **8,432** | |
+| 243 | 626 | 37 | verse; reviewed |
+| 244 | 627 | 36 | verse; reviewed |
+| 245 | 628 | 37 | verse; reviewed |
+| 246 | 629 | 36 | verse; reviewed |
+| 247 | 630 | 38 | verse; reviewed |
+| 248 | 631 | 35 | verse; reviewed |
+| 249 | 632 | 36 | verse; reviewed; photographed folio numeral faint/ambiguous |
+| 250 | 633 | 34 | verse; reviewed |
+| 251 | 634 | 12 | verse; reviewed; one closing heading preserved and excluded from verse counting; photographed folio appears to read 632 |
+| 252 | — | 0 | blank outside back cover; inspected |
+| **Total** | | **8,733** | |
 
-Rendered working images are kept outside the repository under `/tmp`. Reviewed verse rows through page 242 are included in the draft release corpus, except manuscript counterparts already represented by released printed witnesses.
+Rendered working images are kept outside the repository under `/tmp`. Reviewed verse rows through page 251 are included in the draft release corpus, except manuscript counterparts already represented by released printed witnesses. The closing heading and blank back cover are documented without being counted as verse.

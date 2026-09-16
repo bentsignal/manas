@@ -372,7 +372,8 @@
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
     "partially_independent_review": "Page672 was drafted by root and independently checked/corrected by this worker;673–674 directly translated and reviewed by this worker.",
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages672–674; saved tmp/translation-semetey1-0672-0674/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages672–674; saved tmp/translation-semetey1-0672-0674/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa": {"method":"source-English row semantic audit","checked_by":"Codex","date":"2026-09-15","page_range":[672,674],"rows_checked":222,"details":"Audited all 222 included narrative rows; the existing English rows were semantically sound and correctly aligned."}
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; page672 root scratch independently reviewed and revised by worker, pages673–674 directly translated by worker; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {

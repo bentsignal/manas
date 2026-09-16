@@ -22,18 +22,22 @@ for batch_path in args.batch:
     batch = json.loads(batch_path.read_text())
     review = batch.get('alignment_check') or {}
     method = review.get('method', '')
-    targeted_reviews = [
-        value for key, value in review.items()
-        if key.startswith('targeted_qa') and isinstance(value, dict)
-    ]
-    is_full_review = method == 'same-agent source-English row comparison' or method.startswith(
-        'source-English row semantic audit'
-    )
-    assert is_full_review or targeted_reviews, (
-        f'{batch_path}: correction requires a source-English row audit')
     english = (root / batch['english']).read_text().splitlines()
     assert len(english) == len(batch['source_ids']), (
         f'{batch_path}: source/English row-count mismatch')
+    base_is_semantic = method == 'same-agent source-English row comparison' or method.startswith(
+        'source-English row semantic audit'
+    )
+    top_review_rows = review.get('rows', review.get('rows_checked'))
+    is_full_review = base_is_semantic and top_review_rows == len(english)
+    targeted_reviews = [
+        value for key, value in review.items()
+        if 'targeted_qa' in key and isinstance(value, dict)
+    ]
+    if base_is_semantic and top_review_rows and not is_full_review:
+        targeted_reviews.insert(0, review)
+    assert is_full_review or targeted_reviews, (
+        f'{batch_path}: correction requires a source-English row audit')
     if is_full_review:
         assert review.get('checked_by') and review.get('date')
         assert len(english) == review.get('rows', review.get('rows_checked')), (

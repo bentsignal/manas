@@ -2641,7 +2641,24 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1514 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF695–714 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1514 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF695–714 except20 watermarks.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [700, 709],
+      "rows_checked": 749,
+      "details": "Audited all 749 included narrative rows on printed pages 700 through 709 and corrected two clear lexical errors while preserving strict row alignment. Pages 695 through 699 and 710 through 714 were outside this targeted audit."
+    },
+    "targeted_qa_0695_0699": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex QA",
+      "date": "2026-09-15",
+      "page_range": [695, 699],
+      "rows_checked": 382,
+      "status": "draft; no independent specialist review",
+      "details": "Audited the first 382 English rows in this combined batch, covering printed pages 695 through 699 only, against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 696 row 35 and page 697 row 16; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Pages 700 through 714 were outside this QA pass and retain their existing targeted metadata."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "Expected after_id694:4:39 pending upstream worker confirmation; root must compare actual final included upstream ID before appending. Owned first695:3:1 continues comparative hero list. Last714:4:39 included; next715 assigned separately.",

@@ -2132,7 +2132,16 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages632–651; saved tmp/translation-semetey1-0632-0651/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages632–651; saved tmp/translation-semetey1-0632-0651/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa_0640_0649": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex QA",
+      "date": "2026-09-15",
+      "page_range": [640, 649],
+      "rows_checked": 768,
+      "status": "draft; no independent specialist review",
+      "details": "Audited the 768 English rows on printed pages 640 through 649 against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 646 row 7, page 647 row 48, page 648 rows 19-20, and page 649 row 35; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Pages 632 through 639 and 650 through 651 were outside this targeted QA pass."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
@@ -2731,7 +2740,7 @@
   ],
   "counts": {
     "translated_verse_rows": 1520,
-    "english_words": 8482,
+    "english_words": 8616,
     "translated_source_fragments": 1539,
     "physical_narrative_fragments": 1560,
     "reconstructed_source_verses": 1541,
@@ -2746,121 +2755,121 @@
       {
         "page": 632,
         "verse_rows": 76,
-        "english_words": 409,
+        "english_words": 423,
         "source_fragments": 77
       },
       {
         "page": 633,
         "verse_rows": 74,
-        "english_words": 426,
+        "english_words": 434,
         "source_fragments": 77
       },
       {
         "page": 634,
         "verse_rows": 76,
-        "english_words": 431,
+        "english_words": 453,
         "source_fragments": 78
       },
       {
         "page": 635,
         "verse_rows": 76,
-        "english_words": 388,
+        "english_words": 413,
         "source_fragments": 76
       },
       {
         "page": 636,
         "verse_rows": 76,
-        "english_words": 441,
+        "english_words": 451,
         "source_fragments": 77
       },
       {
         "page": 637,
         "verse_rows": 73,
-        "english_words": 427,
+        "english_words": 429,
         "source_fragments": 74
       },
       {
         "page": 638,
         "verse_rows": 75,
-        "english_words": 430,
+        "english_words": 438,
         "source_fragments": 78
       },
       {
         "page": 639,
         "verse_rows": 77,
-        "english_words": 448,
+        "english_words": 454,
         "source_fragments": 78
       },
       {
         "page": 640,
         "verse_rows": 77,
-        "english_words": 420,
+        "english_words": 424,
         "source_fragments": 77
       },
       {
         "page": 641,
         "verse_rows": 78,
-        "english_words": 450,
+        "english_words": 458,
         "source_fragments": 78
       },
       {
         "page": 642,
         "verse_rows": 78,
-        "english_words": 409,
+        "english_words": 411,
         "source_fragments": 78
       },
       {
         "page": 643,
         "verse_rows": 76,
-        "english_words": 409,
+        "english_words": 411,
         "source_fragments": 76
       },
       {
         "page": 644,
         "verse_rows": 77,
-        "english_words": 427,
+        "english_words": 429,
         "source_fragments": 77
       },
       {
         "page": 645,
         "verse_rows": 77,
-        "english_words": 445,
+        "english_words": 451,
         "source_fragments": 78
       },
       {
         "page": 646,
         "verse_rows": 77,
-        "english_words": 415,
+        "english_words": 421,
         "source_fragments": 78
       },
       {
         "page": 647,
         "verse_rows": 74,
-        "english_words": 415,
+        "english_words": 418,
         "source_fragments": 75
       },
       {
         "page": 648,
         "verse_rows": 77,
-        "english_words": 429,
+        "english_words": 431,
         "source_fragments": 77
       },
       {
         "page": 649,
         "verse_rows": 77,
-        "english_words": 419,
+        "english_words": 420,
         "source_fragments": 78
       },
       {
         "page": 650,
         "verse_rows": 75,
-        "english_words": 409,
+        "english_words": 410,
         "source_fragments": 75
       },
       {
         "page": 651,
         "verse_rows": 74,
-        "english_words": 435,
+        "english_words": 437,
         "source_fragments": 77
       }
     ],

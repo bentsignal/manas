@@ -1950,7 +1950,20 @@
     "method": "same-agent-source-English-comparison",
     "checked_by": "Same Codex worker complete_source_resume",
     "independent_review": false,
-    "scope": "Every reconstructed source/English position read in paired review files, each of pages589–608; saved tmp/translation-semetey1-0589-0608/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately."
+    "scope": "Every reconstructed source/English position read in paired review files, each of pages589–608; saved tmp/translation-semetey1-0589-0608/paired-review.txt. Final corrections reread. Repeated verses, narrator transitions, parentheses, profanities and inconsistent names retained. Wholly unresolved verses withheld from English and preserved separately.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit", "checked_by": "Codex", "date": "2026-09-15",
+      "page_range": [590, 599], "rows_checked": 771,
+      "details": "Audited all 771 included narrative rows on pages 590 through 599 and corrected one neighboring-row phrase displacement. Page 589 and pages 600 through 608 were outside this targeted audit."
+    },
+    "targeted_qa_0589_0589": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [589, 589],
+      "rows_checked": 75,
+      "details": "Audited all 75 included narrative rows on page 589. No English row changes were required. Pages 590 through 608 were outside this targeted audit entry."
+    }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",
   "source_hashes": {
@@ -2325,7 +2338,7 @@
   ],
   "counts": {
     "translated_verse_rows": 1462,
-    "english_words": 8432,
+    "english_words": 8465,
     "translated_source_fragments": 1470,
     "physical_narrative_fragments": 1483,
     "reconstructed_source_verses": 1475,
@@ -2346,7 +2359,7 @@
       {
         "page": 590,
         "verse_rows": 77,
-        "english_words": 410,
+        "english_words": 411,
         "source_fragments": 78
       },
       {
@@ -2364,7 +2377,7 @@
       {
         "page": 593,
         "verse_rows": 77,
-        "english_words": 484,
+        "english_words": 488,
         "source_fragments": 77
       },
       {
@@ -2376,7 +2389,7 @@
       {
         "page": 595,
         "verse_rows": 75,
-        "english_words": 412,
+        "english_words": 413,
         "source_fragments": 77
       },
       {
@@ -2394,19 +2407,19 @@
       {
         "page": 598,
         "verse_rows": 77,
-        "english_words": 436,
+        "english_words": 440,
         "source_fragments": 77
       },
       {
         "page": 599,
         "verse_rows": 77,
-        "english_words": 448,
+        "english_words": 452,
         "source_fragments": 77
       },
       {
         "page": 600,
         "verse_rows": 78,
-        "english_words": 477,
+        "english_words": 478,
         "source_fragments": 78
       },
       {
@@ -2418,7 +2431,7 @@
       {
         "page": 602,
         "verse_rows": 78,
-        "english_words": 426,
+        "english_words": 435,
         "source_fragments": 78
       },
       {
@@ -2436,7 +2449,7 @@
       {
         "page": 605,
         "verse_rows": 75,
-        "english_words": 459,
+        "english_words": 462,
         "source_fragments": 77
       },
       {
@@ -2448,13 +2461,13 @@
       {
         "page": 607,
         "verse_rows": 76,
-        "english_words": 438,
+        "english_words": 440,
         "source_fragments": 76
       },
       {
         "page": 608,
         "verse_rows": 78,
-        "english_words": 424,
+        "english_words": 428,
         "source_fragments": 78
       }
     ],

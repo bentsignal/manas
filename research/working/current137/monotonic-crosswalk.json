@@ -1,0 +1,35 @@
+{
+  "inventory": 137,
+  "old_inventory": 958,
+  "manuscript": {
+    "path": "sources/raw/manuscript-full-91-146/137.pdf",
+    "sha256": "96b5990ac36d6337136f332698e107d76c959a6ec4dd864cf4f8432909f41a85",
+    "pdf_pages": 274,
+    "narrative_pdf_pages": [4, 272],
+    "folios": [953, 1222],
+    "catalogue_narrative_count": 12306,
+    "title_leaf_reported_pages": 269
+  },
+  "released_witness_envelope": {
+    "source_id": "seytek-2012",
+    "first_secure_first_folio_anchor_id": "seytek-2012:p0792:b002:l028",
+    "first_ordinal": 355930,
+    "first_anchor": "Баатыр шер Манас баласы,",
+    "last_ordinal": 372250,
+    "last_id": "seytek-2012:p0996:b002:l036",
+    "last_text": "Калтырбастан чачты эле.",
+    "next_inventory_first_ordinal": 372251,
+    "next_inventory_first_text": "Өчкөн оттор жагылып,",
+    "inclusive_lines": 16321,
+    "english_whitespace_words": 84481,
+    "english_regex_tokens": 84421,
+    "status": "outer editorial envelope; opening is earliest secure first-folio anchor, not a diplomatic first-baseline reading"
+  },
+  "completion_result": {
+    "catalogue_lines": 12306,
+    "released_outer_envelope_lines": 16321,
+    "catalogue_minus_outer_envelope": -4015,
+    "secure_unique_untranslated_lines": 0,
+    "interpretation": "The printed edition contains 4,015 more positions inside the outer anchor envelope than the manuscript catalogue count. The difference reflects editorial interleaving, expansion, or lineation and is not evidence of untranslated manuscript lines."
+  }
+}

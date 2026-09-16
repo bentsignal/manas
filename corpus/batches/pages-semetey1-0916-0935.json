@@ -3614,13 +3614,36 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1472 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF916–935 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1472 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF916–935 except20 watermarks.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        920,
+        929
+      ],
+      "rows_checked": 739,
+      "details": "Audited all 739 narrative rows on printed pages 920 through 929 against the extracted Kyrgyz source and corrected one clear lexical error while preserving strict row alignment. Pages 916 through 919 and 930 through 935 were outside this targeted audit."
+    },
+    "targeted_qa_0916_0919": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex QA",
+      "date": "2026-09-15",
+      "page_range": [
+        916,
+        919
+      ],
+      "rows_checked": 299,
+      "status": "draft; no independent specialist review",
+      "details": "Audited the first 299 English rows in this combined batch, covering printed pages 916 through 919 only, against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 918 row 9 (batch row 156); preserved all IDs, unresolved-source exclusions, and row boundaries. Pages 920 through 935 were outside this QA pass."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "After root-confirmed9155:39 Башымды тартсам болбодуң; first9163:1 included. Final9354:39 Семетей тартуу кылыптыр included, continues into936; next worker notified. No boundary hold in this owned range.",
   "counts": {
     "english_verse_rows": 1472,
-    "english_words": 8066,
+    "english_words": 8068,
     "unresolved_source_rows": 48,
     "physical_narrative_fragments": 1524,
     "reconstructed_source_verses": 1520,

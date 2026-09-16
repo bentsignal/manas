@@ -590,5 +590,13 @@
     "reconstructed_source_verses": 223,
     "unresolved_source_verses": 7,
     "wrapped_verse_groups": 1
+  },
+  "alignment_check": {
+    "method": "same-agent source-English row comparison",
+    "checked_by": "Codex",
+    "date": "2026-09-15",
+    "rows": 216,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every extracted narrative row directly with its matching English row across pages 0956-0958. The existing translation was semantically aligned and required no row changes; preserved one English line per source ID and the original row order."
   }
 }

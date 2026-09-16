@@ -561,10 +561,22 @@
     ],
     "evidence": "Individually inspected all three Poppler images /tmp/manas-root910-0910.png through0912.png, left column then right; two visually verified wrapped verses on911. Primary lexical checks and exact extraction used for direct draft. All237 reconstructed Kyrgyz/English positions read in two blocks119and118, including whole unresolved verses. Three final refinements reread against exact source, including one additional whole-verse hold. Six held verses excluded from English count; no independent specialist review."
   },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex QA",
+    "date": "2026-09-15",
+    "page_range": [
+      910,
+      912
+    ],
+    "rows_checked": 231,
+    "status": "draft; no independent specialist review",
+    "details": "Compared all 231 English rows with their exact canonical Kyrgyz source IDs, including grouped source fragments. Corrected rows 1, 17, 37, 97, and 225-226 while preserving all IDs, six unresolved-source exclusions, and one English row per canonical source verse."
+  },
   "translation_method": "Direct model translation from original Kyrgyz page images and exact extraction; primary lexical aids only; no prior English translation or external machine-translation API.",
   "counts": {
     "translated_verse_rows": 231,
-    "english_words": 1357,
+    "english_words": 1358,
     "physical_narrative_fragments": 239,
     "reconstructed_source_verses": 237,
     "unresolved_source_verses": 6,

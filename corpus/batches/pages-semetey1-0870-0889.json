@@ -3135,7 +3135,18 @@
   },
   "alignment_check": {
     "method": "same-agent-source-English-comparison",
-    "scope": "All source-English pairs and all revised pairs individually read. Final 1485 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF870–889 except20 watermarks."
+    "scope": "All source-English pairs and all revised pairs individually read. Final 1485 English verses have unique canonical first-source IDs; grouped fragments and explicit nonverse/unresolved exclusions account for every extraction record on PDF870–889 except20 watermarks.",
+    "targeted_qa": {
+      "method": "source-English row semantic audit",
+      "checked_by": "Codex",
+      "date": "2026-09-15",
+      "page_range": [
+        880,
+        889
+      ],
+      "rows_checked": 760,
+      "details": "Audited all 760 included narrative rows on printed pages 880 through 889 against the extracted Kyrgyz source and removed one unsupported semantic insertion while preserving strict row alignment. Pages 870 through 879 were outside this targeted audit."
+    }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",
   "boundary_note": "After worker-confirmed8694:38 Ажыратып алалык; first8703:1 included. Final8895:39 Арыслан энең Каныкей included, continues into890; next worker notified and confirmed receipt. No boundary hold.",

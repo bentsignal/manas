@@ -109,5 +109,13 @@
       970
     ],
     "details": "Compared both printed verse columns against original-resolution rendering; all 78 narrative lines present and ordered."
+  },
+  "alignment_check": {
+    "method": "source-English row semantic audit",
+    "checked_by": "Codex QA",
+    "date": "2026-09-15",
+    "rows": 78,
+    "status": "draft; no independent specialist review",
+    "details": "Compared every English row with its exact extracted Kyrgyz source ID. Corrected semantic displacement at rows 1-2, 33-34, 69-70, 73-74, and 76-77, and corrected row 18, while preserving one English row per source row."
   }
 }

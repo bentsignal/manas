@@ -39,14 +39,18 @@ for path in sorted((root/'corpus/batches').glob('pages-*.json')):
     pages = b['transcription_check']['pdf_pages']
     source_id = sources[extraction][0]['source_id']
     covered_pages.setdefault(source_id, set()).update(pages)
-    region = [r for r in sources[extraction] if r['page'] in pages]
     exclusions = b.get('excluded_source_ids', [])
     excluded = {x['id']: x for x in exclusions}
+    # A registered damaged or missing boundary leaf can sit immediately before
+    # or after the translated page range. Keep those explicit positions in the
+    # audited region instead of forcing them into a translated page number.
+    region = [r for r in sources[extraction]
+              if r['page'] in pages or r['id'] in excluded]
     unresolved.update(x['id'] for x in exclusions if x.get('kind') == 'unresolved_source')
     withheld.update(x['id'] for x in exclusions if x.get('kind') == 'content_withheld')
     assert len(excluded) == len(exclusions), f'{path.name}: duplicate exclusions'
     for item in exclusions:
-        assert item.get('kind') in ['heading','prose','unresolved_source','content_withheld'] and item.get('reason'), f'{path.name}: unjustified exclusion'
+        assert item.get('kind') in ['heading','prose','overlap','unresolved_source','content_withheld'] and item.get('reason'), f'{path.name}: unjustified exclusion'
     assert set(excluded).issubset({r['id'] for r in region}), f'{path.name}: exclusion outside selected pages'
     expected = [r['id'] for r in region if r['id'] not in excluded and r['text'].strip() != 'www.bizdin.kg']
     assert set(expected) == set(contributing_ids), f'{path.name}: source gap or unexpected fragment'

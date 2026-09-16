@@ -1,6 +1,6 @@
 {
-  "saved_draft_rows": 388432,
-  "released_draft_rows": 388432,
+  "saved_draft_rows": 405977,
+  "released_draft_rows": 405977,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
@@ -25,13 +25,50 @@
   "unresolved_source_regions": [
     "manas-2010:p0048:b002:l002",
     "manas-2010:p0048:b002:l003",
-    "manas-2010:p0048:b002:l004"
+    "manas-2010:p0048:b002:l004",
+    "sayakbay-ms-current133:folio002:missing-scan",
+    "sayakbay-ms-current133:pdf004:l001",
+    "sayakbay-ms-current133:pdf004:l002",
+    "sayakbay-ms-current133:pdf004:l003",
+    "sayakbay-ms-current133:pdf004:l004",
+    "sayakbay-ms-current133:pdf004:l005",
+    "sayakbay-ms-current133:pdf004:l006",
+    "sayakbay-ms-current133:pdf004:l007",
+    "sayakbay-ms-current133:pdf004:l008",
+    "sayakbay-ms-current133:pdf004:l009",
+    "sayakbay-ms-current133:pdf004:l010",
+    "sayakbay-ms-current133:pdf004:l011",
+    "sayakbay-ms-current133:pdf004:l012",
+    "sayakbay-ms-current133:pdf004:l013",
+    "sayakbay-ms-current133:pdf004:l014",
+    "sayakbay-ms-current133:pdf004:l015",
+    "sayakbay-ms-current133:pdf004:l016",
+    "sayakbay-ms-current133:pdf004:l017",
+    "sayakbay-ms-current133:pdf004:l018",
+    "sayakbay-ms-current133:pdf004:l019",
+    "sayakbay-ms-current133:pdf004:l020",
+    "sayakbay-ms-current133:pdf004:l021",
+    "sayakbay-ms-current133:pdf004:l022",
+    "sayakbay-ms-current133:pdf004:l023",
+    "sayakbay-ms-current133:pdf004:l024",
+    "sayakbay-ms-current133:pdf004:l025",
+    "sayakbay-ms-current133:pdf004:l026",
+    "sayakbay-ms-current133:pdf004:l027",
+    "sayakbay-ms-current133:pdf004:l028",
+    "sayakbay-ms-current133:pdf004:l029",
+    "sayakbay-ms-current133:pdf004:l030",
+    "sayakbay-ms-current133:pdf004:l031",
+    "sayakbay-ms-current133:pdf004:l032",
+    "sayakbay-ms-current133:pdf004:l033",
+    "sayakbay-ms-current133:pdf004:l034",
+    "sayakbay-ms-current133:pdf004:l035",
+    "sayakbay-ms-current133:pdf004:l036"
   ],
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 2044576,
-  "released_english_words": 2044578,
+  "saved_draft_english_words": 2149602,
+  "released_english_words": 2149604,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
   "saved_page_ranges_by_source": {
@@ -45,6 +82,30 @@
       [
         315,
         348
+      ]
+    ],
+    "sayakbay-ms-current133": [
+      [
+        6,
+        37
+      ]
+    ],
+    "sayakbay-ms-current144": [
+      [
+        3,
+        193
+      ]
+    ],
+    "sayakbay-ms-current145": [
+      [
+        3,
+        199
+      ]
+    ],
+    "sayakbay-ms-current146": [
+      [
+        5,
+        252
       ]
     ],
     "semetey-1-2013": [

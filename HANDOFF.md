@@ -24,10 +24,12 @@ python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site
 ## Local correction checkpoint, not deployed
 
 On 2026-09-23, 19 mistranslated English rows on printed Seytek page 972
-were corrected in the page batch and canonical release. The local compiled
-release now has **408,269 rows and 2,163,378 English words** (+32 words);
-the verified live version above still has 2,163,346 words. The corrections
-are recorded in `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json`.
+and eight more on page 976 were corrected in their page batches and the canonical
+release. The local compiled release now has **408,269 rows and 2,163,384
+English words** (+38 words); the verified live version above still has
+2,163,346 words. The corrections are recorded in
+`research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json` and
+`research/SEYTEK-0976-TRANSLATION-CORRECTIONS-2026-09-23.json`.
 Alignment, draft audit, release compilation, tests, and production build passed.
 No inventory-142 row was released, and the complete flag remains false.
 

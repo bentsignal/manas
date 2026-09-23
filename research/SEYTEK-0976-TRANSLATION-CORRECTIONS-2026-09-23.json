@@ -1,0 +1,62 @@
+{
+  "source": "sources/extracted/seytek-2012.lines.jsonl",
+  "batch": "corpus/batches/pages-seytek-0976.json",
+  "method": "targeted source-English semantic review in adjacent verse context; checked against 180-dpi inventory-142 manuscript alignment candidates, without claiming diplomatic manuscript transcription",
+  "checked_by": "Codex",
+  "date": "2026-09-23",
+  "independent_specialist_review": false,
+  "lexical_refs": [
+    "https://el-sozduk.kg/alysh-2/",
+    "https://el-sozduk.kg/er-12/"
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0976:b003:l021",
+      "old": "If you are Mr. Sarybay,",
+      "en": "If you are Sarybai the brave,",
+      "reason": "Эр is a heroic epithet, not the English title Mr."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l022",
+      "old": "Put a lot of distance,",
+      "en": "Fight with all your might,",
+      "reason": "Алыш is combat or wrestling; арбын intensifies the amount, not physical distance."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l024",
+      "old": "Without moving,",
+      "en": "Without moving a muscle,",
+      "reason": "Кыймылдабай кылт этпей doubles the image of remaining absolutely still."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l025",
+      "old": "Don't worry, don't act.",
+      "en": "Without swaying or twitching,",
+      "reason": "Кыйшаңдабай кылк этпей describes bodily stillness, not worry or inaction."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l027",
+      "old": "Reach and spear.",
+      "en": "Close in and strike with your spear.",
+      "reason": "Жетип найза уруңуз is an imperative to close the distance and thrust or strike with a spear."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l032",
+      "old": "Let's say, so Kuyaly",
+      "en": "So saying, Kuyaly",
+      "reason": "Деп, ошентип introduces Kuyaly as the speaker; it is not an invitation to the reader."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l034",
+      "old": "Free from speech,",
+      "en": "Reluctant to speak,",
+      "reason": "Сүйлөөр сөздөн эринип means shrinking from or feeling reluctant to speak."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l036",
+      "old": "Start talking slowly,",
+      "en": "Began speaking softly,",
+      "reason": "Аста сүйлөп кеп баштап means beginning to speak quietly or gently."
+    }
+  ]
+}

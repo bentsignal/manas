@@ -2081,6 +2081,20 @@
       "rows_checked": 768,
       "status": "draft; no independent specialist review",
       "details": "Audited the 768 English rows on printed pages 640 through 649 against their exact canonical Kyrgyz source IDs and grouped fragments. Corrected page 646 row 7, page 647 row 48, page 648 rows 19-20, and page 649 row 35; preserved all IDs, unresolved-source exclusions, provenance, and row boundaries. Pages 632 through 639 and 650 through 651 were outside this targeted QA pass."
+    },
+    "targeted_qa_2026_09_23_source_mismatch": {
+      "method": "targeted source-English semantic review in adjacent verse context",
+      "checked_by": "Codex",
+      "date": "2026-09-23",
+      "page_range": [
+        637,
+        637
+      ],
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0637:b003:l026"
+      ],
+      "details": "Corrected this exact source-English mismatch after comparing neighboring printed-source verses; see research/SEMETEY-FOUR-FURTHER-CORRECTIONS-2026-09-23.json."
     }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",

@@ -404,7 +404,21 @@
       152
     ],
     "rows_checked": 220,
-    "scope": "Every included narrative row on printed pages 150–152 was compared with its exact Kyrgyz source row; one lexical error was corrected without changing source IDs, exclusions, or row count."
+    "scope": "Every included narrative row on printed pages 150–152 was compared with its exact Kyrgyz source row; one lexical error was corrected without changing source IDs, exclusions, or row count.",
+    "targeted_qa_2026_09_23_source_mismatch": {
+      "method": "targeted source-English semantic review in adjacent verse context",
+      "checked_by": "Codex",
+      "date": "2026-09-23",
+      "page_range": [
+        151,
+        151
+      ],
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0151:b003:l014"
+      ],
+      "details": "Corrected this exact source-English mismatch after comparing neighboring printed-source verses; see research/SEMETEY-FOUR-FURTHER-CORRECTIONS-2026-09-23.json."
+    }
   },
   "counts": {
     "english_verse_rows": 223,

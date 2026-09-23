@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-23",
+  "scope": "Four exact source-English corrections; uncertain nuance retained in notes.",
+  "rows": [
+    {
+      "source_id": "semetey-1-2013:p0151:b003:l014",
+      "previous_en": "I will take the horse",
+      "revised_en": "That was the wicked deed Kökchö committed then.",
+      "note": "The printed line attributes an act described as капыры to Kökchö. Wicked deed conveys the accusation without inventing a new event; exact nuance of капыры remains provisional."
+    },
+    {
+      "source_id": "semetey-1-2013:p0334:b003:l009",
+      "previous_en": "Over the bare waist with a cold,",
+      "revised_en": "Crossing one mountain pass after another,",
+      "note": "The line describes repeated crossing of passes; prior English introduced a bare waist and cold."
+    },
+    {
+      "source_id": "semetey-1-2013:p0587:b005:l031",
+      "previous_en": "Semetey, born of Manas,",
+      "revised_en": "My cherished one, born of my son.",
+      "note": "The source speaks in the first person of someone born of the speaker’s son; prior English supplied Manas as the father and changed the family relation."
+    },
+    {
+      "source_id": "semetey-1-2013:p0637:b003:l026",
+      "previous_en": "They loaded upon Aktulpar,",
+      "revised_en": "Loading them onto Abeke the slave,",
+      "note": "The source names Abeke the slave, not the horse Aktulpar. The referent of the object remains dependent on the preceding line."
+    }
+  ]
+}

@@ -366,7 +366,21 @@
     ],
     "rows_checked": 231,
     "status": "draft; no independent specialist review",
-    "details": "Audited all 231 included narrative rows on printed pages 216 through 218 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Two unresolved source verses remain excluded as documented."
+    "details": "Audited all 231 included narrative rows on printed pages 216 through 218 against their exact Kyrgyz source rows; the existing English rows were semantically sound and correctly aligned. Two unresolved source verses remain excluded as documented.",
+    "targeted_qa_2026_09_23_taikush": {
+      "method": "targeted source-English semantic review in adjacent verse context",
+      "checked_by": "Codex",
+      "date": "2026-09-23",
+      "page_range": [
+        216,
+        216
+      ],
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0216:b003:l028"
+      ],
+      "details": "Removed an invented sale-and-tribute action. The Kyrgyz describes Taikush with an argymak (thoroughbred) mane; Taikush is kept unglossed pending lexical review. See research/TAIKUSH-TRANSLATION-CORRECTIONS-2026-09-23.json."
+    }
   },
   "source_joiners": {}
 }

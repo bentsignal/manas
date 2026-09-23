@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-23",
+  "source": "semetey-1-2013",
+  "rows": [
+    {
+      "source_id": "semetey-1-2013:p0212:b004:l002",
+      "ky": "Аргымак жалдуу тайкушуң,",
+      "previous_en": "We shall sell our coursers and pay tribute;",
+      "revised_en": "Your Taikush, with a thoroughbred’s mane,",
+      "note": "The previous English invented selling horses and tribute. Taikush is retained as an unglossed epithet/name because its exact lexical sense is not established."
+    },
+    {
+      "source_id": "semetey-1-2013:p0216:b003:l028",
+      "ky": "Аргымак жалдуу тайкушум",
+      "previous_en": "We shall sell our coursers and pay tribute;",
+      "revised_en": "My Taikush, with a thoroughbred’s mane,",
+      "note": "The previous English invented selling horses and tribute. Taikush is retained as an unglossed epithet/name because its exact lexical sense is not established."
+    },
+    {
+      "source_id": "semetey-1-2013:p0260:b004:l028",
+      "ky": "«Аргымак жалдуу тайкушум,",
+      "previous_en": "We shall sell our coursers and pay tribute;",
+      "revised_en": "“My Taikush, with a thoroughbred’s mane,",
+      "note": "The previous English invented selling horses and tribute. Taikush is retained as an unglossed epithet/name because its exact lexical sense is not established."
+    },
+    {
+      "source_id": "semetey-1-2013:p0277:b003:l004",
+      "ky": "Аргымак жалдуу Тайкушмун,",
+      "previous_en": "We shall sell our coursers and pay tribute;",
+      "revised_en": "I am Taikush, with a thoroughbred’s mane,",
+      "note": "The previous English invented selling horses and tribute. Taikush is retained as an unglossed epithet/name because its exact lexical sense is not established."
+    }
+  ],
+  "scope_note": "Four exact source-English row corrections only; no claim that Taikush has been lexically resolved."
+}

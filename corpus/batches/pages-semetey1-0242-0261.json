@@ -2014,6 +2014,20 @@
       ],
       "rows_checked": 621,
       "details": "Audited all 621 included narrative rows on pages 242 through 249 and corrected two clear semantic errors while preserving strict row alignment."
+    },
+    "targeted_qa_2026_09_23_taikush": {
+      "method": "targeted source-English semantic review in adjacent verse context",
+      "checked_by": "Codex",
+      "date": "2026-09-23",
+      "page_range": [
+        260,
+        260
+      ],
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0260:b004:l028"
+      ],
+      "details": "Removed an invented sale-and-tribute action. The Kyrgyz describes Taikush with an argymak (thoroughbred) mane; Taikush is kept unglossed pending lexical review. See research/TAIKUSH-TRANSLATION-CORRECTIONS-2026-09-23.json."
     }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",

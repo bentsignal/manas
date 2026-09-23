@@ -2066,6 +2066,20 @@
       ],
       "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
       "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    },
+    "targeted_qa_2026_09_23_source_mismatch": {
+      "method": "targeted source-English semantic review in adjacent verse context",
+      "checked_by": "Codex",
+      "date": "2026-09-23",
+      "page_range": [
+        622,
+        622
+      ],
+      "rows_checked": 1,
+      "changed_source_ids": [
+        "semetey-1-2013:p0622:b003:l016"
+      ],
+      "details": "Corrected English clauses unrelated to the exact Kyrgyz source wording. See research/SEMETEY-SOURCE-MISMATCH-CORRECTIONS-2026-09-23.json."
     }
   },
   "publication_basis": "New direct model Kyrgyz-to-English translation of traditional epic narrative. No machine-translation API or previous English poem translation used. Kyrgyz/Russian dictionaries and Kyrgyz editorial glosses are lexical aids only; provisional translation and lineation, no expert certification.",

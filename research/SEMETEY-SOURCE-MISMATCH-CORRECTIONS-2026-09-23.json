@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-23",
+  "source": "semetey-1-2013",
+  "scope": "Four exact source-English row corrections in three printed page ranges; draft translation still awaits specialist review.",
+  "rows": [
+    {
+      "source_id": "semetey-1-2013:p0482:b004:l025",
+      "ky": "Будурала тоо менен",
+      "previous_en": "With the horse Aisarala,",
+      "revised_en": "Over rugged mountains,",
+      "note": "The surrounding verses describe crossing mountains and a plain; the previous English invented a horse. Будурала is provisionally rendered rugged."
+    },
+    {
+      "source_id": "semetey-1-2013:p0622:b003:l016",
+      "ky": "Жери тузаң куландуу,",
+      "previous_en": "Was called Talas.",
+      "revised_en": "A salt-tinged land of wild kulans,",
+      "note": "The Kyrgyz line describes terrain and kulans. Тузаң is provisionally rendered salt-tinged; its precise lexical sense needs specialist review. The previous English invented the place-name Talas."
+    },
+    {
+      "source_id": "semetey-1-2013:p0834:b004:l035",
+      "ky": "Же айыкпай жаткан доосу жок,",
+      "previous_en": "There is no bulging mountain,",
+      "revised_en": "Nor any grievance left unresolved,",
+      "note": "Доо names a grievance or dispute; the previous English described a mountain absent from the source."
+    },
+    {
+      "source_id": "semetey-1-2013:p0834:b004:l036",
+      "ky": "Же Анжыдан келген жоосу жок.",
+      "previous_en": "No one has returned from their side.",
+      "revised_en": "Nor any enemy come from Anjy.",
+      "note": "The source says an enemy has not come from Анжы; the previous English omitted both enemy and place."
+    }
+  ]
+}

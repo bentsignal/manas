@@ -2054,6 +2054,21 @@
       ],
       "audit": "research/GAP-FIRST-PASS-AUDIT-2026-09-15.json",
       "corrections": "research/GAP-FIRST-PASS-HIGH-SEVERITY-CORRECTIONS-2026-09-15.json"
+    },
+    "targeted_qa_2026_09_23_source_mismatch": {
+      "method": "targeted source-English semantic review in adjacent verse context",
+      "checked_by": "Codex",
+      "date": "2026-09-23",
+      "page_range": [
+        834,
+        834
+      ],
+      "rows_checked": 2,
+      "changed_source_ids": [
+        "semetey-1-2013:p0834:b004:l035",
+        "semetey-1-2013:p0834:b004:l036"
+      ],
+      "details": "Corrected English clauses unrelated to the exact Kyrgyz source wording. See research/SEMETEY-SOURCE-MISMATCH-CORRECTIONS-2026-09-23.json."
     }
   },
   "translation_provenance": "Direct model Kyrgyz-to-English translation from exact extraction and page images; no prior published English poem, external MT or MT API used. Primary dictionaries and original Kyrgyz editorial explanations only for lexical support. Same-model review; not independently specialist reviewed. Translation and verse lineation provisional.",

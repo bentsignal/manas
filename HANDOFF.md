@@ -1,6 +1,6 @@
 # Project handoff
 
-Last updated: 2026-09-20.
+Last updated: 2026-09-23.
 
 This repository publishes a completion-first English draft of the Sayakbay
 Karalaev Manas trilogy as one virtualized, continuously scrollable page. The
@@ -81,10 +81,11 @@ diagnostics only and are not canonical corpus figures.
   baselines. Page 52 ends at `seytek-2012:p0943:b003:l007`; page 53 begins at
   `seytek-2012:p0943:b003:l008`.
 - Pages 53–100: rebuilt from stable source IDs after the ordinal error; 2,874
-  physical rows and 15,424 English words. This range still needs an independent
-  image/boundary audit, especially around the point where PDF image number and
-  visible folio number cease following the simple `folio = 2317 + page`
-  formula.
+  physical rows and 15,424 English words. A direct scan audit established
+  distinct pages 61 and 62 both numbered folio 2378. The `folio` metadata of
+  all 2,322 rows on pages 62–100 was corrected on 2026-09-23; no verse text or
+  English was changed. The range still needs an independent image/boundary
+  audit. See `research/working/current142/folio-boundary-audit-2026-09-23.md`.
 - Pages 113–124 and 137–148: a partial direct-scan correction written before
   the worker stopped. These files validate structurally and are preserved as
   work in progress. They still need independent visual sampling and continuity
@@ -93,7 +94,9 @@ diagnostics only and are not canonical corpus figures.
 ### Invalid or incomplete ranges
 
 - Pages 101–112 and 125–136 still contain the invalid first attempt and must be
-  rebuilt from the authoritative scan.
+  rebuilt from the authoritative scan. The scan confirms PDF pages 101–104 are
+  folios 2417–2420, while those draft files label them 2415–2418. Draft pages
+  124 and 125 also repeat the same text despite distinct photographed leaves.
 - Pages 113–124 and 137–148 must be treated as provisional until independently
   checked; the correction job did not finish the surrounding range.
 - The physical-extent audit is unfinished. The current page files sum to 7,997

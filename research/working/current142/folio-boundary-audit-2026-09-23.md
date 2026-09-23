@@ -56,8 +56,10 @@ establish an additional verse. The saved 50-row page-105 file points to folio
 
 PDF page 106 is folio **2422**. It starts at printed `p0977:b004:l035`, ends
 provisionally at `p0978:b003:l006`, and PDF page 107 (folio **2423**) opens
-provisionally at `l007`. That bounds **52 printed verse rows**. The physical
-manuscript count remains open. The saved page-106 draft claims folio 2420 and
+provisionally at `l007`. That bounds **52 printed verse rows**. A separate
+180-dpi image count finds **52 handwritten verse lines**; a 53rd ink peak
+falls on the table beneath the photographed leaf. Exact manuscript wording
+still needs transcription. The saved page-106 draft claims folio 2420 and
 opens in the wrong printed passage. See `BOUNDARY-106-107-2026-09-23.md`.
 
 The page-124 and page-125 draft files are another clear invalid-range clue:

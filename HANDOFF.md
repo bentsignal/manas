@@ -79,8 +79,9 @@ wrong folio and passage and remains unreleased. See
 The page-106–107 boundary audit places photographed page 106 (folio 2422)
 against 52 provisional printed rows, from `p0977:b004:l035` through
 `p0978:b003:l006`; photographed page 107 (folio 2423) opens at `l007`.
-The manuscript's physical count on page 106 and exact readings remain to be
-checked. Its saved draft has the wrong folio and passage and remains excluded.
+A separate 180-dpi visual count finds 52 handwritten verse lines. Exact
+manuscript readings remain to be transcribed. Its saved draft has the wrong
+folio and passage and remains excluded.
 See `research/working/current142/BOUNDARY-106-107-2026-09-23.md`.
 
 The authoritative scan is:

@@ -1,0 +1,418 @@
+{
+  "source": "sources/extracted/seytek-2012.lines.jsonl",
+  "batch": "corpus/batches/pages-seytek-0978.json",
+  "method": "targeted Kyrgyz-English semantic review in adjacent verse context; printed edition source IDs; inventory-142 manuscript alignment remains provisional",
+  "checked_by": "Codex",
+  "date": "2026-09-23",
+  "independent_specialist_review": false,
+  "lexical_refs": [
+    "https://el-sozduk.kg/%D0%B1%D1%83%D1%83%D0%B4%D0%B0%D0%BD/",
+    "https://el-sozduk.kg/%D0%B1%D1%83%D0%BB%D0%B4%D1%83%D1%80%D1%81%D1%83%D0%BD/",
+    "https://el-sozduk.kg/%D1%82%D0%BE%D0%BC%D1%83%D0%BA/",
+    "https://el-sozduk.kg/zhagalmay/",
+    "https://el-sozduk.kg/%D0%9A%D0%90%D0%A7%D0%AB%D0%A0/",
+    "https://new.bizdin.kg/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._1960_%D0%B3..pdf",
+    "https://el-sozduk.kg/%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE/",
+    "https://el-sozduk.kg/%D0%BA%D0%B5%D0%BD%D0%B5/",
+    "https://el-sozduk.kg/%D0%B4%D0%B0%D2%A3%D0%B3%D1%8B%D0%BB/",
+    "https://el-sozduk.kg/%D0%B7%D0%B0%D0%B0%D1%80/"
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0978:b002:l001",
+      "old": "Full of true courage,",
+      "en": "His true courage rose to the full,",
+      "reason": "Чын кайраты бүт толуп: his courage fills."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l002",
+      "old": "Looking at both sides",
+      "en": "He glanced to either side,",
+      "reason": "Эки жагын каранып: he looks to both sides."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l003",
+      "old": "Get angry,",
+      "en": "Growing fierce with anger,",
+      "reason": "Ачууланып is participial, not an imperative."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l004",
+      "old": "Licking his nose",
+      "en": "Licking his lips and nose,",
+      "reason": "Эрди-мурдун includes lips and nose."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l006",
+      "old": "Courage boils, soul beats,",
+      "en": "His courage boiling, his spirit surging,",
+      "reason": "Кайрат кайнап, жан уруп describes courage and spirit in motion."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l007",
+      "old": "Strong courage began.",
+      "en": "He summoned fierce resolve.",
+      "reason": "Катуу кайрат баштады describes Sarybai taking up fierce resolve."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l008",
+      "old": "Lived again to death,",
+      "en": "His precious life to death",
+      "reason": "Кайран жанды өлүмгө names his life as the object sent toward death."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l009",
+      "old": "He just tied it up.",
+      "en": "He simply bound and cast away.",
+      "reason": "Жөн эле байлап таштады continues the preceding object."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l010",
+      "old": "Chicken in front of me",
+      "en": "Tooqyzyl, the horse beneath him,",
+      "reason": "Тоокызыл is the named horse, not a chicken."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l011",
+      "old": "The back is high, the head is sad,",
+      "en": "High-backed, with a low rump,",
+      "reason": "Аркасы and соору are the horse’s back and rump."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l012",
+      "old": "Don't get tired if you put it forward.",
+      "en": "Would not tire when driven ahead.",
+      "reason": "Алдыга салса чарчабас praises the horse’s stamina."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l013",
+      "old": "Broad chest, smooth mane,",
+      "en": "Broad of chest and low of mane,",
+      "reason": "Кең көкүрөк and тайкы жал describe the horse."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l014",
+      "old": "Contracted steam,",
+      "en": "The handsome swift steed,",
+      "reason": "Буудан is an epic epithet for a fast horse."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l015",
+      "old": "May it be a black cheek,",
+      "en": "His black-jawed warrior’s whip",
+      "reason": "Булдурсун is a hero’s heavy whip."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l016",
+      "old": "I can't hold back,",
+      "en": "He grasped and swung around,",
+      "reason": "Кармай калып имерип describes taking hold and swinging the whip."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l017",
+      "old": "Don't stop the heather,",
+      "en": "Without halting Tooqyzyl,",
+      "reason": "Тоокызыл is a proper horse name; токтотпой means without halting."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l018",
+      "old": "Put it in the oven,",
+      "en": "He struck it at the kneecap.",
+      "reason": "Томук is kneecap; the parallel 1960 edition repeats the whip action."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l019",
+      "old": "That's when Tookizil",
+      "en": "Then Tooqyzyl",
+      "reason": "Consistent rendering of the horse’s name."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l020",
+      "old": "Divided like a sheep",
+      "en": "Its thighs spread like a sheep’s,",
+      "reason": "Койдой саны бөлүнүп describes the horse’s thighs, not an unnamed divided object."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l021",
+      "old": "A comfortable back is made,",
+      "en": "Its back straightened like a hare’s,",
+      "reason": "Ко¸ндой represents коёндой, like a hare; жону is its back."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l022",
+      "old": "His mouth opened like a saw,",
+      "en": "Its mouth opened wide,",
+      "reason": "Араандай оозу ачылып means the mouth gaped wide."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l023",
+      "old": "Hardened hoof",
+      "en": "Its once-stiff hooves",
+      "reason": "Катып кеткен туягы names stiffened hooves."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l024",
+      "old": "written as a plate,",
+      "en": "Spread out as broad as plates,",
+      "reason": "Табактай болуп жазылып likens spreading to plates."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l025",
+      "old": "Being known,",
+      "en": "Showing itself a true swift steed,",
+      "reason": "Тулпардыгы билинип reveals its tulpar nature."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l026",
+      "old": "Throwing like an arrow,",
+      "en": "Leaping and gathering itself like an arrow,",
+      "reason": "Жебедей ыргып түйүлүп is a leap and gathered motion compared to an arrow."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l027",
+      "old": "Don't be rude",
+      "en": "The kestrel-like boar’s muzzle",
+      "reason": "Жагалмай is a small falcon, and доңуздун is the genitive of boar; the noun continues into the next line."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l028",
+      "old": "He turned his mouth.",
+      "en": "He turned without tiring.",
+      "reason": "Жадабай describes tireless action, while оозун бурду takes the boar’s muzzle from the preceding line as object."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l030",
+      "old": "What's the point of running away?",
+      "en": "What use was it when he charged?",
+      "reason": "Качырганда in the spear battle is charging, not fleeing."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l031",
+      "old": "A disbelieving slave full of anger,",
+      "en": "The infidel warrior, brimming with strength,",
+      "reason": "Каруусу толуп refers to bodily strength, not anger."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l032",
+      "old": "Kan Sarybai is a heroic servant,",
+      "en": "Khan Sarybai, that warrior,",
+      "reason": "Кан is the khan title; баатыр is warrior."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l033",
+      "old": "He broke the ice and took the mountain,",
+      "en": "He broke ice and conquered mountains,",
+      "reason": "Музду бузуп тоону алган gives two active deeds attributed to Sarybai."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l034",
+      "old": "The fortress was destroyed.",
+      "en": "Shattered fortresses and defeated foes.",
+      "reason": "Чеп кыйратып жоону алган continues Sarybai’s active deeds and names both forts and foes."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l035",
+      "old": "At first they knew the value,",
+      "en": "In earlier days his worth was known,",
+      "reason": "Башта баркын билишкен refers to others recognizing Sarybai’s worth before."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l036",
+      "old": "Flirting with the moon and the universe,",
+      "en": "Who had fought against all the world,",
+      "reason": "Ай-аалам менен тийишкен means contending with the world."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l037",
+      "old": "To the world whose name is heard,",
+      "en": "His name heard across the world,",
+      "reason": "Аты угулган ааламга says his name was heard widely."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l038",
+      "old": "The ghost is gone.",
+      "en": "His renown reached far and wide.",
+      "reason": "Арбагы чыккан далайга praises his far-reaching heroic prestige, not a departed ghost."
+    },
+    {
+      "id": "seytek-2012:p0978:b002:l040",
+      "old": "God has definitely struck now.",
+      "en": "Now God had struck him in earnest.",
+      "reason": "Аныктап Кудай урду эми is divine judgment upon Sarybai."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l002",
+      "old": "Kurkuruta stretched out.",
+      "en": "He thrust it out with a roar.",
+      "reason": "Күркүрөтө describes the roaring manner of extending the spear."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l003",
+      "old": "Then the man's eyebrows -",
+      "en": "Aiming for the warrior’s brow,",
+      "reason": "Кайран эрдин кашы names an intended target."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l004",
+      "old": "If it is far away, it will be fine",
+      "en": "If approached from afar on the other side,",
+      "reason": "Алыс келсе тетири sets a conditional direction, distant and opposite; it does not mean all will be fine."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l005",
+      "old": "The head of the heart",
+      "en": "Aiming for the seat of his heart,",
+      "reason": "Жүрөгүнүн башы names the heart’s vital part."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l006",
+      "old": "Kojjal's black eye -",
+      "en": "Aiming for the black eyes of that wolf-like hero,",
+      "reason": "Көкжал is a heroic epithet; кара көзү are the black eyes."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l007",
+      "old": "It is the land itself that dies.",
+      "en": "The very place where he would die,",
+      "reason": "Как өлөр жердин өзү refers to the very place of death, not the land dying."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l009",
+      "old": "The fall of the hip - that,",
+      "en": "At the level of his windpipe,",
+      "reason": "Колко is the throat or windpipe, not the hip."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l010",
+      "old": "Let the spear strike without moving,",
+      "en": "Let the spear strike without wavering;",
+      "reason": "Козголбостон means without moving or wavering; the line directs the spear thrust."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l011",
+      "old": "This is what will fall.",
+      "en": "Then he will fall.",
+      "reason": "Кулап кетээр ушул means this one will fall."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l012",
+      "old": "It is the time of death.",
+      "en": "The moment of death is here.",
+      "reason": "Ажалдын убак тушу names the moment of death."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l013",
+      "old": "Even though he is eighty years old,",
+      "en": "Even if he had eighty lives,",
+      "reason": "Сексен жаны means eighty lives, not eighty years of age."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l014",
+      "old": "Even if the blue tick is full,",
+      "en": "Even if he swelled like a blue tick,",
+      "reason": "Көк кенедей толсо да is a simile: even if he swelled like a blue tick."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l015",
+      "old": "An advanced letter,",
+      "en": "That foolish woman,",
+      "reason": "Катынды is woman (accusative), not a letter; алжаңдаган describes foolish or crazed behavior."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l016",
+      "old": "I will take a walk in the afternoon,",
+      "en": "This is my time to turn and spear her,",
+      "reason": "Аңтара саяр is a spear thrust that overturns; чагым is my time."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l017",
+      "old": "I found it now.",
+      "en": "Now my moment has come.",
+      "reason": "Азыр келди табым means my moment or opportunity has now come."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l018",
+      "old": "The dream of giving feces -",
+      "en": "The moment for him to soil himself,",
+      "reason": "Тезегин берген тушу refers to a moment of giving dung; dream is absent. The idiomatic reading as soiling himself is contextual."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l019",
+      "old": "If I straightened up and hit the spear,",
+      "en": "If I stretch out and strike true with my spear,",
+      "reason": "Керилип найза чын урсам describes a true spear thrust made at full stretch."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l021",
+      "old": "Dream of a naughty letter,",
+      "en": "That wayward woman's fancy,",
+      "reason": "Катындын is of the woman, not of a letter; кыялы тентек is wayward fancy."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l023",
+      "old": "Even if it's ninety souls,",
+      "en": "Even if he had ninety lives,",
+      "reason": "Токсон жаны means ninety lives, not ninety souls."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l024",
+      "old": "Time without stopping -",
+      "en": "There is no stopping him now;",
+      "reason": "Токтоосу жок means without restraint or stopping."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l025",
+      "old": "Can't stop Sarybay,",
+      "en": "Unable to restrain himself, Sarybay",
+      "reason": "Токтоно албай is unable to restrain himself; Sarybay is the subject."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l031",
+      "old": "There is a way, there is strength,",
+      "en": "He has cunning, and his venom is strong;",
+      "reason": "Айласы is cunning or stratagem; заары күч means potent venom or wrath."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l032",
+      "old": "Who escaped death.",
+      "en": "Who has ever escaped death?",
+      "reason": "Ажалдан кимдер кутулган is a rhetorical question about escaping death."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l033",
+      "old": "A wild dog that sees the field,",
+      "en": "A seasoned hound who has seen much,",
+      "reason": "Даңгыл means seasoned/skilled; далайды көргөн means having seen much."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l035",
+      "old": "Scouting and calling",
+      "en": "Scouting and spying on the foe,",
+      "reason": "Жоо чалып describes scouting or spying on the enemy."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l037",
+      "old": "He is a used slave.",
+      "en": "He is a servant long accustomed to it.",
+      "reason": "Мурунтан көнгөн means accustomed from before, not used as an object."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l038",
+      "old": "Without counting the roots,",
+      "en": "Without counting those around him,",
+      "reason": "Теги айланта санабай says he does not count those around him; roots are absent."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l039",
+      "old": "Looking around,",
+      "en": "Without looking about him,",
+      "reason": "Тегерегин карабай negates looking around."
+    },
+    {
+      "id": "seytek-2012:p0978:b003:l040",
+      "old": "It's rabid,",
+      "en": "His very cunning ran wild,",
+      "reason": "Деги айланы кутургур describes cunning or stratagem running wild; the subject is not an animal."
+    }
+  ]
+}

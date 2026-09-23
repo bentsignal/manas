@@ -24,14 +24,19 @@ python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site
 ## Local correction checkpoint, not deployed
 
 On 2026-09-23, 19 mistranslated English rows on printed Seytek page 972,
-eight on page 976, 28 more across pages 976–977, and 66 on page 978 were
+eight on page 976, 28 more across pages 976–977, 66 on page 978, 79 on page
+979, and 75 on page 980 were
 corrected in their page batches and the canonical release. The local compiled release now has
-**408,269 rows and 2,163,476 English words** (+130 words); the verified live
+**408,269 rows and 2,163,723 English words** (+377 words); the verified live
 version above still has 2,163,346 words. The corrections are recorded in
 `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-0977-TRANSLATION-CORRECTIONS-2026-09-23.json` and
-`research/SEYTEK-0978-TRANSLATION-CORRECTIONS-2026-09-23.json`.
+`research/SEYTEK-0978-TRANSLATION-CORRECTIONS-2026-09-23.json`,
+`research/SEYTEK-0979-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
+`research/SEYTEK-0980-TRANSLATION-CORRECTIONS-2026-09-23.json`.
+Page 980 retains one Kyrgyz term in transliteration with an explicit
+unresolved-reading note; neither page has an independent specialist review.
 Alignment, draft audit, release compilation, tests, and production build passed.
 No inventory-142 row was released, and the complete flag remains false.
 
@@ -101,6 +106,10 @@ the same verse sequence; PDF page 110 continues with folio **2425**. Count
 folio 2424 once in the physical-extent audit. The saved page-108 and
 page-109 draft files assign the wrong folios and text and remain unreleased.
 See `research/working/current142/DUPLICATE-108-109-2026-09-23.md`.
+PDF page 111 continues with folio **2426**. The saved page-110 and page-111
+drafts each label their photographed folio one number behind; neither margin
+number (46 or 48) has been checked as a physical line count. See
+`research/working/current142/PAGE-110-111-AUDIT-2026-09-23.md`.
 An all-pairs SIFT candidate screen of PDF narrative pages 4–148 found this
 pair as the only strong photo match (281 geometric inliers; next highest 28).
 That screen is a lead for the visual audit, not a proof of no other duplicate.

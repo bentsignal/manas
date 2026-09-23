@@ -1,0 +1,284 @@
+{
+  "source": "seytek-2012 printed page 979",
+  "batch": "corpus/batches/pages-seytek-0979.json",
+  "method": "root review of lines 41-80 against source and immediate context",
+  "lexical_refs": [
+    "https://new.bizdin.kg/media/books/%D0%AD%D0%BF%D0%BE%D1%81_%D0%9C%D0%B0%D0%BD%D0%B0%D1%81._%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE_%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%83_%D0%A1%D0%B0%D0%B3%D1%8B%D0%BC%D0%B1%D0%B0%D1%8F_%D0%9E%D1%80%D0%BE%D0%B7%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0._%D0%A7%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0.pdf",
+    "https://el-sozduk.kg/%D0%91%D0%AB%D0%9B%D0%A7%D0%AB%D0%9B%D0%94%D0%90/"
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0979:b004:l001",
+      "old": "If Onogor shoots, the bullet will not go through,",
+      "en": "Even if an onogor gun fires, its bullet cannot pierce it,",
+      "reason": "Onogor is a type of gun; the line says its bullet cannot pierce the armor.",
+      "kyrgyz": "Оногор атса, ок өтпөс,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l002",
+      "old": "It will not pass if they turn,",
+      "en": "And in a wrestling struggle, no hand can get through.",
+      "reason": "Armor blocks a hand in wrestling, not a person passing.",
+      "kyrgyz": "Оодарышса кол өтпөйт,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l003",
+      "old": "Bringing to the body,",
+      "en": "Fitted to the body,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Баданына келтирип,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l004",
+      "old": "The wrestler stared and regretted,",
+      "en": "It was stitched with a master’s firm stitches.",
+      "reason": "кайыган denotes stitching, in this armor-making sequence.",
+      "kyrgyz": "Балбан тиктеп кайыган,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l005",
+      "old": "Six thousand spears thrust one,",
+      "en": "Even if six thousand spears thrust at once,",
+      "reason": "Thrusting spears, not “six thousand spears thrust one”.",
+      "kyrgyz": "Алты миң найза бир сайса,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l006",
+      "old": "Not everywhere,",
+      "en": "They could not reach through to the other side,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Ар жагына жолобой,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l007",
+      "old": "Face to face,",
+      "en": "But glanced away in every direction.",
+      "reason": "Spears glance off in all directions.",
+      "kyrgyz": "Туш-туш жакка кайыган,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l008",
+      "old": "The piercing of the spear,",
+      "en": "As for piercing it with a spear,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Найза сайып өткөнү,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l009",
+      "old": "Many craftsmen,",
+      "en": "Many of the craftsmen",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Усталардын далайын,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l010",
+      "old": "He scolded me for not knowing.",
+      "en": "Were rebuked for not knowing how.",
+      "reason": "The craftsmen are rebuked, not the narrator.",
+      "kyrgyz": "Билбейсиң деп сөктүргөн."
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l011",
+      "old": "Send steel,",
+      "en": "They filed down the steel",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Болот эгеп жиберип,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l012",
+      "old": "He dumped it on the ground.",
+      "en": "And had it cast at the appointed place.",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Болжолдуу жерге төктүргөн."
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l013",
+      "old": "Sarybai will cause conflict,",
+      "en": "That Sarybai would start a fight,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Сарыбай жаңжал саларын,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l014",
+      "old": "The clock is about to start,",
+      "en": "That the hour of it was beginning,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Саат баштап каларын,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l015",
+      "old": "Get confused,",
+      "en": "That they would clash fiercely",
+      "reason": "былчылдашып means clashing/fighting fiercely.",
+      "kyrgyz": "Былчылдашып калышып,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l016",
+      "old": "It will cause a problem,",
+      "en": "And bring on a great calamity,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Бир мүшкүлдү саларын,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l017",
+      "old": "Did you know?",
+      "en": "Surely she had known it beforehand.",
+      "reason": "Narrative rhetorical question expresses her foreknowledge.",
+      "kyrgyz": "Биле келген эмеспи,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l018",
+      "old": "Deliberately",
+      "en": "Deliberately drawing aside,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Атайылап арылап,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l019",
+      "old": "This tone, asking gently,",
+      "en": "She asked coaxingly for this coat",
+      "reason": "тон means coat/garment.",
+      "kyrgyz": "Наздап сурап бу тонду,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l020",
+      "old": "Didn't you wear it?",
+      "en": "And came wearing it.",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Кие келген эмеспи."
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l021",
+      "old": "The shot piled up,",
+      "en": "The bullets he fired came thudding,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Аткан огу топулдап,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l022",
+      "old": "Pouring everywhere.",
+      "en": "Pouring in from every side.",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Ар бир жакка куюлуу."
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l023",
+      "old": "He disbelieved Sarybay,",
+      "en": "That infidel Sarybai,",
+      "reason": "капыр is an epithet for the enemy, not a verb of disbelief.",
+      "kyrgyz": "Ал Сарыбай капырды,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l025",
+      "old": "Take your turn",
+      "en": "To take his proper turn",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Чын кезегин алууга"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l026",
+      "old": "To strike with a spear,",
+      "en": "And strike with his spear,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Найза менен урууга,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l027",
+      "old": "The speech, the words,",
+      "en": "Without heeding the words that were spoken,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Айткан кепти, сөздөрдү,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l028",
+      "old": "Despite wandering around,",
+      "en": "Without looking around in turn,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Кыдырата карабай,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l029",
+      "old": "The scream shattered the stone.",
+      "en": "Shouted loud enough to split stone.",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Кыйкырыгы таш жарды."
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l030",
+      "old": "Kylcha took her life,",
+      "en": "Sparing his life not a hair’s breadth,",
+      "reason": "кылча means “by a hair”, not a person named Kylcha.",
+      "kyrgyz": "Кылча жанын аябай,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l031",
+      "old": "Looking around,",
+      "en": "Without looking about him,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Тегерете карабай,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l032",
+      "old": "Do not predict serious trouble,",
+      "en": "Without reckoning the grave danger,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Катуу мүшкүл болжобой,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l033",
+      "old": "Don't count dying,",
+      "en": "Without giving a thought to his death,",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Өлөрүн кылча санабай,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l034",
+      "old": "It's sharp, it's smooth,",
+      "en": "He was bold indeed, a lion indeed,",
+      "reason": "шер means lion, not smooth.",
+      "kyrgyz": "Өткүр да экен, шер да экен,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l035",
+      "old": "Olarman is also a relative.",
+      "en": "A man born ready to die.",
+      "reason": "өлөрман means reckless or ready to die, not a name.",
+      "kyrgyz": "Өлөрман тууган эр да экен."
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l036",
+      "old": "Who cares what is covered,",
+      "en": "He struck down whoever crossed his path;",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Кабылганды кайсаган,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l037",
+      "old": "It was one of the bloodshed.",
+      "en": "He was one who would shed blood.",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Кан төгөрдүн бири экен."
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l038",
+      "old": "It's a dream in the mountains,",
+      "en": "His breast held bitter grievances,",
+      "reason": "көөдөн is breast/chest, not mountains.",
+      "kyrgyz": "Көөдөнүндө кеп арман,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l039",
+      "old": "I see a lot of bad things,",
+      "en": "A seasoned man, steeped in wickedness:",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Көптү көргөн көп арам,"
+    },
+    {
+      "id": "seytek-2012:p0979:b004:l040",
+      "old": "This is a big scandal.",
+      "en": "What he sought was a great quarrel.",
+      "reason": "Corrects the English against the printed Kyrgyz line and surrounding syntax.",
+      "kyrgyz": "Мунун издегени чоң жаңжал."
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "source": "seytek-2012 printed page 980",
+  "batch": "corpus/batches/pages-seytek-0980.json",
+  "status": "proposal_only",
+  "method": "line-by-line Kyrgyz-English review; lexical checks against El-Sozduk and 1960 parallel episode",
+  "lexical_refs": {
+    "momunday": "https://el-sozduk.kg/%D0%BC%D0%BE/",
+    "ayza": "https://el-sozduk.kg/%D0%90%D0%99%D0%97%D0%90/",
+    "chilten": "https://el-sozduk.kg/kyrk-chilten-2/",
+    "etekte": "https://el-sozduk.kg/%D0%AD%D0%A2%D0%95%D0%9A%D0%A2%D0%95/",
+    "buchkak_idiom": "https://el-sozduk.kg/%D0%91%D0%A3%D0%A7%D0%9A%D0%90%D0%9A/",
+    "kenebe": "https://el-sozduk.kg/%D0%BA%D0%B5%D0%BD%D0%B5%D0%B1%D0%B5%D1%81/",
+    "horse_tookyzyl_1960_parallel": "https://new.bizdin.kg/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._1960_%D0%B3..pdf",
+    "khizr": "https://el-sozduk.kg/%D0%9A%D0%90%D0%99%D0%AB%D0%9F%20I/"
+  },
+  "uncertainties": [
+    "Line 30: чок in the damaged-spear description remains provisional.",
+    "Line 43: тон көтөрүп is read contextually as a coat bearing the blow; check the printed page and idiom before release.",
+    "Line 50: бир тогуз denotes nine guardians in this context, but their exact identity needs specialist review.",
+    "Line 59: Казайылын has no verified gloss; current English is plainly wrong but no replacement is offered pending source review.",
+    "Line 77: кыялыңдан кыңк этпей is translated contextually and warrants native-speaker review."
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0980:b002:l002",
+      "old": "Hardness is modest.",
+      "en": "Such was his ferocity.",
+      "reason": "момундай means “like this,” not “modest.”"
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l003",
+      "old": "Facetep held out a spear,",
+      "en": "He leveled his spear straight at her,",
+      "reason": "беттеп means facing or aiming toward; the source describes a spear attack."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l004",
+      "old": "Be patient with me.",
+      "en": "No mortal could withstand it.",
+      "reason": "Бенде is a mortal; чыдап тургусуз means impossible to endure."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l005",
+      "old": "Thick hands covered",
+      "en": "The great host pressed in around them,",
+      "reason": "калың кол is a massed army, not thick hands."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l006",
+      "old": "Don't worry,",
+      "en": "Leaving not a hair’s breadth of respite.",
+      "reason": "кылча means a hair’s breadth; такат is endurance or respite."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l007",
+      "old": "Sarybay is very angry",
+      "en": "Sarybay, fierce in anger,",
+      "reason": "Preserve epithet and syntax leading into the next line."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l008",
+      "old": "He is humble to hold.",
+      "en": "Fought in this fashion.",
+      "reason": "момундай means “thus”; кармашканы is his manner of grappling/fighting."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l009",
+      "old": "Actually, this is my spear",
+      "en": "“If this spear of mine truly strikes,",
+      "reason": "Sarybay’s direct internal speech begins here."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l010",
+      "old": "The angle of the elbow is",
+      "en": "It will strike at the elbow,” he thought.",
+      "reason": "чыканак is elbow; тушу marks the point/level of attack."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l012",
+      "old": "This is the real place to die.",
+      "en": "“This is where that mad bitch will truly die,” he thought.",
+      "reason": "Make future threat and referent clear without changing abusive source epithet."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l013",
+      "old": "Tune in with your thoughts,",
+      "en": "Spurring himself on with this thought,",
+      "reason": "күүлөнүп is becoming fired up, not tuning music."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l014",
+      "old": "He was walking around.",
+      "en": "He swaggered about.",
+      "reason": "одураңдап is rough, blustering movement."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l015",
+      "old": "If I fly a spear,",
+      "en": "“If I thrust my spear with all my strength,",
+      "reason": "чымырканып is straining with effort; найза урсам is a spear thrust."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l016",
+      "old": "Is it really cold?",
+      "en": "Will my spear not strike home?",
+      "reason": "айза is spear, variant of найза; not cold."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l017",
+      "old": "No matter how many heroes",
+      "en": "However great a hero she may be,",
+      "reason": "The singular opponent is Kuyaly."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l018",
+      "old": "Does the head not go into the ground?",
+      "en": "Will her head not sink to the ground?”",
+      "reason": "Rhetorical future of Kuyaly’s defeat."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l019",
+      "old": "Thought after thought,",
+      "en": "Thinking such thoughts to himself,",
+      "reason": "оя with ой ойлоп repeats “thought” for emphasis."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l020",
+      "old": "Slowly along the path, -",
+      "en": "His mind roaming at ease—",
+      "reason": "көңүл is mind/heart; жай бойлоп is moving calmly, not a path."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l021",
+      "old": "Sarybay thought",
+      "en": "Thus Sarybay pondered,",
+      "reason": "Syntactic continuation of thought."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l022",
+      "old": "Being rich in the mountains,",
+      "en": "Proud in his own breast,",
+      "reason": "көөдөн is chest/breast; figurative pride, not mountains."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l023",
+      "old": "The hen turned her mouth,",
+      "en": "And turned Tookyzyl’s head,",
+      "reason": "Тоокызыл is Sarybay’s horse, attested in this same episode."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l024",
+      "old": "A long steel spear,",
+      "en": "His deep-blue steel spear",
+      "reason": "көпкөк means intensely blue; болот means steel."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l025",
+      "old": "Kurkuruta stretched out.",
+      "en": "He thrust forward with a roar.",
+      "reason": "күркүрөтө is with a rumbling/roaring sound."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l026",
+      "old": "This is where you will die.",
+      "en": "“This is where you die,” he said,",
+      "reason": "Retain direct speech and threat."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l027",
+      "old": "You see, the hero Sarybay",
+      "en": "And Sarybay the hero, as you see,",
+      "reason": "Narrator’s apostrophe."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l028",
+      "old": "He said a lot,",
+      "en": "Struck with a resounding blow,",
+      "reason": "күп is impact sound; not “said a lot.”"
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l029",
+      "old": "He was punching.",
+      "en": "Driving his thrust home.",
+      "reason": "муштап conveys forceful strike/punch in this spear context."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l030",
+      "old": "Mayysip Aiza Chok,",
+      "en": "The spear bent and its tip blunted,",
+      "reason": "майышып = bent; айза = spear; чок suggests blunt stump/point. Translation provisional."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l031",
+      "old": "The lioness of Kayipchal",
+      "en": "Kayypchal’s lioness of a daughter",
+      "reason": "Кайыпчалдын кыз арстан: gendered hero epithet."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l032",
+      "old": "Shows wrestling",
+      "en": "Showed her wrestler’s strength.",
+      "reason": "балбандыгы көрүнүп = strength/prowess becoming manifest."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l033",
+      "old": "Blue moon when fighting",
+      "en": "When the blue spear struck,",
+      "reason": "көк айза is the blue spear, not the moon."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l034",
+      "old": "Disintegrated,",
+      "en": "It shattered into pieces.",
+      "reason": "быт-чыт болуп бөлүнүп is fragmentation."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l036",
+      "old": "Supported by forty chilte,",
+      "en": "Was protected by the Forty Chiltens.",
+      "reason": "кырк чилтен are forty supernatural guardians; retain name."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l037",
+      "old": "When struck by a hard spear,",
+      "en": "When the mighty spear struck her,",
+      "reason": "кыйын here describes the formidable spear."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l038",
+      "old": "All forty chilten",
+      "en": "All of the Forty Chiltens",
+      "reason": "Preserve established mythic name."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l039",
+      "old": "He took the lead.",
+      "en": "Caught her by the hem and held her up.",
+      "reason": "этектеп is to grasp a garment hem; support is inferred from surrounding lines."
+    },
+    {
+      "id": "seytek-2012:p0980:b002:l040",
+      "old": "The ghost of Beren Manas,",
+      "en": "The spirit of valiant Manas",
+      "reason": "берен is a valiant hero; арбак here ancestral spirit."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l001",
+      "old": "He was leaning.",
+      "en": "Stood beside her and supported her.",
+      "reason": "жөлөп-таяп means propping/supporting."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l002",
+      "old": "Best bastard ever",
+      "en": "The poor girl with the strong back",
+      "reason": "жону мыкты = strong-backed; бейбак marks unfortunate person, not insult."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l003",
+      "old": "Now the tone is lifted,",
+      "en": "Her coat now bore the blow;",
+      "reason": "тон is coat, and context is spear deflected from Kuyaly. Provisional contextual reading."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l004",
+      "old": "The ghost of Manas is a mountain",
+      "en": "The spirit of mountain-like Manas",
+      "reason": "Тоодой is mountain-like, qualifying Manas."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l005",
+      "old": "Now it's big.",
+      "en": "Now lifted her high.",
+      "reason": "чоң көтөрүп is great upholding; follows Manas’s spirit."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l006",
+      "old": "Happy birthday,",
+      "en": "Good fortune and blessings",
+      "reason": "бакты-таалай ырыс enumerates good fortune/prosperity, not birthday."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l007",
+      "old": "Now blindfolded,",
+      "en": "Turned their gaze upon her now.",
+      "reason": "көзүн салды = set an eye upon; байлап is to bind/attach, a personification."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l008",
+      "old": "The most expensive one is forty forty,",
+      "en": "The precious Forty Chiltens",
+      "reason": "кырк чилтен is a mythic group; not “forty forty.”"
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l009",
+      "old": "Now he leans forward from side to side.",
+      "en": "Propped her up from every side.",
+      "reason": "туш-туштан = from all sides; жөлөп = supported."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l010",
+      "old": "Support one nine,",
+      "en": "Her nine guardians",
+      "reason": "бир тогуз is an epic formula for nine protecting spirits; exact identity uncertain."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l011",
+      "old": "When supporting",
+      "en": "Came to her aid;",
+      "reason": "колдоп келип = came supporting."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l012",
+      "old": "Girl lion wrestler girl,",
+      "en": "That lioness, that wrestler girl,",
+      "reason": "кыз арстан балбан кыз is an epithet for Kuyaly."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l013",
+      "old": "The girl who hit the ground",
+      "en": "Who had crossed so much ground at a gallop,",
+      "reason": "кыйла жерди чапкан = ridden/traversed much land; not struck the ground."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l014",
+      "old": "Kyla is a girl who likes people.",
+      "en": "Who had pleased so many people,",
+      "reason": "кыйла киши жаккан = appealed to many people."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l015",
+      "old": "Led by my red father,",
+      "en": "Whom Father Khizr had led,",
+      "reason": "Кызыр is Khizr, legendary supernatural guide; not “red father.”"
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l016",
+      "old": "A girl who cares for the land.",
+      "en": "Whom he had watched over across many lands,",
+      "reason": "баккан means cared for; parallel to Khizr leading Kuyaly."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l017",
+      "old": "Don't worry, don't worry.",
+      "en": "Without swaying, without stirring,",
+      "reason": "кыйшаңдабай былк этпей expresses immobility."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l018",
+      "old": "Without flickering,",
+      "en": "Without a twitch, without a stir,",
+      "reason": "күлтылдабай / кылтылдабай conveys no flutter or tremor."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l020",
+      "old": "Praying to the Creator",
+      "en": "Praying to the Creator,",
+      "reason": "Preserve line; punctuation adjustment only."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l021",
+      "old": "Without flickering,",
+      "en": "Without flinching or heeding it,",
+      "reason": "кенебей = paying no heed; кылтылдабай = not twitching."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l022",
+      "old": "Sarybay's needle,",
+      "en": "She took Sarybay’s thrust;",
+      "reason": "сайганын refers to the spear thrust, not sewing needle."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l023",
+      "old": "Look at the weight.",
+      "en": "See how heavily it landed.",
+      "reason": "салмагын көр = see its weight/force; момундай = thus."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l024",
+      "old": "Unequal,",
+      "en": "She held it in utter contempt,",
+      "reason": "бучкагына теңебей idiom: held it as worth nothing."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l025",
+      "old": "Looking up and down,",
+      "en": "Without looking up or down,",
+      "reason": "өдө-ылдый = up and down; карабай = without looking."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l026",
+      "old": "She was a wrestler girl.",
+      "en": "The wrestler girl stood there.",
+      "reason": "Keep simple action and referent."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l027",
+      "old": "He is a Sarybay infidel",
+      "en": "To that infidel Sarybay",
+      "reason": "капырга marks Sarybay as infidel in this episode."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l028",
+      "old": "This is what he said:",
+      "en": "She spoke these words:",
+      "reason": "Direct speech follows."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l029",
+      "old": "\"You stretched out your spear,",
+      "en": "“You stretched out and thrust your spear;",
+      "reason": "найза сайдыңыз is spear thrust, not just stretching."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l030",
+      "old": "you took my turn",
+      "en": "You took your turn.",
+      "reason": "кезек is fighting turn."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l031",
+      "old": "It's raining,",
+      "en": "You drew your bow and rained down arrows,",
+      "reason": "жаа тартып = drew bow; жамгыр кылып = like rain."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l032",
+      "old": "Hail and shoot,",
+      "en": "You fired shots like hail,",
+      "reason": "мөндүр кылып = like hail; ок атып = fired projectiles."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l033",
+      "old": "You made a bad fight.",
+      "en": "And stirred up an ugly battle.",
+      "reason": "жаңжал = strife/fight; not an awkward “bad fight.”"
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l034",
+      "old": "Shoot faster,",
+      "en": "You even fired your shots in haste;",
+      "reason": "ашыгыраак = more hurriedly."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l035",
+      "old": "Shame on you",
+      "en": "What you did was shameful.",
+      "reason": "уят болду мунуңуз is a reproach addressed to Sarybay."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l037",
+      "old": "Don't give up on your dreams.",
+      "en": "Do not murmur or go back on your word;",
+      "reason": "кыялынан кыңк этпей: do not mutter/shift intent; linked to his promise. Provisional."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l038",
+      "old": "Don't pretend,",
+      "en": "Do not swerve or flinch;",
+      "reason": "кыя тартып = pull aside/slant; кылк этпей = without stirring."
+    },
+    {
+      "id": "seytek-2012:p0980:b003:l039",
+      "old": "Get used to the word.",
+      "en": "Agree to what I have said.",
+      "reason": "деген сөзгө көнүңүз = accept the spoken words; Kuyaly’s speech continues next page."
+    }
+  ]
+}

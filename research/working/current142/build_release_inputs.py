@@ -36,6 +36,15 @@ def load_jsonl(path: Path) -> list[dict]:
 
 
 def main() -> None:
+    # The page set is still mixed. Pages 101–112 and 125–136 use invalid
+    # ordinal-derived text, and the page-100 image boundary has not been
+    # reconciled with its purported printed counterpart. Do not emit release
+    # inputs until a complete scan/boundary audit removes this guard.
+    raise RuntimeError(
+        "Inventory 142 is not release-ready: rebuild invalid page ranges "
+        "and reconcile all photographed page boundaries first."
+    )
+
     rows = []
     for page in range(4, 149):
         path = WORK / f"page-{page:03}.reviewed.jsonl"

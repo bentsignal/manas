@@ -84,8 +84,10 @@ diagnostics only and are not canonical corpus figures.
   physical rows and 15,424 English words. A direct scan audit established
   distinct pages 61 and 62 both numbered folio 2378. The `folio` metadata of
   all 2,322 rows on pages 62–100 was corrected on 2026-09-23; no verse text or
-  English was changed. The range still needs an independent image/boundary
-  audit. See `research/working/current142/folio-boundary-audit-2026-09-23.md`.
+  English was changed. The page-100 photographed bottom does not securely
+  support its claimed last printed row, so the range still needs an independent
+  image/boundary audit. See
+  `research/working/current142/folio-boundary-audit-2026-09-23.md`.
 - Pages 113–124 and 137–148: a partial direct-scan correction written before
   the worker stopped. These files validate structurally and are preserved as
   work in progress. They still need independent visual sampling and continuity
@@ -127,7 +129,8 @@ research/working/current142/build_release_inputs.py
 ```
 
 `build_release_inputs.py` must not be used for publication until the mixed page
-set and physical-extent discrepancy are resolved.
+set and physical-extent discrepancy are resolved. It currently raises a
+release-readiness error before writing any output.
 
 ## Safe resume sequence
 

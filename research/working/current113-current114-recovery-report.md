@@ -64,3 +64,16 @@ This pass avoided re-requesting the URL candidates listed above and in the main 
 The two sample PDFs were also inspected for embedded provenance. Both have exactly five pages, no title/author/custom metadata or metadata stream, and identify only `ABBYY FineReader 12` as producer. Their creation timestamps are 2016-10-17 07:28:50 EDT (current 113) and 07:29:46 EDT (current 114), consistent with adjacent batch processing but revealing no original or full-scan filename.
 
 No full scan was recovered in this second pass. The strongest remaining public-web avenue is a later retry of Wayback CDX after its service outage; otherwise recovery requires the archive operator or another holding institution rather than additional blind filename expansion.
+
+## Wayback CDX retry, 2026-09-23
+
+The previously unavailable CDX endpoint responded with HTTP 200 and an empty
+JSON result (`[]`) for each of these wildcard URL searches, restricted to
+captured HTTP-200 resources:
+
+- `manuscript.bizdin.kg/static/media/pdf/*113*Semetei*`
+- `manuscript.bizdin.kg/static/media/pdf/*114*Semetei*`
+
+This closes the earlier endpoint-outage uncertainty for these two filename
+patterns. It does not rule out an archived full scan under an unrelated name
+or another host. No full scan was recovered.

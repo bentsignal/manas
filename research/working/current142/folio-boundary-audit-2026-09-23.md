@@ -38,6 +38,16 @@ they have identical opening and closing Kyrgyz lines, while the photographed
 pages show distinct folios 2438 and 2439 with different handwriting. Page 125
 still belongs to the rebuild range.
 
+After the locator correction, a closer inspection of PDF page 100 found a
+separate text-alignment risk. The file's last row is `Оодарышса кол өтпөйт,`
+with asserted printed counterpart `seytek-2012:p0979:b004:l002`; the writing
+at the photographed bottom of folio 2416 does not securely support that row.
+The photo also needs an independent check at its opening baseline. Therefore
+the pages 53–100 draft must not be treated as line-verified merely because its
+stable printed IDs are monotonic and its marginal row counts agree. The
+release-input builder now fails closed until the photographed boundaries and
+invalid ranges are resolved.
+
 ## Implications for the next pass
 
 1. Preserve both leaves numbered 2378 unless a line-by-line comparison proves

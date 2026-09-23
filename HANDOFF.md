@@ -101,6 +101,9 @@ the same verse sequence; PDF page 110 continues with folio **2425**. Count
 folio 2424 once in the physical-extent audit. The saved page-108 and
 page-109 draft files assign the wrong folios and text and remain unreleased.
 See `research/working/current142/DUPLICATE-108-109-2026-09-23.md`.
+An all-pairs SIFT candidate screen of PDF narrative pages 4–148 found this
+pair as the only strong photo match (281 geometric inliers; next highest 28).
+That screen is a lead for the visual audit, not a proof of no other duplicate.
 
 The authoritative scan is:
 

@@ -91,7 +91,7 @@ diagnostics only and are not canonical corpus figures.
   words.
 - Pages 25–38: 745 working rows and 4,355 English words, including 6
   explicitly unreadable/clipped rows. Physical page assignments need
-  reinspection. The [page 25–30 boundary audit](research/working/current142/BOUNDARY-025-026-2026-09-23.md)
+  reinspection. The [page 25–31 boundary audit](research/working/current142/BOUNDARY-025-026-2026-09-23.md)
   proves the drafts' page positions disagree with consecutive scan/printed
   anchors; do not release these rows as manuscript-only additions.
 - Pages 39–52: direct visual first pass; 661 physical rows and 3,873 English

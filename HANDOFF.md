@@ -89,8 +89,11 @@ diagnostics only and are not canonical corpus figures.
 - Pages 4–24: corrected from the authoritative scan and stable
   `seytek-2012` source IDs; 1,090 physical rows and 5,403 whitespace English
   words.
-- Pages 25–38: direct visual first pass; 745 physical rows and 4,355 English
-  words; 6 explicitly unreadable/clipped rows.
+- Pages 25–38: 745 working rows and 4,355 English words, including 6
+  explicitly unreadable/clipped rows. Physical page assignments need
+  reinspection. The [page 25–26 boundary audit](research/working/current142/BOUNDARY-025-026-2026-09-23.md)
+  proves the drafts' page positions disagree with consecutive scan/printed
+  anchors; do not release these rows as manuscript-only additions.
 - Pages 39–52: direct visual first pass; 661 physical rows and 3,873 English
   words. Page 39 is a reordered/repeated leaf with 23 explicit unreadable
   baselines. Page 52 ends at `seytek-2012:p0943:b003:l007`; page 53 begins at

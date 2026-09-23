@@ -67,6 +67,15 @@ Do **not** publish inventory 142 in its current state. None of its manuscript
 rows have been inserted into the release, source manifest, source-gap registry,
 or live site.
 
+The latest page-105–106 boundary audit places photographed page 105 (folio
+2421) against a provisional 49-row printed span, `p0977:b002:l026` through
+`p0977:b004:l034`; page 106 opens at `l035`. An independent 180-dpi image
+count finds 49 handwritten verse lines and a separate bottom annotation;
+the 50th ink-projection peak is a lower part of the final verse. Page 105's apparent margin 50
+does not establish an additional verse. The saved 50-row page-105 file has the
+wrong folio and passage and remains unreleased. See
+`research/working/current142/BOUNDARY-105-106-2026-09-23.md`.
+
 The authoritative scan is:
 
 ```text

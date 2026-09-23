@@ -44,6 +44,16 @@ still opens in the wrong passage and has the wrong folio; manuscript wording
 needs independent transcription. See
 `BOUNDARY-104-105-2026-09-23.md`.
 
+PDF page 105 bears folio **2421** and an apparent marginal **50**. Its photographed
+last baseline aligns provisionally with printed `p0977:b004:l034`, and PDF
+page 106 (folio **2422**) opens with `l035`. From the page-105 opening candidate
+`p0977:b002:l026`, this bounds **49 printed narrative rows**. A separate 180-dpi
+visual count finds **49 verse lines**; the 50th horizontal ink peak is a lower
+part of the final verse already counted. A separate bottom annotation is below.
+The apparent margin 50 does not
+establish an additional verse. The saved 50-row page-105 file points to folio
+2419 and the wrong printed passage. See `BOUNDARY-105-106-2026-09-23.md`.
+
 The page-124 and page-125 draft files are another clear invalid-range clue:
 they have identical opening and closing Kyrgyz lines, while the photographed
 pages show distinct folios 2438 and 2439 with different handwriting. Page 125

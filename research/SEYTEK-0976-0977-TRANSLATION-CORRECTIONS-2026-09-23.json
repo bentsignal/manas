@@ -1,0 +1,189 @@
+{
+  "source": "sources/extracted/seytek-2012.lines.jsonl",
+  "batches": [
+    "corpus/batches/pages-seytek-0976.json",
+    "corpus/batches/pages-seytek-0977.json"
+  ],
+  "method": "targeted source-English semantic review in adjacent verse context; printed edition source IDs; inventory-142 manuscript alignment remains provisional",
+  "checked_by": "Codex",
+  "date": "2026-09-23",
+  "independent_specialist_review": false,
+  "lexical_refs": [
+    "https://el-sozduk.kg/azat-boyu-2/",
+    "https://el-sozduk.kg/zharak-4/",
+    "https://el-sozduk.kg/%D1%82%D1%8B%D2%A3%D0%B4%D0%B0/",
+    "https://el-sozduk.kg/%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D0%B4%D0%B5/",
+    "https://el-sozduk.kg/%D0%B6%D0%B0%D0%BB/",
+    "https://el-sozduk.kg/konul-5/"
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0976:b003:l018",
+      "old": "A very angry blasphemer",
+      "en": "To the fierce, wrathful infidel,",
+      "reason": "Капыр is an infidel epithet; this line and the next name the addressee of the quoted speech."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l019",
+      "old": "Alp Sarybai to the hero:",
+      "en": "To mighty Sarybai the warrior:",
+      "reason": "Алп and баатыр are heroic epithets for Sarybai, not a second unnamed hero."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l028",
+      "old": "Make a strong effort,",
+      "en": "Put your full strength into it,",
+      "reason": "Мыктылап күчкө салыңыз urges the fighter to use his strength."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l030",
+      "old": "Don't rush out of your mind,",
+      "en": "Don't lose your wits and rush,",
+      "reason": "Акылдан тайып шашпаңыз warns against losing judgment and rushing."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l031",
+      "old": "Don't run away!\" –",
+      "en": "Don't flee in confusion!\" –",
+      "reason": "Аң-таң уруп adds bewilderment to the warning not to flee."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l037",
+      "old": "Kebi sorbet is visible,",
+      "en": "Her words seemed sweet as sherbet,",
+      "reason": "Кеби шербет is a metaphor for pleasing speech, not an untranslated person or object."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l039",
+      "old": "Glorious as a white deer,",
+      "en": "Standing tall as a white stag,",
+      "reason": "Ак бугу is a white stag; даңкайып depicts its imposing stature."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l040",
+      "old": "Like a soldier,",
+      "en": "Looming like a lofty mountain,",
+      "reason": "Ала аскар is a high mountain or crag, not a soldier."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l001",
+      "old": "Wrestler's dream and heart,",
+      "en": "Mighty in spirit and lion-hearted,",
+      "reason": "Балбан кыял шер жүрөк praises strength of spirit and a lion heart, not a wrestler’s dream."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l002",
+      "old": "It was printed.",
+      "en": "She strode out and stood there.",
+      "reason": "Бастырып чыгып турду эле describes Kuyaly moving forward and standing, not printing."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l005",
+      "old": "He hummed,",
+      "en": "He rumbled and stirred himself up,",
+      "reason": "Күңгүрөнүп күүлөндү describes a deep vocal sound and gathering fervor."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l006",
+      "old": "Sighing and turning,",
+      "en": "Snorting, he took on many forms,",
+      "reason": "Күрсүлдөп is a forceful sound; нечен түрлөндү means changing in many ways."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l007",
+      "old": "The wounds have slowed down,",
+      "en": "He readied his weapons,",
+      "reason": "Жарактарын means his weapons or gear; it is not wounds."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l008",
+      "old": "Naked rabies",
+      "en": "The fierce, restless brute",
+      "reason": "Жалаңдаган describes vigorous, threatening movement; кутургур is the enraged figure."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l009",
+      "old": "Alyshar prepared the side.",
+      "en": "Made ready for the fight.",
+      "reason": "Алышар жагын камданды means preparing for the combat ahead, not naming Alyshar."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l010",
+      "old": "He was angry,",
+      "en": "Furious, he prepared himself,",
+      "reason": "Каарданып камынды conveys both anger and preparation."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l011",
+      "old": "Black steel is tied,",
+      "en": "Black steel fastened on,",
+      "reason": "Кара болот байланып describes battle gear strapped on in the continuing preparation."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l012",
+      "old": "Anger turns into a face,",
+      "en": "His anger showed on his face,",
+      "reason": "Каары бетине айланып places his anger visibly in his expression."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l013",
+      "old": "Beard and mustache together,",
+      "en": "His beard and moustache bristling,",
+      "reason": "Сакал-мурут бириндеп describes hairs separating or standing apart in anger."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l014",
+      "old": "Make the moon and the universe,",
+      "en": "As though commanding the whole world,",
+      "reason": "Ай-аалам means the world at large; буй кылып is commanding it."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l016",
+      "old": "The one who sees it,",
+      "en": "Anyone who saw him",
+      "reason": "Аны көрүп турган жан refers to any onlooker seeing the warrior."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l017",
+      "old": "Freedom roared,",
+      "en": "Shuddered from head to foot,",
+      "reason": "Азат бою is the whole body; дүркүрөп here describes a fearful shudder."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l021",
+      "old": "Holding a spear,",
+      "en": "Gripping his spear, he tensed,",
+      "reason": "Найза кармап чыңданып has both gripping the spear and bracing for combat."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l022",
+      "old": "He gathered his strength and listened.",
+      "en": "Gathering his strength, he braced himself,",
+      "reason": "Тыңданып means strengthening or bracing oneself here, not listening."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l024",
+      "old": "The power is like a flood,",
+      "en": "His strength seemed like a flood,",
+      "reason": "Күчү селдей көрүнүп likens his strength to a flood."
+    },
+    {
+      "id": "seytek-2012:p0977:b002:l025",
+      "old": "The thunder is furious.",
+      "en": "The frenzied brute thundered.",
+      "reason": "Күркүрөдү is a verb of roaring or thundering; кутургур names the raging figure."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l035",
+      "old": "Crooked like a white deer,",
+      "en": "Turning sideways like a white doe,",
+      "reason": "Кыйгачтап describes an angled or sideways motion; it does not describe the deer as malformed."
+    },
+    {
+      "id": "seytek-2012:p0976:b003:l038",
+      "old": "When I saw it, I was shocked.",
+      "en": "At the sight, every eye was drawn,",
+      "reason": "Көргөндө көңүл бөлүнүп describes attention turning upon seeing her; the source has no first-person shock."
+    }
+  ]
+}

@@ -25,18 +25,19 @@ python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site
 
 On 2026-09-23, 19 mistranslated English rows on printed Seytek page 972,
 eight on page 976, 28 more across pages 976–977, 66 on page 978, 79 on page
-979, and 75 on page 980 were
+979, 75 on page 980, and 79 on page 981 were
 corrected in their page batches and the canonical release. The local compiled release now has
-**408,269 rows and 2,163,723 English words** (+377 words); the verified live
+**408,269 rows and 2,163,826 English words** (+480 words); the verified live
 version above still has 2,163,346 words. The corrections are recorded in
 `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-0977-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0978-TRANSLATION-CORRECTIONS-2026-09-23.json`,
 `research/SEYTEK-0979-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
-`research/SEYTEK-0980-TRANSLATION-CORRECTIONS-2026-09-23.json`.
+`research/SEYTEK-0980-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
+`research/SEYTEK-0981-TRANSLATION-CORRECTIONS-2026-09-23.json`.
 Page 980 retains one Kyrgyz term in transliteration with an explicit
-unresolved-reading note; neither page has an independent specialist review.
+unresolved-reading note; these pages do not have an independent specialist review.
 Alignment, draft audit, release compilation, tests, and production build passed.
 No inventory-142 row was released, and the complete flag remains false.
 
@@ -110,6 +111,13 @@ PDF page 111 continues with folio **2426**. The saved page-110 and page-111
 drafts each label their photographed folio one number behind; neither margin
 number (46 or 48) has been checked as a physical line count. See
 `research/working/current142/PAGE-110-111-AUDIT-2026-09-23.md`.
+PDF page 112 is folio **2427**, though its saved draft labels it 2426; page
+113 is folio **2428**. A provisional photo/printed boundary places page
+112's last line near `p0980:b003:l037` and page 113's first near `l038`.
+The saved page-112 crosswalk instead ends at `p0980:b002:l017`, so it needs a
+full physical recount and realignment. The apparent margin numbers 46 and 47
+are not certified verse totals. See
+`research/working/current142/PAGE-112-113-AUDIT-2026-09-23.md`.
 An all-pairs SIFT candidate screen of PDF narrative pages 4–148 found this
 pair as the only strong photo match (281 geometric inliers; next highest 28).
 That screen is a lead for the visual audit, not a proof of no other duplicate.

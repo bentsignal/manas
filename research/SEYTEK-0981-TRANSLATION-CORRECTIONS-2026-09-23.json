@@ -1,0 +1,596 @@
+{
+  "source": "sources/extracted/seytek-2012.lines.jsonl",
+  "batch": "corpus/batches/pages-seytek-0981.json",
+  "method": "targeted Kyrgyz-English semantic review against the printed page and adjacent verse context; inventory-142 manuscript alignment remains provisional",
+  "checked_by": "Codex with parallel agent proposals reviewed by root",
+  "date": "2026-09-23",
+  "independent_specialist_review": false,
+  "lexical_refs": {
+    "opat_ruin": "https://el-sozduk.kg/%D0%9E%D0%9F%D0%9E/",
+    "sebil_armor": "https://el-sozduk.kg/%D1%81%D0%B5%D0%B1%D0%B8%D0%BB/",
+    "sebil_manus_lexicon": "https://new.bizdin.kg/media/books/Manas-kyrgyz-elinin-baatyrdyk-eposu-I-kitep-1995.pdf",
+    "keshik_fortune": "https://el-sozduk.kg/%D0%BA%D0%B5%D1%88%D0%B8%D0%BA/",
+    "aydaly_shoulders": "https://el-sozduk.kg/daly-2/",
+    "jaak_axe_socket": "https://el-sozduk.kg/%D0%B6%D0%B0%D0%B0%D0%BA/",
+    "1960_parallel": "https://new.bizdin.kg/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._1960_%D0%B3..pdf",
+    "parallel_formula": "https://cdn-1.aki.kg/st_bilimlib/8/6ba4d8da68bdb70850cc2e35ec861c0213e5b51f.pdf"
+  },
+  "uncertainty": [
+    "Line 3, кезет курап: the 1960 parallel reads Сурап турду Куялы; 'calling for her turn' is contextual and should be checked against the printed page.",
+    "Line 7, Одураңдап ороюп: the 1960 parallel reads Одурандап ороп; 'blustering and looming' conveys the scene but its precise second verb is provisional.",
+    "Lines 28-30: helmet syntax and the rare көмөрүп deserve a fluent Kyrgyz editor's review; the 1960 edition has Көмкөрүп башта кийилүү.",
+    "Line 32, себели: the protective-armor sense of себил is supported lexically, but the printed morphology is unusual; inspect original typesetting before release.",
+    "Line 38, катылган: context supports challenging or attacking, not hiding; precise agent relation with line 39 remains poetic and should be reviewed.",
+    "Rows 46 and 76 remain high uncertainty and should be examined against a printed scan before integrating.",
+    "Row 75 жасайыл has both heavy gun and bow senses in lexicon; juxtaposed жаа favors heavy gun."
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0981:b002:l002",
+      "old": "Mr. Sarybay, if you are.",
+      "en": "If you are Sarybay the warrior.",
+      "reason": "Эр is the warrior epithet, not the English honorific 'Mr.'; carries the conditional begun in line 1."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l003",
+      "old": "Let's queue up",
+      "en": "Kuyaly called for her turn;",
+      "reason": "Кезет refers to the combat turn in the preceding speech, and Куялы is the named actor; provisional phrase checked against 1960 parallel."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l004",
+      "old": "Sarybay has arrived.",
+      "en": "Sarybay came up to her.",
+      "reason": "Келип жетти gives Sarybay's approach in the duel scene, not a generic announcement of arrival."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l005",
+      "old": "Keresh is humble.",
+      "en": "Here is how the fight went.",
+      "reason": "Кериш is the fight; момундай means 'like this,' not 'humble.'"
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l006",
+      "old": "Sarybay was struck by God,",
+      "en": "God had cursed Sarybay:",
+      "reason": "Кудай урганы is an idiomatic divine condemnation; the following lines portray his wrath."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l007",
+      "old": "Roll it up,",
+      "en": "He blustered and loomed,",
+      "reason": "Одураңдап is boisterous or blustering and the line describes Sarybay, not an instruction; second verb is provisional."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l008",
+      "old": "It's out of the question.",
+      "en": "Refusing to listen to reason.",
+      "reason": "Сөзгө келбей means unwilling to heed words or negotiate."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l009",
+      "old": "Like reaping,",
+      "en": "As if he could reap and gather all,",
+      "reason": "Оруп-жыйып contains both reaping and gathering, in the hyperbolic description of Sarybay."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l010",
+      "old": "To the bottom of the world",
+      "en": "As far as the world's end",
+      "reason": "Дүнүйөнүн түбүнө marks the farthest reach of the world; joins the next line's verb."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l011",
+      "old": "As if alone,",
+      "en": "As if he alone could reach it,",
+      "reason": "Жалгыз өзү is 'he alone'; жетчүдөй supplies the reaching action."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l012",
+      "old": "Destroying the universe",
+      "en": "As if to shatter the whole world,",
+      "reason": "Ай-ааламды талкалап is the first half of a conditional simile completed in line 13."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l013",
+      "old": "As if it would be destroyed.",
+      "en": "And grind it to dust.",
+      "reason": "Талкан кылып is to crush or pulverize; the subject remains Sarybay."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l014",
+      "old": "Sarybay was angry.",
+      "en": "Sarybay raged;",
+      "reason": "Каарланды is became wrathful; punctuation links the ensuing description."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l015",
+      "old": "The way of fighting is humble.",
+      "en": "Such was the course of the fight.",
+      "reason": "Момундай means 'like this' and кагыш is clash or fight, not humility."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l016",
+      "old": "Eighteen thousand universes",
+      "en": "The eighteen thousand worlds",
+      "reason": "Traditional cosmic count is carried as the object of ruining in line 17."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l017",
+      "old": "As if making fire.",
+      "en": "He seemed able to lay waste,",
+      "reason": "Опот кылып means bring to ruin or destruction, not make fire."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l018",
+      "old": "The whole universe,",
+      "en": "The whole wide universe",
+      "reason": "Ай-ааламдын баарысын means the entirety of the universe and joins line 19's verb."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l019",
+      "old": "As if he knew how to do it.",
+      "en": "He seemed ready to destroy.",
+      "reason": "Опот кылып repeats the ruin image; билчүдөй conveys apparent capacity."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l020",
+      "old": "Without getting used to what he said,",
+      "en": "Refusing to heed what she said,",
+      "reason": "Айтканына көнбөстөн means not consenting to what Kuyaly said."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l021",
+      "old": "Without giving his turn,",
+      "en": "Without granting the warrior's turn,",
+      "reason": "Эр кезегин refers to the combat turn demanded in the prior speech."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l022",
+      "old": "Black cheek",
+      "en": "The black-socketed battleaxe",
+      "reason": "Кара жаак qualifies айбалта, an axe with a black socket or cheek; the weapon was omitted."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l023",
+      "old": "He grabbed it.",
+      "en": "He seized and swung around.",
+      "reason": "Кармап алып is seize; имерди adds a swinging or circling movement."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l024",
+      "old": "Wrestler without regret,",
+      "en": "Before the champion could ready herself,",
+      "reason": "Камынтпастан is without allowing preparation; балбанды is the object, Kuyaly."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l025",
+      "old": "He was shocked.",
+      "en": "He brought it down with a crash.",
+      "reason": "Карсылдатып expresses the cracking impact of Sarybay's axe strike."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l026",
+      "old": "Sarybay's conflict",
+      "en": "Sarybay's contentious ways",
+      "reason": "Жаңжалын is his strife or quarrelsome conduct, known to Kuyaly in the next line."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l027",
+      "old": "Ever-Knowing",
+      "en": "She had known for a long time;",
+      "reason": "Ар качандан билүүчү means had long known, with Kuyaly as the implied subject."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l028",
+      "old": "A multi-colored helmet",
+      "en": "A deep-blue iron helmet",
+      "reason": "Көпкөк is intensely blue; темир is iron, not multicolored."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l029",
+      "old": "Look at the lion wrestler",
+      "en": "That lion-hearted champion",
+      "reason": "Көрсөң is a discourse marker ('you see'); арстан балбан describes Kuyaly."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l030",
+      "old": "wearer of charcoal,",
+      "en": "Wore pulled down over her head;",
+      "reason": "Көмөрүп башта кийүүчү describes wearing the helmet over the head, not charcoal; precise verb is provisional."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l031",
+      "old": "It's Kambyl Kuyaly,",
+      "en": "Kuyaly was well prepared;",
+      "reason": "Камбыл is an adjective meaning prepared, capable or resourceful, not a personal name."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l032",
+      "old": "In the ribs",
+      "en": "Armor along her ribs",
+      "reason": "Себил denotes protective battle clothing; the line names her rib protection, with unusual printed form себели."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l033",
+      "old": "Heart and soul",
+      "en": "Her shoulders and heart",
+      "reason": "Айдалы means shoulders or shoulder blades, not 'soul.'"
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l034",
+      "old": "Covering,",
+      "en": "She had covered as she came;",
+      "reason": "Каптап коюп келүүчү is she came having covered them; continues the armor detail."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l035",
+      "old": "Kuyaly is a wrestler.",
+      "en": "Kuyaly was a mighty champion;",
+      "reason": "Балбан is a champion in combat and the past narrative tense is natural here."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l036",
+      "old": "Step into the spear,",
+      "en": "For a spear thrust to enter,",
+      "reason": "Басып найза кирүүгө concerns a spear penetrating her armor, not stepping into a spear."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l037",
+      "old": "There is no hole somewhere,",
+      "en": "There was no opening anywhere.",
+      "reason": "Бир жеринде тешик жок is an absolute absence of gaps in her armor."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l038",
+      "old": "Hidden in Kuyaly",
+      "en": "In taking on Kuyaly,",
+      "reason": "Катылган means challenged or assailed in this combat context, not hidden."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l039",
+      "old": "There is no delay in Sarybay.",
+      "en": "Sarybay had no luck.",
+      "reason": "Кешик жок is an idiom for ill fortune, not lack of delay."
+    },
+    {
+      "id": "seytek-2012:p0981:b002:l040",
+      "old": "Without getting used to the word,",
+      "en": "Refusing to heed those words,",
+      "reason": "Сөзгө көнбөстөн means refusing to consent or listen."
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l001",
+      "old": "Without giving his turn,",
+      "en": "Without yielding the warrior’s turn,",
+      "reason": "The phrase refers to a turn in combat.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l002",
+      "old": "After Sarybai raced,",
+      "en": "When Sarybay pressed the fight,",
+      "reason": "чабыш means combat here, not a race.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l003",
+      "old": "Cher is a famous wrestler",
+      "en": "The renowned lionhearted wrestler girl",
+      "reason": "шер is an epithet, not the name Cher.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l004",
+      "old": "Kuyaly is not watching.",
+      "en": "Kuyaly would not stand by and watch.",
+      "reason": "Rhetorical negative affirms action.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l005",
+      "old": "Sarybay, who held",
+      "en": "Sarybay, who had grappled with her,",
+      "reason": "Continue the subject of the following lines.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l006",
+      "old": "Look at God.",
+      "en": "Would God look on and smite?",
+      "reason": "Preserves the rhetorical question and God-as-subject without assigning an uncertain object; a parallel epic formula pairs merely watching with divine striking.",
+      "uncertainty": "high",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l007",
+      "old": "God don't show his face",
+      "en": "God forbid such a sight!",
+      "reason": "Кудай бетин көрсөтпө is an apotropaic expression.",
+      "uncertainty": "medium",
+      "lexical_refs": [
+        "https://el-sozduk.kg/%D0%BA%D1%83%D0%B4%D0%B0%D0%B9/"
+      ]
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l008",
+      "old": "A bad fight started.",
+      "en": "He had begun an ugly fight.",
+      "reason": "Subject is Sarybay in this stanza.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l009",
+      "old": "You are like a hero",
+      "en": "Your hero Kuyaly",
+      "reason": "Keeps the addressed second person and hero’s name.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l010",
+      "old": "He passed away.",
+      "en": "Cast her life aside.",
+      "reason": "Жандан кечип means to risk or renounce one’s life, not to have died.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l011",
+      "old": "Facing each other,",
+      "en": "They stood face to face,",
+      "reason": "Mаңдайлашып is mutual facing.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l012",
+      "old": "Arguing with each other",
+      "en": "Fighting with heavy blows,",
+      "reason": "Былчылдашып describes noisy, forceful combat.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l013",
+      "old": "Throwing a spear",
+      "en": "Charging and thrusting their spears,",
+      "reason": "Найза салышып is mutual spear thrusting, not throwing.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l014",
+      "old": "Walk anywhere you want",
+      "en": "Jabbing wherever they could,",
+      "reason": "Малышып in a spear-fight formula denotes mutual strikes; exact nuance uncertain.",
+      "uncertainty": "medium",
+      "lexical_refs": [
+        "https://new.bizdin.kg/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._1960_%D0%B3..pdf"
+      ]
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l015",
+      "old": "Taking the lead",
+      "en": "Grabbing each other by the hems,",
+      "reason": "Түп этектен ал- means firmly seize by the hem.",
+      "uncertainty": "low",
+      "lexical_refs": [
+        "https://el-sozduk.kg/etek/"
+      ]
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l016",
+      "old": "running out",
+      "en": "Struggling to exhaustion,",
+      "reason": "Түгөнүшүп conveys wearing each other out.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l017",
+      "old": "The earth is broken,",
+      "en": "The earth torn into gullies,",
+      "reason": "Жер бузулуп, аң болуп: torn earth becomes trenches/gullies.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l018",
+      "old": "Man is confused.",
+      "en": "And human minds reeling.",
+      "reason": "Адам башы маң болуп means heads dazed or bewildered.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l019",
+      "old": "Full of misery,",
+      "en": "The field filled with fluttering banners,",
+      "reason": "Касаба is a battle flag; precise verbal image remains approximate.",
+      "uncertainty": "medium",
+      "lexical_refs": [
+        "https://el-sozduk.kg/%D0%BA%D0%B0%D1%81%D0%B0%D0%B1%D0%B0/"
+      ]
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l020",
+      "old": "There was a noise in the sky,",
+      "en": "A din that split the sky,",
+      "reason": "Асман жарган is a hyperbole for deafening uproar.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l021",
+      "old": "Standing upside down,",
+      "en": "They faced each other head-on,",
+      "reason": "Маңдай-тескей means opposite each other.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l022",
+      "old": "Shooting a gun, shooting a bow,",
+      "en": "Firing guns and drawing bows,",
+      "reason": "Keeps the two distinct weapons.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l023",
+      "old": "Arguing with each other",
+      "en": "Clashing in a fierce fight,",
+      "reason": "Былчылдашып is battle noise and action.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l024",
+      "old": "An imaginary big conflict,",
+      "en": "A mighty battle, plain to see,",
+      "reason": "Элестүү refers to a vivid or visible scene, not imaginary conflict.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l025",
+      "old": "While making noise,",
+      "en": "As its roar went up,",
+      "reason": "Connects the battle’s sound to the following clause.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l026",
+      "old": "Be brave,",
+      "en": "The brave souls clashed with a crack,",
+      "reason": "Карсылдашып is clattering; кайран жан evokes valiant lives.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l027",
+      "old": "While racing,",
+      "en": "As they fought on,",
+      "reason": "чабыш again denotes combat here.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l028",
+      "old": "The earth is broken,",
+      "en": "The earth was torn into gullies,",
+      "reason": "Repeated earth-torn formula.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l029",
+      "old": "Man is confused,",
+      "en": "And human minds were reeling,",
+      "reason": "Heads dazed in battle.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l030",
+      "old": "Broke the mountain with anger,",
+      "en": "Heavy guns thundered and shook the mountains,",
+      "reason": "Жазайыл is a historical heavy gun or small cannon; -дап is imitative here.",
+      "uncertainty": "medium",
+      "lexical_refs": [
+        "https://el-sozduk.kg/%D0%B6%D0%B0%D0%B7%D0%B0%D0%B9%D1%8B%D0%BB/"
+      ]
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l031",
+      "old": "The man was shot dead",
+      "en": "Men fell, struck by bullets,",
+      "reason": "Plural collective sense in battle scene; окко учуп means shot down.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l032",
+      "old": "When it crumbles,",
+      "en": "As the ranks collapsed,",
+      "reason": "Кыйралышып refers to collapse amid battle; subject inferred.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l033",
+      "old": "This conflict was interesting.",
+      "en": "What a fierce struggle this had become!",
+      "reason": "Кызык here signals extraordinary intensity, not amusement.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l034",
+      "old": "Hard fought,",
+      "en": "They waged a hard battle,",
+      "reason": "Straight description of fighting.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l035",
+      "old": "Holding the artificial bow,",
+      "en": "Gripping heavy guns and drawing bows,",
+      "reason": "Жасайыл is attested as heavy firearm and also bow; paired with жаа supports heavy gun here.",
+      "uncertainty": "medium",
+      "lexical_refs": [
+        "https://el-sozduk.kg/%D0%B6%D0%B0%D0%B7%D0%B0%D0%B9%D1%8B%D0%BB/",
+        "https://el-sozduk.kg/%D0%B6%D0%B0%D1%81%D0%B0/"
+      ]
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l036",
+      "old": "And how much blue",
+      "en": "And how many sank beneath the sky,",
+      "reason": "Көк likely refers to the blue sky, but this line may be corrupt or elliptical; requires source review.",
+      "uncertainty": "high",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l037",
+      "old": "There was a bad fight,",
+      "en": "Waging a savage fight,",
+      "reason": "Жаман уруш is a fierce or dreadful battle.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l038",
+      "old": "It's Eren, it's Sher,",
+      "en": "Both were champions, both were lions—",
+      "reason": "Эрен and шер are valor epithets, not personal names.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l039",
+      "old": "Er Sarybai Kuyaly,",
+      "en": "Hero Sarybay and Kuyaly,",
+      "reason": "Keeps both names and heroic title.",
+      "uncertainty": "low",
+      "lexical_refs": []
+    },
+    {
+      "id": "seytek-2012:p0981:b003:l040",
+      "old": "He was a man from Bende.",
+      "en": "Heroes extraordinary among mortals.",
+      "reason": "Бендеден чыккан эр refers to outstanding human warriors, with plural inferred from preceding paired names.",
+      "uncertainty": "medium",
+      "lexical_refs": []
+    }
+  ]
+}

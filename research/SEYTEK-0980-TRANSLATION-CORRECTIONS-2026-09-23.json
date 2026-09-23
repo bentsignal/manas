@@ -13,15 +13,16 @@
     "buchkak_idiom": "https://el-sozduk.kg/%D0%91%D0%A3%D0%A7%D0%9A%D0%90%D0%9A/",
     "kenebe": "https://el-sozduk.kg/%D0%BA%D0%B5%D0%BD%D0%B5%D0%B1%D0%B5%D1%81/",
     "horse_tookyzyl_1960_parallel": "https://new.bizdin.kg/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._1960_%D0%B3..pdf",
-    "khizr": "https://el-sozduk.kg/%D0%9A%D0%90%D0%99%D0%AB%D0%9F%20I/"
+    "khizr": "https://el-sozduk.kg/%D0%9A%D0%90%D0%99%D0%AB%D0%9F%20I/",
+    "ton_kotorup_1960_parallel": "https://new.bizdin.kg/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._1960_%D0%B3..pdf",
+    "zhazayyl_possible_cognate": "https://el-sozduk.kg/%D0%B6%D0%B0%D0%B7%D0%B0%D0%B9%D1%8B%D0%BB/"
   },
   "uncertainty": [
     "Line 30: чок in the damaged-spear description remains provisional.",
     "Line 43: тон көтөрүп is read contextually as a coat bearing the blow; check the printed page and idiom before release.",
     "Line 50: бир тогуз denotes nine guardians in this context, but their exact identity needs specialist review.",
-    "Line 59: Казайылын has no verified gloss; current English is plainly wrong but no replacement is offered pending source review.",
     "Line 77: кыялыңдан кыңк этпей is translated contextually and warrants native-speaker review.",
-    "Line 59 preserves the source term kazayyl untranslated pending verification."
+    "Line 59 printed Казайыл has no verified direct gloss; it may be a variant or misprint of жазайыл (heavy gun). The referent and agent remain unresolved."
   ],
   "corrections": [
     {
@@ -261,8 +262,8 @@
     {
       "id": "seytek-2012:p0980:b003:l003",
       "old": "Now the tone is lifted,",
-      "en": "Her coat now bore the blow;",
-      "reason": "тон is coat, and context is spear deflected from Kuyaly. Provisional contextual reading."
+      "en": "Her coat now bore her up;",
+      "reason": "The coat supports/lifts her in the sequence of protective spirits; the 1960 parallel repeats тон көтөрүп with Чоң көтөрүп, supporting this reading."
     },
     {
       "id": "seytek-2012:p0980:b003:l004",
@@ -471,8 +472,8 @@
     {
       "id": "seytek-2012:p0980:b003:l019",
       "old": "When you stretch your hair,",
-      "en": "When she held out her kazayyl [term unresolved],",
-      "reason": "Preserves the unverified source term rather than inventing “hair”; grammatical action сунганда is held out/extended. Requires source-specialist review."
+      "en": "When the kazayyl was leveled,",
+      "reason": "The printed Казайыл resembles attested жазайыл, a historic heavy gun, but that spelling and the agent of сунганда remain uncertain; passive English preserves the action."
     }
   ]
 }

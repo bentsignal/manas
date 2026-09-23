@@ -88,9 +88,11 @@ See `research/working/current142/BOUNDARY-106-107-2026-09-23.md`.
 The next boundary check places photographed page 107 (folio 2423) from
 printed `p0978:b003:l007` through candidate `p0979:b002:l017`, with page 108
 (folio 2424) opening near `p0979:b002:l018`. That printed span has 51 verse
-rows, while page 107 bears a handwritten margin 52 and one exploratory
-ink-band count also finds 52 peaks. The discrepancy is unresolved: a
-distinct extra manuscript line has not been located or transcribed. The
+rows, while page 107 bears a handwritten margin 52. An exploratory
+ink-band count initially found 52 peaks, but a close bottom-crop review
+showed that its final two peaks belong to one verse. The resulting 51
+candidate baselines match the printed span. A full baseline-by-baseline
+count is still needed before the leaf's physical extent is settled. The
 saved page-107 draft remains unreleased. See
 `research/working/current142/BOUNDARY-107-108-2026-09-23.md`.
 

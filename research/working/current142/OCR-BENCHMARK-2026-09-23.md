@@ -21,3 +21,21 @@ three-crop trial does **not** validate any manuscript baseline or yield new
 translated lines. A full-page or line-level transcription still requires
 direct image checking. Do not use this OCR output as Kyrgyz source text or
 English translation.
+
+## Whole-region follow-up: Rukopys-OCR-4B
+
+The Apache-2.0 `ebinan92/Rukopys-OCR-4B` model is trained for Ukrainian
+handwritten documents and publishes region-level JSON output. Its quantized
+GGUF conversion was run locally with llama.cpp 0.4.1 against the upper half
+of manuscript PDF page 101. The trial kept the model card's Ukrainian prompt.
+It detected roughly the line layout, but the text remained substantially
+wrong: the first two readings were `Колоко жоре сахтатком,` and
+`на трельник каптат как,` where the directly checked printed counterparts
+are `Көлөкө жерге сактаткан,` and `Пил терисин каптаткан.` Later rows
+devolved into Russian/Ukrainian-like nonwords, and the 1,500-token output
+limit cut off the JSON. The output is **not** a reliable Kyrgyz transcription.
+
+Model sources: <https://huggingface.co/ebinan92/Rukopys-OCR-4B> and the
+quantized conversion <https://huggingface.co/Axway/Rukopys-OCR-4B-GGUF>.
+The experimental model weights and output remain ignored local scratch in
+`tmp/rukopys-ocr/`; no source or release row uses them.

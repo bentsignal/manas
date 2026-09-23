@@ -21,6 +21,20 @@ The deployment was verified with:
 python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site
 ```
 
+## Local correction checkpoint, not deployed
+
+On 2026-09-23, 19 mistranslated English rows on printed Seytek page 972
+were corrected in the page batch and canonical release. The local compiled
+release now has **408,269 rows and 2,163,378 English words** (+32 words);
+the verified live version above still has 2,163,346 words. The corrections
+are recorded in `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json`.
+Alignment, draft audit, release compilation, tests, and production build passed.
+No inventory-142 row was released, and the complete flag remains false.
+
+The local Cyrillic handwriting OCR trial for inventory 142 is recorded in
+`research/working/current142/OCR-BENCHMARK-2026-09-23.md`. Its output is not
+reliable enough to count as source transcription.
+
 GitHub is `https://github.com/bentsignal/manas.git`, branch `main`. Local
 `.grok/` data is scratch material and must not be committed.
 

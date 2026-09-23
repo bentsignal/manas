@@ -111,5 +111,40 @@
     ],
     "details": "Rendered Seytek 2012 PDF page 972 at 1200-pixel scale and visually checked all narrative and page-furniture blocks. All 80 translatable positions are present in reading order, with 2 nonverse positions explicitly excluded. No independent manuscript collation."
   },
-  "after_id": "seytek-2012:p0971:b004:l040"
+  "after_id": "seytek-2012:p0971:b004:l040",
+  "alignment_check": {
+    "targeted_qa_2026_09_23": {
+      "method": "targeted source-English semantic review in adjacent verse context",
+      "checked_by": "Codex",
+      "date": "2026-09-23",
+      "page_range": [
+        972,
+        972
+      ],
+      "rows_checked": 19,
+      "changed_source_ids": [
+        "seytek-2012:p0972:b002:l006",
+        "seytek-2012:p0972:b002:l007",
+        "seytek-2012:p0972:b002:l009",
+        "seytek-2012:p0972:b002:l010",
+        "seytek-2012:p0972:b002:l012",
+        "seytek-2012:p0972:b002:l013",
+        "seytek-2012:p0972:b002:l014",
+        "seytek-2012:p0972:b002:l015",
+        "seytek-2012:p0972:b002:l017",
+        "seytek-2012:p0972:b002:l018",
+        "seytek-2012:p0972:b002:l019",
+        "seytek-2012:p0972:b002:l022",
+        "seytek-2012:p0972:b002:l026",
+        "seytek-2012:p0972:b002:l027",
+        "seytek-2012:p0972:b002:l032",
+        "seytek-2012:p0972:b002:l033",
+        "seytek-2012:p0972:b002:l035",
+        "seytek-2012:p0972:b002:l038",
+        "seytek-2012:p0972:b002:l039"
+      ],
+      "evidence": "research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json",
+      "independent_specialist_review": false
+    }
+  }
 }

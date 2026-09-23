@@ -1,0 +1,29 @@
+{
+  "source": "sources/extracted/seytek-2012.lines.jsonl",
+  "batch": "corpus/batches/pages-seytek-0972.json",
+  "method": "targeted source-English semantic review in adjacent verse context",
+  "checked_by": "Codex",
+  "date": "2026-09-23",
+  "independent_specialist_review": false,
+  "corrections": [
+    {"id": "seytek-2012:p0972:b002:l006", "old": "Lost his eyes,", "en": "His eyes rolled wide,", "reason": "Алайып describes eyes staring wide, not literal loss of eyes."},
+    {"id": "seytek-2012:p0972:b002:l007", "old": "Leaving the leg,", "en": "His legs hung limp,", "reason": "Салактап describes dangling or hanging loose."},
+    {"id": "seytek-2012:p0972:b002:l009", "old": "He left to fall.", "en": "He was about to fall.", "reason": "Кулап кете таштады describes the imminent fall from Tookyzyl in the preceding row."},
+    {"id": "seytek-2012:p0972:b002:l010", "old": "A lion girl in one shot", "en": "At one spear thrust from the lion-hearted girl,", "reason": "Бир сайганда is one thrust in this spear-fight context."},
+    {"id": "seytek-2012:p0972:b002:l012", "old": "God bless you,", "en": "Praying, ‘God, preserve me!’,", "reason": "Кудай сактай көргүн is a plea for protection."},
+    {"id": "seytek-2012:p0972:b002:l013", "old": "The joint is twisted loosely,", "en": "His limbs went slack and twisted,", "reason": "Муун бошоп буралып describes the wounded warrior's weakening body."},
+    {"id": "seytek-2012:p0972:b002:l014", "old": "Blindfolded,", "en": "His vision clouded and dimmed,", "reason": "Көз байланып тунарып describes darkening sight, not an actual blindfold."},
+    {"id": "seytek-2012:p0972:b002:l015", "old": "Now he preferred suffering:", "en": "Now he suffered all the more:", "reason": "Азапты артык тартты expresses greater suffering, not preference."},
+    {"id": "seytek-2012:p0972:b002:l017", "old": "Sarybai said a dream,", "en": "Sarybay now voiced his grievance,", "reason": "Арман is lament or grievance in this speech, not a dream."},
+    {"id": "seytek-2012:p0972:b002:l018", "old": "Make the moon and the universe,", "en": "Having made the whole world obey,", "reason": "Ай-аалам denotes the world at large; буй кылып denotes commanding it."},
+    {"id": "seytek-2012:p0972:b002:l019", "old": "I made a song about Sarybay,", "en": "I made Sarybay a lion of a man,", "reason": "Шер is the heroic lion epithet, not a song."},
+    {"id": "seytek-2012:p0972:b002:l022", "old": "When my father chased the blue sky,", "en": "When my father chased the gray wolf,", "reason": "Көкжал means gray wolf and can serve as a heroic epithet; it does not mean sky."},
+    {"id": "seytek-2012:p0972:b002:l026", "old": "Cut the wire and make a horse.", "en": "Cutting a twig to make a toy horse,", "reason": "Чыбык is a twig or switch, used as a child's make-believe horse here."},
+    {"id": "seytek-2012:p0972:b002:l027", "old": "Whip the horse's back,", "en": "Striking the horse's rump with a whip,", "reason": "Ат арты is the horse's rear, continuing the childhood play image."},
+    {"id": "seytek-2012:p0972:b002:l032", "old": "This did not happen to the girl.", "en": "No girl had ever done such a thing.", "reason": "Кыздан мындай болбоду compares this girl's exceptional feat with others."},
+    {"id": "seytek-2012:p0972:b002:l033", "old": "Name letter, male wrestler,", "en": "A woman in name, a mighty wrestler,", "reason": "Аты катын, эр балбан contrasts her being called a woman with heroic strength."},
+    {"id": "seytek-2012:p0972:b002:l035", "old": "Stuttering came out,", "en": "A foe nursing a grudge came forth,", "reason": "Кекенишкен жоо means a hostile, resentful enemy."},
+    {"id": "seytek-2012:p0972:b002:l038", "old": "Come to Sarybay in person,", "en": "Sarybay came to single combat,", "reason": "Жекеге келип describes coming to a duel."},
+    {"id": "seytek-2012:p0972:b002:l039", "old": "Seventy spears pierced one.", "en": "He closed in and thrust his spear once.", "reason": "Жетишип means reaching or closing in; бир сайган is one thrust, not seventy."}
+  ]
+}

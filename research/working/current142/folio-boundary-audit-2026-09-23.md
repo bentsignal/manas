@@ -36,7 +36,12 @@ of PDF page 101 found 58 distinct photographed baselines, page 102 has 61,
 and page 103 has 52. Their apparent 69, 70, and 55 margin marks and same-sized
 invalid draft files are not valid physical verse counts. See
 `BOUNDARY-101-102-2026-09-23.md`, `BOUNDARY-102-103-2026-09-23.md`, and
-`BOUNDARY-103-104-2026-09-23.md`.
+`BOUNDARY-103-104-2026-09-23.md`. A further boundary check places page 104
+provisionally against 48 printed narrative rows, from `p0976:b003:l018`
+through `p0977:b002:l025`, matching its marginal 48. Its saved 48-row file
+still opens in the wrong passage and has the wrong folio; manuscript wording
+and the physical count need independent verification. See
+`BOUNDARY-104-105-2026-09-23.md`.
 
 The page-124 and page-125 draft files are another clear invalid-range clue:
 they have identical opening and closing Kyrgyz lines, while the photographed

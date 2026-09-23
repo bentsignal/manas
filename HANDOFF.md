@@ -96,6 +96,12 @@ count is still needed before the leaf's physical extent is settled. The
 saved page-107 draft remains unreleased. See
 `research/working/current142/BOUNDARY-107-108-2026-09-23.md`.
 
+PDF pages **108 and 109** are duplicate photographs of folio **2424** with
+the same verse sequence; PDF page 110 continues with folio **2425**. Count
+folio 2424 once in the physical-extent audit. The saved page-108 and
+page-109 draft files assign the wrong folios and text and remain unreleased.
+See `research/working/current142/DUPLICATE-108-109-2026-09-23.md`.
+
 The authoritative scan is:
 
 ```text

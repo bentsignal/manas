@@ -1,0 +1,59 @@
+scan_pdf_page	candidate_physical_line	printed_counterpart_id	printed_reading	review_status
+101	1	seytek-2012:p0974:b003:l007	Көлөкө жерге сактаткан,	visual_sequence_match_printed_aid
+101	2	seytek-2012:p0974:b003:l008	Пил терисин каптаткан.	visual_sequence_match_printed_aid
+101	3	seytek-2012:p0974:b003:l009	Муштаганда караандын	visual_sequence_match_printed_aid
+101	4	seytek-2012:p0974:b003:l010	Болоттугу билинген,	visual_sequence_match_printed_aid
+101	5	seytek-2012:p0974:b003:l011	Тийген жери тилинген.	visual_sequence_match_printed_aid
+101	6	seytek-2012:p0974:b003:l012	Тим муштаны карааның,	visual_sequence_match_printed_aid
+101	7	seytek-2012:p0974:b003:l013	Сынып кетти тим эле,	visual_sequence_match_printed_aid
+101	8	seytek-2012:p0974:b003:l014	Түпкүч болуп тирилген,	visual_sequence_match_printed_aid
+101	9	seytek-2012:p0974:b003:l015	Болоттон бөлүп тоо кылган,	visual_sequence_match_printed_aid
+101	10	seytek-2012:p0974:b003:l016	Чынмачындын тукуму,	visual_sequence_match_printed_aid
+101	11	seytek-2012:p0974:b003:l017	Чын кытайдын тукуму,	visual_sequence_match_printed_aid
+101	12	seytek-2012:p0974:b003:l018	Хан Манаска доо кылган.	visual_sequence_match_printed_aid
+101	13	seytek-2012:p0974:b003:l019	Ошол турган капырдын,	visual_sequence_match_printed_aid
+101	14	seytek-2012:p0974:b003:l020	Алда Таала кудурет,	visual_sequence_match_printed_aid
+101	15	seytek-2012:p0974:b003:l021	Жалгыз жанын соо кылган.	visual_sequence_match_printed_aid
+101	16	seytek-2012:p0974:b003:l022	Мурунку кеткен бабадан,	visual_sequence_match_printed_aid
+101	17	seytek-2012:p0974:b003:l023	Мураага жеткен сыр найза,	visual_sequence_match_printed_aid
+101	18	seytek-2012:p0974:b003:l024	Кылыч уруп жетти – деп,	visual_sequence_match_printed_aid
+101	19	seytek-2012:p0974:b003:l025	Колдон тайып кетти – деп,	visual_sequence_match_printed_aid
+101	20	seytek-2012:p0974:b003:l026	Кыйшыгы жок кынаган,	visual_sequence_match_printed_aid
+101	21	seytek-2012:p0974:b003:l027	Сабын толгоп бурбаган.	visual_sequence_match_printed_aid
+101	22	seytek-2012:p0974:b003:l028	Бурап кылган Бөлөкбай,	visual_sequence_match_printed_aid
+101	23	seytek-2012:p0974:b003:l029	Ободон жалгыз козголуп,	visual_sequence_match_printed_aid
+101	24	seytek-2012:p0974:b003:l030	Дөөтү менен дос болуп,	visual_sequence_match_printed_aid
+101	25	seytek-2012:p0974:b003:l031	Төкөр уста Бөлөкбай,	visual_sequence_match_printed_aid
+101	26	seytek-2012:p0974:b003:l032	Учун болот улаган,	visual_sequence_match_printed_aid
+101	27	seytek-2012:p0974:b003:l033	Уу төктүрүп кынаган.	visual_sequence_match_printed_aid
+101	28	seytek-2012:p0974:b003:l034	Тие электе жан кеткен,	visual_sequence_match_printed_aid
+101	29	seytek-2012:p0974:b003:l035	Өлүүчү жерин уштаса,	visual_sequence_match_printed_aid
+101	30	seytek-2012:p0974:b003:l036	Өлүүчү жерин муштаса,	visual_sequence_match_printed_aid
+101	31	seytek-2012:p0974:b003:l037	Тешип сайып өткөргөн,	visual_sequence_match_printed_aid
+101	32	seytek-2012:p0974:b003:l038	Таш муштаса каранды,	visual_sequence_match_printed_aid
+101	33	seytek-2012:p0974:b003:l039	Тайгаланып кетпеген.	visual_sequence_match_printed_aid
+101	34	seytek-2012:p0974:b003:l040	Учун улап кынаган,	visual_sequence_match_printed_aid
+101	35	seytek-2012:p0975:b002:l001	Тим ажалы жетти – деп	provisional_visual_sequence_match
+101	36	seytek-2012:p0975:b002:l002	Тийген жерин баарысын,	provisional_visual_sequence_match
+101	37	seytek-2012:p0975:b002:l003	Кабылдап көчүп кетет – деп,	provisional_visual_sequence_match
+101	38	seytek-2012:p0975:b002:l004	Кабылдап калса …	provisional_visual_sequence_match
+101	39	seytek-2012:p0975:b002:l005	Кайра тартпай дуулдап,	provisional_visual_sequence_match
+101	40	seytek-2012:p0975:b002:l006	Ошол бойдон өтсүн – деп,	provisional_visual_sequence_match
+101	41	seytek-2012:p0975:b002:l007	Улап учун чыгартып,	provisional_visual_sequence_match
+101	42	seytek-2012:p0975:b002:l008	Көз жаш менен сугартып,	provisional_visual_sequence_match
+101	43	seytek-2012:p0975:b002:l009	Уу төктүрүп бо¸гон.	provisional_visual_sequence_match
+101	44	seytek-2012:p0975:b002:l010	Жашыл кара киши өттү,	provisional_visual_sequence_match
+101	45	seytek-2012:p0975:b002:l011	Карасаат каранды,	provisional_visual_sequence_match
+101	46	seytek-2012:p0975:b002:l012	Бир жылга ага бо¸гон.	provisional_visual_sequence_match
+101	47	seytek-2012:p0975:b002:l013	Ажалга жакын жомогон,	provisional_visual_sequence_match
+101	48	seytek-2012:p0975:b002:l014	Сундурган жагы бүлүнгөн,	provisional_visual_sequence_match
+101	49	seytek-2012:p0975:b002:l015	Ар беттешип келгенде	provisional_visual_sequence_match
+101	50	seytek-2012:p0975:b002:l016	Аманат жандан түңүлгөн.	provisional_visual_sequence_match
+101	51	seytek-2012:p0975:b002:l017	Мизи өрттөнүп уу болгон,	provisional_visual_sequence_match
+101	52	seytek-2012:p0975:b002:l018	Найза жөнү бу болгон,	provisional_visual_sequence_match
+101	53	seytek-2012:p0975:b002:l019	Кабылган душман уу болгон.	provisional_visual_sequence_match
+101	54	seytek-2012:p0975:b002:l020	Каарланып катылса,	provisional_visual_sequence_match
+101	55	seytek-2012:p0975:b002:l021	Жин төгүлүп кан чыккан,	provisional_visual_sequence_match
+101	56	seytek-2012:p0975:b002:l022	Темири болот ойногон,	provisional_visual_sequence_match
+101	57	seytek-2012:p0975:b002:l023	Карасаат сыр найза,	provisional_visual_sequence_match
+101	58	seytek-2012:p0975:b002:l024	Чыктаса канга тойбогон.	provisional_visual_sequence_match

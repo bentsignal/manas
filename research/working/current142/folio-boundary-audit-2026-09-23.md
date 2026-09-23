@@ -32,10 +32,11 @@ ordinals. Matching a page's row count is not enough to validate its individual
 Kyrgyz baselines or printed counterparts. These files remain unreleased and
 must be rebuilt from the images and stable source IDs. Their metadata was left
 untouched so they cannot be mistaken for corrected files. A later direct count
-of PDF page 101 found 58 distinct photographed baselines, and page 102 has
-61. Their apparent 69 and 70 margin marks and same-sized invalid draft files
-are not valid physical verse counts. See `BOUNDARY-101-102-2026-09-23.md`
-and `BOUNDARY-102-103-2026-09-23.md`.
+of PDF page 101 found 58 distinct photographed baselines, page 102 has 61,
+and page 103 has 52. Their apparent 69, 70, and 55 margin marks and same-sized
+invalid draft files are not valid physical verse counts. See
+`BOUNDARY-101-102-2026-09-23.md`, `BOUNDARY-102-103-2026-09-23.md`, and
+`BOUNDARY-103-104-2026-09-23.md`.
 
 The page-124 and page-125 draft files are another clear invalid-range clue:
 they have identical opening and closing Kyrgyz lines, while the photographed

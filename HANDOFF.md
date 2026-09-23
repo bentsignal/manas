@@ -105,9 +105,7 @@ diagnostics only and are not canonical corpus figures.
   English was changed. A direct boundary check proves PDF page 100 ends at
   `seytek-2012:p0974:b003:l006` and page 101 begins at the next printed row;
   the saved page-100 file wrongly ends at `seytek-2012:p0979:b004:l002`.
-  The range needs a full image/boundary rebuild. See
-  `research/working/current142/BOUNDARY-100-101-2026-09-23.md` and
-  `research/working/current142/folio-boundary-audit-2026-09-23.md`.
+  The range needs a full image/boundary rebuild. A further direct scan check establishes that page 101 ends at `seytek-2012:p0975:b002:l024` and page 102 opens at `l025`; its 69-marked margin exceeds the 58-row bounded printed span by 11, which cannot yet be classified as additional verses. See `research/working/current142/BOUNDARY-100-101-2026-09-23.md`, `research/working/current142/BOUNDARY-101-102-2026-09-23.md`, and `research/working/current142/folio-boundary-audit-2026-09-23.md`.
 - Pages 113–124 and 137–148: a partial direct-scan correction written before
   the worker stopped. These files validate structurally and are preserved as
   work in progress. They still need independent visual sampling and continuity

@@ -1,0 +1,287 @@
+{
+  "source": "seytek-2012",
+  "batch": "corpus/batches/pages-seytek-0982.json",
+  "range": "rows 1-40, printed page 981 / PDF page 982",
+  "status": "proposal; rows 14 and 38 withheld for lexical/source review",
+  "lexical_refs": [
+    {
+      "term": "жанды кылга байлоо; кылча жан",
+      "url": "https://el-sozduk.kg/zhan-3/",
+      "note": "risk one's life; life thin as a hair"
+    },
+    {
+      "term": "балаалуу",
+      "url": "https://el-sozduk.kg/%D0%B1%D0%B0%D0%BB/",
+      "note": "calamitous, fraught with disaster, distinct from балалуу 'having children'"
+    },
+    {
+      "term": "касаба",
+      "url": "https://el-sozduk.kg/kasaba-5/",
+      "note": "banner or standard in epic usage"
+    },
+    {
+      "term": "күпүлдө",
+      "url": "https://el-sozduk.kg/%D0%BA%D2%AF%D0%BF/",
+      "note": "rumble, boom; loud speech"
+    },
+    {
+      "term": "күрпүлдө",
+      "url": "https://el-sozduk.kg/%D0%BA%D2%AF%D1%80%D0%BF%D2%AF%D0%BB%D0%B4%D3%A9/",
+      "note": "roar, rumble, seethe"
+    },
+    {
+      "term": "күүлөн",
+      "url": "https://el-sozduk.kg/%D0%BA%D2%AF%D2%AF/",
+      "note": "gather force, rush forward"
+    },
+    {
+      "term": "1960 parallel text",
+      "url": "https://new.bizdin.kg/media/books/%D0%A1%D0%B5%D0%B9%D1%82%D0%B5%D0%BA._1960_%D0%B3..pdf",
+      "note": "2012's curious line 14 differs materially from 1960's Кызыл өмүр, таттуу жан; maintain witness distinction"
+    }
+  ],
+  "uncertainty": [
+    {
+      "id": "seytek-2012:p0982:b002:l014",
+      "note": "Кызык өмүр топтуу жан is the 2012 PDF text but its meaning is unclear and differs from 1960. No correction proposed; preserve this witness and obtain specialist review."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l038",
+      "note": "Кыялдуу мүшкүл кыр болуп is semantically obscure. No correction proposed; scan and other witnesses should be consulted."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l007",
+      "note": "Толук канды жутушуп is unusually phrased; rendering blood-drinking as hyperbolic and literal."
+    }
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0982:b002:l001",
+      "old": "Regardless of each other,",
+      "en": "Heedless of one another,",
+      "reason": "Бир бирине карабай describes mutual disregard in the duel."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l002",
+      "old": "Kylcha took her life,",
+      "en": "Sparing not their hair-thin lives,",
+      "reason": "Кылча жанын аябай is the epic image of life as thin as a hair; аябай means not sparing."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l003",
+      "old": "A childish quarrel began,",
+      "en": "They began a calamitous fight,",
+      "reason": "Context and 1960 witness read балаалуу 'fraught with calamity'; 2012's балалуу may be a typo, but 'childish' is unsupported."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l004",
+      "old": "Poor soul, both of them",
+      "en": "Both of them, their dear lives",
+      "reason": "Байкуш жанды is object of following line; refers to both combatants' lives."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l005",
+      "old": "Tied to the grass and thrown",
+      "en": "Staked on a single hair,",
+      "reason": "Кылга байлап ташташып is an idiom for risking their lives."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l006",
+      "old": "There was a difficult conflict,",
+      "en": "Their fierce battle roared,",
+      "reason": "Жаңжал is armed conflict here; дуу болуп describes its din."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l007",
+      "old": "Swallow whole blood,",
+      "en": "Swallowing blood to the full,",
+      "reason": "Retains the striking image of толук канды жутушуп without an unsupported interpretation."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l008",
+      "old": "Torn all tone.",
+      "en": "Tearing all their coats to shreds.",
+      "reason": "Тон is coat, and тытышып is mutual tearing."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l009",
+      "old": "Don't flinch if they are beaten.",
+      "en": "When they struck with clubs, neither flinched;",
+      "reason": "Reciprocal past action, not an imperative or generic conditional."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l010",
+      "old": "If it's damaged, don't worry.",
+      "en": "When they hacked with axes, neither stirred;",
+      "reason": "Балталашса is reciprocal axe fighting, былк этпей is without stirring."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l011",
+      "old": "If you are whipped, don't cry.",
+      "en": "When they lashed with whips, neither cried out;",
+      "reason": "Reciprocal whip fighting; каңк этпей means without yelping."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l012",
+      "old": "If they fight, don't complain.",
+      "en": "When they crossed swords, neither uttered a groan;",
+      "reason": "Кылычташса explicitly refers to swords; кыңк этпей is without a groan."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l013",
+      "old": "They fought a hard battle,",
+      "en": "They fought a desperate battle,",
+      "reason": "Kыйын describes severity; passage is a duel continuing two days."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l015",
+      "old": "Tied to the grass and thrown",
+      "en": "They staked it on a single hair;",
+      "reason": "Repeated risk-life idiom; 'it' refers to life/soul in line 14."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l016",
+      "old": "Interesting life, sweet soul,",
+      "en": "A precious life, a dear soul,",
+      "reason": "Кызык өмүр is 'remarkable/precious life' in parallel with таттуу жан."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l017",
+      "old": "He tied it to the grass and left it.",
+      "en": "They staked it on a single hair.",
+      "reason": "The idiom means put life at risk; singular ending of 2012 source may be narrator variation, so plural subject is contextual."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l018",
+      "old": "Red massacre, cunning exile,",
+      "en": "A bloody slaughter, a relentless pursuit,",
+      "reason": "Кызыл кыргын evokes bloodshed; куу сүргүн is harsh pursuit/driving-away, not cunning exile."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l019",
+      "old": "He started his activities.",
+      "en": "They led their champions into it.",
+      "reason": "Кыраандарын are their champions/valiant men; баштаптыр means led/brought forth."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l020",
+      "old": "Hugging each other,",
+      "en": "Seizing each other by the collars,",
+      "reason": "Жакалашып is grappling by the collar; чоюшуп is pulling/dragging."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l021",
+      "old": "That it is close",
+      "en": "Whoever came near",
+      "reason": "Жакын келип калганын is object of next line, a person who comes close."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l022",
+      "old": "laid with an axe,",
+      "en": "They struck with an axe;",
+      "reason": "Балта менен коюшуп describes axe blows."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l023",
+      "old": "Day and night for two days",
+      "en": "For two days and nights",
+      "reason": "Idiomatic English rendering of Күнү-түнү эки күн."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l024",
+      "old": "He didn't stop laughing.",
+      "en": "They never ceased their thunderous clash.",
+      "reason": "Күпүлдөшүп indicates rumbling or booming, not laughter; plural reciprocal ending."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l025",
+      "old": "tune in",
+      "en": "They gathered force and charged,",
+      "reason": "Күүлөнүшүп is to gather momentum/energy, not tune in."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l026",
+      "old": "Crumpled up",
+      "en": "And crashed against each other,",
+      "reason": "Күрпүлдөшүп is reciprocal roaring/rumbling in battle."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l027",
+      "old": "The town is in full swing.",
+      "en": "The standards swarmed, banners everywhere,",
+      "reason": "Касаба is a banner/standard in epic usage; кайнап conveys seething multitude, туу reinforces banner."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l028",
+      "old": "There was a loud noise,",
+      "en": "Battle cries rose in a tumult;",
+      "reason": "Айгайлаган чуу is a clamorous cry, not generic noise."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l029",
+      "old": "If you look, there is a sound,",
+      "en": "Look, the uproar swelled,",
+      "reason": "Карасаң addresses observer; дүмөк дуу is the violent uproar."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l030",
+      "old": "There was a big conflict.",
+      "en": "And a vast battle raged.",
+      "reason": "Калың жаңжал is a massive fight; context is battle."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l031",
+      "old": "Tearing without a dream,",
+      "en": "They tore at one another without regret,",
+      "reason": "Арманы жок is 'without regret'; тытышып is reciprocal tearing."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l032",
+      "old": "Swallow blood like water,",
+      "en": "Swallowing blood as if it were water,",
+      "reason": "Preserves hyperbolic source image and participial syntax."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l033",
+      "old": "They stretched out their spears,",
+      "en": "They thrust their spears at one another,",
+      "reason": "Сунуп найза алышты depicts mutual spear attack."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l034",
+      "old": "I lost my soul again,",
+      "en": "Sparing not their precious lives,",
+      "reason": "Кайран жанын аябай is third-person 'not sparing their dear lives'; no first-person speaker."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l035",
+      "old": "They quarreled.",
+      "en": "They battered one another.",
+      "reason": "Талкалашып салышты is violent mutual fighting, beyond a verbal quarrel."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l036",
+      "old": "There was no other way,",
+      "en": "There was no way out of it,",
+      "reason": "Мындан айла болгон жок refers to the inescapable battle."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l037",
+      "old": "Disintegrated into black dust,",
+      "en": "They were enveloped in pitch-black dust,",
+      "reason": "Бөлөнүп means becoming covered or enveloped, not disintegration."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l039",
+      "old": "There is a difficult conflict,",
+      "en": "A fierce tumult and strife arose,",
+      "reason": "Кыйын дүмөк чыр болуп continues the battle din, past narration."
+    },
+    {
+      "id": "seytek-2012:p0982:b002:l040",
+      "old": "There was a noise in the sky,",
+      "en": "A clamor seemed to split the sky,",
+      "reason": "Асман жарган is sky-splitting hyperbole."
+    }
+  ]
+}

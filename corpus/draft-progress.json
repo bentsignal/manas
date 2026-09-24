@@ -1,6 +1,6 @@
 {
-  "saved_draft_rows": 408269,
-  "released_draft_rows": 408269,
+  "saved_draft_rows": 408268,
+  "released_draft_rows": 408268,
   "independently_reviewed_rows": 0,
   "saved_page_ranges": [
     [
@@ -68,8 +68,8 @@
   "full_source_reconciled": false,
   "complete": false,
   "note": "Counts are draft translation rows with provisional lineation, not certified original verses. Opening joins two display lines. Active assignments are a checkpoint, not proof of a persistent unattended job.",
-  "saved_draft_english_words": 2164222,
-  "released_english_words": 2164224,
+  "saved_draft_english_words": 2164225,
+  "released_english_words": 2164227,
   "word_count_method": "Alphabetic English words; internal apostrophes/hyphens retained. Notes, headings, source markers and Kyrgyz excluded.",
   "saved_page_ranges_scope": "Legacy field: manas-2010 only. Use saved_page_ranges_by_source for every volume.",
   "saved_page_ranges_by_source": {

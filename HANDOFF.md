@@ -28,7 +28,7 @@ eight on page 976, 28 more across pages 976–977, 66 on page 978, 79 on page
 979, 75 on page 980, 79 on page 981, 80 on page 982, and 78 on page 983 were
 corrected in their page batches and the canonical release. On 2026-09-24,
 79 more on page 984 and 76 on page 985 were corrected. The local compiled release now has
-**408,269 rows and 2,164,224 English words** (+878 words); the verified live
+**408,268 rows and 2,164,227 English words** (+881 words); the verified live
 version above still has 2,163,346 words. The corrections are recorded in
 `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-TRANSLATION-CORRECTIONS-2026-09-23.json` and
@@ -56,14 +56,15 @@ rows. Printed pages and narrative joins verified errors at pages 26, 600,
 screen, not a full textual review of every page. A stricter screen and
 examples are in `research/working/seytek-column-order-samples-2026-09-24.md`.
 
-Reviewed local corrections now put page 25's grouped drop cap and both
-columns, pages 26–28 and 30–35, pages 596–605, and page 985 in printed
-reading order. They permute **1,661 existing rows** while keeping English
-paired with stable source IDs; page 25's joined Kyrgyz display was also
-corrected. See the page 25, pages 26–35, and pages 596–605 notes in
-`research/working/`. The new coordinate inventory,
+Reviewed local order overrides now cover **49 pages / 3,881 display rows**:
+pages 25–28, 30–45, 596–618, 620–624, and 985. English remains paired
+with stable source IDs, page 25's joined Kyrgyz display was corrected, and
+page 40's indented wrap is now one verse row with two source fragments. Page
+45's section heading remains an excluded nonverse source line; page 615's
+three-line heading remains in the narrative rows between its verse tiers.
+See the page and cohort notes in `research/working/`. The current coordinate inventory,
 `research/working/seytek-column-order-audit-2026-09-24-after-cohorts.json`,
-still flags **647 right-first pages / 51,740 rows** and **21 mixed pages /
+still flags **621 right-first pages / 49,660 rows** and **21 mixed pages /
 1,446 rows**. The alignment checks consume reviewed page-order overrides but
 cannot detect errors on pages still following the raw extraction order. Do
 not deploy this local checkpoint until those pages are reviewed and repaired.

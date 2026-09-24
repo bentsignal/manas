@@ -24,6 +24,19 @@ class SourceOrderTests(unittest.TestCase):
         next_page = json.loads((ROOT / 'corpus/batches/pages-seytek-0026.json').read_text())
         self.assertEqual(next_page['after_id'], 'seytek-2012:p0025:b004:l031')
 
+    def test_page_40_wrap_remains_one_verse_with_two_source_fragments(self):
+        page = json.loads((ROOT / 'corpus/batches/pages-seytek-0040.json').read_text())
+        representative = 'seytek-2012:p0040:b003:l040'
+        continuation = 'seytek-2012:p0040:b003:l041'
+        self.assertEqual(len(page['source_ids']), 80)
+        self.assertNotIn(continuation, page['source_ids'])
+        self.assertEqual(page['source_groups'][representative],
+                         [representative, continuation])
+        release = [json.loads(line) for line in read_release(ROOT).splitlines()]
+        row = next(row for row in release if row['id'] == representative)
+        self.assertEqual(row['source_line_ids'], [representative, continuation])
+        self.assertEqual(row['ky'], 'Арамдардан алалбай келдим дартымды.')
+
     def test_all_reviewed_pages_match_batch_release_and_extraction_order(self):
         overrides = json.loads((ROOT / 'corpus/source-order-overrides.json').read_text())['seytek-2012']
         with (ROOT / 'sources/extracted/seytek-2012.lines.jsonl').open() as stream:
@@ -39,7 +52,9 @@ class SourceOrderTests(unittest.TestCase):
                 release_by_page.setdefault(row['source']['page'], []).append(row)
         for page_key, override in overrides.items():
             page = int(page_key)
-            self.assertEqual(override['blocks'], [3, 5, 4] if page == 25 else [3, 2])
+            special = {25: [3, 5, 4], 45: [3, 2, 5, 6],
+                       615: [3, 2, 4, 6, 5]}
+            self.assertEqual(override['blocks'], special.get(page, [3, 2]))
             batch = json.loads((ROOT / f'corpus/batches/pages-seytek-{page:04}.json').read_text())
             ids = batch['source_ids']
             english = (ROOT / batch['english']).read_text().splitlines()
@@ -68,9 +83,12 @@ class SourceOrderTests(unittest.TestCase):
         page_rows = [row for row in release if row['id'] in set(expected)]
         self.assertEqual([row['id'] for row in page_rows], expected)
         self.assertEqual([row['en'] for row in page_rows], english)
-        self.assertEqual([row['ordinal'] for row in page_rows], list(range(372533, 372612)))
-        self.assertEqual(release[372531]['id'], 'seytek-2012:p0984:b003:l040')
-        self.assertEqual(release[372611]['id'], 'seytek-2012:p0986:b002:l001')
+        first = page_rows[0]['ordinal']
+        self.assertEqual([row['ordinal'] for row in page_rows],
+                         list(range(first, first + len(expected))))
+        self.assertEqual(release[first - 2]['id'], 'seytek-2012:p0984:b003:l040')
+        self.assertEqual(release[first + len(expected) - 1]['id'],
+                         'seytek-2012:p0986:b002:l001')
         next_batch = json.loads((ROOT / 'corpus/batches/pages-seytek-0986.json').read_text())
         self.assertEqual(next_batch['after_id'], expected[-1])
 

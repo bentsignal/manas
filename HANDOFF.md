@@ -8,12 +8,15 @@ public site is:
 
 <https://manas-every-line.bentsignal.chatgpt.site>
 
-The last verified public release is version `1dcaee9eb5050035`:
+The last verified public release is version `577eb25657388bf8`, deployed from
+source commit `53b7cc96b0df11c754c87c60a6f294055fa2fe75` as Sites version
+177 on 2026-09-24:
 
-- 408,269 translated lines
-- 2,163,346 English words
+- 408,268 English display rows
+- 2,164,227 English words
 - 9 explicit unresolved source regions
 - last released source row `sayakbay-ms-current146:pdf251:l012`
+- `complete: false`
 
 The deployment was verified with:
 
@@ -21,15 +24,15 @@ The deployment was verified with:
 python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site
 ```
 
-## Local correction checkpoint, not deployed
+## Published correction checkpoint, incomplete
 
 On 2026-09-23, 19 mistranslated English rows on printed Seytek page 972,
 eight on page 976, 28 more across pages 976–977, 66 on page 978, 79 on page
 979, 75 on page 980, 79 on page 981, 80 on page 982, and 78 on page 983 were
 corrected in their page batches and the canonical release. On 2026-09-24,
-79 more on page 984 and 76 on page 985 were corrected. The local compiled release now has
-**408,268 rows and 2,164,227 English words** (+881 words); the verified live
-version above still has 2,163,346 words. The corrections are recorded in
+79 more on page 984 and 76 on page 985 were corrected. The compiled and
+verified live release has **408,268 rows and 2,164,227 English words**. The
+corrections are recorded in
 `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-0977-TRANSLATION-CORRECTIONS-2026-09-23.json` and
@@ -44,7 +47,10 @@ version above still has 2,163,346 words. The corrections are recorded in
 Page 980 retains one Kyrgyz term in transliteration with an explicit
 unresolved-reading note; these pages do not have an independent specialist review.
 Alignment, draft audit, release compilation, tests, and production build passed.
-No inventory-142 row was released, and the complete flag remains false.
+No inventory-142 row was released, and the complete flag remains false. At the
+user's 2026-09-24 wrap-up request, this checked partial release was deployed
+to the existing public site with its incomplete status intact. It does not
+establish complete coverage of the trilogy.
 
 ### Printed Seytek reading-order audit
 
@@ -66,10 +72,10 @@ See the page and cohort notes in `research/working/`. The current coordinate inv
 `research/working/seytek-column-order-audit-2026-09-24-after-cohorts.json`,
 still flags **603 right-first pages / 48,220 rows** and **21 mixed pages /
 1,446 rows**. The alignment checks consume reviewed page-order overrides but
-cannot detect errors on pages still following the raw extraction order. Do
-not deploy this local checkpoint until those pages are reviewed and repaired.
-The last verified public version predates this audit and may have the same
-sequence defect.
+cannot detect errors on pages still following the raw extraction order. The
+current public version contains the reviewed 67-page correction and still has
+these unresolved ordering defects. Do not claim complete coverage or mark the
+release complete until those pages and the remaining source gaps are resolved.
 
 Local Cyrillic handwriting OCR trials for inventory 142 are recorded in
 `research/working/current142/OCR-BENCHMARK-2026-09-23.md`. Both the
@@ -261,6 +267,16 @@ set and physical-extent discrepancy are resolved. It currently raises a
 release-readiness error before writing any output.
 
 ## Safe resume sequence
+
+The printed Seytek source-order review can continue from pages **56–70** and
+**636–650**. Agents began looking at these ranges during wrap-up but were
+interrupted before saving a complete page-by-page audit; do not apply order
+changes from their partial findings. The latest verified review notes are
+`research/working/seytek-order-pages-0046-0055-2026-09-24.md` and
+`research/working/seytek-order-pages-0626-0635-2026-09-24.md`. The source
+order migration helper is `scripts/apply-reviewed-seytek-order.py`; review
+page images and joins before adding an override. Current audit:
+`research/working/seytek-column-order-audit-2026-09-24-after-cohorts.json`.
 
 1. Rebuild pages 101–112 and 125–136 from actual PDF images in the authoritative
    scan. Use visible folios and stable `seytek-2012:p...` IDs; never use compiled

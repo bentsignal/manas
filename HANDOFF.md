@@ -25,9 +25,9 @@ python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site
 
 On 2026-09-23, 19 mistranslated English rows on printed Seytek page 972,
 eight on page 976, 28 more across pages 976–977, 66 on page 978, 79 on page
-979, 75 on page 980, 79 on page 981, and 80 on page 982 were
+979, 75 on page 980, 79 on page 981, 80 on page 982, and 78 on page 983 were
 corrected in their page batches and the canonical release. The local compiled release now has
-**408,269 rows and 2,163,923 English words** (+577 words); the verified live
+**408,269 rows and 2,164,022 English words** (+676 words); the verified live
 version above still has 2,163,346 words. The corrections are recorded in
 `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-TRANSLATION-CORRECTIONS-2026-09-23.json` and
@@ -36,7 +36,8 @@ version above still has 2,163,346 words. The corrections are recorded in
 `research/SEYTEK-0979-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
 `research/SEYTEK-0980-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
 `research/SEYTEK-0981-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
-`research/SEYTEK-0982-TRANSLATION-CORRECTIONS-2026-09-23.json`.
+`research/SEYTEK-0982-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
+`research/SEYTEK-0983-TRANSLATION-CORRECTIONS-2026-09-23.json`.
 Page 980 retains one Kyrgyz term in transliteration with an explicit
 unresolved-reading note; these pages do not have an independent specialist review.
 Alignment, draft audit, release compilation, tests, and production build passed.
@@ -118,10 +119,13 @@ PDF page 112 is folio **2427**, though its saved draft labels it 2426; page
 and page 113's opening, contradict the earlier tentative printed crosswalk
 `p0980:b002:l032–p0980:b003:l037/l038`; that crosswalk is withdrawn.
 The saved page-112 crosswalk ends at `p0980:b002:l017` and is also unreliable.
-Page 113's physical total remains unverified. Both pages need line-by-line
+An independent numbered overlay now establishes **47 physical verse lines**
+on page 113. Its saved draft has 53 rows and starts with the wrong printed
+text; the six-row difference cannot be fixed by trimming. Both pages need line-by-line
 transcription and realignment before any release. See
 `research/working/current142/PAGE-112-BASELINE-2026-09-23.md` and
-`research/working/current142/PAGE-112-113-AUDIT-2026-09-23.md`.
+`research/working/current142/PAGE-112-113-AUDIT-2026-09-23.md` and
+`research/working/current142/PAGE-113-BASELINE-2026-09-23.md`.
 An all-pairs SIFT candidate screen of PDF narrative pages 4–148 found this
 pair as the only strong photo match (281 geometric inliers; next highest 28).
 That screen is a lead for the visual audit, not a proof of no other duplicate.

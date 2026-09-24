@@ -1,0 +1,509 @@
+{
+  "source": "sources/extracted/seytek-2012.lines.jsonl",
+  "batch": "corpus/batches/pages-seytek-0983.json",
+  "method": "targeted Kyrgyz-English semantic review against printed page and adjacent context; inventory-142 manuscript alignment remains provisional",
+  "checked_by": "Codex with parallel agent proposals reviewed by root",
+  "date": "2026-09-23",
+  "independent_specialist_review": false,
+  "lexical_refs": {
+    "заар": "https://el-sozduk.kg/%D0%B7%D0%B0%D0%B0%D1%80/ — fierceness, wrath, severity in epic use",
+    "бейпай": "https://el-sozduk.kg/%D0%B1%D0%B5%D0%B9%D0%BF%D0%B0%D0%B9/ — suffering or turmoil; бейпайга сал- inflicts suffering",
+    "кагыш": "https://el-sozduk.kg/%D0%BA/ — battle or clash (entry кагыш)",
+    "чамалуу": "https://el-sozduk.kg/%D1%87%D0%B0%D0%BC%D0%B0/ — moderate, middling, not especially great",
+    "башына күч келүү": "https://el-sozduk.kg/%D0%B1%D0%B0%D1%88%D1%8B/ — to bear hardship or distress",
+    "тажаал": "https://altaica.ru/LIBRARY/yudahin/kyrgyz_dictionary2.pdf — кара тажаал, terrible fiend",
+    "касам": "https://el-sozduk.kg/%D0%BA%D0%B0%D1%81%D0%B0%D0%BC/ — oath; line 29 may instead reflect казам (fate/death), unresolved",
+    "jaya": "https://el-sozduk.kg/zhaya-4/",
+    "kazy": "https://el-sozduk.kg/kazy-7/",
+    "zulpukor": "https://el-sozduk.kg/%D0%97%D0%A3%D0%9B%D0%9F%D0%A3%D0%9A%D0%9E%D0%A0/",
+    "jalankych": "https://el-sozduk.kg/%D0%B6%D0%B0%D0%BB%D0%B0%D2%A3/",
+    "ukuruk": "https://el-sozduk.kg/ukuruk-2/",
+    "uyutku": "https://el-sozduk.kg/uyutku-3/",
+    "kalmyshynda": "https://el-sozduk.kg/?lfrom=kg&lto=xx&page=main&word=%D0%BA%D0%B0%D0%BB%D0%BC"
+  },
+  "uncertainty": [
+    "Rows 7–31 contain first-person Sarybay speech but no extracted opening quotation mark. Page 982 ends in third-person narration; page 983 row 54 begins another explicit quote. Do not infer exact quotation boundary from this text alone.",
+    "Rows 10, 23, 27 and 29 have unclear or possibly corrupt wording. Proposed English preserves defensible gist and requires printed-page/lexical review before adoption.",
+    "The form жолундуу in row 23 was not confirmed in the consulted dictionary; the English is context-led.",
+    "Row 29's касам literally means oath, while epic kazam/ажал idiom might be intended; check scan before changing source text.",
+    "Row 45 has opaque жагданып жибек бөлүнбөй; proposed English is deliberately literal and requires specialist review against the printed scan.",
+    "Row 48's аркардын жибек белиндей metaphor is kept close to the Kyrgyz; exact physical referent of silk-like waist is uncertain.",
+    "Row 67's collocation укурук калбай, жан калбай is kept literal; scope of the lasso/pole image is uncertain.",
+    "Row 80 is the first line of a sentence continuing onto page 984; калмышында means in the end, but the sentence referent requires that continuation."
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0983:b002:l001",
+      "old": "He was making noise.",
+      "en": "He had kept the tumult raging.",
+      "reason": "Чууга сал- is to throw into uproar; continues page 982 battle narration."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l002",
+      "old": "Chama was tired and left.",
+      "en": "Strength spent, exhausted,",
+      "reason": "Чама is strength or capacity here, not a person's name; ал кетип means strength departed."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l003",
+      "old": "Bleeding from our body",
+      "en": "Blood flowed from our bodies,",
+      "reason": "Денебизден is first-person plural, from our bodies."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l005",
+      "old": "Saliva sweeter than sugar,",
+      "en": "For saliva sweeter than sugar,",
+      "reason": "Together with next line, the speaker longs for even one swallow."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l006",
+      "old": "He had to swallow.",
+      "en": "We longed for a single swallow.",
+      "reason": "Бир жутууга зар болду expresses desperate longing for one swallow; pronoun follows our bodies in row 3."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l007",
+      "old": "Blessings Kuyaly,",
+      "en": "Bravo, Kuyaly!",
+      "reason": "Баракелде is praise or admiration, not a blessing noun."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l008",
+      "old": "What can I say without Bali,",
+      "en": "How could I fail to say, 'Well done'?",
+      "reason": "Бали is an exclamation of praise, not the place name."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l009",
+      "old": "Your courage is strong, your urine is strong,",
+      "en": "Your valor is mighty, your wrath fierce;",
+      "reason": "Заар has figurative epic sense fierceness or wrath, not urine in this context."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l010",
+      "old": "I made it straight.",
+      "en": "I set Sarybay straight.",
+      "reason": "Conservative first-person rendering of Сарыбайды кылдым түз without deciding the uncertain speaker change.",
+      "uncertain": true
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l011",
+      "old": "Then another force came,",
+      "en": "My poor head was sorely tried,",
+      "reason": "Башка is dative 'to the head,' not adjective 'other'; башына күч келүү expresses affliction."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l012",
+      "old": "Eventually the work came.",
+      "en": "The final ordeal came upon me.",
+      "reason": "Акыр-такыр signals the utter/endmost stage; иш is trouble in this lament."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l013",
+      "old": "I was Sarybai blood,",
+      "en": "I was Sarybay the khan,",
+      "reason": "Кан here is the title khan, not blood; first-person speech."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l014",
+      "old": "ever since ever",
+      "en": "From time immemorial,",
+      "reason": "Ар качандан бир качан is a temporal epic formula; smooth without adding an event."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l015",
+      "old": "Always always",
+      "en": "At every turn,",
+      "reason": "Ар дайымдан бир дайым reiterates habitual recurrence."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l016",
+      "old": "I have a bad habit.",
+      "en": "Fighting had been my custom.",
+      "reason": "Кагыш кылган адатым names the habit as combat, with no 'bad' modifier."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l017",
+      "old": "How many hands,",
+      "en": "Countless armies",
+      "reason": "Кол means an army or troop in epic battle context, not anatomical hands."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l018",
+      "old": "Crushing and destroying",
+      "en": "I fought and crushed,",
+      "reason": "Кагыш кылып is to fight; clause continues into next line."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l019",
+      "old": "I bought everything for free.",
+      "en": "And cast them all into misery.",
+      "reason": "Бейпайга салдым баарысын means caused all to suffer, not free acquisition."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l020",
+      "old": "They did not call Chamula,",
+      "en": "I used to fell the middling ones;",
+      "reason": "Чамалууну is the moderately capable person, object of чалчу элек (habitual 'used to strike/fell'), not a name."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l021",
+      "old": "If you want to fight the stump",
+      "en": "When a fierce fighting foe came,",
+      "reason": "Чабышкан дүмөк жоо is a fighting, tumultuous enemy; conditional келсе, not a wish."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l022",
+      "old": "He didn't put it on his back,",
+      "en": "I used to lay him flat on his back.",
+      "reason": "Чалкасынан салчу элек is affirmative habitual in the speaker's first-person account."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l023",
+      "old": "He did not destroy the road,",
+      "en": "I used to destroy even the formidable ones,",
+      "reason": "Жойчу элек is affirmative habitual; жолундууну denotes a type of adversary here, not 'the road'; exact lexical sense uncertain.",
+      "uncertain": true
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l024",
+      "old": "Joylop came close,",
+      "en": "And those who crept close,",
+      "reason": "Жойлоп is a manner of coming close, not a name."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l025",
+      "old": "His eyes narrowed.",
+      "en": "I used to gouge out their glaring eyes.",
+      "reason": "Көзүн ойчу элек is affirmative habitual 'used to gouge out the eye'; кашайткан qualifies the eyes."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l026",
+      "old": "When you are gone,",
+      "en": "When they came swaggering,",
+      "reason": "Кулжуңдаша кеткенде indicates taunting or cocky behavior, not departure by 'you'.",
+      "uncertain": true
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l027",
+      "old": "The sun did the trick",
+      "en": "I left them at their wits' end,",
+      "reason": "Айласын кетирип is to deprive of recourse; күн may add a 'daylight' nuance not captured here.",
+      "uncertain": true
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l028",
+      "old": "He put it on his back.",
+      "en": "And laid them flat on their backs.",
+      "reason": "Чалкасынан салчу элек repeats speaker's habitual victory, as at row 22."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l029",
+      "old": "I didn't reach my death,",
+      "en": "Yet my appointed end had not come.",
+      "reason": "Context contrasts past victories with surviving to face Kuyaly; касам is lexically 'oath' and may be a source variant or typo, so this is provisional.",
+      "uncertain": true
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l030",
+      "old": "The discharge is severe, the urine is strong,",
+      "en": "Swift to flee, fierce in wrath,",
+      "reason": "Качышы is fleeing, заары wrath/fierceness; not medical discharge and urine."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l031",
+      "old": "I've never seen you like that.",
+      "en": "My dear, I had never seen your like.",
+      "reason": "Сендей көрбөдүм means never saw one like you; кайраным is an address."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l032",
+      "old": "I heard from the reporter yesterday.",
+      "en": "Yesterday I heard word from a messenger,",
+      "reason": "Кабарчы is messenger or news bearer in the epic setting; keep sentence flowing into next line."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l034",
+      "old": "My soul is buzzing,",
+      "en": "My tiny life trembled,",
+      "reason": "Чымын жаным is figurative 'my frail life'; чыркырап is shrill quivering or crying."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l035",
+      "old": "My femur is broken,",
+      "en": "The bones of my thighs shuddered,",
+      "reason": "Дал сан сөөгүм is thigh bone; быркырап expresses rattling/shuddering, not necessarily a literal fracture."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l036",
+      "old": "My bones are shaking,",
+      "en": "My ribs throbbed,",
+      "reason": "Боконо сөөгүм names ribs specifically; болкулдап conveys throbbing or jolting."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l037",
+      "old": "My stomach is shaking",
+      "en": "My insides heaved without cease,",
+      "reason": "Ичим солкулдап evokes internal trembling; болбой intensifies the distress."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l038",
+      "old": "The public was informed,",
+      "en": "The news spread among the people:",
+      "reason": "Калкка кабар билинген says the news became known to the people; next line gives its content."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l039",
+      "old": "I got bored,",
+      "en": "'A fearsome fiend has come,' they said.",
+      "reason": "Кара тажаал is a terrible fiend, not boredom; келди деп reports what was said."
+    },
+    {
+      "id": "seytek-2012:p0983:b002:l040",
+      "old": "Kairan wrestler Sarybay,",
+      "en": "Poor champion Sarybay,",
+      "reason": "Кайран is an epithet of pity; балбан is champion or wrestler; continuation in row 41 completes sentence."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l001",
+      "old": "Again he was disappointed.",
+      "en": "He despaired of his precious life.",
+      "reason": "кайран жан refers to dear life, түңүлгөн to losing hope; not another disappointment."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l002",
+      "old": "The gnawing bug,",
+      "en": "The wretched man writhed in anguish,",
+      "reason": "бейтаалай is hapless person and чымырканган describes straining or writhing, not an insect."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l003",
+      "old": "ever since ever",
+      "en": "Time after time,",
+      "reason": "ар качандан бир качан is temporal formula; smooth syntax with next line."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l004",
+      "old": "It's like this.",
+      "en": "He had suffered in this way.",
+      "reason": "жапаа салып has suffering or affliction, omitted by draft."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l005",
+      "old": "The silk does not separate,",
+      "en": "The silk settled close without parting,",
+      "reason": "Retains жибек бөлүнбөй and attempts жагданып; opaque phrase, flagged uncertain."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l006",
+      "old": "You did bad things and quarreled.",
+      "en": "You did wrong by stirring up strife,",
+      "reason": "чыр салып is to cause strife; direct second-person rebuke."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l007",
+      "old": "You don't look like a shepherd.",
+      "en": "You show no sign of sparing a life.",
+      "reason": "жан койчу means let a life be, not a livestock shepherd; түрүң көрүнбөй concerns appearance of mercy."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l008",
+      "old": "Like Arkar's silk waist,",
+      "en": "Like the silken waist of an argali,",
+      "reason": "аркар is wild mountain sheep, not a proper name; keeps metaphor close."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l009",
+      "old": "When I look at you,",
+      "en": "When I look at your fierce bearing,",
+      "reason": "айбат is imposing or fearsome bearing."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l010",
+      "old": "Like a cold breeze from the pass.",
+      "en": "It is like the cold wind of a mountain pass.",
+      "reason": "Retains simile while connecting to previous line's bearing."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l011",
+      "old": "Tune into the tune,",
+      "en": "With a low, swelling hum,",
+      "reason": "күү-күү is onomatopoeic sound and күүлөнүп describes building force here."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l012",
+      "old": "Speaking grumpily,",
+      "en": "Muttering deep in his throat,",
+      "reason": "күңгүрөнүп depicts low rumbling speech, not necessarily grumpiness."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l013",
+      "old": "Sarybay roared:",
+      "en": "Sarybay thundered:",
+      "reason": "күркүрөдү is rumbling or thundering; prior lines describe his voice."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l014",
+      "old": "\"I am Sarybay,",
+      "en": "\"Since I became Sarybay,",
+      "reason": "болгону begins temporal sequence with конгону in next line."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l015",
+      "old": "When Sarybai got on the horse,",
+      "en": "Since I mounted a horse as Sarybay,",
+      "reason": "First-person speech continues; атка конгону means mounted a horse or set out as a rider."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l016",
+      "old": "From adulthood to manhood,",
+      "en": "Since I came of age and became a warrior,",
+      "reason": "эрешен тартып эр болуп is coming to maturity and becoming a man/hero."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l017",
+      "old": "Equal to his son,",
+      "en": "A match for the sons of warriors,",
+      "reason": "эр уулуна means a brave man's son, not his son."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l018",
+      "old": "I wore a golden crown,",
+      "en": "Since I put on a golden crown,",
+      "reason": "Participates in temporal sequence leading to rule."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l019",
+      "old": "I rode on a golden throne,",
+      "en": "Since I ascended a golden throne,",
+      "reason": "такка мингеним is enthronement, not literal riding."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l020",
+      "old": "The people rule, the people wait,",
+      "en": "I ruled the people and cared for the land,",
+      "reason": "First-person subject continues; калк башкарып, журт күтүп means governing people and maintaining realm."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l021",
+      "old": "I used to be a sarybai.",
+      "en": "I have lived as Sarybay.",
+      "reason": "Sarybay is speaker's name, not common noun."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l022",
+      "old": "There is blood in the court,",
+      "en": "I held court and became a khan,",
+      "reason": "кан is khan in ордо тутуп, кан болуп, not blood."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l023",
+      "old": "A steady dance",
+      "en": "A chief seated in authority,",
+      "reason": "бий means ruler or judge, not dance; орунтуктуу denotes established position."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l024",
+      "old": "Gather the people and hold the people,",
+      "en": "I gathered the people and held the realm,",
+      "reason": "First-person narrative; калк and журт distinguish people and polity."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l025",
+      "old": "Clouds ride, spray ice,",
+      "en": "Riding the clouds and scattering ice,",
+      "reason": "Participial boasts belong to Sarybay's past, not separate weather clauses."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l026",
+      "old": "In a row,",
+      "en": "In those days when I roared,",
+      "reason": "күжүлдөгөн кезекте recalls roaring past vigor."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l027",
+      "old": "No loop left, no soul left,",
+      "en": "Leaving neither a horse-catching pole nor a living soul,",
+      "reason": "укурук is a horse-catching pole with a noose; keeps hyperbole literal and flagged uncertain."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l028",
+      "old": "Make it sweet,",
+      "en": "I scattered their very core,",
+      "reason": "уютку is core or starter; быт кылып means breaking apart and scattering, not sweetening."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l029",
+      "old": "There are no animals left untouched by me.",
+      "en": "No herd escaped my raids,",
+      "reason": "мал is livestock and тийбеген in boastful raid context means untouched or unraided."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l030",
+      "old": "The oppressor, my steel spear,",
+      "en": "My Zulpukor sword and my steel spear,",
+      "reason": "Зулпукор names a legendary sharp sword, paired here with steel spear; not an oppressor."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l031",
+      "old": "When I was singing,",
+      "en": "When I brandished them,",
+      "reason": "күүлөп with weapons means swinging or flourishing, not singing."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l032",
+      "old": "All of the sky",
+      "en": "All the vast heavens",
+      "reason": "асман-көк is expansive sky/heavens, not an incomplete nominal phrase."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l033",
+      "old": "During my tenure,",
+      "en": "I held in my power in those days,",
+      "reason": "Completes previous all-heavens object without adding an unsupported “seemed”."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l034",
+      "old": "I was cutting and eating",
+      "en": "I sliced and ate the choicest horse haunch,",
+      "reason": "жая is prized horse rump/haunch cut, not an unspecified object."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l035",
+      "old": "I was wondering where the naked man is.",
+      "en": "And asked, 'Where is the death-bringer?'",
+      "reason": "жалаңкыч denotes reaper or terrifying foe, not a naked man."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l036",
+      "old": "I was eating goose",
+      "en": "I sliced and ate horse-rib fat,",
+      "reason": "казы is prized horse rib or belly fat, not goose (каз)."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l037",
+      "old": "I was wondering where Balaket is.",
+      "en": "And asked, 'Where is calamity?'",
+      "reason": "балакет means misfortune/calamity, not proper name; parallel to death-bringer boast."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l038",
+      "old": "Oh, poor Kuyaly,",
+      "en": "Oh, wretched Kuyaly,",
+      "reason": "оңбогон is reproach or curse, not compassionate poor."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l039",
+      "old": "I burned more than you.",
+      "en": "I have suffered greatly because of you.",
+      "reason": "сенден көп күйдүм is speaker's distress caused by Kuyaly, not comparison of burns."
+    },
+    {
+      "id": "seytek-2012:p0983:b003:l040",
+      "old": "In the end, this man,",
+      "en": "In the end, to this warrior,",
+      "reason": "эр is man/warrior; калмышында means in the end according to Yudakhin; fragment continues on page 984."
+    }
+  ]
+}

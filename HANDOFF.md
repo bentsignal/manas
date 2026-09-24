@@ -56,15 +56,15 @@ rows. Printed pages and narrative joins verified errors at pages 26, 600,
 screen, not a full textual review of every page. A stricter screen and
 examples are in `research/working/seytek-column-order-samples-2026-09-24.md`.
 
-Reviewed local order overrides now cover **49 pages / 3,881 display rows**:
-pages 25–28, 30–45, 596–618, 620–624, and 985. English remains paired
+Reviewed local order overrides now cover **67 pages / 5,321 display rows**:
+pages 25–28, 30–48, 50–52, 54–55, 596–618, 620–624, 626–635, and 985. English remains paired
 with stable source IDs, page 25's joined Kyrgyz display was corrected, and
 page 40's indented wrap is now one verse row with two source fragments. Page
 45's section heading remains an excluded nonverse source line; page 615's
 three-line heading remains in the narrative rows between its verse tiers.
 See the page and cohort notes in `research/working/`. The current coordinate inventory,
 `research/working/seytek-column-order-audit-2026-09-24-after-cohorts.json`,
-still flags **621 right-first pages / 49,660 rows** and **21 mixed pages /
+still flags **603 right-first pages / 48,220 rows** and **21 mixed pages /
 1,446 rows**. The alignment checks consume reviewed page-order overrides but
 cannot detect errors on pages still following the raw extraction order. Do
 not deploy this local checkpoint until those pages are reviewed and repaired.

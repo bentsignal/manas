@@ -165,6 +165,11 @@ printed crosswalk. See
 `research/working/current142/PAGE-114-BASELINE-2026-09-24.md` and
 `research/working/current142/PAGE-114-SECOND-RECOUNT-2026-09-24.md` and
 `research/working/current142/PAGE-114-DIPLOMATIC-FIRST-PASS-2026-09-24.md`.
+PDF page 115 is folio **2430**. A numbered image count finds **51 physical
+verse baselines**, agreeing with the handwritten margin 51 but three more
+than its saved 48-row draft. Both saved endpoint readings disagree with the
+photograph. No printed crosswalk or English from that draft is releasable.
+See `research/working/current142/PAGE-115-BASELINE-2026-09-24.md`.
 An all-pairs SIFT candidate screen of PDF narrative pages 4–148 found this
 pair as the only strong photo match (281 geometric inliers; next highest 28).
 That screen is a lead for the visual audit, not a proof of no other duplicate.

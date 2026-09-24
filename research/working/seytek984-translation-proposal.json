@@ -1,0 +1,518 @@
+{
+  "source": "seytek-2012:printed-page-0984",
+  "batch": "corpus/batches/pages-seytek-0984.json",
+  "method": "line-by-line bilingual proposal against extracted Kyrgyz, with preceding and following printed-page context; no independent specialist review",
+  "lexical_refs": [
+    {
+      "term": "салбар",
+      "url": "https://el-sozduk.kg/%D0%A1%D0%90%D0%9B%D0%91%D0%90%D0%A0/",
+      "note": "neglected spouse/person"
+    },
+    {
+      "term": "сары изине чөп салуу",
+      "url": "https://el-sozduk.kg/%D1%87%D3%A9%D0%BF/",
+      "note": "relentless pursuit idiom"
+    },
+    {
+      "term": "мадер",
+      "url": "https://el-sozduk.kg/?lfrom=kg&lto=ru&page=main&word=%D0%9C",
+      "note": "father, in an idiom about revenge"
+    },
+    {
+      "term": "шуркуя",
+      "url": "https://el-sozduk.kg/shurkuya-2/",
+      "note": "derogatory or bold/unruly woman"
+    },
+    {
+      "term": "дардаң",
+      "url": "https://el-sozduk.kg/%D0%B4%D0%B0%D1%80%D0%B4%D0%B0%D2%A3/",
+      "note": "swaggering, boastful, or clumsy giant"
+    },
+    {
+      "term": "жаны кашайуу",
+      "url": "https://el-sozduk.kg/%D0%BA%D0%B0%D1%88/",
+      "note": "to be enraged/distressed"
+    }
+  ],
+  "uncertainty_notes": [
+    "Rows 16, 20, 22–23, 26–27, 39–41, 56, 59–60, 63–67, 70, 76–80 retain syntactic, geographical, or idiomatic uncertainty; compare scan and specialist reading before treating as final.",
+    "The speaker is Sarybay and his address to Kuyaly continues from printed page 983 line 80.",
+    "Line 46 printed extraction reads каран; likely караң, but this proposal does not alter source transcription."
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0984:b002:l001",
+      "old": "A high-pitched blasphemer,",
+      "en": "To that strong-armed infidel,",
+      "reason": "каруусу = arm/strength; капыр = infidel. Epithet continued from p983:80."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l002",
+      "old": "A fire broke out in my heart,",
+      "en": "Fire rose from my very core,",
+      "reason": "өзөгүмөн is from my core/heart; retain fire image."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l003",
+      "old": "By itself,",
+      "en": "An enemy arose from within me,",
+      "reason": "өз ичимен = from inside me; жоо = enemy."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l004",
+      "old": "A really dead child",
+      "en": "The child truly struck down",
+      "reason": "чындан каза = truly dead/slain; modifies баланы."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l005",
+      "old": "I want to see",
+      "en": "I see I am about to behold,",
+      "reason": "көргөнү турган экемин = it seems I am standing ready to see; completes p984:04."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l006",
+      "old": "Really die and die,",
+      "en": "True death has come for my poor soul,",
+      "reason": "ажал = death/fate; кайран жан = poor/dear soul. Syntax remains poetic."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l007",
+      "old": "I want to die.",
+      "en": "It seems I have come to die.",
+      "reason": "өлгөнү келген экемин = it seems I have come to die."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l008",
+      "old": "Free world merchant,",
+      "en": "O trader in this fleeting world,",
+      "reason": "бекер дүйнө = vain/empty world, соодагер = merchant; vocative sense probable."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l009",
+      "old": "Interested in this world,",
+      "en": "Enamored of this world,",
+      "reason": "кызыгып = attracted/enamored; бу дүнүйөгө = with this world."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l010",
+      "old": "My name is Netain.",
+      "en": "What did I think I would gain?",
+      "reason": "нетейин деген экемин = what did I mean to do; Netain is not a name."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l011",
+      "old": "Kuyaly, my crush",
+      "en": "Kuyaly, the one I clashed with,",
+      "reason": "кагышканым = the one with whom I clashed, not a crush."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l012",
+      "old": "It was a soul from my land,",
+      "en": "Was one who came from my own land,",
+      "reason": "жеримден чыккан = arose from my land."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l013",
+      "old": "injected seven times,",
+      "en": "We jousted seven times,",
+      "reason": "сайышып = jousted with lances; not injections."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l014",
+      "old": "He said he would do it for you.",
+      "en": "And she said, 'I will do this to you.'",
+      "reason": "сага муну кылам деди = she said I will do this to you; gender from Kuyaly."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l015",
+      "old": "A girl with a better name is a wrestler,",
+      "en": "That renowned champion girl",
+      "reason": "аты артык = of surpassing renown; кыз балбан = female champion."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l016",
+      "old": "He reached his inheritance,",
+      "en": "Has come into her inheritance,",
+      "reason": "мураасына жетиптир; inheritance may be figurative; retain literal reading."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l017",
+      "old": "Staring is death,",
+      "en": "Whoever she set her sights on died,",
+      "reason": "тиктегени өлүптүр = the one she fixed her gaze on died."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l018",
+      "old": "He granted what he wished for.",
+      "en": "What she wished for was granted,",
+      "reason": "тилегенин бериптир = her wish was given; subject implicit."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l019",
+      "old": "He killed the one who caught him.",
+      "en": "Whoever grappled with her died,",
+      "reason": "кармашканы = person who grappled with her; parallel to p984:17."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l020",
+      "old": "He wanted to fight.",
+      "en": "And her challenger has come.",
+      "reason": "кагышканы келиптир = one who clashed with her has arrived; referent uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l021",
+      "old": "Kayipchal's wrestler girl,",
+      "en": "Kayipchal's champion daughter,",
+      "reason": "балбан кыз = champion/wrestler girl; Kayipchal father."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l022",
+      "old": "You are a girl from the dark sky,",
+      "en": "You dark-hearted, swaggering girl,",
+      "reason": "кара көөдөн = dark-hearted/broad-chested uncertain; дардаң = swaggering/boastful."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l023",
+      "old": "The girl left from the boat.",
+      "en": "A girl cast off by the people,",
+      "reason": "калайыктан калган = left by/behind the people; cast off is contextual and uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l024",
+      "old": "The edge of your village is white,",
+      "en": "At your village's edge stands a white cliff,",
+      "reason": "ак кыя = white cliff, not merely white."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l025",
+      "old": "Shurkuya, who has lost his conscience.",
+      "en": "You shameless, reckless woman!",
+      "reason": "абийири кеткен = honor lost; шуркуя = reckless/unruly woman, derogatory in context."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l026",
+      "old": "There is no back,",
+      "en": "No waist for a hand to pass around,",
+      "reason": "сыдыр барган бели жок: retain literal body image; exact idiom uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l027",
+      "old": "There is no husband who does not pray.",
+      "en": "No man who has not bowed to you,",
+      "reason": "сыйынбаган эри жок = no man who has not bowed/honored; эри may be husband/man."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l028",
+      "old": "The girl who gave Bekzaada,",
+      "en": "A noble-born champion girl,",
+      "reason": "бекзааданын = noble-born/nobleman's; берен кыз = heroic/champion girl."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l029",
+      "old": "Be a giant without account,",
+      "en": "Becoming a giant beyond measure,",
+      "reason": "эсеби жок = beyond measure; дөө = giant."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l030",
+      "old": "Is it easy to find a husband?",
+      "en": "Is it right for her to go seeking a man?",
+      "reason": "эр издеген оңобу = is it proper to seek a husband/man; rhetorical question."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l031",
+      "old": "A lonely girl like a princess",
+      "en": "A lone girl like a princess,",
+      "reason": "канзаададай = like a prince/princess; жалгыз кыз = only/lone daughter."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l032",
+      "old": "Will he be arrested?",
+      "en": "Should she go out to grapple?",
+      "reason": "кармашка чыккан болорбу = could/should she enter combat; no arrest."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l033",
+      "old": "People roam around and violate the country,",
+      "en": "Roaming among the people and unsettling the land,",
+      "reason": "эл кыдырып = roam among people; журт бузган = disrupt a people/land."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l034",
+      "old": "Beypai will be like you.",
+      "en": "Could there be a troublemaker like you?",
+      "reason": "бейпай = unsettled/troublesome; senдей = like you."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l035",
+      "old": "The only girl of Esil Zat,",
+      "en": "The only daughter of a noble soul,",
+      "reason": "эсил заттын = worthy/dear person's; not proper name Esil Zat."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l036",
+      "old": "Is it worth looking for a husband?",
+      "en": "Is it fitting for her to seek a man?",
+      "reason": "эр издеген оңорбу repeats p984:30."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l037",
+      "old": "Do you think so?",
+      "en": "Could there be a troublemaker like you,",
+      "reason": "бейпай сенче = troublemaker such as you; not 'do you think so'."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l038",
+      "old": "You don't have to face.",
+      "en": "Unless you meet me face to face?",
+      "reason": "беттешпесең болобу = can you avoid facing me; rhetorical challenge."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l039",
+      "old": "I draw a sword and sheathe it,",
+      "en": "I draw my sword and sheath it,",
+      "reason": "кылыч сууруп кындаймын literally draw a sword and sheath it; action sequence unclear."
+    },
+    {
+      "id": "seytek-2012:p0984:b002:l040",
+      "old": "I'm really hot now.",
+      "en": "Now roused, I speak in earnest.",
+      "reason": "кызып = inflamed/roused; чындаймын = make true/speak earnestly; exact force uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l001",
+      "old": "You poisoned my smile,",
+      "en": "You cast poison into my ashes,",
+      "reason": "күлүмө = into my ashes, possibly hearth; not smile. Metaphor uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l002",
+      "old": "Let me know your secret,",
+      "en": "Making your secret known to strangers,",
+      "reason": "жатка = to outsiders/strangers; билгизип = making known."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l003",
+      "old": "That's how you got to the bottom.",
+      "en": "Thus you brought me to ruin.",
+      "reason": "түбүмө жеттиң = brought me to my end/ruin; idiom."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l004",
+      "old": "Hold on, you're out of the way",
+      "en": "You grappled with me, then turned away,",
+      "reason": "кармаш кылдың = you grappled; четтедиң = stepped aside/turned away."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l005",
+      "old": "You burned the soul again.",
+      "en": "You scorched my poor soul.",
+      "reason": "кайран жанды = poor soul; өрттөдүң = burned/scorched."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l006",
+      "old": "You made your work a nightmare",
+      "en": "You made all your deeds dark as night,",
+      "reason": "ишиңди караң түн кылдың = made deeds a black night; караң likely OCR missing ң."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l007",
+      "old": "You made me feel bad.",
+      "en": "You darkened my heart.",
+      "reason": "көңүлүмдү кир кылдың = made my heart/spirit soiled."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l008",
+      "old": "You didn't do one thing, you did a thousand.",
+      "en": "You did it not once but a thousand times,",
+      "reason": "бир кылбадың миң кылдың = not once but a thousand times."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l009",
+      "old": "Why did you fight so much?",
+      "en": "Why did you stir up so much strife?",
+      "reason": "чыр кылдың = made strife/quarrel."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l010",
+      "old": "You tied up my garden,",
+      "en": "You bound my fortune,",
+      "reason": "багымды = my luck/fortune; not my garden."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l011",
+      "old": "I was a hero, I was a lion,",
+      "en": "I was a warrior, I was a lion,",
+      "reason": "баатыр = warrior; шер = lion/hero."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l012",
+      "old": "You broke my heart a lot.",
+      "en": "Yet you broke my spirit again and again.",
+      "reason": "шагымды сындырдың = broke my resolve/spirit."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l013",
+      "old": "You spent a lot of money,",
+      "en": "You drained so much of my strength,",
+      "reason": "алымды = my strength/power, not money."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l014",
+      "old": "You hurt my soul a lot,",
+      "en": "You so often drove my soul to fury,",
+      "reason": "жанымды кашайттың = enraged/tormented my soul; see dictionary кашай- idiom."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l015",
+      "old": "Every day from childhood",
+      "en": "Starting trouble every day,",
+      "reason": "балаа = calamity/trouble, not childhood."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l016",
+      "old": "Together you reached the bottom.",
+      "en": "Together you brought me to ruin.",
+      "reason": "тубүмө жеттиң = brought me to my end; чогуу may mean together/all at once, referent uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l017",
+      "old": "I'm angry,",
+      "en": "My anger rises and I stiffen,",
+      "reason": "каарым келип = my anger comes; какайып = stiffening."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l018",
+      "old": "I won't miss one of you,",
+      "en": "I will not leave any one of you unchallenged,",
+      "reason": "катылбай койбойм бириңе = I will not fail to pick a fight with one of you."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l020",
+      "old": "On the edge of the dog walk,",
+      "en": "On the edge of It-Zhürbös, where no dog goes,",
+      "reason": "Ит жүрбөстүн may be a place name or descriptive epithet; preserve both."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l021",
+      "old": "I barely died.",
+      "en": "I barely escaped with my life.",
+      "reason": "өлбөй араң калыштым = I barely survived, not barely died."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l022",
+      "old": "Your mother has no grudge,",
+      "en": "I owe no vengeance for your father,",
+      "reason": "мадер = father; idiom 'мадериң өчү менде жок' means why pursue me when I have not killed your father."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l023",
+      "old": "You put so much",
+      "en": "Yet you have fought so many such battles,",
+      "reason": "мындай далай салыштың = you fought many such bouts; precise form uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l024",
+      "old": "You can't get confused",
+      "en": "Swaggering though your strength fails,",
+      "reason": "чалкып = swaggering/rolling; чамаң келалбай = lacking the ability; nuance uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l025",
+      "old": "Karabet does not take revenge on you,",
+      "en": "You black-faced wretch, until I take revenge on you,",
+      "reason": "карабет = shameful/black-faced epithet; сенден кек албай = without taking revenge on you."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l026",
+      "old": "Turned over and dismounted",
+      "en": "Until I throw you from your horse,",
+      "reason": "оодарып аттан түшүрүп = overturn/dismount you; links p984:67."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l027",
+      "old": "And I won't take you",
+      "en": "If I do not take you then,",
+      "reason": "ошондо сени мен албай = if I do not take you then; negative vow continues, contextual syntax uncertain."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l028",
+      "old": "I can't count my words,",
+      "en": "You paid no heed to my words,",
+      "reason": "санга албай сөзүмдү = not accounting/valuing my word."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l029",
+      "old": "You neglected me.",
+      "en": "You made me a neglected suitor,",
+      "reason": "салбар = neglected person/spouse; gendered dictionary sense adapted to Sarybay's complaint."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l030",
+      "old": "You love business,",
+      "en": "You must have loved making me forlorn,",
+      "reason": "салбарлыкка сүйүпсүң = you desired/liked the state of being neglected; syntax unclear."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l031",
+      "old": "Put grass on my yellow trail,",
+      "en": "You tracked my every step,",
+      "reason": "сары изиме чөп салып = relentless pursuit idiom, not literal grass on a yellow trail."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l032",
+      "old": "You are chasing a sargara.",
+      "en": "And chased me until you grew pale,",
+      "reason": "саргара = to yellow/pale with pursuit; кууп жүрүпсүң = kept chasing."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l033",
+      "old": "In Zelpinish's mind,",
+      "en": "On the plain of Zhelpinish,",
+      "reason": "Желпиниш = place name; оюнда = on its lowland/plain, not someone's mind."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l034",
+      "old": "I will cut the bark,",
+      "en": "I slew whoever came upon me,",
+      "reason": "кабылганды кыргамын = I slaughtered those encountered; not bark."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l035",
+      "old": "I said without saying,",
+      "en": "Without saying what I had to say,",
+      "reason": "айтпай кетип сөзүмдү = departed without saying my words; links p984:76."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l036",
+      "old": "I can't take myself.",
+      "en": "I went away without taking myself [unclear],",
+      "reason": "албай кетип өзүмдү literally 'went without taking myself'; unclear or idiomatic, so mark uncertainty rather than invent object."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l037",
+      "old": "I branched out here,",
+      "en": "Here I was made to feel neglected,",
+      "reason": "мында салбар кылгамын = here I made/was made neglected; agency uncertain; no botanical branching."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l038",
+      "old": "You lie to creation,",
+      "en": "You are false to everyone born,",
+      "reason": "жаралганга = to those created/born; жалгансың = you are false."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l039",
+      "old": "You are a passionate person,",
+      "en": "You are a soul burned by grief,",
+      "reason": "жаның күйгөн = soul burned/grieved, not 'passionate' in positive sense."
+    },
+    {
+      "id": "seytek-2012:p0984:b003:l040",
+      "old": "This is how you mourn.",
+      "en": "Such grief has come over you.",
+      "reason": "күйүтүң өттү ушундай = your grief has passed/come to this; exact temporal sense uncertain."
+    }
+  ]
+}

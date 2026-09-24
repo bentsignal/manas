@@ -1,6 +1,6 @@
 # Project handoff
 
-Last updated: 2026-09-23.
+Last updated: 2026-09-24.
 
 This repository publishes a completion-first English draft of the Sayakbay
 Karalaev Manas trilogy as one virtualized, continuously scrollable page. The
@@ -26,8 +26,9 @@ python scripts/verify-live.py https://manas-every-line.bentsignal.chatgpt.site
 On 2026-09-23, 19 mistranslated English rows on printed Seytek page 972,
 eight on page 976, 28 more across pages 976–977, 66 on page 978, 79 on page
 979, 75 on page 980, 79 on page 981, 80 on page 982, and 78 on page 983 were
-corrected in their page batches and the canonical release. The local compiled release now has
-**408,269 rows and 2,164,022 English words** (+676 words); the verified live
+corrected in their page batches and the canonical release. On 2026-09-24,
+79 more on page 984 and 76 on page 985 were corrected. The local compiled release now has
+**408,269 rows and 2,164,224 English words** (+878 words); the verified live
 version above still has 2,163,346 words. The corrections are recorded in
 `research/SEYTEK-0972-TRANSLATION-CORRECTIONS-2026-09-23.json` and
 `research/SEYTEK-0976-TRANSLATION-CORRECTIONS-2026-09-23.json` and
@@ -37,11 +38,29 @@ version above still has 2,163,346 words. The corrections are recorded in
 `research/SEYTEK-0980-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
 `research/SEYTEK-0981-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
 `research/SEYTEK-0982-TRANSLATION-CORRECTIONS-2026-09-23.json`, and
-`research/SEYTEK-0983-TRANSLATION-CORRECTIONS-2026-09-23.json`.
+`research/SEYTEK-0983-TRANSLATION-CORRECTIONS-2026-09-23.json`,
+`research/SEYTEK-0984-TRANSLATION-CORRECTIONS-2026-09-24.json`, and
+`research/SEYTEK-0985-TRANSLATION-CORRECTIONS-2026-09-24.json`.
 Page 980 retains one Kyrgyz term in transliteration with an explicit
 unresolved-reading note; these pages do not have an independent specialist review.
 Alignment, draft audit, release compilation, tests, and production build passed.
 No inventory-142 row was released, and the complete flag remains false.
+
+### Printed Seytek reading-order audit
+
+The saved Seytek PDF extraction and local release put the right column before
+the left column on **667 pages / 53,339 release rows**. A further 22 pages /
+1,508 rows have mixed column geometry and need individual inspection. The
+rendered PDF and narrative joins confirm reversed reading order on pages 26,
+744, and 985; page 104 is a left-first control. These figures come from
+`research/working/seytek-column-order-audit-2026-09-24.json`. They are a
+geometry inventory, not a claim that every affected page has had a full
+textual review. The English remains attached to stable source IDs, but the
+display sequence on confirmed pages is wrong. The current automated alignment
+checks compare against the same extraction order and therefore cannot detect
+this error. Do not deploy this local checkpoint until the printed reading
+order is corrected and the 22 mixed pages are resolved. The last verified
+public version predates this audit and may have the same sequence defect.
 
 Local Cyrillic handwriting OCR trials for inventory 142 are recorded in
 `research/working/current142/OCR-BENCHMARK-2026-09-23.md`. Both the
@@ -126,6 +145,12 @@ transcription and realignment before any release. See
 `research/working/current142/PAGE-112-BASELINE-2026-09-23.md` and
 `research/working/current142/PAGE-112-113-AUDIT-2026-09-23.md` and
 `research/working/current142/PAGE-113-BASELINE-2026-09-23.md`.
+PDF page 114 is folio **2429**. A numbered visual recount finds **54**
+separate baselines, one more than the handwritten margin 53 and seven fewer
+than the saved draft's 61 rows. The saved endpoint text disagrees with the
+photograph; a second recount and full diplomatic transcription are needed
+before using the apparent extra line or any printed crosswalk. See
+`research/working/current142/PAGE-114-BASELINE-2026-09-24.md`.
 An all-pairs SIFT candidate screen of PDF narrative pages 4–148 found this
 pair as the only strong photo match (281 geometric inliers; next highest 28).
 That screen is a lead for the visual audit, not a proof of no other duplicate.

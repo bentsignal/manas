@@ -1,0 +1,484 @@
+{
+  "source": "sources/extracted/seytek-2012.lines.jsonl",
+  "batch": "corpus/batches/pages-seytek-0985.json",
+  "method": "targeted Kyrgyz-English semantic review against printed page and adjacent context; inventory-142 manuscript alignment remains provisional",
+  "checked_by": "Codex with parallel agent proposal reviewed by root",
+  "date": "2026-09-24",
+  "independent_specialist_review": false,
+  "lexical_refs": {
+    "суук кол": "https://el-sozduk.kg/%D0%A1%D0%A3%D0%A3%D0%9A/",
+    "шуркуя": "https://el-sozduk.kg/%D1%88%D1%83%D1%80%D0%BA%D1%83%D1%8F/",
+    "токол": "https://el-sozduk.kg/%D1%82%D0%BE%D0%BA%D0%BE%D0%BB/",
+    "санат": "https://el-sozduk.kg/sanat-7/",
+    "опсуз": "https://el-sozduk.kg/%D0%BE%D0%BF/",
+    "туна чөк": "https://el-sozduk.kg/%D1%82%D1%83%D0%BD/",
+    "копол": "https://el-sozduk.kg/%D0%BA%D0%BE%D0%BF/",
+    "жылчыксыз": "https://el-sozduk.kg/%D0%B6%D1%8B%D0%BB%D1%87%D1%8B%D0%BA%D1%81%D1%8B%D0%B7/"
+  },
+  "uncertainty": [
+    "Positions 1-3 form a causative threat; exact role of the сынчы remains uncertain.",
+    "Position 16 uses an obscure epithet; wording is provisional.",
+    "Positions 31-40 compress a world-closing storm image; exact line 37 verb and line 40 syntax need specialist review.",
+    "Positions 45-50 use livestock and bodily metaphors; referent of жал-куйрук and force of копол are provisional.",
+    "Positions 67-76 shift through a death image into booty and inheritance; direct-speech boundaries need review with adjacent pages.",
+    "Position 78 is causative; the person placed on horseback is not identified within this page."
+  ],
+  "corrections": [
+    {
+      "id": "seytek-2012:p0985:b002:l001",
+      "old": "According to critics,",
+      "en": "Before the judges of horses,",
+      "reason": "Сынчы denotes a judge or expert; каратып is having someone look or inspect. The object is supplied by surrounding speech and remains somewhat uncertain."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l002",
+      "old": "Wrestlers beat,",
+      "en": "Having the strongmen beat you,",
+      "reason": "Балбан is a wrestler or strongman; сабатып is causative, having someone beaten."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l003",
+      "old": "Raised his hair five times,",
+      "en": "Having your hair braided in fives,",
+      "reason": "Бештен is in groups of five; өрдүрүп is causative braid, not raise."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l004",
+      "old": "Your possessions",
+      "en": "The possessions in your hands",
+      "reason": "The line begins a clause completed by line 5."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l005",
+      "old": "Cold hand spoils,",
+      "en": "I will let hostile hands destroy,",
+      "reason": "Суук кол is an idiom for a harmful or hostile hand; бүлдүрүп is cause to ruin."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l006",
+      "old": "If I don't insult you like a sheep,",
+      "en": "If I do not humiliate you like a sheep,",
+      "reason": "Койдой кордук салбасам is a first-person conditional threat."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l007",
+      "old": "If I don't make a loot letter",
+      "en": "If I do not take you as a captive wife,",
+      "reason": "Олжо катын means a woman or wife taken as booty; not a letter."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l008",
+      "old": "Let me sink into the night without being born,",
+      "en": "May I perish as though never born,",
+      "reason": "Туулбай туна чөгөйүн is a formulaic oath wishing one's own birth undone."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l009",
+      "old": "Let me die without living!",
+      "en": "May I die instead of living!",
+      "reason": "Tирүү жүрбөй өлөйүн continues the self-imprecating oath."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l010",
+      "old": "I will be a hero",
+      "en": "What use is my being a hero?",
+      "reason": "Баатыр болуп нетейин is rhetorical 'what shall I do being a hero?'"
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l012",
+      "old": "A great scandal broke out,",
+      "en": "Raising a great tumult and uproar,",
+      "reason": "Улуу жаңжал чуу салып is the speaker's threatened action, not a completed event."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l013",
+      "old": "Let me get to the bottom of you,",
+      "en": "I will bring you to your end,",
+      "reason": "Бир түбүңө жетейин is threatening to finish the addressee, not discover a secret."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l014",
+      "old": "You believe, Semetei,",
+      "en": "Semetey, in whom you put your trust,",
+      "reason": "Ишенгениң is 'the one you trust'; Semetey is the named referent."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l015",
+      "old": "If I don't press your head down,",
+      "en": "If I do not bring your head low,",
+      "reason": "Төбөңдү төмөн баспасам is first-person conditional."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l016",
+      "old": "It's a bad thing that hits you from the top,",
+      "en": "You ill-fated one struck from above,",
+      "reason": "Бейтаалай is ill-fated person; exact force of төбөңдөн тийген is figurative and uncertain."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l017",
+      "old": "If you don't give me four pieces,",
+      "en": "If I do not scatter your four kinds of livestock,",
+      "reason": "Төрт түлүк is the traditional four classes of livestock; first-person conditional retained."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l018",
+      "old": "Let me be a sarybai,",
+      "en": "What use is my being Sarybay?",
+      "reason": "Сарыбай is a proper name; болуп нетейин is rhetorical."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l019",
+      "old": "Until he was abused by his wife,",
+      "en": "Rather than suffer shame at a woman's hands,",
+      "reason": "Зайыптан is from a woman; көргүчө 'rather than suffer'."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l021",
+      "old": "I will fight without asking,",
+      "en": "I will wage war without asking leave,",
+      "reason": "Сурабай is without asking; согуш салайын is first-person resolve."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l022",
+      "old": "A silent murmur",
+      "en": "That swaggering wanton woman,",
+      "reason": "Шуркуя is an insulting term for a wayward or daring woman; сумсаңдаган suggests stealthy or swaggering movement, uncertain nuance."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l023",
+      "old": "If I don't get loot\" -",
+      "en": "If I do not take her as my captive,”",
+      "reason": "Олжо кылып албасам is take as spoil; closes the direct speech."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l024",
+      "old": "Saying, saying, Sarybay,",
+      "en": "So Sarybay spoke,",
+      "reason": "Деп marks the end of Sarybay's speech."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l025",
+      "old": "A lot of conflict is a big noise",
+      "en": "A great quarrel and mighty uproar",
+      "reason": "Арбын жаңжал улуу чуу denotes much strife and loud turmoil."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l026",
+      "old": "It's going away",
+      "en": "Were flaring higher and higher,",
+      "reason": "Түтөп кетип баратат literally smoldering or billowing as events develop."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l027",
+      "old": "Especially from the beginning",
+      "en": "Still more than before",
+      "reason": "Баштагыдан ансайын means all the more than earlier."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l028",
+      "old": "It is getting stronger.",
+      "en": "They were growing fiercer.",
+      "reason": "Күчөп кетип баратат is ongoing intensification."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l029",
+      "old": "Sarybay the moon and the universe,",
+      "en": "Sarybay seemed to overwhelm the whole world,",
+      "reason": "Ай-ааламды is the entire world; line 30 completes verb басып кетип баратат."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l030",
+      "old": "Walking away.",
+      "en": "Bearing down upon it.",
+      "reason": "Басып кетип баратат is press or trample onward, not simply walking away."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l031",
+      "old": "As in the beginning,",
+      "en": "His old quarrel",
+      "reason": "Баштагыдай чатагы refers to previous quarrel."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l032",
+      "old": "A world without a horse,",
+      "en": "Left no opening in the world,",
+      "reason": "Жылчыгы жок is without a gap or opening; possibly hyperbolic rather than literal."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l033",
+      "old": "It's running out.",
+      "en": "Closing it in on every side.",
+      "reason": "Бүтөп is to close or block, not run out."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l034",
+      "old": "Yellow as before,",
+      "en": "Sarybay, as before,",
+      "reason": "Сарыкең is familiar or affectionate form of Sarybay, not the color yellow."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l035",
+      "old": "It is getting stronger.",
+      "en": "Was growing still fiercer.",
+      "reason": "Күчөп кетип баратат is ongoing intensification."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l037",
+      "old": "Reasoning with guilt",
+      "en": "With a menacing roar,",
+      "reason": "Айбаттанып conveys becoming fearsome; акылдап may be roaring or bellowing here, uncertain."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l038",
+      "old": "Hungry scream,",
+      "en": "Raising a piercing cry,",
+      "reason": "Ач айкырык is a sharp, loud cry; not a hungry scream."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l039",
+      "old": "Screaming noise,",
+      "en": "Raising a shout of alarm,",
+      "reason": "Айгайлаган чуу is loud shouting and tumult."
+    },
+    {
+      "id": "seytek-2012:p0985:b002:l040",
+      "old": "Burnt pork,",
+      "en": "The swine had set his heart aflame,",
+      "reason": "Күйгүзгөнү чочконун appears to be an angry epithet and the effect of the woman's words; syntax remains uncertain."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l001",
+      "old": "You fought on the stone field,",
+      "en": "You fought on the stony field,",
+      "reason": "Таш майданда чабыштың addresses 'you', recollecting combat."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l002",
+      "old": "How many times did you knock,",
+      "en": "You clashed with me many times,",
+      "reason": "Далай нечен is many; кагыштың is 'you clashed'."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l003",
+      "old": "If I say, you turned the spear,",
+      "en": "When I thrust, you turned aside my spear,",
+      "reason": "Сайсам is 'when/if I thrust'; найза кайрыдың is 'you deflected the spear'."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l004",
+      "old": "You have a sad heart,",
+      "en": "You bitter, vengeful bitch,",
+      "reason": "Күйүтүң бар expresses a grievance or anguish; канчык is a direct insult, not a sad heart."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l005",
+      "old": "All the tails are gone,",
+      "en": "You left me without a single maned or tailed beast,",
+      "reason": "Жал-куйрук means mane and tail, likely referring figuratively to horses or livestock; referent uncertain."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l006",
+      "old": "You have categorized it.",
+      "en": "You inflicted that punishment on me.",
+      "reason": "Санат кылып is to punish or deal harshly, not to categorize."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l007",
+      "old": "I don't have a horn to swim,",
+      "en": "You left me no horn with which to butt,",
+      "reason": "Сүзөөрүмө is for my butting; мүйүз horn, not swim."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l008",
+      "old": "You threw it away,",
+      "en": "You left me hornless and defenseless,",
+      "reason": "Токол is hornless, figuratively helpless or without protection."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l009",
+      "old": "I don't have any fees,",
+      "en": "Only my wasted frame remains; I have no strength,",
+      "reason": "Сүлдөр is a gaunt frame or remnant; алым is my strength, not a fee."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l010",
+      "old": "You made a mess.",
+      "en": "You left me clumsy and broken.",
+      "reason": "Копол is awkward or ungainly; stronger 'broken' follows the preceding depletion but is interpretive."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l011",
+      "old": "If I don't fight without Ops,",
+      "en": "If I do not start a boundless quarrel,",
+      "reason": "Опсуз is excessive or beyond measure; first-person conditional."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l012",
+      "old": "If I don't make a loot letter.",
+      "en": "If I do not take you as a captive wife,",
+      "reason": "Олжо катын is woman taken as booty, not a letter."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l013",
+      "old": "I am a Sarybay hero,",
+      "en": "I am Sarybay the hero,",
+      "reason": "Retains name and self-identification, improves English article and phrasing."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l014",
+      "old": "If I don't regret it,",
+      "en": "If I do not take my revenge without relenting,",
+      "reason": "Conditional oath: койбой plus кегим албасам vows to persist in taking revenge; avoids reversing the condition."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l015",
+      "old": "Let me sink into the night without being born,",
+      "en": "May I perish as though never born,",
+      "reason": "Repeated self-imprecating oath."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l016",
+      "old": "Let me die without living.",
+      "en": "May I die instead of living.",
+      "reason": "Repeated self-imprecating oath."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l017",
+      "old": "Opsuz really fight,",
+      "en": "Fighting fiercely in earnest,",
+      "reason": "Опсуз conveys excessive or tremendous intensity; чындап means in earnest."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l018",
+      "old": "Standing upright,",
+      "en": "Grappling chest to chest,",
+      "reason": "Омуроолоп is to push with chest or shoulder, not merely stand upright."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l019",
+      "old": "If I don't fight without ops,",
+      "en": "If I do not wage a furious war,",
+      "reason": "Опсуз is excessive or extreme; first-person conditional."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l020",
+      "old": "If I don't make a loot letter.",
+      "en": "If I do not take you as a captive wife,",
+      "reason": "Олжо катын is woman taken as booty."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l021",
+      "old": "Let me sink into the night without being born,",
+      "en": "May I perish as though never born,",
+      "reason": "Repeated self-imprecating oath."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l022",
+      "old": "Let me die without living.",
+      "en": "May I die instead of living.",
+      "reason": "Repeated self-imprecating oath."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l023",
+      "old": "I am a Sarybay hero,",
+      "en": "I am Sarybay the hero,",
+      "reason": "Retains proper name and self-identification."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l024",
+      "old": "I'll throw a spear at you,",
+      "en": "I will aim and thrust my spear,",
+      "reason": "Тиктеп is to take aim; найза саяйын is to thrust or stab with a spear, not throw."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l025",
+      "old": "I'm really sorry.",
+      "en": "I will truly avenge myself.",
+      "reason": "Кегим алайын is take revenge, not apologize."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l026",
+      "old": "Let me get to the bottom of you,",
+      "en": "I will bring you to your end,",
+      "reason": "Бир түбүңө жетейин is an adversarial threat."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l027",
+      "old": "The soul will never come back to the true place,",
+      "en": "To that true place from which no soul returns,",
+      "reason": "Барган жан келбес чын жай is a euphemism for death or the grave."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l028",
+      "old": "If I don't go by myself.",
+      "en": "If I do not go there myself,",
+      "reason": "Басып өзүм кетпесем is first-person conditional on going there; preserve the threat/oath syntax."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l029",
+      "old": "The gift of all souls,",
+      "en": "The pass to which every soul must go,",
+      "reason": "Белес is a pass or ridge; барган every soul going, likely a death image."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l030",
+      "old": "If I don't go overboard.",
+      "en": "If I do not cross over it.",
+      "reason": "Ашып өтүп is crossing a pass, not going overboard."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l031",
+      "old": "Live and move without dying,",
+      "en": "Moving, alive, still undying,",
+      "reason": "Retains the sequence of life and movement with closer poetic diction."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l032",
+      "old": "pretending to be alive",
+      "en": "Huddling and saying, 'I am alive,'",
+      "reason": "Кымтынып is curling or drawing oneself in; not merely pretending."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l033",
+      "old": "Swallowing that I won't die",
+      "en": "Gulping and saying, 'I will not die,'",
+      "reason": "Жутунуп is gulping or swallowing; quoted thought retained."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l034",
+      "old": "I will inherit",
+      "en": "I will claim my inheritance,",
+      "reason": "Мураска жетейин is to attain an inheritance; the context and speaker's logic remain uncertain."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l035",
+      "old": "The letter he received from Oljo -",
+      "en": "A woman taken as booty, he said,",
+      "reason": "Олжодон алган катын is a woman taken as spoil; деп marks quoted speech, not a letter or a person named Oljo."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l036",
+      "old": "I'll take the booty.",
+      "en": "I will seize her as spoil.",
+      "reason": "Олжо кыла кетейин is to take as booty; feminine object supplied by preceding line."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l037",
+      "old": "Burning his heart without hope,",
+      "en": "He burned with unbearable anguish,",
+      "reason": "Опсуз intensifies; жанын күйгүзүп is burning the soul/heart; subject transition may be ambiguous."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l038",
+      "old": "Riding on a horse",
+      "en": "Setting someone upon a horse,",
+      "reason": "Мингизип is causative, putting someone on horseback; referent is unclear until the next page."
+    },
+    {
+      "id": "seytek-2012:p0985:b003:l039",
+      "old": "Burning his soul like this",
+      "en": "Thus his soul burned with pain,",
+      "reason": "Минтип жанын күйгүзүп repeats the burning-soul image; syntactic continuation on next page."
+    }
+  ]
+}

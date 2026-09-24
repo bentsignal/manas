@@ -1,0 +1,9 @@
+# Inventory 142, PDF page 114: independent second recount
+
+I inspected the unmarked image extracted from `sources/raw/manuscript-full-91-146/142.pdf`, one-based PDF page 114 (`page-113.jp2`, photographed folio **2429**), including overlapping top, middle, and bottom views. I then compared each visible writing baseline with `page-114-numbered-baselines.png`. This recount did not use the saved `page-114.reviewed.jsonl` row count or its proposed printed crosswalk.
+
+**Result: 54 physical verse baselines.** The topmost verse line sits below the folio number; it is a separate, partly gutter-obscured line ending approximately `… салышып.` The next phrase begins on its own lower baseline. At the foot, the pen lines marked 53 and 54 in the overlay are separate: line 53 begins approximately `Белин…` and line 54 approximately `Тептешип …`; the latter includes a `баары…`-like word toward the right. These readings are visual fragments, not certified transcriptions. All 54 overlay ticks correspond to distinct writing baselines in the unmarked image. I do not see an extra line between ticks or a tick that merely marks a descender or flourish.
+
+The right-margin numeral looks like **53**, so the photograph still has a one-line discrepancy between its annotation and the visible baseline count. It may have a different counting convention or be an erroneous tally; the image alone does not resolve why. The defensible physical inventory is 54 visible lines, with the annotation discrepancy recorded explicitly. Do not discard a visible baseline to force agreement with the numeral.
+
+The saved draft has **61 rows** and cannot be aligned to this leaf by row shifting: its claimed opening and closing text disagree with the photographed endpoints. This recount establishes line count only. A releaseable transcription still requires reading each of the 54 lines and checking each proposed printed counterpart directly.

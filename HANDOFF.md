@@ -48,23 +48,27 @@ No inventory-142 row was released, and the complete flag remains false.
 
 ### Printed Seytek reading-order audit
 
-The saved Seytek PDF extraction and local release put the right column before
-the left column on **667 pages / 53,339 release rows**. A further 22 pages /
-1,508 rows have mixed column geometry and need individual inspection. The
-rendered PDF and narrative joins confirm reversed reading order on pages 26,
-600, 744, and 985; page 104 is a left-first control. These figures come from
-`research/working/seytek-column-order-audit-2026-09-24.json`. They are a
-geometry inventory, not a claim that every affected page has had a full
-textual review. The English remains attached to stable source IDs. Page 985's
-left-to-right order has now been repaired **locally** through a reviewed
-source-order override and a 79-row release permutation; the other flagged
-pages remain in extraction order. The alignment checks use the override for
-page 985 but cannot yet detect the unreviewed page-order errors. Do not deploy
-this local checkpoint until the printed reading order is corrected and the
-22 mixed pages are resolved. The last verified public version predates this
-audit and may have the same sequence defect. A separate strict two-verse-block
-screen of 666 pages / 53,261 rows, with visual joins for pages 600 and 985,
-is at `research/working/seytek-column-order-samples-2026-09-24.md`.
+The original coordinate audit found the right column before the left on
+**667 pages / 53,339 release rows**, plus 22 mixed-geometry pages / 1,508
+rows. Printed pages and narrative joins verified errors at pages 26, 600,
+744, and 985. Page 104 is a left-first control. The original inventory is
+`research/working/seytek-column-order-audit-2026-09-24.json`; geometry is a
+screen, not a full textual review of every page. A stricter screen and
+examples are in `research/working/seytek-column-order-samples-2026-09-24.md`.
+
+Reviewed local corrections now put page 25's grouped drop cap and both
+columns, pages 26–28 and 30–35, pages 596–605, and page 985 in printed
+reading order. They permute **1,661 existing rows** while keeping English
+paired with stable source IDs; page 25's joined Kyrgyz display was also
+corrected. See the page 25, pages 26–35, and pages 596–605 notes in
+`research/working/`. The new coordinate inventory,
+`research/working/seytek-column-order-audit-2026-09-24-after-cohorts.json`,
+still flags **647 right-first pages / 51,740 rows** and **21 mixed pages /
+1,446 rows**. The alignment checks consume reviewed page-order overrides but
+cannot detect errors on pages still following the raw extraction order. Do
+not deploy this local checkpoint until those pages are reviewed and repaired.
+The last verified public version predates this audit and may have the same
+sequence defect.
 
 Local Cyrillic handwriting OCR trials for inventory 142 are recorded in
 `research/working/current142/OCR-BENCHMARK-2026-09-23.md`. Both the
@@ -152,9 +156,14 @@ transcription and realignment before any release. See
 PDF page 114 is folio **2429**. A numbered visual recount finds **54**
 separate baselines, one more than the handwritten margin 53 and seven fewer
 than the saved draft's 61 rows. The saved endpoint text disagrees with the
-photograph; a second recount and full diplomatic transcription are needed
-before using the apparent extra line or any printed crosswalk. See
-`research/working/current142/PAGE-114-BASELINE-2026-09-24.md`.
+photograph. An independent second image recount confirmed 54 visible baselines
+and left the margin discrepancy unexplained. A scan-only diplomatic first pass
+marks all 54 baselines but certifies no complete line; 27 lack any safely
+readable word. A stronger handwriting reading is needed before using any
+printed crosswalk. See
+`research/working/current142/PAGE-114-BASELINE-2026-09-24.md` and
+`research/working/current142/PAGE-114-SECOND-RECOUNT-2026-09-24.md` and
+`research/working/current142/PAGE-114-DIPLOMATIC-FIRST-PASS-2026-09-24.md`.
 An all-pairs SIFT candidate screen of PDF narrative pages 4–148 found this
 pair as the only strong photo match (281 geometric inliers; next highest 28).
 That screen is a lead for the visual audit, not a proof of no other duplicate.

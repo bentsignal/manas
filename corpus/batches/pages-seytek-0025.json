@@ -6,6 +6,36 @@
   "english": "corpus/batches/pages-seytek-0025.en.txt",
   "source_ids": [
     "seytek-2012:p0025:b003:l001",
+    "seytek-2012:p0025:b005:l002",
+    "seytek-2012:p0025:b005:l003",
+    "seytek-2012:p0025:b005:l004",
+    "seytek-2012:p0025:b005:l005",
+    "seytek-2012:p0025:b005:l006",
+    "seytek-2012:p0025:b005:l007",
+    "seytek-2012:p0025:b005:l008",
+    "seytek-2012:p0025:b005:l009",
+    "seytek-2012:p0025:b005:l010",
+    "seytek-2012:p0025:b005:l011",
+    "seytek-2012:p0025:b005:l012",
+    "seytek-2012:p0025:b005:l013",
+    "seytek-2012:p0025:b005:l014",
+    "seytek-2012:p0025:b005:l015",
+    "seytek-2012:p0025:b005:l016",
+    "seytek-2012:p0025:b005:l017",
+    "seytek-2012:p0025:b005:l018",
+    "seytek-2012:p0025:b005:l019",
+    "seytek-2012:p0025:b005:l020",
+    "seytek-2012:p0025:b005:l021",
+    "seytek-2012:p0025:b005:l022",
+    "seytek-2012:p0025:b005:l023",
+    "seytek-2012:p0025:b005:l024",
+    "seytek-2012:p0025:b005:l025",
+    "seytek-2012:p0025:b005:l026",
+    "seytek-2012:p0025:b005:l027",
+    "seytek-2012:p0025:b005:l028",
+    "seytek-2012:p0025:b005:l029",
+    "seytek-2012:p0025:b005:l030",
+    "seytek-2012:p0025:b005:l031",
     "seytek-2012:p0025:b004:l001",
     "seytek-2012:p0025:b004:l002",
     "seytek-2012:p0025:b004:l003",
@@ -36,37 +66,7 @@
     "seytek-2012:p0025:b004:l028",
     "seytek-2012:p0025:b004:l029",
     "seytek-2012:p0025:b004:l030",
-    "seytek-2012:p0025:b004:l031",
-    "seytek-2012:p0025:b005:l002",
-    "seytek-2012:p0025:b005:l003",
-    "seytek-2012:p0025:b005:l004",
-    "seytek-2012:p0025:b005:l005",
-    "seytek-2012:p0025:b005:l006",
-    "seytek-2012:p0025:b005:l007",
-    "seytek-2012:p0025:b005:l008",
-    "seytek-2012:p0025:b005:l009",
-    "seytek-2012:p0025:b005:l010",
-    "seytek-2012:p0025:b005:l011",
-    "seytek-2012:p0025:b005:l012",
-    "seytek-2012:p0025:b005:l013",
-    "seytek-2012:p0025:b005:l014",
-    "seytek-2012:p0025:b005:l015",
-    "seytek-2012:p0025:b005:l016",
-    "seytek-2012:p0025:b005:l017",
-    "seytek-2012:p0025:b005:l018",
-    "seytek-2012:p0025:b005:l019",
-    "seytek-2012:p0025:b005:l020",
-    "seytek-2012:p0025:b005:l021",
-    "seytek-2012:p0025:b005:l022",
-    "seytek-2012:p0025:b005:l023",
-    "seytek-2012:p0025:b005:l024",
-    "seytek-2012:p0025:b005:l025",
-    "seytek-2012:p0025:b005:l026",
-    "seytek-2012:p0025:b005:l027",
-    "seytek-2012:p0025:b005:l028",
-    "seytek-2012:p0025:b005:l029",
-    "seytek-2012:p0025:b005:l030",
-    "seytek-2012:p0025:b005:l031"
+    "seytek-2012:p0025:b004:l031"
   ],
   "source_groups": {
     "seytek-2012:p0025:b003:l001": [
@@ -88,7 +88,7 @@
     {
       "id": "seytek-2012:p0025:b006:l001",
       "kind": "heading",
-      "reason": "Printed footnote or cross-reference marker, not narrative verse."
+      "reason": "Printer signature 4 – 911, not narrative verse."
     },
     {
       "id": "seytek-2012:p0025:b007:l001",
@@ -97,7 +97,7 @@
     }
   ],
   "notes": {
-    "seytek-2012:p0025:b003:l001": "Heroic epithets, mourning and ritual formulas, kinship terms, supernatural imagery, culturally specific titles, and several elliptical constructions are context-sensitive; line-preserving best-effort draft without independent specialist review."
+    "seytek-2012:p0025:b003:l001": "Printed page 25 visually joins the ornate drop cap А to ны мындай таштайлы, without a space; see research/working/seytek-order-page-0025-2026-09-24.md. Other heroic diction remains a best-effort draft without independent specialist review."
   },
   "transcription_check": {
     "method": "visual-pdf-comparison",
@@ -106,7 +106,12 @@
     "pdf_pages": [
       25
     ],
-    "details": "Rendered Seytek 2012 PDF page 25 at 1200-pixel scale and visually checked all narrative columns, reading order, headings, running furniture, and any cross-reference marker. All 62 translated narrative positions are included; only nonverse matter is excluded. No independent manuscript collation."
+    "details": "Printed page 25 visually reviewed on 2026-09-24: grouped drop-cap row, then left block 5, then right block 4; 62 verse rows from 63 source segments. See research/working/seytek-order-page-0025-2026-09-24.md."
   },
-  "after_id": "semetey-2-2013:p1418:b004:l035"
+  "after_id": "semetey-2-2013:p1418:b004:l035",
+  "source_joiners": {
+    "seytek-2012:p0025:b003:l001": [
+      ""
+    ]
+  }
 }

@@ -72,19 +72,24 @@ def main():
         category_released[category] += len(present)
 
     samples = [
-        {"page": 26, "geometry_pattern": "RL", "finding": "verified right-before-left narrative-order error",
-         "visual_anchor": "PDF left begins Ал жанында жөкөрү*; right begins Коктудан туман табылат,; batch begins right.",
+        {"page": 26, "original_geometry_pattern": "RL", "finding": "original extraction was right-before-left",
+         "visual_anchor": "PDF left begins Ал жанында жөкөрү*; right begins Коктудан туман табылат,; original extraction begins right.",
          "continuity_anchor": "Page 25 right ends Эр Кыяздын койнуна; page 26 left begins Ал жанында жөкөрү*."},
-        {"page": 104, "geometry_pattern": "LR", "finding": "verified left-before-right control",
+        {"page": 104, "original_geometry_pattern": "LR", "finding": "verified left-before-right control",
          "visual_anchor": "PDF and batch both begin on left with Көңүлү кетти бөлүнүп,; right begins Толтура сөйкө таш кайрат.",
          "continuity_anchor": "Page 103 right ends Ак ордого киргенде; page 104 left begins Көңүлү кетти бөлүнүп,."},
-        {"page": 744, "geometry_pattern": "RL", "finding": "verified right-before-left narrative-order error",
+        {"page": 744, "original_geometry_pattern": "RL", "finding": "original extraction is right-before-left",
          "visual_anchor": "PDF left begins Семетей уулу эр Сейтек,; right begins Жадааланган доңузуң; batch begins right.",
          "continuity_anchor": "Page 743 right ends Алманбет уулу Күлчоро,; page 744 left begins Семетей уулу эр Сейтек,."},
-        {"page": 985, "geometry_pattern": "RL", "finding": "verified right-before-left narrative-order error",
-         "visual_anchor": "PDF left begins Таш майданда чабыштың,; right begins Сынчыларга каратып,; batch begins right.",
+        {"page": 985, "original_geometry_pattern": "RL", "finding": "original extraction was right-before-left",
+         "visual_anchor": "PDF left begins Таш майданда чабыштың,; right begins Сынчыларга каратып,; original extraction begins right.",
          "continuity_anchor": "Page 985 left ends Минтип жанын күйгүзүп,; its right begins Сынчыларга каратып,."},
     ]
+    current_by_page = {item['page']: item for item in pages}
+    for sample in samples:
+        current = current_by_page[sample['page']]
+        sample['current_batch_pattern'] = current['column_transition_pattern']
+        sample['current_release_matches_batch'] = current.get('release_order_matches_batch', True)
     report = {
         "source_pdf": "sources/raw/seytek-2012.pdf",
         "extraction": str(EXTRACTION.relative_to(ROOT)),

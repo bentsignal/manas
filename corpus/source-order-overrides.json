@@ -1,8 +1,152 @@
 {
   "seytek-2012": {
     "985": {
-      "blocks": [3, 2],
+      "blocks": [
+        3,
+        2
+      ],
       "evidence": "Printed Seytek 2012 PDF page 985: block 3 is the left column and block 2 the right column. The left-to-right joins are confirmed with printed pages 984 and 986; see research/working/seytek985-order-fix-plan-2026-09-24.md."
+    },
+    "596": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "597": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "598": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "599": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "600": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "601": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "602": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "603": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "604": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "605": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0596-0605-2026-09-24.md."
+    },
+    "26": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "27": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "28": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "30": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "31": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "32": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "33": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "34": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "35": {
+      "blocks": [
+        3,
+        2
+      ],
+      "evidence": "Printed left/right columns and neighboring joins reviewed in research/working/seytek-order-pages-0026-0035-2026-09-24.md."
+    },
+    "25": {
+      "blocks": [
+        3,
+        5,
+        4
+      ],
+      "evidence": "Printed section-opening page 25: grouped drop cap and left block 5 precede right block 4; see research/working/seytek-order-page-0025-2026-09-24.md."
     }
   }
 }

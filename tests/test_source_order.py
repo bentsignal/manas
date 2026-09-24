@@ -11,6 +11,45 @@ from source_order import ordered_source_rows
 
 
 class SourceOrderTests(unittest.TestCase):
+    def test_page_25_drop_cap_and_page_26_anchor(self):
+        page = json.loads((ROOT / 'corpus/batches/pages-seytek-0025.json').read_text())
+        representative = 'seytek-2012:p0025:b003:l001'
+        self.assertEqual(page['source_joiners'][representative], [''])
+        self.assertEqual(page['source_groups'][representative][-1],
+                         'seytek-2012:p0025:b005:l001')
+        release = [json.loads(line) for line in read_release(ROOT).splitlines()]
+        row = next(row for row in release if row['id'] == representative)
+        self.assertEqual(row['ky'], 'Аны мындай таштайлы,')
+        self.assertEqual(row['source']['joiners'], [''])
+        next_page = json.loads((ROOT / 'corpus/batches/pages-seytek-0026.json').read_text())
+        self.assertEqual(next_page['after_id'], 'seytek-2012:p0025:b004:l031')
+
+    def test_all_reviewed_pages_match_batch_release_and_extraction_order(self):
+        overrides = json.loads((ROOT / 'corpus/source-order-overrides.json').read_text())['seytek-2012']
+        with (ROOT / 'sources/extracted/seytek-2012.lines.jsonl').open() as stream:
+            extracted = [json.loads(line) for line in stream]
+        ordered = ordered_source_rows(ROOT, extracted)
+        extraction_by_page = {}
+        for row in ordered:
+            extraction_by_page.setdefault(row['page'], []).append(row['id'])
+        release = [json.loads(line) for line in read_release(ROOT).splitlines()]
+        release_by_page = {}
+        for row in release:
+            if row['source_id'] == 'seytek-2012':
+                release_by_page.setdefault(row['source']['page'], []).append(row)
+        for page_key, override in overrides.items():
+            page = int(page_key)
+            self.assertEqual(override['blocks'], [3, 5, 4] if page == 25 else [3, 2])
+            batch = json.loads((ROOT / f'corpus/batches/pages-seytek-{page:04}.json').read_text())
+            ids = batch['source_ids']
+            english = (ROOT / batch['english']).read_text().splitlines()
+            self.assertEqual([sid for sid in extraction_by_page[page] if sid in set(ids)], ids)
+            self.assertEqual([row['id'] for row in release_by_page[page]], ids)
+            self.assertEqual([row['en'] for row in release_by_page[page]], english)
+            self.assertEqual([row['ordinal'] for row in release_by_page[page]],
+                             list(range(release_by_page[page][0]['ordinal'],
+                                        release_by_page[page][0]['ordinal'] + len(ids))))
+
     def test_page_985_source_batch_and_release_keep_identical_id_english_pairs(self):
         batch = json.loads((ROOT / 'corpus/batches/pages-seytek-0985.json').read_text())
         english = (ROOT / batch['english']).read_text().splitlines()

@@ -2,6 +2,7 @@
 """Check the released prefix against source display lines, not the reported corpus total."""
 from release_store import read_release
 from source_evidence import verify_source_evidence, verify_gap_segment
+from source_order import ordered_source_rows
 import json
 from collections import defaultdict
 from pathlib import Path
@@ -35,7 +36,8 @@ for row in rows:
 covered = omitted = damaged = withheld = 0
 for source_id, published in by_source.items():
     assert len(set(published)) == len(published), 'Source display line repeated'
-    raw = [json.loads(l) for l in (root/f'sources/extracted/{source_id}.lines.jsonl').open()]
+    raw = ordered_source_rows(root, [json.loads(l) for l in
+        (root/f'sources/extracted/{source_id}.lines.jsonl').open()])
     extracted = {r['id']:r for r in raw}
     for row in rows:
         if row['source_id'] == source_id:

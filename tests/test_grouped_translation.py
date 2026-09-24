@@ -95,7 +95,7 @@ class GroupedTranslationTests(unittest.TestCase):
     def prepare_cli(self, root):
         (root / 'scripts').mkdir()
         for name in ['append-translation.py', 'audit-drafts.py', 'check-alignment.py',
-                     'source_evidence.py', 'extract.py', 'release_store.py']:
+                     'source_evidence.py', 'source_order.py', 'extract.py', 'release_store.py']:
             shutil.copy(SCRIPTS / name, root / 'scripts' / name)
         (root / 'sources/extracted').mkdir(parents=True)
         (root / self.batch['extraction']).write_text(''.join(json.dumps(r) + '\n' for r in self.rows))

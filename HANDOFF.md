@@ -52,15 +52,19 @@ The saved Seytek PDF extraction and local release put the right column before
 the left column on **667 pages / 53,339 release rows**. A further 22 pages /
 1,508 rows have mixed column geometry and need individual inspection. The
 rendered PDF and narrative joins confirm reversed reading order on pages 26,
-744, and 985; page 104 is a left-first control. These figures come from
+600, 744, and 985; page 104 is a left-first control. These figures come from
 `research/working/seytek-column-order-audit-2026-09-24.json`. They are a
 geometry inventory, not a claim that every affected page has had a full
-textual review. The English remains attached to stable source IDs, but the
-display sequence on confirmed pages is wrong. The current automated alignment
-checks compare against the same extraction order and therefore cannot detect
-this error. Do not deploy this local checkpoint until the printed reading
-order is corrected and the 22 mixed pages are resolved. The last verified
-public version predates this audit and may have the same sequence defect.
+textual review. The English remains attached to stable source IDs. Page 985's
+left-to-right order has now been repaired **locally** through a reviewed
+source-order override and a 79-row release permutation; the other flagged
+pages remain in extraction order. The alignment checks use the override for
+page 985 but cannot yet detect the unreviewed page-order errors. Do not deploy
+this local checkpoint until the printed reading order is corrected and the
+22 mixed pages are resolved. The last verified public version predates this
+audit and may have the same sequence defect. A separate strict two-verse-block
+screen of 666 pages / 53,261 rows, with visual joins for pages 600 and 985,
+is at `research/working/seytek-column-order-samples-2026-09-24.md`.
 
 Local Cyrillic handwriting OCR trials for inventory 142 are recorded in
 `research/working/current142/OCR-BENCHMARK-2026-09-23.md`. Both the

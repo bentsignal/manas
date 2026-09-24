@@ -6,6 +6,7 @@ from pathlib import Path
 
 from release_store import read_release, write_release
 from source_evidence import build_source_evidence, descriptor_groups
+from source_order import ordered_source_rows
 
 
 parser = argparse.ArgumentParser()
@@ -29,8 +30,9 @@ for batch_path in args.batch:
     requested = set(contributing_ids)
     extracted = {}
     extraction_order = {}
-    for index, line in enumerate((root / batch["extraction"]).open()):
-        row = json.loads(line)
+    extracted_rows = ordered_source_rows(root, [json.loads(line) for line in
+        (root / batch["extraction"]).open()])
+    for index, row in enumerate(extracted_rows):
         extraction_order[row["id"]] = index
         if row["id"] in requested:
             assert row["id"] not in extracted, f"{batch_path}: repeated extracted source fragment"

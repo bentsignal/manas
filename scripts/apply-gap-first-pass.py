@@ -14,6 +14,7 @@ from pathlib import Path
 
 from release_store import read_release, write_release
 from source_evidence import build_source_evidence, descriptor_groups
+from source_order import ordered_source_rows
 
 
 parser = argparse.ArgumentParser()
@@ -84,8 +85,8 @@ for batch_path in sorted((root / "corpus/batches").glob("*.json")):
     if extraction_path not in extraction_cache:
         extraction_order = {}
         resolved_extracted = {}
-        for index, line in enumerate(extraction_path.open()):
-            extracted_row = json.loads(line)
+        extracted_rows = ordered_source_rows(root, [json.loads(line) for line in extraction_path.open()])
+        for index, extracted_row in enumerate(extracted_rows):
             extraction_order[extracted_row["id"]] = index
             if extracted_row["id"] in resolved_ids:
                 resolved_extracted[extracted_row["id"]] = extracted_row

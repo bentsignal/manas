@@ -6,6 +6,7 @@ Overlapping prefix descriptors must have identical English for shared source IDs
 """
 from release_store import iter_release
 from source_evidence import descriptor_groups, build_source_evidence
+from source_order import ordered_source_rows
 import argparse
 import json
 import re
@@ -27,7 +28,8 @@ for path in sorted((root/'corpus/batches').glob('pages-*.json')):
     b = json.loads(path.read_text())
     extraction = b['extraction']
     if extraction not in sources:
-        sources[extraction] = [json.loads(s) for s in (root/extraction).read_text().splitlines()]
+        sources[extraction] = ordered_source_rows(root, [json.loads(s) for s in
+            (root/extraction).read_text().splitlines()])
     english = (root/b['english']).read_text().splitlines()
     ids = b['source_ids']
     groups, joiners = descriptor_groups(b)
